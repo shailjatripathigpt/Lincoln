@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
 """
 app.py - Abraham Lincoln AI Assistant (Fine-tuned + RAG)
-FIXED:
-✅ Loads RAG from rag_pipeline.py
-✅ Auto-loads FAISS index files
-✅ Parses rag_pipeline.py output correctly (dict -> answer + retrieved_documents)
-✅ Displays sources properly
+Streamlit Cloud Safe Version
 """
 
 import streamlit as st
@@ -16,9 +12,17 @@ import time
 from datetime import datetime
 import traceback
 
+# =====================================================
+# STREAMLIT CLOUD COMPATIBILITY SETTINGS
+# =====================================================
+
+# Set environment variables to optimize for Streamlit Cloud
+os.environ['TOKENIZERS_PARALLELISM'] = 'false'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Reduce TensorFlow logging
+
 # Add current directory to path
 current_dir = Path(__file__).parent
-sys.path.append(str(current_dir))
+sys.path.insert(0, str(current_dir))
 
 # =====================================================
 # PAGE CONFIGURATION
@@ -125,77 +129,116 @@ def load_css():
         color: #f44336;
         font-weight: bold;
     }
+    
+    /* Streamlit Cloud specific optimizations */
+    .stButton > button {
+        width: 100%;
+    }
     </style>
     """, unsafe_allow_html=True)
 
 # =====================================================
-# MODEL LOADING
+# MODEL LOADING (STREAMLIT CLOUD SAFE)
 # =====================================================
 
 def load_finetuned_model_simple():
-    """Simplified fine-tuned model loading"""
+    """Simplified fine-tuned model loading with Streamlit Cloud compatibility"""
     try:
-        from chat_lora import LincolnChatSystem
-        chat_system = LincolnChatSystem()
+        # Try to import with error handling
+        try:
+            from chat_lora import LincolnChatSystem
+        except ImportError as e:
+            st.sidebar.error(f"❌ Could not import chat_lora: {str(e)}")
+            return None
+        
+        # Initialize with minimal memory footprint
+        try:
+            chat_system = LincolnChatSystem()
+            
+            # Try to load models if method exists
+            if hasattr(chat_system, "load_models"):
+                with st.spinner("Loading model components..."):
+                    success = chat_system.load_models()
+            else:
+                success = True
 
-        # Load models if method exists
-        if hasattr(chat_system, "load_models"):
-            success = chat_system.load_models()
-        else:
-            success = True
-
-        if success:
-            st.sidebar.success("✅ Fine-tuned model loaded!")
-            return chat_system
-
-        st.sidebar.error("❌ Failed to load fine-tuned model")
-        return None
+            if success:
+                return chat_system
+            else:
+                st.sidebar.error("❌ Model loading failed")
+                return None
+                
+        except Exception as e:
+            st.sidebar.error(f"❌ Model initialization error: {str(e)}")
+            # Provide fallback or simplified version
+            return None
 
     except Exception as e:
         st.sidebar.error(f"❌ Fine-tuned model error: {str(e)}")
-        st.sidebar.error(traceback.format_exc())
         return None
 
 
 def load_rag_system_simple():
     """
-    Load RAG system from rag_pipeline.py
-    and auto-load FAISS index files.
+    Load RAG system from rag_pipeline.py with Streamlit Cloud compatibility
     """
     try:
-        from rag_pipeline import LincolnRAGSystem
+        # Try to import
+        try:
+            from rag_pipeline import LincolnRAGSystem
+        except ImportError as e:
+            st.sidebar.error(f"❌ Could not import rag_pipeline: {str(e)}")
+            return None
+        
+        # Initialize
+        try:
+            rag_system = LincolnRAGSystem()
+            st.sidebar.info("📚 Loaded LincolnRAGSystem from rag_pipeline.py")
 
-        rag_system = LincolnRAGSystem()
-        st.sidebar.info("📚 Loaded LincolnRAGSystem from rag_pipeline.py")
-
-        # ---- AUTO LOAD INDEX ----
-        # Same logic as rag_pipeline.py main section
-        this_file_dir = os.path.dirname(os.path.abspath(__file__))
-        project_root = os.path.dirname(this_file_dir)
-
-        output_dir = os.path.join(project_root, "llm_integration", "outputs", "rag_results")
-
-        index_file = os.path.join(output_dir, "faiss_index.bin")
-        meta_file = os.path.join(output_dir, "documents_metadata.json")
-
-        if os.path.exists(index_file) and os.path.exists(meta_file):
-            loaded = rag_system._load_index(output_dir)
-            if loaded:
-                st.sidebar.success("✅ FAISS index loaded successfully!")
-            else:
-                st.sidebar.error("❌ Index files found but failed to load index.")
-        else:
-            st.sidebar.error("❌ FAISS index not found!")
-            st.sidebar.write("Expected:")
-            st.sidebar.write(f"- {index_file}")
-            st.sidebar.write(f"- {meta_file}")
-            st.sidebar.warning("⚠️ Run `python rag_pipeline.py` once to generate the index.")
-
-        return rag_system
+            # For Streamlit Cloud, look for index in expected locations
+            index_found = False
+            
+            # Check multiple possible locations
+            possible_paths = [
+                os.path.join(current_dir, "faiss_index.bin"),
+                os.path.join(current_dir, "data", "faiss_index.bin"),
+                os.path.join(current_dir, "rag_index", "faiss_index.bin"),
+                os.path.join(current_dir.parent, "outputs", "rag_results", "faiss_index.bin"),
+                "/tmp/faiss_index.bin"  # Fallback location
+            ]
+            
+            for index_path in possible_paths:
+                meta_path = index_path.replace("faiss_index.bin", "documents_metadata.json")
+                if os.path.exists(index_path) and os.path.exists(meta_path):
+                    # Try to load index
+                    try:
+                        # Check if _load_index method exists
+                        if hasattr(rag_system, '_load_index'):
+                            loaded = rag_system._load_index(os.path.dirname(index_path))
+                            if loaded:
+                                st.sidebar.success(f"✅ FAISS index loaded from: {index_path}")
+                                index_found = True
+                                break
+                    except Exception as e:
+                        st.sidebar.warning(f"⚠️ Could not load index from {index_path}: {str(e)}")
+            
+            if not index_found:
+                st.sidebar.warning("""
+                ⚠️ FAISS index not found. RAG will run without document retrieval.
+                To enable document search, place faiss_index.bin and documents_metadata.json in:
+                - /app/ (root directory) OR
+                - /app/data/ OR
+                - /app/rag_index/
+                """)
+                
+            return rag_system
+            
+        except Exception as e:
+            st.sidebar.error(f"❌ RAG system initialization error: {str(e)}")
+            return None
 
     except Exception as e:
         st.sidebar.error(f"❌ RAG loading error: {str(e)}")
-        st.sidebar.error(traceback.format_exc())
         return None
 
 # =====================================================
@@ -211,8 +254,7 @@ def init_session_state():
         "chat_history_finetuned": [],
         "chat_history_rag": [],
         "current_tab": "Fine-tuned Lincoln",
-        "loading_finetuned": False,
-        "loading_rag": False,
+        "models_initialized": False,
     }
 
     for k, v in defaults.items():
@@ -220,46 +262,7 @@ def init_session_state():
             st.session_state[k] = v
 
 # =====================================================
-# LOAD WITH FEEDBACK
-# =====================================================
-
-def load_finetuned_model_with_feedback():
-    if st.session_state.finetuned_loaded:
-        return st.session_state.finetuned_model
-
-    st.session_state.loading_finetuned = True
-    placeholder = st.sidebar.empty()
-    placeholder.info("🎩 Loading fine-tuned model...")
-
-    model = load_finetuned_model_simple()
-
-    st.session_state.finetuned_model = model
-    st.session_state.finetuned_loaded = model is not None
-    st.session_state.loading_finetuned = False
-
-    placeholder.empty()
-    return model
-
-
-def load_rag_system_with_feedback():
-    if st.session_state.rag_loaded:
-        return st.session_state.rag_system
-
-    st.session_state.loading_rag = True
-    placeholder = st.sidebar.empty()
-    placeholder.info("📚 Loading RAG system...")
-
-    rag = load_rag_system_simple()
-
-    st.session_state.rag_system = rag
-    st.session_state.rag_loaded = rag is not None
-    st.session_state.loading_rag = False
-
-    placeholder.empty()
-    return rag
-
-# =====================================================
-# RESPONSE GENERATION
+# RESPONSE GENERATION (WITH ERROR HANDLING)
 # =====================================================
 
 def generate_finetuned_response(prompt: str):
@@ -267,44 +270,44 @@ def generate_finetuned_response(prompt: str):
         return "❌ Fine-tuned model not loaded. Please load it from sidebar."
 
     try:
-        response, model_used, analysis = st.session_state.finetuned_model.chat(prompt)
-        return response
+        # Check if chat method exists
+        if hasattr(st.session_state.finetuned_model, "chat"):
+            response, model_used, analysis = st.session_state.finetuned_model.chat(prompt)
+            return response
+        else:
+            return "❌ Model does not have a chat method."
     except Exception as e:
-        return f"❌ Fine-tuned response error: {str(e)}"
+        return f"❌ Error generating response: {str(e)}"
 
 
 def generate_rag_response(prompt: str):
-    """
-    FIXED: rag_pipeline.py returns dict like:
-    {
-      "query": "...",
-      "answer": "...",
-      "retrieved_documents": [...]
-    }
-    """
     if not st.session_state.rag_loaded:
         return "❌ RAG system not loaded. Please load it from sidebar.", []
 
     try:
         rag_system = st.session_state.rag_system
-
-        result = rag_system.query(prompt, k=5, save_to_storage=False)
+        
+        # Check if query method exists
+        if not hasattr(rag_system, "query"):
+            return "❌ RAG system does not have query method.", []
+        
+        # Call query method with safe parameters
+        result = rag_system.query(prompt, k=3, save_to_storage=False)
 
         if isinstance(result, dict):
-            if "error" in result:
-                return f"❌ RAG Error: {result['error']}", []
-
             answer = result.get("answer", "No answer generated.")
             sources = result.get("retrieved_documents", [])
             return answer, sources
-
-        return str(result), []
+        elif isinstance(result, str):
+            return result, []
+        else:
+            return str(result), []
 
     except Exception as e:
-        return f"❌ RAG response error: {str(e)}", []
+        return f"❌ RAG query error: {str(e)}", []
 
 # =====================================================
-# UI COMPONENTS
+# UI COMPONENTS (OPTIMIZED FOR STREAMLIT CLOUD)
 # =====================================================
 
 def render_finetuned_chat():
@@ -350,23 +353,27 @@ def render_finetuned_chat():
 
     with col2:
         st.markdown("<br>", unsafe_allow_html=True)
-        if st.button("**Send**", use_container_width=True, key="send_finetuned"):
-            if user_input and user_input.strip():
-                st.session_state.chat_history_finetuned.append({
-                    "role": "user",
-                    "content": user_input.strip(),
-                    "timestamp": datetime.now().isoformat()
-                })
+        send_button = st.button("**Send**", use_container_width=True, key="send_finetuned")
+        
+        if send_button and user_input and user_input.strip():
+            # Add user message
+            st.session_state.chat_history_finetuned.append({
+                "role": "user",
+                "content": user_input.strip(),
+                "timestamp": datetime.now().isoformat()
+            })
 
-                with st.spinner("🎩 President Lincoln is thinking..."):
-                    response = generate_finetuned_response(user_input.strip())
+            # Generate response
+            with st.spinner("🎩 President Lincoln is thinking..."):
+                response = generate_finetuned_response(user_input.strip())
 
-                st.session_state.chat_history_finetuned.append({
-                    "role": "assistant",
-                    "response": response,
-                    "timestamp": datetime.now().isoformat()
-                })
-                st.rerun()
+            # Add assistant response
+            st.session_state.chat_history_finetuned.append({
+                "role": "assistant",
+                "response": response,
+                "timestamp": datetime.now().isoformat()
+            })
+            st.rerun()
 
 
 def render_rag_chat():
@@ -414,7 +421,7 @@ def render_rag_chat():
                             st.markdown(f"### 📄 {source_name}")
                             if sim is not None:
                                 st.caption(f"Similarity: {sim:.4f}")
-                            st.text(source_text[:600] + ("..." if len(source_text) > 600 else ""))
+                            st.text(source_text[:500] + ("..." if len(source_text) > 500 else ""))
                             st.markdown("---")
 
     # Input
@@ -431,38 +438,42 @@ def render_rag_chat():
 
     with col2:
         st.markdown("<br>", unsafe_allow_html=True)
-        if st.button("**Send**", use_container_width=True, key="send_rag"):
-            if user_input and user_input.strip():
-                st.session_state.chat_history_rag.append({
-                    "role": "user",
-                    "content": user_input.strip(),
-                    "timestamp": datetime.now().isoformat()
-                })
+        send_button = st.button("**Send**", use_container_width=True, key="send_rag")
+        
+        if send_button and user_input and user_input.strip():
+            # Add user message
+            st.session_state.chat_history_rag.append({
+                "role": "user",
+                "content": user_input.strip(),
+                "timestamp": datetime.now().isoformat()
+            })
 
-                with st.spinner("📚 Searching documents..."):
-                    response, sources = generate_rag_response(user_input.strip())
+            # Generate response
+            with st.spinner("📚 Searching documents..."):
+                response, sources = generate_rag_response(user_input.strip())
 
-                st.session_state.chat_history_rag.append({
-                    "role": "assistant",
-                    "response": response,
-                    "sources": sources,
-                    "timestamp": datetime.now().isoformat()
-                })
-                st.rerun()
+            # Add assistant response
+            st.session_state.chat_history_rag.append({
+                "role": "assistant",
+                "response": response,
+                "sources": sources,
+                "timestamp": datetime.now().isoformat()
+            })
+            st.rerun()
 
 # =====================================================
-# SIDEBAR
+# SIDEBAR (STREAMLIT CLOUD OPTIMIZED)
 # =====================================================
 
 def render_sidebar():
     with st.sidebar:
         st.markdown("## ⚙️ Model Management")
-
+        
         st.markdown("<div class='model-card'>", unsafe_allow_html=True)
         st.markdown("### 🚀 Load Models")
 
         col1, col2 = st.columns(2)
-
+        
         with col1:
             if st.button(
                 "🎩 Load Fine-tuned",
@@ -471,7 +482,13 @@ def render_sidebar():
                 key="load_finetuned_main",
             ):
                 with st.spinner("Loading fine-tuned model..."):
-                    load_finetuned_model_with_feedback()
+                    model = load_finetuned_model_simple()
+                    if model:
+                        st.session_state.finetuned_model = model
+                        st.session_state.finetuned_loaded = True
+                        st.success("✅ Fine-tuned model loaded!")
+                    else:
+                        st.error("❌ Failed to load fine-tuned model")
                 st.rerun()
 
         with col2:
@@ -482,7 +499,13 @@ def render_sidebar():
                 key="load_rag_main",
             ):
                 with st.spinner("Loading RAG system..."):
-                    load_rag_system_with_feedback()
+                    rag = load_rag_system_simple()
+                    if rag:
+                        st.session_state.rag_system = rag
+                        st.session_state.rag_loaded = True
+                        st.success("✅ RAG system loaded!")
+                    else:
+                        st.error("❌ Failed to load RAG system")
                 st.rerun()
 
         st.markdown("</div>", unsafe_allow_html=True)
@@ -514,13 +537,24 @@ def render_sidebar():
                 st.session_state.chat_history_rag = []
             st.rerun()
 
-        if st.button("🔄 Reload All Models", use_container_width=True):
+        if st.button("🔄 Reset All Models", use_container_width=True):
             st.session_state.finetuned_model = None
             st.session_state.rag_system = None
             st.session_state.finetuned_loaded = False
             st.session_state.rag_loaded = False
+            st.success("✅ Models reset. Reload to use again.")
             st.rerun()
 
+        st.markdown("</div>", unsafe_allow_html=True)
+        
+        # Streamlit Cloud Info
+        st.markdown("<div class='model-card'>", unsafe_allow_html=True)
+        st.markdown("### ☁️ Streamlit Cloud Info")
+        st.markdown("""
+        - **Memory**: Models load on-demand
+        - **Storage**: Check for FAISS index files
+        - **Performance**: Responses may be slower
+        """)
         st.markdown("</div>", unsafe_allow_html=True)
 
 # =====================================================
@@ -535,6 +569,7 @@ def main():
     <div class="lincoln-header">
         <h1>🏛️ Abraham Lincoln AI Assistant</h1>
         <p>Two Approaches: Fine-tuned Conversation & Document-Based Research</p>
+        <p><small>Streamlit Cloud Compatible Version</small></p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -554,6 +589,7 @@ def main():
     st.markdown("""
     <div style="text-align: center; color: #666; font-size: 0.9rem; padding: 2rem 0;">
         <p><strong>Abraham Lincoln AI Assistant</strong> • Historical AI Research Project</p>
+        <p><small>Deployed on Streamlit Cloud • Models load on-demand</small></p>
     </div>
     """, unsafe_allow_html=True)
 
