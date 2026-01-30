@@ -1,0 +1,119 @@
+{
+  "document_id": "D285039",
+  "url": "https://papersofabrahamlincoln.org/documents/D285039",
+  "metadata": {
+    "date": "1844-01-08",
+    "authors": [
+      "Barret, James A.",
+      "Bledsoe, Albert T.",
+      "Bone, Elihu",
+      "Brayman, Mason",
+      "Brooks, Austin",
+      "Brooks, Samuel S.",
+      "Brown, John J.",
+      "Browne, Thomas C.",
+      "Campbell, Thomas H.",
+      "Campbell, Thompson",
+      "Carpenter, Milton",
+      "Caton, John D.",
+      "Conkling, James C.",
+      "Edwards, Benjamin S.",
+      "Edwards, Ninian W.",
+      "Farnsworth, William M.",
+      "Gillespie, Joseph",
+      "Harvey, Curtis K.",
+      "Hawley, Eliphalet B.",
+      "Hickox, Virgil",
+      "Lanphier, Charles H.",
+      "Levering, Septimus",
+      "Lincoln, Abraham (President)",
+      "Lockwood, Samuel D.",
+      "Logan, Stephen T.",
+      "Loose, Jacob G.",
+      "Lowry, George W.",
+      "Niles, Nathaniel",
+      "Pius, Henry G.",
+      "Scammon, Jonathan Y.",
+      "Scates, Walter B.",
+      "Strong, Newton Deming",
+      "Stuart, John T.",
+      "Tillson, Jr., John",
+      "Treat, Samuel H.",
+      "Welles, Charles R.",
+      "Wilson, William (Willson)",
+      "Wright, Erastus"
+    ],
+    "keywords": [
+      "Postal service",
+      "Post roads"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Nathaniel Niles and Others to Sidney Breese and Others, 1 GREAT WESTERN MAIL ROUTE. THE mail fromBostonandNew Yorkvia theNational Road, throughWheeling, comes in ten or twelve days toSpringfield—when it comes toLafayette, on theWabash, 160 miles from this place, infivedays. It is suggested that the citizens of Springfield, and the populous towns proceed\n\nto call public meetings and petitionCongressto extend the great mail route from Lafayette direct throughDanville,Decatur, to Springfield, when it canbe brought here in thirty-six hours, to the great benefit of the wholeWestern Country!!! We, the undersigned, citizens ofIllinois, believing the above statement correct, do most respectfully petition our delegation\n\nin Congress to bring in a bill to establish the above mail route, under the direction\n\nof thePost Master General.2",
+    "paragraphs": [
+      "Petition of Nathaniel Niles and Others to Sidney Breese and Others, 1 GREAT WESTERN MAIL ROUTE. THE mail fromBostonandNew Yorkvia theNational Road, throughWheeling, comes in ten or twelve days toSpringfield—when it comes toLafayette, on theWabash, 160 miles from this place, infivedays. It is suggested that the citizens of Springfield, and the populous towns proceed",
+      "to call public meetings and petitionCongressto extend the great mail route from Lafayette direct throughDanville,Decatur, to Springfield, when it canbe brought here in thirty-six hours, to the great benefit of the wholeWestern Country!!! We, the undersigned, citizens ofIllinois, believing the above statement correct, do most respectfully petition our delegation",
+      "in Congress to bring in a bill to establish the above mail route, under the direction"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XC07A0132-4262-4A7A-8EA2-7CC3F63FB3EE",
+        "text": "1Abraham Lincoln signed his name on this printed petition."
+      },
+      {
+        "id": "X35D608E0-92A4-4EC4-83CD-C6E565040347",
+        "text": "2The Illinois Congressional delegation in 1844 includedSidney Breese,Stephen A. Douglas,Orlando B. Ficklin,John J. Hardin,Joseph P. Hoge,John A. McClernand,James Semple,Robert Smith, andJohn Wentworth."
+      },
+      {
+        "id": "XDA94CA04-179E-404C-825E-4037F1B1166C",
+        "text": "3This individual could not be identified."
+      },
+      {
+        "id": "X65ED2F91-CC23-4CF6-B4A5-5E4ECAA2C2EB",
+        "text": "4This individual could not be identified."
+      },
+      {
+        "id": "XB480AB3C-3720-4651-8351-E07299E2E9BF",
+        "text": "5This individual could not be identified."
+      },
+      {
+        "id": "X32B16BBD-9CC6-4211-8EBA-87BF24CA5B04",
+        "text": "6This individual could not be identified."
+      },
+      {
+        "id": "X594DB667-6BB0-413F-B231-B30835697B77",
+        "text": "7This individual could not be identified."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Nathaniel Niles and Others to Sidney Breese and Others, [8 January 1844]1"
+      },
+      {
+        "type": "description",
+        "text": "GREAT WESTERN MAIL ROUTE."
+      },
+      {
+        "type": "paragraph",
+        "text": "THE mail fromBostonandNew Yorkvia theNational Road, throughWheeling, comes in ten or twelve days toSpringfield—when it comes toLafayette, on theWabash, 160 miles from this place, infivedays.  It is suggested that the citizens of Springfield, and the populous towns proceed\n               to call public meetings and petitionCongressto extend the great mail route from Lafayette direct throughDanville,Decatur, to Springfield, when it canbe brought here in thirty-six hours, to the great benefit of the wholeWestern Country!!!"
+      },
+      {
+        "type": "paragraph",
+        "text": "We, the undersigned, citizens ofIllinois, believing the above statement correct, do most respectfully petition our delegation\n               in Congress to bring in a bill to establish the above mail route, under the direction\n               of thePost Master General.2"
+      }
+    ],
+    "word_count": 123
+  },
+  "extraction_date": "2025-12-26 20:19:42",
+  "word_count": 125,
+  "processing": {
+    "cleaned": true,
+    "original_length": 907,
+    "cleaned_length": 848,
+    "preserved_originality": true
+  }
+}

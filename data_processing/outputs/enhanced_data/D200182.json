@@ -1,0 +1,59 @@
+{
+  "document_id": "D200182",
+  "url": "https://papersofabrahamlincoln.org/documents/D200182",
+  "metadata": {
+    "date": "1839-10-23",
+    "authors": [
+      "Speed, Joshua F."
+    ],
+    "keywords": [],
+    "type": "Note",
+    "extracted_date": "1839-10-23",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "note",
+      "regarding",
+      "remittance",
+      "thomas",
+      "bohannon",
+      "october"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Note regarding Remittance to Thomas Bohannon, 23 October 18391",
+    "paragraphs": [
+      "Note regarding Remittance to Thomas Bohannon, 23 October 18391"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John T. Stuart and Abraham Lincoln to Thomas Bohannon;Stuart & Lincoln collected debt for Thomas Bohannan & Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141169."
+    ],
+    "footnotes": [
+      {
+        "id": "XD618AB41-0572-4565-B1F1-78FEE93D4BBD",
+        "text": "1In Abraham Lincoln’s hand, except the signature."
+      },
+      {
+        "id": "X54442D09-EB66-4DFC-9BED-ED7AAD3883DE",
+        "text": "2The letter toBohannonhas not been located.  The money referenced probably represented at least a partial\n                  collection of the notes againstAllen & StoneandJosiah Francis. Thomas Bohannan & Co. had hired Stuart & Lincoln to collect debts from Allen & Stone\n                  and Francis, debtors of Bohannan & Co.John T. Stuart and Abraham Lincoln to Thomas Bohannon;Stuart & Lincoln collected debt for Thomas Bohannan & Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141169."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Note regarding Remittance to Thomas Bohannon, 23 October 18391"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:10:12",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 62,
+    "cleaned_length": 62,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

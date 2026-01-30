@@ -1,0 +1,79 @@
+{
+  "document_id": "D200450",
+  "url": "https://papersofabrahamlincoln.org/documents/D200450",
+  "metadata": {
+    "date": "1848-01-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Battle casualties",
+      "Soldiers--Death",
+      "Military service, Voluntary",
+      "Wages",
+      "Land titles"
+    ],
+    "type": "Note",
+    "extracted_date": "1848-01-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "john",
+      "mccalla",
+      "january",
+      "mrmccallaplease",
+      "examine",
+      "these",
+      "papers",
+      "inform",
+      "whether",
+      "any",
+      "thing",
+      "what",
+      "done"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. McCalla, 24 January 18481 Will MrMcCallaplease examine these papers, and inform me whether any thing, and if so, what, can\n\nbe done in the case?–2",
+    "paragraphs": [
+      "Abraham Lincoln to John M. McCalla, 24 January 18481 Will MrMcCallaplease examine these papers, and inform me whether any thing, and if so, what, can",
+      "be done in the case?–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. McCalla;Abraham Lincoln to John M. McCalla."
+    ],
+    "footnotes": [
+      {
+        "id": "X8125CC3D-4169-4633-B35A-30612E1A9EB8",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X5B78E1ED-7EB6-4B8D-9BA8-6F0E9A4899E7",
+        "text": "2The enclosed papers Lincoln references were not with this letter, and they have not\n                  been found.  No docketing accompanies the letter, so few clues exist as to the case\n                  Lincoln mentions, but Lincoln’s other correspondence with John M. McCalla during this\n                  period suggests that Lincoln was assisting one of his constituents in securing back\n                  pay and land warrants for a  son or other relative who died in the line of duty during\n                  theMexican War.Abraham Lincoln to John M. McCalla;Abraham Lincoln to John M. McCalla."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. McCalla, 24 January 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Will MrMcCallaplease examine these papers, and inform me whether any thing, and if so, what, can\n               be done in the case?–2"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:27:01",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 187,
+    "cleaned_length": 173,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

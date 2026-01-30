@@ -1,0 +1,72 @@
+{
+  "document_id": "D200009",
+  "url": "https://papersofabrahamlincoln.org/documents/D200009",
+  "metadata": {
+    "date": "1832-03-26",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Offutt, Denton"
+    ],
+    "keywords": [
+      "Debtor and creditor"
+    ],
+    "type": "Receipt",
+    "extracted_date": "1832-03-26",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "receipt",
+      "denton",
+      "offutt",
+      "william",
+      "barnett",
+      "march",
+      "received",
+      "ofwmbarnettin",
+      "full",
+      "all",
+      "due",
+      "debts",
+      "demands",
+      "date"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Receipt of Denton Offutt to William Barnett, 26 March 18321 Received ofWmBarnettin full of all due debts and demands up to this date",
+    "paragraphs": [
+      "Receipt of Denton Offutt to William Barnett, 26 March 18321 Received ofWmBarnettin full of all due debts and demands up to this date"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X2A8C99DD-5FD2-4C8D-A496-109962EE1E1B",
+        "text": "1Abraham Lincoln wrote the entirety of this document."
+      },
+      {
+        "id": "X58C2BA04-EBF2-4A12-BE28-3099C2284250",
+        "text": "2Lincolnwrote this note in his capacity as a clerk in Denton Offutt’s store inNew Salem, Illinois. The payment probably settled William Barnett’s accounts at the store."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Denton Offutt to William Barnett, 26 March 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received ofWmBarnettin full of all due debts and demands up to this date"
+      }
+    ],
+    "word_count": 23
+  },
+  "extraction_date": "2025-12-26 19:44:57",
+  "word_count": 23,
+  "processing": {
+    "cleaned": true,
+    "original_length": 132,
+    "cleaned_length": 132,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

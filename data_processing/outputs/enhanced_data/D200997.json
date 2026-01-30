@@ -1,0 +1,90 @@
+{
+  "document_id": "D200997",
+  "url": "https://papersofabrahamlincoln.org/documents/D200997",
+  "metadata": {
+    "date": "1858-02-19",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Mental health personnel",
+      "Mental health facilities--Employees"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-02-19",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "him",
+      "you",
+      "not",
+      "any",
+      "consider",
+      "abraham",
+      "lincoln",
+      "edward",
+      "miner",
+      "february",
+      "mrg",
+      "suttonis",
+      "applicant",
+      "superintendent",
+      "addition"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Edward G. Miner, 19 February 18581 MrG. A. Suttonis an applicant for Superintendent of the addition to theInsane Asylum;2and I understand it partly depends on you whether he gets it–3MrSutton is my fellow-townsman, and friend; and I therefore wish to say for him, that\n\nhe is a man of sterling integrity; and, as a master-mechanic, or builder, not surpassed\n\nby any in ourcity, or any I have known anywhere, so far as I can judge– I hope you will consider me\n\nas being really interested for MrSutton, and not as writing this merely to relieve myself of importunity– Please show\n\nthis to ColWmRoss, and let him consider it as intended as much for him as yourself–4",
+    "paragraphs": [
+      "Abraham Lincoln to Edward G. Miner, 19 February 18581 MrG. A. Suttonis an applicant for Superintendent of the addition to theInsane Asylum;2and I understand it partly depends on you whether he gets it–3MrSutton is my fellow-townsman, and friend; and I therefore wish to say for him, that",
+      "he is a man of sterling integrity; and, as a master-mechanic, or builder, not surpassed",
+      "by any in ourcity, or any I have known anywhere, so far as I can judge– I hope you will consider me",
+      "as being really interested for MrSutton, and not as writing this merely to relieve myself of importunity– Please show",
+      "this to ColWmRoss, and let him consider it as intended as much for him as yourself–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Reports of the Illinois State Hospital for the Insane, 1847-1862(Chicago: F. Fulton, 1863), 150.",
+      "Reports of the Illinois State Hospital for the Insane, 1847-1862, 234.",
+      "Reports of the Illinois State Hospital for the Insane, 1847-1862, 234."
+    ],
+    "footnotes": [
+      {
+        "id": "XB5D9EF7F-31B0-43A8-A5D4-FF38E71F03CD",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XB6F44855-1DE9-4984-B681-D982F569F4C4",
+        "text": "2In 1854, Goyn A. Sutton designed an addition of a portico to the main building  of\n                  theIllinois State Asylum and Hospital for the Insane. It is uncertain what addition he applied to superintend as referenced by Lincoln,\n                  and there is no evidence he received the appointment.Reports of the Illinois State Hospital for the Insane, 1847-1862(Chicago: F. Fulton, 1863), 150."
+      },
+      {
+        "id": "X1EE3D1A7-A453-40E7-97E0-6F7994DC1B21",
+        "text": "3Edward G. Miner served as a trustee for the Illinois State Asylum and Hospital for\n                  the Insane in 1858.Reports of the Illinois State Hospital for the Insane, 1847-1862, 234."
+      },
+      {
+        "id": "X46ACF1A6-E562-4BD1-914F-F9218DE6906D",
+        "text": "4William Ross served as president of the trustees for the Illinois State Asylum and\n                  Hospital for the Insane in 1858.Reports of the Illinois State Hospital for the Insane, 1847-1862, 234."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Edward G. Miner, 19 February 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrG. A. Suttonis an applicant for Superintendent of the addition to theInsane Asylum;2and I understand it partly depends on you whether he gets it–3MrSutton is my fellow-townsman, and friend; and I therefore wish to say for him, that\n               he is a man of sterling integrity; and, as a master-mechanic, or builder, not surpassed\n               by any in ourcity, or any I have known anywhere, so far as I can judge–  I hope you will consider me\n               as being really interested for MrSutton, and not as writing this merely to relieve myself of importunity– Please show\n               this to Col[Colonel]WmRoss, and let him consider it as intended as much for him as yourself–4"
+      }
+    ],
+    "word_count": 119
+  },
+  "extraction_date": "2025-12-26 21:45:46",
+  "word_count": 119,
+  "processing": {
+    "cleaned": true,
+    "original_length": 748,
+    "cleaned_length": 682,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

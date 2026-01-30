@@ -1,0 +1,62 @@
+{
+  "document_id": "D210359",
+  "url": "https://papersofabrahamlincoln.org/documents/D210359",
+  "metadata": {
+    "date": "1849-02-24",
+    "authors": [
+      "Dent, George (of Putnam Co., IL)"
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "George Dent to Abraham Lincoln, 24 February 18491 I send herewith enclosed, byMrSmith's request, a Letter, recommending MrSmith, as a suitable person to be appointed Register of theLand OfficeatDixon, MrSmith might I suppose have obtained other names, but did not wish them.2MrWardlawinformed^me^that he should have been willing to have signed the letter, had he not have promised\n\nhis influence or support toMrWallaceofOttawa, & written on to you, to that effect a few days since.3I suppose there will probably be a Petition for a change of Post Masters at thisplace, sent on in a few days. You have perhaps already recd letters on the subject & will be advised of the whole affair,4",
+    "paragraphs": [
+      "George Dent to Abraham Lincoln, 24 February 18491 I send herewith enclosed, byMrSmith's request, a Letter, recommending MrSmith, as a suitable person to be appointed Register of theLand OfficeatDixon, MrSmith might I suppose have obtained other names, but did not wish them.2MrWardlawinformed^me^that he should have been willing to have signed the letter, had he not have promised",
+      "his influence or support toMrWallaceofOttawa, & written on to you, to that effect a few days since.3I suppose there will probably be a Petition for a change of Post Masters at thisplace, sent on in a few days. You have perhaps already recd letters on the subject & will be advised of the whole affair,4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138."
+    ],
+    "footnotes": [
+      {
+        "id": "X2D1B8D4C-03A4-47D6-BC98-C60E273D0593",
+        "text": "1This letter is entirely in George Dent’s hand."
+      },
+      {
+        "id": "XE6679085-15B5-4385-AC65-B2FD34994151",
+        "text": "2The referenced enclosure might have been aletterfrom Dent andOaks Turnerto Abraham Lincoln dated February 24."
+      },
+      {
+        "id": "X6BB63CC8-B662-4D56-B7F0-5647E8CBE804",
+        "text": "3Andrew Wardlaw’s letter is not extant, but in aletterwritten a year earlier, Wardlaw had endorsed Stephen Smith for the position."
+      },
+      {
+        "id": "X12436B2A-88A1-4E33-8AC6-2701B541EE3C",
+        "text": "4Neither Smith nor William H. L. Wallace received the appointment.Silas Noblewas register at Dixon from 1849 to 1853.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "George Dent to Abraham Lincoln, 24 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I send herewith enclosed, byMrSmith's request, a Letter, recommending MrSmith, as a suitable person to be appointed Register of theLand OfficeatDixon, MrSmith might I suppose have obtained other names, but did not wish them.2MrWardlawinformed^me^that he should have been willing to have signed the letter, had he not have promised\n               his influence or support toMrWallaceofOttawa, & written on to you, to that effect a few days since.3I suppose there will probably be a Petition for a change of Post Masters at thisplace, sent on in a few days. You have perhaps already recd[received] letters on the subject & will be advised of the whole affair,4"
+      }
+    ],
+    "word_count": 112
+  },
+  "extraction_date": "2025-12-26 20:35:39",
+  "word_count": 112,
+  "processing": {
+    "cleaned": true,
+    "original_length": 708,
+    "cleaned_length": 684,
+    "preserved_originality": true
+  }
+}

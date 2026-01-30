@@ -1,0 +1,122 @@
+{
+  "document_id": "D200028",
+  "url": "https://papersofabrahamlincoln.org/documents/D200028",
+  "metadata": {
+    "date": "1834-02-25",
+    "authors": [
+      "Abell, Bennet",
+      "Allen, John (Allin)",
+      "Alley, Nelson",
+      "Armstrong, Hugh",
+      "Armstrong, Royal",
+      "Baker, Jesse",
+      "Bale, Jacob",
+      "Berry, B. B.",
+      "Berry, William F.",
+      "Black, James",
+      "Brown, Manaweather",
+      "Brown, William (of Sangamon Co., IL)",
+      "Burner, Isaac",
+      "Carman, Caleb",
+      "Carver, James",
+      "Clary, John",
+      "Clary, Zachariah",
+      "Davis, Jeremiah W.",
+      "Dickinson, David",
+      "Dobson, Josiah",
+      "Edwards, Thomas S.",
+      "Elmore, Johnson",
+      "Elmore, Peter",
+      "Goldsby, James B.",
+      "Graham, Mentor",
+      "Green, Bowling",
+      "Green, Felix",
+      "Green, Robert L.",
+      "Green, William (of Sangamon Co., IL)",
+      "Guliher, Isaac",
+      "Gumm, Jesse",
+      "Harrison, Erastus J. B.",
+      "Harrison, John F.",
+      "Hill, Samuel",
+      "Hohimer, Henry",
+      "Hornbuckle, Tilman",
+      "Jeter, William G.",
+      "Jones, John Sr.",
+      "Kelso, John A.",
+      "Kirby, Cyrus",
+      "Lincoln, Abraham (President)",
+      "Loyd, Robert (Lloyd)",
+      "Maltby, Harrison",
+      "McNabb, Robert",
+      "McNeely, William (McNeeley)",
+      "Pantier, David M. (Painter)",
+      "Pantier, James",
+      "Pemberton, John (Temberton)",
+      "Potter, Edward (Patter)",
+      "Potter, Elijah (Patter)",
+      "Raffity, John C.",
+      "Raffity, Richard",
+      "Regnier, Francis",
+      "Rutledge, James M.",
+      "Spears, George",
+      "Summers, Alfred",
+      "Summers, Peter",
+      "Trent, Alexander",
+      "Trent, Martin S.",
+      "Watkins, Lewis",
+      "Watkins, Samuel",
+      "West, Jacob C.",
+      "Williamson, William",
+      "Wilson, George (Willson)",
+      "Witt, Jesse (Wit)",
+      "Wynne, Lewis B.",
+      "Wynne, Thomas (Wynn)",
+      "Young, Matthew"
+    ],
+    "keywords": [
+      "Roads--Surveying"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Mentor Graham and Others to the Sangamon County Commissioners' Court,\n\n25 February 18341",
+    "paragraphs": [
+      "Petition of Mentor Graham and Others to the Sangamon County Commissioners' Court,"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X70D80617-FA77-4125-A9EA-9D4534F4DB2B",
+        "text": "1Abraham Lincoln wrote the body of the document, the dateline, and his own signature.\n                  He also wrote the signatures of numbers 77 through 88 on page three and docketing\n                  on page four."
+      },
+      {
+        "id": "XED23CE3D-E602-4AB0-AB67-96D8BE8C1CE4",
+        "text": "2The County Commissioners Court apparently approved the request because Lincoln, Killion,\n                  and Armstrong filed areportfour months later as surveyors appointed by the court to locate the road."
+      },
+      {
+        "id": "X7B46A219-FF42-42D9-9799-BE7F3E29AD3F",
+        "text": "3Lincoln wrote the signatures of numbers 77 through 88."
+      },
+      {
+        "id": "X3258F5A7-BAA0-453D-9E19-EF711BDA2B60",
+        "text": "4There were two men named William Jones living in this area at this time. This person\n                  could have  been either of them."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Mentor Graham and Others to the Sangamon County Commissioners' Court,\n               25 February 18341"
+      }
+    ],
+    "word_count": 15
+  },
+  "extraction_date": "2025-12-26 19:46:06",
+  "word_count": 15,
+  "processing": {
+    "cleaned": true,
+    "original_length": 114,
+    "cleaned_length": 100,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "D285161",
+  "url": "https://papersofabrahamlincoln.org/documents/D285161",
+  "metadata": {
+    "date": "1832-08-08",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military discharge",
+      "Indians of North America--Wars",
+      "Militia",
+      "Soldiers--Salaries, etc.",
+      "Bounties, Military"
+    ],
+    "type": "Certificate"
+  },
+  "content": {
+    "full_text": "Certificate of Discharge for John M. Rutledge, 8 August 18321 I certify thatJohn M. Rutledgevolunteered & served as a private in the company under my command in theregimentcommanded by ColonelSamuel M. Thompsonof the Brigade of mounted volunteers commanded by Brigadier GeneralSamuel Whitesideson an expedition directed against theSac&foxIndians in theRock Rivercountry. & that he was enrolled on the 21stday of April 1832 & discharged on the 8thday of June of the same year— haveing Served Fortyeight & two third days—2",
+    "paragraphs": [
+      "Certificate of Discharge for John M. Rutledge, 8 August 18321 I certify thatJohn M. Rutledgevolunteered & served as a private in the company under my command in theregimentcommanded by ColonelSamuel M.",
+      "Thompsonof the Brigade of mounted volunteers commanded by Brigadier GeneralSamuel Whitesideson an expedition directed against theSac&foxIndians in theRock Rivercountry.",
+      "& that he was enrolled on the 21stday of April 1832 & discharged on the 8thday of June of the same year— haveing Served Fortyeight & two third days—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46.",
+      "Land Patent of the United States to John Holbert, 15 August 1860, Warrant No. 68989,\n                     Appanoose County, IA, RG 49: Records of the Bureau of Land Management, Records of\n                     the General Land Office, Land Patents, 1789-2012, National Archives at Kansas City,\n                     Kansas City, MO."
+    ],
+    "footnotes": [
+      {
+        "id": "X8FD48B76-FB48-4FEE-9A16-4C78F90D8946",
+        "text": "1Abraham Lincoln wrote and signed page one of this document.At the outbreak of theBlack Hawk War, Lincoln volunteered for theIllinois state militia. On April 21, 1832, Lincoln and other men from theNew Salemarea were mustered into a company in the 4th Regiment of Illinois Mounted Volunteers,\n                  and the members of the company elected Lincoln as their captain. When his month of\n                  service ended, Lincoln re-enlisted twice, for twenty and thirty days respectively,\n                  serving as a private both times. He was discharged finally on July 10, 1832.Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+      },
+      {
+        "id": "XE99B980F-C09D-4896-8DE5-1D6E4C1879CF",
+        "text": "2Rutledge received for his military service 120 acres of bounty land in Iowa, which\n                  he assigned to John Holbert.Land Patent of the United States to John Holbert, 15 August 1860, Warrant No. 68989,\n                     Appanoose County, IA, RG 49: Records of the Bureau of Land Management, Records of\n                     the General Land Office, Land Patents, 1789-2012, National Archives at Kansas City,\n                     Kansas City, MO."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Discharge for John M. Rutledge, 8 August 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "I certify thatJohn M. Rutledgevolunteered & served as a private in the company under my command in theregimentcommanded by ColonelSamuel M. Thompsonof the Brigade of mounted volunteers commanded by Brigadier GeneralSamuel Whitesideson an expedition directed against theSac&foxIndians in theRock Rivercountry. & that he was enrolled on the 21stday of April 1832 & discharged on the 8thday of June of the same year— haveing  Served Fortyeight  & two third days—2"
+      }
+    ],
+    "word_count": 79
+  },
+  "extraction_date": "2025-12-26 19:45:59",
+  "word_count": 79,
+  "processing": {
+    "cleaned": true,
+    "original_length": 522,
+    "cleaned_length": 520,
+    "preserved_originality": true
+  }
+}

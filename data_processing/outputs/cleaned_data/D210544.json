@@ -1,0 +1,60 @@
+{
+  "document_id": "D210544",
+  "url": "https://papersofabrahamlincoln.org/documents/D210544",
+  "metadata": {
+    "date": "1849-06-18",
+    "authors": [
+      "Rockwell, Julius"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Julius Rockwell to Abraham Lincoln, 18 June 18491 I avail myself of my first leisure after receiving your letter, to send you the Enclosed\n\nwhich I hope is in proper form2If there is any thing else, my dear Sir which I can do at any time, please let me know it– My heart is\n\nwith you3",
+    "paragraphs": [
+      "Julius Rockwell to Abraham Lincoln, 18 June 18491 I avail myself of my first leisure after receiving your letter, to send you the Enclosed",
+      "which I hope is in proper form2If there is any thing else, my dear Sir which I can do at any time, please let me know it– My heart is"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+    ],
+    "footnotes": [
+      {
+        "id": "X88301E14-9E7D-4571-A4C9-8A6308896855",
+        "text": "1Julius Rockwell wrote and signed this letter."
+      },
+      {
+        "id": "XA50243EF-0417-41FC-9D76-3CDDBC4F7F9A",
+        "text": "2Abraham Lincoln’s letter to Rockwell has not been located. In early June 1849, Lincoln\n                  sent a series of letters to numerous people requesting letters in support of his candidacy\n                  for commissioner of theU.S. General Land Office. Presumably, he made a similar request of Rockwell. The enclosed letter Rockwell\n                  refers to also has not been located.Originally, onlyJustin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner. Lincoln entered the competition after learning\n                  that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "XAA22B838-D4CD-43F6-AFD9-24B473122035",
+        "text": "3Ultimately, neither Morrison, Edwards, nor Lincoln received the appointment; the job\n                  went to Butterfield instead.  See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Julius Rockwell to Abraham Lincoln, 18 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I avail myself of my first leisure after receiving your letter, to send you the Enclosed\n               which I hope is in proper form2If there is any thing else, my dear Sir which I can do at any time, please let me know it–  My heart is\n               with you3"
+      }
+    ],
+    "word_count": 56
+  },
+  "extraction_date": "2025-12-26 21:19:15",
+  "word_count": 56,
+  "processing": {
+    "cleaned": true,
+    "original_length": 313,
+    "cleaned_length": 284,
+    "preserved_originality": true
+  }
+}

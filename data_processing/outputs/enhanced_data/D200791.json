@@ -1,0 +1,92 @@
+{
+  "document_id": "D200791",
+  "url": "https://papersofabrahamlincoln.org/documents/D200791",
+  "metadata": {
+    "date": "1854-08-18",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Elections",
+      "Politics and Government"
+    ],
+    "type": "Letter",
+    "extracted_date": "1854-08-18",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "richard",
+      "yates",
+      "you",
+      "our",
+      "without",
+      "convention",
+      "abraham",
+      "lincoln",
+      "august",
+      "disappointed",
+      "not",
+      "having",
+      "seen",
+      "heard",
+      "since"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Richard Yates, 18 August 18541 I am disappointed at not having seen or heard from you, since I met you more than\n\na week ago, at the Railroad depot here–2I wish to have the matter we spoke of settled, and working to its consummation–\n\nI understand that our friendB. S. Edwardsis entirely satisfied now; and when I can assure myself of this perfectly I would\n\nlike, by your leave, to get an aditional paragraph into theJournal, about as follows: “To day we place the name of^Hon^Richard Yates,Esq, at the head of our columns, for re-election, as theWhigcandidate for this congressional District– We do this, without consultation with\n\nhim, and subject to the decision of a Whig convention,^should^ifthe holding of one be deemed necessary; hoping, however, there may be unanamous acquiescence, without a convention” May I do this? Answer by return mail–3",
+    "paragraphs": [
+      "Abraham Lincoln to Richard Yates, 18 August 18541 I am disappointed at not having seen or heard from you, since I met you more than",
+      "a week ago, at the Railroad depot here–2I wish to have the matter we spoke of settled, and working to its consummation–",
+      "I understand that our friendB. S. Edwardsis entirely satisfied now; and when I can assure myself of this perfectly I would",
+      "like, by your leave, to get an aditional paragraph into theJournal, about as follows: “To day we place the name of^Hon^Richard Yates,Esq, at the head of our columns, for re-election, as theWhigcandidate for this congressional District– We do this, without consultation with",
+      "him, and subject to the decision of a Whig convention,^should^ifthe holding of one be deemed necessary; hoping, however, there may be unanamous acquiescence, without a convention” May I do this? Answer by return mail–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 August 1854,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1854-08-09.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 21 August 1854,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1854-08-21;Illinois Daily Journal(Springfield), 22 August 1854, 2:1; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10."
+    ],
+    "footnotes": [
+      {
+        "id": "X3229E563-E936-45D3-97A4-3C57B0F63535",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XAA4FDE04-BEC4-4139-8A61-44E57FA669EE",
+        "text": "2Lincoln met Richard Yates on August 9, 1854 when Yates was returning to his home in\n                  Jacksonville fromWashington, DC.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 August 1854,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1854-08-09."
+      },
+      {
+        "id": "X780698FE-761A-49E3-BCDE-5162DA21C7D8",
+        "text": "3Instead of writing back, Richard Yates visited Lincoln in Springfield on August 21,\n                  1854. On August 22, theIllinois Daily Journalannounced Yates’ candidacy: “HON. RICHARD YATES Has yielded to the solicitation of\n                  his friends and consented to be a candidate for re-election toCongress, subject to the decision of a convention should one be held.” No convention was held.Yates sought reelection as representative of the Sixth Congressional District.  TheDemocratsnominatedThomas L. Harrisas his opponent.  LincolnwroteYates about the electoral campaign against him in October   1854. In thegeneral electionheld in November 1854, Harris defeated Yates by 200 votes, garnering 50.5 percent\n                  of the vote to Yates’ 49.5 percent.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 21 August 1854,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1854-08-21;Illinois Daily Journal(Springfield), 22 August 1854, 2:1; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Richard Yates, 18 August 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am disappointed at not having seen or heard from you, since I met you more than\n               a week ago, at the Railroad depot here–2I wish to have the matter we spoke of settled, and working to its consummation–\n               I understand that our friendB. S. Edwardsis entirely satisfied now; and when I can assure myself of this perfectly I would\n               like, by your leave, to get an aditional paragraph into theJournal, about as follows:"
+      },
+      {
+        "type": "paragraph",
+        "text": "“To day we place the name of^Hon^Richard Yates,Esq, at the head of our columns, for re-election, as theWhigcandidate for this congressional District–  We do this, without consultation with\n               him, and subject to the decision of a Whig convention,^should^ifthe holding of one be deemed necessary; hoping, however, there may be unanamous acquiescence, without a convention”"
+      },
+      {
+        "type": "paragraph",
+        "text": "May I do this? Answer by return mail–3"
+      }
+    ],
+    "word_count": 144
+  },
+  "extraction_date": "2025-12-26 21:29:55",
+  "word_count": 144,
+  "processing": {
+    "cleaned": true,
+    "original_length": 928,
+    "cleaned_length": 871,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "D200564c",
+  "url": "https://papersofabrahamlincoln.org/documents/D200564c",
+  "metadata": {
+    "date": "1849-03-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political",
+      "United States marshals"
+    ],
+    "type": "Memorandum"
+  },
+  "content": {
+    "full_text": "Memorandum concerning Benjamin Bond, 1 In this and the accompanying envelope, are the recommendations of about 200 good citizens\n\nof all parts ofIllinois, thatBenjaminBondbe appointed Marshall for that District.2They include the names of nearly all ourwhigswho now are, or have ever been, members of theState Legislature, besides 46 of thedemocraticmembers of the present Legislature, and many other good citizens– I add that, from\n\npersonal knowledge, I consider MrBond every way worthy of the office, and qualified to fill it– Holding the individual\n\nopinion, that the appointment of a different gentleman would be better, I askespecialattention and consideration, for his claims, and for the opinions expressed in his\n\nfavor, by those over whom I can claim no superiority–",
+    "paragraphs": [
+      "Memorandum concerning Benjamin Bond, 1 In this and the accompanying envelope, are the recommendations of about 200 good citizens",
+      "of all parts ofIllinois, thatBenjaminBondbe appointed Marshall for that District.2They include the names of nearly all ourwhigswho now are, or have ever been, members of theState Legislature, besides 46 of thedemocraticmembers of the present Legislature, and many other good citizens– I add that, from",
+      "personal knowledge, I consider MrBond every way worthy of the office, and qualified to fill it– Holding the individual",
+      "opinion, that the appointment of a different gentleman would be better, I askespecialattention and consideration, for his claims, and for the opinions expressed in his",
+      "favor, by those over whom I can claim no superiority–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+    ],
+    "footnotes": [
+      {
+        "id": "XCC92C72E-2BBF-4EA3-9F0B-41A86887F865",
+        "text": "1Abraham Lincoln wrote and signed this memorandum.  He copied this memorandum and affixed\n                  it to the bottom of a retained copy of aletteraddressed to Secretary of StateJohn M. Clayton."
+      },
+      {
+        "id": "X7CC09758-76B4-41E6-85A2-EC64498D127C",
+        "text": "2Benjamin Bond’s recommendations and papers have not been located.In March 1849, Lincoln wrote several letters soliciting government officials on Bond’s\n                  behalf, though he preferred, as noted in this memorandum, that the appointment go\n                  to a “different gentleman,” in this case,Charles G. Thomas.  Bond received the appointment and held the job until 1853.Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Memorandum concerning Benjamin Bond, [10 March 1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "In this and the accompanying envelope, are the recommendations of about 200 good citizens\n               of all parts ofIllinois, thatBenjaminBondbe appointed Marshall for that District.2They include the names of nearly all ourwhigswho now are, or have ever been, members of theState Legislature, besides 46 of thedemocraticmembers of the present Legislature, and many other good citizens–  I add that, from\n               personal knowledge, I consider MrBond every way worthy of the office, and qualified to fill it– Holding the individual\n               opinion, that the appointment of a different gentleman would be better, I askespecialattention and consideration, for his claims, and for the opinions expressed in his\n               favor, by those over whom I can claim no superiority–"
+      }
+    ],
+    "word_count": 117
+  },
+  "extraction_date": "2025-12-26 20:37:42",
+  "word_count": 119,
+  "processing": {
+    "cleaned": true,
+    "original_length": 847,
+    "cleaned_length": 775,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "document_id": "D206861",
+  "url": "https://papersofabrahamlincoln.org/documents/D206861",
+  "metadata": {
+    "date": "1848-08-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Armed Forces"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William L. Marcy, 11 August 18481 Please have the accompanying letter examined, and the desired information sent me,\n               either here, or atSpringfield, Illinois.  In either case, please return these letters.2",
+    "paragraphs": [
+      "Abraham Lincoln to William L. Marcy, 11 August 18481",
+      "Please have the accompanying letter examined, and the desired information sent me,\n               either here, or atSpringfield, Illinois.  In either case, please return these letters.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(Westport, CT: Greenwood, 1974), 10:11."
+    ],
+    "footnotes": [
+      {
+        "id": "X01A8490C-2676-4C98-8532-A215B1C38A53",
+        "text": "1Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, noted that the original letter was housed at the Natural History Museum, Los Angeles,\n                  California, but the editors did not locate the document in a search of museum collections.\n                  The only version of this letter is fromThe Collected Works.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(Westport, CT: Greenwood, 1974), 10:11."
+      },
+      {
+        "id": "X53A8318B-9052-4091-B753-0E1B42F291C4",
+        "text": "2The accompanying letter, or letters, have not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William L. Marcy, 11 August 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Please have the accompanying letter examined, and the desired information sent me,\n               either here, or atSpringfield, Illinois.  In either case, please return these letters.2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:30:59",
+  "word_count": 33
+}

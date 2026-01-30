@@ -1,0 +1,55 @@
+{
+  "document_id": "D200037",
+  "url": "https://papersofabrahamlincoln.org/documents/D200037",
+  "metadata": {
+    "date": "1834-12-05",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Justices of the peace"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James Semple, 1 I now give notice that on monday next or some day thereafter I shall ask leave to\n\nintroduce abillentitled an act to limit the jurisdiction of Justices of the Peace—2",
+    "paragraphs": [
+      "Abraham Lincoln to James Semple, 1 I now give notice that on monday next or some day thereafter I shall ask leave to",
+      "introduce abillentitled an act to limit the jurisdiction of Justices of the Peace—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 47.",
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 84."
+    ],
+    "footnotes": [
+      {
+        "id": "XE089DAE8-75CA-4EFD-A888-53020C96D6C6",
+        "text": "1Abraham Lincoln wrote the entirety of the text on page one. Lincoln presented this\n                  notice in the House of Representatives on December 5, 1834.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 47."
+      },
+      {
+        "id": "XBE3423EC-D413-4293-9AAE-B0916BE12FA5",
+        "text": "2Lincoln introduced the bill in theHouse of Representativeson December 9, 1834. The bill did not become law.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 84."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James Semple, [5 December 1834]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I now give notice that on monday next or some day thereafter I shall ask leave to\n               introduce abillentitled an act to limit the jurisdiction of Justices of the Peace—2"
+      }
+    ],
+    "word_count": 36
+  },
+  "extraction_date": "2025-12-26 19:47:03",
+  "word_count": 38,
+  "processing": {
+    "cleaned": true,
+    "original_length": 232,
+    "cleaned_length": 201,
+    "preserved_originality": true
+  }
+}

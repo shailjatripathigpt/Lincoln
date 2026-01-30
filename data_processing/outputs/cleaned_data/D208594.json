@@ -1,0 +1,48 @@
+{
+  "document_id": "D208594",
+  "url": "https://papersofabrahamlincoln.org/documents/D208594",
+  "metadata": {
+    "date": "1838-01-28 - 1839-02-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Banks and banking",
+      "Interest rates"
+    ],
+    "type": "Amendment"
+  },
+  "content": {
+    "full_text": "Amendment to \"A Bill for an Act to Increase the Capital Stock of the Bank of Illinois\n\nand to Provide Means to Pay the Interest on a Loan or Loans Authorized by an Act entitled\n\n'An Act to Establish and Maintain a General System of Internal Improvement,'\" [28\n\nJanuary-28 February 1839]1",
+    "paragraphs": [
+      "Amendment to \"A Bill for an Act to Increase the Capital Stock of the Bank of Illinois",
+      "and to Provide Means to Pay the Interest on a Loan or Loans Authorized by an Act entitled",
+      "'An Act to Establish and Maintain a General System of Internal Improvement,'\" [28"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     553-54, 558."
+    ],
+    "footnotes": [
+      {
+        "id": "X390B09CF-5496-442E-8D32-EF3CC6CE9556",
+        "text": "1Abraham Lincoln introduced this amendment, written entirely in his hand, sometime\n                  between January 28 and February 28, 1839, as theHouse of Representativesdeliberated thebill.  The House adopted Lincoln’s amendment, but twice refused to engross the bill, the\n                  last time by a vote of 38 yeas to 39 nays, with Lincoln voting yea.Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     553-54, 558."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to \"A Bill for an Act to Increase the Capital Stock of the Bank of Illinois\n               and to Provide Means to Pay the Interest on a Loan or Loans Authorized by an Act entitled\n               'An Act to Establish and Maintain a General System of Internal Improvement,'\" [28\n               January-28 February 1839]1"
+      }
+    ],
+    "word_count": 51
+  },
+  "extraction_date": "2025-12-26 20:09:04",
+  "word_count": 51,
+  "processing": {
+    "cleaned": true,
+    "original_length": 329,
+    "cleaned_length": 287,
+    "preserved_originality": true
+  }
+}

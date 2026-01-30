@@ -1,0 +1,88 @@
+{
+  "document_id": "D200120",
+  "url": "https://papersofabrahamlincoln.org/documents/D200120",
+  "metadata": {
+    "date": "1837-08-03",
+    "authors": [],
+    "keywords": [
+      "Toasts"
+    ],
+    "type": "Remarks",
+    "extracted_date": "1837-08-03",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "public",
+      "lincoln",
+      "his",
+      "report",
+      "remarks",
+      "volunteered",
+      "dinner",
+      "athens",
+      "illinois",
+      "august",
+      "fulfilled",
+      "expectations",
+      "friends",
+      "disappointed",
+      "hopes"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Report of Remarks Volunteered at a Public Dinner at Athens, Illinois, 3 August 18371 A. Lincoln—He has fulfilled the expectations of his friends and disappointed the hopes of his\n\nenemies.2 A. Lincoln—One of nature’s nobility.3 By A. Lincoln.Sangamon countywill ever be true to her best interests and never more so than in reciprocating the\n\ngood feelings of the citizens ofAthensand neighborhood.",
+    "paragraphs": [
+      "Report of Remarks Volunteered at a Public Dinner at Athens, Illinois, 3 August 18371 A. Lincoln—He has fulfilled the expectations of his friends and disappointed the hopes of his",
+      "enemies.2 A. Lincoln—One of nature’s nobility.3 By A. Lincoln.Sangamon countywill ever be true to her best interests and never more so than in reciprocating the",
+      "good feelings of the citizens ofAthensand neighborhood."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sangamo Journal(Springfield, IL), 12 August 1837, 2:5",
+      "Sangamo Journal(Springfield, IL), 12 August 1837, 2:5.",
+      "Sangamo Journal(Springfield, IL), 12 August 1837, 2:5."
+    ],
+    "footnotes": [
+      {
+        "id": "X0FEC96A2-915B-40B8-ABB1-5C5F0AC0E6D6",
+        "text": "1Abraham Lincoln offered these toasts at a public dinner given in honor of the Sangamon\n                  County delegation--the “Long Nine”--, “as a demonstration of approbation of their\n                  course in theLegislature.” The major accomplishments of Lincoln and his cohorts in the 10th General Assembly\n                  included passage of anactmoving the state capital fromVandaliatoSpringfieldand anactcreating asystem of internal improvementsfor thestate.Sangamo Journal(Springfield, IL), 12 August 1837, 2:5"
+      },
+      {
+        "id": "X08E3A73D-2623-425D-A4B2-4B50364E3E15",
+        "text": "2Given in honor ofEdward D. Baker.Sangamo Journal(Springfield, IL), 12 August 1837, 2:5."
+      },
+      {
+        "id": "X83DB1E92-7069-474F-9862-AFCEA7ABDF35",
+        "text": "3Given in honor of Edward D. Baker.Sangamo Journal(Springfield, IL), 12 August 1837, 2:5."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Remarks Volunteered at a Public Dinner at Athens, Illinois, 3 August 18371"
+      },
+      {
+        "type": "paragraph",
+        "text": "A. Lincoln—He has fulfilled the expectations of his friends and disappointed the hopes of his\n               enemies.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "A. Lincoln—One of nature’s nobility.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "By A. Lincoln.Sangamon countywill ever be true to her best interests and never more so than in reciprocating the\n               good feelings of the citizens ofAthensand neighborhood."
+      }
+    ],
+    "word_count": 61
+  },
+  "extraction_date": "2025-12-26 20:06:40",
+  "word_count": 61,
+  "processing": {
+    "cleaned": true,
+    "original_length": 425,
+    "cleaned_length": 397,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

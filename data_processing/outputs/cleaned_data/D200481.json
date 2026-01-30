@@ -1,0 +1,63 @@
+{
+  "document_id": "D200481",
+  "url": "https://papersofabrahamlincoln.org/documents/D200481",
+  "metadata": {
+    "date": "1848-04-20",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military cadets",
+      "Military education"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William L. Marcy, 20 April 18481 I nominate for appointment to theMilitary Academyfrom the 7thCongr District ofIllinoisHezekiah H Garberof that District2",
+    "paragraphs": [
+      "Abraham Lincoln to William L. Marcy, 20 April 18481 I nominate for appointment to theMilitary Academyfrom the 7thCongr District ofIllinoisHezekiah H Garberof that District2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126.",
+      "William Ward,List of Cadets Admitted into the United States Military Academy, West Point, N.Y.,\n                        From its Origin Till September 1, 1886(Washington, DC: Government Printing Office, 1887), 28; George W. Cullum,Biographical Register of the Officers and Graduates of the U.S. Military Academy, 3rd ed. (Boston and New York: Houghton, Mifflin, 1891), 2:515."
+    ],
+    "footnotes": [
+      {
+        "id": "XDF20E379-E388-4651-90BE-609FC066C46A",
+        "text": "1Although attributed to Abraham Lincoln, he only signed this letter."
+      },
+      {
+        "id": "XBAA81BA0-175D-4F7E-90E3-7C223FC53BC3",
+        "text": "2The Seventh Congressional District included the counties ofCass,Logan,Marshall,Mason,Menard,Morgan,Putnam,Sangamon,Scott,Tazewell, andWoodford.Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126."
+      },
+      {
+        "id": "XB7A1B4C4-43B9-4E16-92D3-B6DDE6A35A84",
+        "text": "3Jacob Garber wrote and signed this letter, including the address on page six."
+      },
+      {
+        "id": "X260E93B7-03CF-4F7E-A6B1-8BBF45D4A810",
+        "text": "4Thomas L. Harris wrote and signed this letter.Hezekiah H. Garber received the appointment, entering the U.S. Military Academy in\n                  July 1848, and graduating in July 1852.William Ward,List of Cadets Admitted into the United States Military Academy, West Point, N.Y.,\n                        From its Origin Till September 1, 1886(Washington, DC: Government Printing Office, 1887), 28; George W. Cullum,Biographical Register of the Officers and Graduates of the U.S. Military Academy, 3rd ed. (Boston and New York: Houghton, Mifflin, 1891), 2:515."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William L. Marcy, 20 April 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "I nominate for appointment to theMilitary Academyfrom the 7thCongr[Congressional] District ofIllinoisHezekiah H Garberof that District2"
+      }
+    ],
+    "word_count": 24
+  },
+  "extraction_date": "2025-12-26 20:28:43",
+  "word_count": 24,
+  "processing": {
+    "cleaned": true,
+    "original_length": 187,
+    "cleaned_length": 172,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "document_id": "D238966",
+  "url": "https://papersofabrahamlincoln.org/documents/D238966",
+  "metadata": {
+    "date": "1842-12-24",
+    "authors": [],
+    "keywords": [
+      "Appellate courts",
+      "Judgments",
+      "Attorney and client"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Logan & Lincoln to Benjamin Briggs, 24 December 18421 Yours of the 21stnotifying us of your levy onHall’s land is received–2Did we order that\n\nexecution? Our recollection is that we did not– MrHall was to give us an order to draw\n\nsome rent coming to him in this town, and we were to stay the execution– He has not\n\nsent us the order yet,– Tell him to send us the\n\norder immediately, & dismiss the levy–3",
+    "paragraphs": [
+      "Logan & Lincoln to Benjamin Briggs, 24 December 18421 Yours of the 21stnotifying us of your levy onHall’s land is received–2Did we order that",
+      "execution? Our recollection is that we did not– MrHall was to give us an order to draw",
+      "some rent coming to him in this town, and we were to stay the execution– He has not",
+      "sent us the order yet,– Tell him to send us the",
+      "order immediately, & dismiss the levy–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Perkins v. Hall, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136395;Perkins v. Hall, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136396;Hall v. Perkins, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136397; For a full discussion of all cases involving Hall and Perkins, see Daniel W. Stowell\n                     et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 1:60-88."
+    ],
+    "footnotes": [
+      {
+        "id": "XC335D227-F685-474E-A70E-AFDF65B3E0C0",
+        "text": "1Abraham Lincolnwrote this letter on behalf of Logan & Lincoln"
+      },
+      {
+        "id": "X5AD7E4EA-C6B6-45A6-B933-4855AA71A871",
+        "text": "2Benjamin Briggs’ letter to Logan & Lincoln has not been located."
+      },
+      {
+        "id": "X3C1D2C14-AB06-47F4-8C98-758851F78791",
+        "text": "3This letter refers toHall v. Perkins, an appeal from theTazewell County Circuit Courtto theIllinois Supreme Courtin which Abraham Lincoln representedElisha M. Perkins. Perkins and Samuel Hall were involved in several cases against each other, and Lincoln\n                  represented each of them against the other at different times.Perkins v. Hall, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136395;Perkins v. Hall, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136396;Hall v. Perkins, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136397; For a full discussion of all cases involving Hall and Perkins, see Daniel W. Stowell\n                     et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 1:60-88."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Logan & Lincoln to Benjamin Briggs, 24 December 18421"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 21stnotifying us of your levy onHall’s land is received–2Did we order that\n               execution? Our recollection is that we did not– MrHall was to give us an order to draw\n               some rent coming to him in this town, and we were to stay the execution– He has not\n               sent us the order yet,– Tell him to send us the\n               order immediately, & dismiss the levy–3"
+      }
+    ],
+    "word_count": 76
+  },
+  "extraction_date": "2025-12-26 20:17:58",
+  "word_count": 76,
+  "processing": {
+    "cleaned": true,
+    "original_length": 460,
+    "cleaned_length": 404,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "D209081",
+  "url": "https://papersofabrahamlincoln.org/documents/D209081",
+  "metadata": {
+    "date": "1836-06-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveying",
+      "Cities and towns--Maps",
+      "Public records",
+      "Real property"
+    ],
+    "type": "Survey"
+  },
+  "content": {
+    "full_text": "Survey of Albany, Illinois, 16 June 18361 Explanation Head of Map Due NorthWidth of Streets 66 feetWDo[ditto]th\"fAlleys 16fedoFront of LotsAl66fedoDepthofdoAl124WdoStone at the S. W.[Southwest] corner of the Public square.Blocks Nos. 1, 2, 3  4, 5, and the Public Square are situated on the West half of\n               the S E[Southeast] quater of Section 6, and are the property ofJohn Wright.  Blocks 6 and 7 are situated on the West half of the N.  E[Northeast] quarter of Section 7,bothand are the property ofJohn Donaven.  Both tracts are of Township 19 North of Range 3 West. I hereby certify that the above is a correct Map of the town ofAlbany, as surveyed by me",
+    "paragraphs": [
+      "Survey of Albany, Illinois, 16 June 18361",
+      "Explanation",
+      "Head of Map Due NorthWidth of Streets 66 feetWDo[ditto]th\"fAlleys 16fedoFront of LotsAl66fedoDepthofdoAl124WdoStone at the S. W.[Southwest] corner of the Public square.Blocks Nos. 1, 2, 3  4, 5, and the Public Square are situated on the West half of\n               the S E[Southeast] quater of Section 6, and are the property ofJohn Wright.  Blocks 6 and 7 are situated on the West half of the N.  E[Northeast] quarter of Section 7,bothand are the property ofJohn Donaven.  Both tracts are of Township 19 North of Range 3 West.",
+      "I hereby certify that the above is a correct Map of the town ofAlbany, as surveyed by me"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XB4B51847-D80E-4122-9E7A-DAA70CAD12DC",
+        "text": "1Abraham Lincoln authored the entirety of the text on page one, except where noted.\n                  Page one also includes a survey map in Lincoln’s handwriting, not transcribed here."
+      },
+      {
+        "id": "XDF580793-68AC-48D1-B7BC-CC5B7BF80E60",
+        "text": "2This docketing was written by someone other than Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Survey of Albany, Illinois, 16 June 18361"
+      },
+      {
+        "type": "paragraph",
+        "text": "Explanation"
+      },
+      {
+        "type": "paragraph",
+        "text": "Head of Map Due NorthWidth of Streets 66 feetWDo[ditto]th\"fAlleys 16fedoFront of LotsAl66fedoDepthofdoAl124WdoStone at the S. W.[Southwest] corner of the Public square.Blocks Nos. 1, 2, 3  4, 5, and the Public Square are situated on the West half of\n               the S E[Southeast] quater of Section 6, and are the property ofJohn Wright.  Blocks 6 and 7 are situated on the West half of the N.  E[Northeast] quarter of Section 7,bothand are the property ofJohn Donaven.  Both tracts are of Township 19 North of Range 3 West."
+      },
+      {
+        "type": "paragraph",
+        "text": "I hereby certify that the above is a correct Map of the town ofAlbany, as surveyed by me"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:04:02",
+  "word_count": 111
+}

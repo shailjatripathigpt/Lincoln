@@ -1,0 +1,54 @@
+{
+  "document_id": "D200835",
+  "url": "https://papersofabrahamlincoln.org/documents/D200835",
+  "metadata": {
+    "date": "1855-03-02",
+    "authors": [
+      "Hay, Nathaniel"
+    ],
+    "keywords": [
+      "Promissory notes",
+      "Debtor and creditor"
+    ],
+    "type": "Promissory note"
+  },
+  "content": {
+    "full_text": "Promissory Note of Nathaniel Hay to Abraham Lincoln, 2 March 18551 DueA Lincolnsixteen dollars and eighty cents for value received–2",
+    "paragraphs": [
+      "Promissory Note of Nathaniel Hay to Abraham Lincoln, 2 March 18551 DueA Lincolnsixteen dollars and eighty cents for value received–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Receipt, Document ID: 130074,Lincoln filed claim against Hay's estate, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141352;Daily Illinois State Journal(Springfield),  7 February 1856, 2:4; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield: The Abraham Lincoln Association, 1943), 72-73, 162."
+    ],
+    "footnotes": [
+      {
+        "id": "X5C0179F1-6451-4FA1-A224-A6A273AF937E",
+        "text": "1Abraham Lincoln wrote this document and Nathaniel Hay signed it. Anotherversionof this document is extant, written in an unknown hand."
+      },
+      {
+        "id": "XB4962ACD-DD86-4C6D-A790-7A29B688A85B",
+        "text": "2In April 1849, Hay borrowed $200 from Lincoln.  Hay gave Lincoln a promissory note\n                  for $200 at six percent interest for the first six months and ten percent thereafter.\n                  Over a period of six years,  Hay repaid Lincoln with small amounts of cash and in-kind\n                  services.  Hay also paid Lincoln for legal fees in a number of cases in which Lincoln\n                  was his attorney.  On March 2, 1855, Lincoln and Hay settled the debt.  Hay gave Lincoln\n                  anotherpromissory noteand this due-bill for the balance of interest due.  Hay died in February 1856, and\n                  on June 9,  Lincoln filed aclaimfor $240 against Hay’s estate, amounting to the principal of thepromissory noteplus interest.Joshua F. Amos, Hay’s brother-in-law and administrator of Hay’s estate, paid Lincoln $225 on May 16, 1857.  Lincoln deposited $200 of the money into his account\n                  at theSpringfield Marine and Life Insurance Company.Receipt, Document ID: 130074,Lincoln filed claim against Hay's estate, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141352;Daily Illinois State Journal(Springfield),  7 February 1856, 2:4; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield: The Abraham Lincoln Association, 1943), 72-73, 162."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note of Nathaniel Hay to Abraham Lincoln, 2 March 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "DueA Lincolnsixteen dollars and eighty cents for value received–2"
+      }
+    ],
+    "word_count": 20
+  },
+  "extraction_date": "2025-12-26 21:35:35",
+  "word_count": 20,
+  "processing": {
+    "cleaned": true,
+    "original_length": 132,
+    "cleaned_length": 132,
+    "preserved_originality": true
+  }
+}

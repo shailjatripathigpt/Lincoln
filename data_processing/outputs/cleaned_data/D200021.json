@@ -1,0 +1,52 @@
+{
+  "document_id": "D200021",
+  "url": "https://papersofabrahamlincoln.org/documents/D200021",
+  "metadata": {
+    "date": "1833-02-09",
+    "authors": [
+      "Green, Bowling",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Mentally ill",
+      "Poor",
+      "Public welfare"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Bowling Green and Others to the Sangamon County Commissioners' Court,\n\n9 February 18331",
+    "paragraphs": [
+      "Petition of Bowling Green and Others to the Sangamon County Commissioners' Court,"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sangamon County Commissioners Court, Record Book D, Manuscripts Division, Abraham\n                     Lincoln Presidential Library and Museum, Springfield IL, 12, 74, 137, 183, 237, 333."
+    ],
+    "footnotes": [
+      {
+        "id": "X3D97255E-C6D5-4091-AE83-D52A00C952E0",
+        "text": "1Abraham Lincoln wrote and signed the petition. He also wrote the signatures of all\n                  those in the right-hand column aside from Jason Duncan; and of those from Harvel to\n                  the bottom of the left-hand column."
+      },
+      {
+        "id": "X86BE233F-2483-43E4-A618-80025EC13B06",
+        "text": "2Illinois law authorizedcounty commissioners courtsto cover the expenses of the indigent in their counties. Initially covering those\n                  persons “unable to earn a livelihood, in consequence of any bodily infirmity, or other\n                  unavoidable cause,” on March 1, 1833 the legislature extended the law’s coverage to\n                  those suffering from “idiocy” and “lunacy.”In March 1833, the Sangamon  County  Commissioners Court ordered that Elmore receive\n                  $32 per year for his support. In 1836, Abraham Lincoln authored and signed apetitionrequesting the Court to increase the amount allotted to Elmore, but the Court declined\n                  the request.Sangamon County Commissioners Court, Record Book D, Manuscripts Division, Abraham\n                     Lincoln Presidential Library and Museum, Springfield IL, 12, 74, 137, 183, 237, 333."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Bowling Green and Others to the Sangamon County Commissioners' Court,\n               9 February 18331"
+      }
+    ],
+    "word_count": 15
+  },
+  "extraction_date": "2025-12-26 19:46:21",
+  "word_count": 15,
+  "processing": {
+    "cleaned": true,
+    "original_length": 113,
+    "cleaned_length": 99,
+    "preserved_originality": true
+  }
+}

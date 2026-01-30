@@ -1,0 +1,61 @@
+{
+  "document_id": "D200043",
+  "url": "https://papersofabrahamlincoln.org/documents/D200043",
+  "metadata": {
+    "date": "1834-12-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislative bodies--Committees",
+      "Public land sales",
+      "Real property",
+      "Finance, Public--Accounting"
+    ],
+    "type": "Report"
+  },
+  "content": {
+    "full_text": "Report of Committee on Public Accounts and Expenditures regarding Relief of Purchasers\n\nof Vandalia Lots, 1 The committee on public accounts and expenditures, to whom was refered theresolution, requiring said committee to inquire into the expediency of granting further relief\n\nto certain purchasers ofVandalialots, have directed me to report, that they have had said resolution under consideration\n\nand that they are of opinion no further relief ought to be extended to said purchasers—\n\nand that they ask to be discharged from the further consideration of said resolution—2",
+    "paragraphs": [
+      "Report of Committee on Public Accounts and Expenditures regarding Relief of Purchasers",
+      "of Vandalia Lots, 1 The committee on public accounts and expenditures, to whom was refered theresolution, requiring said committee to inquire into the expediency of granting further relief",
+      "to certain purchasers ofVandalialots, have directed me to report, that they have had said resolution under consideration",
+      "and that they are of opinion no further relief ought to be extended to said purchasers—",
+      "and that they ask to be discharged from the further consideration of said resolution—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 123-24.",
+      "“An Act granting a donation of land to the state of Illinois, for the seat of government\n                     of said state,”  3 March 1819,Statutes at Large of the United States3 (1846):525; “An Act confirming the location of the seat of government of the state\n                     of Illinois, and for other purposes,”  2 March 1821,Statutes at Large of the United States3 (1846):618; “An Act approving and confirming the Proceedings of the Vandalia Commissioners,\n                     and for other Purposes,” 27 January 1821,Laws of Illinois(1821), 32-34; “An Act for the Relief of Purchasers of Town Lots in Vandalia,” 14\n                     February 1827,Revised Laws of Illinois(1827), 380-81; “An Act to Authorize the Auditor of Public Accounts to Sell Lots\n                     in the Town of Vandalia, and for Other Purposes,” 22 January 1829,Revised Laws of Illinois(1829), 188-89; “An Act relative to the Unsold Lots in the Town of Vandalia, and\n                     for Other Purposes,” 1 March 1833,Revised Laws of Illinois(1833), 605-06; Illinois HouseJournal. 1835. 9th G. A., 1st sess., 59."
+    ],
+    "footnotes": [
+      {
+        "id": "X4F67B06E-3293-4BCB-933E-E62498937E25",
+        "text": "1AlthoughAbraham Lincolnwrote this report,John D. Hughesdelivered it to theHouse of Representativeson December 16, 1834, and the House discharged the committee from further consideration\n                  of the resolution.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 123-24."
+      },
+      {
+        "id": "XBF16D6E9-788B-471C-9FFA-BB4B1CD9C3F1",
+        "text": "2In 1819,Congressgranted to the state ofIllinoisfour sections, or 2,560 acres, for a new seat of government.  Obtaining payment for\n                  town lots sold in the new capital of Vandalia almost immediately became a problem.\n                  In January 1821, theGeneral Assemblygranted purchasers an additional twelve months to pay for their lots.  In February\n                  1827, the General Assembly gave purchasers of lots in Vandalia a 50 percent discount\n                  on the amount due.   In January 1829, the General Assembly extended the benefits of\n                  the 1827 act until August 1829, at which point any lots that were not paid in full\n                  would be forfeited to the state.   It also authorized the auditor of public accounts\n                  to sell any remaining lots in Vandalia. Four years later, the General Assembly directed\n                  the auditor of public accounts to have any unsold lots revalued by three persons and\n                  to offer the lots for sale at the new valuation.“An Act granting a donation of land to the state of Illinois, for the seat of government\n                     of said state,”  3 March 1819,Statutes at Large of the United States3 (1846):525; “An Act confirming the location of the seat of government of the state\n                     of Illinois, and for other purposes,”  2 March 1821,Statutes at Large of the United States3 (1846):618; “An Act approving and confirming the Proceedings of the Vandalia Commissioners,\n                     and for other Purposes,” 27 January 1821,Laws of Illinois(1821), 32-34; “An Act for the Relief of Purchasers of Town Lots in Vandalia,” 14\n                     February 1827,Revised Laws of Illinois(1827), 380-81; “An Act to Authorize the Auditor of Public Accounts to Sell Lots\n                     in the Town of Vandalia, and for Other Purposes,” 22 January 1829,Revised Laws of Illinois(1829), 188-89; “An Act relative to the Unsold Lots in the Town of Vandalia, and\n                     for Other Purposes,” 1 March 1833,Revised Laws of Illinois(1833), 605-06; Illinois HouseJournal. 1835. 9th G. A., 1st sess., 59."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Committee on Public Accounts and Expenditures regarding Relief of Purchasers\n               of Vandalia Lots, [16 December 1834]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "The committee on public accounts and expenditures, to whom was refered theresolution, requiring said committee to inquire into the expediency of granting further relief\n               to certain purchasers ofVandalialots, have directed me to report, that they have had said resolution under consideration\n               and that they are of opinion no further relief ought to be extended to said purchasers—\n               and that they ask to be discharged from the further consideration of said resolution—2"
+      }
+    ],
+    "word_count": 87
+  },
+  "extraction_date": "2025-12-26 19:47:01",
+  "word_count": 89,
+  "processing": {
+    "cleaned": true,
+    "original_length": 649,
+    "cleaned_length": 575,
+    "preserved_originality": true
+  }
+}

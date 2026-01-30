@@ -1,0 +1,59 @@
+{
+  "document_id": "D200781",
+  "url": "https://papersofabrahamlincoln.org/documents/D200781",
+  "metadata": {
+    "date": "1854-06-22",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Real property--Registration and transfer",
+      "Railroads--Right of way"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Oliver L. Davis, 22 June 18541 You, no doubt, remember the enclosed memorandum being handed me in your office– I\n\nhave just made the desired search, and find that no such deed has ever been here–Campbell, the Auditor, says that if it were here, it would be in his office, and that he has\n\nhunted for it a dozen times, & could never find it– He says that one time and another,\n\nhe has heard much about the matter— that it was not a deed for Right oWay, but a deed,\n\nout-right, for Depot-ground— at least, asalefor Depot-ground, and there may never have been a deed– He says, if there is a deed,\n\nit is most probably^e^GenlAlexander, ofParis, has it–",
+    "paragraphs": [
+      "Abraham Lincoln to Oliver L. Davis, 22 June 18541 You, no doubt, remember the enclosed memorandum being handed me in your office– I",
+      "have just made the desired search, and find that no such deed has ever been here–Campbell, the Auditor, says that if it were here, it would be in his office, and that he has",
+      "hunted for it a dozen times, & could never find it– He says that one time and another,",
+      "he has heard much about the matter— that it was not a deed for Right oWay, but a deed,",
+      "out-right, for Depot-ground— at least, asalefor Depot-ground, and there may never have been a deed– He says, if there is a deed,",
+      "it is most probably^e^GenlAlexander, ofParis, has it–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "An Illustrated Historical Atlas Map of Vermilion County, Ill.([Edwardsville, IL?]: W. R. Brink, 1875), 77;Illinois Daily Journal(Springfield), 5 January 1854, 2:1; Vermilion County Deed Book, Microfilm Publication,\n                     Roll 18, D:25, H:311-12, 315-16, Vermilion County Court House, Danville, IL; Vermilion\n                     County Will Book, Microfilm Publication, Roll 1, 1838-1849, C:45-46, 141, Vermilion\n                     County Court House, Danville, IL."
+    ],
+    "footnotes": [
+      {
+        "id": "XCB1CE5FC-15A5-4A7C-B594-182885F37207",
+        "text": "1Abraham Lincoln wrote and signed this letter. He also authored the address on the\n                  envelope."
+      },
+      {
+        "id": "XEA2079F2-DDEE-4931-B5C4-2CFE8E58EC94",
+        "text": "2Enclosed memorandum to this point is in an unidentified hand. Remainder of enclosure\n                  is in Lincoln’s hand.McRoberts’s and Walker’s Addition to Danville was located southeast of the public\n                  square and northeast of the Vermilion River. The necessity of determining ownership\n                  of these two lots was likely related to the revival in 1853 of the effort by theGreat Western Railroadto complete construction of the line between Danville andDecatur. By 1856, this line was extended from Danville to theIndianastate line as the Toledo, Wabash, and Western Railroad Company, the tracks  of which\n                  passed through lots seven and eight in block eight of McRoberts’s and Walker’s Addition.Joseph Patterson purchased lots seven and eight from Samuel McRoberts, Mary F. McRoberts,\n                  Isaac P. Walker, and Margaret Walker on November 9, 1836. Patterson died intestate\n                  late in 1838 and his wife Docia Patterson was named administrator of his estate. By\n                  July 1840, Docia Patterson had also died, and administration of the estate passed\n                  to Alexander Bailey. Within five years, Oliver L. Davis had taken over administration\n                  of Joseph Patterson’s estate following Bailey’s death.An Illustrated Historical Atlas Map of Vermilion County, Ill.([Edwardsville, IL?]: W. R. Brink, 1875), 77;Illinois Daily Journal(Springfield), 5 January 1854, 2:1; Vermilion County Deed Book, Microfilm Publication,\n                     Roll 18, D:25, H:311-12, 315-16, Vermilion County Court House, Danville, IL; Vermilion\n                     County Will Book, Microfilm Publication, Roll 1, 1838-1849, C:45-46, 141, Vermilion\n                     County Court House, Danville, IL."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Oliver L. Davis, 22 June 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "You, no doubt, remember the enclosed memorandum being handed me in your office– I\n               have just made the desired search, and find that no such deed has ever been here–Campbell, the Auditor, says that if it were here, it would be in his office, and that he has\n               hunted for it a dozen times, & could never find it– He says that one time and another,\n               he has heard much about the matter— that it was not a deed for Right oWay, but a deed,\n               out-right, for Depot-ground— at least, asalefor Depot-ground, and there may never have been a deed– He says, if there is a deed,\n               it is most probably^e^GenlAlexander, ofParis, has it–"
+      }
+    ],
+    "word_count": 123
+  },
+  "extraction_date": "2025-12-26 21:29:31",
+  "word_count": 123,
+  "processing": {
+    "cleaned": true,
+    "original_length": 737,
+    "cleaned_length": 667,
+    "preserved_originality": true
+  }
+}

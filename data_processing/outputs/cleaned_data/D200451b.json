@@ -1,0 +1,55 @@
+{
+  "document_id": "D200451b",
+  "url": "https://papersofabrahamlincoln.org/documents/D200451b",
+  "metadata": {
+    "date": "1848-01-28",
+    "authors": [
+      "Gillet, Ransom H."
+    ],
+    "keywords": [
+      "Finance, Personal",
+      "Finance, Public"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Ransom H. Gillet to Abraham Lincoln, 28 January 18481 I have looked over the accounts & vouchers ofA LWilliam Thomasconcerning which you called at this office yesterday. I enclose you a copy of my\n\nletter to him of this date in relation thereto2",
+    "paragraphs": [
+      "Ransom H. Gillet to Abraham Lincoln, 28 January 18481 I have looked over the accounts & vouchers ofA LWilliam Thomasconcerning which you called at this office yesterday. I enclose you a copy of my",
+      "letter to him of this date in relation thereto2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Elizabeth Duncan Putnam, “The Life and Services of Joseph Duncan, Governor of Illinois,\n                     1834-1838,”Transactions of the Illinois State Historical Society26 (1919), 176-77; Julia Duncan Kirby,Biographical Sketch of Joseph Duncan, Fifth Governor of Illinois(Chicago: Fergus, 1888), 63-64; William G. Myer,Federal Decisions. Cases Argued and Determined in the Supreme, Circuit and District\n                        Courts of the United States(St. Louis, MO: Gilbert, 1887), 18:832-46;United States v. Linn et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137752."
+    ],
+    "footnotes": [
+      {
+        "id": "XB8FDD24F-98BF-4E6F-AFD3-83B2A413F803",
+        "text": "1This handwritten transcription comes from a copy of aletterwritten and signed by Ransom H. Gillet.  The original letter was in the possession\n                  of the Putnam Museum, Davenport, Iowa, but was reported lost as of February 2006."
+      },
+      {
+        "id": "X018D4DD2-3936-4170-968A-9EE81DA5575D",
+        "text": "2The enclosed copy of Gillet’s letter to William Thomas has not been located.Circumstantial evidence suggests that Thomas charged the federal government for his\n                  time and expenses associated with settling the estate of former Illinois GovernorJoseph Duncan.  Named administrator of Duncan’s estate after the latter’s death, Thomas spent much\n                  of the 1840s attempting to resolve debts Duncan incurred by becoming a surety for\n                  his brother-in-lawWilliam Linn.Stephen T. Logandefended Duncan and Linn in the case in theU.S. Circuit Court, and he also appealed the case on their behalf before theU.S. Supreme Court.Elizabeth Duncan Putnam, “The Life and Services of Joseph Duncan, Governor of Illinois,\n                     1834-1838,”Transactions of the Illinois State Historical Society26 (1919), 176-77; Julia Duncan Kirby,Biographical Sketch of Joseph Duncan, Fifth Governor of Illinois(Chicago: Fergus, 1888), 63-64; William G. Myer,Federal Decisions. Cases Argued and Determined in the Supreme, Circuit and District\n                        Courts of the United States(St. Louis, MO: Gilbert, 1887), 18:832-46;United States v. Linn et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137752."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Ransom H. Gillet to Abraham Lincoln, 28 January 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have looked over the accounts & vouchers ofA LWilliam Thomasconcerning which you called at this office yesterday. I enclose you a copy of my\n               letter to him of this date  in relation thereto2"
+      }
+    ],
+    "word_count": 43
+  },
+  "extraction_date": "2025-12-26 20:26:40",
+  "word_count": 43,
+  "processing": {
+    "cleaned": true,
+    "original_length": 260,
+    "cleaned_length": 245,
+    "preserved_originality": true
+  }
+}

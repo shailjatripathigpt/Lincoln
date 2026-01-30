@@ -1,0 +1,53 @@
+{
+  "document_id": "D200432",
+  "url": "https://papersofabrahamlincoln.org/documents/D200432",
+  "metadata": {
+    "date": "1847-12-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Periodicals"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Herndon, 12 December 18471 As soon as theCongressional Globeand Appendix begins to issue, I shall send you a copy of it regularly– I wish you\n\nto read it, or as much of it as you please, and be careful to preserve all the numbers,\n\nso that we can have a complete file of it There is nothing new here, but what you see in the papers–",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Herndon, 12 December 18471 As soon as theCongressional Globeand Appendix begins to issue, I shall send you a copy of it regularly– I wish you",
+      "to read it, or as much of it as you please, and be careful to preserve all the numbers,",
+      "so that we can have a complete file of it There is nothing new here, but what you see in the papers–"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X52F0157B-A607-4450-B3B1-6F7594D8C64F",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Herndon, 12 December 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "As soon as theCongressional Globeand Appendix begins to issue, I shall send you a copy of it regularly– I wish you\n               to read it, or as much of it as you please, and be careful to preserve all the numbers,\n               so that we can have a complete file of it"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is nothing new here, but what you see in the papers–"
+      }
+    ],
+    "word_count": 71
+  },
+  "extraction_date": "2025-12-26 20:24:57",
+  "word_count": 71,
+  "processing": {
+    "cleaned": true,
+    "original_length": 390,
+    "cleaned_length": 362,
+    "preserved_originality": true
+  }
+}

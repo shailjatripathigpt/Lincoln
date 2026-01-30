@@ -1,0 +1,58 @@
+{
+  "document_id": "D200057",
+  "url": "https://papersofabrahamlincoln.org/documents/D200057",
+  "metadata": {
+    "date": "1835-11-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Public officers--Selection and appointment",
+      "Employment references",
+      "Patronage, Political",
+      "Auditors"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Joseph Duncan, 10 November 18351 Understanding that MrLevi DavisofVandalia, is an applicant for the office of Auditor of Public Accounts, I take\n\nthe liberty to say to you, that his appointment to that office would be entirely satisfactory\n\nto me,\n\nand, I doubt not; to most others who are the friends of quailification and merit—2",
+    "paragraphs": [
+      "Abraham Lincoln to Joseph Duncan, 10 November 18351 Understanding that MrLevi DavisofVandalia, is an applicant for the office of Auditor of Public Accounts, I take",
+      "the liberty to say to you, that his appointment to that office would be entirely satisfactory",
+      "and, I doubt not; to most others who are the friends of quailification and merit—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John Clayton, comp.,The Illinois Fact Book and Historical Almanac, 1673-1968(Carbondale: Southern Illinois University Press), 100."
+    ],
+    "footnotes": [
+      {
+        "id": "X3892867B-DD06-4A07-8DC4-EDD4A49980B1",
+        "text": "1Abraham Lincoln wrote the entirety of the text as well as the address written on the\n                  back side of the paper."
+      },
+      {
+        "id": "XAA2F9691-41BC-48EE-BB6C-AE0608DD847E",
+        "text": "2Lincoln may have become acquainted with Davis while Lincoln was serving as a member\n                  of theIllinois House of RepresentativesinVandalia, Illinois, where Davis lived and practiced law. On November 16, 1835, Governor Duncan appointed\n                  Davis to fill the vacancy left by the resignation of the sitting auditor.John Clayton, comp.,The Illinois Fact Book and Historical Almanac, 1673-1968(Carbondale: Southern Illinois University Press), 100."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Joseph Duncan, 10 November 18351"
+      },
+      {
+        "type": "paragraph",
+        "text": "Understanding that MrLevi DavisofVandalia, is an applicant for the office of Auditor of Public Accounts, I take\n               the liberty to say to you, that his appointment to that office would be entirely satisfactory\n               to me,\n               and, I doubt not; to most others who are the friends of quailification and merit—2"
+      }
+    ],
+    "word_count": 58
+  },
+  "extraction_date": "2025-12-26 20:02:31",
+  "word_count": 58,
+  "processing": {
+    "cleaned": true,
+    "original_length": 392,
+    "cleaned_length": 350,
+    "preserved_originality": true
+  }
+}

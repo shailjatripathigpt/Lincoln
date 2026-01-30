@@ -1,0 +1,74 @@
+{
+  "document_id": "D233565",
+  "url": "https://papersofabrahamlincoln.org/documents/D233565",
+  "metadata": {
+    "date": "1849-02-21",
+    "authors": [
+      "Elkin, William F."
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William F. Elkin to Abraham Lincoln, 21 February 18491 Within are recommendations thatTurner R. Kingbe appointed Register of theLand-officeat Springfield, Illinois—3 Knowing that our mutual and particular friendWmButleris an applicant for the Receiver’s Office in this land district, and that it will\n\nmainly depend on your efforts in his behalf for success,— I only wish to say that\n\nit will be highly gratifying to me, to know that your efforts in his behalf are not\n\nin vain I think the present incumbant should be removed as early as possible—2Wishingallyou all success in every effort to serve your friends to their satisfaction and your\n\nown wishes",
+    "paragraphs": [
+      "William F. Elkin to Abraham Lincoln, 21 February 18491 Within are recommendations thatTurner R. Kingbe appointed Register of theLand-officeat Springfield, Illinois—3 Knowing that our mutual and particular friendWmButleris an applicant for the Receiver’s Office in this land district, and that it will",
+      "mainly depend on your efforts in his behalf for success,— I only wish to say that",
+      "it will be highly gratifying to me, to know that your efforts in his behalf are not",
+      "in vain I think the present incumbant should be removed as early as possible—2Wishingallyou all success in every effort to serve your friends to their satisfaction and your"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1847(Washington, DC: J. & G. S. Gideon, 1847), 31.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1847(Washington, DC: J. & G. S. Gideon, 1847), 30;Niles’ National Register(Philadelphia, PA),  23 May 1849, 1:2;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135.",
+      "Niles’ National Register(Philadelphia, PA),  23 May 1849, 1:2;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 137."
+    ],
+    "footnotes": [
+      {
+        "id": "X9E9E756B-08C0-44B0-AC1C-5B893F828F62",
+        "text": "1William F. Elkin wrote the body of the letter in its entirety.  Abraham Lincoln penned\n                  the endorsement on the envelope."
+      },
+      {
+        "id": "X3E9568EA-B31B-447C-9021-BE77A69D666A",
+        "text": "2Archer G. Herndonwas the incumbent.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1847(Washington, DC: J. & G. S. Gideon, 1847), 31."
+      },
+      {
+        "id": "X4AC434EF-AAE4-4D5F-9B4D-EA6AB6FC2067",
+        "text": "3Lincoln may have been referring to five letters endorsing Turner R. King for an appointment.\n                  SeePhilo H. Thompson to Abraham Lincoln;S. R. Baker to Abraham Lincoln;William B. Doolittle to Abraham Lincoln;R. G. Gill to Abraham Lincoln;Robert W. Briggs to Abraham Lincoln.  The incumbent register wasJames W. Barrett.  King would replace Barrett as register in Springfield.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1847(Washington, DC: J. & G. S. Gideon, 1847), 30;Niles’ National Register(Philadelphia, PA),  23 May 1849, 1:2;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135."
+      },
+      {
+        "id": "X9F756214-EBE9-4532-B8F6-ADAD017769FF",
+        "text": "4William Butler would not get the appointment;Walter Davisbecame the new receiver in Springfield.Niles’ National Register(Philadelphia, PA),  23 May 1849, 1:2;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 137."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William F. Elkin to Abraham Lincoln, 21 February 18491"
+      },
+      {
+        "type": "description",
+        "text": "Within are recommendations thatTurner R. Kingbe appointed Register of theLand-officeat Springfield, Illinois—3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Knowing that our mutual and particular friendWmButleris an applicant for the Receiver’s Office in this land district, and that it will\n               mainly depend on your efforts in his behalf for success,— I only wish to say that\n               it will be highly gratifying to me, to know that your efforts in his behalf are not\n               in vain"
+      },
+      {
+        "type": "paragraph",
+        "text": "I think the present incumbant should be removed as early as possible—2Wishingallyou all success in every effort to serve your friends to their satisfaction and your\n               own wishes"
+      }
+    ],
+    "word_count": 105
+  },
+  "extraction_date": "2025-12-26 20:35:53",
+  "word_count": 105,
+  "processing": {
+    "cleaned": true,
+    "original_length": 710,
+    "cleaned_length": 654,
+    "preserved_originality": true
+  }
+}

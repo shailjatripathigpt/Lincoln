@@ -1,0 +1,56 @@
+{
+  "document_id": "D208083",
+  "url": "https://papersofabrahamlincoln.org/documents/D208083",
+  "metadata": {
+    "date": "1844-11-14",
+    "authors": [
+      "Carpenter, Milton",
+      "Ewing, William L. D."
+    ],
+    "keywords": [
+      "State governments--Officials and employees",
+      "Elections",
+      "Payment"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of William L. D. Ewing to Abraham Lincoln, 14 November 18441 No12225",
+    "paragraphs": [
+      "Check of William L. D. Ewing to Abraham Lincoln, 14 November 18441 No12225"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Check of William L. D. Ewing to Abraham Lincoln;Check of William L. D. Ewing to Abraham Lincoln;Summary of Speech at Rockport, Indiana; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:342, n1; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: The Abraham Lincoln Association, 1943), 99; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:224-29."
+    ],
+    "footnotes": [
+      {
+        "id": "XB2AE206F-0CAD-47C6-816A-8E918DED7D50",
+        "text": "1William L. D. Ewing filled out the blanks of this partially-printed check. Milton\n                  Carpenter also signed the check. Abraham Lincoln endorsed it on the back."
+      },
+      {
+        "id": "X2F50EF87-9E21-492D-A7EF-C4A3306D0FFB",
+        "text": "2From October 24 through election day on November 4, Lincoln traveled throughIndianagiving campaign speeches in support ofHenry Clayin the1844 presidential election. On October 30, he was in Rockport, on theOhio  Riverin southern Indiana. It is likely that Lincoln traveled through Lawrence County,\n                  Illinois, on his way back home.  Auditor Ewing paid Lincoln using multiple checks,\n                  for a total of $17.60. Three of the checks are extant.Check of William L. D. Ewing to Abraham Lincoln;Check of William L. D. Ewing to Abraham Lincoln;Summary of Speech at Rockport, Indiana; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:342, n1; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: The Abraham Lincoln Association, 1943), 99; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:224-29."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of William L. D. Ewing to Abraham Lincoln, 14 November 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "No12225"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 20:20:46",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 74,
+    "cleaned_length": 74,
+    "preserved_originality": true
+  }
+}

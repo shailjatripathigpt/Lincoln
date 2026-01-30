@@ -1,0 +1,75 @@
+{
+  "document_id": "D200380",
+  "url": "https://papersofabrahamlincoln.org/documents/D200380",
+  "metadata": {
+    "date": "1845-12-30",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Appellate courts",
+      "Attorney and client"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Samuel D. Marshall, 30 December 18451 I learned to day, thatLane, to avoid paying the cost of taking the case betweenDormanand him, back from theSupreme Court, has commenced a new proceeding in yourcircuit court–2Write me, if this is so; and I together withjudge Logan, will try to frame a plea either in bar or in abatement, out of the fact of the pendency\n\nof the old case, that shall blow them up with their new case–3By the way, if they fail for more than year (which they have nearly done already)\n\nto take the old case down from here, I think we canpledplead limitation on them, so that it will stick for good and all.–4Dont speak of this, lest they hear it, and take the alarm– Write me on receipt of this–5",
+    "paragraphs": [
+      "Abraham Lincoln to Samuel D. Marshall, 30 December 18451 I learned to day, thatLane, to avoid paying the cost of taking the case betweenDormanand him, back from theSupreme Court, has commenced a new proceeding in yourcircuit court–2Write me, if this is so; and I together withjudge Logan, will try to frame a plea either in bar or in abatement, out of the fact of the pendency",
+      "of the old case, that shall blow them up with their new case–3By the way, if they fail for more than year (which they have nearly done already)",
+      "to take the old case down from here, I think we canpledplead limitation on them, so that it will stick for good and all.–4Dont speak of this, lest they hear it, and take the alarm– Write me on receipt of this–5"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 1:264 270, 282-84;Abraham Lincoln to Samuel D. Marshall.",
+      "Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 1037.",
+      "“An Act for the Limitation of Actions and for Avoiding Vexatious Law Suits,” 10 February\n                     1827,Revised Laws of Illinois(1827), 286; Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases, 1:284."
+    ],
+    "footnotes": [
+      {
+        "id": "XAB13B8DE-89E6-46AC-BC64-E01AF0CD817C",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also authored the address on the back\n                  page, which was folded to create an envelope for mailing."
+      },
+      {
+        "id": "XA6D904AA-CEA3-422D-89A4-C5947FC7A67B",
+        "text": "2Abraham Lincoln represented William andNancy Dormanin the Illinois Supreme Court case ofDorman et ux. v. Lane, on appeal from theGallatin County Circuit Court, where Samuel D. Marshall had represented them. The Supreme Court delivered its opinion\n                  on January 29, 1845, reversing the decision and remanding the case back to the Gallatin\n                  County Circuit Court. Lane had not actually begun a new case, but had reinstated his\n                  petition in the lower court without first paying the costs of the appeal and obtaining\n                  the copy of the judgment of the Supreme Court.Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 1:264 270, 282-84;Abraham Lincoln to Samuel D. Marshall.For previous letters concerning the Dorman case, seeAbraham Lincoln to Samuel D. Marshall, andAbraham Lincoln to Samuel D. Marshall."
+      },
+      {
+        "id": "XA7027A00-A4CA-4EA3-B828-F1384DA40382",
+        "text": "3A plea in bar denies the merit of the case, while a plea in abatement simply objects\n                  to the timing of the plaintiff’s claim.Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 1037."
+      },
+      {
+        "id": "X441DC190-3F28-454B-9D5E-81A3015F9527",
+        "text": "4Illinoislaw gave participants one year from the date of the decision to reverse in the Illinois\n                  Supreme Court in which to reinstate the case. Lane had until January 29, 1846, to\n                  reinstate his case.“An Act for the Limitation of Actions and for Avoiding Vexatious Law Suits,” 10 February\n                     1827,Revised Laws of Illinois(1827), 286; Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases, 1:284."
+      },
+      {
+        "id": "X76701967-D56C-4B88-AA03-1D8FC866D97A",
+        "text": "5Marshall’s reply to Lincoln has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Samuel D. Marshall, 30 December 18451"
+      },
+      {
+        "type": "paragraph",
+        "text": "I learned to day, thatLane, to avoid paying the cost of taking the case betweenDormanand him, back from theSupreme Court, has commenced a new proceeding in yourcircuit court–2Write me, if this is so; and I together withjudge Logan, will try to frame a plea either in bar or in abatement, out of the fact of the pendency\n               of the old case, that shall blow them up with their new case–3By the way, if they fail for more than year (which they have nearly done already)\n               to take the old case down from here, I think we canpledplead limitation on them, so that it will stick for good and all.–4Dont speak of this, lest they hear it, and take the alarm–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Write me on receipt of this–5"
+      }
+    ],
+    "word_count": 135
+  },
+  "extraction_date": "2025-12-26 20:22:34",
+  "word_count": 135,
+  "processing": {
+    "cleaned": true,
+    "original_length": 761,
+    "cleaned_length": 733,
+    "preserved_originality": true
+  }
+}

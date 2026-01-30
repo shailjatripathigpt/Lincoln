@@ -1,0 +1,61 @@
+{
+  "document_id": "D210452",
+  "url": "https://papersofabrahamlincoln.org/documents/D210452",
+  "metadata": {
+    "date": "1849-05-02",
+    "authors": [],
+    "keywords": [
+      "Business transactions",
+      "Carpets",
+      "House furnishings"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "J. C. Louderman & Company to Abraham Lincoln, 2 May 18491 We this day received your order for 71/4yds carpet. It has been put up and sent to MrScotwho has kindly promised to forward it to you by the first oppertunity2Hopeing it may arrive in good time & Please Bos ofJ C Louderman & Co– 71/4yds Brussels Carpet@ 1.60$11.60",
+    "paragraphs": [
+      "J. C. Louderman & Company to Abraham Lincoln, 2 May 18491 We this day received your order for 71/4yds carpet. It has been put up and sent to MrScotwho has kindly promised to forward it to you by the first oppertunity2Hopeing it may arrive in good time & Please Bos ofJ C Louderman & Co– 71/4yds Brussels Carpet@ 1.60$11.60"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William C. Scott to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X35AD51D8-8DF6-4BA5-9F3D-1AF6C9BF2CC1",
+        "text": "1James C. Louderman wrote the letter and bill of sale and signed the letter."
+      },
+      {
+        "id": "XAB24875A-44A5-46DC-B926-62F2C59E8E9E",
+        "text": "2William C. Scott sought, without success, to consign the carpet to someone travelling\n                  directly from St. Louis toSpringfield, Illinois.Patrick CresapofJacksonville, Illinois, offered to take the carpet as far as Jacksonville, and left St. Louis with it on\n                  the afternoon of May 7.  Upon arriving in Jacksonville, Cresap left it withMathew Stacy, who most likely delivered it to Abraham Lincoln.William C. Scott to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "J. C. Louderman & Company to Abraham Lincoln, 2 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "We this day received your order for 71/4yds[yards] carpet. It has been put up and sent to MrScotwho has kindly promised to forward it to you by the first oppertunity2Hopeing it may arrive in good time & Please"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bos[Bill of Sale] ofJ C Louderman & Co–"
+      },
+      {
+        "type": "paragraph",
+        "text": "71/4yds Brussels Carpet@ 1.60$11.60"
+      }
+    ],
+    "word_count": 59
+  },
+  "extraction_date": "2025-12-26 20:42:46",
+  "word_count": 61,
+  "processing": {
+    "cleaned": true,
+    "original_length": 343,
+    "cleaned_length": 322,
+    "preserved_originality": true
+  }
+}

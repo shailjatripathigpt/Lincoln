@@ -1,0 +1,69 @@
+{
+  "document_id": "D200070",
+  "url": "https://papersofabrahamlincoln.org/documents/D200070",
+  "metadata": {
+    "date": "1836-XX-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveying",
+      "Surveys",
+      "Land titles--Registration and transfer",
+      "Lawyers"
+    ],
+    "type": "Survey"
+  },
+  "content": {
+    "full_text": "Notes of a Survey Made for David Hart, 18361 Houghton.Notes for a 12 acre tract.3 A part of the West half of the SouthWEast quarter of Section 13 in Township 17 North of Range 7 West of the 3rdPrincipal Meridian. and bounded as follows (viz) Begining at the South East corner\n\nof said half quarter. Thence West, with the Southern boundary line, 10 chains and\n\n7 links. Thence North 12 chains & 40 links to the centre of the channel ofRock creek. Thence down Rock creek with it's meanderings to the place where the line dividing\n\nthe East & West halves of the above named quarter, crosses the same. Thence South\n\nwith said dividing line to the begining. Containing 12 acres and 48 hundredths of\n\nan acre, more or less.2",
+    "paragraphs": [
+      "Notes of a Survey Made for David Hart, 18361 Houghton.Notes for a 12 acre tract.3 A part of the West half of the SouthWEast quarter of Section 13 in Township 17 North of Range 7 West of the 3rdPrincipal Meridian. and bounded as follows (viz) Begining at the South East corner",
+      "of said half quarter. Thence West, with the Southern boundary line, 10 chains and",
+      "7 links. Thence North 12 chains & 40 links to the centre of the channel ofRock creek. Thence down Rock creek with it's meanderings to the place where the line dividing",
+      "the East & West halves of the above named quarter, crosses the same. Thence South",
+      "with said dividing line to the begining. Containing 12 acres and 48 hundredths of",
+      "an acre, more or less.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Deposition, 2 September 1837,Houghton v. Hart et al.,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139252."
+    ],
+    "footnotes": [
+      {
+        "id": "XADAB5EFF-AB4C-4D35-BED4-436D9492DD83",
+        "text": "1Abraham Lincoln wrote this document, including the docketing on page two."
+      },
+      {
+        "id": "X2F183A71-027A-487D-B550-C9CA2311B249",
+        "text": "2The land described here is located in present-dayMenard County, south ofPetersburg."
+      },
+      {
+        "id": "X8510023D-903E-4A6C-B361-C233B26CF3F2",
+        "text": "3Lincoln surveyed this twelve-acre tract of land forDavid Hartin 1834. Hart then sold the land to Elijah Houghton, but died before executing a\n                  deed to the land. In 1836, Lincoln and his partnerJohn T. Stuartrepresented Houghton in a suit against Hart’s heirs to obtain a deed to the land.Deposition, 2 September 1837,Houghton v. Hart et al.,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139252."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Notes of a Survey Made for David Hart, 18361"
+      },
+      {
+        "type": "description",
+        "text": "Houghton.Notes for a 12 acre tract.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "A part of the West half of the SouthWEast quarter of Section 13 in Township 17 North of Range 7 West of the 3rdPrincipal Meridian. and bounded as follows (viz) Begining at the South East corner\n               of said half quarter. Thence West, with the Southern boundary line, 10 chains and\n               7 links. Thence North 12 chains & 40 links to the centre of the channel ofRock creek. Thence down Rock creek with it's meanderings to the place where the line dividing\n               the East & West halves of the above named quarter, crosses the same. Thence South\n               with said dividing line to the begining. Containing 12 acres and 48 hundredths of\n               an acre, more or less.2"
+      }
+    ],
+    "word_count": 130
+  },
+  "extraction_date": "2025-12-26 20:04:45",
+  "word_count": 130,
+  "processing": {
+    "cleaned": true,
+    "original_length": 788,
+    "cleaned_length": 718,
+    "preserved_originality": true
+  }
+}

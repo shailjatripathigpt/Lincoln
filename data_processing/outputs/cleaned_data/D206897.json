@@ -1,0 +1,61 @@
+{
+  "document_id": "D206897",
+  "url": "https://papersofabrahamlincoln.org/documents/D206897",
+  "metadata": {
+    "date": "1858-05-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Patronage, Political",
+      "Public prosecutors"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Jonathan K. Cooper, 10 May 18581 Yoursof the 7thon behalf ofGeo. Phelps, Esq, for Prossecuting Atty– is received– I have previously had similar letters on behalf of two others for\n\nthe same place–2As I do not personally know MrPhelps, the best I can do for him, is to lay your letter before theGovernor, with an indorsement ofyou, as a good and true man, which I shall most cheerfully do.3",
+    "paragraphs": [
+      "Abraham Lincoln to Jonathan K. Cooper, 10 May 18581 Yoursof the 7thon behalf ofGeo. Phelps, Esq, for Prossecuting Atty– is received– I have previously had similar letters on behalf of two others for",
+      "the same place–2As I do not personally know MrPhelps, the best I can do for him, is to lay your letter before theGovernor, with an indorsement ofyou, as a good and true man, which I shall most cheerfully do.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Jonathan K. Cooper to Abraham Lincoln.",
+      "S. J. Clarke,History of McDonough County Illinois(Springfield, IL: D. W. Lusk, 1878), 304, 306."
+    ],
+    "footnotes": [
+      {
+        "id": "X546638F7-23B1-4930-8E79-FF087981990D",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XE752A25E-D6E2-4C5D-BAE9-ED673A380198",
+        "text": "2The letters Lincoln references have not been located. Lincoln is discussing the position\n                  of state's attorney ofIllinois's Fifth Judicial Circuit.Jonathan K. Cooper to Abraham Lincoln."
+      },
+      {
+        "id": "X706E328F-FC52-445A-93A5-842873EF698E",
+        "text": "3Lincoln endorsed Jonathan K. Cooper’s May 7letteras described above. Cooper had sought Lincoln’s aid in recommending George Phelps\n                  to Governor William A. Bissell for appointment as state's attorney of the Fifth Judicial\n                  Circuit—a position recently vacated byJohn S. Bailey, who resigned. Ultimately, Governor Bissell appointedLouis H. Watersto serve out the remainder of Bailey’s term as state’s attorney. Waters held the\n                  position until 1860.S. J. Clarke,History of McDonough County Illinois(Springfield, IL: D. W. Lusk, 1878), 304, 306."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Jonathan K. Cooper, 10 May 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yoursof the 7thon behalf ofGeo. Phelps, Esq,   for Prossecuting Atty–[Attorney]  is received–  I have previously had similar letters on behalf of two others for\n               the same place–2As I do not personally know MrPhelps, the best I can do for him, is to lay your letter before theGovernor, with an indorsement ofyou, as a good and true man, which I shall most cheerfully do.3"
+      }
+    ],
+    "word_count": 72
+  },
+  "extraction_date": "2025-12-26 21:47:42",
+  "word_count": 72,
+  "processing": {
+    "cleaned": true,
+    "original_length": 436,
+    "cleaned_length": 408,
+    "preserved_originality": true
+  }
+}

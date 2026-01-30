@@ -1,0 +1,204 @@
+============================================================
+LINCOLN WRITINGS THEME ANALYSIS REPORT
+============================================================
+
+Documents Analyzed: 91
+Failed Documents: 9
+
+============================================================
+THEME DISTRIBUTION
+============================================================
+
+Presidential And Executive:
+  Documents: 41 (45.1%)
+  Average Intensity: 2.61
+
+Legal And Constitutional:
+  Documents: 38 (41.8%)
+  Average Intensity: 2.67
+
+War And Conflict:
+  Documents: 34 (37.4%)
+  Average Intensity: 2.16
+
+Democracy And Government:
+  Documents: 33 (36.3%)
+  Average Intensity: 2.97
+
+Morality And Ethics:
+  Documents: 31 (34.1%)
+  Average Intensity: 2.62
+
+Unity And Union:
+  Documents: 26 (28.6%)
+  Average Intensity: 3.50
+
+Slavery And Freedom:
+  Documents: 16 (17.6%)
+  Average Intensity: 2.95
+
+============================================================
+MOST COMMON PRIMARY THEMES
+============================================================
+Unity And Union: 27 (29.7%)
+Presidential And Executive: 16 (17.6%)
+Democracy And Government: 13 (14.3%)
+War And Conflict: 12 (13.2%)
+Legal And Constitutional: 11 (12.1%)
+Slavery And Freedom: 7 (7.7%)
+Morality And Ethics: 5 (5.5%)
+
+============================================================
+THEME INTENSITY ANALYSIS
+============================================================
+
+Unity And Union:
+  Average: 1.001
+  Range: 0.000 - 13.000
+  Std Dev: 2.508
+
+Slavery And Freedom:
+  Average: 0.519
+  Range: 0.000 - 18.000
+  Std Dev: 2.321
+
+Democracy And Government:
+  Average: 1.079
+  Range: 0.000 - 13.000
+  Std Dev: 2.240
+
+War And Conflict:
+  Average: 0.809
+  Range: 0.000 - 10.000
+  Std Dev: 1.675
+
+Morality And Ethics:
+  Average: 0.892
+  Range: 0.000 - 14.202
+  Std Dev: 2.149
+
+Legal And Constitutional:
+  Average: 1.113
+  Range: 0.000 - 20.783
+  Std Dev: 2.571
+
+Presidential And Executive:
+  Average: 1.176
+  Range: 0.000 - 6.000
+  Std Dev: 1.770
+
+============================================================
+THEME EVOLUTION OVER TIME
+============================================================
+
+1832:
+
+1833:
+  War And Conflict: 0.500
+  Morality And Ethics: 0.500
+
+1834:
+  Legal And Constitutional: 5.446
+  Morality And Ethics: 3.800
+  War And Conflict: 1.636
+
+1835:
+  Legal And Constitutional: 2.000
+
+1836:
+  Presidential And Executive: 1.000
+
+1837:
+  Democracy And Government: 0.500
+  Legal And Constitutional: 0.500
+
+1838:
+  Presidential And Executive: 0.500
+
+1839:
+
+1840:
+  Democracy And Government: 1.333
+  War And Conflict: 1.333
+  Legal And Constitutional: 1.000
+
+1841:
+  Legal And Constitutional: 3.500
+  Unity And Union: 1.500
+  War And Conflict: 1.000
+
+1842:
+  Legal And Constitutional: 1.200
+  Morality And Ethics: 0.800
+  Unity And Union: 0.400
+
+1843:
+  Unity And Union: 6.891
+  Democracy And Government: 3.474
+  Presidential And Executive: 1.978
+
+1844:
+  Unity And Union: 10.000
+  Democracy And Government: 8.000
+  Morality And Ethics: 7.000
+
+1846:
+  War And Conflict: 2.500
+  Presidential And Executive: 1.500
+  Unity And Union: 0.500
+
+1847:
+  War And Conflict: 2.000
+  Morality And Ethics: 2.000
+  Legal And Constitutional: 2.000
+
+1848:
+  War And Conflict: 2.600
+  Unity And Union: 2.300
+  Legal And Constitutional: 2.200
+
+1849:
+  Presidential And Executive: 2.318
+  War And Conflict: 0.500
+  Morality And Ethics: 0.364
+
+1850:
+  Slavery And Freedom: 1.000
+  Morality And Ethics: 1.000
+  Legal And Constitutional: 1.000
+
+1851:
+  Legal And Constitutional: 1.000
+
+1852:
+
+1854:
+  Legal And Constitutional: 0.800
+  Unity And Union: 0.600
+  Slavery And Freedom: 0.600
+
+1855:
+  Legal And Constitutional: 1.667
+  Presidential And Executive: 1.000
+  Democracy And Government: 0.667
+
+1856:
+  Slavery And Freedom: 11.000
+  Democracy And Government: 6.667
+  Unity And Union: 6.000
+
+1858:
+  Democracy And Government: 1.308
+  Legal And Constitutional: 0.846
+  War And Conflict: 0.538
+
+============================================================
+ANALYSIS RECOMMENDATIONS
+============================================================
+
+Based on the theme analysis:
+• Most prevalent themes: Presidential And Executive, Legal And Constitutional, War And Conflict
+• Most common primary theme: Unity And Union
+• Consider these themes for RAG system categorization
+• Fine-tuning should emphasize these thematic patterns
+• Use theme-based filtering for specialized queries

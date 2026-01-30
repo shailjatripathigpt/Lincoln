@@ -1,0 +1,80 @@
+{
+  "document_id": "D285164",
+  "url": "https://papersofabrahamlincoln.org/documents/D285164",
+  "metadata": {
+    "date": "1832-09-29",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military discharge",
+      "Indians of North America--Wars",
+      "Militia",
+      "Soldiers--Salaries, etc.",
+      "Bounties, Military",
+      "Military service, Voluntary"
+    ],
+    "type": "Certificate",
+    "extracted_date": "1832-09-29",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "states",
+      "united",
+      "under",
+      "command",
+      "certificate",
+      "discharge",
+      "travis",
+      "elmore",
+      "september",
+      "certify",
+      "thattravice",
+      "elmorevolunteered",
+      "servedas",
+      "privatein",
+      "company"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Certificate of Discharge for Travis Elmore, 29 September 18321 I CERTIFY, ThatTravice Elmorevolunteered and servedas a privatein the Company of Mounted Volunteers under my command, in theRegimentcommanded by Col.Samuel M. Thompson, in the Brigade under the command of GeneralsS. WhitesideandH. Atkinson, called into the service of the United States by the Commander-in-Chief of theMilitia of the State, for the protection of the North Western Frontier against anInvasionof the British Band ofSacand other tribes of Indians,—that he was enrolled on the21stHONORABLY DISCHARGED on the7thday ofJunethereafter, having served48 days2",
+    "paragraphs": [
+      "Certificate of Discharge for Travis Elmore, 29 September 18321 I CERTIFY, ThatTravice Elmorevolunteered and servedas a privatein the Company of Mounted Volunteers under my command, in theRegimentcommanded by Col.Samuel M. Thompson, in the Brigade under the command of GeneralsS. WhitesideandH.",
+      "Atkinson, called into the service of the United States by the Commander-in-Chief of theMilitia of the State, for the protection of the North Western Frontier against anInvasionof the British Band ofSacand other tribes of Indians,—that he was enrolled on the21stHONORABLY DISCHARGED on the7thday ofJunethereafter, having served48 days2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+    ],
+    "footnotes": [
+      {
+        "id": "X335139B5-F4EC-456D-802F-185DDCB921EF",
+        "text": "1Abraham Lincoln signed and filled in the blanks of this partially printed document."
+      },
+      {
+        "id": "XBE80337F-AD3D-4C31-9469-656E4E62605D",
+        "text": "2At the outbreak of theBlack Hawk War, Lincoln volunteered for theIllinois state militia. On April 21, 1832, Lincoln and other men from theNew Salemarea were mustered into a company in the4th Regiment of Illinois Mounted Volunteers, and the members of the company elected Lincoln as their captain. When his month\n                  of service ended, Lincoln re-enlisted twice, for twenty and thirty days respectively,\n                  serving as a private both times. He was discharged finally on July 10, 1832.Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Discharge for Travis Elmore, 29 September 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "I CERTIFY, ThatTravice Elmorevolunteered and servedas a privatein the Company of Mounted Volunteers under my command, in theRegimentcommanded by Col.Samuel M. Thompson, in the Brigade under the command of GeneralsS. WhitesideandH. Atkinson, called into the service of the United States by the Commander-in-Chief of theMilitia of the State, for the protection of the North Western Frontier against anInvasionof the British Band ofSacand other tribes of Indians,—that he was enrolled on the21st[day ofApril1832, and was]HONORABLY DISCHARGED on the7thday ofJunethereafter, having served48 days2"
+      }
+    ],
+    "word_count": 87
+  },
+  "extraction_date": "2025-12-26 19:45:44",
+  "word_count": 90,
+  "processing": {
+    "cleaned": true,
+    "original_length": 654,
+    "cleaned_length": 628,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

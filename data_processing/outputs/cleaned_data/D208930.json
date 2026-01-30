@@ -1,0 +1,60 @@
+{
+  "document_id": "D208930",
+  "url": "https://papersofabrahamlincoln.org/documents/D208930",
+  "metadata": {
+    "date": "1850-07-25",
+    "authors": [
+      "Kercheval, Lewis C."
+    ],
+    "keywords": [
+      "Speeches, addresses, etc.",
+      "Eulogies"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Lewis C. Kercheval and Richard J. Hamilton to Abraham Lincoln, 25 July 18501 Having listened with great satisfaction to the chaste and beautiful eulogium on the character and services ofZachary Taylor, late President of the United States, pronounced by you, before the citizens of Chicago,2and desirous that the public at large may participate in the pleasure enjoyed by\n\nthose who had the good fortune to be present on the occasion, we respectfully request\n\nthat you will furnish a copy of your address for publication.3",
+    "paragraphs": [
+      "Lewis C. Kercheval and Richard J. Hamilton to Abraham Lincoln, 25 July 18501 Having listened with great satisfaction to the chaste and beautiful eulogium on the character and services ofZachary Taylor, late President of the United States, pronounced by you, before the citizens of Chicago,2and desirous that the public at large may participate in the pleasure enjoyed by",
+      "those who had the good fortune to be present on the occasion, we respectfully request",
+      "that you will furnish a copy of your address for publication.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William E. Barton,The Life and Public Service of General Zachary Taylor: An Address by Abraham Lincoln(Boston: Houghton Mifflin, 1922), 5;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 7 July 1850,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-07; 9 July 1850http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-09; 24 July 1850,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-24;Parker v. Hoyt, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137697; Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 2: 1849-1860, by William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     36-37."
+    ],
+    "footnotes": [
+      {
+        "id": "XA70A7F51-C2ED-40F0-AB60-BE95F2316D34",
+        "text": "1This letter is attributed to Lewis C. Kercheval and Richard J. Hamilton, but the original\n                  letter with their signatures is not extant."
+      },
+      {
+        "id": "XAE956F98-E76F-4B91-93CF-AE63BC42BB18",
+        "text": "2On July 9, 1850, the Common Council of Chicago met to make arrangements for President\n                  Zachary Taylor’s memorial service, and  immediately selected Abraham Lincoln to deliver\n                  the eulogy in Chicago. Lincoln informally accepted the Council’s invitation on July\n                  10th. He had been in Chicago since July 7, 1850, for the trial ofZebulon ParkerversusCharles Hoytat theU.S. District Courtin the city. The trial, which began on July 9th, revolved around Hoyt’s alleged infringement\n                  of Parker’s copyright on a waterwheel. Lincoln represented Hoyt in the case. The trial\n                  lasted until July 24th, with Lincoln and Hoyt emerging victorious.On July 22, 1850, Lewis C. Kercheval,Buckner S. Morris,George W. Dole,John H. Kinzie, andWalter L. Newberryformally askedLincoln to deliver the eulogy, and, on July 24th, the day the Hoyt trial ended, Lincolnformally accepted. He delivered the eulogy on July 25, 1850.William E. Barton,The Life and Public Service of General Zachary Taylor: An Address by Abraham Lincoln(Boston: Houghton Mifflin, 1922), 5;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 7 July 1850,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-07; 9 July 1850http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-09; 24 July 1850,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-24;Parker v. Hoyt, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137697; Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 2: 1849-1860, by William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     36-37."
+      },
+      {
+        "id": "XA3CFB266-2E73-45A8-9B11-7BA1167918A8",
+        "text": "3Lincolnrepliedto this letter on July 26, 1850, enclosing the original draft of his address for\n                  publication. TheChicago Daily Journalalso published a report on his eulogy address on July 27, 1850."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Lewis C. Kercheval and Richard J. Hamilton to Abraham Lincoln, 25 July 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "Having listened with great satisfaction to the chaste and beautiful eulogium on the character and services ofZachary Taylor, late President of the United States, pronounced by you, before the citizens of Chicago,2and desirous that the public at large may participate in the pleasure enjoyed by\n               those who had the good fortune to be present on the occasion, we respectfully request\n               that you will furnish a copy of your address for publication.3"
+      }
+    ],
+    "word_count": 84
+  },
+  "extraction_date": "2025-12-26 21:23:26",
+  "word_count": 84,
+  "processing": {
+    "cleaned": true,
+    "original_length": 549,
+    "cleaned_length": 521,
+    "preserved_originality": true
+  }
+}

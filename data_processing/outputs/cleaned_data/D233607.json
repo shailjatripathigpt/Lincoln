@@ -1,0 +1,59 @@
+{
+  "document_id": "D233607",
+  "url": "https://papersofabrahamlincoln.org/documents/D233607",
+  "metadata": {
+    "date": "1848-12-17",
+    "authors": [],
+    "keywords": [
+      "Patronage, Political",
+      "United States marshals"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William W. Roman to Abraham Lincoln, 17 December 18481 It is only through our solitarywhigmember inCongressthat we can expect to be heard by the new administration that is soon to come in:\n\nand therefore you must expect to be harrassed by us without measure. I will however bebriefin this note at least. We here, so far as I can get an expression of opinion, want\n\nour friendBenjnBondEsq ofCarlyleappointed Marshal of thisState.2Many applicants probably may be expected for that appt and if a long list of names are necessary we can furnish them in his behalf. He isCapable; That is, he has theknowledgenecessary– He isenergeticand isHonest. I can say no more than that his appointment would give satisfaction to the Whigs,\n\nand that theLocoscould not complain of our putting in an incompetent officer.",
+    "paragraphs": [
+      "William W. Roman to Abraham Lincoln, 17 December 18481 It is only through our solitarywhigmember inCongressthat we can expect to be heard by the new administration that is soon to come in:",
+      "and therefore you must expect to be harrassed by us without measure. I will however bebriefin this note at least. We here, so far as I can get an expression of opinion, want",
+      "our friendBenjnBondEsq ofCarlyleappointed Marshal of thisState.2Many applicants probably may be expected for that appt and if a long list of names are necessary we can furnish them in his behalf. He isCapable; That is, he has theknowledgenecessary– He isenergeticand isHonest. I can say no more than that his appointment would give satisfaction to the Whigs,",
+      "and that theLocoscould not complain of our putting in an incompetent officer."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+    ],
+    "footnotes": [
+      {
+        "id": "X65E343A8-A8F1-4AD8-8B2B-0F2B8132A3CF",
+        "text": "1William W. Roman authored this letter in its entirety."
+      },
+      {
+        "id": "X94B4A773-30A7-4983-9957-738D6B2959DA",
+        "text": "2Benjamin Bond received the appointment and held the job until 1853.  In March 1849,\n                  Abraham Lincoln wrote several letters soliciting government officials on Bond’s behalf,\n                  though he preferred that the appointment go to another.Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William W. Roman to Abraham Lincoln, 17 December 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is only through our solitarywhigmember inCongressthat we can expect to be heard by the new administration that is soon to come in:\n               and therefore you must expect to be harrassed by us without measure. I will however bebriefin this note at least. We here, so far as I can get an expression of opinion, want\n               our friendBenjnBondEsq[Esquire] ofCarlyleappointed Marshal of thisState.2Many applicants probably may be expected for that appt[appointment] and if a long list of names are necessary we can furnish them in his behalf. He isCapable; That is, he has theknowledgenecessary– He isenergeticand isHonest."
+      },
+      {
+        "type": "paragraph",
+        "text": "I can say no more than that his appointment would give satisfaction to the Whigs,\n               and that theLocoscould not complain of our putting in an incompetent officer."
+      }
+    ],
+    "word_count": 132
+  },
+  "extraction_date": "2025-12-26 20:32:53",
+  "word_count": 132,
+  "processing": {
+    "cleaned": true,
+    "original_length": 866,
+    "cleaned_length": 802,
+    "preserved_originality": true
+  }
+}

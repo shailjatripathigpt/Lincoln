@@ -1,0 +1,73 @@
+{
+  "document_id": "D200132",
+  "url": "https://papersofabrahamlincoln.org/documents/D200132",
+  "metadata": {
+    "date": "1838-03-15",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Stuart, John T."
+    ],
+    "keywords": [
+      "Lawyers",
+      "Actions and defenses",
+      "Attorney and client"
+    ],
+    "type": "Letter",
+    "extracted_date": "1838-03-15",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "john",
+      "stuart",
+      "abraham",
+      "lincoln",
+      "levi",
+      "davis",
+      "march"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "John T. Stuart and Abraham Lincoln to Levi Davis, 15 March 18381",
+    "paragraphs": [
+      "John T. Stuart and Abraham Lincoln to Levi Davis, 15 March 18381"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Decatur Republican(Decatur, IL), 2 January 1883, 3:4."
+    ],
+    "footnotes": [
+      {
+        "id": "X8C6AD93E-A076-4E04-83C1-DEEB0E6BC5B9",
+        "text": "1Abraham Lincoln wrote the letter in its entirety including the signatures and the\n                  address on the back side."
+      },
+      {
+        "id": "X289603E6-3960-4D71-8AAF-E91F96AEE1CD",
+        "text": "2Davis’s letter of March 2 has not been located."
+      },
+      {
+        "id": "X48D32CEC-41FE-4F43-8A0C-C138317CCB1D",
+        "text": "3Upon Stapp’s death, theDecatur Republicanrefers to him as “Dr. Stapp,” so it is probable that he is the Stapp to which Stuart\n                  and Lincoln are referring.Decatur Republican(Decatur, IL), 2 January 1883, 3:4."
+      },
+      {
+        "id": "XF927BFD7-61C6-4C2C-B1D3-DB62159D0E70",
+        "text": "4Unknown v. Stapp,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141095."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John T. Stuart and Abraham Lincoln to Levi Davis, 15 March 18381"
+      }
+    ],
+    "word_count": 12
+  },
+  "extraction_date": "2025-12-26 20:06:26",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 64,
+    "cleaned_length": 64,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

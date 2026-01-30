@@ -1,0 +1,59 @@
+{
+  "document_id": "D200967",
+  "url": "https://papersofabrahamlincoln.org/documents/D200967",
+  "metadata": {
+    "date": "1857-08-15",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Attorney and client"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Robert E. Williams, 15 August 18571 Yours of the 12thin relation to a suit of Bakewell vs Allin, was received a day or two ago–2I well remember the transaction; but asBakewellwill need no lawyer but you, and as there is likely to be some feeling, and both\n\nthe parties are old friends of mine, I prefer, if I can, to keep out of the case–\n\nOf course I will not engage against MrBakewell–3",
+    "paragraphs": [
+      "Abraham Lincoln to Robert E. Williams, 15 August 18571 Yours of the 12thin relation to a suit of Bakewell vs Allin, was received a day or two ago–2I well remember the transaction; but asBakewellwill need no lawyer but you, and as there is likely to be some feeling, and both",
+      "the parties are old friends of mine, I prefer, if I can, to keep out of the case–",
+      "Of course I will not engage against MrBakewell–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "For additional information on the caseCampbell v. Allin, see:Campbell v. Allin, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=136840;Lincoln declined legal work from Williams, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141455."
+    ],
+    "footnotes": [
+      {
+        "id": "XBE9D03D2-F278-4E45-9390-FC91AEAA70A6",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X09E90A68-4CAA-4D69-AED0-B7F5BF1F268D",
+        "text": "2Robert E. Williams’ letter to Lincoln has not been located; therefore, some of the\n                  context related to this lawsuit is missing."
+      },
+      {
+        "id": "XB39F1152-C42A-42CD-A3F0-A9AB15FFC111",
+        "text": "3The suitBakewell v. Allinmay have been related to a case that Lincoln was involved with in theMcLean County Circuit Courtfrom 1851 to 1853—Campbell v. Allin. In that case, Alexander Campbell suedJames Allinin the McLean County Circuit Court for an injunction concerning a deed to certain\n                  property. Campbell retained Lincoln; Allin retainedAsahel Gridley. Although the editors ofThe Law Practice of Abraham Lincoln: Complete Documentary Editionlisted Edwin W. Bakewell as a plaintiff attorney alongside Lincoln in the case, Bakewell\n                  was most likely a plaintiff alongside Campbell. In April 1853, Campbell dismissed\n                  his bill of injunction.Lincolncorrespondedwith Bakewell at least once about theCampbell v. Allincase. No further correspondence between Williams and Lincoln regarding theBakewell v. Allinsuit has been located.For additional information on the caseCampbell v. Allin, see:Campbell v. Allin, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=136840;Lincoln declined legal work from Williams, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141455."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Robert E. Williams, 15 August 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 12thin relation to a suit of Bakewell vs Allin, was received a day or two ago–2I well remember the transaction; but asBakewellwill need no lawyer but you, and as there is likely to be some feeling, and both\n               the parties are old friends of mine, I prefer, if I can, to keep out of the case–\n               Of course I will not engage against MrBakewell–3"
+      }
+    ],
+    "word_count": 76
+  },
+  "extraction_date": "2025-12-26 21:44:36",
+  "word_count": 76,
+  "processing": {
+    "cleaned": true,
+    "original_length": 435,
+    "cleaned_length": 407,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "D236459",
+  "url": "https://papersofabrahamlincoln.org/documents/D236459",
+  "metadata": {
+    "date": "1848-03-14 - 1849-03-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Envelopes (Stationery)"
+    ],
+    "type": "Envelope"
+  },
+  "content": {
+    "full_text": "Envelope of Abraham Lincoln to Jesse K. Dubois, 1",
+    "paragraphs": [
+      "Envelope of Abraham Lincoln to Jesse K. Dubois, 1"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X66034523-5C97-442C-86C5-916DC5C0AE3C",
+        "text": "1Abraham Lincoln addressed this envelope.  The enclosed letter has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Envelope of Abraham Lincoln to Jesse K. Dubois, [14 March 1848 - 14 March 1849]1"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:38:32",
+  "word_count": 15,
+  "processing": {
+    "cleaned": true,
+    "original_length": 80,
+    "cleaned_length": 49,
+    "preserved_originality": true
+  }
+}

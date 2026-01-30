@@ -1,0 +1,52 @@
+{
+  "document_id": "D206772",
+  "url": "https://papersofabrahamlincoln.org/documents/D206772",
+  "metadata": {
+    "date": "1849-06-22",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references",
+      "United States marshals"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt of Abraham Lincoln to Department of Interior, 22 June 18491",
+    "paragraphs": [
+      "Receipt of Abraham Lincoln to Department of Interior, 22 June 18491"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Memorandum concerning Benjamin Bond;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+    ],
+    "footnotes": [
+      {
+        "id": "X49BAC3EB-9AE4-44D7-AB6F-F760F892EEAF",
+        "text": "1This letter is attributed to Abraham Lincoln, but is not in Lincoln’s hand. The signature\n                  is suspect, but the editors believe the signature is in Lincoln’s hand."
+      },
+      {
+        "id": "X49F0DD9D-5D75-41C0-A074-CBB4D7AE4E11",
+        "text": "2The letter Lincoln references has not been located. In March 1849, both Charles G.\n                  Thomas andBenjamin Bondwere competing to become the U.S. marshal forIllinois. Lincoln wrote several letters to government officials recommending that they consider\n                  Bond for the position. In two of these letters, however, Lincoln noted that he preferred\n                  that the appointment go to Thomas.  Bond received the appointment and held the job\n                  until 1853.Abraham Lincoln to John M. Clayton;Memorandum concerning Benjamin Bond;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Abraham Lincoln to Department of Interior, 22 June 18491"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 21:18:38",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 67,
+    "cleaned_length": 67,
+    "preserved_originality": true
+  }
+}

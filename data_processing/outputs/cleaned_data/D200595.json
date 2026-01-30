@@ -1,0 +1,68 @@
+{
+  "document_id": "D200595",
+  "url": "https://papersofabrahamlincoln.org/documents/D200595",
+  "metadata": {
+    "date": "1849-06-03",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James M. McLean, 3 June 18491 It is now certain that either MrButterfieldor I will be commissioner of theGeneral Land office2– If you are willing to give me the preference, please write me to that effect, atWashington, whither I go, in a few days–3Not a moment of time to be lost–4Yours truly",
+    "paragraphs": [
+      "Abraham Lincoln to James M. McLean, 3 June 18491 It is now certain that either MrButterfieldor I will be commissioner of theGeneral Land office2– If you are willing to give me the preference, please write me to that effect, atWashington, whither I go, in a few days–3Not a moment of time to be lost–4Yours truly"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope.",
+      "William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 10 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-10; 19 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-19."
+    ],
+    "footnotes": [
+      {
+        "id": "X2346DB47-495F-4AFA-A644-36F7683B1BF9",
+        "text": "1Mary Lincolnwrote and signed this letter on Abraham Lincoln’s behalf. Lincoln sent very similar\n                  letters to numerous people in early June 1849.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "XEB1EF36E-9C0B-44A5-A249-F083368098D5",
+        "text": "2Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner of the U.S. General Land Office. Lincoln entered\n                  the competition after learning that Butterfield was favored over Morrison and Edwards.\n                  See theGeneral Land Office Affair."
+      },
+      {
+        "id": "XDCC7C64F-23DB-47A4-BAD4-5C525E92346A",
+        "text": "3As competition for the job intensified,William H. HendersonandJosiah M. Lucas, Lincoln supporters living in Washington, DC, urged Lincoln to come to the nation’s\n                  capital to personally lobby for the position.  On June 9, ButterfieldwroteLincoln suggesting that neither go to Washington.  Lincoln did not respond to this\n                  suggestion, and on June 10, both set out for the capital.  Lincoln arrived on or before\n                  June 19.William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 10 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-10; 19 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-19."
+      },
+      {
+        "id": "X1EE3BDD4-0E54-4FA2-9BCA-A1B5748DD842",
+        "text": "4James M. McLeanrespondedto this letter on June 11 and offered his support to Lincoln. Ultimately, neither\n                  Morrison, Edwards, nor Lincoln received the appointment; the job went to Butterfield\n                  instead. See theGeneral Land Office Affair."
+      },
+      {
+        "id": "XA2199FA4-AEB5-43D8-8F5D-33595865FA4D",
+        "text": "5Lincoln wrote the script on this envelope."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James M. McLean, 3 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is now certain that either MrButterfieldor I will be commissioner of theGeneral Land office2– If you are willing to give me the preference, please write me to that effect, atWashington,  whither I go, in a few days–3Not a moment of time to be lost–4Yours truly"
+      }
+    ],
+    "word_count": 55
+  },
+  "extraction_date": "2025-12-26 21:16:23",
+  "word_count": 55,
+  "processing": {
+    "cleaned": true,
+    "original_length": 312,
+    "cleaned_length": 311,
+    "preserved_originality": true
+  }
+}

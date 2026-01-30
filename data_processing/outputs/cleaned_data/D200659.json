@@ -1,0 +1,65 @@
+{
+  "document_id": "D200659",
+  "url": "https://papersofabrahamlincoln.org/documents/D200659",
+  "metadata": {
+    "date": "1850-08-01",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Deeds",
+      "Land titles--Registration and transfer",
+      "Real property"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Edwin W. Bakewell, 1 August 18501 I have at last found time to draw up a Bill in your case– Inclosed you have it–2Get from the Recorder's office a copy of Cole's deed toCampbell,3mark it thus: (A) and put it with the Bill, as part of it– Then fill properly the\n\nblank date in the bond at the end of the Bill, have some good man to sign his name\n\nto the bond, and file the whole with theclerkof thecircuit court–4",
+    "paragraphs": [
+      "Abraham Lincoln to Edwin W. Bakewell, 1 August 18501 I have at last found time to draw up a Bill in your case– Inclosed you have it–2Get from the Recorder's office a copy of Cole's deed toCampbell,3mark it thus: (A) and put it with the Bill, as part of it– Then fill properly the",
+      "blank date in the bond at the end of the Bill, have some good man to sign his name",
+      "to the bond, and file the whole with theclerkof thecircuit court–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "For documents related to this suit, seeCampbell v. Allin, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136840."
+    ],
+    "footnotes": [
+      {
+        "id": "X60FEFDDE-F764-4909-8871-9B3FB4CA71F9",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X177846B5-213E-473E-924A-C9B2A71951FD",
+        "text": "2The completed bill was not found enclosed this letter, and it has not been located."
+      },
+      {
+        "id": "XBC6783A6-4817-44E2-9230-22C379D44567",
+        "text": "3Cole could not be positively identified."
+      },
+      {
+        "id": "X3243C62D-58F5-4F9C-A02A-457524DC5AE5",
+        "text": "4Alexander Campbell suedJames Allinin theMcLean County Circuit Courtfor an injunction concerning a deed to certain property.  Campbell retained Lincoln;\n                  Allin retainedAsahel Gridley.   In April 1853, Campbell dismissed his bill of injunction.Editors ofThe Law Practice of Abraham Lincoln: Complete Documentary Editionlisted Edwin W. Bakewell as a plaintiff attorney alongside Lincoln, but Bakewell\n                  was most likely a plaintiff alongside Campbell.  In alettertoRobert E. Williamsin August 1857, Lincoln references that he recollected a transaction between Bakewell\n                  and Allin which probably refers to the case in 1850.Editors ofThe Law Practice of Abraham Lincoln: Complete Documentary Editionidentified the defendant as James Allin Jr., but the alphabetical docket of judgments\n                  and executions listed the defendant as James Allin, Sr., father ofJames Allin, Jr., who was the clerk of the McLean County Circuit Court.For documents related to this suit, seeCampbell v. Allin, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136840."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Edwin W. Bakewell, 1 August 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have at last found time to draw up a Bill in your case– Inclosed you have it–2Get from the Recorder's office a copy of Cole's deed toCampbell,3mark it thus: (A) and put it with the Bill, as part of it– Then fill properly the\n               blank date in the bond at the end of the Bill, have some good man to sign his name\n               to the bond, and file the whole with theclerkof thecircuit court–4"
+      }
+    ],
+    "word_count": 84
+  },
+  "extraction_date": "2025-12-26 21:22:50",
+  "word_count": 84,
+  "processing": {
+    "cleaned": true,
+    "original_length": 459,
+    "cleaned_length": 431,
+    "preserved_originality": true
+  }
+}

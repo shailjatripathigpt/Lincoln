@@ -1,0 +1,49 @@
+{
+  "document_id": "D206845",
+  "url": "https://papersofabrahamlincoln.org/documents/D206845",
+  "metadata": {
+    "date": "1835-XX-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Administrative law--U.S. territories and possessions"
+    ],
+    "type": "Recommendation"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Elias Kent Kane and Others, [1835]1 We take pleasure in recommending GeneralWm. Lee D. Ewingas Secretary for the proposedTerritoryof Wisconsinand request you to urge thePresidentto appoint him when theTerritoryshall be established.2",
+    "paragraphs": [
+      "Abraham Lincoln to Elias Kent Kane and Others, [1835]1",
+      "We take pleasure in recommending GeneralWm. Lee D. Ewingas Secretary for the proposedTerritoryof Wisconsinand request you to urge thePresidentto appoint him when theTerritoryshall be established.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1974), 10:2.",
+      "Wisconsin Biographical Disctionary(Hamburg, MI: State History Publications, 2008), 188."
+    ],
+    "footnotes": [
+      {
+        "id": "X528C1A5B-70AF-4836-BD6A-9741E93E0490",
+        "text": "1In 1974, the original of this  document was apparently located in RG 59, Records of\n                  the Department of State at the National Archives in College Park, MD, but it was not\n                  discovered during a thorough search of RG 59 by the staff of The Papers of Abraham\n                  Lincoln. This transcription is taken from that given in Basler’sCollected Works.Roy P. Basler,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1974), 10:2."
+      },
+      {
+        "id": "X9905C2D0-0CB4-4872-8AD9-854C4C68D289",
+        "text": "2Abraham Lincolnwas one of 102 Illinois state legislators and officials who signed this recommendation,\n                  addressed to the Illinois’ Congressional Delegation.  Other addressees wereJohn M. Robinson,John Reynolds,William L. May, andZadok Casey.  Basler claims that Robinson, Kane, Casey, and Reynolds concurred with this recommendation\n                  on January 31, 1835, but without the original it is impossible to verify their endorsements.PresidentAndrew Jacksonappointed John S. Horner as Secretary of Wisconsin Territory in June 1836.Wisconsin Biographical Disctionary(Hamburg, MI: State History Publications, 2008), 188."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Elias Kent Kane and Others, [1835]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "We take pleasure in recommending GeneralWm. Lee D. Ewingas Secretary for the proposedTerritoryof Wisconsinand request you to urge thePresidentto appoint him when theTerritoryshall be established.2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:03:12",
+  "word_count": 34
+}

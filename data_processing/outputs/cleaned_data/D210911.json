@@ -1,0 +1,64 @@
+{
+  "document_id": "D210911",
+  "url": "https://papersofabrahamlincoln.org/documents/D210911",
+  "metadata": {
+    "date": "1858-08-30",
+    "authors": [
+      "Francis, Simeon"
+    ],
+    "keywords": [
+      "Agricultural exhibitions",
+      "Agriculture--Societies, etc."
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Simeon Francis to Abraham Lincoln, 30 August 18581 I beg your acceptance of an invitation by the Illinois State Agricultural Society\n\nto attend their State Fair atCentralia, commencing on the 14th of Sept. and ending on the 17th, 1858.2",
+    "paragraphs": [
+      "Simeon Francis to Abraham Lincoln, 30 August 18581 I beg your acceptance of an invitation by the Illinois State Agricultural Society",
+      "to attend their State Fair atCentralia, commencing on the 14th of Sept. and ending on the 17th, 1858.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 16 September 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-16; Abraham Lincoln to Elihu B. Washburne;Abraham Lincoln to Martin P. Sweet;Abraham Lincoln to Joseph Gillespie;The Illinois State Journal(Springfield), 6 October 1858, 1:1; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 546-47, 557; Richard\n                     E. Hart,Circuses in Lincoln’s Springfield (1833-1860)(Springfield: Richard E. Hart, 2013), 7-8; Paul M. Angle, ed.,The Complete Lincoln-Douglas Debates of 1858(Chicago & London: University of Chicago Press, 1991), 189, 232; Allen C. Guelzo,\n                     “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 414-16.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 3 September 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-03; 4 September 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-04;Daily Illinois State Journal(Springfield), 2 September 1858, 3:1"
+    ],
+    "footnotes": [
+      {
+        "id": "X6DE76434-F071-4E22-A9FB-5D3D15148BEC",
+        "text": "1Simeon Franciswrote this letter, including the address on the envelope."
+      },
+      {
+        "id": "XC546EBA5-11D9-4A00-B310-E11DAC65E171",
+        "text": "2Abraham Lincoln attended the Illinois State Fair, arriving in Centralia at noon on\n                  September 16 and stopping at Centralia House. Although he did not speak, Lincoln attracted\n                  crowds on the fairgrounds. He escaped to theIllinois Central Railroadsuperintendent’s office and wrote three letters to friends and political supporters.Abraham Lincoln was theRepublicancandidate from Illinois for theU.S. Senate.  Politicians and party managers often scheduled political meetings to coincide with\n                  circuses, fairs, and other local festivities to ensure a large audience. Circus tents\n                  also provided a public place for large crowds to congregate. In the 1858 senatorial\n                  campaign, Lincoln andStephen A. Douglas, his opponent and the incumbent, spoke in several localities in conjunction with\n                  circus performances or fairs. Douglas was also in Centralia and at some point, according\n                  to one newspaper, made an “outrageous attack” on Lincoln. This action backfired on\n                  Douglas, however, because of the general dislike of bringing politics into the normally\n                  non-partisan state fair.In the local elections of 1858, Republicans won a majority of all votes cast in Illinois,\n                  but pro-Douglas Democrats retained control of theIllinois General Assembly, which elected U.S. senators at that time, and Douglas won reelection. See1858 Illinois Republican Convention;1858 Federal Election.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 16 September 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-16; Abraham Lincoln to Elihu B. Washburne;Abraham Lincoln to Martin P. Sweet;Abraham Lincoln to Joseph Gillespie;The Illinois State Journal(Springfield), 6 October 1858, 1:1; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 546-47, 557; Richard\n                     E. Hart,Circuses in Lincoln’s Springfield (1833-1860)(Springfield: Richard E. Hart, 2013), 7-8; Paul M. Angle, ed.,The Complete Lincoln-Douglas Debates of 1858(Chicago & London: University of Chicago Press, 1991), 189, 232; Allen C. Guelzo,\n                     “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 414-16."
+      },
+      {
+        "id": "4019332",
+        "text": "3Lincoln’s list of appointments had him in Bloomington on September 4 to deliver a\n                  speech.  He arrived on September 3, and gave the speech as expected.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 3 September 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-03; 4 September 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-04;Daily Illinois State Journal(Springfield), 2 September 1858, 3:1"
+      },
+      {
+        "id": "X9D31D99D-AB30-4EB1-819F-BDE64BC10002",
+        "text": "4Lincoln wrote this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Simeon Francis to Abraham Lincoln, 30 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "I beg your acceptance of an invitation by the Illinois State Agricultural Society\n               to attend their State Fair atCentralia, commencing on the 14th of Sept.[September] and ending on the 17th, 1858.2"
+      }
+    ],
+    "word_count": 39
+  },
+  "extraction_date": "2025-12-26 21:58:58",
+  "word_count": 39,
+  "processing": {
+    "cleaned": true,
+    "original_length": 261,
+    "cleaned_length": 236,
+    "preserved_originality": true
+  }
+}

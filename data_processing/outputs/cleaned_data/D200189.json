@@ -1,0 +1,58 @@
+{
+  "document_id": "D200189",
+  "url": "https://papersofabrahamlincoln.org/documents/D200189",
+  "metadata": {
+    "date": "1839-12-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "State governments--Officials and employees",
+      "Legislative bodies",
+      "Elections"
+    ],
+    "type": "Resolution"
+  },
+  "content": {
+    "full_text": "Proposed Resolution of Illinois House of Representatives regarding the Contested Election\n\nin Pike County, 1 Resolved, that the final action upon the contested election from the county ofPike, defered until monday next; and that the door keeper be directed to procure the attendance\n\nofGeorge M. HansonofColes countyby that time—2",
+    "paragraphs": [
+      "Proposed Resolution of Illinois House of Representatives regarding the Contested Election",
+      "in Pike County, 1 Resolved, that the final action upon the contested election from the county ofPike, defered until monday next; and that the door keeper be directed to procure the attendance",
+      "ofGeorge M. HansonofColes countyby that time—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 46.",
+      "Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 322, 329, 330; Illinois HouseJournal. 1839. 11th G. A., special sess., 5-6,  25, 34, 37-40, 41-43, 48-49, 79, 82, 83-84."
+    ],
+    "footnotes": [
+      {
+        "id": "X1AB1A3E3-98EA-49B0-8751-D5C1CA00734D",
+        "text": "1On December 17, 1839, James T. Cunningham introduced the resolution, penned byAbraham Lincoln, in theHouse of Representatives, and the House adopted it.Illinois HouseJournal. 1839. 11th G. A., special sess., 46."
+      },
+      {
+        "id": "XCC689409-7E3F-4B21-9AB8-E6BA97B1272B",
+        "text": "2The contested election was betweenOscar LoveandRichard Kerr.  On November 25, 1839, Pike County held a special election for a representative\n                  on the supposition that Kerr, aWhigelected in August 1838, had vacated his seat by removal from the state.  On December\n                  9, Love presented his certificate of election as representative from Pike County,\n                  but the House refused to seat him, and passed a resolution instructing the Committee\n                  on Elections to investigate whether Kerr had vacated his seat.  The House later re-considered\n                  this action, postponing consideration of the resolution  by a vote of 42 yeas and\n                  36 nays, with Lincoln voting nay. On December 12, Kerr informed the House that he\n                  was in attendance, and requested quick action on Love’s claim to the seat.  On December\n                  13, the House passed a resolution instructing the Committee on Elections to report\n                  what information it had obtained in order to decide whether it was necessary the delay\n                  the final decision on Kerr’s claim.  The committee reported later that day that the\n                  facts of the case proved that Kerr had not vacated the state, and was therefore entitled\n                  to his seat.John H. Murphymoved a resolution to seat Kerr, butIsaac P. Walkeroffered an amendment that the House take no action until the testimony of Hanson\n                  could be obtained and considered.  Lincoln moved an amendment to the amendment by\n                  adding “and that until this contest be determined, neither of the contesting parties\n                  be entitled to a seat in this House.”  The House adopted Walker’s amendment as amended\n                  by Lincoln.  On December 14, the House refused to table Murphy’s original resolution\n                  by a vote of 42 yeas to 42 nays, with Lincoln voting nay. The House also refused to\n                  table Walker’s amendment by a vote of 38 yeas to 47 nays, with Lincoln voting yea.\n                  The House did table Lincoln’s amendment by a vote of 41 yeas to 41 nays, with Lincoln\n                  voting nay.  On December 16, the House again refused to table the original resolution\n                  and amendment until July 4, 1840, by a vote of 43 yeas to 45 nays, with Lincoln voting\n                  nay.  The House refused an amendment that would have entitled Kerr the seat until\n                  it was shown to have been vacated by a vote of 43 yeas to 45 nays, with Lincoln voting\n                  yea.   The House passed Walker’s resolution as amended entitling Love to the seat\n                  until further testimony could be heard by a vote of 45 yeas to 43 nays, with Lincoln\n                  voting nay.  Lincoln then proposed to amend the resolution by striking out the words\n                  “until further testimony is heard on the subject.”  The House adopted this amendment,\n                  but rejected the resolution as amended by a vote of 44 yeas to 44 nays, with Lincoln\n                  voting nay.  On December 17, the House tabled a resolution prohibiting Love from voting\n                  and acting as a member of the House until the contested election could be resolved\n                  by a vote of 48 yeas to 40 nays, with Lincoln voting nay.  On December 17, the House\n                  authorized Speaker William L. D. Ewing to issue subpoenas for all witnesses associated with the case, and on December 23,\n                  the House began hearing testimony.  On December 24, the House adopted a resolution\n                  that Kerr was entitled to the seat by a vote of 44 yeas to 43 nays, with Lincoln voting\n                  yea, and Kerr replaced Love.Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 322, 329, 330; Illinois HouseJournal. 1839. 11th G. A., special sess., 5-6,  25, 34, 37-40, 41-43, 48-49, 79, 82, 83-84."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Proposed Resolution of Illinois House of Representatives regarding the Contested Election\n               in Pike County, [17 December 1839]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Resolved, that the final action upon the contested election from the county ofPike, defered until monday next; and that the door keeper be directed to procure the attendance\n               ofGeorge M. HansonofColes countyby that time—2"
+      }
+    ],
+    "word_count": 49
+  },
+  "extraction_date": "2025-12-26 20:09:38",
+  "word_count": 51,
+  "processing": {
+    "cleaned": true,
+    "original_length": 376,
+    "cleaned_length": 330,
+    "preserved_originality": true
+  }
+}

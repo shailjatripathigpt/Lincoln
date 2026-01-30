@@ -1,0 +1,76 @@
+{
+  "document_id": "D210468",
+  "url": "https://papersofabrahamlincoln.org/documents/D210468",
+  "metadata": {
+    "date": "1849-05-11",
+    "authors": [
+      "Warren, Fitz Henry"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-05-11",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "honor",
+      "fitz",
+      "henry",
+      "warren",
+      "abraham",
+      "lincoln",
+      "inform",
+      "you",
+      "thepostmaster",
+      "generalhas",
+      "appointeddavid",
+      "jenkinspostmaster",
+      "athennepinin",
+      "state",
+      "ofillinoisin"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Fitz Henry Warren to Abraham Lincoln, 11 May 18491 I have the honor to inform you, that thePostmaster Generalhas appointedDavid P. JenkinsPostmaster atHennepinin the State ofIllinoisin place ofEli B. Ames— Removed.2",
+    "paragraphs": [
+      "Fitz Henry Warren to Abraham Lincoln, 11 May 18491 I have the honor to inform you, that thePostmaster Generalhas appointedDavid P. JenkinsPostmaster atHennepinin the State ofIllinoisin place ofEli B. Ames— Removed.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls, Records of the Post Office Department,\n                     RG 28,  1845-1855, 18:162, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 476*;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 534*."
+    ],
+    "footnotes": [
+      {
+        "id": "X9A19E030-71B4-4440-A59D-F493DEB84A5B",
+        "text": "1Fitz Henry Warren signed this form letter."
+      },
+      {
+        "id": "XD5B0D43C-AEA9-480C-A38D-660627F24890",
+        "text": "2In February 1848,Andrew WardlawwroteAbraham Lincoln recommending David P. Jenkins to replace Eli B. Ames if he should\n                  be removed. Supporters of Jenkins circulated a petition on his behalf and sent it\n                  to Lincoln, requesting that Lincoln submit it to the Post Office Department.  JenkinswroteLincoln on May 20 asking what, if anything, Lincoln had done with the petition. \n                  Neither the petition nor Lincoln’s response, if he penned one, has been located.Jenkins would remain postmaster of Hennepin until October 1852.Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls, Records of the Post Office Department,\n                     RG 28,  1845-1855, 18:162, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 476*;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 534*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fitz Henry Warren to Abraham Lincoln, 11 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the honor to inform you, that thePostmaster Generalhas appointedDavid P. JenkinsPostmaster atHennepinin the State ofIllinoisin place ofEli B. Ames— Removed.2"
+      }
+    ],
+    "word_count": 31
+  },
+  "extraction_date": "2025-12-26 21:14:52",
+  "word_count": 31,
+  "processing": {
+    "cleaned": true,
+    "original_length": 215,
+    "cleaned_length": 215,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

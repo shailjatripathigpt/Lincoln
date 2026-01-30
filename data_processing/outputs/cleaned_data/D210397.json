@@ -1,0 +1,53 @@
+{
+  "document_id": "D210397",
+  "url": "https://papersofabrahamlincoln.org/documents/D210397",
+  "metadata": {
+    "date": "1849-04-06",
+    "authors": [
+      "Francis, Simeon",
+      "Henry, Anson G.",
+      "Pope, William",
+      "Stuart, John T.",
+      "Warren, William B."
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Anson G. Henry and Others to Abraham Lincoln, 6 April 18491",
+    "paragraphs": [
+      "Anson G. Henry and Others to Abraham Lincoln, 6 April 18491"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XC4AF1949-D4FC-45D8-AC8F-38E24B30CD31",
+        "text": "1Anson G. Henry wrote the text of this letter and signed his name.  William B. Warren,\n                  William Pope, John T. Stuart, and Simeon Francis signed their respective names."
+      },
+      {
+        "id": "XFC92B1DA-2415-4006-A9FC-9A734DB67147",
+        "text": "2Abraham Lincolnrespondedto this letter on April 7, giving his consent to efforts to get him the job of commissioner\n                  of the General Land Office.  He did not receive the appointment, the job going toJustin H. Butterfieldinstead.  See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Anson G. Henry and Others to Abraham Lincoln, 6 April 18491"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 20:39:08",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 59,
+    "cleaned_length": 59,
+    "preserved_originality": true
+  }
+}

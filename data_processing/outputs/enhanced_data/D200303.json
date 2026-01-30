@@ -1,0 +1,167 @@
+{
+  "document_id": "D200303",
+  "url": "https://papersofabrahamlincoln.org/documents/D200303",
+  "metadata": {
+    "date": "1842-04-27",
+    "authors": [
+      "King, Franklin T.",
+      "King, Turner R."
+    ],
+    "keywords": [
+      "Bankruptcy",
+      "Lawyers",
+      "Debtor and creditor",
+      "Actions and defenses"
+    ],
+    "type": "Assignment",
+    "extracted_date": "1842-04-27",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "assignment",
+      "franklin",
+      "king",
+      "william",
+      "butler",
+      "thomas",
+      "moffett",
+      "april"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Assignment of Franklin T. King to William Butler and Thomas Moffett, 27 April 18421",
+    "paragraphs": [
+      "Assignment of Franklin T. King to William Butler and Thomas Moffett, 27 April 18421"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Sangamo Journal(Springfield, IL), 2 October 1840, 3:2;In re Torrey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=137848."
+    ],
+    "footnotes": [
+      {
+        "id": "X2FB7B495-EF5C-48FC-B1AC-C91EE453E783",
+        "text": "1Abraham Lincoln wrote the body of the document. Turner R. King signed his and Franklin\n                  T. King’s signatures."
+      },
+      {
+        "id": "X0A283D83-3166-4A0A-A13B-19C8DB1FDA55",
+        "text": "2King and Joseph Torrey were partners in Joseph Torrey and Co., which dissolved by October 1840, when King\n                  withdrew from the partnership. In 1842, Torrey retainedLogan & Lincolnand petitioned for bankruptcy. This document was prepared as part of the bankruptcy,\n                  in order to  transfer seventy-three debts that were due the company to their sureties,\n                  Butler and Moffett.Sangamo Journal(Springfield, IL), 2 October 1840, 3:2;In re Torrey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=137848."
+      },
+      {
+        "id": "X686CB838-9978-47A0-BAA2-F1638E6869AC",
+        "text": "3Presumably, the debtors on this list lived in centralIllinois. Only individuals who can be positively identified received hyperlinks and biographies."
+      },
+      {
+        "id": "X8A75A9BA-7524-436C-984A-A40ECCD54E44",
+        "text": "4This may beCharles Dougherty Sr.or to his son,Charles Dougherty Jr.. Both lived inSangamon County."
+      },
+      {
+        "id": "XA0BFE6DA-766A-4622-B982-FD4D82D22267",
+        "text": "5This may or may not be a different William Davis from the one above."
+      },
+      {
+        "id": "DEW262872184204270000_1",
+        "text": "6“3 42” changed to “3 48”."
+      },
+      {
+        "id": "DEW238339184204270000_2",
+        "text": "7“7—02” changed to “7—12”."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Assignment of Franklin T. King to William Butler and Thomas Moffett, 27 April 18421"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "John [Harmon?] | $25—00",
+          "John M Smith | 7.18",
+          "Philip Dicken | 3—62",
+          "Jacob Knotts | 5—00",
+          "Charles Wood | 10—00",
+          "William Davis | 10—00",
+          "Charles Dougherty4Ballance | 22—00",
+          "Richard Hodge | . . .",
+          "William Davis5 | [1.09?]",
+          "John Busher | 6—00",
+          "John Grove | 4—25",
+          "James DorrellBallance | 1—13",
+          "[Tolipher?] . . . | 1—63",
+          "James L. HillBallance | 3.42",
+          "William McCormick— | 1.00",
+          "Abram Crowder | 3—00",
+          "Thomas Rudder | 3—50",
+          "John B. Allen | 2:75",
+          "Arnold Stevens | 2.00",
+          "E. G. Johns | 16—75",
+          "William . . .Ballance | 15—00",
+          "Alexander Matthews | 2—25",
+          "William Stake | 6.00",
+          "Armistead N Hesser | 4.00",
+          "John H. Davis | 4—50",
+          "A. S. Harman | 19 . . .",
+          "Patrick O’Neal | . . .",
+          "Reuben Daniels | . . .",
+          "<Page 2>",
+          "John Green | $3 63",
+          "William B. Powell | 3 486",
+          "George Wood | 6—00",
+          "William H. Dooley | 4—50",
+          "ElijahMeisMisner | 14—76",
+          "John G. Paine | 8.00",
+          "R. F. Cofflin | 11.27",
+          "C. Radford | 8 57",
+          "Sullivan Conant | 9 50",
+          "H Litton | 11.79",
+          "C. M Polk | 2—25.",
+          "J. W. Chenoweth | 37—20",
+          "F. S. Barker | 3—34",
+          "N. M Rickard | 4.00",
+          "H. H. Hall | 4—00",
+          "Moses Pierson | 33—13",
+          "A. A. Durham | 64.07",
+          "John M. Neele | 10—87",
+          "C. M. Ransdell | 3—75",
+          "Hiram Alexander | 1—56",
+          "William M. . .ill | 3.82",
+          ". . . | . . .100",
+          ". . . | 33.06",
+          "Henry Mock | 7—00",
+          "E. R. WileyBallance | 1411—00",
+          "John. Greabeal | 5—00",
+          "B. Lockely | 7—127",
+          "William Ham | 3—00",
+          "Z H. Brewster | 4—75",
+          "James H. Mas",
+          "Thomas Harst | 12—75",
+          "John S. Dulin | 5—00",
+          "Barnet Carlon | 3—00",
+          "WmB. Brown | 2—72",
+          "A. Burnett | 4.75",
+          "Nicholas Jones | 14—45",
+          "C. F. Hughes | 13—00",
+          "Abraham Lindsay | 2 00",
+          "Christian PoffenbargerBallance | 12—10",
+          "T W. ByingtonBallance | 10—62",
+          "James A. Clark | 3—12",
+          "William Craig | 68.64",
+          ". . . Davis | 2—06",
+          ". . . H. . . . | 10 2[8]<Page 3>",
+          "George Stringer | $6.63—"
+        ]
+      }
+    ],
+    "word_count": 14
+  },
+  "extraction_date": "2025-12-26 20:17:49",
+  "word_count": 16,
+  "processing": {
+    "cleaned": true,
+    "original_length": 93,
+    "cleaned_length": 83,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

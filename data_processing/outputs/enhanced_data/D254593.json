@@ -1,0 +1,77 @@
+{
+  "document_id": "D254593",
+  "url": "https://papersofabrahamlincoln.org/documents/D254593",
+  "metadata": {
+    "date": "1836-12-21",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "County government",
+      "Counties"
+    ],
+    "type": "Report",
+    "extracted_date": "1836-12-21",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "report",
+      "select",
+      "committee",
+      "bill",
+      "organization",
+      "county",
+      "van",
+      "buren",
+      "december",
+      "whom",
+      "refered",
+      "thefor",
+      "same",
+      "back",
+      "without"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Report of Select Committee on “A Bill for the Organization of the County of Van Buren,”\n\n21 December 18361 The select committee to whom was refered thefor the organization of the county of Van Buren, report the same back without amendment,\n\nexcept filling the blank in the second line of the third section of the original bill\n\nwith the word “first”2",
+    "paragraphs": [
+      "Report of Select Committee on “A Bill for the Organization of the County of Van Buren,”",
+      "21 December 18361 The select committee to whom was refered thefor the organization of the county of Van Buren, report the same back without amendment,",
+      "except filling the blank in the second line of the third section of the original bill"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1836. 10th G. A., 1st sess., 55, 82-83, 89-90, 92-93, 94, 123, 683."
+    ],
+    "footnotes": [
+      {
+        "id": "XBDB8CA9C-4743-4EF2-BE07-057AC4DEBBF4",
+        "text": "1Responding to petitions from citizens ofSangamonandMorganCounties,Stephen A. Douglasfrom the Committee on Petitions made a report and introducedHB 17in theHouse of Representativeson December 20, 1836. The same day, the House referred the bill to a select committee,\n                  of whichAbraham Lincolnwas a member. On December 21, Lincoln, on behalf of the select committee, reported\n                  back the bill with these amendments, written entirely in his handwriting.Illinois HouseJournal. 1836. 10th G. A., 1st sess., 55, 82-83, 89-90, 92-93, 94, 123, 683."
+      },
+      {
+        "id": "XD5535C58-30EF-47FB-9CDB-9C9D0B62A8DE",
+        "text": "2In 1836, Sangamon County encompassed parts of the present-day counties ofChristian,Logan,Menard, andMason. The new county proposed by this bill would have included present-day southern Mason\n                  County and most of present-day Menard County."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Select Committee on “A Bill for the Organization of the County of Van Buren,”\n               21 December 18361"
+      },
+      {
+        "type": "paragraph",
+        "text": "The select committee to whom was refered the[bill]for the organization of the county of Van Buren, report the same back without amendment,\n               except filling the blank in the second line of the third section of the original bill\n               with the word “first”2"
+      }
+    ],
+    "word_count": 61
+  },
+  "extraction_date": "2025-12-26 20:03:43",
+  "word_count": 61,
+  "processing": {
+    "cleaned": true,
+    "original_length": 398,
+    "cleaned_length": 350,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

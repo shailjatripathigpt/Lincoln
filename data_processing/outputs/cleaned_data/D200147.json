@@ -1,0 +1,70 @@
+{
+  "document_id": "D200147",
+  "url": "https://papersofabrahamlincoln.org/documents/D200147",
+  "metadata": {
+    "date": "1839-01-04",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Parliamentary practice"
+    ],
+    "type": "Rule"
+  },
+  "content": {
+    "full_text": "Additional Rule of the House of Representatives of Illinois, 1 Mr.Lincolnmoved to adopt, as an additional rule of thisHouse, the following: Mr.Williamsmoved to strike out the words “its engrossment for the;” which was agreed to. Mr. Williams moved further to amend the resolution by adding after the word “after,”\n\nthe words “it is ordered to a;” On the further motion of Mr. Williams, The whole was laid on the table.2",
+    "paragraphs": [
+      "Additional Rule of the House of Representatives of Illinois, 1 Mr.Lincolnmoved to adopt, as an additional rule of thisHouse, the following: Mr.Williamsmoved to strike out the words “its engrossment for the;” which was agreed to. Mr. Williams moved further to amend the resolution by adding after the word “after,”",
+      "the words “it is ordered to a;” On the further motion of Mr. Williams, The whole was laid on the table.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Additional Rules Adopted by the House of Representatives of Illinois; Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     22-26."
+    ],
+    "footnotes": [
+      {
+        "id": "X240D4F26-731B-4D08-A99A-DBDCFEF05316",
+        "text": "1A version of this rule in Abraham Lincoln’s hand is not extant.  TheHouse Journalattributes the second line to Lincoln."
+      },
+      {
+        "id": "X3C4B4A29-7368-46F1-84C0-B170EA552998",
+        "text": "2On January 5, 1839, the House of Representatives passed a further amended, final version\n                  of this rule together with a second rule.There were fifty “Rules for the Government of the House of Representatives of the\n                  State of Illinois,” at the start of the 1st session of the 11thGeneral Assembly.Additional Rules Adopted by the House of Representatives of Illinois; Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     22-26."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Additional Rule of the House of Representatives of Illinois, [4 January 1839]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr.Lincolnmoved to adopt, as an additional rule of thisHouse, the following:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr.Williamsmoved to strike out the words “its engrossment for the;” which was agreed to."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr. Williams moved further to amend the resolution by adding after the word “after,”\n               the words “it is ordered to a;”"
+      },
+      {
+        "type": "paragraph",
+        "text": "On the further motion of Mr. Williams,"
+      },
+      {
+        "type": "paragraph",
+        "text": "The whole was laid on the table.2"
+      }
+    ],
+    "word_count": 70
+  },
+  "extraction_date": "2025-12-26 20:07:33",
+  "word_count": 72,
+  "processing": {
+    "cleaned": true,
+    "original_length": 449,
+    "cleaned_length": 419,
+    "preserved_originality": true
+  }
+}

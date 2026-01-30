@@ -1,0 +1,74 @@
+{
+  "document_id": "D200376",
+  "url": "https://papersofabrahamlincoln.org/documents/D200376",
+  "metadata": {
+    "date": "1845-11-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Political campaigns",
+      "Nominations for office"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Benjamin F. James, 17 November 18451 The paper atPekin, has nominatedHardinfor Governor; and, commenting on this, theAlton paper, indirectly nominates him forCongress–2It would give Hardin a great start, and perhaps use me up, if thewhigpapers of the District should nominate him forCongress– If your feelings towards me are the same as when I saw you (which I have no reason\n\nto doubt) I wish you would let nothing appear in yourpaperwhich may opperate against me– You understand– Matters stand just as they did when I saw you–Bakeris certainly off of the track, and I fear Hardin intends to be on it–3 In relation to the business you wrote me of, some time since, I suppose the Marshall\n\ncalled on you; and we think it can be adjusted, at court, to the satisfaction of you\n\n& friendThompson–4",
+    "paragraphs": [
+      "Abraham Lincoln to Benjamin F. James, 17 November 18451 The paper atPekin, has nominatedHardinfor Governor; and, commenting on this, theAlton paper, indirectly nominates him forCongress–2It would give Hardin a great start, and perhaps use me up, if thewhigpapers of the District should nominate him forCongress– If your feelings towards me are the same as when I saw you (which I have no reason",
+      "to doubt) I wish you would let nothing appear in yourpaperwhich may opperate against me– You understand– Matters stand just as they did when I saw you–Bakeris certainly off of the track, and I fear Hardin intends to be on it–3 In relation to the business you wrote me of, some time since, I suppose the Marshall",
+      "called on you; and we think it can be adjusted, at court, to the satisfaction of you"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Tazewell Whig(Tremont, IL), 1 November 1845, 2:1; 8 November 1845, 2:1; 15 November 1845, 2:1;Abraham Lincoln to Benjamin F. James;Alton Telegraph and Democratic Review(IL), 15 November 1845, 2:3.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 2:218, 231;Abraham Lincoln to Henry E. Dummer."
+    ],
+    "footnotes": [
+      {
+        "id": "X8D032F02-3513-4AF5-B04E-1C183CAB5F1B",
+        "text": "1Abraham Lincolnwrote the letter."
+      },
+      {
+        "id": "XD6F9D41F-E3E7-4807-8A57-006684256442",
+        "text": "2The Pekin paper Lincoln references has not been identified.Lincoln was mistaken on this point. Benjamin F. James’ own newspaper, theTazewell Whig, proclaimed John J. Hardin for governor in at least three November issues. On November\n                  15, theAlton Telegraph and Democratic Reviewnoted that theTremontpaper had put forth Hardin’s name for governor. It implied first-hand knowledge that\n                  Hardin would not run for governor, and posited that while no  Whig could win statewide\n                  office, the congressional race would be an opportunity with a greater chance of success.\n                  Lincoln realized his error before writing back to James.The Tazewell Whig(Tremont, IL), 1 November 1845, 2:1; 8 November 1845, 2:1; 15 November 1845, 2:1;Abraham Lincoln to Benjamin F. James;Alton Telegraph and Democratic Review(IL), 15 November 1845, 2:3."
+      },
+      {
+        "id": "X14F97230-4798-42EA-A0C3-ED3A90C164C4",
+        "text": "3At a Whig convention in Pekin in May 1843, an agreement was made between Lincoln,\n                  Edward D. Baker, and Hardin that seemed to establish a one-term limit on the prospective\n                  Whig congressmen. Hardin and Baker having already served, Lincoln believed that the\n                  1846 nomination should have been his. In  September 1845, Lincoln inquired of Hardin’s\n                  plans, but Hardin would not answer definitively one way or the other.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 2:218, 231;Abraham Lincoln to Henry E. Dummer."
+      },
+      {
+        "id": "X6813888A-3C32-4E1C-A9F1-4687ABE26832",
+        "text": "4The closing and Lincoln’s signature have been clipped from the page."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Benjamin F. James, 17 November 18451"
+      },
+      {
+        "type": "paragraph",
+        "text": "The paper atPekin, has nominatedHardinfor Governor; and, commenting on this, theAlton paper, indirectly nominates him forCongress–2It would give Hardin a great start, and perhaps use me up, if thewhigpapers of the District should nominate him forCongress– If your feelings towards me are the same as when I saw you (which I have no reason\n               to doubt) I wish you would let nothing appear in yourpaperwhich may opperate against me– You understand–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Matters stand just as they did when I saw you–Bakeris certainly off of the track, and I fear Hardin intends to be on it–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "In relation to the business you wrote me of, some time since, I suppose the Marshall\n               called on you; and we think it can be adjusted, at court, to the satisfaction of you\n               & friendThompson–4"
+      }
+    ],
+    "word_count": 139
+  },
+  "extraction_date": "2025-12-26 20:22:02",
+  "word_count": 139,
+  "processing": {
+    "cleaned": true,
+    "original_length": 855,
+    "cleaned_length": 813,
+    "preserved_originality": true
+  }
+}

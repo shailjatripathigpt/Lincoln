@@ -1,0 +1,60 @@
+{
+  "document_id": "D206886",
+  "url": "https://papersofabrahamlincoln.org/documents/D206886",
+  "metadata": {
+    "date": "1853-02-08",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Attorney and client"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William Bachop, 8 February 18531 Your letter of the 20th of Jany. inclosing some papers in rela-<Page 2>tion to a suit of yours inVermillion county& desiring to engage me in it, was received some time since.2I will assist your other lawyers in the case, and, as I understand the facts, I\n\nexpect we will gain the suit.3",
+    "paragraphs": [
+      "Abraham Lincoln to William Bachop, 8 February 18531 Your letter of the 20th of Jany. inclosing some papers in rela-<Page 2>tion to a suit of yours inVermillion county& desiring to engage me in it, was received some time since.2I will assist your other lawyers in the case, and, as I understand the facts, I",
+      "expect we will gain the suit.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(Westport, CT: Greenwood, 1974),10:24.",
+      "Affidavit, Praecipe, Document ID: 59827; Narratio, Document ID: 59818; Order, Document\n                     ID: 59835, 59836,Lamm v. Bachop, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137268."
+    ],
+    "footnotes": [
+      {
+        "id": "XB82ECFFD-F5A1-46BF-8877-F081E3876CDC",
+        "text": "1This letter is attributed to Abraham Lincoln but the original in Lincoln’s hand has\n                  not been located. Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, saw the original and presumably copied it, but the copy is not extant.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(Westport, CT: Greenwood, 1974),10:24."
+      },
+      {
+        "id": "X36F42006-6571-4413-B58E-7A58684D28C9",
+        "text": "2William Bachop’s letter of January 20, 1853, is not extant."
+      },
+      {
+        "id": "XFF127A4B-206E-476C-AF30-EC64F55B0A40",
+        "text": "3Lincoln references a lawsuit between William Bachop and William M. Lamm.  In January\n                  1853, Bachop and Lamm agreed to arbitration to resolve an outstanding land dispute.\n                  Lamm agreed to relinquish a quitclaim deed on 360 acres of land in return for a $125\n                  promissory note from Bachop.  Bachop failed to pay the note, and in May 1853, Lamm\n                  sued Bachop in an action of assumpsit in theVermilion County Circuit Courtfor payment of the note.  Bachop retained Lincoln,Ward Hill Lamon, andOliver L. Davis; Lamm retainedJohn H. Murphy.  Lincoln, Lamon, and Davis pleaded that Bachop had made no written agreement with\n                  Lamm.  In October 1853, the court ruled for Bachop.Affidavit, Praecipe, Document ID: 59827; Narratio, Document ID: 59818; Order, Document\n                     ID: 59835, 59836,Lamm v. Bachop, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137268."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William Bachop, 8 February 18531"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 20th of  Jany.[January] inclosing some papers in rela-<Page 2>tion to a suit of yours inVermillion county& desiring to engage me in it, was received some time since.2I will assist your other  lawyers in the case, and, as I understand the facts, I\n               expect we will gain the suit.3"
+      }
+    ],
+    "word_count": 60
+  },
+  "extraction_date": "2025-12-26 21:27:42",
+  "word_count": 60,
+  "processing": {
+    "cleaned": true,
+    "original_length": 363,
+    "cleaned_length": 338,
+    "preserved_originality": true
+  }
+}

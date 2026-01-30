@@ -1,0 +1,63 @@
+{
+  "document_id": "D200549",
+  "url": "https://papersofabrahamlincoln.org/documents/D200549",
+  "metadata": {
+    "date": "1849-01-27",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "United States marshals"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John Murray, 27 January 18491 Your letter, in relation to the office of Marshall, was received last night–2You are not mistaken, in so far as you may suppose, I entertain the strongest personal\n\nfriendship for you; but I have more than one application for the same office, before\n\nyours, appealing to my feelings in the same way– I know not what control of this\n\nmatter may fall into my hands; and I can only say now that I will lay your letter\n\nby, and, when the time comes, give your claim, among others, that consideration, which\n\nis due to impartiality, fairness, and friendship–3",
+    "paragraphs": [
+      "Abraham Lincoln to John Murray, 27 January 18491 Your letter, in relation to the office of Marshall, was received last night–2You are not mistaken, in so far as you may suppose, I entertain the strongest personal",
+      "friendship for you; but I have more than one application for the same office, before",
+      "yours, appealing to my feelings in the same way– I know not what control of this",
+      "matter may fall into my hands; and I can only say now that I will lay your letter",
+      "by, and, when the time comes, give your claim, among others, that consideration, which",
+      "is due to impartiality, fairness, and friendship–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Usher F. Linder to Abraham Lincoln;George T. M. Davis to Abraham Lincoln;E. O. Smith to Abraham Lincoln;W. W. Roman to Abraham Lincoln;Richard B. Servant to Abraham Lincoln;Gilbert Turnbull and Abner C. Harding to Abraham Lincoln;Ninian W. Edwards to Abraham Lincoln;Alfred H. Grass to Abraham Lincoln;James W. Singleton to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+    ],
+    "footnotes": [
+      {
+        "id": "XE4E0653C-E4CA-4468-B2C3-5306F82D7B72",
+        "text": "1Abraham Lincoln wrote this letter in its entirety."
+      },
+      {
+        "id": "XA7A33F0B-D277-4DCE-9207-B0F54EFEB114",
+        "text": "2John Murray’s letter has not been located."
+      },
+      {
+        "id": "X684AEDE2-84FD-423A-BF4F-E5114FDC293E",
+        "text": "3Lincoln did receive a number of letters endorsing various candidates for the U.S.\n                  marshalship ofIllinois.  Most favoredBenjamin Bond, who received the appointment and held the job until 1853.Usher F. Linder to Abraham Lincoln;George T. M. Davis to Abraham Lincoln;E. O. Smith to Abraham Lincoln;W. W. Roman to Abraham Lincoln;Richard B. Servant to Abraham Lincoln;Gilbert Turnbull and Abner C. Harding to Abraham Lincoln;Ninian W. Edwards to Abraham Lincoln;Alfred H. Grass to Abraham Lincoln;James W. Singleton to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John Murray, 27 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter, in relation to the office of Marshall, was received last night–2You are not mistaken, in so far as you may suppose, I entertain the strongest personal\n               friendship for you; but I have more than one application for the same office, before\n               yours, appealing to my feelings in the same way–  I know not what control of this\n               matter may fall into my hands; and I can only say now that I will lay your letter\n               by, and, when the time comes, give your claim, among others, that consideration, which\n               is due to impartiality, fairness, and friendship–3"
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 20:34:22",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 674,
+    "cleaned_length": 603,
+    "preserved_originality": true
+  }
+}

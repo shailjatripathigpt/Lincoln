@@ -1,0 +1,60 @@
+{
+  "document_id": "D200479",
+  "url": "https://papersofabrahamlincoln.org/documents/D200479",
+  "metadata": {
+    "date": "1848-04-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Bounties, Military",
+      "Legislative bodies--U.S. states--Constituent communications",
+      "Military pensions",
+      "Military service, Voluntary",
+      "Real property",
+      "Soldiers"
+    ],
+    "type": "Certification"
+  },
+  "content": {
+    "full_text": "Certification of Abraham Lincoln to Commissioner of Pensions Concerning Thomas Davis1 I do hereby certify that I was personally well acquainted with^2nd^LieutenantThomas Davis, who served for a timeinas a private in CaptainFrank S. Early's company, of the 1stRegt ofTexasvolunteers, and who was transfered from that service, by a commission of a 2ndLieutenancy in the United States Rifle Regiment, which Regiment served inCol: Harney's Brigade, at thebattle of Cerro Gordo, and who fell in that battle; that I am also well acquainted with the family to which\n\nsaid Lieut Davis belonged; that his father has been dead for many years; that his mother,Maria Davis, a widow, is still living, atSpringfield, Illinois, and that said LieutDavis was never married–",
+    "paragraphs": [
+      "Certification of Abraham Lincoln to Commissioner of Pensions Concerning Thomas Davis1 I do hereby certify that I was personally well acquainted with^2nd^LieutenantThomas Davis, who served for a timeinas a private in CaptainFrank S.",
+      "Early's company, of the 1stRegt ofTexasvolunteers, and who was transfered from that service, by a commission of a 2ndLieutenancy in the United States Rifle Regiment, which Regiment served inCol: Harney's Brigade, at thebattle of Cerro Gordo, and who fell in that battle; that I am also well acquainted with the family to which",
+      "said Lieut Davis belonged; that his father has been dead for many years; that his mother,Maria Davis, a widow, is still living, atSpringfield, Illinois, and that said LieutDavis was never married–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Walter Davis;Abraham Lincoln to Walter Davis;Walter Davis to Abraham Lincoln;Abraham Lincoln to Walter Davis;James L. Edwards to Maria Davis in Care of Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X569DE2F0-0B0A-4B9E-85C5-63491DB00517",
+        "text": "1Abraham Lincoln wrote and signed this certification."
+      },
+      {
+        "id": "XFCF265F5-C877-4197-90F3-F7036B6C5682",
+        "text": "2Correspondence between Abraham Lincoln andWalter Davis, in the spring of 1848, indicates that Lincoln was offering Davis and his mother,\n                  Maria Davis, assistance in getting pension and land warrants due Thomas Davis, Walter’s\n                  brother, who died in battle during  his service in theMexican War. ThePension Officeapproved the claim for bounty land in March 1849.Abraham Lincoln to Walter Davis;Abraham Lincoln to Walter Davis;Walter Davis to Abraham Lincoln;Abraham Lincoln to Walter Davis;James L. Edwards to Maria Davis in Care of Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certification of Abraham Lincoln to Commissioner of Pensions Concerning Thomas Davis1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I do hereby certify that I was personally well acquainted with^2nd^LieutenantThomas Davis, who served for a timeinas a private in CaptainFrank S. Early's company, of the 1stRegt[Regiment] ofTexasvolunteers, and who was transfered from that service, by a commission of a 2ndLieutenancy in the United States Rifle Regiment, which Regiment served inCol: Harney's Brigade, at thebattle of Cerro Gordo, and who fell in that battle; that I am also well acquainted with the family to which\n               said Lieut[Lieutenant] Davis belonged; that his father has been dead for many years; that his mother,Maria Davis, a widow, is still living, atSpringfield, Illinois, and that said LieutDavis was never married–"
+      }
+    ],
+    "word_count": 117
+  },
+  "extraction_date": "2025-12-26 20:28:33",
+  "word_count": 117,
+  "processing": {
+    "cleaned": true,
+    "original_length": 792,
+    "cleaned_length": 756,
+    "preserved_originality": true
+  }
+}

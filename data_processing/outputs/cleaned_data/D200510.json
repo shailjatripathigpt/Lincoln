@@ -1,0 +1,65 @@
+{
+  "document_id": "D200510",
+  "url": "https://papersofabrahamlincoln.org/documents/D200510",
+  "metadata": {
+    "date": "1848-07-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Interpersonal relations",
+      "Kissing",
+      "Speeches"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Herndon, 11 July 18481 Yours of the 3rdis this moment received; and I hardly need say, it gives unalloyed pleasure–2I now almost regret writing the serious, long faced letter, I wrote yesterday; but\n\nlet the past as nothing be–3Go it while you're young! I write this in the confusion of theH. R, and with several other things to attend to– I will send you about eight different\n\nspeeches this evening; and as to kissing a pretty girl, a know one very pretty one, but I guess she wont let me kiss her–",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Herndon, 11 July 18481 Yours of the 3rdis this moment received; and I hardly need say, it gives unalloyed pleasure–2I now almost regret writing the serious, long faced letter, I wrote yesterday; but",
+      "let the past as nothing be–3Go it while you're young! I write this in the confusion of theH. R, and with several other things to attend to– I will send you about eight different",
+      "speeches this evening; and as to kissing a pretty girl, a know one very pretty one, but I guess she wont let me kiss her–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to William H. Herndon;Abraham Lincoln to William H. Herndon."
+    ],
+    "footnotes": [
+      {
+        "id": "X0A67C207-23EE-4D2D-8C14-97754910DB68",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XCE1908B1-B1F5-456C-90AE-60FEA0CA6B65",
+        "text": "2William H. Herndon’s July 3 letter to Lincoln has not been located."
+      },
+      {
+        "id": "X1D4C479F-EE0E-4B47-A37C-C3EDADC6593B",
+        "text": "3Lincoln references a letter where he, as an older, more experienced man, advises Herndon\n                  on what a young man needs to do to succeed in life.Abraham Lincoln to William H. Herndon;Abraham Lincoln to William H. Herndon."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Herndon, 11 July 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 3rdis this moment received; and I hardly need say, it gives unalloyed pleasure–2I now almost regret writing the serious, long faced letter, I wrote yesterday; but\n               let the past as nothing be–3Go it while you're young!"
+      },
+      {
+        "type": "paragraph",
+        "text": "I write this in the confusion of theH. R, and with several other things to attend to– I will send you about eight different\n               speeches this evening; and as to kissing a pretty girl, a[I] know one very pretty one, but I guess she wont let me kiss her–"
+      }
+    ],
+    "word_count": 97
+  },
+  "extraction_date": "2025-12-26 20:31:05",
+  "word_count": 97,
+  "processing": {
+    "cleaned": true,
+    "original_length": 561,
+    "cleaned_length": 530,
+    "preserved_originality": true
+  }
+}

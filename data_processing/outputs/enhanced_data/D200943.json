@@ -1,0 +1,90 @@
+{
+  "document_id": "D200943",
+  "url": "https://papersofabrahamlincoln.org/documents/D200943",
+  "metadata": {
+    "date": "1857-02-20",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Newspapers",
+      "Families"
+    ],
+    "type": "Letter",
+    "extracted_date": "1857-02-20",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "paper",
+      "you",
+      "little",
+      "when",
+      "now",
+      "not",
+      "whole",
+      "abraham",
+      "lincoln",
+      "john",
+      "rosette",
+      "february",
+      "private",
+      "your",
+      "note"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John E. Rosette, 20 February 18571 Private Your note about the little paragraph in the Republican, was received yesterday; since when, till now, I have been too unwell to answer it–2I had not supposed you wrote, or approved it– The whole originated in mistake–\n\nYou know, by the conversation with me, that I thought the establishment of the paper, unfortunate but I always expected to throw no obstacle in it’s way, and to patronize it to the extent of taking and paying for one copy– When the\n\npaper was first brought to my house, mywifesaid to me “now are you going to take another worthless little paper”I said to her evasively, I had not directed the paper to be left– From this, in\n\nmy absence she sent the message to the carrier;^–^This is the whole story",
+    "paragraphs": [
+      "Abraham Lincoln to John E. Rosette, 20 February 18571 Private Your note about the little paragraph in the Republican, was received yesterday; since when, till now, I have been too unwell to answer it–2I had not supposed you wrote, or approved it– The whole originated in mistake–",
+      "You know, by the conversation with me, that I thought the establishment of the paper, unfortunate but I always expected to throw no obstacle in it’s way, and to patronize it to the extent of taking and paying for one copy– When the",
+      "paper was first brought to my house, mywifesaid to me “now are you going to take another worthless little paper”I said to her evasively, I had not directed the paper to be left– From this, in",
+      "my absence she sent the message to the carrier;^–^This is the whole story"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daily Illinois State Journal(Springfield), 10 February 1857, 3:2."
+    ],
+    "footnotes": [
+      {
+        "id": "X9F34F478-5AD7-4F6F-8FE4-E01B0BABD39E",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XE561917B-3BBE-46E0-B89C-0596AA0654ED",
+        "text": "2No note from John E. Rosette to Lincoln around this date has been located. Rosette\n                  was the editor of the Daily Springfield Republican, which had recently begun publication on February 9, 1857. The paragraph Lincoln\n                  mentions as having been published in the paper has not been found.Daily Illinois State Journal(Springfield), 10 February 1857, 3:2."
+      },
+      {
+        "id": "X56A69ABC-6976-4490-A538-86851CDCB13F",
+        "text": "3No response to this letter has been located."
+      },
+      {
+        "id": "X86947A74-FA86-4BE1-8D01-758CA2A066A1",
+        "text": "4Rosette wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John E. Rosette, 20 February 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Private"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your note about the little paragraph in the Republican, was received yesterday; since when, till now, I have been too unwell to answer it–2I had not supposed you wrote, or approved it–  The whole originated in mistake–\n               You know, by the conversation with me, that I thought the establishment of the paper, unfortunate but I always expected to throw no obstacle in it’s way, and to patronize it to the extent of taking and paying for one copy–  When the\n               paper was first brought to my house, mywifesaid to me “now are you going to take another worthless little paper”I said to her evasively, I had not directed the paper to be left–  From this, in\n               my absence she sent the message to the carrier;^–^This is the whole story"
+      }
+    ],
+    "word_count": 139
+  },
+  "extraction_date": "2025-12-26 21:43:36",
+  "word_count": 139,
+  "processing": {
+    "cleaned": true,
+    "original_length": 825,
+    "cleaned_length": 780,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "D200559",
+  "url": "https://papersofabrahamlincoln.org/documents/D200559",
+  "metadata": {
+    "date": "1849-03-08",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-08",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "district",
+      "abraham",
+      "lincoln",
+      "john",
+      "clayton",
+      "march",
+      "recommend",
+      "thatarchibald",
+      "williams",
+      "ofquincy",
+      "illinois",
+      "appointed",
+      "attorney",
+      "ofillinois",
+      "when"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Clayton, 8 March 18491 We recommend thatArchibald Williams, ofQuincy, Illinois, be appointed U.S. District Attorney for the District ofIllinois, when that office shall become vacant–2",
+    "paragraphs": [
+      "Abraham Lincoln to John M. Clayton, 8 March 18491 We recommend thatArchibald Williams, ofQuincy, Illinois, be appointed U.S. District Attorney for the District ofIllinois, when that office shall become vacant–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "James L. King,History of Shawnee County, Kansas(Chicago: Richmond & Arnold, 1905), 436;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247."
+    ],
+    "footnotes": [
+      {
+        "id": "XAAAB247A-F5C0-45E5-8697-54E01877A823",
+        "text": "1Abraham Lincoln wrote and signed the letter.  Edward D. Baker endorsed the letter."
+      },
+      {
+        "id": "X024B46DB-D7AA-4AA2-A6C8-989395284E62",
+        "text": "2PresidentZachary Taylorappointed Archibald Williams to the position.James L. King,History of Shawnee County, Kansas(Chicago: Richmond & Arnold, 1905), 436;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Clayton, 8 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "We recommend thatArchibald Williams, ofQuincy, Illinois, be appointed U.S. District Attorney for the District ofIllinois, when that office shall become vacant–2"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:37:49",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 210,
+    "cleaned_length": 210,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,87 @@
+{
+  "document_id": "D200532",
+  "url": "https://papersofabrahamlincoln.org/documents/D200532",
+  "metadata": {
+    "date": "1848-12-08",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Inventions",
+      "Lawyers--Fees"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-12-08",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "your",
+      "here",
+      "send",
+      "file",
+      "caveat",
+      "invention",
+      "abraham",
+      "lincoln",
+      "amos",
+      "williams",
+      "december",
+      "letter",
+      "novr",
+      "when"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Amos Williams, 8 December 18481 Your letter of Novr 27. was here for me when I arrived on yesterday– I also received the one addressed\n\nme atSpringfield; but seeing I could do nothing in the matterthen&there, and being very busy with thePresidential election, I threw it by, and forgot it–2I shall do better now– Herewith I send you a document of \"Information &c\" which you can examine; and then if you think fit, to file a caveat, you can send\n\nme a description and drawing of your \"invention\" or \"improvement\" together with $20\n\nin money, and I will file it for you–3Nothing can be done, by caveat, or by examing the models here,^as you request^without having adescriptionof your invention– You perceive the reason of this–4",
+    "paragraphs": [
+      "Abraham Lincoln to Amos Williams, 8 December 18481 Your letter of Novr 27. was here for me when I arrived on yesterday– I also received the one addressed",
+      "me atSpringfield; but seeing I could do nothing in the matterthen&there, and being very busy with thePresidential election, I threw it by, and forgot it–2I shall do better now– Herewith I send you a document of \"Information &c\" which you can examine; and then if you think fit, to file a caveat, you can send",
+      "me a description and drawing of your \"invention\" or \"improvement\" together with $20",
+      "in money, and I will file it for you–3Nothing can be done, by caveat, or by examing the models here,^as you request^without having adescriptionof your invention– You perceive the reason of this–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Flora Woodbury, \"Amos Williams: Danville Pioneer,\"Journal of the Illinois State Historical Society26 (October 1933), 314."
+    ],
+    "footnotes": [
+      {
+        "id": "XC30212B0-7A8F-4489-950F-95743BC7034E",
+        "text": "1Abraham Lincoln wrote this entire document, including the address on the last page,\n                  which was folded to make an envelope."
+      },
+      {
+        "id": "X1E1428EF-C38F-42BC-9212-31BAE9DC3FF4",
+        "text": "2Neither of the letters Lincoln references have been located."
+      },
+      {
+        "id": "XED957F6B-DEAD-42E3-AFD1-378EB3D53B66",
+        "text": "3A caveat is a notice given by a person, informing a court that another person may\n                  file a suit or application against him and that the court must give the caveator (person\n                  filing the caveat) a fair hearing before deciding any matter brought before it in\n                  the relevant case."
+      },
+      {
+        "id": "X48B8E6DA-A0BA-4034-9F17-170C794F6F45",
+        "text": "4Williams invented a mill wheel and sought Lincoln’s help in getting a patent.  No\n                  evidence exists that Lincoln filed the caveat or for a patent.Flora Woodbury, \"Amos Williams: Danville Pioneer,\"Journal of the Illinois State Historical Society26 (October 1933), 314."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Amos Williams, 8 December 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of Novr[November] 27. was here for me when I arrived on yesterday–  I also received the one addressed\n               me atSpringfield; but seeing I could do nothing in the matterthen&there,  and being very busy with thePresidential election, I threw it by, and forgot it–2I shall do better now–  Herewith I send you a document of   \"Information &c[etc]\" which you can examine; and then if you think fit,  to file a caveat, you can send\n               me a description and drawing of your \"invention\" or  \"improvement\" together with $20\n               in money, and I will file it for you–3Nothing can be done, by caveat, or by examing the models here,^as you request^without having adescriptionof your invention–  You perceive the reason of this–4"
+      }
+    ],
+    "word_count": 128
+  },
+  "extraction_date": "2025-12-26 20:31:51",
+  "word_count": 128,
+  "processing": {
+    "cleaned": true,
+    "original_length": 810,
+    "cleaned_length": 745,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "D206891",
+  "url": "https://papersofabrahamlincoln.org/documents/D206891",
+  "metadata": {
+    "date": "1856-02-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Roads--Law and legislation",
+      "Petitions"
+    ],
+    "type": "Public notice"
+  },
+  "content": {
+    "full_text": "Public Notice regarding the Establishment of a Public Road between Springfield and\n\nBeardstown, 1 Notice Public notice is hereby given that at the March term of theCounty CourtofSangamon County, a petition will be presented to said Court, praying “that the route from the Western\n\ntermination of Jefferson Street, of the City ofSpringfield, to the bridge overSpring Creek, on the road toBerBeardstown, as it was opened byThomas Ruckerseveral years ago, and as smaller bridges were placed at several points along the\n\nsame, last autumn, be established as a public-road; and that so much of the present\n\nBeardstown road, as lies between said Spring-Creek-bridge, and the junction of said\n\nroad, with theJacksonvilleroad, leading from Springfield, by the Western termination of Washington Street,\n\nbe vacated.2",
+    "paragraphs": [
+      "Public Notice regarding the Establishment of a Public Road between Springfield and",
+      "Beardstown, 1 Notice Public notice is hereby given that at the March term of theCounty CourtofSangamon County, a petition will be presented to said Court, praying “that the route from the Western",
+      "termination of Jefferson Street, of the City ofSpringfield, to the bridge overSpring Creek, on the road toBerBeardstown, as it was opened byThomas Ruckerseveral years ago, and as smaller bridges were placed at several points along the",
+      "same, last autumn, be established as a public-road; and that so much of the present",
+      "Beardstown road, as lies between said Spring-Creek-bridge, and the junction of said",
+      "road, with theJacksonvilleroad, leading from Springfield, by the Western termination of Washington Street,"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act to Locate a State Road Therein Named,” 7 February 1857,Laws of Illinois(1857),  78-79;Lincoln wrote public notice for Sangamon County Court, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141402."
+    ],
+    "footnotes": [
+      {
+        "id": "XAA395B6A-EF9F-4B08-95D0-9786B7742486",
+        "text": "1Abraham Lincoln wrote this document. The document is undated, with possible date of\n                  February 11, 1856 conjectured from the dated endorsement on verso."
+      },
+      {
+        "id": "X95113867-5239-4F38-8BF8-B278E8BF0781",
+        "text": "2In February 1857, theIllinois General Assemblyappointed Joseph K. Lewis,William Jayne, andMoses K. Andersoncommissioners “to view, mark and locate a state road from the western termination\n                  of Jefferson street, in the city of Springfield, in the county of Sangamon, to the\n                  bridge across Spring creek on the Beardstown road.”  The commissioners were ordered\n                  to make a report accompanied by a plat to the County Court of Sangamon County, and\n                  to assess damages owed to property owners for right  of way.  The court approved the\n                  road as platted and awarded damages toErastus Wrightand P. N. Tainter.“An Act to Locate a State Road Therein Named,” 7 February 1857,Laws of Illinois(1857),  78-79;Lincoln wrote public notice for Sangamon County Court, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141402."
+      },
+      {
+        "id": "XC5A85248-C925-4104-B227-B824044EDA45",
+        "text": "3Section eleven of thegeneral law on public roads, enacted in February 1841, required petitioners wanting to vacate a public road to\n                  give twenty days’ notice, by written notice, posted in the most public place in each\n                  road district through which the road would pass."
+      },
+      {
+        "id": "X428F0129-7753-40F2-BB52-D777CC17C959",
+        "text": "4Josiah Broadwell wrote and signed this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Public Notice regarding the Establishment of a Public Road between Springfield and\n               Beardstown, [11 February 1856]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Notice"
+      },
+      {
+        "type": "paragraph",
+        "text": "Public notice is hereby given that at the March term of theCounty CourtofSangamon County, a petition will be presented to said Court, praying “that the route from the Western\n               termination of Jefferson Street, of the City ofSpringfield, to the bridge overSpring Creek, on the road toBerBeardstown, as it was opened byThomas Ruckerseveral years ago, and as smaller bridges were placed at several points along the\n               same, last autumn,  be established as a public-road; and that so much of the present\n               Beardstown road, as lies between said Spring-Creek-bridge, and the junction of said\n               road, with theJacksonvilleroad, leading from Springfield, by the Western termination of Washington Street,\n               be vacated.2"
+      }
+    ],
+    "word_count": 122
+  },
+  "extraction_date": "2025-12-26 21:38:18",
+  "word_count": 124,
+  "processing": {
+    "cleaned": true,
+    "original_length": 910,
+    "cleaned_length": 807,
+    "preserved_originality": true
+  }
+}

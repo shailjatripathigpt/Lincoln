@@ -1,0 +1,25 @@
+{
+  "total_documents": 2223,
+  "valid_documents": 2223,
+  "invalid_documents": 0,
+  "validation_errors": [],
+  "field_coverage": {
+    "document_id": 2223,
+    "url": 2223,
+    "metadata": 2223,
+    "content": 2223,
+    "extraction_date": 2223,
+    "word_count": 2223,
+    "content.full_text": 2223,
+    "content.paragraphs": 2223,
+    "content.tables_count": 2223,
+    "content.citations": 2223,
+    "content.footnotes": 2223,
+    "content.structured_content": 2223
+  },
+  "unique_sources": [],
+  "date_range": {
+    "earliest": 1819,
+    "latest": 1858
+  }
+}

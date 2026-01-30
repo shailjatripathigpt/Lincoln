@@ -1,0 +1,43 @@
+{
+  "document_id": "D251256",
+  "url": "https://papersofabrahamlincoln.org/documents/D251256",
+  "metadata": {
+    "date": "1848-06-09",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Presidents--Nomination"
+    ],
+    "type": "Telegram"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Simeon Francis, 9 June 1848 General TAYLORhas received the nomination of the Convention for President of the U.[United] States.",
+    "paragraphs": [
+      "Abraham Lincoln to Simeon Francis, 9 June 1848",
+      "General TAYLORhas received the nomination of the Convention for President of the U.[United] States."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Marilyn Mueller, “Tapping into the New Technology: Lincoln’s Earliest Telegraphic\n                     Message,”Lincoln Editor10 (January - March 2010): 7-8; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:277;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 June 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-06-09."
+    ],
+    "footnotes": [
+      {
+        "id": "X86615348-2342-48A9-9192-6103BA42D4D8",
+        "text": "1Abraham Lincoln telegraphedSimeon Francisfrom the Whig National Convention, which had nominated Zachary Taylor as theWhig Party’s candidate in the1848 presidential election.  This is the first known instance of Lincoln employing the telegraph.Marilyn Mueller, “Tapping into the New Technology: Lincoln’s Earliest Telegraphic\n                     Message,”Lincoln Editor10 (January - March 2010): 7-8; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:277;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 June 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-06-09."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Simeon Francis, 9 June 1848"
+      },
+      {
+        "type": "paragraph",
+        "text": "General TAYLORhas received the nomination of the Convention for President of the U.[United] States."
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:29:21",
+  "word_count": 22
+}

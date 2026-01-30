@@ -1,0 +1,61 @@
+{
+  "document_id": "D206854",
+  "url": "https://papersofabrahamlincoln.org/documents/D206854",
+  "metadata": {
+    "date": "1844-08-06",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Power, George"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Costs (Law)",
+      "Debtor and creditor",
+      "Power of attorney"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "George Power to Abraham Moore, 6 August 18441 The judgement you obtained against me here, although I have fully paid it to your attorney MrLamborn, still stands on the Record unsatisfied–2You will readily perceive that I can not but desire, to have it entered satisfied–\n\nStanding as it does, it appears to the world to be a lien or incumbrance on all my\n\nreal property– This is always unpleasant, and may when oral testimony passes away,\n\ngive me real difficulty– Lamborn was hereofa few days since, and refused to enter satisfaction of the judgement. I write this to request you to authorize some attorney here, sayStephen T. Logan, orAbraham Lincoln, to enter satisfaction of the judgement– This, you know, will be nothing but justice; and is only, as I am advised, what\n\nI could have done by the court, if I can not get it done easier–",
+    "paragraphs": [
+      "George Power to Abraham Moore, 6 August 18441 The judgement you obtained against me here, although I have fully paid it to your attorney MrLamborn, still stands on the Record unsatisfied–2You will readily perceive that I can not but desire, to have it entered satisfied–",
+      "Standing as it does, it appears to the world to be a lien or incumbrance on all my",
+      "real property– This is always unpleasant, and may when oral testimony passes away,",
+      "give me real difficulty– Lamborn was hereofa few days since, and refused to enter satisfaction of the judgement. I write this to request you to authorize some attorney here, sayStephen T. Logan, orAbraham Lincoln, to enter satisfaction of the judgement– This, you know, will be nothing but justice; and is only, as I am advised, what",
+      "I could have done by the court, if I can not get it done easier–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Moore v. Power et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139952."
+    ],
+    "footnotes": [
+      {
+        "id": "X82576606-41B9-42F6-8E38-9E92628C220E",
+        "text": "1Abraham Lincoln wrote the letter and signed Power’s name. Lincoln also authored the\n                  address on the back page, which was folded to create an envelope."
+      },
+      {
+        "id": "XFC140E06-661A-4283-A597-7EC06F9B4F5A",
+        "text": "2Power and two other men had given Moore a promissory note, and in November 1841 Moore\n                  had sued them when they failed to pay. At the trial, Power admitted the debt, theSangamon County Circuit Courtawarded Moore $1,134.48, and Power paid the judgment.Moore v. Power et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139952."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "George Power to Abraham Moore, 6 August 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "The judgement you obtained against me here, although  I have fully paid it to your attorney  MrLamborn, still stands on the Record unsatisfied–2You will readily perceive that I can not but desire, to have it entered satisfied–\n               Standing as it does, it appears to the world to be a lien or incumbrance on all my\n               real property–  This is always unpleasant, and may when oral testimony passes away,\n               give me real difficulty– Lamborn was hereofa few days since, and refused to enter satisfaction of the judgement.  I write this to request you to authorize some attorney here, sayStephen T. Logan, orAbraham Lincoln, to enter satisfaction of the judgement–  This, you know, will be nothing but justice; and is only, as I am advised, what\n               I could have done by the court, if I can not get it done easier–"
+      }
+    ],
+    "word_count": 147
+  },
+  "extraction_date": "2025-12-26 20:20:55",
+  "word_count": 147,
+  "processing": {
+    "cleaned": true,
+    "original_length": 900,
+    "cleaned_length": 839,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "D200701",
+  "url": "https://papersofabrahamlincoln.org/documents/D200701",
+  "metadata": {
+    "date": "1851-11-29",
+    "authors": [
+      "Browning, Orville H.",
+      "Coffing, Churchill",
+      "Conkling, James C.",
+      "Craig, C. W.",
+      "Davis, Levi",
+      "Eccles, Joseph T.",
+      "Edwards, Benjamin S.",
+      "Gillespie, Joseph",
+      "Griffith, Ezra",
+      "Haller, Samuel",
+      "Hardy, Isaac",
+      "Lincoln, Abraham (President)",
+      "Meeker, George W.",
+      "Merriman, Halsey O.",
+      "Miller, Horace",
+      "Norton, Jesse O.",
+      "Risley, Hamilton D.",
+      "Singleton, James W.",
+      "Stuart, John T.",
+      "Washburne, Elihu B.",
+      "Waterman, Henry C.",
+      "Wheeler, Buel G.",
+      "Wilson, John L."
+    ],
+    "keywords": [
+      "Political conventions",
+      "Political parties"
+    ],
+    "type": "Letter",
+    "extracted_date": "1851-11-29",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "others",
+      "whigs",
+      "illinois",
+      "november",
+      "signed"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln and Others to the Whigs of Illinois, 29 November 18511 (Signed.)2",
+    "paragraphs": [
+      "Abraham Lincoln and Others to the Whigs of Illinois, 29 November 18511 (Signed.)2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Daily Journal(Springfield), 22 December 1851, 2:1; 23 December 1851, 2:1; 24 December 1851, 2:1-2."
+    ],
+    "footnotes": [
+      {
+        "id": "X78EA4307-50BD-431D-867A-02FB52145126",
+        "text": "1A handwritten version of this letter is not extant."
+      },
+      {
+        "id": "X868C315B-DF6B-4912-867A-0885BD6FD6AB",
+        "text": "2Delegates to the Whig State Convention and other interested Whigs met at the Courthouse\n                  for an organizational session on the morning of December 22, 1851. Abraham Lincoln\n                  received appointment to a five-person committee  to prepare business for the convention.\n                  At the evening session,  delegates selected Lincoln to represent the Seventh Congressional\n                  District on the committee appointed to   present the names of four persons to  represent\n                  the state at large at the Whig national convention.Illinois Daily Journal(Springfield), 22 December 1851, 2:1; 23 December 1851, 2:1; 24 December 1851, 2:1-2."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln and Others to the Whigs of Illinois, 29 November 18511"
+      },
+      {
+        "type": "paragraph",
+        "text": "(Signed.)2"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 21:25:22",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 81,
+    "cleaned_length": 81,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

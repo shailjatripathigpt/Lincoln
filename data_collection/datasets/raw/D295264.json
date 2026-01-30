@@ -1,0 +1,54 @@
+{
+  "document_id": "D295264",
+  "url": "https://papersofabrahamlincoln.org/documents/D295264",
+  "metadata": {
+    "date": "1831-XX-XX",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Odam, William"
+    ],
+    "keywords": [
+      "Collecting of accounts",
+      "Debtor and creditor",
+      "Postal service--Employees"
+    ],
+    "type": "Account"
+  },
+  "content": {
+    "full_text": "Account of William Odam to James Rutledge, [1831]1 [Table 1]",
+    "paragraphs": [
+      "Account of William Odam to James Rutledge, [1831]1",
+      "[Table 1: 1830&18312 | To 1 years boarding while carrying the mail $27—00...]"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Sangamo Journal(Springfield, IL), 1 December 1831, 3:5; William Odom probate case file 89, Sangamon\n                     County Probate Court records, Illinois Regional Archives Depository (IRAD), University\n                     of Illinois-Springfield.",
+      "Benjamin P. Thomas,Lincoln's New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 7."
+    ],
+    "footnotes": [
+      {
+        "id": "X7FC88BB1-7BA3-4CB0-8956-4773A664C441",
+        "text": "1Page one of this document is entirely in Abraham Lincoln’s handwriting, aside from\n                  James Rutledge’s and Bowling Green’s signatures.Odam’s will was entered into probate January 4, 1831; by December 1831, the estate\n                  was in the final stages of settlement. This account was likely written during that\n                  period.Sangamo Journal(Springfield, IL), 1 December 1831, 3:5; William Odom probate case file 89, Sangamon\n                     County Probate Court records, Illinois Regional Archives Depository (IRAD), University\n                     of Illinois-Springfield."
+      },
+      {
+        "id": "XB7D7F0BF-EB6E-41CB-8CBF-CF86F5C91D12",
+        "text": "2While living inNew Salem, Lincoln frequently wrote various documents for his friends and neighbors. This account\n                  was likely related to the time when Rutledge turned his home into a tavern for boarders.Benjamin P. Thomas,Lincoln's New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 7."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Account of William Odam to James Rutledge, [1831]1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "1830&18312 | To 1 years boarding while carrying the mail $27—00"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 19:45:08",
+  "word_count": 10
+}

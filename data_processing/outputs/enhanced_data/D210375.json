@@ -1,0 +1,70 @@
+{
+  "document_id": "D210375",
+  "url": "https://papersofabrahamlincoln.org/documents/D210375",
+  "metadata": {
+    "date": "1849-03-16",
+    "authors": [
+      "Lamaster, Hugh",
+      "Phelps, William"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references",
+      "Postmasters"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-16",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "hugh",
+      "lamaster",
+      "william",
+      "phelps",
+      "abraham",
+      "lincoln",
+      "march"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Hugh Lamaster and William Phelps to Abraham Lincoln, 16 March 18491",
+    "paragraphs": [
+      "Hugh Lamaster and William Phelps to Abraham Lincoln, 16 March 18491"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *469;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 526*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 498*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855), 330*."
+    ],
+    "footnotes": [
+      {
+        "id": "X65D0EF41-41C7-43C6-B0A3-12629D8EDFBD",
+        "text": "1Hugh Lamaster wrote the letter, which he and William Phelps both signed."
+      },
+      {
+        "id": "XA1F4B21D-7703-4299-AA02-440BCCCF010A",
+        "text": "2For more on Joel Wright’s removal as postmaster, seeHugh Martin to Abraham Lincoln."
+      },
+      {
+        "id": "X07418CA6-310C-4836-9A82-FB4469D3AC54",
+        "text": "3Wright received the appointment of postmaster at Canton, replacing Henry Hipple sometime\n                  after September 1849, and held the position until 1855.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *469;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 526*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 498*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855), 330*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Hugh Lamaster and William Phelps to Abraham Lincoln, 16 March 18491"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 20:38:39",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 67,
+    "cleaned_length": 67,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

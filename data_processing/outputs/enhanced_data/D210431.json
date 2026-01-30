@@ -1,0 +1,67 @@
+{
+  "document_id": "D210431",
+  "url": "https://papersofabrahamlincoln.org/documents/D210431",
+  "metadata": {
+    "date": "1849-04-11",
+    "authors": [],
+    "keywords": [
+      "Business enterprises"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "power",
+      "our",
+      "you",
+      "business",
+      "your",
+      "fellowes",
+      "company",
+      "logan",
+      "lincoln",
+      "april",
+      "handed",
+      "agent",
+      "mrthomas",
+      "speedwho",
+      "visits"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "W. & C. Fellowes & Company to Logan & Lincoln, 11 April 1849 This will be handed you by our agent MrThomas Speedwho visits Springfield upon our business. You will oblige us by giving to Mr Speed\n\nany aid in your power in the adjustment of our business in your Vacinity,1",
+    "paragraphs": [
+      "W. & C. Fellowes & Company to Logan & Lincoln, 11 April 1849 This will be handed you by our agent MrThomas Speedwho visits Springfield upon our business. You will oblige us by giving to Mr Speed",
+      "any aid in your power in the adjustment of our business in your Vacinity,1"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X0FDACEA6-7F53-4E67-9F80-57682B8DB56C",
+        "text": "1The exact nature of Thomas Speed’s business on behalf of W. & C. Fellowes & Company\n                  is unknown."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "W. & C. Fellowes & Company to Logan & Lincoln, 11  April 1849"
+      },
+      {
+        "type": "paragraph",
+        "text": "This will be handed you by our agent MrThomas Speedwho visits Springfield upon our business. You will oblige us by giving to Mr Speed\n               any aid in your power in the adjustment of our business in your Vacinity,1"
+      }
+    ],
+    "word_count": 51
+  },
+  "extraction_date": "2025-12-26 20:39:53",
+  "word_count": 51,
+  "processing": {
+    "cleaned": true,
+    "original_length": 285,
+    "cleaned_length": 270,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

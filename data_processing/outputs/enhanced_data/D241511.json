@@ -1,0 +1,80 @@
+{
+  "document_id": "D241511",
+  "url": "https://papersofabrahamlincoln.org/documents/D241511",
+  "metadata": {
+    "date": "1853-11-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Maps"
+    ],
+    "type": "Letter",
+    "extracted_date": "1853-11-11",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "court",
+      "files",
+      "you",
+      "clerk",
+      "abraham",
+      "lincoln",
+      "charles",
+      "hempstead",
+      "elihu",
+      "washburne",
+      "november",
+      "reaching",
+      "home",
+      "yesterday",
+      "found"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Charles S. Hempstead and Elihu B. Washburne, 11 November 18531 On reaching home yesterday I found a letter from your MrWashburne, desiring me to get an old map^ofGalena^from the files of theSupreme Court, and send it to you–2I would gladly oblige you; but there is no Supreme Court clerk here, and the files\n\nof that court are unaccessable–3I try to bear the subject in mind when the Clerk does come–",
+    "paragraphs": [
+      "Abraham Lincoln to Charles S. Hempstead and Elihu B. Washburne, 11 November 18531 On reaching home yesterday I found a letter from your MrWashburne, desiring me to get an old map^ofGalena^from the files of theSupreme Court, and send it to you–2I would gladly oblige you; but there is no Supreme Court clerk here, and the files",
+      "of that court are unaccessable–3I try to bear the subject in mind when the Clerk does come–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 September 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-09-05; 10 November 1849,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-11-10.",
+      "James A. Rose, comp.,Blue Book of the State of Illinois 1911(Danville, IL: Illinois Printing, 1911), 7, 175; “An Act Fixing the Times of Holding\n                     the Supreme Court,” 6 January 1849,Laws of Illinois(1849), 57."
+    ],
+    "footnotes": [
+      {
+        "id": "X42C2F141-2C01-41AA-9117-408255DCD15E",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X354F7CAA-1D6D-47F2-97AD-A6A7408E342C",
+        "text": "2Elihu B. Washburne’s letter to Lincoln has not been located. Lincoln returned home\n                  to Springfield after nine weeks conducting legal business on theEighth Judicial Circuit.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 September 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-09-05; 10 November 1849,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-11-10."
+      },
+      {
+        "id": "X57B91C3D-1EC7-4FCA-839B-A62448767A19",
+        "text": "3William B. Warrenwas the clerk of the Illinois Supreme Court, Second Grand Division, which sat in\n                  Springfield.   At the time Lincoln wrote this letter, the Illinois Supreme Court,\n                  Second Grand Division, was scheduled to hold court on December 12, 1853.James A. Rose, comp.,Blue Book of the State of Illinois 1911(Danville, IL: Illinois Printing, 1911), 7, 175; “An Act Fixing the Times of Holding\n                     the Supreme Court,” 6 January 1849,Laws of Illinois(1849), 57."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Charles S. Hempstead and Elihu B. Washburne, 11 November 18531"
+      },
+      {
+        "type": "paragraph",
+        "text": "On reaching home yesterday I found a letter from your MrWashburne, desiring me to get an old map^ofGalena^from the files of theSupreme Court, and send it to you–2I would gladly oblige you; but there is no Supreme Court clerk here, and the files\n               of that court are unaccessable–3I try to bear the subject in mind when the Clerk does come–"
+      }
+    ],
+    "word_count": 73
+  },
+  "extraction_date": "2025-12-26 21:29:23",
+  "word_count": 73,
+  "processing": {
+    "cleaned": true,
+    "original_length": 433,
+    "cleaned_length": 419,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

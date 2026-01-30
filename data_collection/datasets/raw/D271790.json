@@ -1,0 +1,40 @@
+{
+  "document_id": "D271790",
+  "url": "https://papersofabrahamlincoln.org/documents/D271790",
+  "metadata": {
+    "date": "1836-XX-XX",
+    "authors": [],
+    "keywords": [
+      "County officials and employees--Salaries, etc.",
+      "Wages"
+    ],
+    "type": "Claim"
+  },
+  "content": {
+    "full_text": "Claim of David McGinnis against Sangamon County, Illinois, [1836]1 The county ofSangamonTo.David McGinnisDr.[Debere]1836To services as Road Supervisor: $6,00",
+    "paragraphs": [
+      "Claim of David McGinnis against Sangamon County, Illinois, [1836]1",
+      "The county ofSangamonTo.David McGinnisDr.[Debere]1836To services as Road Supervisor: $6,00"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X871D5DFB-7087-4FF1-BDE7-236E2DCD1C6E",
+        "text": "1Abraham Lincoln wrote this claim in its entirety."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Claim of David McGinnis against Sangamon County, Illinois, [1836]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "The county ofSangamonTo.David McGinnisDr.[Debere]1836To services as Road Supervisor: $6,00"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:05:06",
+  "word_count": 18
+}

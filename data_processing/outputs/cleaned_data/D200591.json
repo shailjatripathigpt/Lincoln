@@ -1,0 +1,70 @@
+{
+  "document_id": "D200591",
+  "url": "https://papersofabrahamlincoln.org/documents/D200591",
+  "metadata": {
+    "date": "1849-05-25",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Elisha Embree, 25 May 18491 Confidential I am about to ask a favor of you— one which, I hope will not cost you much– I understand\n\ntheGeneral Land Officeis about to be given toIllinois; and that MrEwingdesiresJustin Butterfield, ofChicago, to be the man–2I give you my word, the appointment of MrB. will be an egregious political blunder– It will give offence to the wholewhig partyhere, and be worse than a dead loss to the administration, of so much of its’ patronage–\n\nNow, if you can conscientiously do so, I wish you to writeGeneral Taylorat once, saying that eitherI,or the man I recommend, should, in your opinion, be appointed to that office, if any one from Illinois shall\n\nbe–3I restrict my request to Ills– because you may have a man of your own, in your ownstate; and I do not ask to interfere with that–4",
+    "paragraphs": [
+      "Abraham Lincoln to Elisha Embree, 25 May 18491 Confidential I am about to ask a favor of you— one which, I hope will not cost you much– I understand",
+      "theGeneral Land Officeis about to be given toIllinois; and that MrEwingdesiresJustin Butterfield, ofChicago, to be the man–2I give you my word, the appointment of MrB. will be an egregious political blunder– It will give offence to the wholewhig partyhere, and be worse than a dead loss to the administration, of so much of its’ patronage–",
+      "Now, if you can conscientiously do so, I wish you to writeGeneral Taylorat once, saying that eitherI,or the man I recommend, should, in your opinion, be appointed to that office, if any one from Illinois shall",
+      "be–3I restrict my request to Ills– because you may have a man of your own, in your ownstate; and I do not ask to interfere with that–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Thomas Ewing;Thomas Ewing to Abraham Lincoln;Abraham Lincoln to Thomas Ewing."
+    ],
+    "footnotes": [
+      {
+        "id": "XC0926C15-50AF-462E-8F38-22146A63AAFB",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X737BED6C-EE84-4D74-9BB6-53A10F9FD2D8",
+        "text": "2Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner of the U.S. General Land Office. See theGeneral Land Office Affair."
+      },
+      {
+        "id": "XC6583EE7-0CDC-4E89-8EBE-F7BF1135EBEA",
+        "text": "3Lincoln joined the competition to become commissioner of the U.S. General Land Office\n                  after learning that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair."
+      },
+      {
+        "id": "XDCDF01D8-B0A4-4457-890E-4A0BC324A677",
+        "text": "4Lincolnwrotean almost identical letter toRichard W. Thompsonthe same date as this letter to Elisha Embree. Embree did not respond to this letter\n                  directly, but he did write to President Zachary Taylor in support of Lincoln for \n                  commissioner of the U.S. General Land Office. Ultimately, however, neither Morrison,\n                  Edwards, nor Lincoln received the appointment; the job went to Butterfield instead.\n                  See theGeneral Land Office Affair.Abraham Lincoln to Thomas Ewing;Thomas Ewing to Abraham Lincoln;Abraham Lincoln to Thomas Ewing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Elisha Embree, 25 May 18491"
+      },
+      {
+        "type": "description",
+        "text": "Confidential"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am about to ask a favor of you— one which, I hope will not cost you much– I understand\n               theGeneral Land Officeis about to be given toIllinois; and that MrEwingdesiresJustin Butterfield, ofChicago, to be the man–2I give you my word, the appointment of MrB. will be an egregious political blunder– It will give offence to the wholewhig partyhere, and be worse than a dead loss to the administration, of so much of its’ patronage–\n               Now, if you can conscientiously do so, I wish you to writeGeneral Taylorat once, saying that eitherI,or the man I recommend, should, in your opinion, be appointed to that office, if any one from Illinois shall\n               be–3I restrict my request to Ills[Illinois]– because you may have a man of your own, in your ownstate; and I do not ask to interfere with that–4"
+      }
+    ],
+    "word_count": 147
+  },
+  "extraction_date": "2025-12-26 21:15:28",
+  "word_count": 147,
+  "processing": {
+    "cleaned": true,
+    "original_length": 888,
+    "cleaned_length": 836,
+    "preserved_originality": true
+  }
+}

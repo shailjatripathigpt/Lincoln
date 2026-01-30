@@ -1,0 +1,76 @@
+{
+  "document_id": "D200894",
+  "url": "https://papersofabrahamlincoln.org/documents/D200894",
+  "metadata": {
+    "date": "1856-07-09",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "Deeds"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Henry C. Whitney, 9 July 18561 I now expect to go toChicagoon the 15th; and I probably shall remain there, and thereabouts, for about two weeks–2 It turned me blind when I first heardSwettwas beaten, andLovejoynominated; but after much anxious\n\nreflection, I really believe it is best to let it stand–3This, of course, I wish to be confidential– Lamondid get your Deeds– I went with him to the office, got them, and put them in his\n\nhand myself–4",
+    "paragraphs": [
+      "Abraham Lincoln to Henry C. Whitney, 9 July 18561 I now expect to go toChicagoon the 15th; and I probably shall remain there, and thereabouts, for about two weeks–2 It turned me blind when I first heardSwettwas beaten, andLovejoynominated; but after much anxious",
+      "reflection, I really believe it is best to let it stand–3This, of course, I wish to be confidential– Lamondid get your Deeds– I went with him to the office, got them, and put them in his"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to James W. Grimes;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 15 July 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-07-15;  17 July 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-07-17; 26 July 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-07-26.",
+      "Mitchell Snay, “Abraham Lincoln, Owen Lovejoy, and the Emergence of the Republican\n                     Party in Illinois,”Journal of the Abraham Lincoln Association22 (Winter 2001), 82-99; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10."
+    ],
+    "footnotes": [
+      {
+        "id": "X727A9773-FF07-4B52-BE73-12F15952BAB1",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X69C97697-C081-4B7D-91DA-6816E133FC10",
+        "text": "2Lincoln left for Chicago on July 15, “to attend to a little business incourt.” He did not stay long, however, traveling elsewhere to make speeches.  By July 17,\n                  he was inDixon, Illinois, speaking toRepublicans. He returnedhomeon July 26.Abraham Lincoln to James W. Grimes;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 15 July 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-07-15;  17 July 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-07-17; 26 July 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-07-26."
+      },
+      {
+        "id": "X0245CE0B-D864-4D59-A33A-CBE63DF7952E",
+        "text": "3Owen Lovejoy defeated Leonard Swett for the Republican nomination for U.S. representative\n                  in  Illinois’ Third Congressional District. In November 1856, Lovejoy won thegeneral election, defeatingUri Osgood, theDemocratic Partycandidate, by over 6,000 votes to become a part of theThirty-Fifth Congress.Lincoln wrote asimilar letteron July 7, 1856 toDavid Davis.Mitchell Snay, “Abraham Lincoln, Owen Lovejoy, and the Emergence of the Republican\n                     Party in Illinois,”Journal of the Abraham Lincoln Association22 (Winter 2001), 82-99; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10."
+      },
+      {
+        "id": "X50C9B09B-C5E3-4CA4-B613-AF444CC04DA8",
+        "text": "4No additional correspondence regarding deeds between  Lincoln and Henry C. Whitney\n                  has been located, therefore, the nature of this business is unknown."
+      },
+      {
+        "id": "X60CB8AEC-8AFE-4050-B0A7-2485B9668C3A",
+        "text": "5Whitney wrote this docketing. His response letter, if he penned one, has not been\n                  located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Henry C. Whitney, 9 July 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "I now expect to go toChicagoon the 15th; and I probably shall remain there, and thereabouts, for about two weeks–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "It turned me blind when I first heardSwettwas beaten, andLovejoynominated; but after much anxious\n               reflection, I really believe it is best to let it stand–3This, of course, I wish to be confidential–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lamondid get your Deeds– I went with him to the office, got them, and put them in his\n               hand myself–4"
+      }
+    ],
+    "word_count": 81
+  },
+  "extraction_date": "2025-12-26 21:39:11",
+  "word_count": 81,
+  "processing": {
+    "cleaned": true,
+    "original_length": 493,
+    "cleaned_length": 465,
+    "preserved_originality": true
+  }
+}

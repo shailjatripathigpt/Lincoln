@@ -1,0 +1,79 @@
+{
+  "document_id": "D210458",
+  "url": "https://papersofabrahamlincoln.org/documents/D210458",
+  "metadata": {
+    "date": "1849-05-05",
+    "authors": [
+      "Dunbar, Alexander P."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political",
+      "United States marshals"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-05-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "requested",
+      "marshall",
+      "nabb",
+      "well",
+      "alexander",
+      "dunbar",
+      "abraham",
+      "lincoln",
+      "bycharles",
+      "nabbof",
+      "thiscountyto",
+      "say",
+      "applicant",
+      "thestatewe"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Alexander P. Dunbar to Abraham Lincoln, 5 May 18491 I am Requested byCharles W Nabbof thiscountyto say to you that he is an applicant for Marshall of thestatewe suppose thatBenj Bondis probably or will be appointed, Nabb believes from his having been well and Intimately\n\nacquainted withTaylorthat he can obtain the appointment, Nabb would make a most Excellent Marshall and we in this part of the state would be well pleased with the appointmenthe is of the opinion that you can be of advantage to him and has requested me to\n\nwrite you on the subject–2",
+    "paragraphs": [
+      "Alexander P. Dunbar to Abraham Lincoln, 5 May 18491 I am Requested byCharles W Nabbof thiscountyto say to you that he is an applicant for Marshall of thestatewe suppose thatBenj Bondis probably or will be appointed, Nabb believes from his having been well and Intimately",
+      "acquainted withTaylorthat he can obtain the appointment, Nabb would make a most Excellent Marshall and we in this part of the state would be well pleased with the appointmenthe is of the opinion that you can be of advantage to him and has requested me to",
+      "write you on the subject–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Memorandum concerning Benjamin Bond;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+    ],
+    "footnotes": [
+      {
+        "id": "X405D7FA5-3DCD-4A5D-8AD9-683750A33918",
+        "text": "1Alexander P. Dunbar wrote and signed this letter."
+      },
+      {
+        "id": "X544FB097-55FD-474E-A0FF-5649F88B06B0",
+        "text": "2On April 30, 1849, Charles W. Nabb hadwrittenAbraham Lincolnthat he was making application for U.S. marshal, requesting Lincoln’s support.  Nabb\n                  would not get Lincoln’s endorsement or the appointment; in March 1849, Lincoln wrote\n                  several letters soliciting government officials on Benjamin Bond’s behalf, though\n                  he preferred that the appointment go toCharles G. Thomas.  Bond received the appointment and held the job until 1853.Abraham Lincoln to John M. Clayton;Memorandum concerning Benjamin Bond;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Alexander P. Dunbar to Abraham Lincoln, 5 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am Requested byCharles W Nabbof thiscountyto say to you that he is an applicant for Marshall of thestatewe suppose thatBenj Bondis probably or will be appointed, Nabb  believes from his having been well and Intimately\n               acquainted withTaylorthat he can obtain the appointment, Nabb would make a most Excellent Marshall and we in this part of the state would be well pleased with the appointmenthe is of the opinion that you can be of advantage to him and has requested me to\n               write you on the subject–2"
+      }
+    ],
+    "word_count": 96
+  },
+  "extraction_date": "2025-12-26 20:42:30",
+  "word_count": 96,
+  "processing": {
+    "cleaned": true,
+    "original_length": 583,
+    "cleaned_length": 554,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

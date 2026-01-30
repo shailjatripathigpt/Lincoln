@@ -1,0 +1,52 @@
+{
+  "document_id": "D200010",
+  "url": "https://papersofabrahamlincoln.org/documents/D200010",
+  "metadata": {
+    "date": "1832-04-21",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Offutt, Denton"
+    ],
+    "keywords": [
+      "Debtor and creditor"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt of Denton Offutt to William Sampson, 21 April 18321 Received ofWilliam Sampsonin full of all demands up to this day.",
+    "paragraphs": [
+      "Receipt of Denton Offutt to William Sampson, 21 April 18321 Received ofWilliam Sampsonin full of all demands up to this day."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XC2C75C4B-5EE7-43BA-8F41-A857087C24B8",
+        "text": "1Abraham Lincoln wrote the entirety of this document."
+      },
+      {
+        "id": "X58C2BA04-EBF2-4A12-BE28-3099C2284250",
+        "text": "2Lincoln wrote this note while employed as a clerk in Denton Offutt’s store inNew Salem, Illinois. This payment likely satisfied debts that William Sampson  owed Offutt\n                  for goods at the store."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Denton Offutt to  William  Sampson, 21 April 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received ofWilliam Sampsonin full of all demands up to this day."
+      }
+    ],
+    "word_count": 21
+  },
+  "extraction_date": "2025-12-26 19:45:10",
+  "word_count": 21,
+  "processing": {
+    "cleaned": true,
+    "original_length": 126,
+    "cleaned_length": 124,
+    "preserved_originality": true
+  }
+}

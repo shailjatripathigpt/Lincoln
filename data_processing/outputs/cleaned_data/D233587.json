@@ -1,0 +1,58 @@
+{
+  "document_id": "D233587",
+  "url": "https://papersofabrahamlincoln.org/documents/D233587",
+  "metadata": {
+    "date": "1849-02-26",
+    "authors": [
+      "N. H. Eddy"
+    ],
+    "keywords": [
+      "Employment references",
+      "Public lands"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "N. H. Eddy to Abraham Lincoln, 26 February 18491 I send this petition which was mislaid when the others were forwarded you.2",
+    "paragraphs": [
+      "N. H. Eddy to Abraham Lincoln, 26 February 18491 I send this petition which was mislaid when the others were forwarded you.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 141;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 139."
+    ],
+    "footnotes": [
+      {
+        "id": "XCD57AEBD-B117-4928-9C5C-BC8FDE353F1D",
+        "text": "1N. H. Eddy wrote and signed the letter."
+      },
+      {
+        "id": "XEFEECE2E-0A69-430D-83E6-828D24D486A1",
+        "text": "2The enclosed petition has not been located."
+      },
+      {
+        "id": "XE036C65E-8FEA-4764-889C-9850B15EE355",
+        "text": "3Cyrus Aldrich received the appointment and served from 1849 to 1853.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 141;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 139."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "N. H. Eddy to Abraham Lincoln, 26 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I send this petition which was mislaid when the others were forwarded you.2"
+      }
+    ],
+    "word_count": 22
+  },
+  "extraction_date": "2025-12-26 20:36:28",
+  "word_count": 22,
+  "processing": {
+    "cleaned": true,
+    "original_length": 124,
+    "cleaned_length": 124,
+    "preserved_originality": true
+  }
+}

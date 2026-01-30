@@ -1,0 +1,87 @@
+{
+  "document_id": "D233926",
+  "url": "https://papersofabrahamlincoln.org/documents/D233926",
+  "metadata": {
+    "date": "1833-03-06",
+    "authors": [
+      "Berry, William F.",
+      "Green, Bowling",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Bonds",
+      "Licenses",
+      "Alcohol",
+      "Small business"
+    ],
+    "type": "Bond",
+    "extracted_date": "1833",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "lincoln",
+      "berry",
+      "our",
+      "march",
+      "all",
+      "these",
+      "presents",
+      "firmly",
+      "thecounty",
+      "full",
+      "now",
+      "obligation",
+      "said",
+      "tavern",
+      "bond"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Bond of Abraham Lincoln, William F. Berry, and Bowling Green, 6 March 18331 Know all men by these presents weWilliam F BerryaAbraham LincolnandJohnBowling Greenare held and firmly bound unto theCounty CommissionersofSangamon Countyin the full sum of three hundred dollars to which payment well and truly to be made\n\nwe bind our Selves our heirs Executors and administrators firmly by these presents\n\nSealed with our Seals and dated this 6thday of March A.D. 1833— Now the Condition of this obligation is such that whereas\n\nthe said Berry & Lincoln has obtained a license from theCounty Commissioners Courtto keep a tavern in the Town ofNew Salemto Continue one year— Now if the said Berry and Lincoln shall be of good behavor and observe all the laws of thisStaterelative to tavern keepers—2then this obligation to be void or otherwise remain in full force—3",
+    "paragraphs": [
+      "Bond of Abraham Lincoln, William F. Berry, and Bowling Green, 6 March 18331 Know all men by these presents weWilliam F BerryaAbraham LincolnandJohnBowling Greenare held and firmly bound unto theCounty CommissionersofSangamon Countyin the full sum of three hundred dollars to which payment well and truly to be made",
+      "we bind our Selves our heirs Executors and administrators firmly by these presents",
+      "Sealed with our Seals and dated this 6thday of March A.D. 1833— Now the Condition of this obligation is such that whereas",
+      "the said Berry & Lincoln has obtained a license from theCounty Commissioners Courtto keep a tavern in the Town ofNew Salemto Continue one year— Now if the said Berry and Lincoln shall be of good behavor and observe all the laws of thisStaterelative to tavern keepers—2then this obligation to be void or otherwise remain in full force—3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act to Prevent the Selling of Spiritous Liquors in This State, and for Other Purposes,”\n                     14 February 1823,Revised Laws of Illinois(1833), 594-95.",
+      "Benjamin P. Thomas,Lincoln's New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 61."
+    ],
+    "footnotes": [
+      {
+        "id": "X5E2C710F-100B-4FCC-8BEA-C9CFEF3448D4",
+        "text": "1Abraham Lincoln wrote only his own signature."
+      },
+      {
+        "id": "XB97DA5F5-6982-4604-A2DD-A3111815110D",
+        "text": "2Illinois state law restricted the sale of alcohol and weapons to Native Americans,\n                  imposed limits on the price and quantity of spiritous liquors sold, and  required\n                  all tavern owners to offer security before obtaining a license to conduct business.“An Act to Prevent the Selling of Spiritous Liquors in This State, and for Other Purposes,”\n                     14 February 1823,Revised Laws of Illinois(1833), 594-95."
+      },
+      {
+        "id": "X2E3CFF6B-9824-4423-9490-C859EF421E65",
+        "text": "3In January 1833, Lincoln and William F. Berrypurchaseda store fromReuben Radford. As a surety for Berry and Lincoln, Green, an established gentleman in New Salem\n                  where the store was located, agreed to be a responsible party should the two young\n                  men fail as tavern keepers to meet their legal responsibilities.Benjamin P. Thomas,Lincoln's New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 61."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Bond of Abraham Lincoln, William F. Berry, and Bowling Green, 6 March 18331"
+      },
+      {
+        "type": "paragraph",
+        "text": "Know all men by these presents weWilliam F BerryaAbraham LincolnandJohnBowling Greenare held and firmly bound unto theCounty CommissionersofSangamon Countyin the full sum of three hundred dollars to which payment well and truly to be made\n               we bind our Selves our heirs Executors and administrators firmly by these presents\n               Sealed with our Seals and dated this 6thday of March A.D. 1833— Now the Condition of this obligation is such that whereas\n               the said Berry & Lincoln has obtained a license from theCounty Commissioners Courtto keep a tavern in the Town ofNew Salemto Continue one year— Now if the said Berry and Lincoln shall be of good behavor and observe all the laws of thisStaterelative to tavern keepers—2then this obligation to be void or otherwise remain in full force—3"
+      }
+    ],
+    "word_count": 140
+  },
+  "extraction_date": "2025-12-26 19:46:37",
+  "word_count": 140,
+  "processing": {
+    "cleaned": true,
+    "original_length": 900,
+    "cleaned_length": 858,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,96 @@
+{
+  "document_id": "D210833",
+  "url": "https://papersofabrahamlincoln.org/documents/D210833",
+  "metadata": {
+    "date": "1858-08-03",
+    "authors": [
+      "Tracy, Frank W."
+    ],
+    "keywords": [
+      "Elections",
+      "Political campaigns",
+      "Political oratory",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-08-03",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "frank",
+      "tracy",
+      "abraham",
+      "lincoln",
+      "august",
+      "yours",
+      "ult",
+      "hand",
+      "reply",
+      "say",
+      "aug",
+      "meets",
+      "our",
+      "views",
+      "making"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Frank W. Tracy to Abraham Lincoln, 3 August 18581 Yours of 30th, ult. at hand.– In reply would say that Aug. 12th– meets our views and we are making efforts to secure “some” of an audience on\n\nthat day–2Please give publicityby^of^the appointment through theJournal–3 We suppose you will be intownon the 11th?4",
+    "paragraphs": [
+      "Frank W. Tracy to Abraham Lincoln, 3 August 18581 Yours of 30th, ult. at hand.– In reply would say that Aug. 12th– meets our views and we are making efforts to secure “some” of an audience on",
+      "that day–2Please give publicityby^of^the appointment through theJournal–3 We suppose you will be intownon the 11th?4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of\n                     1858,”The Journal of American History94 (September 2007), 392-94, 400-401; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77, 481;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 12 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-12;Speech of Francis A. Arenz Welcoming Abraham Lincoln to Beardstown;Report of Speech at Beardstown, Illinois;Summary of Speech at Beardstown, Illinois.",
+      "Daily Illinois State Journal(Springfield), 5 August 1858, 3:1; 6 August 1858, 2:1.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 11 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-11; 12 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-12."
+    ],
+    "footnotes": [
+      {
+        "id": "X548795FF-FC53-4BA1-A3CF-0B94CA803F05",
+        "text": "1Frank W. Tracy wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "XF33EFCAB-4BA0-481A-8BCE-9A15C5CCBFA5",
+        "text": "2Abraham Lincoln’s letter to Tracy of July 30, 1858 has not been located. It responded\n                  to an earlierletterfrom Tracy on behalf of the Beardstown Republican Club, inviting Lincoln to speak\n                  in Beardstown.Lincoln was running against incumbentStephen A. Douglasto representIllinoisin theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. He and Douglas both focused their campaign\n                  efforts on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.\n                  Douglas spoke in Beardstown on August 11 and Lincoln accepted Tracy’s invitation to\n                  appear in the town, ultimately speaking in Beardstown on August 12. See the1858 Illinois Republican Convention;1858 Federal Election.Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of\n                     1858,”The Journal of American History94 (September 2007), 392-94, 400-401; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77, 481;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 12 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-12;Speech of Francis A. Arenz Welcoming Abraham Lincoln to Beardstown;Report of Speech at Beardstown, Illinois;Summary of Speech at Beardstown, Illinois."
+      },
+      {
+        "id": "X699D68F0-C751-4BDB-8212-209D21AD5392",
+        "text": "3In addition to publishing the schedule for the upcomingLincoln-Douglas Debates, on August 6 theIllinois State Journaladded a list of the campaign speeches that Lincoln had scheduled in August and September,\n                  1858, beginning with that in Beardstown on August 12.Daily Illinois State Journal(Springfield), 5 August 1858, 3:1; 6 August 1858, 2:1."
+      },
+      {
+        "id": "X82FD610E-6157-4EDD-9D2D-52B70664F5A8",
+        "text": "4No response to this letter by Lincoln has been located. On August 11, 1858, Lincoln\n                  traveled from Springfield toNaples, and he arrived in Beardstown via steamer on the morning of August 12.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 11 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-11; 12 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-12."
+      },
+      {
+        "id": "X6FDE77DE-318A-4640-9599-30686D469720",
+        "text": "5Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Frank W. Tracy to Abraham Lincoln, 3 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of 30th, ult. at hand.–  In reply would say that Aug.[August] 12th– meets our views and we are making efforts to secure “some” of an audience on\n               that day–2Please give publicityby^of^the appointment through theJournal–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "We suppose you will be intownon the 11th?4"
+      }
+    ],
+    "word_count": 52
+  },
+  "extraction_date": "2025-12-26 21:55:56",
+  "word_count": 52,
+  "processing": {
+    "cleaned": true,
+    "original_length": 332,
+    "cleaned_length": 309,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

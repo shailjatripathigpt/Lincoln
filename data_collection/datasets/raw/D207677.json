@@ -1,0 +1,100 @@
+{
+  "document_id": "D207677",
+  "url": "https://papersofabrahamlincoln.org/documents/D207677",
+  "metadata": {
+    "date": "1853-01-XX",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Courts--Law and legislation",
+      "Circuit courts--U.S. states"
+    ],
+    "type": "Legislation"
+  },
+  "content": {
+    "full_text": "A Bill to Reduce the Limits of the Eighth Judicial Circuit, [January 1853]1 [Table 1] [Table 2]",
+    "paragraphs": [
+      "A Bill to Reduce the Limits of the Eighth Judicial Circuit, [January 1853]1",
+      "[Table 1: Spring Term— | Sangamon, on the Third Monday of March Logan, two weeks thereafter McLean, one week t...]",
+      "[Table 2: Fall Term— | Logan, on the first monday of September McLean, one week thereafter Woodford, two weeks...]"
+    ],
+    "tables_count": 2,
+    "citations": [
+      "“An Act Fixing the Times of Holding Courts in the Eighth Judicial Circuit,” 20 January\n                     1849,Laws of Illinois(1849),      60.",
+      "Illinois SenateJournal. 1853. 18th G. A., 160, 162, 227-28; Illinois HouseJournal. 1853. 18th G. A., 228-29, 283; “An Act to Reduce the Limits of the Eighth Judicial\n                     Circuit, and to Fix the Times of Holding Courts Therein,” 3 February 1853,General Laws of Illinois(1853),      63-64."
+    ],
+    "footnotes": [
+      {
+        "id": "XEF86AA3A-BB4B-4920-BBCD-A9E2EA34319D",
+        "text": "1Abraham Lincoln wrote the text of this bill."
+      },
+      {
+        "id": "XF7B4B8A2-E1F0-4FFE-A524-9947FD4AF340",
+        "text": "2This bill proposed changes to the counties that were included in the Eighth Judicial\n                  Circuit of Illinois as well as the times court was held, as previously established\n                  in an act passed by the Illinois General Assembly in January 1849.“An Act Fixing the Times of Holding Courts in the Eighth Judicial Circuit,” 20 January\n                     1849,Laws of Illinois(1849),      60."
+      },
+      {
+        "id": "XB174CFF1-05CE-4DB2-B7FD-309FE0F9551B",
+        "text": "3Asahel Gridleyintroduced the bill in theIllinois Senateon January 24, 1853,  and it was referred to the Committee on the Judiciary. On January\n                  25, the committee reported back the bill without amendment and recommended its passage.\n                  The Senate passed the bill, and sent to theIllinois House of Representativesfor consideration.The House took up the bill on January 27 and referred it to the Committee on the Judiciary.\n                  On January 31, the committee reported back the bill with a substitute, which the House\n                  passed and returned to the Senate. The Senate approved the House substitution the\n                  same day, and the bill became law on February 3, 1853.The law carried the same title as Lincoln’s original bill but differed from his bill\n                  in that it excluded Piatt County from the list of counties that comprised the Eighth\n                  Judicial Circuit. This impacted the terms that Lincoln had proposed for both the spring\n                  and fall. The  law moved Champaign County’s spring term to one week after DeWitt County’s\n                  spring term and Champaign County’s fall term to one week after DeWitt County’s fall\n                  term. In all other respects, the law passed was the same as the bill that Lincoln\n                  wrote.Illinois SenateJournal. 1853. 18th G. A., 160, 162, 227-28; Illinois HouseJournal. 1853. 18th G. A., 228-29, 283; “An Act to Reduce the Limits of the Eighth Judicial\n                     Circuit, and to Fix the Times of Holding Courts Therein,” 3 February 1853,General Laws of Illinois(1853),      63-64."
+      },
+      {
+        "id": "X71E32628-23AB-4A54-87CD-72D6385F8F8B",
+        "text": "4It is unclear who wrote this number."
+      },
+      {
+        "id": "X3E03176C-58DE-4E80-8FAB-9F2B8D33D818",
+        "text": "5Lincoln wrote this title for the bill."
+      },
+      {
+        "id": "XF89214E6-7608-4409-8EA8-8DF1B8B18046",
+        "text": "6Roswell E. Goodell wrote and signed this endorsement."
+      },
+      {
+        "id": "X0C13AD47-D23C-4012-8079-1492916568D9",
+        "text": "7Finney D. Preston wrote and signed this endorsement."
+      },
+      {
+        "id": "XBE70C5F2-714D-4DA2-9F9E-B3F569C37173",
+        "text": "8It is unclear who wrote this script."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "A Bill to Reduce the Limits of the Eighth Judicial Circuit, [January 1853]1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "Spring Term— | Sangamon, on the Third Monday of March",
+          "Logan, two weeks thereafter",
+          "McLean, one week thereafter",
+          "Woodford, two weeks thereafter",
+          "Tazewell, one week thereafter",
+          "DeWitt, two weeks thereafter",
+          "Piatt, the friday thereafter",
+          "Champaign, the Monday thereafter",
+          "Vermillion, the friday thereafter"
+        ]
+      },
+      {
+        "type": "table",
+        "table_number": 2,
+        "rows": [
+          "Fall Term— | Logan, on the first monday of September",
+          "McLean, one week thereafter",
+          "Woodford, two weeks thereafter",
+          "Tazewell one week thereafter",
+          "De Witt two weeks thereafter",
+          "Piatt, the friday thereafter",
+          "Champaign the Monday thereafter",
+          "Vermillion, the friday thereafter",
+          "Sangamon, on the Third Monday of November–2"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:27:16",
+  "word_count": 17
+}

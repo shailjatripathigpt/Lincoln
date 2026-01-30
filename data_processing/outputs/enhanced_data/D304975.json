@@ -1,0 +1,90 @@
+{
+  "document_id": "D304975",
+  "url": "https://papersofabrahamlincoln.org/documents/D304975",
+  "metadata": {
+    "date": "1857-XX-XX",
+    "authors": [
+      "Kinzie, Juliette A. M."
+    ],
+    "keywords": [
+      "Inscriptions",
+      "Authors, American",
+      "Literature",
+      "Nonfiction novels"
+    ],
+    "type": "Inscription",
+    "extracted_date": "1857-XX-XX",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "kinzie",
+      "juliette",
+      "early",
+      "day",
+      "northwest",
+      "inscription",
+      "abraham",
+      "lincoln",
+      "inwau",
+      "bun",
+      "respectful",
+      "compliments",
+      "theauthoress",
+      "wau",
+      "ban"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Inscription of Juliette A. M. Kinzie to Abraham Lincoln inWau-Bun, The “Early Day” in the Northwest, 1 With the respectful compliments of theAuthoress– WAU - BAN,3THE“EARLY DAY”INTHE NORTHWEST.4^Juliette Augusta (Magill) Kinzie^BY“MRS.JOHN H. KINZIE,”OFCHICAGOSECOND EDITION, WITH ILLUSTRATIONS.CHICAGO:D. B. COOKE & CO., PUBLISHERS.",
+    "paragraphs": [
+      "Inscription of Juliette A. M. Kinzie to Abraham Lincoln inWau-Bun, The “Early Day” in the Northwest, 1 With the respectful compliments of theAuthoress– WAU - BAN,3THE“EARLY DAY”INTHE NORTHWEST.4^Juliette Augusta (Magill) Kinzie^BY“MRS.JOHN H. KINZIE,”OFCHICAGOSECOND EDITION, WITH ILLUSTRATIONS.CHICAGO:D. B. COOKE & CO., PUBLISHERS."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Ann Durkin Keating,The World of Juliette Kinzie: Chicago Before the Fire(Chicago and London: The University of Chicago Press, 2019), vii.",
+      "Juliette A. M. Kinzie,Wau-Bun, The Early Day in the Northwest(Philadelphia: J. B. Lippincott, 1873), vii."
+    ],
+    "footnotes": [
+      {
+        "id": "XF5D87F8B-5C3C-4B3D-8564-4CA5B3457747",
+        "text": "1Juliette A. M. Kinzie wrote and signed this author’s inscription.  The editors have\n                  inferred the date from the publication date of the volume inscribed."
+      },
+      {
+        "id": "X432FC98B-C48C-4ED0-9DD7-A3AAF1022DCD",
+        "text": "2An unknown person wrote this docketing."
+      },
+      {
+        "id": "X026496AF-9730-41DF-8C3E-3ED15E7BB1D4",
+        "text": "3Wau-ban is a Ho-Chunk word for dawn or early day.Ann Durkin Keating,The World of Juliette Kinzie: Chicago Before the Fire(Chicago and London: The University of Chicago Press, 2019), vii."
+      },
+      {
+        "id": "X86394351-FA78-4E18-A5B6-D90EF5B2FD83",
+        "text": "4Juliette A. M. Kinzie shares her personal experiences, and those of her family, in\n                  Chicago before it became a large metropolitan city. In the Preface, dated 1855, she\n                  wrote, “Some who read the following sketches may be inclined to believe that a residence\n                  among our native brethren and an attachment growing out of our peculiar relation to\n                  them, have exaggerated our sympathies, and our sense of the wrongs they have  received\n                  at the hands of the whites. This is not the place to discuss that point. There is\n                  a tribunal at which man shall be judged for that which he has meted out to his fellow-man.”Juliette A. M. Kinzie,Wau-Bun, The Early Day in the Northwest(Philadelphia: J. B. Lippincott, 1873), vii."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Inscription of Juliette A. M. Kinzie to Abraham Lincoln inWau-Bun, The “Early Day” in the Northwest, [1857]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "With the respectful compliments of theAuthoress–"
+      },
+      {
+        "type": "paragraph",
+        "text": "WAU - BAN,3THE“EARLY DAY”INTHE NORTHWEST.4^Juliette Augusta (Magill) Kinzie^BY“MRS.JOHN H. KINZIE,”OFCHICAGOSECOND EDITION, WITH ILLUSTRATIONS.CHICAGO:D. B. COOKE & CO., PUBLISHERS."
+      }
+    ],
+    "word_count": 41
+  },
+  "extraction_date": "2025-12-26 21:45:29",
+  "word_count": 41,
+  "processing": {
+    "cleaned": true,
+    "original_length": 339,
+    "cleaned_length": 333,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

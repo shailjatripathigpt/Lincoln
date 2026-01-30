@@ -1,0 +1,54 @@
+{
+  "document_id": "D200221",
+  "url": "https://papersofabrahamlincoln.org/documents/D200221",
+  "metadata": {
+    "date": "1840-05-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers--Accounting",
+      "Counties"
+    ],
+    "type": "Account"
+  },
+  "content": {
+    "full_text": "Account of Stuart and Lincoln to Sangamon County, [May 1840]1 [Table 1]",
+    "paragraphs": [
+      "Account of Stuart and Lincoln to Sangamon County, [May 1840]1",
+      "[Table 1: County ofSangamon ToStuart & LincolnDr[Debit] To use of Room for juries from May 1839 to May 1840 | ...]"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Stuart & Lincoln rented office to Sangamon County Circuit Court, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141179."
+    ],
+    "footnotes": [
+      {
+        "id": "X54ED1E16-5C6D-41E2-B72E-1950623C9FB7",
+        "text": "1Abraham Lincoln wrote the account in its entirety."
+      },
+      {
+        "id": "X31D14C99-A72C-45AB-849D-31987284552A",
+        "text": "2Stuart & Lincoln rented their office as a jury room for grand and petit juries of\n                  theSangamon County Circuit Court.  The court paid them $36 per year in rent between July 1837 and December 1840.Stuart & Lincoln rented office to Sangamon County Circuit Court, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141179."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Account of Stuart and Lincoln to Sangamon County, [May 1840]1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "County ofSangamon",
+          "ToStuart & LincolnDr[Debit]",
+          "To use of Room for juries from",
+          "May 1839 to May 1840 | $36—002"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:12:22",
+  "word_count": 12
+}

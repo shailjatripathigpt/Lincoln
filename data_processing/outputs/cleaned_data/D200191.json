@@ -1,0 +1,59 @@
+{
+  "document_id": "D200191",
+  "url": "https://papersofabrahamlincoln.org/documents/D200191",
+  "metadata": {
+    "date": "1839-12-18",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Incorporation",
+      "Mechanics"
+    ],
+    "type": "Amendment"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill Incorporating the Springfield Mechanics’ Union,” [18 December\n\n1839]1 Amendment to the Bill to incorporate theSpringfield Mechanic's Union— Amend thebillby filling the blank in the first section with \"Caleb Burchall,Thomas Lewis,Edmund R. Wiley,William D Herndon,Simeon Francis,George R. Weber,Walter Davis,George Wood, andR. F Coflin2",
+    "paragraphs": [
+      "Amendment to “A Bill Incorporating the Springfield Mechanics’ Union,” [18 December",
+      "1839]1 Amendment to the Bill to incorporate theSpringfield Mechanic's Union— Amend thebillby filling the blank in the first section with \"Caleb Burchall,Thomas Lewis,Edmund R. Wiley,William D Herndon,Simeon Francis,George R. Weber,Walter Davis,George Wood, andR. F Coflin2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 44, 59, 118, 152, 161, 324, 326, 338; Illinois\n                     SenateJournal. 1839. 11th G. A., special sess., 109-10, 231."
+    ],
+    "footnotes": [
+      {
+        "id": "XBC79D022-997A-4140-B6B7-B14EFD538022",
+        "text": "1Abraham Lincolnwrote the body of the amendment and the title on page two.On December 17, 1839, Lincoln in theHouse of Representativespresented apetitionfrom the mechanics ofSpringfield, requesting the incorporation of a Springfield mechanics’ union.  The House referred\n                  it to a select committee, which included Lincoln. In response to the petition, Lincoln\n                  of the select committee  introducedHB 29on December 19. The House passed the bill on January 13, 1840. TheSenatepassed the bill on February 1. TheCouncil of Revisionapproved the bill on February 3 and the act became law.Illinois HouseJournal. 1839. 11th G. A., special sess., 44, 59, 118, 152, 161, 324, 326, 338; Illinois\n                     SenateJournal. 1839. 11th G. A., special sess., 109-10, 231."
+      },
+      {
+        "id": "X8869B016-96F8-47DF-99EC-D2FEB91DC9CC",
+        "text": "2Lincoln’sdraft of the billdid not include the names of any incorporators.  Lincoln not write any part of the\n                  draft except the title of the bill.  Given that neither the House or Senate amended\n                  the bill after its introduction, it seems that Lincoln  penned this amendment and\n                  added it to the  bill before introducing it on December 19.  All the men Lincoln includes\n                  as incorporators signed thepetitionfor a mechanics union."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill Incorporating the Springfield Mechanics’ Union,” [18 December\n               1839]1"
+      },
+      {
+        "type": "description",
+        "text": "Amendment to the Bill to incorporate theSpringfield Mechanic's Union—"
+      },
+      {
+        "type": "paragraph",
+        "text": "Amend thebillby filling the blank in the first section with \"Caleb Burchall,Thomas Lewis,Edmund R. Wiley,William D Herndon,Simeon Francis,George R. Weber,Walter Davis,George Wood, andR. F Coflin[\"]2"
+      }
+    ],
+    "word_count": 46
+  },
+  "extraction_date": "2025-12-26 20:10:49",
+  "word_count": 46,
+  "processing": {
+    "cleaned": true,
+    "original_length": 373,
+    "cleaned_length": 356,
+    "preserved_originality": true
+  }
+}

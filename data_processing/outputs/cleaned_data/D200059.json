@@ -1,0 +1,54 @@
+{
+  "document_id": "D200059",
+  "url": "https://papersofabrahamlincoln.org/documents/D200059",
+  "metadata": {
+    "date": "1835-12-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debtor and creditor"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James Semple, 1 I now give notice that on saturday next I shall ask leave to introduce a bill, foran act suplemental to an act entitled an act for the relief of insolvent debtors approved\n\nJanuary 12th18292",
+    "paragraphs": [
+      "Abraham Lincoln to James Semple, 1 I now give notice that on saturday next I shall ask leave to introduce a bill, foran act suplemental to an act entitled an act for the relief of insolvent debtors approved"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 32.",
+      "Illinois HouseJournal. 1835. 9th G. A., 2nd sess., 41, 68, 77, 122; Illinois SenateJournal. 1835. 9th G. A., 2nd sess., 95, 210, 224-25."
+    ],
+    "footnotes": [
+      {
+        "id": "XEF95819A-8285-4920-AF42-92020081DADD",
+        "text": "1Abraham Lincoln wrote the text on page one of this document. Lincoln presented  this\n                  notice in the House of Representatives on December 10, 1835.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 32."
+      },
+      {
+        "id": "XFA51DCBD-B331-4C3C-8628-8751109BAB6C",
+        "text": "2Lincoln introduced the bill on December 12, and theHousepassed it on December 22. TheSenatetook no action, and the bill did not become law.Illinois HouseJournal. 1835. 9th G. A., 2nd sess., 41, 68, 77, 122; Illinois SenateJournal. 1835. 9th G. A., 2nd sess., 95, 210, 224-25."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James Semple, [10 December 1835]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I now give notice that on saturday next I shall ask leave to introduce a bill, foran act suplemental to an act entitled an act for the relief of insolvent debtors approved\n                  January 12th18292"
+      }
+    ],
+    "word_count": 40
+  },
+  "extraction_date": "2025-12-26 20:02:34",
+  "word_count": 42,
+  "processing": {
+    "cleaned": true,
+    "original_length": 260,
+    "cleaned_length": 225,
+    "preserved_originality": true
+  }
+}

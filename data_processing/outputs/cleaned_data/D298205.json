@@ -1,0 +1,56 @@
+{
+  "document_id": "D298205",
+  "url": "https://papersofabrahamlincoln.org/documents/D298205",
+  "metadata": {
+    "date": "1847-09-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Armies--Officers",
+      "Executive power"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James K. Polk, 17 September 18471 MrE. B. Zabriskie, a nephew of theCaptainof that name who fell atBuena Vista, and who has himself served a year as a volunteer in theWar with Mexico, is an applicant for an appointment in thearmy– He is of good family and character; and should the appointment be conferred upon\n\nhim, many persons, including myself, would be much gratified–2",
+    "paragraphs": [
+      "Abraham Lincoln to James K. Polk, 17 September 18471 MrE. B. Zabriskie, a nephew of theCaptainof that name who fell atBuena Vista, and who has himself served a year as a volunteer in theWar with Mexico, is an applicant for an appointment in thearmy– He is of good family and character; and should the appointment be conferred upon",
+      "him, many persons, including myself, would be much gratified–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to William L. Marcy."
+    ],
+    "footnotes": [
+      {
+        "id": "XDFFA80D4-D85B-4F10-A8AB-3694BCA58CCF",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "X1D8416D5-092B-4AAC-BA54-447109C55AB8",
+        "text": "2Elias B. Zabriskie did not receive the appointment.Abraham Lincoln to William L. Marcy."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James K. Polk, 17 September 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrE. B. Zabriskie, a nephew of theCaptainof that name who fell atBuena Vista, and who has himself served a year as a volunteer in theWar with Mexico, is an applicant for an appointment in thearmy–  He is of good family and character; and should the appointment be conferred upon\n               him, many persons, including myself, would be much gratified–2"
+      }
+    ],
+    "word_count": 67
+  },
+  "extraction_date": "2025-12-26 20:25:03",
+  "word_count": 67,
+  "processing": {
+    "cleaned": true,
+    "original_length": 409,
+    "cleaned_length": 394,
+    "preserved_originality": true
+  }
+}

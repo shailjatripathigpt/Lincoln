@@ -1,0 +1,91 @@
+{
+  "document_id": "D200538",
+  "url": "https://papersofabrahamlincoln.org/documents/D200538",
+  "metadata": {
+    "date": "1849-01-05",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Patronage, political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-01-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "say",
+      "your",
+      "saw",
+      "now",
+      "more",
+      "about",
+      "abraham",
+      "lincoln",
+      "walter",
+      "davis",
+      "january",
+      "letter",
+      "received",
+      "last"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Walter Davis, 5 January 18491 Your letter is received.2When I last saw you I said, that if the distribution of the offices should fall\n\ninto my hands, you should havesomething; and I now say as much, but can say no more– I know no more now than I knew when\n\nyou saw me, as to whether the present officers will be removed, or, if they shall,\n\nwhetherIshall be allowed to name the persons to fill them. It will perhaps be better for\n\nboth you and me, for you to say nothing about this–3 I shall do what I can about the Land claim on your brotherThomas’ account–4",
+    "paragraphs": [
+      "Abraham Lincoln to Walter Davis, 5 January 18491 Your letter is received.2When I last saw you I said, that if the distribution of the offices should fall",
+      "into my hands, you should havesomething; and I now say as much, but can say no more– I know no more now than I knew when",
+      "you saw me, as to whether the present officers will be removed, or, if they shall,",
+      "whetherIshall be allowed to name the persons to fill them. It will perhaps be better for",
+      "both you and me, for you to say nothing about this–3 I shall do what I can about the Land claim on your brotherThomas’ account–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 373;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 141;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 139;Abraham Lincoln to Thomas Ewing;Abraham Lincoln to Thomas Ewing;Illinois Journal(Weekly) (Springfield), 6 June 1849, 2:1.",
+      "“An Act to Raise for  a Limited Time an Additional Military Force, and for Other Purposes,”\n                     11 February 1847,Statutes at Large of the United States9 (1862):125-26;Abraham Lincoln to Walter Davis;Certification of Abraham Lincoln to Commissioner of Pensions Concerning Thomas Davis;Walter Davis to Abraham Lincoln;Abraham Lincoln to Walter Davis;James L. Edwards to Maria Davis in Care of Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X308705AA-684A-4C8E-BED9-20F919B99AFE",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XB424C748-5369-4180-BE11-5D05110EFA0A",
+        "text": "2Walter Davis’ letter has not been located."
+      },
+      {
+        "id": "X1FCC50C5-9F78-4AB2-B8D5-61A79B498E52",
+        "text": "3PresidentZachary Taylornamed  Davis  receiver of theGeneral Land OfficeinSpringfield, a position he held until 1853.  Davis replacedArcher G. Herndon, aDemocrat, who became receiver in 1842.  In April 1849, Lincoln wrote Secretary of InteriorThomas Ewingendorsing Davis for the job.John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 373;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 141;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 139;Abraham Lincoln to Thomas Ewing;Abraham Lincoln to Thomas Ewing;Illinois Journal(Weekly) (Springfield), 6 June 1849, 2:1."
+      },
+      {
+        "id": "X5C1F30E3-27BE-44FF-BA4F-480646F539DE",
+        "text": "4Correspondence between Lincoln and Davis indicates that Lincoln was offering Davis\n                  and his mother,Maria Davis, assistance in getting Thomas’ pension and land warrants due him for his service\n                  in theMexican War.    The land claim came under provisions of section nine of an act passed by Congress\n                  on February 11, 1847. ThePension Officeapproved the claim for bounty land in March 1849.“An Act to Raise for  a Limited Time an Additional Military Force, and for Other Purposes,”\n                     11 February 1847,Statutes at Large of the United States9 (1862):125-26;Abraham Lincoln to Walter Davis;Certification of Abraham Lincoln to Commissioner of Pensions Concerning Thomas Davis;Walter Davis to Abraham Lincoln;Abraham Lincoln to Walter Davis;James L. Edwards to Maria Davis in Care of Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Walter Davis, 5 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter is received.2When I last saw you I said, that if the distribution of the offices should fall\n               into my hands, you should havesomething; and I now say as much, but can say no more–  I know no more now than I knew when\n               you saw me, as to whether the present officers will be removed, or, if they shall,\n               whetherIshall be allowed to name the persons to fill them.  It will perhaps be better for\n               both you and me, for you to say nothing about this–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I shall do what I can about the Land claim on your brotherThomas’ account–4"
+      }
+    ],
+    "word_count": 110
+  },
+  "extraction_date": "2025-12-26 20:32:32",
+  "word_count": 110,
+  "processing": {
+    "cleaned": true,
+    "original_length": 637,
+    "cleaned_length": 579,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

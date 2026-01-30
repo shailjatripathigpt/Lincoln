@@ -1,0 +1,59 @@
+{
+  "document_id": "D200282",
+  "url": "https://papersofabrahamlincoln.org/documents/D200282",
+  "metadata": {
+    "date": "1841-10-25",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Land titles--Registration and transfer",
+      "Real property"
+    ],
+    "type": "Deed"
+  },
+  "content": {
+    "full_text": "Deed from Thomas Lincoln and Sarah Lincoln to Abraham Lincoln, 25 October 18411",
+    "paragraphs": [
+      "Deed from Thomas Lincoln and Sarah Lincoln to Abraham Lincoln, 25 October 18411"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Harry E. Pratt,Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 60-63."
+    ],
+    "footnotes": [
+      {
+        "id": "XEF8826F0-9ED3-4509-A896-6F6EC4CE4B88",
+        "text": "1Abraham Lincoln wrote the body of the document on page one, including Sarah Lincoln’s\n                  name and “her mark” above and below where she made her mark. He also wrote the entire\n                  certification on page two, aside from Dryden’s signature, which is very faint."
+      },
+      {
+        "id": "XAB615CBF-293A-4829-A6A4-0E36E747A417",
+        "text": "2The land described here is the site of  Thomas and Sarah Lincoln’s homestead near\n                  the southern border of Coles County. In late 1840, Thomas Lincoln had purchased this\n                  parcel for $50, as well as another contiguous 80 acres for $400.  By purchasing this\n                  parcel for $200 and giving them a life interest to it, Abraham Lincoln effectively\n                  made a cash gift to his father and stepmother. After his father’s death, Abraham Lincoln\n                  retained title to this 40-acre parcel  in order to protect  Sarah Lincoln’s right\n                  to the income from the land.Harry E. Pratt,Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 60-63."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Deed from Thomas Lincoln and Sarah Lincoln to Abraham Lincoln, 25 October 18411"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "State of Illinois | }",
+          "ss.[scilicet]",
+          "Coles County"
+        ]
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 20:16:33",
+  "word_count": 15,
+  "processing": {
+    "cleaned": true,
+    "original_length": 89,
+    "cleaned_length": 79,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "document_id": "D200970",
+  "url": "https://papersofabrahamlincoln.org/documents/D200970",
+  "metadata": {
+    "date": "1857-09-13",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Bonds",
+      "Stocks",
+      "Banking law",
+      "Bank failures",
+      "Financial institutions--Law and legislation",
+      "Finance, Public--Auditing"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Jesse K. Dubois, 13 September 18571 Several personsherekeep teasing^me^about you and the Bank commissioner’s not enforcing the banking laws–2In my stupidity, I do not believe I quite understand what the ground of complaint\n\nis; but it appears to me to be this; that the stocks which the banks have on deposite have depreciated; that in such case, it is your duty to make the banks deposite additional stocks, or, in default, wind them up; and that you do not perform this\n\nduty– Now how is this? Write me plainly enough to make me understand; and write\n\nsoon too, for I am annoyed about it a good deal.3",
+    "paragraphs": [
+      "Abraham Lincoln to Jesse K. Dubois, 13 September 18571 Several personsherekeep teasing^me^about you and the Bank commissioner’s not enforcing the banking laws–2In my stupidity, I do not believe I quite understand what the ground of complaint",
+      "is; but it appears to me to be this; that the stocks which the banks have on deposite have depreciated; that in such case, it is your duty to make the banks deposite additional stocks, or, in default, wind them up; and that you do not perform this",
+      "duty– Now how is this? Write me plainly enough to make me understand; and write",
+      "soon too, for I am annoyed about it a good deal.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, September 1857,http://thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1857&month=9;Daily Illinois State Journal(Springfield), 18 February 1857, 3:1.",
+      "Illinois HouseJournal. 1851. 17th G. A., 486; “An Act to Establish a General System of Banking,” 15 February\n                     1851,General Laws of Illinois(1851),      165-67, 171-72; “An Act to Amend ‘An Act to Establish a General System\n                     of Banking,’ Passed February 15th, 1851, and the Acts Amendatory Thereof,” 14 February\n                     1857,Laws of Illinois(1857),      25."
+    ],
+    "footnotes": [
+      {
+        "id": "XC66ED99F-63CD-4F80-AA7A-6C3828EB8C2C",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X8B39B78E-EA3F-4B3F-BC1A-159F9E9B52BF",
+        "text": "2Lincoln was in Chicago, Illinois during most of September 1857, tending to cases in\n                  theU.S. Circuit Court, Northern District of Illinois.In early 1857,IllinoisGovernorWilliam H. Bissellappointed three men  bank commissioners for the State of Illinois:William H. Herndon,Thomas Quick, andMiles S. Henry. It is unclear if Lincoln is referring to one man, or to all three men.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, September 1857,http://thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1857&month=9;Daily Illinois State Journal(Springfield), 18 February 1857, 3:1."
+      },
+      {
+        "id": "XA375E923-3031-42BE-B7E3-81FD36CD095E",
+        "text": "3Jesse K. Dubois’ response, if he wrote one, has not been located.In April 1857, LincolnwroteDubois a letter in which he provided Dubois advice regarding the latter’s legal obligations\n                  as state auditor for Illinois.Although it is unclear precisely which banks Lincoln is referring to in this letter,\n                  the stock depreciation that he references may have been related to thePanic of 1857. Several sections of banking legislation that theIllinois General Assemblypassed in both 1851 and 1857 were relevant to Dubois as state auditor and to the\n                  state’s bank commissioners. According to sections ten and seventeen of the 1851 legislation,\n                  the state’s bank commissioners were required to verify the values of banks’ stock\n                  shares annually, and it was illegal for the state auditor or others to countersign\n                  bills or notes “to any amount, in the aggregate exceeding the public stock deposited\n                  with the auditor” as security on the bank. Furthermore, per section thirty-two, if\n                  the bank commissioners determined that a bank’s securities had decreased in value\n                  and were therefore “insufficient as security for the redemption of bills or circulations,”\n                  the 1851 banking law required the bank commissioners to notify the president and cashier\n                  of the bank of this issue and require the bank to transfer or deposit other securities\n                  to make up for the original securities’ decrease in value. If a bank failed to comply,\n                  the state auditor was legally authorized to place that bank into liquidation.Per the 1857 banking law, the state auditor was required to verify that a bank had\n                  a minimum of $50,000 cash capital on hand before issuing any notes or bills on behalf\n                  of that bank.Illinois HouseJournal. 1851. 17th G. A., 486; “An Act to Establish a General System of Banking,” 15 February\n                     1851,General Laws of Illinois(1851),      165-67, 171-72; “An Act to Amend ‘An Act to Establish a General System\n                     of Banking,’ Passed February 15th, 1851, and the Acts Amendatory Thereof,” 14 February\n                     1857,Laws of Illinois(1857),      25."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Jesse K. Dubois, 13 September 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Several personsherekeep teasing^me^about you and the Bank commissioner’s not enforcing the banking laws–2In my stupidity, I do not believe I quite understand what the ground of complaint\n               is; but it appears to me to be this; that the stocks which the banks have on deposite have depreciated; that in such case, it is your duty to make the banks deposite additional stocks, or, in default, wind them up; and that you do not perform this\n               duty–  Now how is this?  Write me plainly enough to make me understand; and write\n               soon too, for I am annoyed about it a good deal.3"
+      }
+    ],
+    "word_count": 110
+  },
+  "extraction_date": "2025-12-26 21:44:25",
+  "word_count": 110,
+  "processing": {
+    "cleaned": true,
+    "original_length": 666,
+    "cleaned_length": 622,
+    "preserved_originality": true
+  }
+}

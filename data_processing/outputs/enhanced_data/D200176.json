@@ -1,0 +1,91 @@
+{
+  "document_id": "D200176",
+  "url": "https://papersofabrahamlincoln.org/documents/D200176",
+  "metadata": {
+    "date": "1839-05-30",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Lawyers",
+      "Debtor and creditor"
+    ],
+    "type": "Letter",
+    "extracted_date": "1839-05-30",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "enclosed",
+      "sears",
+      "find",
+      "also",
+      "abraham",
+      "lincoln",
+      "nathan",
+      "dresser",
+      "papers",
+      "commence",
+      "suit",
+      "old",
+      "mansummersagainsth",
+      "one"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Nathan Dresser, 30 May 18391 Enclosed are the papers to commence a suit for old manSummersagainstH. Sears. You will find one ofButlers blank summons filled up by me which you can copy and it will be right in this case—\n\nIt would do itself but for its having theSangamonseal to it—2 Also on the other side of this sheet you find a petition for an order to have the\n\nland involved in this matter conveyed to Sears—3It, together with the bond, (also enclosed) you will file & docket among your Chancery\n\ncases— No process to issue on it—4",
+    "paragraphs": [
+      "Abraham Lincoln to Nathan Dresser, 30 May 18391 Enclosed are the papers to commence a suit for old manSummersagainstH. Sears. You will find one ofButlers blank summons filled up by me which you can copy and it will be right in this case—",
+      "It would do itself but for its having theSangamonseal to it—2 Also on the other side of this sheet you find a petition for an order to have the",
+      "land involved in this matter conveyed to Sears—3It, together with the bond, (also enclosed) you will file & docket among your Chancery",
+      "cases— No process to issue on it—4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Summers v. Sears, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135126."
+    ],
+    "footnotes": [
+      {
+        "id": "XDF69F582-D3A2-4285-9CF9-44F453E7B320",
+        "text": "1Abraham Lincoln wrote the body of the letter and the address and docketing “Petition\n                  in Chancery” on the reverse side.  William H. Herndon penned the certification on\n                  the reverse side."
+      },
+      {
+        "id": "XD4CAD437-E0FA-4E6E-B23A-A8BD469A9975",
+        "text": "2The enclosed papers Lincoln references are not with the letter."
+      },
+      {
+        "id": "XEA61A9C1-E06C-4A3D-AE34-C17C0BAE986C",
+        "text": "3The petition does not appear on the reverse side of this page."
+      },
+      {
+        "id": "XE1543A44-B5A4-45D4-8A82-1EB9E81533DE",
+        "text": "4Sears gave a promissory note for $130 toAlfred Summersbut failed to pay the note before Summers died.Levi Summers, the administrator of Alfred Summers's estate, retainedStuart and Lincolnand sued Sears to collect the note.  The parties apparently reached a settlement,\n                  and Levi Summers dismissed the case.Summers v. Sears, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135126."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Nathan Dresser, 30 May 18391"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enclosed are the papers to commence a suit for old manSummersagainstH. Sears. You will find one ofButlers blank summons filled up by me which you can copy and it will be right in this case—\n               It would do itself but for its having theSangamonseal to it—2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Also on the other side of this sheet you find a petition for an order to have the\n               land involved in this matter conveyed to Sears—3It, together with the bond, (also enclosed) you will file & docket among your Chancery\n               cases— No process to issue on it—4"
+      }
+    ],
+    "word_count": 101
+  },
+  "extraction_date": "2025-12-26 20:10:03",
+  "word_count": 101,
+  "processing": {
+    "cleaned": true,
+    "original_length": 596,
+    "cleaned_length": 554,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

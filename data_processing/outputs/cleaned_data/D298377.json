@@ -1,0 +1,69 @@
+{
+  "document_id": "D298377",
+  "url": "https://papersofabrahamlincoln.org/documents/D298377",
+  "metadata": {
+    "date": "1853-09-03",
+    "authors": [
+      "Campbell, Thomas H.",
+      "Moore, John (IL State Treasurer)"
+    ],
+    "keywords": [
+      "Courts--Officials and employees",
+      "State courts--Finance",
+      "State governments--Officials and employees--Salaries, etc.",
+      "Wages"
+    ],
+    "type": "Pay warrant"
+  },
+  "content": {
+    "full_text": "Pay Warrant for David Davis, 3 September 18531 $25000/100AUDITOR’S OFFICE,2ILLINOIS,No.8456 Treasurer of the State of Illinois, Pay toA. Lincolnor order, the sum ofTwo Hundred & Fifty—/—Dollars, it being forD Davissalary Judge8thcircuitQuarter Ending august 31, 1853 COUNTERSIGNED AND REGISTERED:John MooreTreasurer.Tho H CampbellAuditor, P. A.",
+    "paragraphs": [
+      "Pay Warrant for David Davis, 3 September 18531 $25000/100AUDITOR’S OFFICE,2ILLINOIS,No.8456 Treasurer of the State of Illinois, Pay toA. Lincolnor order, the sum ofTwo Hundred & Fifty—/—Dollars, it being forD Davissalary Judge8thcircuitQuarter Ending august 31, 1853 COUNTERSIGNED AND REGISTERED:John MooreTreasurer.Tho H CampbellAuditor, P. A."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 3 September 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-09-03; 7 September 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-09-07."
+    ],
+    "footnotes": [
+      {
+        "id": "X3FA4F9B6-B1A4-4DD5-B3E1-6A369662FAFB",
+        "text": "1An unknown person filled in the blanks of this partially printed document. John Moore\n                  and Thomas H. Campbell signed the document."
+      },
+      {
+        "id": "X9D77933D-C271-4F91-A962-87FC3FF6E206",
+        "text": "2Abraham Lincoln collected this warrant in person at the state auditor’s office in\n                  Springfield on September 3, 1853, presumably intending  to deliver it to David Davis\n                  while  he was attending the autumn courts. Lincoln left to ride theEighth Judicial Circuitby September 7, 1853.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 3 September 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-09-03; 7 September 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-09-07."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Pay Warrant for David Davis, 3 September 18531"
+      },
+      {
+        "type": "description",
+        "text": "$25000/100AUDITOR’S OFFICE,2ILLINOIS,No.8456"
+      },
+      {
+        "type": "description",
+        "text": "Treasurer of the State of Illinois,"
+      },
+      {
+        "type": "description",
+        "text": "Pay toA. Lincolnor order, the sum ofTwo Hundred & Fifty—/—Dollars, it being forD Davissalary Judge8thcircuitQuarter Ending august 31, 1853"
+      },
+      {
+        "type": "description",
+        "text": "COUNTERSIGNED AND REGISTERED:John MooreTreasurer.Tho H CampbellAuditor, P. A.[Public Accounts]"
+      }
+    ],
+    "word_count": 43
+  },
+  "extraction_date": "2025-12-26 21:28:16",
+  "word_count": 44,
+  "processing": {
+    "cleaned": true,
+    "original_length": 361,
+    "cleaned_length": 344,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "document_id": "D200058",
+  "url": "https://papersofabrahamlincoln.org/documents/D200058",
+  "metadata": {
+    "date": "1835-12-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Real property tax",
+      "Real property",
+      "Census",
+      "Legislators"
+    ],
+    "type": "Letter",
+    "extracted_date": "1823",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "sold",
+      "half",
+      "office",
+      "quarter",
+      "tax",
+      "other",
+      "not",
+      "abraham",
+      "lincoln",
+      "thomas",
+      "nance",
+      "december",
+      "regard",
+      "south",
+      "sec"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Thomas J. Nance, 10 December 18351 In regard to the South half of Sec. 36. in Town 7 North Range 1 West the following is the only information that can be collected\n\nat the Auditors office—2The S. W. quarter of said section was sold in 1823 toDaniel Houghfor the tax of 1821 & 2— Half of the other quarter was sold in 1827 toJesse Bartlettfor the tax of 1826— The other 80 acres have not been sold for taxes— The residence\n\nof neither of the purchasers is known at the office—3 There is but little of interest doing in theLegislatureas yet: owing mostly to the census returns from several counties not having been\n\nmade—4",
+    "paragraphs": [
+      "Abraham Lincoln to Thomas J. Nance, 10 December 18351 In regard to the South half of Sec. 36. in Town 7 North Range 1 West the following is the only information that can be collected",
+      "at the Auditors office—2The S. W. quarter of said section was sold in 1823 toDaniel Houghfor the tax of 1821 & 2— Half of the other quarter was sold in 1827 toJesse Bartlettfor the tax of 1826— The other 80 acres have not been sold for taxes— The residence",
+      "of neither of the purchasers is known at the office—3 There is but little of interest doing in theLegislatureas yet: owing mostly to the census returns from several counties not having been"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act Supplemental to an Act, Entitled ‘An Act to Provide for Raising a Revenue,’”\n                     19 January 1829,Revised Laws of Illinois(1829), 119-24; “An Act to Consolidate the Acts relative to the  Auditor and Treasurer\n                     and Election of Attorney General,” 2 March 1833,Revised Laws of Illinois(1833), 103-07; “An Act concerning the Public Revenue,” 27 February 1833,Revised Laws of Illinois(1833), 528-34."
+    ],
+    "footnotes": [
+      {
+        "id": "XC724E5BC-07B1-4D21-9E4F-3C28518CFEC0",
+        "text": "1Abraham Lincoln wrote the entirety of the text, including the “Free” frank and address\n                  on the back page."
+      },
+      {
+        "id": "XD6CF5696-5B25-4F26-B2CC-319396FF882D",
+        "text": "2The land described here was located in westernFayette County, Illinois.  At this time, Lincoln was serving in the legislature, which met in the state capital\n                  of Vandalia. The Auditor’s Office was also located in the statehouse in Vandalia."
+      },
+      {
+        "id": "XE5D3DC98-0B97-4764-B6F2-C96DA71DAF08",
+        "text": "3Illinoislaw levied a tax on real estate. Until 1833, Illinois’ state auditor and treasurer\n                  conducted land sales to cover unpaid property taxes; after 1833, county officials\n                  conducted the sales. Illinois law required the auditor to keep accounts of all taxes\n                  due to and received by the state.“An Act Supplemental to an Act, Entitled ‘An Act to Provide for Raising a Revenue,’”\n                     19 January 1829,Revised Laws of Illinois(1829), 119-24; “An Act to Consolidate the Acts relative to the  Auditor and Treasurer\n                     and Election of Attorney General,” 2 March 1833,Revised Laws of Illinois(1833), 103-07; “An Act concerning the Public Revenue,” 27 February 1833,Revised Laws of Illinois(1833), 528-34."
+      },
+      {
+        "id": "X1F5FC63B-4AFD-4435-87C6-49AA7C871A24",
+        "text": "4Illinois conducted a state census in 1835."
+      },
+      {
+        "id": "X1DBF52C4-16D9-4B35-AD85-348E4FE6D4D2",
+        "text": "5Lincoln received free postage as a benefit of hisappointmentas postmaster of New Salem."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Thomas J. Nance, 10 December 18351"
+      },
+      {
+        "type": "paragraph",
+        "text": "In regard to the South half of Sec. 36. in Town[Township] 7 North Range 1 West the following is the only information that can be collected\n               at the Auditors office—2The S. W.[Southwest] quarter of said section was sold in 1823 toDaniel Houghfor the tax of 1821 & 2[1822]— Half of the other quarter was sold in 1827 toJesse Bartlettfor the tax of 1826— The other 80 acres have not been sold for taxes— The residence\n               of neither of the purchasers is known at the office—3"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is but little of interest doing in theLegislatureas yet: owing mostly to the census returns from several counties not having been\n               made—4"
+      }
+    ],
+    "word_count": 117
+  },
+  "extraction_date": "2025-12-26 20:02:03",
+  "word_count": 117,
+  "processing": {
+    "cleaned": true,
+    "original_length": 708,
+    "cleaned_length": 639,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "D200431",
+  "url": "https://papersofabrahamlincoln.org/documents/D200431",
+  "metadata": {
+    "date": "1847-12-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Armed Forces--Officers",
+      "Employment references",
+      "Military appointments"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James K. Polk, 11 December 18471 Some days since Itransmittedto you the application of MrRhoadsofPekin Illinois, for a Lieutenancy– Since then I have received the enclosed letter of Hon:E. D. Baker, in his behalf, which I now take the liberty of submitting to you–2",
+    "paragraphs": [
+      "Abraham Lincoln to James K. Polk, 11 December 18471 Some days since Itransmittedto you the application of MrRhoadsofPekin Illinois, for a Lieutenancy– Since then I have received the enclosed letter of Hon:E. D. Baker, in his behalf, which I now take the liberty of submitting to you–2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X5D6903AD-95FB-4F5D-9701-F3CD12C153AE",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "X904BF12B-D1A4-4E3B-8C72-51B7F93038CA",
+        "text": "2The enclosure has not been located. It does not appear that Franklin L. Rhoads received\n                  a commission."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James K. Polk, 11 December 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "Some days since Itransmittedto you the application of MrRhoadsofPekin Illinois, for a Lieutenancy– Since then I have received the enclosed letter of Hon:E. D. Baker, in his behalf, which I now take the liberty of submitting to you–2"
+      }
+    ],
+    "word_count": 47
+  },
+  "extraction_date": "2025-12-26 20:25:10",
+  "word_count": 47,
+  "processing": {
+    "cleaned": true,
+    "original_length": 284,
+    "cleaned_length": 284,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "D200410",
+  "url": "https://papersofabrahamlincoln.org/documents/D200410",
+  "metadata": {
+    "date": "1847-02-05",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers",
+      "Appellate courts",
+      "Circuit courts"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847-02-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "any",
+      "abraham",
+      "lincoln",
+      "henry",
+      "dummer",
+      "february",
+      "yours",
+      "duly",
+      "received",
+      "procuredjudge",
+      "lockwood",
+      "part",
+      "performed",
+      "now"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Henry E. Dummer, 5 February 18471 Yours of the 3rdwas duly received,2I have procuredJudge Lockwood's part to be performed, and now mail the record toStLouisas you desired–3 I write this merely to relieve you of any anxiety as to the matter having in any way\n\nmiscarried–",
+    "paragraphs": [
+      "Abraham Lincoln to Henry E. Dummer, 5 February 18471 Yours of the 3rdwas duly received,2I have procuredJudge Lockwood's part to be performed, and now mail the record toStLouisas you desired–3 I write this merely to relieve you of any anxiety as to the matter having in any way"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Eugene L. Gross,The Statutes of Illinois: An Analytical Digest of All the General Laws of the State(Chicago: E. B. Myers, 1868), 835; “Illinois Supreme Court,” Martha L. Benner and\n                     Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/Court\n                        Structure.html."
+    ],
+    "footnotes": [
+      {
+        "id": "X3531E9CB-98FB-46A7-AA4B-C9C82C5B7EC3",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "XCEFF68D2-4341-40A0-860B-E434DA63A8D0",
+        "text": "2Henry E. Dummer’s February 3 letter to Lincoln has not been located."
+      },
+      {
+        "id": "XD9FFF17A-DDD2-4549-BF5B-F7D68F053BC2",
+        "text": "3As anIllinois Supreme Courtjustice, Samuel D. Lockwood presided over the1st Judicial Circuit, which includedCass County, where Dummer’s law practice was based. At the time this letter was written, Lockwood\n                  was likely in Springfield for the appellate court.   It is likely that Dummer asked\n                  Lincoln to obtain a signature or document from Lockwood that related to a case Dummer\n                  was handling on appeal to the Illinois Supreme Court.Eugene L. Gross,The Statutes of Illinois: An Analytical Digest of All the General Laws of the State(Chicago: E. B. Myers, 1868), 835; “Illinois Supreme Court,” Martha L. Benner and\n                     Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/Court\n                        Structure.html."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Henry E. Dummer, 5 February 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 3rdwas duly received,2I have procuredJudge Lockwood's part to be performed, and now mail the record toStLouisas you desired–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I write this merely to relieve you of any anxiety as to the matter having in any way\n               miscarried–"
+      }
+    ],
+    "word_count": 49
+  },
+  "extraction_date": "2025-12-26 20:24:12",
+  "word_count": 49,
+  "processing": {
+    "cleaned": true,
+    "original_length": 303,
+    "cleaned_length": 289,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

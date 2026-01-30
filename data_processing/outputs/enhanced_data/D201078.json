@@ -1,0 +1,87 @@
+{
+  "document_id": "D201078",
+  "url": "https://papersofabrahamlincoln.org/documents/D201078",
+  "metadata": {
+    "date": "1858-08-03",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Law students",
+      "Law--Study and teaching",
+      "Lawyers"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-08-03",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "law",
+      "office",
+      "you",
+      "lawyer",
+      "abraham",
+      "lincoln",
+      "william",
+      "grigsby",
+      "august",
+      "yoursof",
+      "july",
+      "desiring",
+      "situation",
+      "received",
+      "several"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Grigsby, 3 August 18581 Yoursof the 14thof July, desiring a situation in my law office, was received several days ago–2My partner, MrHerndon, controls our office in this respect, and I have known of his declining at least\n\na dozen applications like yours within the last three months– If you wish to be a lawyer, attach no consequence to theplaceyou are in, or thepersonyou are with; but get books, sit down anywhere, and go to reading for yourself– That\n\nwill make a lawyer of you quicker than any other way–3",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Grigsby, 3 August 18581 Yoursof the 14thof July, desiring a situation in my law office, was received several days ago–2My partner, MrHerndon, controls our office in this respect, and I have known of his declining at least",
+      "a dozen applications like yours within the last three months– If you wish to be a lawyer, attach no consequence to theplaceyou are in, or thepersonyou are with; but get books, sit down anywhere, and go to reading for yourself– That",
+      "will make a lawyer of you quicker than any other way–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Letter, Document ID: 124908; Letter, Document ID: 131067,Lincoln & Herndon declined Grigsby as legal apprentice, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141408.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:88-90."
+    ],
+    "footnotes": [
+      {
+        "id": "XBF19B5F5-CE04-4FBC-BE85-12B4ECB37BE1",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X13C28A49-175B-437C-83B5-7B52799FD03E",
+        "text": "2William H. Herndon, Lincoln’s law partner, initially responded to William H. Grigsby’sletteron behalf ofLincoln & Herndonon July 29, 1858, stating that the office was full, but that Grigsby would be welcome\n                  as a student if a position opened. Grigsbywrotea reply to Lincoln & Herndon on August 3, 1858—when Lincoln simultaneously wrote\n                  this letter—renewing his application, to which no direct response has been located.\n                  In an 1861 letter to Lincoln, Grigsby mentioned that he came to Springfield in the autumn of 1858 hoping\n                  to speak with either Lincoln or Herndon, but that neither was in town. Herndon wrote\n                  Grigsby a further letter on April 23, 1859, in response to another unlocated letter\n                  from the hopeful student, in which he reiterated that the office was full and had\n                  no room for an additional law student. The two letters to Grigsby in Herndon’s hand\n                  on behalf of Lincoln & Herndon are docketed by Grigsby at head of text with notes\n                  that appear to be addressed to Lincoln and which narrate the history of his correspondence\n                  with the firm. This suggests that Grigsby may have at some time enclosed or intended\n                  to enclose Herndon’s correspondence in a letter to Lincoln, but no such covering letter\n                  has been identified.Letter, Document ID: 124908; Letter, Document ID: 131067,Lincoln & Herndon declined Grigsby as legal apprentice, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141408."
+      },
+      {
+        "id": "X9A6CC3C2-40E7-4871-9F4C-D64E0097A14C",
+        "text": "3Lincoln’s advice to Grigsby mirrored his own preparation to practice law. Without\n                  a college education or a formal mentor in an attorney’s office, Lincoln began wading\n                  through the most widely used legal text at the time, William Blackstone’sCommentaries on the Laws of England, in his mid-twenties. Admitting that the more he read, the more intensely interested\n                  he became, Lincoln claimed to have mastered forty pages of Blackstone on his first\n                  day.In December 1858, Lincoln responded to another request to be an instructor with similar advice. Once a man was of the age to be independent,\n                  Lincoln wrote, “my judgment is, that he reads the books for himself without an instructer– That is precisely the way I came to the law–”Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:88-90."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Grigsby, 3 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yoursof the 14thof July, desiring a situation in my law office, was received several days ago–2My partner, MrHerndon, controls our office in this respect, and I have known of his declining at least\n               a dozen applications like yours within the last three months–"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you wish to be a lawyer, attach no consequence to theplaceyou are in, or thepersonyou are with; but get books, sit down anywhere, and go to reading for yourself– That\n               will make a lawyer of you quicker than any other way–3"
+      }
+    ],
+    "word_count": 94
+  },
+  "extraction_date": "2025-12-26 21:55:34",
+  "word_count": 94,
+  "processing": {
+    "cleaned": true,
+    "original_length": 568,
+    "cleaned_length": 540,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

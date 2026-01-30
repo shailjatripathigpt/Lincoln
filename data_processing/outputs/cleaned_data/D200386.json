@@ -1,0 +1,72 @@
+{
+  "document_id": "D200386",
+  "url": "https://papersofabrahamlincoln.org/documents/D200386",
+  "metadata": {
+    "date": "1846-01-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political candidates",
+      "Nominations for office",
+      "Elections"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Benjamin F. James, 16 January 18461 A plan is on foot to change theplan^mode^of selecting the candidate for this district–2The movement is intended to injure me, and if effected, most likely would injure\n\nme to some extent– I have not time to give particulars now; but I want you to let\n\nnothing prevent your getting an article in yourpaper, ofthisweektaking strong ground for the old system, under whichHardinwas&Bakerwere nominated, without seeming to know or suspect, that any one desires to change\n\nit–3I have writtenDrHenrymore at length;4and he will probably call & consult with you, in getting up the article; but whether\n\nhe does or not dont fail, on any account, to get it inthisweek–5",
+    "paragraphs": [
+      "Abraham Lincoln to Benjamin F. James, 16 January 18461 A plan is on foot to change theplan^mode^of selecting the candidate for this district–2The movement is intended to injure me, and if effected, most likely would injure",
+      "me to some extent– I have not time to give particulars now; but I want you to let",
+      "nothing prevent your getting an article in yourpaper, ofthisweektaking strong ground for the old system, under whichHardinwas&Bakerwere nominated, without seeming to know or suspect, that any one desires to change",
+      "it–3I have writtenDrHenrymore at length;4and he will probably call & consult with you, in getting up the article; but whether",
+      "he does or not dont fail, on any account, to get it inthisweek–5"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:218, 231, 233;Sangamo Journal(Springfield, IL), 26 February 1846, 2:1-2; Howard W. Allen and Vincent A. Lacey,\n                     eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126;Abraham Lincoln to Henry E. Dummer.",
+      "The Tazewell Whig(Tremont, IL), 24 January 1846, 2:1."
+    ],
+    "footnotes": [
+      {
+        "id": "X8FAC6237-BC33-472C-8C53-9F75899C89AA",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also authored the address on the back\n                  page, which was folded to create an envelope for mailing."
+      },
+      {
+        "id": "X73DB22D4-633A-4C96-A7E6-18C2E9702301",
+        "text": "2At aWhigconvention inPekinin May 1843, an agreement was made between Lincoln, Edward D. Baker, and John J.\n                  Hardin that seemed to establish a one-term limit on the prospective Whig congressmen.\n                  Hardin and Baker having already served, Lincoln believed that the 1846 nomination\n                  should have been his. While Hardin delayed officially announcing his candidacy, Lincoln\n                  set out to solidify his own support. In response, Hardin proposed that the convention\n                  system for the nomination be thrown out,  in favor of a primary election. Lincolnrespondedto Hardin’s proposal on January 19.Lincoln and Hardin were vying to represent the Seventh Congressional District, which\n                  included the counties ofCass,Logan,Marshall,Mason,Menard,Morgan,Putnam,Sangamon,Scott,Tazewell, andWoodford.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:218, 231, 233;Sangamo Journal(Springfield, IL), 26 February 1846, 2:1-2; Howard W. Allen and Vincent A. Lacey,\n                     eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126;Abraham Lincoln to Henry E. Dummer.For other correspondence between Lincoln and James regarding the 1846 Congressional\n                  nomination, see:Abraham Lincoln to Benjamin F. James,Abraham Lincoln to Benjamin F. James,Abraham Lincoln to Benjamin F. James."
+      },
+      {
+        "id": "X1BB4349E-C50D-4059-906C-826C38D66725",
+        "text": "3On January 24, 1846, Benjamin F. James’ paper, theTazewell Whig, published an editorial regarding the Whig Central Committee, of which James was\n                  the chairman. The editorial advocated for the committee to choose a time and place\n                  for the convention, claiming that the convention system would “prove the best calculated\n                  to preserve harmony and subserve the interests of the Whig party in our district.”The Tazewell Whig(Tremont, IL), 24 January 1846, 2:1."
+      },
+      {
+        "id": "XAA59403B-82E2-4086-B7FB-90EE84423A1D",
+        "text": "4Lincoln’s letter to Anson G. Henry has not been located."
+      },
+      {
+        "id": "X8B210116-1C60-4809-AB70-BA2FD9CA819D",
+        "text": "5The closing and Lincoln’s signature have been clipped from the page."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Benjamin F. James, 16 January 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "A plan is on foot to change theplan^mode^of selecting the candidate for this district–2The movement is intended to injure me, and if effected, most likely would injure\n               me to some extent–  I have not time to give particulars now; but I want you to let\n               nothing prevent your getting an article in yourpaper, ofthisweektaking strong ground for  the old system, under whichHardinwas&Bakerwere nominated, without seeming to know or suspect, that any one desires to change\n               it–3I have writtenDrHenrymore at length;4and he will probably call & consult with you, in getting up the article; but whether\n               he does or not dont fail, on any account, to get it inthisweek–5"
+      }
+    ],
+    "word_count": 117
+  },
+  "extraction_date": "2025-12-26 20:22:37",
+  "word_count": 117,
+  "processing": {
+    "cleaned": true,
+    "original_length": 771,
+    "cleaned_length": 713,
+    "preserved_originality": true
+  }
+}

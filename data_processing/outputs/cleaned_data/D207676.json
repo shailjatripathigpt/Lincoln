@@ -1,0 +1,62 @@
+{
+  "document_id": "D207676",
+  "url": "https://papersofabrahamlincoln.org/documents/D207676",
+  "metadata": {
+    "date": "1851-06-09",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Joseph Gillespie, 9 June 18511",
+    "paragraphs": [
+      "Abraham Lincoln to Joseph Gillespie, 9 June 18511"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 4 June 1851,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1851-06-04.",
+      "Unknown v. Smith & Smith, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141101; “Chancery,” “Chancery Pleading,” Reference, Glossary, Martha L. Benner and Cullom\n                     Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html; U.S. Census Office, Seventh Census of the United States (1850), Sangamon County,\n                     IL, 103, 119."
+    ],
+    "footnotes": [
+      {
+        "id": "XFF86D694-3C57-4F45-B0E4-48CD6622E6EA",
+        "text": "1Abraham Lincoln wrote and signed this letter. He did not, however, write any of the\n                  text that appears below his signature in the first image, nor did he write anything\n                  on the reverse side of the letter, shown in the second image."
+      },
+      {
+        "id": "XB9E1AC15-D57B-4C62-9B25-BD088926F7F8",
+        "text": "2Lincoln returned to Springfield June 4, 1851. The letter he references writing to\n                  Joseph Gillespie prior to this letter has not been located; therefore, some of the\n                  context for this letter is missing.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 4 June 1851,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1851-06-04."
+      },
+      {
+        "id": "X30727EB7-7303-4428-9E19-D0C7CDD4FB88",
+        "text": "3Gillespie’s May 9, 1851 letter to Lincoln, has not been located."
+      },
+      {
+        "id": "X0C02D60B-EF05-4F77-8D2D-E6A057E7A05C",
+        "text": "4The “Smiths” could not be identified."
+      },
+      {
+        "id": "X262C7593-F8C7-42DB-ADF6-B3E354CD0789",
+        "text": "5In this letter, Lincoln discusses a legal case about which much remains unknown. What\n                  is known is that in the case,Unknown v. Smith & Smith, an unknown plaintiff, represented by Lincoln, sued Smith and Smith in theU.S. Circuit Court, District of Illinoisregarding a chancery action.  The chancery or equity division of the law is devoted\n                  to settling legal issues where there is no remedy in the common law. As in the case\n                  of common law pleading, the purpose of chancery, or equity, pleading is to bring the\n                  subject matter of contention to an issue affirmed by one side and denied by the other.The “process” Lincoln refers to “having been served on the Smiths” most likely relates\n                  to a summons (also referred to as a subpoena in chancery law), which chancery law\n                  requires the clerk of the court, William Pope in this instance, to issue after receiving\n                  the initial bill of complaint in the case. The summons would have directed the sheriff,\n                  who, in this case was Peter Van Bergen, to notify the named respondent of a case against\n                  them  and to order them to appear at the next term of court. As Lincoln notes in this\n                  letter, Van Bergen stated that the summons had not yet been served to the Smiths.Other details related to the case, including its outcome, are unknown.Unknown v. Smith & Smith, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141101; “Chancery,” “Chancery Pleading,” Reference, Glossary, Martha L. Benner and Cullom\n                     Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html; U.S. Census Office, Seventh Census of the United States (1850), Sangamon County,\n                     IL, 103, 119."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Joseph Gillespie, 9 June 18511"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 21:25:00",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 49,
+    "cleaned_length": 49,
+    "preserved_originality": true
+  }
+}

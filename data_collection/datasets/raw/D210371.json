@@ -1,0 +1,62 @@
+{
+  "document_id": "D210371",
+  "url": "https://papersofabrahamlincoln.org/documents/D210371",
+  "metadata": {
+    "date": "1849-03-09",
+    "authors": [
+      "Goodrich, William"
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Commercial credit",
+      "Credit ratings"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William Goodrich & Co. to Abraham Lincoln and John T. Stuart, 9 March 18491 MERCANTILE AND LAW AGENCY,No. 116 Market Street, The unsettled claims of the late firm of Ingraham & Martin have been placed with us\n               for final adjustment.2Among them we find one in your hands vs.French & Lurton, balance Jany.[January] 1/39[1839] $398.01.3Please advise usby return mailof the Condition & prospects of this claim. We are anxious to close all these matters\n               as soon as possible.4",
+    "paragraphs": [
+      "William Goodrich & Co. to Abraham Lincoln and John T. Stuart, 9 March 18491",
+      "MERCANTILE AND LAW AGENCY,No. 116 Market Street,",
+      "The unsettled claims of the late firm of Ingraham & Martin have been placed with us\n               for final adjustment.2Among them we find one in your hands vs.French & Lurton, balance Jany.[January] 1/39[1839] $398.01.3Please advise usby return mailof the Condition & prospects of this claim. We are anxious to close all these matters\n               as soon as possible.4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Office Fee Book (Document ID: 129751), 6 March 1840,Ingraham & Martin asked Stuart & Lincoln to collect debt, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=141208."
+    ],
+    "footnotes": [
+      {
+        "id": "X214A2F38-D34E-4AAC-AB1A-129FA8D53C42",
+        "text": "1This letter, which includes printed letterhead and partially printed date and address\n                  lines, was written by an unknown clerk in the Goodrich Company."
+      },
+      {
+        "id": "X1B4D6DB1-C558-47CE-903C-0BDA4670FB3C",
+        "text": "2The firm “Ingraham & Martin” could not be identified."
+      },
+      {
+        "id": "X01A248D4-57BE-4132-8296-D947DD772A3C",
+        "text": "3On March 6, 1840, Ingraham & Martin retained Stuart & Lincoln to recover a debt of\n                  $398.01 from French & Lurton. By March 1849, Stuart and Lincoln were no longer partners,\n                  but it appears that the debt had not been recovered by that time.Office Fee Book (Document ID: 129751), 6 March 1840,Ingraham & Martin asked Stuart & Lincoln to collect debt, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=141208."
+      },
+      {
+        "id": "X66F03785-4A6B-4C3B-A8DB-AAB5D0AA3EE0",
+        "text": "4No response to this letter has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William Goodrich & Co. to Abraham Lincoln and John T. Stuart, 9 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "MERCANTILE AND LAW AGENCY,No. 116 Market Street,"
+      },
+      {
+        "type": "paragraph",
+        "text": "The unsettled claims of the late firm of Ingraham & Martin have been placed with us\n               for final adjustment.2Among them we find one in your hands vs.French & Lurton, balance Jany.[January] 1/39[1839] $398.01.3Please advise usby return mailof the Condition & prospects of this claim. We are anxious to close all these matters\n               as soon as possible.4"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:37:46",
+  "word_count": 77
+}

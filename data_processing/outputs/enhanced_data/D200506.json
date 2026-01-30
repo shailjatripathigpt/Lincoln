@@ -1,0 +1,86 @@
+{
+  "document_id": "D200506",
+  "url": "https://papersofabrahamlincoln.org/documents/D200506",
+  "metadata": {
+    "date": "1848-07-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Armed Forces--Officers",
+      "Soldiers"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-07-06",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "him",
+      "send",
+      "them",
+      "abraham",
+      "lincoln",
+      "william",
+      "marcy",
+      "july",
+      "another",
+      "matter",
+      "elias",
+      "zabriskie",
+      "ofjacksonville",
+      "illinois",
+      "applicant"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William L. Marcy, 6 July 18481 Another matter:Elias B. Zabriskie, ofJacksonville, Illinois, has been an applicant for a Lieutenancy, and the close of thewarputting an end to all prospect of his success, he desires me to withdraw the papers\n\nrecommending him, and send them to him– If there be no impropriety in it, will you\n\nplease send them to me?^done^4",
+    "paragraphs": [
+      "Abraham Lincoln to William L. Marcy, 6 July 18481 Another matter:Elias B. Zabriskie, ofJacksonville, Illinois, has been an applicant for a Lieutenancy, and the close of thewarputting an end to all prospect of his success, he desires me to withdraw the papers",
+      "recommending him, and send them to him– If there be no impropriety in it, will you",
+      "please send them to me?^done^4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Wm. Hugh Robarts,Mexican War Veterans: A Complete Roster of the Regular and Volunteer Troops in the\n                        War Between the United States and Mexico, from 1846 to 1848(Washington, DC: Brentano's, 1887), 32, 33; Francis B. Heitman,Historical Register and Dictionary of the United States Army(Washington, DC: Government Printing Office, 1903), 1:1037.",
+      "Francis B. Heitman,Historical Register and Dictionary of the United States Army, 1:1037."
+    ],
+    "footnotes": [
+      {
+        "id": "X9503E817-E4CB-4406-A856-F8CC516DA5A9",
+        "text": "1Abraham Lincoln wrote and signed this letter in its entirety except for the word “done”\n                  in the last paragraph."
+      },
+      {
+        "id": "X11A60F9C-66A4-4AF7-8C88-E62052E9F7EC",
+        "text": "2Henry L. Webb’s regiment was the 16th U.S. Regiment of Infantry. Joab Wilkinson, a\n                  first lieutenant, resigned his commission on May 13, 1848.Wm. Hugh Robarts,Mexican War Veterans: A Complete Roster of the Regular and Volunteer Troops in the\n                        War Between the United States and Mexico, from 1846 to 1848(Washington, DC: Brentano's, 1887), 32, 33; Francis B. Heitman,Historical Register and Dictionary of the United States Army(Washington, DC: Government Printing Office, 1903), 1:1037."
+      },
+      {
+        "id": "X5657E151-273D-4088-936B-A285E79E67C9",
+        "text": "3Wilkinson’s commission was not restored.Francis B. Heitman,Historical Register and Dictionary of the United States Army, 1:1037."
+      },
+      {
+        "id": "X9E53584D-AA81-4E86-9631-05D760750A0B",
+        "text": "4An unknown person wrote this word outside of a parenthesis, to the left of this paragraph.\n                  This notation suggests that the papers were sent to Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William L. Marcy, 6 July 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Another matter:Elias B. Zabriskie, ofJacksonville, Illinois, has been an applicant for a Lieutenancy, and the close of thewarputting an end to all prospect of his success, he desires me to withdraw the papers\n                  recommending him, and send them to him– If there be no impropriety in it, will you\n                  please send them to me?^done^4"
+      }
+    ],
+    "word_count": 63
+  },
+  "extraction_date": "2025-12-26 20:30:18",
+  "word_count": 63,
+  "processing": {
+    "cleaned": true,
+    "original_length": 408,
+    "cleaned_length": 374,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

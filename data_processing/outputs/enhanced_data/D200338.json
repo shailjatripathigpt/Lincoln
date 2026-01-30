@@ -1,0 +1,80 @@
+{
+  "document_id": "D200338",
+  "url": "https://papersofabrahamlincoln.org/documents/D200338",
+  "metadata": {
+    "date": "1843-07-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers--Licenses"
+    ],
+    "type": "Letter",
+    "extracted_date": "1843-07-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "robert",
+      "blackwell",
+      "july",
+      "yours",
+      "your",
+      "license",
+      "received",
+      "perfected",
+      "herewith",
+      "return",
+      "you",
+      "nothing",
+      "new"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Robert S. Blackwell, 27 July 18431 Yours of the 18thinclosing your license is received—2I have had it perfected, and herewith return it to you— Nothing new here—",
+    "paragraphs": [
+      "Abraham Lincoln to Robert S. Blackwell, 27 July 18431 Yours of the 18thinclosing your license is received—2I have had it perfected, and herewith return it to you— Nothing new here—"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X142FF33C-F141-4663-8FE3-16E8DF9BF195",
+        "text": "1The letter was written and signed by Abraham Lincoln. He also authored the address\n                  on the last page, which was folded to create an envelope for mailing."
+      },
+      {
+        "id": "X213BE16A-A069-42C7-BFFA-0CF2F20A67E5",
+        "text": "2Robert S. Blackwell’s letter of July 18 has not been located."
+      },
+      {
+        "id": "X2E0879FD-EB4B-48B9-9990-4393AB0543DF",
+        "text": "3Blackwell wrote this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Robert S. Blackwell, 27 July 18431"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 18thinclosing your license is received—2I have had it perfected, and herewith return it to you—"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nothing new here—"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:19:04",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 180,
+    "cleaned_length": 180,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

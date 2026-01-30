@@ -1,0 +1,54 @@
+{
+  "document_id": "D230739",
+  "url": "https://papersofabrahamlincoln.org/documents/D230739",
+  "metadata": {
+    "date": "1837-XX-XX - 1861-XX-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Letters"
+    ],
+    "type": "Envelope",
+    "extracted_date": "1837-XX-XX - 1861-XX-XX",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "envelope",
+      "abraham",
+      "lincoln",
+      "ward",
+      "lamon"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Envelope of Abraham Lincoln to Ward H. Lamon, 1",
+    "paragraphs": [
+      "Envelope of Abraham Lincoln to Ward H. Lamon, 1"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X7AB87C55-CBF7-442F-9C5F-C416D2F2A1A9",
+        "text": "1Abraham Lincoln wrote the address on this envelope. Its contents have not been identified."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Envelope of Abraham Lincoln to Ward H. Lamon, [1837-1861]1"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 22:03:23",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 58,
+    "cleaned_length": 47,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

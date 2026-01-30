@@ -1,0 +1,57 @@
+{
+  "document_id": "D237707",
+  "url": "https://papersofabrahamlincoln.org/documents/D237707",
+  "metadata": {
+    "date": "1847-12-06 - 1849-03-03",
+    "authors": [
+      "Cranston, Robert B.",
+      "Crowell, John",
+      "Lincoln, Abraham (President)",
+      "Palfrey, John G."
+    ],
+    "keywords": [
+      "Legislators"
+    ],
+    "type": "Autograph",
+    "extracted_date": "1847-12-06 - 1849-03-03",
+    "extracted_type": "autograph",
+    "extracted_keywords": [
+      "autograph",
+      "abraham",
+      "lincoln"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Autograph of Abraham Lincoln, 1",
+    "paragraphs": [
+      "Autograph of Abraham Lincoln, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1847. 30th Cong., 1st sess., 1, 7; U.S. HouseJournal. 1849. 30th Cong., 2nd sess., 672-73."
+    ],
+    "footnotes": [
+      {
+        "id": "X1BC3F11D-3FF1-423F-834C-D8191441A5F3",
+        "text": "1This page contains the signatures and homes of Abraham Lincoln and three otherWhigmembers of theU.S. House of Representativesin the ThirtiethCongress, which met from December 6, 1847 to March 3, 1849U.S. HouseJournal. 1847. 30th Cong., 1st sess., 1, 7; U.S. HouseJournal. 1849. 30th Cong., 2nd sess., 672-73."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Autograph of Abraham Lincoln, [1847-1849]1"
+      }
+    ],
+    "word_count": 5
+  },
+  "extraction_date": "2025-12-26 20:36:19",
+  "word_count": 5,
+  "processing": {
+    "cleaned": true,
+    "original_length": 42,
+    "cleaned_length": 31,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "D200369",
+  "url": "https://papersofabrahamlincoln.org/documents/D200369",
+  "metadata": {
+    "date": "1845-03-19",
+    "authors": [
+      "Clements, Thomas"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Debtor and creditor"
+    ],
+    "type": "Letter",
+    "extracted_date": "1845-03-19",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "thomas",
+      "clements",
+      "logan",
+      "lincoln",
+      "march",
+      "please",
+      "pay",
+      "tojames",
+      "burtleout",
+      "proceeds",
+      "judgment",
+      "obtained",
+      "againstthomasjohn",
+      "cloyd",
+      "amount"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Thomas Clements to Logan & Lincoln, 19 March 18451 Please pay toJames Burtleout of the proceeds of a Judgment obtained by me againstThomasJohn C Cloyd, the amount of his account against me and this shall be your sufficient warrant2",
+    "paragraphs": [
+      "Thomas Clements to Logan & Lincoln, 19 March 18451 Please pay toJames Burtleout of the proceeds of a Judgment obtained by me againstThomasJohn C Cloyd, the amount of his account against me and this shall be your sufficient warrant2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Clements v. Cloyd, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138680; John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 206."
+    ],
+    "footnotes": [
+      {
+        "id": "X4AA5BDBE-EFDB-4029-8A53-C5A70986027A",
+        "text": "1Thomas Clements wrote and signed the letter. Abraham Lincoln wrote and signed both\n                  endorsements."
+      },
+      {
+        "id": "XB4EF69FE-A7E3-472E-961C-7C9C7D8348AD",
+        "text": "2In July 1844, Clements hired Logan & Lincoln to sue his son-in-law Cloyd in order\n                  to regain some lost property. A jury found for Clements and awarded him $24.88 in\n                  damages.  Clements’ letter, or “sufficient warrant,” granted his lawyers authority\n                  to assign his court judgment to a third party.Clements v. Cloyd, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138680; John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 206."
+      },
+      {
+        "id": "XCE408808-98AB-4468-BCD1-7BFD4AF1BF41",
+        "text": "3Out of the $24.88 court judgment for Clements, Logan & Lincoln likely took $14.88\n                  for their legal fee, leaving $10 for Clements to assign to his debt to Burtle."
+      },
+      {
+        "id": "X99245A75-5B54-4717-81E2-7CFBE2946FDF",
+        "text": "4Since Logan & Lincoln asked the clerk of theSangamon County Circuit Courtto pay the $10 to Burtle, Clements may have lost a legal judgment to him."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Thomas Clements to Logan & Lincoln, 19 March 18451"
+      },
+      {
+        "type": "paragraph",
+        "text": "Please pay toJames Burtleout of the proceeds of a Judgment obtained by me againstThomasJohn C Cloyd, the amount of his account against me and this shall be your sufficient warrant2"
+      }
+    ],
+    "word_count": 39
+  },
+  "extraction_date": "2025-12-26 20:21:45",
+  "word_count": 39,
+  "processing": {
+    "cleaned": true,
+    "original_length": 231,
+    "cleaned_length": 231,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

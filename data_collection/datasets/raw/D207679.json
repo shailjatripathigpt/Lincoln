@@ -1,0 +1,48 @@
+{
+  "document_id": "D207679",
+  "url": "https://papersofabrahamlincoln.org/documents/D207679",
+  "metadata": {
+    "date": "1854-05-12",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Meetings"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to E. C. Burton, 12 May 18541 Please call at our place tomorrow if convenient.2",
+    "paragraphs": [
+      "Abraham Lincoln to E. C. Burton, 12 May 18541",
+      "Please call at our place tomorrow if convenient.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler and Christian O. Basler, eds.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1990), 11:8.",
+      "National Park Service, “Lincoln Home Chronology,”https://www.nps.gov/liho/learn/historyculture/homechronology.htm."
+    ],
+    "footnotes": [
+      {
+        "id": "XC0B7D987-3659-4D33-8409-6FE772F35DEB",
+        "text": "1This document appeared in Roy P. Basler'sThe Collected Works of Abraham Lincoln: Second Supplement. It appeared for sale in the Sotheby-Parke-Bernet auction catalog in April 1980.\n                  The letter is attributed to Abraham Lincoln, but the original in Lincoln’s hand could\n                  not be obtained.Roy P. Basler and Christian O. Basler, eds.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1990), 11:8."
+      },
+      {
+        "id": "X26AC5A7F-2407-464D-AA25-12F5359E15E0",
+        "text": "2E. C. Burton has not been positively identified. The Lincoln family  lived on the\n                  corner of Eighth and Jackson streets in Springfield from 1844 to 1861.National Park Service, “Lincoln Home Chronology,”https://www.nps.gov/liho/learn/historyculture/homechronology.htm."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to E. C. Burton, 12 May 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "Please call at our place tomorrow if convenient.2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:29:12",
+  "word_count": 17
+}

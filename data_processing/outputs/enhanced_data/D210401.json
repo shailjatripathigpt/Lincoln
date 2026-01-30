@@ -1,0 +1,86 @@
+{
+  "document_id": "D210401",
+  "url": "https://papersofabrahamlincoln.org/documents/D210401",
+  "metadata": {
+    "date": "1849-04-09",
+    "authors": [
+      "Davis, James M."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-04-09",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "james",
+      "davis",
+      "abraham",
+      "lincoln",
+      "april",
+      "ansd",
+      "before",
+      "written",
+      "forwarded",
+      "letters",
+      "recommendation",
+      "your",
+      "care",
+      "bycolbissell"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "James M. Davis to Abraham Lincoln, 9 April 18491 Ansd before written.3 I forwarded my letters of recommendation &c. to your care byColBissell– since that time I have not heard a word about them2I have recd no letter from any sourcewill you be kind enough to address me a note by mail informing me if you recdthem if so whether they are placed on file in the proper department, and what will\n\nlikely be the result ofmyapplicationand such other matters as you may think of interest– and much &c",
+    "paragraphs": [
+      "James M. Davis to Abraham Lincoln, 9 April 18491 Ansd before written.3 I forwarded my letters of recommendation &c. to your care byColBissell– since that time I have not heard a word about them2I have recd no letter from any sourcewill you be kind enough to address me a note by mail informing me if you recdthem if so whether they are placed on file in the proper department, and what will",
+      "likely be the result ofmyapplicationand such other matters as you may think of interest– and much &c"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "David M. Woodson to Abraham Lincoln.",
+      "James M. Davis to Abraham Lincoln;James M. Davis to Abraham Lincoln;James M. Davis to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;Illinois Journal(Springfield), 18 July 1849, 4:3."
+    ],
+    "footnotes": [
+      {
+        "id": "X99763945-0A79-498A-944D-5916E7B1DAF5",
+        "text": "1James M. Davis wrote this letter in its entirety, including the address on the second\n                  sheet, which was folded to make an envelope."
+      },
+      {
+        "id": "X66AA4D3E-942D-456D-83AC-38637019D159",
+        "text": "2Davis’ letter to Abraham Lincoln has not been located.  Lincoln’s response, if he\n                  penned one, has not been located. Davis was seeking appointment as register of theU.S. General Land OfficeinVandalia, Illinois.David M. Woodson to Abraham Lincoln."
+      },
+      {
+        "id": "X86B66BA0-9D81-4F31-94F2-108DC3CB2C9F",
+        "text": "3Lincoln wrote this endorsement.  Lincoln’s response has not been found.Davis was one of three candidates for the position of register at Vandalia.  In alettertoJosiah B. Herrickin January 1849, Lincoln indicated that he had not pledged himself to any candidate,\n                  and was uncertain how to advise any of them.Davis himself wrote Lincoln several other letters  regarding his application, urging\n                  Lincoln to respond whether he had received the application materials and whether they\n                  had been forwarded to the proper department.  Lincoln did not respond to any of these\n                  letters.Davis received the appointment, serving as register from July 1849 until 1853.James M. Davis to Abraham Lincoln;James M. Davis to Abraham Lincoln;James M. Davis to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;Illinois Journal(Springfield), 18 July 1849, 4:3."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James M. Davis to Abraham Lincoln, 9 April 18491"
+      },
+      {
+        "type": "description",
+        "text": "Ansd[answered] before written.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I forwarded my letters of recommendation &c.[etc] to your care byColBissell– since that time I have not heard a word about them2I have recd[received] no letter from any sourcewill you be kind enough to address me a note by mail informing me if you recdthem if so whether they are placed on file in the proper department, and what will\n               likely be the result ofmyapplicationand such other matters as you may think of interest– and much &c"
+      }
+    ],
+    "word_count": 89
+  },
+  "extraction_date": "2025-12-26 20:40:00",
+  "word_count": 89,
+  "processing": {
+    "cleaned": true,
+    "original_length": 531,
+    "cleaned_length": 492,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

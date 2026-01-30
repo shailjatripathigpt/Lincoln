@@ -1,0 +1,71 @@
+{
+  "document_id": "D200646",
+  "url": "https://papersofabrahamlincoln.org/documents/D200646",
+  "metadata": {
+    "date": "1850-02-23",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Letter mail handling--Contracting out",
+      "Postal service",
+      "Pensions",
+      "Lincoln family",
+      "Children--Death"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John D. Johnston, 23 February 18501 Your letter about a mail contract was received yesterday–2I have made out a bid for you at $120, guaranteed it myself, got ourP. M.here to certify it, and sent it on– Your former letter, concerning some man's claim\n\nfor a pension was also received–3I had the claim examined by those who are practiced in such matters & they decide\n\nhecancan not get a pension– As you make no mention of it, I suppose you had not learned that we lost our littleboy– He was sick fiftytwo days & died the morning of the first day of this month–4It was not ourfirst, but our second child– We miss him very much–",
+    "paragraphs": [
+      "Abraham Lincoln to John D. Johnston, 23 February 18501 Your letter about a mail contract was received yesterday–2I have made out a bid for you at $120, guaranteed it myself, got ourP. M.here to certify it, and sent it on– Your former letter, concerning some man's claim",
+      "for a pension was also received–3I had the claim examined by those who are practiced in such matters & they decide",
+      "hecancan not get a pension– As you make no mention of it, I suppose you had not learned that we lost our littleboy– He was sick fiftytwo days & died the morning of the first day of this month–4It was not ourfirst, but our second child– We miss him very much–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S., Federal Census Mortality Schedules, 1850-1885, Springfield, Sangamon County, IL, 787 (Provo, UT: Ancestry.com Operations, 2010);\n                     David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 153."
+    ],
+    "footnotes": [
+      {
+        "id": "X10D69D9C-A31B-4EDB-A28C-94D23D73DB5B",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the last sheet,\n                  which was folded to create an envelope."
+      },
+      {
+        "id": "XD8131857-A73B-4FBC-983C-2994A77F6AF6",
+        "text": "2John D. Johnston’s early-1850 letter to Lincoln about a mail contract has not been\n                  located."
+      },
+      {
+        "id": "XB3B6F30F-56F7-434E-B59B-A7F6CEFE901B",
+        "text": "3This letter from Johnston about another man’s pension has also not been located."
+      },
+      {
+        "id": "XE7931E56-FB2D-40CE-A7F2-281AEA33D613",
+        "text": "4Edward Baker Lincoln’s cause of death was listed on the U.S. federal census as “consumption.” Although\n                  the precise cause of both his illness and death are uncertain, some believe he had\n                  pulmonary tuberculosis.U.S., Federal Census Mortality Schedules, 1850-1885, Springfield, Sangamon County, IL, 787 (Provo, UT: Ancestry.com Operations, 2010);\n                     David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 153."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John D. Johnston, 23 February 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter about a mail contract was received yesterday–2I have made out a bid for you at $120, guaranteed it myself, got ourP. M.here to certify it, and sent it on–  Your former letter, concerning some man's claim\n               for a pension was also received–3I had the claim examined by those who are practiced in such matters & they decide\n               hecancan not get a pension–"
+      },
+      {
+        "type": "paragraph",
+        "text": "As you make no mention of it, I suppose you had not learned that we lost our littleboy–  He was sick fiftytwo days & died the morning of the first day of this month–4It was not ourfirst, but our second child– We miss him very much–"
+      }
+    ],
+    "word_count": 119
+  },
+  "extraction_date": "2025-12-26 21:22:37",
+  "word_count": 119,
+  "processing": {
+    "cleaned": true,
+    "original_length": 675,
+    "cleaned_length": 645,
+    "preserved_originality": true
+  }
+}

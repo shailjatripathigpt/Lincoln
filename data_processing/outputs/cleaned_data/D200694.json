@@ -1,0 +1,72 @@
+{
+  "document_id": "D200694",
+  "url": "https://papersofabrahamlincoln.org/documents/D200694",
+  "metadata": {
+    "date": "1851-08-31",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Deeds",
+      "Contracts for deeds",
+      "Land titles--Registration and transfer",
+      "Real property",
+      "Cholera",
+      "Lincoln family"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John D. Johnston, 31 August 18511 Inclosed is the deed for the land–2We are all well, and have nothing in the way of news– We have had no cholera here\n\nfor about two weeks–3 Give my love to all, and especially toMother–4",
+    "paragraphs": [
+      "Abraham Lincoln to John D. Johnston, 31 August 18511 Inclosed is the deed for the land–2We are all well, and have nothing in the way of news– We have had no cholera here",
+      "for about two weeks–3 Give my love to all, and especially toMother–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Charles E. Rosenberg,The Cholera Years: The United States in 1832, 1849, and 1866(Chicago: The University of Chicago Press, 1987); G. F. Pyle, “The Diffusion of Cholera\n                     in the United States in the Nineteenth Century,”Geographical Analysis, 1:1 (January 1969), 65-67;Illinois Daily Journal(Springfield), 21 June 1851, 2:1.",
+      "Abraham Lincoln to John D. Johnston and Sarah Lincoln;Abraham Lincoln to John D. Johnston;Abraham Lincoln to John D. Johnston."
+    ],
+    "footnotes": [
+      {
+        "id": "X336D7037-F515-4A08-895C-FC9F7CDC65EB",
+        "text": "1This letter is attributed to Abraham Lincoln but was not written or signed by him."
+      },
+      {
+        "id": "XAF9D188B-396E-45F1-9F24-D42ADA394ED2",
+        "text": "2The encloseddeedLincoln references was dated August 12, 1851. After Lincoln’s father,Thomas Lincoln, died, Lincoln became his sole heir, inheriting all of his father’s land save one-third,\n                  which was due to his stepmother,Sarah Lincoln. In the deed, he andMary Lincolngifted the inherited land to his stepbrother,John D. Johnston, although Sarah Lincoln retained the one-third due to her as Thomas Lincoln’s widow."
+      },
+      {
+        "id": "XA8324254-4379-4D6E-834A-B51A85C7F222",
+        "text": "3There were several major outbreaks of cholera in the United States in the nineteenth\n                  century, the cause of which was unknown at the time. TheIllinois Daily Journalnoted outbreaks of cholera taking place in Springfield as well as other areas during\n                  the summer of 1851.Charles E. Rosenberg,The Cholera Years: The United States in 1832, 1849, and 1866(Chicago: The University of Chicago Press, 1987); G. F. Pyle, “The Diffusion of Cholera\n                     in the United States in the Nineteenth Century,”Geographical Analysis, 1:1 (January 1969), 65-67;Illinois Daily Journal(Springfield), 21 June 1851, 2:1."
+      },
+      {
+        "id": "XA21C07CC-3665-43CD-8FE2-A9E56286D197",
+        "text": "4Just a few months after this letter, in November 1851, Lincoln wrote Johnston several\n                  other letters in an effort to dissuade him from selling the land that he and Mary\n                  Lincoln had just gifted him.Abraham Lincoln to John D. Johnston and Sarah Lincoln;Abraham Lincoln to John D. Johnston;Abraham Lincoln to John D. Johnston."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John D. Johnston, 31 August 18511"
+      },
+      {
+        "type": "paragraph",
+        "text": "Inclosed is the deed for the land–2We are all well, and have nothing in the way of news–  We have had no cholera here\n               for about two weeks–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Give my love to all, and especially toMother–4"
+      }
+    ],
+    "word_count": 45
+  },
+  "extraction_date": "2025-12-26 21:24:46",
+  "word_count": 45,
+  "processing": {
+    "cleaned": true,
+    "original_length": 254,
+    "cleaned_length": 239,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "D210536",
+  "url": "https://papersofabrahamlincoln.org/documents/D210536",
+  "metadata": {
+    "date": "1849-06-15",
+    "authors": [
+      "King, Daniel P."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-15",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "not",
+      "daniel",
+      "king",
+      "abraham",
+      "lincoln",
+      "june",
+      "wish",
+      "amplest",
+      "success",
+      "disappointed",
+      "think",
+      "better",
+      "wider",
+      "range"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Daniel P. King to Abraham Lincoln, 15 June 18491 I wish you the amplest success–2but if you are disappointed I shall think it better for you to have a wider range– I do not like theairofWashington& do not very earnestly desire to see my friends settle there–3",
+    "paragraphs": [
+      "Daniel P. King to Abraham Lincoln, 15 June 18491 I wish you the amplest success–2but if you are disappointed I shall think it better for you to have a wider range– I do not like theairofWashington& do not very earnestly desire to see my friends settle there–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+    ],
+    "footnotes": [
+      {
+        "id": "XDFCA34D1-34B2-4DB9-A2BB-F90B633B62DD",
+        "text": "1Daniel P. King wrote and signed this letter."
+      },
+      {
+        "id": "XC936A2FA-7C2E-492E-80AB-2F9CA735B079",
+        "text": "2King references the competition over who would replaceRichard M. Youngas commissioner of theU.S. General Land Office. Originally, onlyJustin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner. Abraham Lincoln entered the competition after\n                  learning that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair.In early June 1849, Lincoln sent a series of letters to numerous people requesting\n                  letters in support of his candidacy for commissioner of the U.S. General Land Office.\n                  Presumably, he made a similar request of King.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "X8A8EBAFC-C44E-400B-AF8A-9851B97A8C87",
+        "text": "3Ultimately, neither Morrison, Edwards, nor Lincoln received the appointment; the job\n                  went to Butterfield instead.  See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Daniel P. King to Abraham Lincoln, 15 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I wish you the amplest success–2but if you are disappointed I shall think it better for you to have a wider range–"
+      },
+      {
+        "type": "paragraph",
+        "text": "I do not like theairofWashington& do not very earnestly desire to see my friends settle there–3"
+      }
+    ],
+    "word_count": 47
+  },
+  "extraction_date": "2025-12-26 21:18:21",
+  "word_count": 47,
+  "processing": {
+    "cleaned": true,
+    "original_length": 259,
+    "cleaned_length": 259,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,66 @@
+{
+  "document_id": "D210730",
+  "url": "https://papersofabrahamlincoln.org/documents/D210730",
+  "metadata": {
+    "date": "1858-06-14",
+    "authors": [
+      "Servant, Richard B."
+    ],
+    "keywords": [
+      "Introductions",
+      "Political conventions"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Richard B. Servant to Abraham Lincoln, 14 June 18581 Per E. J. Montague Esq This will be handed you by ourRepublicanfriendE. J. Montague, Esq Editor of theChester Herald, and a delegate to theRep. Convention Any attention that you may pay him, will be gratefully remembered2",
+    "paragraphs": [
+      "Richard B. Servant to Abraham Lincoln, 14 June 18581 Per E. J. Montague Esq This will be handed you by ourRepublicanfriendE. J. Montague, Esq Editor of theChester Herald, and a delegate to theRep. Convention Any attention that you may pay him, will be gratefully remembered2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daily Illinois State Journal(Springfield), 17 June 1858, 2:4; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 11; Michael\n                     Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 557; Allen C. Guelzo,\n                     “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392."
+    ],
+    "footnotes": [
+      {
+        "id": "4018505",
+        "text": "1Richard B. Servant wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "4018506",
+        "text": "2Elzy J. Montague representedRandolph Countyand Abraham Lincoln representedSangamon Countyat the Illinois Republican State Convention.  There is no evidence that Lincoln met\n                  with Montague during the convention.  No letters from Abraham Lincoln to Montague\n                  have been found. Montague did not run for any state or federal office in1858.Delegates to the state convention unanimously nominated Lincoln as the Republican\n                  candidate fromIllinoisfor theU.S. Senate. In the summer and fall of 1858, he crisscrossed Illinois delivering speeches and\n                  campaigning on behalf of Republican candidates for theIllinois General Assembly. At this time the Illinois General Assembly elected the state’s representatives in\n                  the U.S. Senate, thus the outcome of races for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. He ran against, and lost to,DemocratStephen A. Douglas, the incumbent. See the1858 Illinois Republican Convention; 1858 Federal Election.Daily Illinois State Journal(Springfield), 17 June 1858, 2:4; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 11; Michael\n                     Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 557; Allen C. Guelzo,\n                     “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392."
+      },
+      {
+        "id": "4018507",
+        "text": "3Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Richard B. Servant to Abraham Lincoln, 14 June 18581"
+      },
+      {
+        "type": "description",
+        "text": "Per E. J. Montague Esq"
+      },
+      {
+        "type": "paragraph",
+        "text": "This will be handed you by ourRepublicanfriendE. J. Montague, Esq[Esquire] Editor of theChester Herald, and  a delegate to theRep. Convention"
+      },
+      {
+        "type": "paragraph",
+        "text": "Any attention that you may pay him, will be gratefully remembered2"
+      }
+    ],
+    "word_count": 45
+  },
+  "extraction_date": "2025-12-26 21:49:50",
+  "word_count": 45,
+  "processing": {
+    "cleaned": true,
+    "original_length": 284,
+    "cleaned_length": 274,
+    "preserved_originality": true
+  }
+}

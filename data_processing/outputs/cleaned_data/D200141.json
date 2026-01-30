@@ -1,0 +1,49 @@
+{
+  "document_id": "D200141",
+  "url": "https://papersofabrahamlincoln.org/documents/D200141",
+  "metadata": {
+    "date": "1838-09-06",
+    "authors": [
+      "Wright, James"
+    ],
+    "keywords": [
+      "Lawyers--Fees"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of James Wright to Stuart & Lincoln, 6 September 18381",
+    "paragraphs": [
+      "Check of James Wright to Stuart & Lincoln, 6 September 18381"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Petition of James Wright to the Sangamon County Commissioners’ Court;Lincoln wrote petition for Wright, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141198."
+    ],
+    "footnotes": [
+      {
+        "id": "X6BAC9324-DA71-49D1-A736-5F74F881F3A8",
+        "text": "1Abraham Lincoln wrote the address, text, and date."
+      },
+      {
+        "id": "XDFD9E4E7-5E64-4CF6-BBD4-80C0A59BDEE5",
+        "text": "2This letter of credit was for legal services rendered by Lincoln in drawing up apetitionfor James Wright.Petition of James Wright to the Sangamon County Commissioners’ Court;Lincoln wrote petition for Wright, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141198."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of James Wright to Stuart & Lincoln, 6 September 18381"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 20:07:23",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 60,
+    "cleaned_length": 60,
+    "preserved_originality": true
+  }
+}

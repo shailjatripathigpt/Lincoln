@@ -1,0 +1,76 @@
+{
+  "document_id": "D200041",
+  "url": "https://papersofabrahamlincoln.org/documents/D200041",
+  "metadata": {
+    "date": "1834-12-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislative bodies--Lower chambers",
+      "Parliamentary practice"
+    ],
+    "type": "Rule",
+    "extracted_date": "1834",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "government",
+      "addition",
+      "rules",
+      "house",
+      "representatives",
+      "december",
+      "not",
+      "order",
+      "offer",
+      "amendments",
+      "any",
+      "billupon",
+      "after",
+      "third"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Addition to Rules for the Government of the House of Representatives, [11 December\n\n1834]1 47. It shall not be in order, to offer amendments to any billupon^after^its third reading2",
+    "paragraphs": [
+      "Addition to Rules for the Government of the House of Representatives, [11 December",
+      "1834]1 47. It shall not be in order, to offer amendments to any billupon^after^its third reading2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 103",
+      "Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 55-58."
+    ],
+    "footnotes": [
+      {
+        "id": "XA893830B-E6E5-4001-9509-4796D9B2C237",
+        "text": "1Abraham Lincoln wrote all the text on page one, aside from the insertion denoted by\n                  carets.Abraham Lincoln proposed this additional rule on December 11, 1834, and the House\n                  rejected it.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 103"
+      },
+      {
+        "id": "X99E62551-70DA-4301-88B1-E2124432441B",
+        "text": "2There were forty-six “Rules for the Government of the House of Representatives of\n                  the State of Illinois,” and they did not limit the actions a legislator could take\n                  on a bill before it passed.Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 55-58."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Addition to Rules for the Government of the House of Representatives, [11 December\n               1834]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "47. It shall not be in order, to offer amendments to any billupon^after^its third reading2"
+      }
+    ],
+    "word_count": 29
+  },
+  "extraction_date": "2025-12-26 19:46:47",
+  "word_count": 29,
+  "processing": {
+    "cleaned": true,
+    "original_length": 195,
+    "cleaned_length": 181,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

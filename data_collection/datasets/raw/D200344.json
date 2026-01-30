@@ -1,0 +1,55 @@
+{
+  "document_id": "D200344",
+  "url": "https://papersofabrahamlincoln.org/documents/D200344",
+  "metadata": {
+    "date": "1844-01-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers",
+      "Real property",
+      "Land titles--Registration and transfer"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Henry E. Dummer, 2 January 18441 In reply to yours of the 14thult.2I say that if you can get a clear title to the 40 acres of land, together with costs,\n               and a reasonable fee to yourself, I reckon you had better do it– Have the deed made\n               to me–",
+    "paragraphs": [
+      "Abraham Lincoln to Henry E. Dummer, 2 January 18441",
+      "In reply to yours of the 14thult.2I say that if you can get a clear title to the 40 acres of land, together with costs,\n               and a reasonable fee to yourself, I reckon you had better do it– Have the deed made\n               to me–"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X7A5E276A-E4CB-41A3-8A26-04483D4F7E69",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also authored the address on the back\n                  page, which was folded to create an envelope for mailing."
+      },
+      {
+        "id": "X1EC1FDCA-BE11-43E8-90C4-0775ADB5FA4F",
+        "text": "2Henry E. Dummer’s December 14, 1843 letter to Lincoln has not been located."
+      },
+      {
+        "id": "X42E92981-49F1-48A2-9414-16BDD676F84E",
+        "text": "3“5” is written on the postmark."
+      },
+      {
+        "id": "X200BACE3-78AF-4402-8472-053F25706358",
+        "text": "4Dummer authored Lincoln’s name."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Henry E. Dummer, 2 January 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "In reply to yours of the 14thult.2I say that if you can get a clear title to the 40 acres of land, together with costs,\n               and a reasonable fee to yourself, I reckon you had better do it– Have the deed made\n               to me–"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:19:56",
+  "word_count": 53
+}

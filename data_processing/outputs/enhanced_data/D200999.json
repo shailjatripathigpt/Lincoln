@@ -1,0 +1,75 @@
+{
+  "document_id": "D200999",
+  "url": "https://papersofabrahamlincoln.org/documents/D200999",
+  "metadata": {
+    "date": "1858-02-23",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Inscriptions"
+    ],
+    "type": "Inscription",
+    "extracted_date": "1858",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "inscription",
+      "abraham",
+      "lincoln",
+      "henry",
+      "rankin",
+      "autograph",
+      "album",
+      "february",
+      "day",
+      "feb",
+      "theownerhonored",
+      "privilege",
+      "writing",
+      "first",
+      "name"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Inscription of Abraham Lincoln to Henry B. Rankin in Autograph Album, 23 February\n\n18581 To-day,Feb. 23 1858, theownerhonored me with the privilege of writing the first name in this book–",
+    "paragraphs": [
+      "Inscription of Abraham Lincoln to Henry B. Rankin in Autograph Album, 23 February",
+      "18581 To-day,Feb. 23 1858, theownerhonored me with the privilege of writing the first name in this book–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Ceremonies at the Unveiling of Monument to William H. Herndon, Abraham Lincoln’s Last\n                        Law Partner, Oak Ridge Cemetery, May 30, 1918, Springfield, Illinois(Privately printed, n.d.), 9, 14."
+    ],
+    "footnotes": [
+      {
+        "id": "X950DA0D0-8F3F-47BD-B07C-F93ACAF9C082",
+        "text": "1Abraham Lincoln wrote and signed this inscription."
+      },
+      {
+        "id": "X515E3F45-CB8E-4672-AFD1-A0AF4ABAF7A6",
+        "text": "2When Henry B. Rankin worked in the law office ofLincoln & Herndon, the young man brought an autograph book to work and asked Lincoln to write this\n                  first inscription. Rankin then   askedWilliam H. Herndon, who wrote, “The struggles of this age and succeeding ages for God & man—Religion—Humanity\n                  &Libertywith all their complex and grand relations—may they triumph and conquer forever,\n                  is my ardent wish and most fervent soul-prayer.”Ceremonies at the Unveiling of Monument to William H. Herndon, Abraham Lincoln’s Last\n                        Law Partner, Oak Ridge Cemetery, May 30, 1918, Springfield, Illinois(Privately printed, n.d.), 9, 14."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Inscription of Abraham Lincoln to Henry B. Rankin in Autograph Album, 23 February\n               18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "To-day,Feb. 23 1858, theownerhonored me with the privilege of writing the first name in this book–"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 21:46:14",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 201,
+    "cleaned_length": 187,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

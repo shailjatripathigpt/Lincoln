@@ -1,0 +1,72 @@
+{
+  "document_id": "D206853",
+  "url": "https://papersofabrahamlincoln.org/documents/D206853",
+  "metadata": {
+    "date": "1842-06-23",
+    "authors": [],
+    "keywords": [
+      "Lawyers",
+      "Citizen suits (Civil procedure)",
+      "Actions and defenses"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Logan & Lincoln to Henry Eddy, 23 June 18421 Enclosed is a letter which we received from our client,Thompson H. Biggs—2 We are not apprized whether the process has been served, as yet, onDrBaker— It has not been returned, and we think you had better write us whether to have an\n\nalias issued—3 The other questions, your attention will be drawn to by the enclosed letter— Please\n\nwrite to MrBiggs and to ustoon any point that suggests itself to you as proper— Nothing new here—",
+    "paragraphs": [
+      "Logan & Lincoln to Henry Eddy, 23 June 18421 Enclosed is a letter which we received from our client,Thompson H. Biggs—2 We are not apprized whether the process has been served, as yet, onDrBaker— It has not been returned, and we think you had better write us whether to have an",
+      "alias issued—3 The other questions, your attention will be drawn to by the enclosed letter— Please",
+      "write to MrBiggs and to ustoon any point that suggests itself to you as proper— Nothing new here—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Biggs v. Baker,   Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=141123;Field et al. v. Rawlings, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://lawpracticeofabrahamlincoln.org/Details.aspx?case=136018;Gatewood & Co. v. McGehee, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://lawpracticeofabrahamlincoln.org/Details.aspx?case=135398.",
+      "“Alias,” Reference: Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/Glossary.html."
+    ],
+    "footnotes": [
+      {
+        "id": "X56A42626-248B-419A-B193-84762A76A9F4",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also authored the address on the back\n                  page, which was folded to create an envelope."
+      },
+      {
+        "id": "X400A0CCD-DED7-4780-9C31-88AAB4041096",
+        "text": "2The letter from Biggs to Logan & Lincoln has not been located. The case to which this\n                  letter refers has not been identified.  No other legal cases involving Biggs have\n                  been identified in Lincoln’s law practice. However, at least two other times in the\n                  1830s and 1840s, Lincoln handled appeals to theIllinois Supreme Courtfor clients of Eddy’s in southern Illinois. This may be a similar situation.Biggs v. Baker,   Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=141123;Field et al. v. Rawlings, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://lawpracticeofabrahamlincoln.org/Details.aspx?case=136018;Gatewood & Co. v. McGehee, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://lawpracticeofabrahamlincoln.org/Details.aspx?case=135398."
+      },
+      {
+        "id": "XAF9E1BE0-F405-4AB2-884E-8167F73DFC37",
+        "text": "3In this context, “alias” refers to a writ that the court had issued once before, but\n                  which failed to accomplish its purpose, and is issued a second time.“Alias,” Reference: Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/Glossary.html."
+      },
+      {
+        "id": "X239B903B-5EFB-48C1-B24E-ACFD00B0D25B",
+        "text": "4Henry Eddy wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Logan & Lincoln to Henry Eddy, 23 June 18421"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enclosed is a letter which we received from our client,Thompson H. Biggs—2"
+      },
+      {
+        "type": "paragraph",
+        "text": "We are not apprized whether the process has been served,  as yet, onDrBaker— It has not been returned, and we think you had better write us whether to have an\n               alias issued—3"
+      },
+      {
+        "type": "paragraph",
+        "text": "The other questions, your attention will be drawn to by the enclosed letter— Please\n               write to MrBiggs and to ustoon any point that suggests itself to you as proper— Nothing new here—"
+      }
+    ],
+    "word_count": 85
+  },
+  "extraction_date": "2025-12-26 20:17:35",
+  "word_count": 85,
+  "processing": {
+    "cleaned": true,
+    "original_length": 505,
+    "cleaned_length": 476,
+    "preserved_originality": true
+  }
+}

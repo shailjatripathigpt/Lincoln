@@ -1,0 +1,60 @@
+{
+  "document_id": "D200512",
+  "url": "https://papersofabrahamlincoln.org/documents/D200512",
+  "metadata": {
+    "date": "1848-07-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Land use",
+      "Presidents--Election",
+      "Presidential candidates"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John Hogan, 14 July 18481 Soon after I received your I went personally to theGenlLand Office, for the information you desired–2Judge Youngtook a memorandum, and promised to do what he could– Last night he sent me what\n               accompanies this, which I suppose is all the information can be had–3 Taylorism seems to be going right, for which, I am very glad– Keep the ball rolling–4",
+    "paragraphs": [
+      "Abraham Lincoln to John Hogan, 14 July 18481",
+      "Soon after I received your I went personally to theGenlLand Office, for the information you desired–2Judge Youngtook a memorandum, and promised to do what he could– Last night he sent me what\n               accompanies this, which I suppose is all the information can be had–3",
+      "Taylorism seems to be going right, for which, I am very glad– Keep the ball rolling–4"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X60D83381-83EC-4E95-A604-E20BFA9A50BB",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X456DDEF7-7AA8-4FED-AE1D-7BA50C85B184",
+        "text": "2John Hogan’s letter to Lincoln has not been located."
+      },
+      {
+        "id": "X1A50C1F3-6329-44C0-85C1-9BBD01AB3016",
+        "text": "3The accompanying document Lincoln references was not included with this letter and\n                  has not been located."
+      },
+      {
+        "id": "X4FED6A01-C59B-48A5-B5E8-94CEDA8713D9",
+        "text": "4Reference toZachary Taylorand his bid to win thepresidential election of 1848."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John Hogan, 14 July 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Soon after I received your I went personally to theGenlLand Office, for the information you desired–2Judge Youngtook a memorandum, and promised to do what he could– Last night he sent me what\n               accompanies this, which I suppose is all the information can be had–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Taylorism seems to be going right, for which, I am very glad– Keep the ball rolling–4"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:30:56",
+  "word_count": 68
+}

@@ -1,0 +1,78 @@
+{
+  "document_id": "D200343",
+  "url": "https://papersofabrahamlincoln.org/documents/D200343",
+  "metadata": {
+    "date": "1843-10-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Courts--Officials and employees",
+      "State courts--Finance",
+      "State governments--Officials and employees"
+    ],
+    "type": "Pay warrant",
+    "extracted_date": "1843",
+    "extracted_type": "pay warrant",
+    "extracted_keywords": [
+      "warrant",
+      "pay",
+      "alfred",
+      "kitchell",
+      "october",
+      "received",
+      "auditor",
+      "thetreasurer",
+      "thestatebankofillinoisforseventy",
+      "fivedollarsandcents",
+      "infullforthe",
+      "salary",
+      "ofa",
+      "kitchellas",
+      "state"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Pay Warrant for Alfred Kitchell, 11 October 18431 $75.00/100 No.9229 Received of the Auditor a WARRANT on theTreasurer of theStateBankofIllinoisforSeventy fivedollarsandcents, infullforthe Salary ofA. Kitchellas State’s Atty. of4thJudclCirtfor qr Ending 30thSept 1843.",
+    "paragraphs": [
+      "Pay Warrant for Alfred Kitchell, 11 October 18431 $75.00/100 No.9229 Received of the Auditor a WARRANT on theTreasurer of theStateBankofIllinoisforSeventy fivedollarsandcents, infullforthe Salary ofA. Kitchellas State’s Atty. of4thJudclCirtfor qr Ending 30thSept 1843."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XCBF5CD32-7B21-42AA-A36B-BFAA4A954B9A",
+        "text": "1Abraham Lincoln signed this warrant."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Pay Warrant for Alfred Kitchell, 11 October 18431"
+      },
+      {
+        "type": "paragraph",
+        "text": "$75.00/100"
+      },
+      {
+        "type": "paragraph",
+        "text": "No.9229"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received of the Auditor a WARRANT on theTreasurer of theStateBankofIllinoisforSeventy fivedollarsandcents,  infullforthe Salary ofA. Kitchellas State’s Atty.[Attorney] of4thJudclCirtfor qr[quarter]  Ending 30thSept[September] 1843."
+      }
+    ],
+    "word_count": 32
+  },
+  "extraction_date": "2025-12-26 20:20:17",
+  "word_count": 32,
+  "processing": {
+    "cleaned": true,
+    "original_length": 300,
+    "cleaned_length": 268,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

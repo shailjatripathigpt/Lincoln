@@ -1,0 +1,65 @@
+{
+  "document_id": "D210423",
+  "url": "https://papersofabrahamlincoln.org/documents/D210423",
+  "metadata": {
+    "date": "1849-04-26",
+    "authors": [
+      "Morrison, John H."
+    ],
+    "keywords": [
+      "Loans",
+      "Male friendship",
+      "Payment",
+      "Finance, Personal"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "John H. Morrison to Abraham Lincoln, 26 April 18491 After I parted from you I spent a few days with my friends inPa. and did not reach home until the 1stday of this Month.2 I visitedTremontduring the sitting of theCircuit Courtand had anticipated the pleasure of meeting you but was disappointed.3 Enclosed please find $20. in payt[payment] of that Amt.[Amount] which you were so Kind as to advance to me inWashington. Accept of my gratitude for the accommodation.",
+    "paragraphs": [
+      "John H. Morrison to Abraham Lincoln, 26 April 18491",
+      "After I parted from you I spent a few days with my friends inPa. and did not reach home until the 1stday of this Month.2",
+      "I visitedTremontduring the sitting of theCircuit Courtand had anticipated the pleasure of meeting you but was disappointed.3",
+      "Enclosed please find $20. in payt[payment] of that Amt.[Amount] which you were so Kind as to advance to me inWashington. Accept of my gratitude for the accommodation."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Unknown;Abraham Lincoln to John M. Clayton;Abraham Lincoln to George W. Crawford;John H. Morrison to Abraham Lincoln.",
+      "“An Act Fixing the Times of Holding Courts in the Eighth Judicial Circuit,”   20 January\n                     1849,Laws of Illinois(1849),      60."
+    ],
+    "footnotes": [
+      {
+        "id": "X414067CE-4D5D-4472-B338-98E600587988",
+        "text": "1John H. Morrison wrote and signed this letter."
+      },
+      {
+        "id": "X75C7A637-EFFB-49FF-A335-F17ED8E97037",
+        "text": "2Morrison was eager for an appointment to a federal office, and he traveled to Washington,\n                  DC, in late February or early March 1849, to promote his claim.  On March 11, 1849,\n                  Lincoln wrote letters to Secretary of StateJohn M. Clayton, Secretary of WarGeorge W. Crawford, and other cabinet members on Morrison’s behalf.Abraham Lincoln to Unknown;Abraham Lincoln to John M. Clayton;Abraham Lincoln to George W. Crawford;John H. Morrison to Abraham Lincoln."
+      },
+      {
+        "id": "X33CF2CE0-5671-4B76-B46C-BE4D45606DC7",
+        "text": "3The spring session of the Tazewell County Circuit Court began on April 4, 1849.“An Act Fixing the Times of Holding Courts in the Eighth Judicial Circuit,”   20 January\n                     1849,Laws of Illinois(1849),      60."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John H. Morrison to Abraham Lincoln, 26 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "After I parted from you I spent a few days with my friends inPa. and did not reach home until the 1stday of this Month.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "I visitedTremontduring the sitting of theCircuit Courtand had anticipated the pleasure of meeting you but was disappointed.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enclosed please find $20. in payt[payment] of that Amt.[Amount] which you were so Kind as to advance to me inWashington. Accept of my gratitude for the accommodation."
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:41:48",
+  "word_count": 78
+}

@@ -1,0 +1,55 @@
+{
+  "document_id": "D200022",
+  "url": "https://papersofabrahamlincoln.org/documents/D200022",
+  "metadata": {
+    "date": "1833-07-26",
+    "authors": [
+      "Baker, Jesse"
+    ],
+    "keywords": [
+      "Deeds",
+      "Land titles--Registration and transfer",
+      "Real property"
+    ],
+    "type": "Deed"
+  },
+  "content": {
+    "full_text": "Deed of Jesse Baker and Christiana Baker to James Eastep, 26 July 18331",
+    "paragraphs": [
+      "Deed of Jesse Baker and Christiana Baker to James Eastep, 26 July 18331"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Christopher A. Schnell, “Wives, Widows, and Will Makers: Woman and the Law of Property,”In Tender Consideration: Women, Families, and the Law in Abraham Lincoln’s Illinois(Urbana: University of Illinois Press, 2003), 129, 133; Joan R. Gundersen, “Women\n                     and Inheritance in America,” Robert K. Miller Jr. and Stephen J. McNamee, eds.,Inheritance and Wealth in America(New York: Springer Science and Business Media, 1998), 94."
+    ],
+    "footnotes": [
+      {
+        "id": "X815A6DCF-D1FA-4BC9-ABCD-E02C5EDC01AC",
+        "text": "1Abraham  Lincoln wrote the text of the deed. The Bakers, Green, and  Armstrong each\n                  signed their own names."
+      },
+      {
+        "id": "X58E14AAB-9094-4D7A-A591-F59F65CF71D1",
+        "text": "2The land described here lay in Sangamon County in 1833; in 1839, the General Assembly\n                  carved out the northern part of the county to create a new county calledMenard. The land described here is now situated in the west-central part of Menard County."
+      },
+      {
+        "id": "X846BF583-A15F-4FA3-9757-45066C85A433",
+        "text": "3“Dower” is a term that refers to the legally protected lifetime right of a woman to\n                  one-third of her husband’s lands and personal property. Dower was intended to provide\n                  for the support of a widow and her children. Because of this, a husband could not\n                  convey property without the consent of his wife.Christopher A. Schnell, “Wives, Widows, and Will Makers: Woman and the Law of Property,”In Tender Consideration: Women, Families, and the Law in Abraham Lincoln’s Illinois(Urbana: University of Illinois Press, 2003), 129, 133; Joan R. Gundersen, “Women\n                     and Inheritance in America,” Robert K. Miller Jr. and Stephen J. McNamee, eds.,Inheritance and Wealth in America(New York: Springer Science and Business Media, 1998), 94."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Deed of Jesse Baker and Christiana Baker to James Eastep, 26 July 18331"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 19:46:26",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 71,
+    "cleaned_length": 71,
+    "preserved_originality": true
+  }
+}

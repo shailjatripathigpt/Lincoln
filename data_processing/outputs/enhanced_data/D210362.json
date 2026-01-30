@@ -1,0 +1,76 @@
+{
+  "document_id": "D210362",
+  "url": "https://papersofabrahamlincoln.org/documents/D210362",
+  "metadata": {
+    "date": "1849-02-25",
+    "authors": [
+      "Collins, John E."
+    ],
+    "keywords": [
+      "Military appointments",
+      "Military cadets"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-02-25",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "army",
+      "honor",
+      "you",
+      "your",
+      "john",
+      "collins",
+      "abraham",
+      "lincoln",
+      "february",
+      "being",
+      "desirous",
+      "annex",
+      "myself",
+      "theu",
+      "beg"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "John E. Collins to Abraham Lincoln, 25 February 18491 Being desirous to annex myself to theU.S. Army. I would beg that you honor me with your nomination as Cadet atWest Point, if you have no prior Engagement. Or if the Vacancy of this District is not filled.\n\nYour attention to this will recieve the warmest thanks of",
+    "paragraphs": [
+      "John E. Collins to Abraham Lincoln, 25 February 18491 Being desirous to annex myself to theU.S. Army. I would beg that you honor me with your nomination as Cadet atWest Point, if you have no prior Engagement. Or if the Vacancy of this District is not filled.",
+      "Your attention to this will recieve the warmest thanks of"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "George Washington Cullum,Biographical Register of Officers and Graduates of the U.S. Military Academy from\n                        1802 to 1867(Bedford, MA: Appleton Books, 2009), 651."
+    ],
+    "footnotes": [
+      {
+        "id": "X929C90B3-7264-4784-88B1-34F3334350FD",
+        "text": "1John E. Collins wrote this letter in its entirety."
+      },
+      {
+        "id": "X59250570-DA5B-481B-9F60-2B523F72EFCB",
+        "text": "2On February 24, Collins penned a similarletterto Secretary of WarWilliam C. Marcyrequesting an appointment.  Abraham Lincoln’s response to Collins, if he penned one,\n                  has not been found.  There is no evidence that Collins either attended or graduated\n                  from West Point.George Washington Cullum,Biographical Register of Officers and Graduates of the U.S. Military Academy from\n                        1802 to 1867(Bedford, MA: Appleton Books, 2009), 651."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John E. Collins to Abraham Lincoln, 25 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Being desirous to annex myself to theU.S. Army. I would beg that you honor me with your nomination as Cadet atWest Point, if you have no prior Engagement. Or if the Vacancy of this District is not filled.\n               Your attention to this will recieve the warmest thanks of"
+      }
+    ],
+    "word_count": 57
+  },
+  "extraction_date": "2025-12-26 20:35:58",
+  "word_count": 57,
+  "processing": {
+    "cleaned": true,
+    "original_length": 331,
+    "cleaned_length": 317,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "D252336",
+  "url": "https://papersofabrahamlincoln.org/documents/D252336",
+  "metadata": {
+    "date": "1849-02-15",
+    "authors": [
+      "Waughop, John W."
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "John W. Waughop to Edward D. Baker and Abraham Lincoln, 15 February 18491 Inclosed you will find a petition.2It is not as long perhaps as some that will be presented. I might have had a longer\n\none if I had thought it necessary after what you already have. I could have presented\n\nmore names that you would^have^recognized if I had commenced a little sooner to circulate. With one or two exceptions\n\nall the names on my petition areWhigsand but one of them had signed any other petition for the same office. Numerous Gentlemen\n\nexpressed a regret that they did not know that I was a candidate I leave the matter\n\nwith you. Other candidates will have personal friends to advocate their claims which\n\nwill perhaps give them an advantage, unless I can be favoured with your influence. Do the best you can for me and it will be remembered with the profoundest gratitude.",
+    "paragraphs": [
+      "John W. Waughop to Edward D. Baker and Abraham Lincoln, 15 February 18491 Inclosed you will find a petition.2It is not as long perhaps as some that will be presented. I might have had a longer",
+      "one if I had thought it necessary after what you already have. I could have presented",
+      "more names that you would^have^recognized if I had commenced a little sooner to circulate. With one or two exceptions",
+      "all the names on my petition areWhigsand but one of them had signed any other petition for the same office. Numerous Gentlemen",
+      "expressed a regret that they did not know that I was a candidate I leave the matter",
+      "with you. Other candidates will have personal friends to advocate their claims which",
+      "will perhaps give them an advantage, unless I can be favoured with your influence. Do the best you can for me and it will be remembered with the profoundest gratitude."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 107;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 110;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 125."
+    ],
+    "footnotes": [
+      {
+        "id": "X8CCE5617-10E0-4387-BBDF-A2C72235CA4A",
+        "text": "1John W. Waughop wrote this letter in its entirety."
+      },
+      {
+        "id": "XA10EC9AF-C8F6-4516-A317-3AACF7C0BFA6",
+        "text": "2Three petitions were found filed next to this document, but it was unclear from the\n                  content as to which of these unaddressed petitions might have originally been enclosed,\n                  so the actual petition has not been identified."
+      },
+      {
+        "id": "X1E4FADEA-D786-48E5-B637-D7D7442F42E1",
+        "text": "3Waughop was a candidate for the position of collector of customs for the Port of Chicago.\n                  Waughop did not get the appointment;Jacob Russellreceived the job, holding the position until 1853.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 107;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 110;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 125."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John W. Waughop to Edward D. Baker and Abraham Lincoln, 15 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Inclosed you will find a petition.2It is not as long perhaps as some that will be presented. I might have had a longer\n               one if I had thought it necessary after what you already have. I could have presented\n               more names that you would^have^recognized if I had commenced a little sooner to circulate. With one or two exceptions\n               all the names on my petition areWhigsand but one of them had signed any other petition for the same office. Numerous Gentlemen\n               expressed a regret that they did not know that I was a candidate I leave the matter\n               with you. Other candidates will have personal friends to advocate their claims which\n               will perhaps give them an advantage, unless I can be favoured with your influence."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do the best you can for me and it will be remembered with the profoundest gratitude."
+      }
+    ],
+    "word_count": 153
+  },
+  "extraction_date": "2025-12-26 20:34:55",
+  "word_count": 153,
+  "processing": {
+    "cleaned": true,
+    "original_length": 950,
+    "cleaned_length": 866,
+    "preserved_originality": true
+  }
+}

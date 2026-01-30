@@ -1,0 +1,75 @@
+{
+  "document_id": "D200363",
+  "url": "https://papersofabrahamlincoln.org/documents/D200363",
+  "metadata": {
+    "date": "1844-10-30",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Tariff",
+      "Political parties"
+    ],
+    "type": "Speech",
+    "extracted_date": "1844-10-30",
+    "extracted_type": "speech",
+    "extracted_keywords": [
+      "honor",
+      "speech",
+      "his",
+      "manner",
+      "summary",
+      "rockport",
+      "indiana",
+      "october",
+      "lincoln",
+      "ofspringfield",
+      "ill",
+      "addressed",
+      "large",
+      "respectable",
+      "audience"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Summary of Speech at Rockport, Indiana, 30 October 18441 Mr.Lincoln, ofSpringfield, Ill., addressed a large and respectable audience at the court house on Wednesday evening\n\nlast upon thewhigpolicy. His main argument was directed in pointing out the advantages of a Protective\n\nTariff. He handled that subject in a manner that done honor to himself and the whig\n\ncause. Other subjects were investigated in a like manner.—His speech was plain, argumentative\n\nand of an hour’s duration.–",
+    "paragraphs": [
+      "Summary of Speech at Rockport, Indiana, 30 October 18441 Mr.Lincoln, ofSpringfield, Ill., addressed a large and respectable audience at the court house on Wednesday evening",
+      "last upon thewhigpolicy. His main argument was directed in pointing out the advantages of a Protective",
+      "Tariff. He handled that subject in a manner that done honor to himself and the whig",
+      "cause. Other subjects were investigated in a like manner.—His speech was plain, argumentative",
+      "and of an hour’s duration.–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:342, n1."
+    ],
+    "footnotes": [
+      {
+        "id": "XDE1682A9-FEB0-4694-BF65-D72542633D04",
+        "text": "1From October 24 through November 4, Abraham Lincoln traveled through southernIndianagiving campaign speeches on behalf ofHenry Clay, the Whig Party candidate for president in1844 presidential election, andTheodore Frelinghuysen, candidate for vice president. No other reports of any of his Indiana speeches have\n                  been located.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:342, n1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Summary of Speech at Rockport, Indiana, 30 October 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr.Lincoln, ofSpringfield, Ill., addressed a large and respectable audience at the court house on Wednesday evening\n               last upon thewhigpolicy.  His main argument was directed in pointing out the advantages of a Protective\n               Tariff.  He handled that subject in a manner that done honor to himself and the whig\n               cause.  Other subjects were investigated in a like manner.—His speech was plain, argumentative\n               and of an hour’s duration.–"
+      }
+    ],
+    "word_count": 75
+  },
+  "extraction_date": "2025-12-26 20:20:48",
+  "word_count": 75,
+  "processing": {
+    "cleaned": true,
+    "original_length": 544,
+    "cleaned_length": 485,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

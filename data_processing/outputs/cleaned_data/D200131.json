@@ -1,0 +1,62 @@
+{
+  "document_id": "D200131",
+  "url": "https://papersofabrahamlincoln.org/documents/D200131",
+  "metadata": {
+    "date": "1838-03-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Water mills",
+      "Dams--Design and construction",
+      "County government"
+    ],
+    "type": "Application"
+  },
+  "content": {
+    "full_text": "Petition of James Wright to the Sangamon County Commissioners’ Court, 1 James Wrighthereby applies to thecounty commissioners, courtofSangamon countyfor a Writ ofadquoddamnum2to erect a mill dam on Brush creek on the South West quarter of Section number 18.\n\nTownship 14 North of Range 4 West and the South East quarter of Section 13 in Township\n\n14 North of Range 5 West, or either of them3",
+    "paragraphs": [
+      "Petition of James Wright to the Sangamon County Commissioners’ Court, 1 James Wrighthereby applies to thecounty commissioners, courtofSangamon countyfor a Writ ofadquoddamnum2to erect a mill dam on Brush creek on the South West quarter of Section number 18.",
+      "Township 14 North of Range 4 West and the South East quarter of Section 13 in Township",
+      "14 North of Range 5 West, or either of them3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Henry C. Black,Black’s Law Dictionary, 6th ed. (St. Paul, MN: West, 1990), 50.",
+      "Check of James Wright to Stuart & Lincoln;Lincoln wrote petition for Wright, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141198; “Counties, Townships, and Ranges in Illinois,” Maps,  Martha L. Benner and Cullom\n                     Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/LandMeasurement.html."
+    ],
+    "footnotes": [
+      {
+        "id": "X76C89D9C-21D2-46D3-B7E3-7E63D73E0B91",
+        "text": "1Abraham Lincoln wrote the text of the petition in its entirety."
+      },
+      {
+        "id": "XE8653E8E-C9EF-49AC-B06F-F5791E863DBE",
+        "text": "2To assess what damage a specific act, if done, would tend to have to other people's\n                  interests.Henry C. Black,Black’s Law Dictionary, 6th ed. (St. Paul, MN: West, 1990), 50."
+      },
+      {
+        "id": "XB9D44F2E-7B39-4886-A909-AB48D757C2E6",
+        "text": "3Area located southeast ofSpringfieldon the border of Ball and Cotton Hill townships.Wright gaveStuart & Lincolna letter of credit for $5 drawn onRobert Allenfor their legal services in drawing up this petition.Check of James Wright to Stuart & Lincoln;Lincoln wrote petition for Wright, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141198; “Counties, Townships, and Ranges in Illinois,” Maps,  Martha L. Benner and Cullom\n                     Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/LandMeasurement.html."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of James Wright to the Sangamon County Commissioners’ Court, [March 1838]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "James Wrighthereby applies to thecounty commissioners,  courtofSangamon countyfor a Writ ofadquoddamnum2to erect a mill dam on Brush creek on the South West quarter of Section number 18.\n               Township 14 North of Range 4 West and the South East quarter of Section 13 in Township\n               14 North of Range 5 West, or either of them3"
+      }
+    ],
+    "word_count": 65
+  },
+  "extraction_date": "2025-12-26 20:06:31",
+  "word_count": 66,
+  "processing": {
+    "cleaned": true,
+    "original_length": 432,
+    "cleaned_length": 391,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "D208049",
+  "url": "https://papersofabrahamlincoln.org/documents/D208049",
+  "metadata": {
+    "date": "1853-10-13",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Evidence (Law)",
+      "Depositions",
+      "Debtor and creditor"
+    ],
+    "type": "Letter",
+    "extracted_date": "1853-10-13",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "your",
+      "home",
+      "abraham",
+      "lincoln",
+      "henry",
+      "dummer",
+      "october",
+      "need",
+      "testimony",
+      "used",
+      "suit",
+      "inkentucky",
+      "appointed",
+      "november"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Henry E. Dummer, 13 October 18531 I need your testimony to be used in a suit inKentucky; and I have appointed the 15thof November next to take your deposition atBeardstown– I write this to request you to be at home on that day– I expect to be there in person–\n\nThe matter I wish you to testify about is that old claim ofOldham Todd &Coagainstmesome body; & on which you paid me fifty dollars– Please answer, saying whether you can be\n\nat home on the 15thNov–2",
+    "paragraphs": [
+      "Abraham Lincoln to Henry E. Dummer, 13 October 18531 I need your testimony to be used in a suit inKentucky; and I have appointed the 15thof November next to take your deposition atBeardstown– I write this to request you to be at home on that day– I expect to be there in person–",
+      "The matter I wish you to testify about is that old claim ofOldham Todd &Coagainstmesome body; & on which you paid me fifty dollars– Please answer, saying whether you can be",
+      "at home on the 15thNov–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Oldham & Hemingway v. Lincoln et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141851; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 118."
+    ],
+    "footnotes": [
+      {
+        "id": "X21C7A66B-F745-4827-83B9-78CD37D7126F",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XE94CC70C-B1BA-42A2-B170-DE9C0E882158",
+        "text": "2Henry E. Dummer’s reply has not been located.Lincoln is discussing the caseOldham & Hemingway v. Lincoln et al.In this case,Edward OldhamandThomas Hemingway, the surviving partners of Oldham, Todd and Company, which had includedRobert S. Todd, father ofMary Lincoln, claimed that the company had hired Lincoln andNinian W. Edwardsto collect some debts for them inIllinois.  Oldham and Hemingway claimed that Lincoln, Edwards, andGeorge B. Kinkead(who was acting as Lincoln's attorney inLexington, Kentucky) failed to pay them $472.54. In June 1853, Oldham and Hemingway sued Lincoln and\n                  others in a chancery action in Kentucky’sFayette County Circuit Courtto recover the debt.In September 1853, Lincoln gave Oldham and Hemingwaynoticeof his intention to take depositions related to the case in November 1853 in Springfield,\n                  Beardstown, andShelbyville. In February 1854, after depositions Lincoln took supported his version of events,\n                  Oldham and Hemingway dismissed the case.Oldham & Hemingway v. Lincoln et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141851; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 118."
+      },
+      {
+        "id": "XDEB55D49-6102-4913-A28C-EB0325D777A6",
+        "text": "3It is unclear who wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Henry E. Dummer, 13 October 18531"
+      },
+      {
+        "type": "paragraph",
+        "text": "I need your testimony to be used in a suit inKentucky; and I have appointed the 15thof November next to take your deposition atBeardstown– I write this to request you to be at home on that day– I expect to be there in person–\n               The matter I wish you to testify about is that old claim ofOldham Todd &Coagainstmesome body;  & on which you paid me fifty dollars– Please answer, saying whether you can be\n               at home on the 15thNov[November]–2"
+      }
+    ],
+    "word_count": 89
+  },
+  "extraction_date": "2025-12-26 21:28:11",
+  "word_count": 89,
+  "processing": {
+    "cleaned": true,
+    "original_length": 517,
+    "cleaned_length": 478,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

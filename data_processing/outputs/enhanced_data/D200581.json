@@ -1,0 +1,70 @@
+{
+  "document_id": "D200581",
+  "url": "https://papersofabrahamlincoln.org/documents/D200581",
+  "metadata": {
+    "date": "1849-05-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Census",
+      "Census takers (Persons)"
+    ],
+    "type": "Memorandum",
+    "extracted_date": "1849-05-01",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "memorandum",
+      "concerning",
+      "john",
+      "jeffries",
+      "tellbondthatlinderwishesjohn",
+      "jeffriesappointed",
+      "deputy",
+      "take",
+      "census",
+      "forcoles"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Memorandum concerning John R. Jeffries, 1 TellBondthatLinderwishesJohn R. Jeffriesappointed Deputy to take census forColes–2",
+    "paragraphs": [
+      "Memorandum concerning John R. Jeffries, 1 TellBondthatLinderwishesJohn R. Jeffriesappointed Deputy to take census forColes–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act providing for the Enumeration of the Inhabitants of the United States,” 1\n                     March 1790,Statutes at Large of the United States1 (1845):101;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247; William Thorndale and William Dollarhide,Map Guide to the U.S. Federal Censuses, 1790-1920(Baltimore: Genealogical Publishing, 1987), xiii-xiv."
+    ],
+    "footnotes": [
+      {
+        "id": "XBB4B5410-FABE-4596-AF20-C9060B68CF11",
+        "text": "1Abraham Lincoln wrote this memorandum.  There is anotherhandwritten versionof this memorandum, not in Lincoln’s hand."
+      },
+      {
+        "id": "X06ECAACD-E12D-4D26-9A35-873136A1D5FD",
+        "text": "2Between 1790 and 1870, U.S. marshals, aided by temporary assistant marshals, acted\n                  as census takers in the various states.  As  newly-appointed U.S. marshal for the\n                  District ofIllinois, Benjamin Bond was responsible for the 1850 census.  There is no evidence that Jeffries\n                  received an appointment as deputy marshal.“An Act providing for the Enumeration of the Inhabitants of the United States,” 1\n                     March 1790,Statutes at Large of the United States1 (1845):101;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247; William Thorndale and William Dollarhide,Map Guide to the U.S. Federal Censuses, 1790-1920(Baltimore: Genealogical Publishing, 1987), xiii-xiv."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Memorandum concerning John R. Jeffries, [1 May 1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "TellBondthatLinderwishesJohn R. Jeffriesappointed Deputy to take census forColes–2"
+      }
+    ],
+    "word_count": 14
+  },
+  "extraction_date": "2025-12-26 20:41:27",
+  "word_count": 16,
+  "processing": {
+    "cleaned": true,
+    "original_length": 136,
+    "cleaned_length": 124,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,66 @@
+{
+  "document_id": "D298741",
+  "url": "https://papersofabrahamlincoln.org/documents/D298741",
+  "metadata": {
+    "date": "1836-12-23",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "County government--Law and legislation",
+      "Counties"
+    ],
+    "type": "Amendment",
+    "extracted_date": "1836",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "amendment",
+      "bill",
+      "organization",
+      "county",
+      "van",
+      "buren",
+      "december",
+      "add",
+      "third",
+      "section",
+      "ofamendment"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill for the Organization of the County of Van Buren,” [23 December\n\n1836]1 add to third section ofamendment)",
+    "paragraphs": [
+      "Amendment to “A Bill for the Organization of the County of Van Buren,” [23 December",
+      "1836]1 add to third section ofamendment)"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X73E192BE-A3AA-408F-8D8B-6F0EFEB567B6",
+        "text": "1Abraham  Lincoln wrote the text beginning with “Provided that.” This amendment was\n                  proposed to amend theAmendment to “A Bill for the Organization of the County of Van Buren”. In 1836, Sangamon County encompassed parts of the present-day counties ofChristian,Logan,Menard, andMason. The new county proposed by this bill would have included present-day southern Mason\n                  County and most of present-day Menard County."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill for the Organization of the County of Van Buren,” [23 December\n               1836]1"
+      },
+      {
+        "type": "description",
+        "text": "add to third section ofamendment)"
+      }
+    ],
+    "word_count": 21
+  },
+  "extraction_date": "2025-12-26 20:04:40",
+  "word_count": 21,
+  "processing": {
+    "cleaned": true,
+    "original_length": 139,
+    "cleaned_length": 125,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

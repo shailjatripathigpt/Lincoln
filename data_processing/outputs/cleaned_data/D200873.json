@@ -1,0 +1,63 @@
+{
+  "document_id": "D200873",
+  "url": "https://papersofabrahamlincoln.org/documents/D200873",
+  "metadata": {
+    "date": "1856-02-13",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Railroad passes",
+      "humor"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Richard P. Morgan, Jr., 13 February 18561 Says Tom to John “Heres your old rotten wheelbarrow” “Ive broke it, usin on it” “I wishyouwould mend it, case I shall want to borrow it this arter-noon”– Acting on this as a precedent, I say “Heres your old “chalked hat” “I wish you would take it, and send me a new one, case I shall\n\nwant to use it the first of March”2",
+    "paragraphs": [
+      "Abraham Lincoln to Richard P. Morgan, Jr., 13 February 18561 Says Tom to John “Heres your old rotten wheelbarrow” “Ive broke it, usin on it” “I wishyouwould mend it, case I shall want to borrow it this arter-noon”– Acting on this as a precedent, I say “Heres your old “chalked hat” “I wish you would take it, and send me a new one, case I shall",
+      "want to use it the first of March”2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln: By Some Men Who Knew Him(Bloomington, IL: Pantagraph Printing & Stationery, 1910), 101-2; Richard P. Morgan, Jr. to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 3 March 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-03-03; 17 March 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-03-17; 18 March 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-03-18; 2 April 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-04-02; “An Act to Change the Name and Amend the Charter of the Chicago and Mississippi\n                     Railroad Company, and to Authorise said Company, and the Belleville and Illinoistown\n                     Railroad Company, and the Terre Haute and Alton Railroad Company, to Make Contracts\n                     and Running Arrangements with Each Other, or to Lease or Buy the Road of the said\n                     Belleville and Illinoistown Railroad Company,” 14 February 1855,Private Laws of Illinois(1855), 322-24."
+    ],
+    "footnotes": [
+      {
+        "id": "X328B8D61-00D7-47EE-80B0-5B754ED4B669",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X3B3C71CC-A147-471F-8F33-3517242A337B",
+        "text": "2In nineteenth-century parlance, a person with a “chalked hat” had an annual railroad\n                  pass. Late in life, Richard P. Morgan, Jr. recalled that Lincoln enclosed an expired\n                  railroad pass from 1855 in this letter. In applying to Lincoln for a position as tax\n                  collector in 1862, Morgan invoked the broken wheelbarrow metaphor that Lincoln uses\n                  here, but quoted variant language and referred to it as originating in  a letter from\n                  Lincoln of January 2,  1855. No letter from Lincoln to Morgan of that date has been\n                  located and it may be a mistaken reference to this letter.Lincoln’s comment that he might need a railroad pass on the first of  March was not\n                  borne out by his activities for the month. He was at home in Springfield throughout\n                  the month attendingU.S. Circuit Court for the Southern District of IllinoisandSangamon County Circuit Court.  Three of his cases in the U.S. Circuit Court, however, were as defense for Morgan’s\n                  employer, theChicago, Alton and St. Louis Railroad. All three cases resulted in a judgment against the railroad. It was not until April\n                  2, 1856 thatLogan County Circuit Courttook him out of town  toLincoln, Illinois. It is possible that Lincoln’s expired pass ran from March to March, the Alton, Chicago,\n                  and St. Louis Railroad having been re-chartered under that name the preceding February.\n                  No response to this letter has been located.Abraham Lincoln: By Some Men Who Knew Him(Bloomington, IL: Pantagraph Printing & Stationery, 1910), 101-2; Richard P. Morgan, Jr. to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 3 March 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-03-03; 17 March 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-03-17; 18 March 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-03-18; 2 April 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-04-02; “An Act to Change the Name and Amend the Charter of the Chicago and Mississippi\n                     Railroad Company, and to Authorise said Company, and the Belleville and Illinoistown\n                     Railroad Company, and the Terre Haute and Alton Railroad Company, to Make Contracts\n                     and Running Arrangements with Each Other, or to Lease or Buy the Road of the said\n                     Belleville and Illinoistown Railroad Company,” 14 February 1855,Private Laws of Illinois(1855), 322-24."
+      },
+      {
+        "id": "XDE58E99F-6AE4-4602-B69E-7482D3A84B80",
+        "text": "3An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Richard P. Morgan, Jr., 13 February 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "Says Tom to John “Heres your old rotten wheelbarrow” “Ive broke it, usin on it” “I wishyouwould mend it, case I shall want to borrow it this arter-noon”–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Acting on this as a precedent, I say “Heres your old “chalked hat” “I wish you would take it, and send me a new one, case I shall\n               want to use it the first of March”2"
+      }
+    ],
+    "word_count": 74
+  },
+  "extraction_date": "2025-12-26 21:38:04",
+  "word_count": 74,
+  "processing": {
+    "cleaned": true,
+    "original_length": 395,
+    "cleaned_length": 381,
+    "preserved_originality": true
+  }
+}

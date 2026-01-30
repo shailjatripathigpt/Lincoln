@@ -1,0 +1,75 @@
+{
+  "document_id": "D200095",
+  "url": "https://papersofabrahamlincoln.org/documents/D200095",
+  "metadata": {
+    "date": "1837-02-07",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Education",
+      "Expenditures, Public"
+    ],
+    "type": "Amendment",
+    "extracted_date": "1837-02-07",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "counties",
+      "school",
+      "all",
+      "taking",
+      "census",
+      "amendment",
+      "bill",
+      "distribute",
+      "fund",
+      "several",
+      "state",
+      "among",
+      "according",
+      "number",
+      "children"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill to Distribute the School Fund to the Several Counties in this\n\nState Among the Counties According to the Number of Children in Each County Under\n\nTwenty Years of Age,” 1 Provided that all counties which shall have been formed since the last taking of the\n\ncensus; shall for all school purposes, remain as though no division had been made,\n\nuntil the next taking of the census.",
+    "paragraphs": [
+      "Amendment to “A Bill to Distribute the School Fund to the Several Counties in this",
+      "State Among the Counties According to the Number of Children in Each County Under",
+      "Twenty Years of Age,” 1 Provided that all counties which shall have been formed since the last taking of the",
+      "census; shall for all school purposes, remain as though no division had been made,",
+      "until the next taking of the census."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1836. 10th G. A., 1st sess., 504."
+    ],
+    "footnotes": [
+      {
+        "id": "XB6005FE8-9DA5-4AFB-9E58-79DBBD420091",
+        "text": "1On February 7, 1837, Lincoln proposed this amendment, which is in his handwriting,\n                  to an amendment to thebill. The House voted not to pass Lincoln’s amendment.Illinois HouseJournal. 1836. 10th G. A., 1st sess., 504."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill to Distribute the School Fund to the Several Counties in this\n               State Among the Counties According to the Number of Children in Each County Under\n               Twenty Years of Age,” [7 February 1837]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Provided that all counties which shall have been formed since the last taking of the\n               census; shall for all school purposes, remain as though no division had been made,\n               until the next taking of the census."
+      }
+    ],
+    "word_count": 70
+  },
+  "extraction_date": "2025-12-26 20:05:11",
+  "word_count": 72,
+  "processing": {
+    "cleaned": true,
+    "original_length": 470,
+    "cleaned_length": 397,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

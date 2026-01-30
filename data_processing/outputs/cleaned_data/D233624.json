@@ -1,0 +1,59 @@
+{
+  "document_id": "D233624",
+  "url": "https://papersofabrahamlincoln.org/documents/D233624",
+  "metadata": {
+    "date": "1849-03-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "United States marshals"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Clayton, 12 March 18491 John C. Richardson, ofBoonville, Mo– is, or will be an applicant for U.S. Marshall in thatstate– He is a family relative of mine, and has desired me to aid him in the matter– That\n\nbeing an office not in my ownstate, I feel I have no right to interfere, farther than to say he is a most worthy and\n\ncompetent man, to fill that or any such office, and that, if without injustice to\n\nthose whom it particularly concerns, he can receive it, I shall be gratified–2",
+    "paragraphs": [
+      "Abraham Lincoln to John M. Clayton, 12 March 18491 John C. Richardson, ofBoonville, Mo– is, or will be an applicant for U.S. Marshall in thatstate– He is a family relative of mine, and has desired me to aid him in the matter– That",
+      "being an office not in my ownstate, I feel I have no right to interfere, farther than to say he is a most worthy and",
+      "competent man, to fill that or any such office, and that, if without injustice to",
+      "those whom it particularly concerns, he can receive it, I shall be gratified–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247."
+    ],
+    "footnotes": [
+      {
+        "id": "X4932D9DB-80EC-4A38-AB50-49C12016C3BC",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "X8247828E-3D6B-43A2-BA7D-6B2BC56F5A05",
+        "text": "2John C. Richardson did not receive the appointment, the job going instead toJohn W. Twichell.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Clayton, 12 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "John C. Richardson, ofBoonville, Mo– is, or will be an applicant for U.S. Marshall in thatstate– He is a family relative of mine, and has desired me to aid him in the matter– That\n               being an office not in my ownstate, I feel I have no right to interfere, farther than to say he is a most worthy and\n               competent man, to fill that or any such office, and that, if without injustice to\n               those whom it particularly concerns, he can receive it, I shall be gratified–2"
+      }
+    ],
+    "word_count": 96
+  },
+  "extraction_date": "2025-12-26 20:37:23",
+  "word_count": 96,
+  "processing": {
+    "cleaned": true,
+    "original_length": 553,
+    "cleaned_length": 511,
+    "preserved_originality": true
+  }
+}

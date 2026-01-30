@@ -1,0 +1,66 @@
+{
+  "document_id": "D200703",
+  "url": "https://papersofabrahamlincoln.org/documents/D200703",
+  "metadata": {
+    "date": "1851-12-06",
+    "authors": [
+      "Lincoln, Abraham",
+      "Logan, Stephen T."
+    ],
+    "keywords": [
+      "Arbitration and award",
+      "Real property"
+    ],
+    "type": "Report",
+    "extracted_date": "1851-12-06",
+    "extracted_type": "report",
+    "extracted_keywords": [
+      "spear",
+      "report",
+      "arbitration",
+      "award",
+      "dispute",
+      "between",
+      "david",
+      "isaac",
+      "december"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Report of Arbitration Award in Dispute between David Spear and Isaac P. Spear, 6 December\n\n18511",
+    "paragraphs": [
+      "Report of Arbitration Award in Dispute between David Spear and Isaac P. Spear, 6 December"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sangamo Journal(Springfield, IL), 25 September 1845, 2:5;Illinois Daily Journal(Springfield), 1 August 1851, 3:2;Logan & Lincoln mediated dispute between Spear & Spear, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141307."
+    ],
+    "footnotes": [
+      {
+        "id": "XD2A54E11-3673-4DD9-AFC8-AE01882165E0",
+        "text": "1Abraham Lincoln wrote all of this document except the last sentence and signed his\n                  name.  Stephen T. Logan wrote the last sentence and signed his name.  Logan also deleted\n                  the word “thirtyeight” and substituted the word “sixty.”"
+      },
+      {
+        "id": "XE7E07CCB-A929-4A3F-A82A-A59877EFFA27",
+        "text": "2David and Isaac P. Spear had entered into a partnership to open a mercantile establishment\n                  in Springfield, Illinois in September 1845.  They dissolved their partnership in August\n                  1851.  David purchased Isaac’s interest and continued the business on his own.Sangamo Journal(Springfield, IL), 25 September 1845, 2:5;Illinois Daily Journal(Springfield), 1 August 1851, 3:2;Logan & Lincoln mediated dispute between Spear & Spear, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141307."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Arbitration Award in Dispute between David Spear and Isaac P. Spear, 6 December\n               18511"
+      }
+    ],
+    "word_count": 16
+  },
+  "extraction_date": "2025-12-26 21:25:53",
+  "word_count": 16,
+  "processing": {
+    "cleaned": true,
+    "original_length": 110,
+    "cleaned_length": 96,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

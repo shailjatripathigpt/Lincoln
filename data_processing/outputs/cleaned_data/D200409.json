@@ -1,0 +1,62 @@
+{
+  "document_id": "D200409",
+  "url": "https://papersofabrahamlincoln.org/documents/D200409",
+  "metadata": {
+    "date": "1846-12-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers",
+      "Trials"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Hezekiah M. Wead, 6 December 18461 Yours by the hand of MrDavidsonwas duly received–2I will have your declaration filed and rule taken to-morrow, according toGunter– Your case of Nicholas vs Herbert, stands on the Docket No57—assigned to no particular day for trial– If the opposite party will be ready\n\nto try it, as soon as the court will, my opinion is you may come right along– My\n\nrecollection is, that I have never known^the trial of^a case in this court, delayed beyond the first week, where both parties were ready\n\nfor trial–3",
+    "paragraphs": [
+      "Abraham Lincoln to Hezekiah M. Wead, 6 December 18461 Yours by the hand of MrDavidsonwas duly received–2I will have your declaration filed and rule taken to-morrow, according toGunter– Your case of Nicholas vs Herbert, stands on the Docket No57—assigned to no particular day for trial– If the opposite party will be ready",
+      "to try it, as soon as the court will, my opinion is you may come right along– My",
+      "recollection is, that I have never known^the trial of^a case in this court, delayed beyond the first week, where both parties were ready"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XB94CF033-178B-43AF-B63D-A385418A1711",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also authored the address on the back\n                  page, which was folded to create an envelope for mailing."
+      },
+      {
+        "id": "X13E9CDA5-1A5C-4438-B3D3-AD64F9736B1E",
+        "text": "2Hezekiah M. Wead’s letter to Lincoln has not been located."
+      },
+      {
+        "id": "XDA9C5E0B-C2AE-4824-BAB7-A350A9E2A208",
+        "text": "3No record of either of these legal cases has been found."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Hezekiah M. Wead, 6 December 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours by the hand of MrDavidsonwas duly received–2I will have your declaration filed and rule taken to-morrow, according toGunter–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your case of Nicholas vs Herbert, stands on the Docket No57—assigned to no particular day for trial–  If the opposite party will be ready\n               to try it, as soon as the court will, my opinion is you may come right along–  My\n               recollection is, that I have never known^the trial of^a case in this court, delayed beyond the first week, where both parties were ready\n               for trial–3"
+      }
+    ],
+    "word_count": 95
+  },
+  "extraction_date": "2025-12-26 20:24:28",
+  "word_count": 95,
+  "processing": {
+    "cleaned": true,
+    "original_length": 598,
+    "cleaned_length": 554,
+    "preserved_originality": true
+  }
+}

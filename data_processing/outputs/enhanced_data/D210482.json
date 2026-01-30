@@ -1,0 +1,88 @@
+{
+  "document_id": "D210482",
+  "url": "https://papersofabrahamlincoln.org/documents/D210482",
+  "metadata": {
+    "date": "1849-05-24",
+    "authors": [
+      "Chapman, Augustus H."
+    ],
+    "keywords": [
+      "Diseases",
+      "Fathers and sons",
+      "Lincoln family"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-05-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "very",
+      "bring",
+      "them",
+      "heart",
+      "time",
+      "last",
+      "few",
+      "days",
+      "see",
+      "your",
+      "glad",
+      "augustus",
+      "chapman",
+      "abraham"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Augustus H. Chapman to Abraham Lincoln, 24 May 18491 at the special request ofJ D JohnsinI write you to inform you of the very Severe illness of yourFather.2He was atacked with a disease of the Heart Some time Since & for the last few days Has been getting much Worse & at this time He is very\n\nLow indeed He is very anxious to See you before He dies & I am told that His Cries\n\nfor you for the Last few days are truly Heart-Rendering.3He wishes you to come & See Him instantly if you possibly can, If you are fearfull of leaving your family on account of the Cholera & can bring them with you we would\n\nbe very glad for you to bring them with you.4the Health of our place is excelent &Harriett& I would be very glad to Have bring them with you as we are very comfortably fixed\n\n& will do all we can to render your Stay agreeable.",
+    "paragraphs": [
+      "Augustus H. Chapman to Abraham Lincoln, 24 May 18491 at the special request ofJ D JohnsinI write you to inform you of the very Severe illness of yourFather.2He was atacked with a disease of the Heart Some time Since & for the last few days Has been getting much Worse & at this time He is very",
+      "Low indeed He is very anxious to See you before He dies & I am told that His Cries",
+      "for you for the Last few days are truly Heart-Rendering.3He wishes you to come & See Him instantly if you possibly can, If you are fearfull of leaving your family on account of the Cholera & can bring them with you we would",
+      "be very glad for you to bring them with you.4the Health of our place is excelent &Harriett& I would be very glad to Have bring them with you as we are very comfortably fixed",
+      "& will do all we can to render your Stay agreeable."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Charles E. Rosenberg,The Cholera Years: The United States in 1832, 1849, and 1866(Chicago: The University of Chicago Press, 1987); G. F. Pyle, “The Diffusion of Cholera\n                     in the United States in the Nineteenth Century,”Geographical Analysis, 1:1  (January 1969), 65-67."
+    ],
+    "footnotes": [
+      {
+        "id": "X08AEF97E-8FBE-4321-8EDC-09CE3448E7F0",
+        "text": "1Augustus H. Chapman wrote and signed this letter."
+      },
+      {
+        "id": "X5C0F9839-012C-4C02-9CEC-198F5F27199E",
+        "text": "2“J D Johnsin” is a misspelling of John D. Johnston, who was Abraham Lincoln’s stepbrother.\n                  Johnston alsowroteto Lincoln the day after Chapman wrote this letter."
+      },
+      {
+        "id": "X484B875C-775B-4D83-A223-41C391DEB4C8",
+        "text": "3A few days after writing this letter, ChapmanwroteLincoln again to apologize for any trouble this letter caused, since it turned out\n                  Lincoln’s father was not dying."
+      },
+      {
+        "id": "X678A9035-5FD2-45F6-96D6-63554884C5BC",
+        "text": "4There were several major outbreaks of cholera in the United States in the nineteenth\n                  century, including in 1849. That year, the outbreak reachedIllinoisin the spring.Charles E. Rosenberg,The Cholera Years: The United States in 1832, 1849, and 1866(Chicago: The University of Chicago Press, 1987); G. F. Pyle, “The Diffusion of Cholera\n                     in the United States in the Nineteenth Century,”Geographical Analysis, 1:1  (January 1969), 65-67."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Augustus H. Chapman to Abraham Lincoln, 24 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "at the special request ofJ D JohnsinI write you to inform you of the very Severe illness of yourFather.2He was atacked with a disease of the Heart Some time Since & for the last few days Has been getting much Worse & at this time He is very\n               Low indeed He is very anxious to See you before He dies & I am told that His Cries\n               for you for the Last few days are truly Heart-Rendering.3He wishes you to come & See Him instantly if you possibly can, If you are fearfull of leaving your family on account of the Cholera & can bring them with you we would\n               be very glad for you to bring them with you.4the Health of our place is excelent  &Harriett& I would be very glad to Have bring them with you as we are very comfortably fixed\n               & will do all we can to render your Stay agreeable."
+      }
+    ],
+    "word_count": 164
+  },
+  "extraction_date": "2025-12-26 21:15:19",
+  "word_count": 164,
+  "processing": {
+    "cleaned": true,
+    "original_length": 887,
+    "cleaned_length": 830,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

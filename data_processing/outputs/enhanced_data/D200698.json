@@ -1,0 +1,94 @@
+{
+  "document_id": "D200698",
+  "url": "https://papersofabrahamlincoln.org/documents/D200698",
+  "metadata": {
+    "date": "1851-11-09",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Lincoln family",
+      "Real property",
+      "Land tenure",
+      "Education"
+    ],
+    "type": "Letter",
+    "extracted_date": "1851-11-09",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "not",
+      "him",
+      "when",
+      "before",
+      "get",
+      "object",
+      "make",
+      "take",
+      "abraham",
+      "lincoln",
+      "john",
+      "johnston",
+      "november",
+      "wrote",
+      "you"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John D. Johnston, 9 November 18511 When I wrote you before I had not received your letter–2I still think as I did; but if the land can besosold so that I get three hundred dollars to put to interest formother, I will not object if she does not– But before I will make a deed, the money must\n\nbe had, or secured, beyond all doubt, at ten per cent–3 As toAbram, I do not want himonmyownaccount; but I understand he wants to live with me so that he can go to school, and get a\n\nfair start in the world, which I very much wish him to have– When I reach home, if\n\nI can make it convenient to take, I will take him, provided there is no mistake between\n\nus as to the object and terms of my taking him–4",
+    "paragraphs": [
+      "Abraham Lincoln to John D. Johnston, 9 November 18511 When I wrote you before I had not received your letter–2I still think as I did; but if the land can besosold so that I get three hundred dollars to put to interest formother, I will not object if she does not– But before I will make a deed, the money must",
+      "be had, or secured, beyond all doubt, at ten per cent–3 As toAbram, I do not want himonmyownaccount; but I understand he wants to live with me so that he can go to school, and get a",
+      "fair start in the world, which I very much wish him to have– When I reach home, if",
+      "I can make it convenient to take, I will take him, provided there is no mistake between",
+      "us as to the object and terms of my taking him–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John D. Johnston and Sarah Lincoln; “Dower,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:207, 812."
+    ],
+    "footnotes": [
+      {
+        "id": "X8719702A-3B1B-4099-B240-FEAEFFE2EBDB",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XCC621B42-1BB1-459A-BB3A-0EA84E83FAAD",
+        "text": "2Lincoln had written John D. Johnston aletterNovember 4, 1851. Johnston’s letter to him, referenced here, has not been located."
+      },
+      {
+        "id": "X4066348E-138B-4938-BC93-7F7541432148",
+        "text": "3Johnston wanted to sell both the land that he owned and the land that his mother,Sarah Lincoln, owned as part of her dower inherited after her husband,Thomas Lincoln, died. Dower was a form of estate that provided for a widow’s needs out of her husband's\n                  real and personal property, and such property was not subject to creditor’s demands.\n                  In antebellumIllinois, the widow of a man with children received one-third of the land that her husband\n                  owned at any time during their marriage for the rest of her life, unless she relinquished\n                  her dower rights in the prescribed manner. If her deceased husband had no children,\n                  the widow received outright ownership of one-half of the estate.In Sarah Lincoln’s case, since Abraham Lincoln was his father’s sole heir, she was\n                  due one-third of the land that Thomas Lincoln had owned during their marriage. In\n                  adeeddated August 12, 1851, Abraham andMary Lincolngifted Johnston the land which Lincoln had inherited from his father. However, Sarah\n                  Lincoln’s right of dower passed along with this transfer of property, meaning that\n                  the land Abraham  and Mary Lincoln gifted Johnston in the deed was still subject to\n                  her right of dower. She remained entitled to one-third of the land that Thomas Lincoln\n                  had owned during their marriage.Lincoln wrote Johnston anotherletteron this topic on November 25, 1851.Abraham Lincoln to John D. Johnston and Sarah Lincoln; “Dower,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+      },
+      {
+        "id": "X78C5D7C1-A3D8-4642-A8EC-DB8AF6658D39",
+        "text": "4According to recollections recorded in 1866, Mary Lincoln reportedly refused to permitAbraham L. B. Johnstonto live at the Lincoln home inSpringfield.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:207, 812."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John D. Johnston, 9 November 18511"
+      },
+      {
+        "type": "paragraph",
+        "text": "When I wrote you before I had not received your  letter–2I still think as I did; but if the land can besosold so that I get three hundred dollars to put to interest formother, I will not object if she does not–  But before I will make a deed, the money must\n               be had, or secured, beyond all doubt, at ten per cent–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "As toAbram, I do not want himonmyownaccount; but I understand he wants to live with me so that he can go to school, and get a\n               fair start in the world, which I very much wish him to have–  When I reach home, if\n               I can make it convenient to take, I will take him, provided there is no mistake between\n               us as to the object and terms of my taking him–4"
+      }
+    ],
+    "word_count": 144
+  },
+  "extraction_date": "2025-12-26 21:25:38",
+  "word_count": 144,
+  "processing": {
+    "cleaned": true,
+    "original_length": 774,
+    "cleaned_length": 715,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

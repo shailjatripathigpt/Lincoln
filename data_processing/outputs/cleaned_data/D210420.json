@@ -1,0 +1,58 @@
+{
+  "document_id": "D210420",
+  "url": "https://papersofabrahamlincoln.org/documents/D210420",
+  "metadata": {
+    "date": "1849-04-25",
+    "authors": [
+      "Andrews, Timothy P."
+    ],
+    "keywords": [
+      "Military pensions",
+      "Military service, Voluntary",
+      "Soldiers"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Timothy P. Andrews to Abraham Lincoln, 25 April 18491 Your letter of the 13thApril inst. making enquiries as to the claim for 3 months extra pay due Jno. J. Miller\n\nPrivate K Company 6thInfantry,2addressed to thePay Master Generalhas been refered to me. In reply I state that the claim was paid to you, in person, at my office,^in cash,^on the 20thof January last; & your receipt annexed to the claim accordingly.",
+    "paragraphs": [
+      "Timothy P. Andrews to Abraham Lincoln, 25 April 18491 Your letter of the 13thApril inst. making enquiries as to the claim for 3 months extra pay due Jno. J. Miller",
+      "Private K Company 6thInfantry,2addressed to thePay Master Generalhas been refered to me. In reply I state that the claim was paid to you, in person, at my office,^in cash,^on the 20thof January last; & your receipt annexed to the claim accordingly."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XFE2C0DEF-E5CA-4BE4-8926-0ACE5BEEE421",
+        "text": "1Timothy P. Andrews wrote and signed this letter."
+      },
+      {
+        "id": "X8F6268C9-6F73-43B9-AE25-A0E56A3972B1",
+        "text": "2Abraham Lincoln’s letter of April 13, 1849, has not been located.John J. Miller could not be positively identified."
+      },
+      {
+        "id": "KBC167262184904250010_1",
+        "text": "3\"Your\" written over \"Respec\"."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Timothy P. Andrews to Abraham Lincoln, 25 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 13thApril inst. making enquiries as to the claim for 3 months extra pay due Jno. J. Miller\n               Private K Company 6thInfantry,2addressed to thePay Master Generalhas been refered to me. In reply I state that the claim was paid to you, in person, at my office,^in cash,^on the 20thof January last; & your receipt annexed to the claim accordingly."
+      }
+    ],
+    "word_count": 71
+  },
+  "extraction_date": "2025-12-26 20:40:48",
+  "word_count": 71,
+  "processing": {
+    "cleaned": true,
+    "original_length": 427,
+    "cleaned_length": 413,
+    "preserved_originality": true
+  }
+}

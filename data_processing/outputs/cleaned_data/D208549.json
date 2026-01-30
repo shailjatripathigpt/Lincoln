@@ -1,0 +1,63 @@
+{
+  "document_id": "D208549",
+  "url": "https://papersofabrahamlincoln.org/documents/D208549",
+  "metadata": {
+    "date": "1848-01-04",
+    "authors": [
+      "Fisher, George S."
+    ],
+    "keywords": [
+      "Armies--Officers",
+      "Legislators",
+      "Military appointments"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "George S. Fisher to Abraham Lincoln, 4 January 18481 Being an applicant for a Commission in thearmyand anxious to secure so desireable a post if possible I have requested my late Col. and friendW. B. Warrento write you on the subject. He has accordingly sent me theletter, enclosed with this, directed to you which I refer you to with much gratification. Permit me also to refer you to the recommend from my fellow citizens now in the hands\n\nof Mr.Wentworthto be presented by him to the Executive: also to letters to other members of the\n\ndelegation. Any assistance you may feel inclined to render me will be fully appreciated by your",
+    "paragraphs": [
+      "George S. Fisher to Abraham Lincoln, 4 January 18481 Being an applicant for a Commission in thearmyand anxious to secure so desireable a post if possible I have requested my late Col. and friendW. B. Warrento write you on the subject. He has accordingly sent me theletter, enclosed with this, directed to you which I refer you to with much gratification. Permit me also to refer you to the recommend from my fellow citizens now in the hands",
+      "of Mr.Wentworthto be presented by him to the Executive: also to letters to other members of the",
+      "delegation. Any assistance you may feel inclined to render me will be fully appreciated by your"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X2BB201C9-CA7C-450F-BCF0-D48ED0136801",
+        "text": "1George S. Fisher wrote and signed the letter. This letter enclosedWilliam B. Warren to Abraham Lincoln."
+      },
+      {
+        "id": "X52BF8E5B-69FA-44E3-A5BF-A4F7851E812A",
+        "text": "2It does not appear that Fisher received a commission."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "George S. Fisher to Abraham Lincoln, 4 January 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Being an applicant for a Commission in thearmyand anxious to secure so desireable a post if possible I have requested my late Col.[Colonel] and friendW. B. Warrento write you on the subject. He has accordingly sent me theletter, enclosed with this, directed to you which I refer you to with much gratification."
+      },
+      {
+        "type": "paragraph",
+        "text": "Permit me also to refer you to the recommend from my fellow citizens now in the hands\n               of Mr.Wentworthto be presented by him to the Executive: also to letters to other members of the\n               delegation."
+      },
+      {
+        "type": "paragraph",
+        "text": "Any assistance you may feel inclined to render me will be fully appreciated by your"
+      }
+    ],
+    "word_count": 111
+  },
+  "extraction_date": "2025-12-26 20:26:15",
+  "word_count": 111,
+  "processing": {
+    "cleaned": true,
+    "original_length": 671,
+    "cleaned_length": 634,
+    "preserved_originality": true
+  }
+}

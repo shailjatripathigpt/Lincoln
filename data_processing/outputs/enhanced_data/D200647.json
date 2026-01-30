@@ -1,0 +1,84 @@
+{
+  "document_id": "D200647",
+  "url": "https://papersofabrahamlincoln.org/documents/D200647",
+  "metadata": {
+    "date": "1850-02-25",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1850-02-25",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "letter",
+      "abraham",
+      "lincoln",
+      "john",
+      "murray",
+      "february",
+      "ninianhanded",
+      "your",
+      "consequence",
+      "written",
+      "accompanying",
+      "see",
+      "ninian",
+      "stuarthave"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John Murray, 25 February 18501 Ninianhanded me your letter,2in consequence of which I have written the accompanying letter, which as you see,\n\nNinian &Stuarthave also signed–3I addressed it to thePresident, because you can then send it to whom you please to present to him; and becauseBaker&ButterfieldI believe are not very cordial with one another–4Either alone would do better–",
+    "paragraphs": [
+      "Abraham Lincoln to John Murray, 25 February 18501 Ninianhanded me your letter,2in consequence of which I have written the accompanying letter, which as you see,",
+      "Ninian &Stuarthave also signed–3I addressed it to thePresident, because you can then send it to whom you please to present to him; and becauseBaker&ButterfieldI believe are not very cordial with one another–4Either alone would do better–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to William B. Warren and Others; Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 418-19."
+    ],
+    "footnotes": [
+      {
+        "id": "XA046745A-BB84-44AF-8DA7-FAF4D2CC9691",
+        "text": "1Abraham Lincoln wrote and signed this letter. He also wrote the name and address for\n                  John Murray on the envelope in the second image, but he did not write  the return\n                  address on the envelope or the text “John Throne” in the second image."
+      },
+      {
+        "id": "X23B59AC1-20AB-42C8-B1DF-CC69E49854A7",
+        "text": "2No letter from John Murray to Lincoln in early 1850 has been located."
+      },
+      {
+        "id": "X5A7E3D42-EDE6-4EAD-9E34-68BEB70DAB7B",
+        "text": "3The enclosed letter Lincoln refers to, addressed to President Zachary Taylor and containing\n                  the signatures of Lincoln, Ninian W. Edwards, and John T. Stuart, has not been located.\n                  Some of the context for the content of this letter to Murray is therefore missing."
+      },
+      {
+        "id": "X1B365395-271F-4C45-ADD9-AD63700D5230",
+        "text": "4Tensions most likely existed between Edward D. Baker and Justin H. Butterfield due\n                  to Baker’s views about President Taylor’s handling of political patronage appointments\n                  in general, and of Butterfield’s appointment as commissioner of theU.S. General Land Officein particular. In the aftermath of theWhigvictory in the1848 election, Baker had sought a position in Taylor’s cabinet. LincolnwroteTaylor  to urge Baker’s appointment, enclosing apetitionendorsing Baker signed by the Whig members of theIllinois General Assembly.   Yet Taylor did not offer Baker a cabinet position.Taylor did, however, appoint Butterfield commissioner of the U.S. General Land Office,\n                  someone whom both Baker and Lincoln had objected to as a candidate for the prominent\n                  patronage position. As Lincoln explained in a May 16, 1849lettertoWilliam B. Prestonprior to Taylor’s decision, he believed the appointment of Butterfield to such a\n                  valuable patronage position  would represent an affront to Whigs ofIllinoiswho had worked so hard to get Taylor nominated andelected president. Both Baker and Lincoln backed other candidates for the appointment, and Lincoln\n                  eventually lobbied for the position himself after learning that Butterfield was favored\n                  for the job. See theGeneral Land Office Affair. The Taylor administration received heavy criticism for its handling of political\n                  patronage appointments, particularly after theDemocratic Partywon numerous elections in 1849, and many Illinois Whigs in addition to Baker and\n                  Lincoln were upset by Butterfield’s appointment.Abraham Lincoln to William B. Warren and Others; Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 418-19."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John Murray, 25 February 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ninianhanded me your letter,2in consequence of which I have written the accompanying letter, which as you see,\n               Ninian &Stuarthave also signed–3I addressed it to thePresident, because you can then send it to whom you please to present to him; and becauseBaker&ButterfieldI believe are not very cordial with one another–4Either alone would do better–"
+      }
+    ],
+    "word_count": 61
+  },
+  "extraction_date": "2025-12-26 21:22:26",
+  "word_count": 61,
+  "processing": {
+    "cleaned": true,
+    "original_length": 413,
+    "cleaned_length": 399,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

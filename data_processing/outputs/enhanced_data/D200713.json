@@ -1,0 +1,83 @@
+{
+  "document_id": "D200713",
+  "url": "https://papersofabrahamlincoln.org/documents/D200713",
+  "metadata": {
+    "date": "1852-06-25",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Land titles--Registration and transfer",
+      "Minors",
+      "Guardian and ward"
+    ],
+    "type": "Letter",
+    "extracted_date": "1852-06-25",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "onslow",
+      "peters",
+      "june"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Onslow Peters, 25 June 18521",
+    "paragraphs": [
+      "Abraham Lincoln to Onslow Peters, 25 June 18521"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Benjamin Shurtleff,Descendants of William Shurtleff of Plymouth and Marshfield, Massachusetts(Revere, MA: Benjamin Shurtleff, 1912), 1:157. For a full list of Milton Shurtleff's\n                     land purchases in Tazewell County, search \"Shurtleff Milton\" and \"Shurtliff Milton,\"https://www.ilsos.gov/isa/landsrch.jsp.",
+      "Wells v. Clark, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136339; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:120-21."
+    ],
+    "footnotes": [
+      {
+        "id": "X3A73AB6D-8914-4BD3-AE6E-A39D95122CE2",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XE7633BB4-452D-42E0-BB31-AE696F209E6D",
+        "text": "2Onslow Peters’ letter to Lincoln has not been located."
+      },
+      {
+        "id": "X715FE84A-CD8D-45F6-BE40-881639D81E39",
+        "text": "3John W. Gere could not be positively identified."
+      },
+      {
+        "id": "XC1C90B5F-89B4-4A56-9CD1-35AAC4EA4C9A",
+        "text": "4This is most likely a reference toBenjamin Shurtleff."
+      },
+      {
+        "id": "X99755AAB-6646-4E98-9F6D-C91F2C2E4751",
+        "text": "5Lot Shurtleff was likely the “sole heir” Lincoln references. He wasMilton Shurtleff’s second son, by his first marriage. His first son, Benjamin Shurtleff, died in 1842.Although public land sale records confirm that Milton Shurtleff purchased hundreds\n                  of acres of public land in Tazewell County between 1831 and 1834, there are no public\n                  land sales in Tazewell County under either of Shurtleff’s son’s names. It is possible,\n                  however, that the lands Lincoln mentions that Milton invested in his son or sons’\n                  names in Tazewell County were private land sales.Benjamin Shurtleff,Descendants of William Shurtleff of Plymouth and Marshfield, Massachusetts(Revere, MA: Benjamin Shurtleff, 1912), 1:157. For a full list of Milton Shurtleff's\n                     land purchases in Tazewell County, search \"Shurtleff Milton\" and \"Shurtliff Milton,\"https://www.ilsos.gov/isa/landsrch.jsp."
+      },
+      {
+        "id": "XF637459E-CAC9-4BEE-831D-4C6519BE865A",
+        "text": "6Lincoln was familiar with the Shurtleff family, and Milton Shurtleff in particular,\n                  since the latter had participated in at least one legal case in which Lincoln was\n                  directly involved. However, neither Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, nor the editors have been able to identify the case referred to in this letter.\n                  No records related to a legal case between a John W. Gere and any member of the Shurtleff\n                  family have been located. Not only is it unclear if the case Lincoln outlines above\n                  involved the Gere that Peters inquired about, since Lincoln himself notes that he\n                  is unsure; it is also unclear if the land dispute between the person Lincoln believed\n                  could have been Gere and one of the Shurtleffs ever went to trial, since, as Lincoln\n                  writes, records held in Morgan County’s seat of Jacksonville revealed that Gere’s\n                  claim was “valueless.”Wells v. Clark, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136339; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:120-21."
+      },
+      {
+        "id": "X7E624267-18CC-4337-BEE6-3C6C155EAF70",
+        "text": "7It is unclear who wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Onslow Peters, 25 June 18521"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 21:26:27",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 47,
+    "cleaned_length": 47,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

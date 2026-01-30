@@ -1,0 +1,56 @@
+{
+  "document_id": "D200452",
+  "url": "https://papersofabrahamlincoln.org/documents/D200452",
+  "metadata": {
+    "date": "1848-01-29",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Battle casualties",
+      "Soldiers--Death",
+      "Military service, Voluntary",
+      "Wages",
+      "Land titles"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. McCalla, 29 January 18481 A young man by the name ofAndrew Hodge, went toMexicoas a volunteer inCaptElkin's companyofin the4thRegiment of Illinois volunteers, commanded byCol. Baker– He died somewhere on theRio Grandein the fall of 1846–2His father,W H. Hodge, wishes to draw the arrearage of his pay, and also to get his land warrant–3He writes me that he sent the papers to your office last summer, and received a note\n               from you acknowledging the receipt of them, since when, he^has^heard nothing about the matter– Will you please inform me what, if any thing, I can\n               do to advance the matter?–",
+    "paragraphs": [
+      "Abraham Lincoln to John M. McCalla, 29 January 18481",
+      "A young man by the name ofAndrew Hodge, went toMexicoas a volunteer inCaptElkin's companyofin the4thRegiment of Illinois volunteers, commanded byCol. Baker– He died somewhere on theRio Grandein the fall of 1846–2His father,W H. Hodge, wishes to draw the arrearage of his pay, and also to get his land warrant–3He writes me that he sent the papers to your office last summer, and received a note\n               from you acknowledging the receipt of them, since when, he^has^heard nothing about the matter– Will you please inform me what, if any thing, I can\n               do to advance the matter?–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Isaac H. Elliott,Record of the Services of Illinois Soldiers in the Black Hawk War, 1831-32, and in\n                        the Mexican War, 1846-8(Springfield, IL: H. W. Rokker, 1882), 289.",
+      "“An Act to Raise for  a Limited Time an Additional Military Force, and for Other Purposes,”\n                     11 February 1847,Statutes at Large of the United States9 (1862):125-26."
+    ],
+    "footnotes": [
+      {
+        "id": "XCF99033A-3D6B-452D-9D01-39FD00076D3B",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X50A9E6FB-F1F5-4048-A327-D27F82F1FF94",
+        "text": "2Andrew Hodge died on September 9, 1846.Isaac H. Elliott,Record of the Services of Illinois Soldiers in the Black Hawk War, 1831-32, and in\n                        the Mexican War, 1846-8(Springfield, IL: H. W. Rokker, 1882), 289."
+      },
+      {
+        "id": "XC6BE2339-838B-496A-A2F4-B6D069ADD893",
+        "text": "3The land claim came under provisions of section nine of an act passed byCongresson February 11, 1847.“An Act to Raise for  a Limited Time an Additional Military Force, and for Other Purposes,”\n                     11 February 1847,Statutes at Large of the United States9 (1862):125-26."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. McCalla, 29 January 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "A young man by the name ofAndrew Hodge, went toMexicoas a volunteer inCaptElkin's companyofin the4thRegiment of Illinois volunteers, commanded byCol. Baker– He died somewhere on theRio Grandein the fall of 1846–2His father,W H. Hodge, wishes to draw the arrearage of his pay, and also to get his land warrant–3He writes me that he sent the papers to your office last summer, and received a note\n               from you acknowledging the receipt of them, since when, he^has^heard nothing about the matter– Will you please inform me what, if any thing, I can\n               do to advance the matter?–"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:27:05",
+  "word_count": 104
+}

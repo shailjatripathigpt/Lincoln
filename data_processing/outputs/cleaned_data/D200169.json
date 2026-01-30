@@ -1,0 +1,59 @@
+{
+  "document_id": "D200169",
+  "url": "https://papersofabrahamlincoln.org/documents/D200169",
+  "metadata": {
+    "date": "1839-02-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveying"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill Authorizing a Survey Therein Named,\" 1 \"That the Board of Public Works shall so soon as convenience will permit,2detail a competent engineer to survey a route commencing at or near the point where\n\nthe present location of theCentral Rail Roadcrosses Drury's Creek inJackson county; thence viaFrankfortinFranklin county,Mount VernoninJefferson county, andSaleminMarion countyto apintpoint on the present location of the aforesaid Rail Road at or nearVandalia— Said Board shall also detail a competent engineer to survey another route between\n\nthe same starting and terminating points to pass^at or near the coal banks onmudy— thence^3throughPinckneyvilleinPerry county,NashvilleinWashington county, andCarlyleinClinton county—",
+    "paragraphs": [
+      "Amendment to “A Bill Authorizing a Survey Therein Named,\" 1 \"That the Board of Public Works shall so soon as convenience will permit,2detail a competent engineer to survey a route commencing at or near the point where",
+      "the present location of theCentral Rail Roadcrosses Drury's Creek inJackson county; thence viaFrankfortinFranklin county,Mount VernoninJefferson county, andSaleminMarion countyto apintpoint on the present location of the aforesaid Rail Road at or nearVandalia— Said Board shall also detail a competent engineer to survey another route between",
+      "the same starting and terminating points to pass^at or near the coal banks onmudy— thence^3throughPinckneyvilleinPerry county,NashvilleinWashington county, andCarlyleinClinton county—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     482, 563-64, 588, 601; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 383, 468, 475-76, 495, 501."
+    ],
+    "footnotes": [
+      {
+        "id": "X6F094A97-0969-46C4-B675-16E646021886",
+        "text": "1Abraham Lincoln wrote this  amendment  as a substitute to a  bill originating in and\n                  passed by theSenateon or before February 22, 1839.  The original bill text has not been located. On\n                  February 28,John Crainintroduced Lincoln’s substitute in theHouse of Representatives, and the House adopted it.  The House passed the bill as substituted.  On March 1,\n                  the Senate concurred in the House amendment. On March 2, theCouncil of Revisionapproved the bill and theactbecame law.Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     482, 563-64, 588, 601; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 383, 468, 475-76, 495, 501."
+      },
+      {
+        "id": "X74B3C16C-88F9-42E9-A7C7-4150FA956BCA",
+        "text": "2The Board of Public Works was a seven-person board created in 1837 by theinternal improvement actto promote, maintain, supervise, and direct theinternal improvements system."
+      },
+      {
+        "id": "X061462C3-3974-4BFC-BC5E-F7C60EE80625",
+        "text": "3This addition is not in Lincoln’s hand."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill Authorizing a Survey Therein Named,\" [28 February 1839]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "\"That the Board of Public Works shall so soon as convenience will permit,2detail a competent engineer to survey a route commencing at or near the point where\n                  the present location of theCentral Rail Roadcrosses Drury's Creek inJackson county;  thence viaFrankfortinFranklin county,Mount VernoninJefferson county, andSaleminMarion countyto apintpoint on the present location of the aforesaid Rail Road at or nearVandalia— Said Board shall also detail a competent engineer to survey another route between\n                  the same starting and terminating points to pass^at or near the coal banks onmudy— thence^3throughPinckneyvilleinPerry county,NashvilleinWashington county, andCarlyleinClinton county—"
+      }
+    ],
+    "word_count": 100
+  },
+  "extraction_date": "2025-12-26 20:08:48",
+  "word_count": 102,
+  "processing": {
+    "cleaned": true,
+    "original_length": 799,
+    "cleaned_length": 746,
+    "preserved_originality": true
+  }
+}

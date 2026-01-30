@@ -1,0 +1,88 @@
+{
+  "document_id": "D271815",
+  "url": "https://papersofabrahamlincoln.org/documents/D271815",
+  "metadata": {
+    "date": "1855-04-10",
+    "authors": [
+      "Davis, David"
+    ],
+    "keywords": [
+      "Judges--Election"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "David Davis to Thomas Moffett and Others, 10 April 18551 I am in receipt of yourfavor, of the 30th ult., soliciting me to become a candidate for re-election to the office\n\nwhich I now hold.2 I am also in receipt of similar communications from other counties of thecircuit.3 The unanimity of the bar inSpringfieldin making this request, and the approbation which they have been pleased to bestow\n\nupon my judicial course— is very gratifying to me. The question of my longer continuance in office, has engaged my thoughts for some\n\ntime past; and the near approach of the election rendering a decision necessary, has\n\nnot lessened my reluctanceing4one. be unprofitable to trouble you with they own mind on the subject. As the resultve my assent to announce me as a candidate for re-election to the office of Judge\n\nof this Judicial Circuit.5",
+    "paragraphs": [
+      "David Davis to Thomas Moffett and Others, 10 April 18551 I am in receipt of yourfavor, of the 30th ult., soliciting me to become a candidate for re-election to the office",
+      "which I now hold.2 I am also in receipt of similar communications from other counties of thecircuit.3 The unanimity of the bar inSpringfieldin making this request, and the approbation which they have been pleased to bestow",
+      "upon my judicial course— is very gratifying to me. The question of my longer continuance in office, has engaged my thoughts for some",
+      "time past; and the near approach of the election rendering a decision necessary, has",
+      "not lessened my reluctanceing4one. be unprofitable to trouble you with they own mind on the subject. As the resultve my assent to announce me as a candidate for re-election to the office of Judge"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Daily Journal(Springfield), 13 April 1855, 3:1.",
+      "“An Act to Reduce the Limits of the Eighth Judicial Circuit, and to Fix the Times\n                     of Holding Courts Therein,” 3 February 1853,General Laws of Illinois(1853),  63-64.",
+      "Illinois Daily Journal(Springfield), 14 April 1855, 3:1.",
+      "Illinois Daily Journal(Springfield), 25 April 1855, 3:2; 4 May 1855, 3:2;Dewitt Courier(Clinton, IL), 8 June 1855, 2:1;The Weekly Rock Island Republican(IL), 4 July 1855, 3:3."
+    ],
+    "footnotes": [
+      {
+        "id": "X4AEA6323-59B2-4007-A25C-3F0BF90D7FB7",
+        "text": "1This letter is attributed to David Davis, but no manuscript version with his signature\n                  has been located."
+      },
+      {
+        "id": "X8C835635-0058-4A5F-A37F-5E76749034E4",
+        "text": "2Theletterof March 30, 1855 fromThomas Moffettand other members of the Springfield bar to which this is a response was published\n                  with this letter.Illinois Daily Journal(Springfield), 13 April 1855, 3:1."
+      },
+      {
+        "id": "X226B143A-8F3A-44C0-8788-A2E7B10EDD9F",
+        "text": "3The counties which comprised theEighth Judicial Circuitat this time wereChampaign,DeWitt,Logan,McLean,Sangamon,Tazewell,Vermilion, andWoodford.“An Act to Reduce the Limits of the Eighth Judicial Circuit, and to Fix the Times\n                     of Holding Courts Therein,” 3 February 1853,General Laws of Illinois(1853),  63-64."
+      },
+      {
+        "id": "X6E397411-8B38-4E10-B0B6-C3C0EDEB084B",
+        "text": "4The original source text has a hole, making the text illegible.  Here and below, the\n                  supplied text comes from the transcription in the April 14 edition of theIllinois Daily Journal.Illinois Daily Journal(Springfield), 14 April 1855, 3:1."
+      },
+      {
+        "id": "X02DD9EBF-85C9-46F9-9790-B7802DE1ECB3",
+        "text": "5Following publication of this letter andthatto which it responded, Davis’ candidacy for reelection as judge of the Eighth Judicial\n                  Circuit was announced in the press, and the election was held on Monday, June 4, 1855.\n                  Davis ran unopposed and won reelection with 1,170 votes.Illinois Daily Journal(Springfield), 25 April 1855, 3:2; 4 May 1855, 3:2;Dewitt Courier(Clinton, IL), 8 June 1855, 2:1;The Weekly Rock Island Republican(IL), 4 July 1855, 3:3."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "David Davis to Thomas Moffett and Others, 10 April 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am in receipt of yourfavor, of the 30th ult., soliciting me to become a candidate for re-election to the office\n               which I now hold.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am also in receipt of similar communications from other counties of thecircuit.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "The unanimity of the bar inSpringfieldin making this request, and the approbation which they have been pleased to bestow\n               upon my judicial course— is very gratifying to me."
+      },
+      {
+        "type": "paragraph",
+        "text": "The question of my longer continuance in office, has engaged my thoughts for some\n               time past; and the near approach of the election rendering a decision necessary, has\n               not lessened my reluctance[to mak]ing4one."
+      },
+      {
+        "type": "paragraph",
+        "text": "[It would]be unprofitable to trouble you with the[conflicts in m]y own mind on the subject.  As the result[– you ha]ve my assent to announce me as a candidate for re-election to the office of Judge\n               of this Judicial Circuit.5"
+      }
+    ],
+    "word_count": 142
+  },
+  "extraction_date": "2025-12-26 21:35:42",
+  "word_count": 148,
+  "processing": {
+    "cleaned": true,
+    "original_length": 954,
+    "cleaned_length": 839,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "document_id": "D200411",
+  "url": "https://papersofabrahamlincoln.org/documents/D200411",
+  "metadata": {
+    "date": "1847-02-25",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Poetry"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847-02-25",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "your",
+      "not",
+      "them",
+      "all",
+      "you",
+      "send",
+      "verses",
+      "any",
+      "paper",
+      "abraham",
+      "lincoln",
+      "andrew",
+      "johnston",
+      "february",
+      "yours"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Andrew Johnston, 25 February 18471 Yours of the 2d of December was duly delivered to me by Mr.Williams.2To say the least, I am not at all displeased with your<Page 2>proposal to publish the poetry, or doggerel, or whatever else it may be called, which\n\nI sent you. I consent that it may be done, together with the third canto, which I\n\nnow send you.3Whether the prefatory remarks in my letter shall be published with the verses, I\n\nleave entirely to your discretion; but let names be suppressed by all means. I have\n\nnot sufficient hope of the verses attracting any favorable notice to tempt me to risk\n\nbeing ridiculed for having written them.4 Why not drop into the paper, at the same time, the “half dozen stanzas of your own”?\n\nOr if, for any reason, it suit your feelings better, send them to me, and I will take\n\npleasure in putting them in the paper here. Family well, and nothing new.",
+    "paragraphs": [
+      "Abraham Lincoln to Andrew Johnston, 25 February 18471 Yours of the 2d of December was duly delivered to me by Mr.Williams.2To say the least, I am not at all displeased with your<Page 2>proposal to publish the poetry, or doggerel, or whatever else it may be called, which",
+      "I sent you. I consent that it may be done, together with the third canto, which I",
+      "now send you.3Whether the prefatory remarks in my letter shall be published with the verses, I",
+      "leave entirely to your discretion; but let names be suppressed by all means. I have",
+      "not sufficient hope of the verses attracting any favorable notice to tempt me to risk",
+      "being ridiculed for having written them.4 Why not drop into the paper, at the same time, the “half dozen stanzas of your own”?",
+      "Or if, for any reason, it suit your feelings better, send them to me, and I will take",
+      "pleasure in putting them in the paper here. Family well, and nothing new."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Quincy Whig(IL), 5 May 1847, 1:2."
+    ],
+    "footnotes": [
+      {
+        "id": "X046F23DF-C9BE-47A7-B5D0-73E9AF936FC8",
+        "text": "1An image of the original document was not available. This transcription is taken from\n                  the earliest published transcription of the document, in John G. Nicolay’s and John\n                  Hay’sComplete Works of Abraham Lincoln. The original document was written and signed by Abraham Lincoln."
+      },
+      {
+        "id": "X379D3BEC-B8A3-47BD-ADED-35FB0075DDA7",
+        "text": "2Andrew Johnston’s December 2, 1846 letter to Lincoln has not been located."
+      },
+      {
+        "id": "XE7A0F053-1EA7-497F-82AB-D4CF9157B1F8",
+        "text": "3In hisletterto Johnston on February 24, 1846, Lincoln stated that his poem of four cantos  was\n                  “almost done.” Lincoln sent the  first canto, entitled “My Childhood-Home I See Again,”\n                  to Johnston enclosed in aletterdated April 18, 1846. On September 6, 1846, Lincolnsentthe second canto to Johnston. A later poem, mentioned in theletterto Johnston on September 6, 1846, and titled “The Bear Hunt,” may represent the third canto of this piece. The fourth canto is unknown. The first\n                  two cantos were published anonymously in the May 5, 1847Quincy Whigunder the title “The Return,” with subtitles of “Part I--Reflection” and “Part II--The\n                  Maniac.”"
+      },
+      {
+        "id": "X767BF731-9447-4CF0-98DE-80A8C919C16B",
+        "text": "4The two cantos were published with quotations from Lincoln’sletterof April 18, 1846, as prefatory remarks to the poetry.Quincy Whig(IL), 5 May 1847, 1:2."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Andrew Johnston, 25 February 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 2d of December  was duly delivered to me by Mr.Williams.2To say the least, I am not at all displeased with your<Page 2>proposal to publish the poetry, or doggerel, or whatever else it may be called, which\n               I sent you.  I consent that it may be done, together with the third canto, which I\n               now send you.3Whether the prefatory remarks in my letter shall be published with the verses, I\n               leave entirely to your discretion; but let names be suppressed by all means.  I have\n               not sufficient hope of the verses attracting any favorable notice to tempt me to risk\n               being ridiculed for having written them.4"
+      },
+      {
+        "type": "paragraph",
+        "text": "Why not drop into the paper, at the same time, the “half dozen stanzas of your own”?\n               Or if, for any reason, it suit your feelings better, send them to me, and I will take\n               pleasure in putting them in the paper here. Family well, and nothing new."
+      }
+    ],
+    "word_count": 164
+  },
+  "extraction_date": "2025-12-26 20:24:33",
+  "word_count": 164,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1012,
+    "cleaned_length": 911,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

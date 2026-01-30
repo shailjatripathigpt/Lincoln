@@ -1,0 +1,89 @@
+{
+  "document_id": "D200148",
+  "url": "https://papersofabrahamlincoln.org/documents/D200148",
+  "metadata": {
+    "date": "1839-01-05",
+    "authors": [],
+    "keywords": [
+      "Parliamentary practice"
+    ],
+    "type": "Rule",
+    "extracted_date": "1839-01-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "member",
+      "rule",
+      "reading",
+      "motion",
+      "additional",
+      "rules",
+      "adopted",
+      "house",
+      "representatives",
+      "illinois",
+      "bill",
+      "committed",
+      "question",
+      "passage",
+      "excepton"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Additional Rules Adopted by the House of Representatives of Illinois, 1 Rule—No Bill shall be committed or amended2whenon the question of its passage, excepton^by^the consent of two thirds of all the Members present.3 Rule—When any petition^remonstrance or claim^is presented by a member and such member may not desire its reading, he may make\n\nthe motion to dispense with its reading and^ask its^reference at the time of presentation– and the chair may consider the motion as agreed\n\nto, unless some member should object and so state to theHouse4",
+    "paragraphs": [
+      "Additional Rules Adopted by the House of Representatives of Illinois, 1 Rule—No Bill shall be committed or amended2whenon the question of its passage, excepton^by^the consent of two thirds of all the Members present.3 Rule—When any petition^remonstrance or claim^is presented by a member and such member may not desire its reading, he may make",
+      "the motion to dispense with its reading and^ask its^reference at the time of presentation– and the chair may consider the motion as agreed",
+      "to, unless some member should object and so state to theHouse4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1838. 11th G. A., 1st sess., 167-68, 174.",
+      "Illinois HouseJournal. 1838. 11th G. A., 1st sess., 167.",
+      "Illinois HouseJournal. 1838. 11th G. A., 1st sess., 167.",
+      "Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     22-26."
+    ],
+    "footnotes": [
+      {
+        "id": "XCA920C89-722A-4256-9201-AD1DCC8D2B07",
+        "text": "1Although these rules are not inAbraham Lincoln’s handwriting, hisruleproposed the day before, together with a similaradditionproposed on December 11, 1834, suggests that he had a hand in their composition.On January 4, 1839, Abraham Lincoln proposed anadditionto the rules of theHouse of Representatives.  The House amended the proposed rule by striking out the words  “its engrossment\n                  for the.” The House tabled the rule.  On January 5, Lincoln introduced a further amended\n                  version of the first rule together with a second rule.   The House adopted both rules.Illinois HouseJournal. 1838. 11th G. A., 1st sess., 167-68, 174."
+      },
+      {
+        "id": "XF68D4FA3-29F2-4BE1-84B7-139D452E2A1D",
+        "text": "2In Lincoln’soriginal versionof the rule, the next words included “after its engrossment for the third reading,”\n                  On January 4, the House of Representatives struck out “its engrossment for the.”Illinois HouseJournal. 1838. 11th G. A., 1st sess., 167."
+      },
+      {
+        "id": "X2B535B6B-BFC2-41F5-960A-6D6879C572B9",
+        "text": "3Lincoln’soriginal versionof this rule read: “No bill shall be referred or amended after its engrossment for\n                  the third reading, without the consent of two-thirds of the members present.”Illinois HouseJournal. 1838. 11th G. A., 1st sess., 167."
+      },
+      {
+        "id": "XD8ABF502-3C52-42D0-AC49-2E8DCBA30EA3",
+        "text": "4There were fifty “Rules for the Government of the House of Representatives of the\n                  State of Illinois,” at the start of the 1st session of the 11thGeneral Assembly.Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     22-26."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Additional Rules Adopted by the House of Representatives of Illinois, [5 January 1839]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Rule—No Bill shall be committed or amended2whenon the question of its passage, excepton^by^the consent of two thirds of all the Members present.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Rule—When any petition^remonstrance or claim^is presented by a member and such member may not desire its reading, he may make\n               the motion to dispense with its reading and^ask its^reference at the time of presentation– and the chair may consider the motion as agreed\n               to, unless some member should object and so state to theHouse4"
+      }
+    ],
+    "word_count": 87
+  },
+  "extraction_date": "2025-12-26 20:07:30",
+  "word_count": 89,
+  "processing": {
+    "cleaned": true,
+    "original_length": 591,
+    "cleaned_length": 547,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

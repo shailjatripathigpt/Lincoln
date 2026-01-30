@@ -1,0 +1,69 @@
+{
+  "document_id": "D200826",
+  "url": "https://papersofabrahamlincoln.org/documents/D200826",
+  "metadata": {
+    "date": "1854-12-18",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legal opinions",
+      "Ordinances, Municipal",
+      "Poor",
+      "Public welfare",
+      "Immigrants"
+    ],
+    "type": "Opinion"
+  },
+  "content": {
+    "full_text": "Opinion Regarding John Fitzgerald, 18 December 18541 John Fitzgerald, eighteen years of age, able-bodied, but without pecuniary means, came directly fromIrelandtoSpringfield Illinois, and there stopped, and sought employment, with no present intention of returning\n\nto Ireland, or going elsewhere– After remaining in^the^Citysome three weeks, part of the time employed, and part not, he fell sick, and became\n\na public charge– It has been submitted to me, whether the City of Springfield, or\n\nthe County ofSangamonis, by law, to bear the charge–2 It is my opinion, and decision, that the City is to bear it– I base this upon the\n\nconstruction I give the 4thSection of the 13thArticle of the New City charter (Approved March 2, 1854) I think theLegislatureintended that all public charges, arising from the indigence of persons,residentwithin the City, were to be borne by the City— and not by theCounty– I think it was not the intention that this class of charges was to be parcelled out between the City and county, by critical discussions on the words “citizen” “pauper”\n\nand the like–3",
+    "paragraphs": [
+      "Opinion Regarding John Fitzgerald, 18 December 18541 John Fitzgerald, eighteen years of age, able-bodied, but without pecuniary means, came directly fromIrelandtoSpringfield Illinois, and there stopped, and sought employment, with no present intention of returning",
+      "to Ireland, or going elsewhere– After remaining in^the^Citysome three weeks, part of the time employed, and part not, he fell sick, and became",
+      "a public charge– It has been submitted to me, whether the City of Springfield, or",
+      "the County ofSangamonis, by law, to bear the charge–2 It is my opinion, and decision, that the City is to bear it– I base this upon the",
+      "construction I give the 4thSection of the 13thArticle of the New City charter (Approved March 2, 1854) I think theLegislatureintended that all public charges, arising from the indigence of persons,residentwithin the City, were to be borne by the City— and not by theCounty– I think it was not the intention that this class of charges was to be parcelled out between the City and county, by critical discussions on the words “citizen” “pauper”"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“Chapter LXXX: Paupers,” 3 March 1845,Revised Statutes of Illinois(1845), 402-5; “An Act to Reduce the ‘Act Incorporating the City of Springfield,’\n                     and the Several Acts Amendatory Thereof, Into One Act, and to Amend the Same,” 2 March\n                     1854,Private Laws of Illinois(1854), 35, 69-70."
+    ],
+    "footnotes": [
+      {
+        "id": "XD5FA27E5-1012-491C-A301-9B42BBF60928",
+        "text": "1Abraham Lincoln wrote and signed this document."
+      },
+      {
+        "id": "XF7632F90-37F0-437B-B737-C630CF71DBD3",
+        "text": "2No additional documents related to John Fitzgerald have been located; therefore, it\n                  is unclear who requested that Lincoln determine whether Springfield or Sangamon County\n                  bore legal responsibility for him."
+      },
+      {
+        "id": "X183042FA-7BE3-48E1-962A-352C5AFC33D7",
+        "text": "3Article thirteen, section four of the city charter outlined  Springfield’s legal and\n                  financial responsibilities with regard to those deemed paupers. Section four specifically\n                  exempted Sangamon County from the support of any citizen of the city who became a\n                  pauper.  State law, however, gave the responsibility  for paying for the care of non-resident\n                  paupers becoming sick or dying to the respective counties.“Chapter LXXX: Paupers,” 3 March 1845,Revised Statutes of Illinois(1845), 402-5; “An Act to Reduce the ‘Act Incorporating the City of Springfield,’\n                     and the Several Acts Amendatory Thereof, Into One Act, and to Amend the Same,” 2 March\n                     1854,Private Laws of Illinois(1854), 35, 69-70."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Opinion Regarding John Fitzgerald, 18 December 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "John Fitzgerald, eighteen years of age, able-bodied, but without pecuniary means, came directly fromIrelandtoSpringfield Illinois, and there stopped, and sought employment, with no present intention of returning\n               to Ireland, or going elsewhere– After remaining in^the^Citysome three weeks, part of the time employed, and part not, he fell sick, and became\n               a public charge– It has been submitted to me, whether the City of Springfield, or\n               the County ofSangamonis, by law, to bear the charge–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is my opinion, and decision, that the City is to bear it– I base this upon the\n               construction I give the 4thSection of the 13thArticle of the New City charter (Approved March 2, 1854) I think theLegislatureintended that all public charges, arising from the indigence of persons,residentwithin the City, were to be borne by the City— and not by theCounty– I think it was not the intention that this class of charges was to be parcelled out between the City and county, by critical discussions on the words “citizen” “pauper”\n               and the like–3"
+      }
+    ],
+    "word_count": 175
+  },
+  "extraction_date": "2025-12-26 21:34:00",
+  "word_count": 175,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1158,
+    "cleaned_length": 1088,
+    "preserved_originality": true
+  }
+}

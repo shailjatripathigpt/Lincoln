@@ -1,0 +1,49 @@
+{
+  "document_id": "D209802",
+  "url": "https://papersofabrahamlincoln.org/documents/D209802",
+  "metadata": {
+    "date": "1849-07-16",
+    "authors": [
+      "Ewing, Thomas"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Thomas Ewing to Abraham Lincoln, 16 July 18491 I have received your favor of the 5thinst and have to state in reply\n               that thisDepartmenthas not the power of employing agents for examining theLand Offices,2that^power^having been revoked by express Statute in 1842",
+    "paragraphs": [
+      "Thomas Ewing to Abraham Lincoln, 16 July 18491",
+      "I have received your favor of the 5thinst and have to state in reply\n               that thisDepartmenthas not the power of employing agents for examining theLand Offices,2that^power^having been revoked by express Statute in 1842"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851)."
+    ],
+    "footnotes": [
+      {
+        "id": "XA805EB59-5050-47F9-96CA-E90D771DD92F",
+        "text": "1This letter is attributed to Thomas Ewing, but is not in his hand. The original letter\n                  has not been located, butanotherhandwritten transcription is extant."
+      },
+      {
+        "id": "X563E18D0-1D68-46F4-AB45-E92F6F03D442",
+        "text": "2On July 5, 1849, Lincoln wrote Ewing aletterrecommendingWilliam Porterfor a job as examiner for the U.S. General Land Office in the northwestern United\n                  States. Porter does not appear in the official registers of the officers and agents\n                  of the federal government for 1849 and 1851, so apparently he did not receive an appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Thomas Ewing to Abraham Lincoln, 16 July 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have received your favor of the 5thinst and have to state in reply\n               that thisDepartmenthas not the power of employing agents for examining theLand Offices,2that^power^having been revoked by express Statute in 1842"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:19:56",
+  "word_count": 41
+}

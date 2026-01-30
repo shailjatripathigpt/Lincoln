@@ -1,0 +1,66 @@
+{
+  "document_id": "D200709",
+  "url": "https://papersofabrahamlincoln.org/documents/D200709",
+  "metadata": {
+    "date": "1852-02-07",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Lawyers--Fees",
+      "Actions and defenses",
+      "Deeds--Law and legislation",
+      "Ejectment",
+      "Land titles",
+      "Real property",
+      "Real property and taxation",
+      "Real property tax--Law and legislation"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Hezekiah M. Wead, 7 February 18521 Your letter enclosing ten dollars was received today.2I have just called onLoganand he tells me they have paid the costs and will take a new trial— Be sure, therefore\n\nto send the brief, with the authorities on it— It might be well for you to re-record\n\nyour old deed from the patentee, with the new certificate in it—3",
+    "paragraphs": [
+      "Abraham Lincoln to Hezekiah M. Wead, 7 February 18521 Your letter enclosing ten dollars was received today.2I have just called onLoganand he tells me they have paid the costs and will take a new trial— Be sure, therefore",
+      "to send the brief, with the authorities on it— It might be well for you to re-record",
+      "your old deed from the patentee, with the new certificate in it—3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Complete Record, Document ID: 68744; Execution Docket, Document ID: 65797,Smith v. Gardner, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137716; “Ejectment,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html;Abraham Lincoln to Orville H. Browning; “An Act Concerning Deeds Executed Without this State,” 30 December 1822,Laws of Illinois(1822), 85-86."
+    ],
+    "footnotes": [
+      {
+        "id": "XA897D7ED-7224-42D5-8BF0-B9F3D834FB3F",
+        "text": "1This letter is attributed to Abraham Lincoln, but the original document in his hand\n                  has not been located."
+      },
+      {
+        "id": "XEBD0083E-6189-44D0-9B72-43B757A8F80D",
+        "text": "2Hezekiah M. Wead’s letter to Lincoln has not been located."
+      },
+      {
+        "id": "X594A94F5-AD18-4C6D-A6C8-1BC7093B7663",
+        "text": "3This is a reference to the legal caseSmith v. Gardner, which was an ejectment case that began trial at theU.S. Circuit Court, District of Illinoison January 20, 1852. In American law, “ejectment” relates to an action to recover\n                  land or other real property and to collect damages. Originally, in the English common\n                  law, only tenants could use this action to recover possession of land from which they\n                  had been unlawfully ousted. Because of the simplicity and swiftness of the ejectment\n                  procedure, landowners began to use this action to recover land. To do so, the landowner,\n                  on behalf of a fictitious tenant (John Doe), sued a fictitious defendant (Richard\n                  Roe) for ousting the fictitious tenant. The court titled such cases John Doe ex dem.\n                  “Landowner” v. Richard Roe. When the defendant appeared in court, the clerk sometimes\n                  replaced “Richard Roe” with the defendant’s real name.   In anactpassed in March 1839, theIllinois General Assemblyabolished the need for the fictitious names. The losing party in an ejectment case\n                  was entitled by law to one new trial simply by paying the court costs.Lincoln, Wead, andOrville H. Browningserved as attorneys for the plaintiff,Spencer Smith, and Stephen T. Logan served as attorney forJames Gardner, the defendant. At the heart of the suit was   a dispute over Gardner’s occupation\n                  of 160 acres of land inFulton County, Illinois, land over which Smith claimed ownership and from which he wanted Gardner ejected.\n                  The original case was decided on January 26, 1852. JudgeThomas Drummondruled for Smith. The court determined that Gardner’s deed of August 1820 did not take\n                  precedence over Smith’s deed of January 1820 because, despite being recorded “defectively”\n                  in June 1820, Smith’s deed was “cured,” or made official, by an act in 1822 concerning\n                  deeds.Gardner subsequently paid the court costs, entitling him to a new trial, which Logan\n                  requested on January 27, 1852. Eventually, on February 1, 1853, the case was once\n                  again decided in favor of Smith.Complete Record, Document ID: 68744; Execution Docket, Document ID: 65797,Smith v. Gardner, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137716; “Ejectment,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html;Abraham Lincoln to Orville H. Browning; “An Act Concerning Deeds Executed Without this State,” 30 December 1822,Laws of Illinois(1822), 85-86."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Hezekiah M. Wead, 7 February 18521"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter enclosing ten dollars was received today.2I have just called onLoganand he tells me they have paid the costs and will take a new trial— Be sure, therefore\n               to send the brief, with the authorities on it— It might be well for you to re-record\n               your old deed from the patentee, with the new certificate in it—3"
+      }
+    ],
+    "word_count": 67
+  },
+  "extraction_date": "2025-12-26 21:25:34",
+  "word_count": 67,
+  "processing": {
+    "cleaned": true,
+    "original_length": 401,
+    "cleaned_length": 373,
+    "preserved_originality": true
+  }
+}

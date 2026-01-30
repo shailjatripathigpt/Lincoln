@@ -1,0 +1,76 @@
+{
+  "document_id": "D200054",
+  "url": "https://papersofabrahamlincoln.org/documents/D200054",
+  "metadata": {
+    "date": "1835-03-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveying"
+    ],
+    "type": "Survey",
+    "extracted_date": "1835-03-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "north",
+      "inches",
+      "links",
+      "white",
+      "oak",
+      "thence",
+      "chains",
+      "west",
+      "corner",
+      "east",
+      "begining",
+      "certificate",
+      "survey",
+      "archibald",
+      "kincaid"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Certificate of Survey for Archibald Kincaid, 24 March 18351 Surveyed forArchibald Kincaidthe North West forth of the North East quarter of Section 33 in Township 18 North\n\nof Range 6 West— Begining at the North West corner of the same at a White Oakbearing12 inches in diameter bearing N 85 E 17 Links. White Oak 13 inches S 66 W 58 Links—\n\nThence S 88 E 20 chains & 21 Links to a White Oak 9 inches S 25 W 27 Links— Thence\n\nSouth 20 chains to a White Oak 24 inches East side corner— Thence N 88 W 20 chains\n\n& 21 Links to a Spanish Oak 20 inches— corner— Thence North 20 chains to the begining—2",
+    "paragraphs": [
+      "Certificate of Survey for Archibald Kincaid, 24 March 18351 Surveyed forArchibald Kincaidthe North West forth of the North East quarter of Section 33 in Township 18 North",
+      "of Range 6 West— Begining at the North West corner of the same at a White Oakbearing12 inches in diameter bearing N 85 E 17 Links. White Oak 13 inches S 66 W 58 Links—",
+      "Thence S 88 E 20 chains & 21 Links to a White Oak 9 inches S 25 W 27 Links— Thence",
+      "South 20 chains to a White Oak 24 inches East side corner— Thence N 88 W 20 chains",
+      "& 21 Links to a Spanish Oak 20 inches— corner— Thence North 20 chains to the begining—2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X814CC2D3-D419-4A6F-A00F-5E9F1C0AEFA6",
+        "text": "1Abraham Lincoln wrote the entirety of the text on page one, including Calhoun’s signature."
+      },
+      {
+        "id": "XDFF16E1B-5FE5-492E-A80F-F75F03E49EA0",
+        "text": "2The land described in this survey is located approximately three miles west ofAthensin Menard County."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Survey for Archibald Kincaid, 24 March 18351"
+      },
+      {
+        "type": "paragraph",
+        "text": "Surveyed forArchibald Kincaidthe North West forth of the North East quarter of Section 33 in Township 18 North\n               of Range 6 West—  Begining at the North West corner of the same at a White Oakbearing12 inches in diameter bearing N 85  E 17 Links. White Oak 13 inches S 66 W 58 Links—\n               Thence S 88 E 20 chains & 21 Links to a White Oak 9 inches S 25 W 27 Links—  Thence\n               South 20 chains to a White Oak 24 inches East side corner—  Thence N 88 W 20 chains\n               & 21 Links to a Spanish Oak 20 inches— corner— Thence   North 20 chains to the begining—2"
+      }
+    ],
+    "word_count": 118
+  },
+  "extraction_date": "2025-12-26 20:02:10",
+  "word_count": 118,
+  "processing": {
+    "cleaned": true,
+    "original_length": 658,
+    "cleaned_length": 596,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

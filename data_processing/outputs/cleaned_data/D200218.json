@@ -1,0 +1,63 @@
+{
+  "document_id": "D200218",
+  "url": "https://papersofabrahamlincoln.org/documents/D200218",
+  "metadata": {
+    "date": "1840-03-18",
+    "authors": [
+      "Canedy, Peleg C.",
+      "Klein, Joseph, Sr.",
+      "Latham, Phillip C.",
+      "Lincoln, Abraham (President)",
+      "Whitney, Jonas"
+    ],
+    "keywords": [
+      "Local elections",
+      "Municipal incorporation"
+    ],
+    "type": "Public notice"
+  },
+  "content": {
+    "full_text": "Public Notice of an Election for Trustees in the City of Springfield, 18 March 18401 Trustees.",
+    "paragraphs": [
+      "Public Notice of an Election for Trustees in the City of Springfield, 18 March 18401 Trustees."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sangamo Journal(Springfield, IL), 10 April 1840, 2:1;Proceedings of the Springfield Board of Trustees;History of Sangamon County, Illinois(Chicago: Inter-State, 1881), 565.",
+      "Sangamo Journal(Springfield, IL), 10 April 1840, 2:1."
+    ],
+    "footnotes": [
+      {
+        "id": "XBB4FBD13-81C0-437A-9BE0-64CE46091C6B",
+        "text": "1Abraham Lincoln affixed his signature to this public notice, so the text is attributed\n                  to him, but the extent of his involvement in its composition is unknown."
+      },
+      {
+        "id": "X30B1FC84-FB6C-4D7F-B758-CB21AA6BDBC8",
+        "text": "2In the election on April 6, 1840, theSangamo Journalreported that Springfield voters re-elected Canedy, Whitney, Kleine, Lincoln, and\n                  Latham to the Board.  A history ofSangamon Countypublished in 1881, however, had a Joseph Whitney serving in 1839, andJonas Whitneyas serving  in 1840.  Seeing that he was a large land owner in Sangamon and surrounding\n                  counties, Jonas seems most likely to have been on the board both in 1839 and 1840.Sangamo Journal(Springfield, IL), 10 April 1840, 2:1;Proceedings of the Springfield Board of Trustees;History of Sangamon County, Illinois(Chicago: Inter-State, 1881), 565."
+      },
+      {
+        "id": "XBD07D798-B90C-439B-BA9A-62F862E322E7",
+        "text": "3On the election on April 6, Springfield voters approved the city charter by a vote\n                  of 226 to 121.Sangamo Journal(Springfield, IL), 10 April 1840, 2:1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Public Notice of an Election for Trustees in the City of Springfield, 18 March 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trustees."
+      }
+    ],
+    "word_count": 16
+  },
+  "extraction_date": "2025-12-26 20:12:25",
+  "word_count": 16,
+  "processing": {
+    "cleaned": true,
+    "original_length": 94,
+    "cleaned_length": 94,
+    "preserved_originality": true
+  }
+}

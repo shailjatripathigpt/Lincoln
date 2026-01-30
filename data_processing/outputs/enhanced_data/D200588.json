@@ -1,0 +1,69 @@
+{
+  "document_id": "D200588",
+  "url": "https://papersofabrahamlincoln.org/documents/D200588",
+  "metadata": {
+    "date": "1849-05-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-05-16",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "william",
+      "preston"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William B. Preston, 16 May 18491",
+    "paragraphs": [
+      "Abraham Lincoln to William B. Preston, 16 May 18491"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sangamo Journal(Springfield, IL), 7 May 1841, 2:7; 2 January 1845, 3:4;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, from  the Thirtieth September, 1841, to the Thirtieth September,\n                        1843(Washington, DC: J. & G. S. Gideon, 1843), 257."
+    ],
+    "footnotes": [
+      {
+        "id": "XDF70391F-8BF9-4CAA-9497-C705972B9595",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the fourth\n                  sheet, which was folded to create an envelope.  The docketing on the fourth sheet\n                  is in another hand."
+      },
+      {
+        "id": "X7C7F1ABC-61EF-4D27-A5C3-7CC63B9EF078",
+        "text": "2In May 1841, Justin H. Butterfield received appointment as district attorney of the\n                  District of Illinois.  He retained the job until January 1845.Sangamo Journal(Springfield, IL), 7 May 1841, 2:7; 2 January 1845, 3:4;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, from  the Thirtieth September, 1841, to the Thirtieth September,\n                        1843(Washington, DC: J. & G. S. Gideon, 1843), 257."
+      },
+      {
+        "id": "X31F8B1EB-005F-41E0-A697-65C3705A49D6",
+        "text": "3Reference to Lincoln’s and Butterfield’s respective activities in thepresidential election of 1848."
+      },
+      {
+        "id": "X0B79B774-CC4E-46F7-88AD-EC70DB828AAD",
+        "text": "4William B. Preston’s response, if he penned one, has not been located.Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to replaceRichard M. Youngas  commissioner of the U.S. General Land Office.  Lincoln would also eventually\n                  become a candidate for the job. Neither Morrison, Edwards, nor Lincoln received the\n                  appointment, the job going to Butterfield instead. See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William B. Preston, 16 May 18491"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 21:15:02",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 51,
+    "cleaned_length": 51,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

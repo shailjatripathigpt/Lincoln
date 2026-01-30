@@ -1,0 +1,72 @@
+{
+  "document_id": "D200842",
+  "url": "https://papersofabrahamlincoln.org/documents/D200842",
+  "metadata": {
+    "date": "1855-03-30",
+    "authors": [
+      "Baird, William B.",
+      "Black, William J.",
+      "Broadwell, Norman M.",
+      "Brown, David A.",
+      "Campbell, Antrim",
+      "Campbell, David B.",
+      "Conkling, James C.",
+      "Conkling, William J.",
+      "Cullom, Shelby M.",
+      "Edwards, Benjamin S.",
+      "Herndon, Elliott B.",
+      "Herndon, William H.",
+      "Lincoln, Abraham",
+      "Logan, Stephen T.",
+      "Matheny, James H. (Matheany, Matheney)",
+      "McWilliams, Amzi",
+      "Moffett, Thomas (Moffitt)",
+      "Robbins, Silas W.",
+      "Rucker, Gideon",
+      "Shaw, George W.",
+      "Shutt, George W.",
+      "Stuart, John T.",
+      "Taylor, Thomas G.",
+      "White, James B."
+    ],
+    "keywords": [
+      "Judges--Election"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Thomas Moffett and Others to David Davis, 30 March 18551",
+    "paragraphs": [
+      "Thomas Moffett and Others to David Davis, 30 March 18551"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Daily Journal(Springfield), 25 April 1855, 3:2; 4 May 1855, 3:2;Dewitt Courier(Clinton, IL), 8 June 1855, 2:1;The Weekly Rock Island Republican(IL), 4 July 1855, 3:3."
+    ],
+    "footnotes": [
+      {
+        "id": "XE48771DE-A963-4708-99FD-50B41B21645E",
+        "text": "1The document text is attributed toAbraham Lincoln, but a manuscript version is his hand is not extant.  The signatures are attributed\n                  to the Lincoln and the other signatories, but no manuscript version with their signatures\n                  has been located."
+      },
+      {
+        "id": "X910D6EA3-CDA9-499E-9C40-BE0D60CA73FE",
+        "text": "2David Davisrespondedto this request on April 10, 1855, consenting to be a candidate for reelection as\n                  judge of theEighth Judicial Circuitand his response was published with this letter. His candidacy was thereafter announced\n                  in the press, and the election was held on Monday, June 4, 1855. Davis ran unopposed\n                  and won reelection with 1,170 votes.Illinois Daily Journal(Springfield), 25 April 1855, 3:2; 4 May 1855, 3:2;Dewitt Courier(Clinton, IL), 8 June 1855, 2:1;The Weekly Rock Island Republican(IL), 4 July 1855, 3:3."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Thomas Moffett and Others to David Davis, 30 March 18551"
+      }
+    ],
+    "word_count": 10
+  },
+  "extraction_date": "2025-12-26 21:35:29",
+  "word_count": 10,
+  "processing": {
+    "cleaned": true,
+    "original_length": 56,
+    "cleaned_length": 56,
+    "preserved_originality": true
+  }
+}

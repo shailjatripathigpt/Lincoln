@@ -1,0 +1,64 @@
+{
+  "document_id": "D208050",
+  "url": "https://papersofabrahamlincoln.org/documents/D208050",
+  "metadata": {
+    "date": "1849-06-23",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Clayton, 23 June 18491 My friendMartin P. Sweet, will probably be an applicant for some diplomatic appointment. A direct recommendation\n\nfrom me would be in conflict, as I think, with at least one recommendation I have\n\nalready made, and might be excepted to by other aspirants in that portion ofthe^our^statewhere I reside–2After saying so much, it affords me great pleasure to bear testimony in behalf of\n\nMrSweet’s high merits intellectually, morrally and politically; and to repeat, what I have so often said, that some encouragement\n\nshould be given to the North Western District ofIllinois– I have not any doubt that in that District, MrSweet is the favorite, for any appointmentthwhich may be given–",
+    "paragraphs": [
+      "Abraham Lincoln to John M. Clayton, 23 June 18491 My friendMartin P. Sweet, will probably be an applicant for some diplomatic appointment. A direct recommendation",
+      "from me would be in conflict, as I think, with at least one recommendation I have",
+      "already made, and might be excepted to by other aspirants in that portion ofthe^our^statewhere I reside–2After saying so much, it affords me great pleasure to bear testimony in behalf of",
+      "MrSweet’s high merits intellectually, morrally and politically; and to repeat, what I have so often said, that some encouragement",
+      "should be given to the North Western District ofIllinois– I have not any doubt that in that District, MrSweet is the favorite, for any appointmentthwhich may be given–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Charles H. Constable to Abraham Lincoln.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+    ],
+    "footnotes": [
+      {
+        "id": "XE9574763-A387-4C1E-9F7D-B0BC5DC8743B",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XC7F74C15-0E0F-4EBF-BA80-CE014D4826F8",
+        "text": "2Lincoln was referencing arecommendationforCharles H. Constable, who was seeking a diplomatic appointment inSouth America.Charles H. Constable to Abraham Lincoln."
+      },
+      {
+        "id": "X0BBB1E82-FA07-40A9-AF85-E1C734E37714",
+        "text": "3Martin P. Sweet’s name does not appear in the official registers of the officers and\n                  agents of the government for 1849, 1851, and 1853, so apparently he did not receive\n                  an appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Clayton, 23 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "My friendMartin P. Sweet, will probably be an applicant for some diplomatic appointment.  A direct recommendation\n               from me would be in conflict, as I think, with at least one recommendation I have\n               already made, and might be excepted to by other aspirants in that portion ofthe^our^statewhere I reside–2After saying so much, it affords me great pleasure to bear testimony in behalf of\n               MrSweet’s high merits intellectually, morrally and politically; and to repeat, what I have so often said, that some encouragement\n               should be given to the North Western District ofIllinois– I have not any doubt that in that District, MrSweet is the favorite, for any appointmentthwhich may be given–"
+      }
+    ],
+    "word_count": 118
+  },
+  "extraction_date": "2025-12-26 21:19:11",
+  "word_count": 118,
+  "processing": {
+    "cleaned": true,
+    "original_length": 790,
+    "cleaned_length": 733,
+    "preserved_originality": true
+  }
+}

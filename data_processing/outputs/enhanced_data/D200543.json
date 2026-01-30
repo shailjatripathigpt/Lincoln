@@ -1,0 +1,81 @@
+{
+  "document_id": "D200543",
+  "url": "https://papersofabrahamlincoln.org/documents/D200543",
+  "metadata": {
+    "date": "1849-01-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Patronage, political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-01-11",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "offices",
+      "you",
+      "abraham",
+      "lincoln",
+      "james",
+      "mclean",
+      "january",
+      "yours",
+      "received",
+      "last",
+      "night",
+      "know",
+      "what",
+      "course",
+      "new"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James M. McLean, 11 January 18491 Yours of the 1stInstwas received last night–2I know as to what course the new administration will pursue in regard to the offices.\n\nI shall lay your letter by; and if the disposition of these offices falls into my\n\nhands, in whole or in part, you shall have a fair hearing– I believe you are the first\n\nwho has written me in relation to the offices atPalestine–",
+    "paragraphs": [
+      "Abraham Lincoln to James M. McLean, 11 January 18491 Yours of the 1stInstwas received last night–2I know as to what course the new administration will pursue in regard to the offices.",
+      "I shall lay your letter by; and if the disposition of these offices falls into my",
+      "hands, in whole or in part, you shall have a fair hearing– I believe you are the first",
+      "who has written me in relation to the offices atPalestine–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Daily Journal(Springfield), 26 July 1849, 3:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138."
+    ],
+    "footnotes": [
+      {
+        "id": "X0B4F55DD-8C85-4FCE-87A5-CBE6F2691FAE",
+        "text": "1Abraham Lincoln wrote this letter in its entirety."
+      },
+      {
+        "id": "XDDF3C0A0-2175-4F9D-BC0E-54E68C6D4FF5",
+        "text": "2James M. McLean’s letter has not been located."
+      },
+      {
+        "id": "XD63BB86D-716B-4A02-874F-0C4AE3D858D2",
+        "text": "3McLean received appointment as register of theU.S. General Land Officein Palestine in July 1849.  He held the position until  1853.Illinois Daily Journal(Springfield), 26 July 1849, 3:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James M. McLean, 11 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 1stInstwas received last night–2I know as to what course the new administration will pursue in regard to the offices.\n               I shall lay your letter by; and if the disposition of these offices falls into my\n               hands, in whole or in part, you shall have a fair hearing– I believe you are the first\n               who has written me in relation to the offices atPalestine–"
+      }
+    ],
+    "word_count": 75
+  },
+  "extraction_date": "2025-12-26 20:33:32",
+  "word_count": 75,
+  "processing": {
+    "cleaned": true,
+    "original_length": 456,
+    "cleaned_length": 414,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

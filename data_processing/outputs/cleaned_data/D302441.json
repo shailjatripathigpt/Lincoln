@@ -1,0 +1,61 @@
+{
+  "document_id": "D302441",
+  "url": "https://papersofabrahamlincoln.org/documents/D302441",
+  "metadata": {
+    "date": "1834-09-05",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveying",
+      "Surveys",
+      "Real property"
+    ],
+    "type": "Survey"
+  },
+  "content": {
+    "full_text": "Certificate of Survey for William G. Cantrall, 5 September 18341 ChainmenJoshua M CantrillAdam M. Cantrill Surveyed forWilliam G. Cantrillthe following tract of land (to. wit) Begining at the South East corner of the West\n\nhalf of the North East quarter of Section 20 in Township 17 North of Range 5 West—\n\nat a White Oak— 20 inches in diameter bearing South 60 degrees West 33 Links Thence\n\nWest 31 chains &. 50— Links to a Hickory 20 inches N 48 W. 25 Links Thence North 20 chains to a stake Thence East 31 chains &. 50 Links to a\n\nSpanish Oak 20 inches S 66 W 42— Links— Thence South 20 chains to the begining—2",
+    "paragraphs": [
+      "Certificate of Survey for William G. Cantrall, 5 September 18341 ChainmenJoshua M CantrillAdam M. Cantrill Surveyed forWilliam G. Cantrillthe following tract of land (to. wit) Begining at the South East corner of the West",
+      "half of the North East quarter of Section 20 in Township 17 North of Range 5 West—",
+      "at a White Oak— 20 inches in diameter bearing South 60 degrees West 33 Links Thence",
+      "West 31 chains &. 50— Links to a Hickory 20 inches N 48 W. 25 Links Thence North 20 chains to a stake Thence East 31 chains &. 50 Links to a",
+      "Spanish Oak 20 inches S 66 W 42— Links— Thence South 20 chains to the begining—2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X8ADCE27E-1778-4064-B540-4320FE2F0A31",
+        "text": "1Abraham Lincoln wrote the text of this survey, his own and Calhoun’s signatures, and\n                  the list of chainmen."
+      },
+      {
+        "id": "X8835E0C4-F48E-44CB-9B33-9D389904ADD5",
+        "text": "2The land described here is located in northernSangamon County."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Survey for William G. Cantrall, 5 September 18341"
+      },
+      {
+        "type": "description",
+        "text": "ChainmenJoshua M CantrillAdam M. Cantrill"
+      },
+      {
+        "type": "paragraph",
+        "text": "Surveyed forWilliam G. Cantrillthe following tract of land (to. wit) Begining at the South East corner of the West\n               half of the North East quarter of Section 20 in Township 17 North of Range 5 West—\n               at a White Oak— 20 inches in diameter bearing South 60 degrees West 33 Links Thence\n               West 31 chains &. 50— Links to a Hickory  20 inches N[North] 48 W.[West] 25 Links Thence North 20 chains to a stake Thence East 31 chains &. 50 Links to a\n               Spanish Oak 20 inches S[South] 66 W 42—  Links— Thence South 20 chains to the begining—2"
+      }
+    ],
+    "word_count": 115
+  },
+  "extraction_date": "2025-12-26 19:46:51",
+  "word_count": 115,
+  "processing": {
+    "cleaned": true,
+    "original_length": 692,
+    "cleaned_length": 614,
+    "preserved_originality": true
+  }
+}

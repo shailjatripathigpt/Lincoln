@@ -1,0 +1,89 @@
+{
+  "document_id": "D208607",
+  "url": "https://papersofabrahamlincoln.org/documents/D208607",
+  "metadata": {
+    "date": "1840-02-01",
+    "authors": [
+      "Davis, Levi"
+    ],
+    "keywords": [
+      "Legislators--Salaries, etc.",
+      "State governments--Officials and employees"
+    ],
+    "type": "Check",
+    "extracted_date": "1839",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "thestate",
+      "check",
+      "levi",
+      "davis",
+      "abraham",
+      "lincoln",
+      "february",
+      "cashier",
+      "bank",
+      "illinois",
+      "pay",
+      "toabraham",
+      "lincolnor",
+      "order",
+      "sum"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Check of Levi Davis to Abraham Lincoln, 1 February 18401 $12800/100No.2591. Cashier of theState Bank of Illinois, Pay toAbraham Lincolnor order, the sum ofOne hundred and twenty eightdollars andcents, it being infullfor his services as a Member of theGeneral Assembly, Session 1839\n\n& 402 (The holder of this warrant will be entitled to six per cent interest from date, until redeemed\n\nby theState.) (Countersigned and Registered.)",
+    "paragraphs": [
+      "Check of Levi Davis to Abraham Lincoln, 1 February 18401 $12800/100No.2591. Cashier of theState Bank of Illinois, Pay toAbraham Lincolnor order, the sum ofOne hundred and twenty eightdollars andcents, it being infullfor his services as a Member of theGeneral Assembly, Session 1839",
+      "& 402 (The holder of this warrant will be entitled to six per cent interest from date, until redeemed",
+      "by theState.) (Countersigned and Registered.)"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "An Act Making Appropriations for the Years 1839 and 1840."
+    ],
+    "footnotes": [
+      {
+        "id": "X447B0548-D67C-4712-8716-AF453608C152",
+        "text": "1This partially printed check was filled in by Levi Davis and signed by Davis and John\n                  D. Whiteside. Abraham Lincoln endorsed it on the back side."
+      },
+      {
+        "id": "XBC98D027-7C0E-4B5F-ADC0-06D3D783B6D5",
+        "text": "2Members of the General Assembly earned $4 for each day’s attendance at the session,\n                  plus an additional $4 for every twenty miles of necessary travel in coming to and\n                  returning from the statehouse.An Act Making Appropriations for the Years 1839 and 1840."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Levi Davis to Abraham Lincoln, 1 February 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "$12800/100No.2591."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cashier of theState Bank of Illinois,  Pay toAbraham Lincolnor order, the sum ofOne hundred and twenty eightdollars andcents, it being infullfor his services as a Member of theGeneral Assembly, Session 1839 \n               & 402"
+      },
+      {
+        "type": "paragraph",
+        "text": "(The holder of this warrant will be entitled to six per cent interest from date, until redeemed\n                  by theState.)"
+      },
+      {
+        "type": "paragraph",
+        "text": "(Countersigned and Registered.)"
+      }
+    ],
+    "word_count": 66
+  },
+  "extraction_date": "2025-12-26 20:11:58",
+  "word_count": 66,
+  "processing": {
+    "cleaned": true,
+    "original_length": 464,
+    "cleaned_length": 431,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

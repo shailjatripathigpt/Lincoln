@@ -1,0 +1,54 @@
+{
+  "document_id": "D206798",
+  "url": "https://papersofabrahamlincoln.org/documents/D206798",
+  "metadata": {
+    "date": "1836-09-09 - 1861-02-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers"
+    ],
+    "type": "Note",
+    "extracted_date": "1836-09-09 - 1861-02-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "edwards"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to “Mr. Edwards,” 1",
+    "paragraphs": [
+      "Abraham Lincoln to “Mr. Edwards,” 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+    ],
+    "footnotes": [
+      {
+        "id": "X1767FC4F-D076-408A-9590-0DB0A6A93304",
+        "text": "1This note, entirely in  Lincoln’s handwriting, is presumed to reference a legal case.\n                  If so, it was most likely sent toBenjamin S. Edwards, who practiced law extensively throughout central  Illinois, serving as attorney\n                  in over 400 cases that also involved Lincoln. While Lincoln’s eventual brother-in-lawNinian W. Edwardswas also a lawyer, he spent much of his career in the legislature, in appointed government\n                  positions, and as a bank director rather than practicing law.Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to “Mr. Edwards,” [1836-1861]1"
+      }
+    ],
+    "word_count": 6
+  },
+  "extraction_date": "2025-12-26 22:03:29",
+  "word_count": 6,
+  "processing": {
+    "cleaned": true,
+    "original_length": 46,
+    "cleaned_length": 35,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

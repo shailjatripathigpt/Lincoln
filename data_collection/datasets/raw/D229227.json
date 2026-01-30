@@ -1,0 +1,69 @@
+{
+  "document_id": "D229227",
+  "url": "https://papersofabrahamlincoln.org/documents/D229227",
+  "metadata": {
+    "date": "1846-06-01",
+    "authors": [
+      "Goodan, David C.",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Real property"
+    ],
+    "type": "Answer"
+  },
+  "content": {
+    "full_text": "Separate Answer of David C. Goodan inYoung v. Hanon et al., [1 June 1846]1 [Table 1] [Table 2]",
+    "paragraphs": [
+      "Separate Answer of David C. Goodan inYoung v. Hanon et al., [1 June 1846]1",
+      "[Table 1: State of Illinois | } ss.[scilicet] Christian county...]",
+      "[Table 2: Young | } vs. | answer Goodinet al\n                              [and others]...]"
+    ],
+    "tables_count": 2,
+    "citations": [
+      "Young v. Hanon et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136934.",
+      "Decree (Document ID: 52196), 7 June 1847,Young v. Hanon et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136934."
+    ],
+    "footnotes": [
+      {
+        "id": "X82284A93-AB53-4FCE-BDB9-965F2118F503",
+        "text": "1Abraham Lincoln wrote the body of the document as well as the certifications signed\n                  by David C. Goodan and Horatio M. Vandeveer on page two. Goodan and Vandeveer signed\n                  their own names. Lincoln wrote the first docketing, and Vandeveer the last two."
+      },
+      {
+        "id": "X82166DAC-1312-4A1D-AC5A-927E5478B281",
+        "text": "2In 1844, James Young purchased land inChristian County, Illinois, from Henry Hardin, but Hardin did not have clear title to the land. Young sued Hardin,\n                  his partner David C. Goodan, and the previous owner Martin Hanon, to obtain title\n                  to the land.Abraham LincolnandWilliam H. Herndonrepresented the defendants in the case.Young v. Hanon et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136934."
+      },
+      {
+        "id": "X34829924-7D7C-4D0F-A987-13BDE5F1362B",
+        "text": "3The court ordered the land in question be conveyed to James Young. Hanon and Goodan\n                  were ordered to each pay one-third of the court costs.Decree (Document ID: 52196), 7 June 1847,Young v. Hanon et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136934."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Separate Answer of David C. Goodan inYoung v. Hanon et al., [1 June 1846]1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "State of Illinois | }",
+          "ss.[scilicet]",
+          "Christian county"
+        ]
+      },
+      {
+        "type": "table",
+        "table_number": 2,
+        "rows": [
+          "Young | }",
+          "vs. | answer",
+          "Goodinet al\n                              [and others]"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:23:39",
+  "word_count": 18
+}

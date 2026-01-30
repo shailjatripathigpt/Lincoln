@@ -1,0 +1,61 @@
+{
+  "document_id": "D210532",
+  "url": "https://papersofabrahamlincoln.org/documents/D210532",
+  "metadata": {
+    "date": "1849-06-15",
+    "authors": [
+      "Duer, William"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William Duer to Abraham Lincoln, 15 June 18491 I had heard that you are a candidate for the office of Land-Commnr–2If so is there any way sir which I can serve you? I neither have nor seek influence\n\nwith \"the power that be\"– believing the commodity rather troublesome than useful–\n\nyet for your sake I should be willing to have a little– knowing your appointment\n\nwould give me great pleasure1st– because I know you would make an excellent public officer & 2ndon account of the personal feelings of kindness & esteem with which in common\n\nwith all theWhigsof the 30thCongressI regard you3",
+    "paragraphs": [
+      "William Duer to Abraham Lincoln, 15 June 18491 I had heard that you are a candidate for the office of Land-Commnr–2If so is there any way sir which I can serve you? I neither have nor seek influence",
+      "with \"the power that be\"– believing the commodity rather troublesome than useful–",
+      "yet for your sake I should be willing to have a little– knowing your appointment",
+      "would give me great pleasure1st– because I know you would make an excellent public officer & 2ndon account of the personal feelings of kindness & esteem with which in common",
+      "with all theWhigsof the 30thCongressI regard you3"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X54DE4C79-541A-40EA-BCEE-F6E9416A5CE1",
+        "text": "1William Duer wrote and signed this letter."
+      },
+      {
+        "id": "X84685111-E078-4825-BDE6-73DC65E92F30",
+        "text": "2Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner of theU.S. General Land Office.Abraham Lincolnentered the competition after learning that Butterfield was favored over Morrison\n                  and Edwards. See theGeneral Land Office Affair."
+      },
+      {
+        "id": "X802FEC95-BC0F-4965-ACA8-5F4EDB5F4BAD",
+        "text": "3Lincoln’s reply to this letter, if he wrote one, has not been located. However, DuerwroteLincoln another letter on June 15, 1849. Ultimately, neither Morrison, Edwards, nor\n                  Lincoln received the appointment; the job went to Butterfield instead.  See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William Duer to Abraham Lincoln, 15 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I had heard that you are a candidate for the office of Land-Commnr[Commissioner]–2If so is there any way sir  which I can serve you?  I neither have nor seek influence\n               with \"the power that be\"– believing the commodity rather troublesome than useful–\n               yet for your sake I should be willing to have a little– knowing your  appointment\n               would give me great pleasure1st– because  I know you would make an excellent public  officer & 2ndon account of  the personal feelings of  kindness & esteem with which  in common\n               with all theWhigsof the 30thCongressI regard you3"
+      }
+    ],
+    "word_count": 102
+  },
+  "extraction_date": "2025-12-26 21:17:44",
+  "word_count": 102,
+  "processing": {
+    "cleaned": true,
+    "original_length": 667,
+    "cleaned_length": 589,
+    "preserved_originality": true
+  }
+}

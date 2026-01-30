@@ -1,0 +1,79 @@
+{
+  "document_id": "D200741",
+  "url": "https://papersofabrahamlincoln.org/documents/D200741",
+  "metadata": {
+    "date": "1853-05-04",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Railroads",
+      "Attorney and client"
+    ],
+    "type": "Telegram",
+    "extracted_date": "1853-05-04",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "mason",
+      "brayman",
+      "following",
+      "dispatch",
+      "just",
+      "received",
+      "dated",
+      "cannot",
+      "tojonesboro"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Mason Brayman, 4 May 18531 The following Dispatch has just been received, dated I cannot go toJonesboro.2",
+    "paragraphs": [
+      "Abraham Lincoln to Mason Brayman, 4 May 18531 The following Dispatch has just been received, dated I cannot go toJonesboro.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 4 May 1853,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-05-04; Sandra K. Lueckenhoff, “A. Lincoln, a Corporate Attorney and the Illinois Central\n                     Railroad,”Missouri Law Review61 (Spring 1996), 394; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:194;Receipt of Abraham Lincoln to Illinois Central Railroad Company; For full details on Lincoln’s involvement in the caseIllinois Central Railroad v. McGinnis, seeIllinois Central Railroad v. McGinnis, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136555."
+    ],
+    "footnotes": [
+      {
+        "id": "X47E7FBEA-6B0F-4AB2-9F34-C078739BF128",
+        "text": "1This telegram is attributed to Abraham Lincoln but is not written in Lincoln’s hand."
+      },
+      {
+        "id": "XB44F65F0-E602-4372-AFBD-2B2C6F2750A5",
+        "text": "2Lincoln was attending court in Pekin, Illinois when he sent this telegram. Mason Brayman\n                  was an attorney for theIllinois Central Railroad, which, by the time of this telegram, may have hired Lincoln to represent it. Although\n                  it is unclear precisely when Lincoln was initially hired by the railroad, he represented\n                  it in theChampaign County Circuit Courtin May 1853 in the caseIllinois Central Railroad v. McGinnis. Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, speculates that this telegram may have been related to this case in some way.On October 7, 1853, BraymanwroteLincoln to officially retain his services on behalf of the Illinois Central Railroad,\n                  enclosing a retainer fee of $250 for Lincoln.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 4 May 1853,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-05-04; Sandra K. Lueckenhoff, “A. Lincoln, a Corporate Attorney and the Illinois Central\n                     Railroad,”Missouri Law Review61 (Spring 1996), 394; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:194;Receipt of Abraham Lincoln to Illinois Central Railroad Company; For full details on Lincoln’s involvement in the caseIllinois Central Railroad v. McGinnis, seeIllinois Central Railroad v. McGinnis, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136555."
+      },
+      {
+        "id": "X82609649-852A-4258-A1C0-939EF0E886C5",
+        "text": "3An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Mason Brayman, 4 May 18531"
+      },
+      {
+        "type": "paragraph",
+        "text": "The following Dispatch has just been received, dated"
+      },
+      {
+        "type": "paragraph",
+        "text": "I cannot go toJonesboro.2"
+      }
+    ],
+    "word_count": 20
+  },
+  "extraction_date": "2025-12-26 21:27:36",
+  "word_count": 20,
+  "processing": {
+    "cleaned": true,
+    "original_length": 124,
+    "cleaned_length": 124,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

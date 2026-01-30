@@ -1,0 +1,66 @@
+{
+  "document_id": "D264078",
+  "url": "https://papersofabrahamlincoln.org/documents/D264078",
+  "metadata": {
+    "date": "1840-11-18",
+    "authors": [
+      "Matheny, Noah W."
+    ],
+    "keywords": [
+      "County clerks",
+      "Legislators",
+      "Elections",
+      "Legislative bodies--Lower chambers"
+    ],
+    "type": "Certification"
+  },
+  "content": {
+    "full_text": "Certification of the Election of Abraham Lincoln to the Illinois General Assembly,\n\n18 November 18401 State ofIllinoisSangamon County INoah W MathenyClerk of theCounty Commissioners CourtofSangamon Countydo hereby certify thatAbraham LincolnEsqr. was Elected Representative to theLegislature of the State of Illinoisfrom the County ofSangamonat the General Election held the first monday in August AD 1840 as appears from the\n\nElection returns on file in my office2 In Testimony whereof I have herewith subscribed my name and affixed the seal of saidCourtatSpringfieldthis 18thNovember AD 1840",
+    "paragraphs": [
+      "Certification of the Election of Abraham Lincoln to the Illinois General Assembly,",
+      "18 November 18401 State ofIllinoisSangamon County INoah W MathenyClerk of theCounty Commissioners CourtofSangamon Countydo hereby certify thatAbraham LincolnEsqr. was Elected Representative to theLegislature of the State of Illinoisfrom the County ofSangamonat the General Election held the first monday in August AD 1840 as appears from the",
+      "Election returns on file in my office2 In Testimony whereof I have herewith subscribed my name and affixed the seal of saidCourtatSpringfieldthis 18thNovember AD 1840"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 344."
+    ],
+    "footnotes": [
+      {
+        "id": "X1CCCA6C7-7BAF-4E37-92A8-A9A26D68E052",
+        "text": "1Noah W. Matheny wrote this certification in its entirety."
+      },
+      {
+        "id": "X65717750-6FA6-4D03-8535-8876B2519730",
+        "text": "2Abraham Lincolntallied 1844 voters, the lowest tally of the fiveWhigcandidates elected to theHouse of Representatives.John Calhounwas Lincoln’s closest challenger with 1266 votes.Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 344."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certification of the Election of Abraham Lincoln to the Illinois General Assembly,\n               18 November 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "State ofIllinoisSangamon County"
+      },
+      {
+        "type": "paragraph",
+        "text": "INoah W MathenyClerk of theCounty Commissioners CourtofSangamon Countydo hereby certify thatAbraham LincolnEsqr.[Esquire] was Elected Representative to theLegislature of the State of Illinoisfrom the County ofSangamonat the General Election held the first monday in August AD 1840 as appears from the\n               Election returns on file in my office2"
+      },
+      {
+        "type": "paragraph",
+        "text": "In Testimony whereof I have herewith subscribed my name and affixed the seal of saidCourtatSpringfieldthis 18thNovember AD 1840"
+      }
+    ],
+    "word_count": 83
+  },
+  "extraction_date": "2025-12-26 20:12:58",
+  "word_count": 83,
+  "processing": {
+    "cleaned": true,
+    "original_length": 630,
+    "cleaned_length": 593,
+    "preserved_originality": true
+  }
+}

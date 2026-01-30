@@ -1,0 +1,79 @@
+{
+  "document_id": "D237690",
+  "url": "https://papersofabrahamlincoln.org/documents/D237690",
+  "metadata": {
+    "date": "1850-01-29",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Employment references",
+      "Judges--Selection and appointment"
+    ],
+    "type": "Telegram"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William B. Preston, 29 January 18501 All communications made over this Line are confidential, the operators being bound\n\nby oath not to divulge the contents of any despatch. Should the patrons of the Line at any time have occasion to make complaints, they\n\nare respectfully referred to the General Superintendent, who will make redress for\n\nany neglect on the part of persons employed by the Company. Please reply by carrier promptly— write your despatch plain— use no figures— give address in full of person to whom sent— pre-pay— state\n\nif the answer is to be paid by you, and where you are to be found. BY BAIN'S ELECTRO-CHEMICAL TELEGRAPH, There is a vacancy ofU.S. District Judgehere I am sure you will do right, and save trouble too, to haveStephen T Loganappointedhere, at once2 J. Robinson, Print.",
+    "paragraphs": [
+      "Abraham Lincoln to William B. Preston, 29 January 18501 All communications made over this Line are confidential, the operators being bound",
+      "by oath not to divulge the contents of any despatch. Should the patrons of the Line at any time have occasion to make complaints, they",
+      "are respectfully referred to the General Superintendent, who will make redress for",
+      "any neglect on the part of persons employed by the Company. Please reply by carrier promptly— write your despatch plain— use no figures— give address in full of person to whom sent— pre-pay— state",
+      "if the answer is to be paid by you, and where you are to be found. BY BAIN'S ELECTRO-CHEMICAL TELEGRAPH, There is a vacancy ofU.S. District Judgehere I am sure you will do right, and save trouble too, to haveStephen T Loganappointedhere, at once2 J. Robinson, Print."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Robert M. Sutton, \"Pope, Nathaniel,\"American National Biography, ed. by John A. Garraty and Mark C. Carnes\n                     (New York: Oxford University Press, 1999), 17:678;Illinois Daily Journal(Springfield), 7 February 1850, 2:1."
+    ],
+    "footnotes": [
+      {
+        "id": "XE7059AB1-0980-4F1F-99A0-88CA9396545F",
+        "text": "1This telegram is attributed to Abraham Lincoln but is not written in Lincoln’s hand.\n                  The original copy of this telegram is located in the Preston Family Papers at the\n                  Virginia Historical Society. It is possible,  therefore, thatWilliam B. Prestonwas the recipient."
+      },
+      {
+        "id": "X76C2B9A5-2F49-4795-BD4C-9CB6DBBE697C",
+        "text": "2Since 1819,Nathaniel Popehad been  judge of the U.S. Circuit Court, District ofIllinois. His death on January 22, 1850 created a vacancy which PresidentZachary Taylorhad to fill.Logan did not receive the appointment. President Taylor awarded the judgeship toThomas Drummondinstead.Robert M. Sutton, \"Pope, Nathaniel,\"American National Biography, ed. by John A. Garraty and Mark C. Carnes\n                     (New York: Oxford University Press, 1999), 17:678;Illinois Daily Journal(Springfield), 7 February 1850, 2:1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William B. Preston, 29 January 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "All communications made over this Line are confidential, the operators being bound\n                  by oath not to divulge the contents of any despatch."
+      },
+      {
+        "type": "paragraph",
+        "text": "Should the patrons of the Line at any time have occasion to make complaints, they\n                  are respectfully referred to the General Superintendent, who will make redress for\n                  any neglect on the part of persons employed by the Company."
+      },
+      {
+        "type": "paragraph",
+        "text": "Please reply by carrier promptly— write your despatch plain— use no figures— give address in full of person to whom sent— pre-pay— state\n                  if the answer is to be paid by you, and where you are to be found."
+      },
+      {
+        "type": "paragraph",
+        "text": "BY BAIN'S ELECTRO-CHEMICAL TELEGRAPH,"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is a vacancy ofU.S. District Judgehere I am sure you will do right, and save trouble too, to haveStephen T Loganappointedhere, at once2"
+      },
+      {
+        "type": "paragraph",
+        "text": "J. Robinson, Print."
+      }
+    ],
+    "word_count": 139
+  },
+  "extraction_date": "2025-12-26 21:22:09",
+  "word_count": 139,
+  "processing": {
+    "cleaned": true,
+    "original_length": 892,
+    "cleaned_length": 824,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "document_id": "D210427",
+  "url": "https://papersofabrahamlincoln.org/documents/D210427",
+  "metadata": {
+    "date": "1849-04-28",
+    "authors": [],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Cornelius B. Adams to Abraham Lincoln, 28 April 18491 Will you write me a letter to MrEwingofHome Department^that I may get^to give mea place under him?2You will recollect me^as^—correspondent ofPhiladelphia D. News, last winter. I am still connected with theNews, and shallbewrite for it again next winter.",
+    "paragraphs": [
+      "Cornelius B. Adams to Abraham Lincoln, 28 April 18491",
+      "Will you write me a letter to MrEwingofHome Department^that I may get^to give mea place under him?2You will recollect me^as^—correspondent ofPhiladelphia D. News, last winter.",
+      "I am still connected with theNews, and shallbewrite for it again next winter."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 22;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 24; Alfred Hunter, comp.,The Washington and Georgetown Directory, Strangers' Guide-Book for Washington, and\n                        Congressional and Clerks' Register(Washington, DC: Kirkwood & McGill, 1853), 1."
+    ],
+    "footnotes": [
+      {
+        "id": "X7CD272C8-9307-4805-BDED-8E32CB8C7B40",
+        "text": "1Cornelius B. Adams wrote and signed this letter."
+      },
+      {
+        "id": "X3E0A0A58-5178-4398-9DB4-771C28FC9FFC",
+        "text": "2Abraham Lincoln’s letter on behalf of Adams, if he penned one, has not been located.Adams received appointment as a clerk in the Office of the Auditor of the Treasury\n                  for thePost Office Department, a position he held until 1853.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 22;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 24; Alfred Hunter, comp.,The Washington and Georgetown Directory, Strangers' Guide-Book for Washington, and\n                        Congressional and Clerks' Register(Washington, DC: Kirkwood & McGill, 1853), 1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Cornelius B. Adams to Abraham Lincoln, 28 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Will you write me a letter to MrEwingofHome Department^that I may get^to give mea place under him?2You will recollect me^as^—correspondent ofPhiladelphia D. News, last winter."
+      },
+      {
+        "type": "paragraph",
+        "text": "I am still connected with theNews, and shallbewrite for it again next winter."
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:41:22",
+  "word_count": 47
+}

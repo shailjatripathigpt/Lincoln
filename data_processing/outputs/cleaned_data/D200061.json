@@ -1,0 +1,53 @@
+{
+  "document_id": "D200061",
+  "url": "https://papersofabrahamlincoln.org/documents/D200061",
+  "metadata": {
+    "date": "1835-12-11",
+    "authors": [],
+    "keywords": [
+      "Incorporation",
+      "Canals",
+      "Public works"
+    ],
+    "type": "Resolution"
+  },
+  "content": {
+    "full_text": "Resolution regarding the Incorporation of a Canal Company, 11 December 18351 On motion of Mr.Lincoln, Ordered, That Messrs. Lincoln,Brown,Gordon,CarpenterofSangamon, andTrower, be that committee.",
+    "paragraphs": [
+      "Resolution regarding the Incorporation of a Canal Company, 11 December 18351 On motion of Mr.Lincoln, Ordered, That Messrs. Lincoln,Brown,Gordon,CarpenterofSangamon, andTrower, be that committee."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 34, 38."
+    ],
+    "footnotes": [
+      {
+        "id": "X91C9EA84-53EE-48CB-B4D7-5D512A1A6139",
+        "text": "1Abraham Lincoln introduced this resolution in theHouse of Representativeson December 11, 1835. The House adopted the resolution and formed a five-person select\n                  committee including Lincoln to investigate the wisdom of incorporating a canal company\n                  to build a canal on the Sangamon River.  On December 12, Lincoln reported the committee’s\n                  findings and introducedHB 7to create theBeardstown and Sangamon Canal Company.Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 34, 38."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Resolution regarding the Incorporation of a Canal Company, 11 December 18351"
+      },
+      {
+        "type": "paragraph",
+        "text": "On motion of Mr.Lincoln,"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ordered, That Messrs.[Messieurs] Lincoln,Brown,Gordon,CarpenterofSangamon, andTrower, be that committee."
+      }
+    ],
+    "word_count": 23
+  },
+  "extraction_date": "2025-12-26 20:02:13",
+  "word_count": 23,
+  "processing": {
+    "cleaned": true,
+    "original_length": 206,
+    "cleaned_length": 195,
+    "preserved_originality": true
+  }
+}

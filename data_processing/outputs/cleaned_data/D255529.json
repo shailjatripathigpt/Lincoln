@@ -1,0 +1,63 @@
+{
+  "document_id": "D255529",
+  "url": "https://papersofabrahamlincoln.org/documents/D255529",
+  "metadata": {
+    "date": "1839-02-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "County government",
+      "Counties",
+      "Boundaries",
+      "County officials and employees",
+      "Local elections"
+    ],
+    "type": "Amendment"
+  },
+  "content": {
+    "full_text": "Amendment to \"A Bill to Establish the Counties of Menard, Logan, and Dane,\" [6 February\n\n1839]1 Amend the amendment of theSenateby striking out all from the word “Begining” to the word “miles” both inclusive, and insert the following— “Begining at the South West corner of Section Three in Township Seventeen North of Range Six\n\nWest; thence North four miles”2",
+    "paragraphs": [
+      "Amendment to \"A Bill to Establish the Counties of Menard, Logan, and Dane,\" [6 February",
+      "1839]1 Amend the amendment of theSenateby striking out all from the word “Begining” to the word “miles” both inclusive, and insert the following— “Begining at the South West corner of Section Three in Township Seventeen North of Range Six",
+      "West; thence North four miles”2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     217-18, 357; Illinois SenateJournal. 1838. 11th G. A., 1st sess.,  287, 291."
+    ],
+    "footnotes": [
+      {
+        "id": "X3AC79E03-3967-4089-BCA6-37999A8F6C57",
+        "text": "1Written by Abraham Lincoln, this amendment amended a Senateamendmentto abillpenned  and introduced byAbraham Lincolnin the House of Representatives on January 16, 1839.  On February 6, the Senate passed\n                  the amendment, which in part added two provisos to the fourth section of Lincoln’s\n                  bill.   Later that same day, the House concurred in the Senate amendment with minor\n                  modifications, but Lincoln moved to re-consider that vote and offered his amendment\n                  to the Senate amendment, which the House approved.  The Senate passed the bill as\n                  amended on February 7.  TheCouncil of Revisionapproved the bill on February 15, and Lincoln’s amendment became part of theactthat became law.Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     217-18, 357; Illinois SenateJournal. 1838. 11th G. A., 1st sess.,  287, 291."
+      },
+      {
+        "id": "X5E222317-62C1-4A51-B717-B51F11A06591",
+        "text": "2The first proviso of the Senateamendment, which Lincoln sought to amend, dealt with the boundaries ofMenard County.  The first proviso proscribed that if the commissioners appointed to locate the\n                  county seat of Menard chose a location on the west or left side of theSangamon river, then, and in that case, the lines of said county would be changed from those described\n                  in section one of thebill.   What Lincoln proposed to strike out reads as follows: “Beginning at the South\n                  West corner of section thirty four in Township Eighteen North of Range Six West; thence\n                  North 3 miles.”"
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to \"A Bill to Establish the Counties of Menard, Logan, and Dane,\" [6 February\n               1839]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Amend the amendment of theSenateby striking out all from the word “Begining” to the word “miles” both inclusive, and insert the following—"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Begining at the South West corner of Section Three in  Township Seventeen North of Range Six\n               West; thence North four miles”2"
+      }
+    ],
+    "word_count": 59
+  },
+  "extraction_date": "2025-12-26 20:08:40",
+  "word_count": 59,
+  "processing": {
+    "cleaned": true,
+    "original_length": 389,
+    "cleaned_length": 360,
+    "preserved_originality": true
+  }
+}

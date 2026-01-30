@@ -1,0 +1,85 @@
+{
+  "document_id": "D201084",
+  "url": "https://papersofabrahamlincoln.org/documents/D201084",
+  "metadata": {
+    "date": "1858-08-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Advertising, Political",
+      "Campaign speeches",
+      "Elections",
+      "Local elections",
+      "Political campaigns",
+      "Political candidates",
+      "Political oratory",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-08-11",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "abraham",
+      "lincoln",
+      "alexander",
+      "sympson",
+      "august",
+      "yoursof",
+      "life",
+      "health",
+      "continue",
+      "pretty",
+      "surely",
+      "ataugustaon",
+      "things",
+      "look"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Alexander Sympson, 11 August 18581 Yoursof the 6threceived– If life and health continue, I shall pretty surely be atAugustaon the 25th Things look reasonably well– Will tell you more fully when I see you–2",
+    "paragraphs": [
+      "Abraham Lincoln to Alexander Sympson, 11 August 18581 Yoursof the 6threceived– If life and health continue, I shall pretty surely be atAugustaon the 25th Things look reasonably well– Will tell you more fully when I see you–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Alexander Sympson; Abraham Lincoln to Alexander Sympson; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 142;Daily Illinois State Journal(Springfield), 28 August 1858, 2:3;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 25 August 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-25;Summary of Speech at Augusta, Illinois; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:458, 556-57; Allen C. Guelzo,\n                     “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 394, 414-16."
+    ],
+    "footnotes": [
+      {
+        "id": "X0050E0BC-32DA-4148-AD3F-92C9B85BF2CB",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X07E6C2B9-CEE2-43FC-BE80-0D73CD221057",
+        "text": "2In his August 6letterto Lincoln, Alexander Sympson asked Lincoln to confirm whether he would be in Augusta,\n                  Illinois, on August 25 and promised to publicize Lincoln’s appearance if he came.\n                  Lincoln also wrote Sympson at least two additional letters related to the elections\n                  of 1858.TheRepublicansofIllinois’ Fifth Congressional District held their congressional convention in Augusta on August\n                  25, and Lincoln delivered an address in Augusta that day. At the time, Lincoln was\n                  running againstDemocraticincumbentStephen A. Douglasas the Illinois Republican Party’s candidate for theU.S. Senate. During the summer and fall of 1858 he  crisscrossed the state, delivering speeches\n                  and campaigning on behalf of Republican candidates. Because members of theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, the outcome of the races\n                  for theIllinois House of Representativesand theIllinois Senatewas highly relevant to the1858 Federal Election. See the1858 Illinois Republican Convention.In the end, Republicans won a majority of all votes cast in Illinois in the local\n                  elections that year, but pro-Douglas Democrats retained control of the Illinois General\n                  Assembly and Douglas won reelection. Through the campaign, however, and in particular\n                  through his participation in theLincoln-Douglas Debates, Lincoln gained recognition as well as standing within the national Republican Party.Abraham Lincoln to Alexander Sympson; Abraham Lincoln to Alexander Sympson; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 142;Daily Illinois State Journal(Springfield), 28 August 1858, 2:3;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 25 August 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-25;Summary of Speech at Augusta, Illinois; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:458, 556-57; Allen C. Guelzo,\n                     “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 394, 414-16."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Alexander Sympson, 11 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yoursof the 6threceived–  If life and health continue, I shall pretty surely be atAugustaon the 25th"
+      },
+      {
+        "type": "paragraph",
+        "text": "Things look reasonably well– Will tell you more fully when I see you–2"
+      }
+    ],
+    "word_count": 37
+  },
+  "extraction_date": "2025-12-26 21:57:40",
+  "word_count": 37,
+  "processing": {
+    "cleaned": true,
+    "original_length": 225,
+    "cleaned_length": 224,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "D201013",
+  "url": "https://papersofabrahamlincoln.org/documents/D201013",
+  "metadata": {
+    "date": "1858-05-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Decedents' estates",
+      "Executors and administrators",
+      "Fraud",
+      "Real property"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Joseph Means, 11 May 18581 The statements made within, if true are evidence offraudon the part of the executor in selling the land–2Fraud, by the principles of law, invalidates everything– To get rid of this sale,\n\na bill in chancery is to be filed, charging the fraud, and then, if the fraud can\n\nbeproved, the sale will be set aside– This is all that can be said– Any lawyer will know\n\nhow to do it–3",
+    "paragraphs": [
+      "Abraham Lincoln to Joseph Means, 11 May 18581 The statements made within, if true are evidence offraudon the part of the executor in selling the land–2Fraud, by the principles of law, invalidates everything– To get rid of this sale,",
+      "a bill in chancery is to be filed, charging the fraud, and then, if the fraud can",
+      "beproved, the sale will be set aside– This is all that can be said– Any lawyer will know"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln provided legal advice to Means, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141532; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:446."
+    ],
+    "footnotes": [
+      {
+        "id": "X714763A9-6D93-40CF-9A09-5285AA3324E7",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XEABF6552-9321-4087-87CC-5128198C26EF",
+        "text": "2The letter from Joseph Means to Lincoln has not been found, but he evidently requested\n                  legal advice from Lincoln relating to fraud by an executor  in regard to selling land.\n                  The property in question may have been owned by Means’ widowed daughter.Lincoln provided legal advice to Means, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141532; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:446."
+      },
+      {
+        "id": "XBA6C9C3D-54C8-4799-B863-DD96C0F6D706",
+        "text": "3It is unknown whether Means followed Lincoln’s advice to pursue a charge of fraud\n                  in chancery court."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Joseph Means, 11 May 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "The statements made within, if true are evidence offraudon the part of the executor in selling the land–2Fraud, by the principles of law, invalidates everything–  To get rid of this sale,\n               a bill in chancery is to be filed, charging the fraud, and then, if the fraud can\n               beproved, the sale will be set aside–  This is all that can be said–  Any lawyer will know\n               how to do it–3"
+      }
+    ],
+    "word_count": 78
+  },
+  "extraction_date": "2025-12-26 21:47:55",
+  "word_count": 78,
+  "processing": {
+    "cleaned": true,
+    "original_length": 466,
+    "cleaned_length": 421,
+    "preserved_originality": true
+  }
+}

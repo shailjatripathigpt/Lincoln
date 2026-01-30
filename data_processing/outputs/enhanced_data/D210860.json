@@ -1,0 +1,87 @@
+{
+  "document_id": "D210860",
+  "url": "https://papersofabrahamlincoln.org/documents/D210860",
+  "metadata": {
+    "date": "1858-08-10",
+    "authors": [
+      "Medill, Joseph"
+    ],
+    "keywords": [
+      "Elections",
+      "Newspapers--Political aspects",
+      "Political campaigns",
+      "Reporters and reporting",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-08-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "him",
+      "joseph",
+      "medill",
+      "abraham",
+      "lincoln",
+      "august",
+      "daily",
+      "press",
+      "tribune",
+      "office",
+      "clark",
+      "street",
+      "engaged",
+      "mrc"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Joseph Medill to Abraham Lincoln, 10 August 18581 Daily Press and Tribune Office,No. 43 Clark Street, We have engaged MrC. Davissonto attend your political appointments and write such articles for ourpaperin relation thereto as he may see proper and judicious. You will please make him\n\nacquainted with ourRepublicanfriends at the different places you & him visit. MrD. has been editorialy connected with theTribunefor several years.2",
+    "paragraphs": [
+      "Joseph Medill to Abraham Lincoln, 10 August 18581 Daily Press and Tribune Office,No. 43 Clark Street, We have engaged MrC. Davissonto attend your political appointments and write such articles for ourpaperin relation thereto as he may see proper and judicious. You will please make him",
+      "acquainted with ourRepublicanfriends at the different places you & him visit. MrD. has been editorialy connected with theTribunefor several years.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Jerri Lynn Mann, “Getting Lincoln Elected:\n                     Joseph Medill, The Chicago Press and Tribune, and the Nomination\n                     of Abraham Lincoln, 1860,”Atlanta Review of Journalism History12 (Spring 2015):  126;Chicago Press and Tribune(IL), 23 August 1858, 1:1-2; 30 August 1858, 2:1; 17 September 1858, 2:1; 21 September\n                     1858, 2:1; 11 October 1858, 2:1; 15 October 1858, 1:1; 18 October 1858, 2:1; 10 November\n                     1858, 2:1."
+    ],
+    "footnotes": [
+      {
+        "id": "X50345DF0-5A1A-4026-9FB3-0B529030F94C",
+        "text": "1Joseph Medill wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "X0A372BB1-23A7-4D76-A2DC-A9D30EBE59F8",
+        "text": "2TheChicago Press and Tribunesupported Abraham Lincoln’s  candidacy for theU.S. Senatein1858against incumbentStephen A. Douglas. When the menagreedto aseries of seven debates, the newspaper chose Davisson to cover the events. TheTribuneand Davisson provided full coverage, praising Lincoln’s performances. In addition\n                  to editorial support, the paper arranged railcars for Lincoln supporters to attend\n                  the debates from Chicago, including a special round-trip fare  of $4.85 to theFreeportdebate, which more than 1,000 Lincoln supporters purchased.ThePress and Tribunecontinued to support Lincoln following his loss, writing, “We know of no better time\n                  than the present to congratulate\n                  him on the memorable and brilliant canvass that he\n                  has made. He has fully vindicated the partialities of\n                  his friends, and has richly earned, though he has not\n                  achieved, success. He has created for himself a national\n                  reputation that is both envied and deserved; and though\n                  he should hereafter fill no official station, he has done in\n                  the cause of Truth and Justice what will always entitle\n                  him to the gratitude of his party and to the admiration\n                  of all who respect the high moral qualities and the keen,\n                  comprehensive and sound intellectual gifts that he has\n                  displayed. No man could have done more.” See1858 Federal Election.Jerri Lynn Mann, “Getting Lincoln Elected:\n                     Joseph Medill, The Chicago Press and Tribune, and the Nomination\n                     of Abraham Lincoln, 1860,”Atlanta Review of Journalism History12 (Spring 2015):  126;Chicago Press and Tribune(IL), 23 August 1858, 1:1-2; 30 August 1858, 2:1; 17 September 1858, 2:1; 21 September\n                     1858, 2:1; 11 October 1858, 2:1; 15 October 1858, 1:1; 18 October 1858, 2:1; 10 November\n                     1858, 2:1."
+      },
+      {
+        "id": "X1CBD2342-73A0-4CC8-89B2-58B1A4587486",
+        "text": "3Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Joseph Medill to Abraham Lincoln, 10 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Daily Press and Tribune Office,No. 43 Clark Street,"
+      },
+      {
+        "type": "paragraph",
+        "text": "We have engaged MrC. Davissonto attend your political appointments and write such articles for ourpaperin relation thereto as he may see proper and judicious.  You will please make him\n               acquainted with ourRepublicanfriends at the different places you & him visit.  MrD. has been editorialy connected with theTribunefor several years.2"
+      }
+    ],
+    "word_count": 65
+  },
+  "extraction_date": "2025-12-26 21:56:27",
+  "word_count": 65,
+  "processing": {
+    "cleaned": true,
+    "original_length": 450,
+    "cleaned_length": 434,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

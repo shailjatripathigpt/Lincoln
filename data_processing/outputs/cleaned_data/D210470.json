@@ -1,0 +1,55 @@
+{
+  "document_id": "D210470",
+  "url": "https://papersofabrahamlincoln.org/documents/D210470",
+  "metadata": {
+    "date": "1849-05-11",
+    "authors": [
+      "Warren, Fitz Henry"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Fitz Henry Warren to Abraham Lincoln, 11 May 18491 I have the honor to inform you, that thePostmaster Generalhas appointedJohn HutchisonPostmaster atTwelve Milein the State ofIllinoisin place ofJ. R. Young— Resigned2",
+    "paragraphs": [
+      "Fitz Henry Warren to Abraham Lincoln, 11 May 18491 I have the honor to inform you, that thePostmaster Generalhas appointedJohn HutchisonPostmaster atTwelve Milein the State ofIllinoisin place ofJ. R. Young— Resigned2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls, Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:172, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 490*;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 541*."
+    ],
+    "footnotes": [
+      {
+        "id": "X63B19226-4480-49C5-BF1C-A19693B9F9FA",
+        "text": "1Fitz Henry Warren signed this form letter."
+      },
+      {
+        "id": "X6A7D4F5C-AFC3-4933-B9BD-6BE64AE7791B",
+        "text": "2John Hutchison served as postmaster from May 1849 to  March 1850.Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls, Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:172, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 490*;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 541*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fitz Henry Warren to Abraham Lincoln, 11 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the honor to inform you, that thePostmaster Generalhas appointedJohn HutchisonPostmaster atTwelve Milein the State ofIllinoisin place ofJ. R. Young— Resigned2"
+      }
+    ],
+    "word_count": 31
+  },
+  "extraction_date": "2025-12-26 20:43:27",
+  "word_count": 31,
+  "processing": {
+    "cleaned": true,
+    "original_length": 216,
+    "cleaned_length": 216,
+    "preserved_originality": true
+  }
+}

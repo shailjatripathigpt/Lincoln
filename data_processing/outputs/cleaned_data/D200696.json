@@ -1,0 +1,87 @@
+{
+  "document_id": "D200696",
+  "url": "https://papersofabrahamlincoln.org/documents/D200696",
+  "metadata": {
+    "date": "1851-10-06",
+    "authors": [
+      "Davis, David",
+      "Davis, Levi",
+      "Davis, Lucy Ann"
+    ],
+    "keywords": [
+      "Deeds",
+      "Contracts for deeds",
+      "Land titles--Registration and transfer",
+      "Real property"
+    ],
+    "type": "Deed"
+  },
+  "content": {
+    "full_text": "Deed of Levi Davis and Lucy Ann Davis to Abraham Lincoln, 6 October 18511 IN TESTIMONY WHEREOF, the said partiesof the first part havehereunto settheirhands and seals the day and year first above written.4 Signed, Sealed and Delivered\n\nin Presence of",
+    "paragraphs": [
+      "Deed of Levi Davis and Lucy Ann Davis to Abraham Lincoln, 6 October 18511 IN TESTIMONY WHEREOF, the said partiesof the first part havehereunto settheirhands and seals the day and year first above written.4 Signed, Sealed and Delivered"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“Indenture,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html.",
+      "Henry Campbell Black,A Dictionary of Law(St. Paul, MN: West, 1891), 83, 568."
+    ],
+    "footnotes": [
+      {
+        "id": "X9F60B401-843D-48E6-AF40-32C5FA9AB827",
+        "text": "1Abraham Lincoln wrote all of the script which appears in the blanks on the form, up\n                  until the testimony section beginning with the text “In Testimony Whereof.” He also\n                  wrote some of the script in the form’s final section, each instance of which is noted\n                  separately below."
+      },
+      {
+        "id": "X05074E1E-4C14-49B1-AA53-E120BB6DEA30",
+        "text": "2Historically, the word “indenture” referred to the crimps made in the original and\n                  copies of a document to prove the authenticity of the copies at a later date. Eventually,\n                  the word became synonymous with deeds,  and particularly to real property transaction\n                  deeds in which both parties assumed obligations, which is the context within which\n                  the word is used here.“Indenture,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+      },
+      {
+        "id": "XBBCBD6DF-D3C1-4FBF-BA95-210E615D76CA",
+        "text": "3In legal terminology, hereditaments are “things capable of being inherited,” and an\n                  appurtenance refers to “that which belongs to something else,” and “which passes as\n                  incident to it.”Henry Campbell Black,A Dictionary of Law(St. Paul, MN: West, 1891), 83, 568."
+      },
+      {
+        "id": "XE671D4B7-0B58-46D4-BF4C-F93453198B19",
+        "text": "4No additional documents related to Lincoln’s purchase of this land in Bloomington,\n                  Illinois have been located."
+      },
+      {
+        "id": "X7E3434BF-8DEA-4278-ABA0-6B047299CC39",
+        "text": "5Lincoln wrote this script."
+      },
+      {
+        "id": "X145D8925-6B4D-47B6-85E1-D34B118DD7C5",
+        "text": "6Lincoln wrote this added script."
+      },
+      {
+        "id": "XD2FE2968-621B-4347-B2E6-E378E16FD75E",
+        "text": "7Lincoln wrote this inserted script."
+      },
+      {
+        "id": "XF7367CC4-A337-411F-81AB-53251FFDCFA2",
+        "text": "8Samuel Emmitt wrote the script “Sixth,” “October,” and “fifty one–” in this endorsement.\n                  He also signed his name, followed by the word “Clerk.”"
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Deed of Levi Davis and Lucy Ann Davis to Abraham Lincoln, 6 October 18511"
+      },
+      {
+        "type": "paragraph",
+        "text": "IN TESTIMONY WHEREOF, the said partiesof the first part havehereunto settheirhands and seals the day and year first above written.4"
+      },
+      {
+        "type": "paragraph",
+        "text": "Signed, Sealed and Delivered\n                  \n                  in Presence of"
+      }
+    ],
+    "word_count": 41
+  },
+  "extraction_date": "2025-12-26 21:25:27",
+  "word_count": 41,
+  "processing": {
+    "cleaned": true,
+    "original_length": 286,
+    "cleaned_length": 250,
+    "preserved_originality": true
+  }
+}

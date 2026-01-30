@@ -1,0 +1,77 @@
+{
+  "document_id": "D200745",
+  "url": "https://papersofabrahamlincoln.org/documents/D200745",
+  "metadata": {
+    "date": "1853-06-10",
+    "authors": [
+      "Lincoln, Abraham",
+      "Logan, Stephen T."
+    ],
+    "keywords": [
+      "Jacksonville Insane Asylum (Ill.)",
+      "Employees--Dismissal of",
+      "Actions and defenses",
+      "Legal opinions"
+    ],
+    "type": "Letter",
+    "extracted_date": "1853-06-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "stephen",
+      "logan",
+      "david",
+      "smith",
+      "june"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln and Stephen T. Logan to David A. Smith, 10 June 18531",
+    "paragraphs": [
+      "Abraham Lincoln and Stephen T. Logan to David A. Smith, 10 June 18531"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:197-98.",
+      "“An Act to Establish the Illinois State Hospital for the Insane,” 1 March 1847,Laws of Illinois(1847),      52.",
+      "“Quo warranto,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html.",
+      "Judgment Docket, Document ID: 72510,People ex rel. Stevenson et al. v. Higgins, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137943."
+    ],
+    "footnotes": [
+      {
+        "id": "X9F99F66C-9D1C-43DE-AA77-87FFD600B627",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the last sheet,\n                  which was folded to create an envelope. Stephen T. Logan penned his signature.The left side of the original letter is damaged. The supplied text for the missing\n                  portions is fromThe Collected Works of Abraham Lincoln.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:197-98."
+      },
+      {
+        "id": "X897EE4D1-BB2D-45E4-A1ED-DC2BCD6D4605",
+        "text": "2This is a reference to section two of the act which established theIllinois State Asylum and Hospital for the Insaneand outlined the criteria required  for the hospital’s trustees to take action to\n                  remove the institution’s superintendent.“An Act to Establish the Illinois State Hospital for the Insane,” 1 March 1847,Laws of Illinois(1847),      52."
+      },
+      {
+        "id": "X1FF0154B-720C-413D-8398-D149ED167C9D",
+        "text": "3In American law, “quo warranto” is a writ issued for the purpose of preventing someone\n                  from continuing to exercise authority in a supposedly unlawfully held office. It ordered\n                  a sheriff to summon the individual before the court to demonstrate “quo warranto”\n                  that his holding the office was legitimate.“Quo warranto,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+      },
+      {
+        "id": "X8B0D5712-B5F5-4000-9704-FFF34710A2B2",
+        "text": "4This letter relates to the Illinois State Asylum and Hospital for the Insane’s Board\n                  of Trustees’ resolution to remove Dr. James M. Higgins from his position as superintendent\n                  of the hospital, a resolution Higgins contested.In October 1853, Fleming Stevenson and the other trustees launched a suit in theMorgan County Circuit Courtto remove Higgins as superintendent.  According to the statute creating the hospital,\n                  noted above, Higgins, appointed for ten years, could be removed only for “infidelity\n                  to the trust reposed in him” or incompetency.  The trustees charged that Higgins was\n                  not qualified for the position, but, later in October 1853, the court ruled for Higgins.\n                  Neither Lincoln nor Logan were involved in this lawsuit. However, when the trustees\n                  appealed to theIllinois Supreme Courtin December 1853, Lincoln, Logan,Murray McConnel, andDavid A. Smithall  represented Higgins. Lincoln argued that the trustees could not remove Higgins\n                  for any reason except breach of trust or incompetency. Nevertheless, in March 1854,\n                  the Supreme Court reversed and remanded the judgment.  JusticeJohn D. Catonruled that theIllinois General Assemblyhad bestowed on the trustees all the powers necessary for managing the hospital,\n                  including the power to remove the superintendent for breach of trust or incompetency.\n                  Caton disagreed with Lincoln’s argument that the trustees' reasons failed to meet\n                  the two conditions, writing that “the substance is the same, though, perhaps, expressed\n                  in more delicate or less offensive terms.”Judgment Docket, Document ID: 72510,People ex rel. Stevenson et al. v. Higgins, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137943."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln and Stephen T. Logan to David A. Smith, 10 June 18531"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 21:27:05",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 69,
+    "cleaned_length": 69,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

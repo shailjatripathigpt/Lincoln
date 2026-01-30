@@ -1,0 +1,48 @@
+{
+  "document_id": "D200274",
+  "url": "https://papersofabrahamlincoln.org/documents/D200274",
+  "metadata": {
+    "date": "1841-06-03",
+    "authors": [
+      "Neale, John M."
+    ],
+    "keywords": [
+      "Civil service",
+      "Employment references",
+      "Surveying"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "John M. Neale to Silas Reed, 3 June 18411 I most cheerfully endorse the foregoing recommendations of ColNeale—A. Lincoln My object in trou[bling you]with this is to procure a contract of the . . . Surveying. You are favourably known by  m[any promin]ent citizens of this city, and, in case you[shall be]disposed to treat my application favourably, I will procure any sort of recommendation from them that you may require—",
+    "paragraphs": [
+      "John M. Neale to Silas Reed, 3 June 18411",
+      "I most cheerfully endorse the foregoing recommendations of ColNeale—A. Lincoln",
+      "My object in trou[bling you]with this is to procure a contract of the . . . Surveying. You are favourably known by  m[any promin]ent citizens of this city, and, in case you[shall be]disposed to treat my application favourably, I will procure any sort of recommendation from them that you may require—"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XB1C1D442-6583-48C0-8542-1F12A62DA0D7",
+        "text": "1Abraham Lincoln wrote the body of the text, including Neale’s signature and the postscript.\n                  Lincoln also wrote and signed his own recommendation on page three, as well as the\n                  address on page four. A portion of the original text is missing due to damage; text\n                  has been supplied where possible."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John M. Neale to Silas Reed, 3 June 18411"
+      },
+      {
+        "type": "description",
+        "text": "I most cheerfully endorse the foregoing recommendations of ColNeale—A. Lincoln"
+      },
+      {
+        "type": "paragraph",
+        "text": "My object in trou[bling you]with this is to procure a contract of the . . . Surveying. You are favourably known by  m[any promin]ent citizens of this city, and, in case you[shall be]disposed to treat my application favourably, I will procure any sort of recommendation from them that you may require—"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:15:45",
+  "word_count": 70
+}

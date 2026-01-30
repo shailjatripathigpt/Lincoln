@@ -1,0 +1,82 @@
+{
+  "document_id": "D303552",
+  "url": "https://papersofabrahamlincoln.org/documents/D303552",
+  "metadata": {
+    "date": "1840-09-22",
+    "authors": [
+      "Mayo, Jonathan"
+    ],
+    "keywords": [
+      "Presidents--Election",
+      "Political campaigns",
+      "Presidential candidates"
+    ],
+    "type": "Letter",
+    "extracted_date": "1840",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "table",
+      "counties",
+      "satisfied",
+      "far",
+      "correct",
+      "least",
+      "vermillion",
+      "votes",
+      "majority",
+      "jonathan",
+      "mayo",
+      "editors",
+      "old",
+      "soldier",
+      "september"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Jonathan Mayo to the Editors of The Old Soldier, 22 September 1840 I see in theState Registerexceptions taken to your table of the popular vote ofIllinois.1I am satisfied that the table referred to is far from being correct, at least so\n\nfar as I am acquainted with the relative strength of parties in the Counties ofClark,Edgar,Vermillion,ColesandChampaign. You give the aggregate majorities in these Counties at 415 votes. I have conversed\n\nand compared notes with gentlemen of intelligence, from Clark, Coles and Vermillion,\n\nand have what I conceive to be correct information from Champaign, and I am satisfied\n\nthat thewhigsin those five counties will be able to giveGen. Harrisonat least 825 votes majority in November, which will be a gain of equal to one quarter\n\nof the majority for the administration as given in said table.2",
+    "paragraphs": [
+      "Jonathan Mayo to the Editors of The Old Soldier, 22 September 1840 I see in theState Registerexceptions taken to your table of the popular vote ofIllinois.1I am satisfied that the table referred to is far from being correct, at least so",
+      "far as I am acquainted with the relative strength of parties in the Counties ofClark,Edgar,Vermillion,ColesandChampaign. You give the aggregate majorities in these Counties at 415 votes. I have conversed",
+      "and compared notes with gentlemen of intelligence, from Clark, Coles and Vermillion,",
+      "and have what I conceive to be correct information from Champaign, and I am satisfied",
+      "that thewhigsin those five counties will be able to giveGen. Harrisonat least 825 votes majority in November, which will be a gain of equal to one quarter",
+      "of the majority for the administration as given in said table.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Old Soldier(Springfield, IL), 10 September 1840, 4:3;Illinois State Register(Springfield), 11 September 1840, 2:1.",
+      "Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 117, 119."
+    ],
+    "footnotes": [
+      {
+        "id": "X5FC61479-93E8-4117-9008-7CFDC3889AC1",
+        "text": "1This table appeared in the September 10, 1840, issue of the Old Soldier.  The State\n                  Register responded in its September 11 issue.The Old Soldier(Springfield, IL), 10 September 1840, 4:3;Illinois State Register(Springfield), 11 September 1840, 2:1."
+      },
+      {
+        "id": "XDDD9A21B-6581-4D34-ADD2-91F35E9C9F03",
+        "text": "2In the1840 presidential election, Clark County cast 667 ballots for Harrison and 611 forMartin Van Buren; Edgar, 783 for Harrison and 720 for Van Buren; Vermillion, 1044 for Harrison and\n                  587 for Van Buren; Coles, 1109 for Harrison and 695 for Van Buren; and Champaign,\n                  154 for Harrison and 141 for Van Buren.   The aggregate majority for Harrison in these\n                  counties was 1003 votes.Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 117, 119."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Jonathan Mayo to the Editors of The Old Soldier, 22 September 1840"
+      },
+      {
+        "type": "paragraph",
+        "text": "I see in theState Registerexceptions taken to your table of the popular vote ofIllinois.1I am satisfied that the table referred to is far from being correct, at least so\n               far as I am acquainted with the relative strength of parties in the Counties ofClark,Edgar,Vermillion,ColesandChampaign.  You give the aggregate majorities in these Counties at 415 votes.  I have conversed\n               and compared notes with gentlemen of intelligence, from Clark, Coles and Vermillion,\n               and have what I conceive to be correct information from Champaign, and I am satisfied\n               that thewhigsin those five counties will be able to giveGen. Harrisonat least 825 votes majority in November, which will be a gain of equal to one quarter\n               of the majority for the administration as given in said table.2"
+      }
+    ],
+    "word_count": 135
+  },
+  "extraction_date": "2025-12-26 20:13:19",
+  "word_count": 135,
+  "processing": {
+    "cleaned": true,
+    "original_length": 907,
+    "cleaned_length": 835,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

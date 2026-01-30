@@ -1,0 +1,56 @@
+{
+  "document_id": "D210385",
+  "url": "https://papersofabrahamlincoln.org/documents/D210385",
+  "metadata": {
+    "date": "1849-03-22",
+    "authors": [
+      "Washburne, Elihu B."
+    ],
+    "keywords": [
+      "Military service, Voluntary",
+      "Bounties, Military",
+      "Military pensions",
+      "Bounty Land Claim"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Elihu B. Washburne to Abraham Lincoln, 22 March 18491 If you have a land warrant sent you forWilliam Miltonfather ofJames Milton, please send it to me atGalena, as it is one of my cases,2",
+    "paragraphs": [
+      "Elihu B. Washburne to Abraham Lincoln, 22 March 18491 If you have a land warrant sent you forWilliam Miltonfather ofJames Milton, please send it to me atGalena, as it is one of my cases,2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(Westport, CT: Greenwood, 1974), 10:12;Illinois Public Domain Land Tract Sales, Jo Daviess County, 711:83, 85, 86, Illinois State Archives, Springfield, IL."
+    ],
+    "footnotes": [
+      {
+        "id": "XFAAB14CA-C73C-4F51-AA1B-E0CC4D069F8A",
+        "text": "1Elihu B. Washburne wrote and signed this letter."
+      },
+      {
+        "id": "XBE6E5470-D7DB-4BBD-BE07-382F492FE0C3",
+        "text": "2Abraham Lincoln’s response, if he penned one, has not been located.In December 1848, Lincoln wrote aletterto theDepartment of the Treasuryon behalf of the Miltons. The case involved James Milton, deceased, and Thomas Leakley,\n                  Company F, 2nd Illinois Volunteers, whose back pay from their service in theMexican Warwas being sought by William Milton through Lincoln and the firm of Hempstead & Washburne.\n                  Public land sales records show that William Milton received 240 acres by warrant in\n                  February and April 1848 in Apple River Township in northernJo Daviess County.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(Westport, CT: Greenwood, 1974), 10:12;Illinois Public Domain Land Tract Sales, Jo Daviess County, 711:83, 85, 86, Illinois State Archives, Springfield, IL."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Elihu B. Washburne to Abraham Lincoln, 22 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you have a land warrant sent you forWilliam Miltonfather ofJames Milton, please send it to me atGalena, as it is one of my cases,2"
+      }
+    ],
+    "word_count": 34
+  },
+  "extraction_date": "2025-12-26 20:38:20",
+  "word_count": 34,
+  "processing": {
+    "cleaned": true,
+    "original_length": 187,
+    "cleaned_length": 187,
+    "preserved_originality": true
+  }
+}

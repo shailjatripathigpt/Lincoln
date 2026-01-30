@@ -1,0 +1,81 @@
+{
+  "document_id": "D200044",
+  "url": "https://papersofabrahamlincoln.org/documents/D200044",
+  "metadata": {
+    "date": "1834-12-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislative bodies--U.S. states--Committees",
+      "State governments--Finance"
+    ],
+    "type": "Report",
+    "extracted_date": "1834-12-16",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "public",
+      "committee",
+      "report",
+      "accounts",
+      "expenditures",
+      "contingent",
+      "fund",
+      "consideration",
+      "opinion",
+      "regarding",
+      "refered",
+      "thereportof",
+      "theauditor",
+      "accountsrelative",
+      "same"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Report of Committee on Public Accounts and Expenditures regarding the Contingent Fund,\n\n1 The committee on public accounts and expenditures to which was refered thereportof theAuditor of public accountsrelative to the contingent fund2have had the same under consideration, and have directed me to report— That in their\n\nopinion, the principal part of said fund has not been misapplied— The committee, however,\n\nare of opinion that some charges which have been allowed are exorbitant— and have\n\nresulted in a useless expenditure of the public money— The committee ask to be discharged\n\nfrom the further consideration of this subject—",
+    "paragraphs": [
+      "Report of Committee on Public Accounts and Expenditures regarding the Contingent Fund,",
+      "1 The committee on public accounts and expenditures to which was refered thereportof theAuditor of public accountsrelative to the contingent fund2have had the same under consideration, and have directed me to report— That in their",
+      "opinion, the principal part of said fund has not been misapplied— The committee, however,",
+      "are of opinion that some charges which have been allowed are exorbitant— and have",
+      "resulted in a useless expenditure of the public money— The committee ask to be discharged",
+      "from the further consideration of this subject—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 124, 129.",
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 53-56, 114-15."
+    ],
+    "footnotes": [
+      {
+        "id": "X11F9CD29-9DDE-46EF-8B36-B236FF8C951D",
+        "text": "1AlthoughAbraham Lincolnwrote this report,John D. Hughespresented it to the House on December 16, 1834, and the House laid the report on\n                  the table.  On December 17, Lincoln moved that the report be taken up for consideration,\n                  but the House refused to do so.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 124, 129."
+      },
+      {
+        "id": "X49E8C71D-3ED0-4E76-84D1-03AC65AD2514",
+        "text": "2TheHousereferred the auditor’s report to the committee on public accounts and expenditures\n                  on December 13, 1834.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 53-56, 114-15."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Committee on Public Accounts and Expenditures regarding the Contingent Fund,\n               [16 December 1834]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "The committee on public accounts and expenditures to which was refered thereportof theAuditor of public accountsrelative to the contingent fund2have had the same under consideration, and have directed me to report— That in their\n               opinion, the principal part of said fund has not been misapplied— The committee, however,\n               are of opinion that some charges which have been allowed are exorbitant— and have\n               resulted in a useless expenditure of the public money— The committee ask to be discharged\n               from the further consideration of this subject—"
+      }
+    ],
+    "word_count": 97
+  },
+  "extraction_date": "2025-12-26 19:46:57",
+  "word_count": 99,
+  "processing": {
+    "cleaned": true,
+    "original_length": 720,
+    "cleaned_length": 632,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

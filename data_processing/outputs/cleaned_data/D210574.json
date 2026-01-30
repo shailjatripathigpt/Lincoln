@@ -1,0 +1,60 @@
+{
+  "document_id": "D210574",
+  "url": "https://papersofabrahamlincoln.org/documents/D210574",
+  "metadata": {
+    "date": "1854-11-13",
+    "authors": [
+      "Codding, Ichabod"
+    ],
+    "keywords": [
+      "Political parties",
+      "Antislavery movements"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Ichabod Codding to Abraham Lincoln, 13 November 18541 By request of those members of theRepublican State Central Committee, residing in Chicago\n\n& vicinity, I hereby inform you that there will be a meeting of said committee in\n\nthis city this week Friday (17thinst) at the office ofJ E Farnsworthopposite theSherman Houseat 2 oclock P.M. Your attendance is\n\nrequested2",
+    "paragraphs": [
+      "Ichabod Codding to Abraham Lincoln, 13 November 18541 By request of those members of theRepublican State Central Committee, residing in Chicago",
+      "& vicinity, I hereby inform you that there will be a meeting of said committee in",
+      "this city this week Friday (17thinst) at the office ofJ E Farnsworthopposite theSherman Houseat 2 oclock P.M. Your attendance is"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps."
+    ],
+    "footnotes": [
+      {
+        "id": "XCDC1B13B-72F8-4F68-879D-FDE22A0C1353",
+        "text": "1Ichabod Codding wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "XF5B03BAE-27D7-4CA5-8722-26ED4E0ABCDA",
+        "text": "2Abraham Lincoln responded to Codding in aletterof November 27, 1854, noting that he had never been invited nor agreed to be a member\n                  of the Republican State Central Committee.Codding’s request came in the aftermath of the state andcongressional elections of 1854, which witnessed Lincoln’s return to politics after a brief hiatus concentrating\n                  on his law practice.  Passage of theKansas-Nebraska Actand its effective repeal of theMissouri Compromisehad reawakened Lincoln’s passion for politics, and he threw himself into the election\n                  campaign in the fall of 1854, crisscrossingIllinoisto deliver speeches against the Kansas-Nebraska Act and in support ofanti-Nebraskacandidates.David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps."
+      },
+      {
+        "id": "X660A5746-EB17-47A9-8A90-E84D069640DD",
+        "text": "3This docketing was written by an unknown hand."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Ichabod Codding to Abraham Lincoln, 13 November 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "By request of those members of theRepublican State Central Committee, residing in Chicago\n               & vicinity, I hereby inform you that there will be a meeting of said committee in\n               this city this week Friday (17thinst) at the office ofJ E Farnsworthopposite theSherman Houseat 2 oclock P.M. Your attendance is\n               requested2"
+      }
+    ],
+    "word_count": 58
+  },
+  "extraction_date": "2025-12-26 21:31:41",
+  "word_count": 58,
+  "processing": {
+    "cleaned": true,
+    "original_length": 410,
+    "cleaned_length": 368,
+    "preserved_originality": true
+  }
+}

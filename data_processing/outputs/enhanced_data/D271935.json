@@ -1,0 +1,99 @@
+{
+  "document_id": "D271935",
+  "url": "https://papersofabrahamlincoln.org/documents/D271935",
+  "metadata": {
+    "date": "1840-04-03",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military pensions",
+      "Soldiers"
+    ],
+    "type": "Letter",
+    "extracted_date": "1840-04-03",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "battle",
+      "states",
+      "united",
+      "company",
+      "him",
+      "wound",
+      "affidavit",
+      "pension",
+      "transfered",
+      "time",
+      "place",
+      "his",
+      "above",
+      "you",
+      "get"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John T. Stuart, 3 April 18401 MrJames Lynn, ofBuffalo Heart Grove, wishes to procure a pension— He says he enlisted inLogan county Ky.inWilliam Bradford’s company of the 17thRegiment— of United States Infantry— AtLouisvillewas transfered to Captain’sCroghan’s company, was under him at the seige and battle ofFort Meigs, and received a wound at that time (May 5th1813)Was then transfered toCaptain Holt’s company, and has thecertificateaffidavit ofSamuel Wydickof the same company that he was wounded at the time and place aforesaidAlso the affidavit of Thomas Morgan,2an ensign inBradford’s company, as to his enlistment and wound as above mentioned— Also the Affidavit\n\nof Dr’sElkin&Darling, as to the character of the wound, its disabling effects &c. &c. MrLynnwishes you to seeCol Croghanand get an affidavit from him, as to the above facts, or so many of them as he can\n\nrecollect— MrLynn’s name was not noted on the rolls as a disabled man, as he learns; and he wishesColCroghanto account for that fact, which he supposes he can do— When you have done this, write\n\ntoMrLynnatthis place, telling what will be proper for him to do, to get his pension—3 Nothing new here now—Harrisongoing ahead4",
+    "paragraphs": [
+      "Abraham Lincoln to John T.",
+      "Stuart, 3 April 18401 MrJames Lynn, ofBuffalo Heart Grove, wishes to procure a pension— He says he enlisted inLogan county Ky.inWilliam Bradford’s company of the 17thRegiment— of United States Infantry— AtLouisvillewas transfered to Captain’sCroghan’s company, was under him at the seige and battle ofFort Meigs, and received a wound at that time (May 5th1813)Was then transfered toCaptain Holt’s company, and has thecertificateaffidavit ofSamuel Wydickof the same company that he was wounded at the time and place aforesaidAlso the affidavit of Thomas Morgan,2an ensign inBradford’s company, as to his enlistment and wound as above mentioned— Also the Affidavit",
+      "of Dr’sElkin&Darling, as to the character of the wound, its disabling effects &c. &c. MrLynnwishes you to seeCol Croghanand get an affidavit from him, as to the above facts, or so many of them as he can",
+      "recollect— MrLynn’s name was not noted on the rolls as a disabled man, as he learns; and he wishesColCroghanto account for that fact, which he supposes he can do— When you have done this, write",
+      "toMrLynnatthis place, telling what will be proper for him to do, to get his pension—3 Nothing new here now—Harrisongoing ahead4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 117, 119."
+    ],
+    "footnotes": [
+      {
+        "id": "XD299CF01-6938-40DA-B665-D06FD2D3F372",
+        "text": "1Abraham Lincoln wrote the text of the letter and his signature."
+      },
+      {
+        "id": "X6A8E071A-8EBE-4CEC-A22B-4788BB579E2A",
+        "text": "2Might beThomas Morganof Sangamon County, Illinois."
+      },
+      {
+        "id": "XDD6C4F6A-E76B-4ECD-9DA4-6DA0754AB2A1",
+        "text": "3There is no evidence thatLynnreceived a pension in his lifetime.  After his death, Sarah his wife made application\n                  for a widow’s pension, but it is not known if she received any compensation."
+      },
+      {
+        "id": "XAB3282DF-8262-48C5-A56F-62C79B4BA3B9",
+        "text": "4Lincolnwas making reference to the1840 presidential election.William Henry Harrisonwould carrySangamon Countywith 62 percent of the vote, butMartin Van Burenwould carryIllinoiswith 51 percent of the vote.Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 117, 119."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John T. Stuart, 3 April 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrJames Lynn, ofBuffalo Heart Grove, wishes to procure a pension— He says he enlisted inLogan county Ky.inWilliam Bradford’s company of the 17thRegiment— of United States Infantry— AtLouisvillewas transfered to Captain’sCroghan’s company, was under him at the seige and battle ofFort Meigs, and received a wound at that time (May 5th1813)Was then transfered toCaptain Holt’s company, and has thecertificateaffidavit ofSamuel Wydickof the same company that he was wounded at the time and place aforesaidAlso the affidavit of Thomas Morgan,2an ensign inBradford’s company, as to his enlistment and wound as above mentioned— Also the Affidavit\n               of Dr’sElkin&Darling, as to the character of the wound, its disabling effects &c. &c[etc. etc]."
+      },
+      {
+        "type": "paragraph",
+        "text": "MrLynnwishes you to seeCol[Colonel] Croghanand get an affidavit from him, as to the above facts, or so many of them as he can\n               recollect—"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrLynn’s name was not noted on the rolls as a disabled man, as he learns; and he wishesColCroghanto account for that fact, which he supposes he can do— When you have done this, write\n               toMrLynnatthis place, telling what will be proper for him to do, to get his pension—3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nothing new here now—Harrisongoing ahead4"
+      }
+    ],
+    "word_count": 194
+  },
+  "extraction_date": "2025-12-26 20:12:15",
+  "word_count": 195,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1278,
+    "cleaned_length": 1217,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

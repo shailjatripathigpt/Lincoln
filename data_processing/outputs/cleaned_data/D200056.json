@@ -1,0 +1,61 @@
+{
+  "document_id": "D200056",
+  "url": "https://papersofabrahamlincoln.org/documents/D200056",
+  "metadata": {
+    "date": "1835-11-03",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Postmasters",
+      "Newspapers",
+      "Dead"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Francis P. Blair Sr. and John C. Rives, 3 November 18351 Your subscriber at this placeJohnCVance, is dead; and no person takes the paper from this office2",
+    "paragraphs": [
+      "Abraham Lincoln to Francis P. Blair Sr. and John C. Rives, 3 November 18351 Your subscriber at this placeJohnCVance, is dead; and no person takes the paper from this office2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X5942A652-E7BC-4617-AE0D-F259F421D50C",
+        "text": "1Abraham Lincoln wrote the entirety of the text, aside from that denoted by a footnote."
+      },
+      {
+        "id": "XD537D130-A718-496B-B954-4C3FB7891418",
+        "text": "2It is likely that Lincoln was referring toThe Globe, a popularDemocraticpolitical newspaper. However, Blair and Rives also published theCongressional Globe, so it is possible he was referring to that less circulated newspaper."
+      },
+      {
+        "id": "X284E396F-9E58-45A8-AF66-F7DD7DF06BDB",
+        "text": "3Lincolnservedas Postmaster at New Salem from May 7, 1833 to May 30, 1836."
+      },
+      {
+        "id": "XC95E331A-15F1-46B1-BAB1-FEED7B8C76DA",
+        "text": "4This notation is not in Lincoln’s hand, and it is unlikely that it is related to the\n                  content of the letter."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Francis P. Blair Sr. and John C. Rives, 3 November 18351"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your subscriber at this placeJohnCVance,  is dead; and no person takes the paper from this office2"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:02:48",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 174,
+    "cleaned_length": 173,
+    "preserved_originality": true
+  }
+}

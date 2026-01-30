@@ -1,0 +1,482 @@
+{
+  "total_documents_analyzed": 91,
+  "failed_documents": 9,
+  "theme_distribution": {
+    "presidential_and_executive": {
+      "count": 41,
+      "percentage": 45.05494505494506,
+      "average_intensity": 2.609119794348281,
+      "total_score": 106.97391156827952
+    },
+    "legal_and_constitutional": {
+      "count": 38,
+      "percentage": 41.75824175824176,
+      "average_intensity": 2.6650100453922394,
+      "total_score": 101.27038172490509
+    },
+    "war_and_conflict": {
+      "count": 34,
+      "percentage": 37.362637362637365,
+      "average_intensity": 2.164189382240663,
+      "total_score": 73.58243899618255
+    },
+    "democracy_and_government": {
+      "count": 33,
+      "percentage": 36.26373626373626,
+      "average_intensity": 2.974370739652402,
+      "total_score": 98.15423440852926
+    },
+    "morality_and_ethics": {
+      "count": 31,
+      "percentage": 34.065934065934066,
+      "average_intensity": 2.6173020626124113,
+      "total_score": 81.13636394098475
+    },
+    "unity_and_union": {
+      "count": 26,
+      "percentage": 28.57142857142857,
+      "average_intensity": 3.5022836253778875,
+      "total_score": 91.05937425982508
+    },
+    "slavery_and_freedom": {
+      "count": 16,
+      "percentage": 17.582417582417584,
+      "average_intensity": 2.952847015547671,
+      "total_score": 47.245552248762735
+    }
+  },
+  "theme_evolution": {
+    "1832": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 0.0,
+      "legal_and_constitutional": 0.0,
+      "presidential_and_executive": 0.0
+    },
+    "1833": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 0.5,
+      "morality_and_ethics": 0.5,
+      "legal_and_constitutional": 0.0,
+      "presidential_and_executive": 0.0
+    },
+    "1834": {
+      "unity_and_union": 0.34638032559750603,
+      "slavery_and_freedom": 0.17319016279875302,
+      "democracy_and_government": 0.4329754069968826,
+      "war_and_conflict": 1.6355213023900241,
+      "morality_and_ethics": 3.800398337374437,
+      "legal_and_constitutional": 5.445704883962591,
+      "presidential_and_executive": 0.25978524419812954
+    },
+    "1835": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 0.0,
+      "legal_and_constitutional": 2.0,
+      "presidential_and_executive": 0.0
+    },
+    "1836": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 0.0,
+      "legal_and_constitutional": 0.0,
+      "presidential_and_executive": 1.0
+    },
+    "1837": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.5,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 0.0,
+      "legal_and_constitutional": 0.5,
+      "presidential_and_executive": 0.0
+    },
+    "1838": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 0.0,
+      "legal_and_constitutional": 0.0,
+      "presidential_and_executive": 0.5
+    },
+    "1839": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 0.0,
+      "legal_and_constitutional": 0.0,
+      "presidential_and_executive": 0.0
+    },
+    "1840": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.3333333333333333,
+      "democracy_and_government": 1.3333333333333333,
+      "war_and_conflict": 1.3333333333333333,
+      "morality_and_ethics": 0.3333333333333333,
+      "legal_and_constitutional": 1.0,
+      "presidential_and_executive": 0.3333333333333333
+    },
+    "1841": {
+      "unity_and_union": 1.5,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.5,
+      "war_and_conflict": 1.0,
+      "morality_and_ethics": 0.0,
+      "legal_and_constitutional": 3.5,
+      "presidential_and_executive": 0.0
+    },
+    "1842": {
+      "unity_and_union": 0.4,
+      "slavery_and_freedom": 0.4,
+      "democracy_and_government": 0.4,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 0.8,
+      "legal_and_constitutional": 1.2,
+      "presidential_and_executive": 0.4
+    },
+    "1843": {
+      "unity_and_union": 6.891284319145015,
+      "slavery_and_freedom": 0.18426386585590568,
+      "democracy_and_government": 3.4741109268472457,
+      "war_and_conflict": 1.3467845955408144,
+      "morality_and_ethics": 0.9782568638290031,
+      "legal_and_constitutional": 1.495854063018242,
+      "presidential_and_executive": 1.978256863829003
+    },
+    "1844": {
+      "unity_and_union": 10.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 8.0,
+      "war_and_conflict": 2.0,
+      "morality_and_ethics": 7.0,
+      "legal_and_constitutional": 3.0,
+      "presidential_and_executive": 1.0
+    },
+    "1846": {
+      "unity_and_union": 0.5,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 2.5,
+      "morality_and_ethics": 0.5,
+      "legal_and_constitutional": 0.0,
+      "presidential_and_executive": 1.5
+    },
+    "1847": {
+      "unity_and_union": 1.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 1.0,
+      "war_and_conflict": 2.0,
+      "morality_and_ethics": 2.0,
+      "legal_and_constitutional": 2.0,
+      "presidential_and_executive": 0.0
+    },
+    "1848": {
+      "unity_and_union": 2.3,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 2.1,
+      "war_and_conflict": 2.6,
+      "morality_and_ethics": 2.1,
+      "legal_and_constitutional": 2.2,
+      "presidential_and_executive": 2.2
+    },
+    "1849": {
+      "unity_and_union": 0.13636363636363635,
+      "slavery_and_freedom": 0.045454545454545456,
+      "democracy_and_government": 0.3181818181818182,
+      "war_and_conflict": 0.5,
+      "morality_and_ethics": 0.36363636363636365,
+      "legal_and_constitutional": 0.18181818181818182,
+      "presidential_and_executive": 2.3181818181818183
+    },
+    "1850": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 1.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 1.0,
+      "legal_and_constitutional": 1.0,
+      "presidential_and_executive": 1.0
+    },
+    "1851": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 0.0,
+      "legal_and_constitutional": 1.0,
+      "presidential_and_executive": 0.0
+    },
+    "1852": {
+      "unity_and_union": 0.0,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.0,
+      "war_and_conflict": 0.0,
+      "morality_and_ethics": 0.0,
+      "legal_and_constitutional": 0.0,
+      "presidential_and_executive": 0.0
+    },
+    "1854": {
+      "unity_and_union": 0.6,
+      "slavery_and_freedom": 0.6,
+      "democracy_and_government": 0.4,
+      "war_and_conflict": 0.2,
+      "morality_and_ethics": 0.4,
+      "legal_and_constitutional": 0.8,
+      "presidential_and_executive": 0.0
+    },
+    "1855": {
+      "unity_and_union": 0.3333333333333333,
+      "slavery_and_freedom": 0.0,
+      "democracy_and_government": 0.6666666666666666,
+      "war_and_conflict": 0.3333333333333333,
+      "morality_and_ethics": 0.6666666666666666,
+      "legal_and_constitutional": 1.6666666666666667,
+      "presidential_and_executive": 1.0
+    },
+    "1856": {
+      "unity_and_union": 6.0,
+      "slavery_and_freedom": 11.0,
+      "democracy_and_government": 6.666666666666667,
+      "war_and_conflict": 0.3333333333333333,
+      "morality_and_ethics": 2.6666666666666665,
+      "legal_and_constitutional": 0.6666666666666666,
+      "presidential_and_executive": 2.3333333333333335
+    },
+    "1858": {
+      "unity_and_union": 0.3076923076923077,
+      "slavery_and_freedom": 0.38461538461538464,
+      "democracy_and_government": 1.3076923076923077,
+      "war_and_conflict": 0.5384615384615384,
+      "morality_and_ethics": 0.38461538461538464,
+      "legal_and_constitutional": 0.8461538461538461,
+      "presidential_and_executive": 0.5384615384615384
+    }
+  },
+  "theme_intensity": {
+    "unity_and_union": {
+      "average": 1.000652464393682,
+      "std_dev": 2.507974781806656,
+      "max": 13.0,
+      "min": 0.0
+    },
+    "slavery_and_freedom": {
+      "average": 0.5191818928435464,
+      "std_dev": 2.321084581234457,
+      "max": 18.0,
+      "min": 0.0
+    },
+    "democracy_and_government": {
+      "average": 1.0786179605332886,
+      "std_dev": 2.240206010776505,
+      "max": 13.0,
+      "min": 0.0
+    },
+    "war_and_conflict": {
+      "average": 0.8085982307272805,
+      "std_dev": 1.67548526555362,
+      "max": 10.0,
+      "min": 0.0
+    },
+    "morality_and_ethics": {
+      "average": 0.8916083949558764,
+      "std_dev": 2.1485664213180455,
+      "max": 14.201593349497749,
+      "min": 0.0
+    },
+    "legal_and_constitutional": {
+      "average": 1.1128613376363197,
+      "std_dev": 2.5707861307493016,
+      "max": 20.782819535850365,
+      "min": 0.0
+    },
+    "presidential_and_executive": {
+      "average": 1.1755374897613136,
+      "std_dev": 1.7699298667933494,
+      "max": 6.0,
+      "min": 0.0
+    }
+  },
+  "document_themes_summary": [
+    {
+      "document_id": "D206775",
+      "primary_theme": "unity_and_union",
+      "primary_score": 3.0,
+      "all_scores": {
+        "unity_and_union": 3.0,
+        "slavery_and_freedom": 0.0,
+        "democracy_and_government": 1.0,
+        "war_and_conflict": 0.0,
+        "morality_and_ethics": 0.0,
+        "legal_and_constitutional": 0.0,
+        "presidential_and_executive": 0.0
+      }
+    },
+    {
+      "document_id": "D200686",
+      "primary_theme": "legal_and_constitutional",
+      "primary_score": 1.0,
+      "all_scores": {
+        "unity_and_union": 0.0,
+        "slavery_and_freedom": 0.0,
+        "democracy_and_government": 0.0,
+        "war_and_conflict": 0.0,
+        "morality_and_ethics": 0.0,
+        "legal_and_constitutional": 1.0,
+        "presidential_and_executive": 0.0
+      }
+    },
+    {
+      "document_id": "D200572b",
+      "primary_theme": "presidential_and_executive",
+      "primary_score": 4.0,
+      "all_scores": {
+        "unity_and_union": 0.0,
+        "slavery_and_freedom": 0.0,
+        "democracy_and_government": 0.0,
+        "war_and_conflict": 1.0,
+        "morality_and_ethics": 0.0,
+        "legal_and_constitutional": 0.0,
+        "presidential_and_executive": 4.0
+      }
+    },
+    {
+      "document_id": "D200339",
+      "primary_theme": "morality_and_ethics",
+      "primary_score": 1.0,
+      "all_scores": {
+        "unity_and_union": 0.0,
+        "slavery_and_freedom": 0.0,
+        "democracy_and_government": 0.0,
+        "war_and_conflict": 0.0,
+        "morality_and_ethics": 1.0,
+        "legal_and_constitutional": 0.0,
+        "presidential_and_executive": 0.0
+      }
+    },
+    {
+      "document_id": "D200040",
+      "primary_theme": "unity_and_union",
+      "primary_score": 0.0,
+      "all_scores": {
+        "unity_and_union": 0.0,
+        "slavery_and_freedom": 0.0,
+        "democracy_and_government": 0.0,
+        "war_and_conflict": 0.0,
+        "morality_and_ethics": 0.0,
+        "legal_and_constitutional": 0.0,
+        "presidential_and_executive": 0.0
+      }
+    },
+    {
+      "document_id": "D210676",
+      "primary_theme": "democracy_and_government",
+      "primary_score": 4.0,
+      "all_scores": {
+        "unity_and_union": 0.0,
+        "slavery_and_freedom": 0.0,
+        "democracy_and_government": 4.0,
+        "war_and_conflict": 0.0,
+        "morality_and_ethics": 0.0,
+        "legal_and_constitutional": 2.0,
+        "presidential_and_executive": 4.0
+      }
+    },
+    {
+      "document_id": "D200504",
+      "primary_theme": "legal_and_constitutional",
+      "primary_score": 7.0,
+      "all_scores": {
+        "unity_and_union": 3.0,
+        "slavery_and_freedom": 0.0,
+        "democracy_and_government": 4.0,
+        "war_and_conflict": 0.0,
+        "morality_and_ethics": 0.0,
+        "legal_and_constitutional": 7.0,
+        "presidential_and_executive": 1.0
+      }
+    },
+    {
+      "document_id": "D201144",
+      "primary_theme": "slavery_and_freedom",
+      "primary_score": 2.0,
+      "all_scores": {
+        "unity_and_union": 1.0,
+        "slavery_and_freedom": 2.0,
+        "democracy_and_government": 0.0,
+        "war_and_conflict": 0.0,
+        "morality_and_ethics": 0.0,
+        "legal_and_constitutional": 0.0,
+        "presidential_and_executive": 0.0
+      }
+    },
+    {
+      "document_id": "D289209",
+      "primary_theme": "unity_and_union",
+      "primary_score": 0.0,
+      "all_scores": {
+        "unity_and_union": 0.0,
+        "slavery_and_freedom": 0.0,
+        "democracy_and_government": 0.0,
+        "war_and_conflict": 0.0,
+        "morality_and_ethics": 0.0,
+        "legal_and_constitutional": 0.0,
+        "presidential_and_executive": 0.0
+      }
+    },
+    {
+      "document_id": "D210347",
+      "primary_theme": "morality_and_ethics",
+      "primary_score": 11.0,
+      "all_scores": {
+        "unity_and_union": 1.0,
+        "slavery_and_freedom": 0.0,
+        "democracy_and_government": 5.0,
+        "war_and_conflict": 2.0,
+        "morality_and_ethics": 11.0,
+        "legal_and_constitutional": 1.0,
+        "presidential_and_executive": 6.0
+      }
+    }
+  ],
+  "most_common_themes": {
+    "unity_and_union": {
+      "count": 27,
+      "percentage": 29.67032967032967
+    },
+    "presidential_and_executive": {
+      "count": 16,
+      "percentage": 17.582417582417584
+    },
+    "democracy_and_government": {
+      "count": 13,
+      "percentage": 14.285714285714285
+    },
+    "war_and_conflict": {
+      "count": 12,
+      "percentage": 13.186813186813188
+    },
+    "legal_and_constitutional": {
+      "count": 11,
+      "percentage": 12.087912087912088
+    },
+    "slavery_and_freedom": {
+      "count": 7,
+      "percentage": 7.6923076923076925
+    },
+    "morality_and_ethics": {
+      "count": 5,
+      "percentage": 5.4945054945054945
+    }
+  }
+}

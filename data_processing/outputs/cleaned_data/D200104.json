@@ -1,0 +1,67 @@
+{
+  "document_id": "D200104",
+  "url": "https://papersofabrahamlincoln.org/documents/D200104",
+  "metadata": {
+    "date": "1837-04-19",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Capitols",
+      "State governments--Finance",
+      "Public buildings",
+      "Bonds"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Levi Davis, 19 April 18371 per. DrA. G. Henry The bearer of this,DrHenry, visits you for the purpose of drawing a small amount of money to enable the Commissioners\n\nto commence the erection of a State House. He, as you probably recollect, is one of\n\nthe building commissioners.2Thebondfor the $50,000 required by theactlocating the Seat of Government, has been executed by several of our citizens and\n\nduly approved by theGovernor; and will be filed with theTreasurer, by DrHenry on his arrival at yourtown. The Dr, being a stranger to you and the Treasurer, and his duties being of a new kind,\n\nhe has asked me to request you, as a friend, to render him what assistance you conveniently\n\ncan. We have, generally in this country, peace, health, and plenty, and no news.",
+    "paragraphs": [
+      "Abraham Lincoln to Levi Davis, 19 April 18371 per. DrA. G. Henry The bearer of this,DrHenry, visits you for the purpose of drawing a small amount of money to enable the Commissioners",
+      "to commence the erection of a State House. He, as you probably recollect, is one of",
+      "the building commissioners.2Thebondfor the $50,000 required by theactlocating the Seat of Government, has been executed by several of our citizens and",
+      "duly approved by theGovernor; and will be filed with theTreasurer, by DrHenry on his arrival at yourtown. The Dr, being a stranger to you and the Treasurer, and his duties being of a new kind,",
+      "he has asked me to request you, as a friend, to render him what assistance you conveniently",
+      "can. We have, generally in this country, peace, health, and plenty, and no news."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XA91F0667-0192-482F-9645-CBE65E2B9C1F",
+        "text": "1This letter, including the address on the back page, was written entirely by Abraham\n                  Lincoln."
+      },
+      {
+        "id": "X2A878CD1-D200-4C1A-95C0-15E55A7FC191",
+        "text": "2On March 3, 1837, the Illinois General Assembly had passedlegislationmaking Henry one of four commissioners for the construction of  a statehouse in the\n                  new capital of Springfield."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Levi Davis, 19 April 18371"
+      },
+      {
+        "type": "description",
+        "text": "per. DrA. G. Henry"
+      },
+      {
+        "type": "paragraph",
+        "text": "The bearer of  this,DrHenry, visits you for the purpose of drawing a small amount of money to enable the Commissioners\n               to commence the erection of a State House. He, as you probably recollect, is one of\n               the building commissioners.2Thebondfor the $50,000 required by theactlocating the Seat of Government, has been executed by several of our citizens and\n               duly approved by theGovernor; and will be filed with theTreasurer, by DrHenry on his arrival at yourtown. The Dr, being a stranger to you and the Treasurer,  and his duties being of a new kind,\n               he has asked me to request you, as a friend, to render him what assistance you conveniently\n               can."
+      },
+      {
+        "type": "paragraph",
+        "text": "We have, generally in this country, peace, health, and plenty, and no news."
+      }
+    ],
+    "word_count": 135
+  },
+  "extraction_date": "2025-12-26 20:05:45",
+  "word_count": 135,
+  "processing": {
+    "cleaned": true,
+    "original_length": 860,
+    "cleaned_length": 788,
+    "preserved_originality": true
+  }
+}

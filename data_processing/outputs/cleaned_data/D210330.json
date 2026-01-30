@@ -1,0 +1,77 @@
+{
+  "document_id": "D210330",
+  "url": "https://papersofabrahamlincoln.org/documents/D210330",
+  "metadata": {
+    "date": "1856-03-21",
+    "authors": [
+      "Davis, David"
+    ],
+    "keywords": [
+      "Citizen suits (Civil procedure)",
+      "Divorce"
+    ],
+    "type": "Decree"
+  },
+  "content": {
+    "full_text": "Decree in McCrea v. McCrea, 21 March 18561",
+    "paragraphs": [
+      "Decree in McCrea v. McCrea, 21 March 18561"
+    ],
+    "tables_count": 2,
+    "citations": [
+      "Illinois Statewide Marriage Index,  Sangamon County, 10 April 1846, Illinois State Archives, Springfield, IL; U.S.\n                     Census Office, Eighth Census of the United States (1860),  Petersburg, Menard County,\n                     IL, 215; Bill for Divorce, Affidavit, Document ID: 76555,McCrea v. McCrea, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139949; “An Act Concerning Divorces,” 31 January 1827,Revised Laws of Illinois(1827), 181-83.",
+      "Daily Illinois State Journal(Springfield), 10 January 1856, 2:5; 11 January 1856, 2:5; 12 January 1856, 3:5;\n                     18 January 1856, 3:6; 19 January 1856, 3:6;The Illinois State Journal(Springfield), 23 January 1856, 3:7; 30 January 1856, 4:4; 6 February 1856, 4:4;\n                     13 February 1856, 4:4; John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 493-94."
+    ],
+    "footnotes": [
+      {
+        "id": "XB5628184-EF8B-4D83-951F-A1509765892A",
+        "text": "1Abraham Lincolnwrote the text of this document. David Davis signed his own name."
+      },
+      {
+        "id": "XE98E547D-DE54-4FF0-A9DC-33612F6A800D",
+        "text": "2Charles McCrea and Nancy McClelland married in April 1846 inSangamon County, Illinois. In March 1856, Nancy retainedLincoln & Herndonand sued Charles for divorce in theSangamon County Circuit Court, citing his desertion of her and their two children, James and Mary, in 1849. Charles\n                  had gone toCaliforniain April 1849, apparently to mine for gold. Legislation governing divorces, enacted\n                  by theIllinois General Assemblyin January 1827, gave circuit courts jurisdiction over divorce suits.Illinois Statewide Marriage Index,  Sangamon County, 10 April 1846, Illinois State Archives, Springfield, IL; U.S.\n                     Census Office, Eighth Census of the United States (1860),  Petersburg, Menard County,\n                     IL, 215; Bill for Divorce, Affidavit, Document ID: 76555,McCrea v. McCrea, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139949; “An Act Concerning Divorces,” 31 January 1827,Revised Laws of Illinois(1827), 181-83."
+      },
+      {
+        "id": "XA97EBDDB-9492-495D-8854-83F2D5D95EA0",
+        "text": "3An announcement appeared in nine issues of theIllinois State Journalin January and February 1856 calling Charles McCrea to appear at the Sangamon County\n                  Circuit Court on the third Monday of March (March 17) 1856 to “plead, answer, or demur”\n                  to the divorce bill. Charles failed to appear for the court date and Judge Davis granted\n                  Nancy a divorce and custody of the children. Charles McCrea was last heard from in\n                  1855, and his friends believed he had been murdered for his money as he prepared to\n                  return from California toIllinois.Daily Illinois State Journal(Springfield), 10 January 1856, 2:5; 11 January 1856, 2:5; 12 January 1856, 3:5;\n                     18 January 1856, 3:6; 19 January 1856, 3:6;The Illinois State Journal(Springfield), 23 January 1856, 3:7; 30 January 1856, 4:4; 6 February 1856, 4:4;\n                     13 February 1856, 4:4; John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 493-94."
+      },
+      {
+        "id": "X49753725-CBBA-4281-A047-9074B68D1D44",
+        "text": "4Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Decree in McCrea v. McCrea, 21 March 18561"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "Nancy McCrea | }",
+          "vs | In Chancery for Divorce.2",
+          "Charles McCrea"
+        ]
+      },
+      {
+        "type": "table",
+        "table_number": 2,
+        "rows": [
+          "Nancy McCrea | }",
+          "vs | Decree4",
+          "Charles McCrea–"
+        ]
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 21:38:09",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 62,
+    "cleaned_length": 42,
+    "preserved_originality": true
+  }
+}

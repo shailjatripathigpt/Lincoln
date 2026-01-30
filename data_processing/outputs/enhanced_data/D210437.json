@@ -1,0 +1,83 @@
+{
+  "document_id": "D210437",
+  "url": "https://papersofabrahamlincoln.org/documents/D210437",
+  "metadata": {
+    "date": "1849-04-13",
+    "authors": [
+      "Robbins, Zenas C."
+    ],
+    "keywords": [
+      "Buoys--Design and construction",
+      "Inland water transportation",
+      "Inventions",
+      "Patents"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-04-13",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "your",
+      "patent",
+      "zenas",
+      "robbins",
+      "abraham",
+      "lincoln",
+      "april",
+      "affords",
+      "much",
+      "pleasure",
+      "inform",
+      "obtained",
+      "favorable",
+      "decision"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Zenas C. Robbins to Abraham Lincoln, 13 April 18491 It affords me much pleasure to inform you that I have obtained a favorable decision\n\non your application for a patent for your improved manner of combining expansible\n\nbuoys with a vessel, and operating the same.2The patent will be issued in about a month. Wishing you prosperity and happiness, I remain",
+    "paragraphs": [
+      "Zenas C. Robbins to Abraham Lincoln, 13 April 18491 It affords me much pleasure to inform you that I have obtained a favorable decision",
+      "on your application for a patent for your improved manner of combining expansible",
+      "buoys with a vessel, and operating the same.2The patent will be issued in about a month. Wishing you prosperity and happiness, I remain"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Jason Emerson,Lincoln the Inventor(Carbondale: Southern Illinois University Press, 2009), 4-6, 18."
+    ],
+    "footnotes": [
+      {
+        "id": "X2C9802BE-FA5A-4D07-826C-D9E3C366C3AF",
+        "text": "1Zenas C. Robbins wrote and signed this letter."
+      },
+      {
+        "id": "X097B571F-9CC1-4DFA-91DF-DFFAF4203CC0",
+        "text": "2The idea for an invention began germinating in Abraham Lincoln’s mind while traveling\n                  abroad the steamboatGlobefrom Washington, DC toSpringfield, Illinois, after the first session of theThirtieth Congress.  Lincoln and his party came upon another steamer, theCanada, which had become stranded on a sandbar on Fighting Island.  Lincoln watched as theCanada’s captain employed empty casks  and other materials to buoy up the vessel and free\n                  it from the obstruction.  Lincoln began to envision an apparatus that would lift boats\n                  over sandbars and shoals, allowing for easier passage in shallow waters.  Lincoln’s\n                  idea was to attach something akin to a bellows on each side of the hull of a vessel\n                  which, together with a system of ropes and pulleys, would lift the boat and move it\n                  clear of any obstacle.  Upon returning to Springfield, Lincoln composed a description\n                  of his device and secured the assistance ofWalter Davis, a mechanic who operated a shop near theLincoln & HerndonLaw Office, to construct a model of the apparatus.  Lincoln took the miniature with\n                  him when he returned to Washington in November 1848 for the second session of the\n                  Thirtieth Congress.  He hired Washington attorney Zenas C. Robbins to help him secure\n                  a patent.  On March 10, 1849, Abraham Lincoln submitted his patent application and a model of his invention to Commissioner of PatentsEdmund Burke.  On May 22, the U.S. Patent Office approved Lincoln’s application and issued him\n                  patent number 6,469.Jason Emerson,Lincoln the Inventor(Carbondale: Southern Illinois University Press, 2009), 4-6, 18."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Zenas C. Robbins to Abraham Lincoln, 13 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "It affords me much pleasure to inform you that I have obtained a favorable decision\n               on your application for a patent for your improved manner of combining expansible\n               buoys with a vessel, and operating the same.2The patent will be issued in about a month."
+      },
+      {
+        "type": "paragraph",
+        "text": "Wishing you prosperity and happiness, I remain"
+      }
+    ],
+    "word_count": 60
+  },
+  "extraction_date": "2025-12-26 20:39:51",
+  "word_count": 60,
+  "processing": {
+    "cleaned": true,
+    "original_length": 383,
+    "cleaned_length": 355,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

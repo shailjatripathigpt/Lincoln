@@ -1,0 +1,58 @@
+{
+  "document_id": "D200859",
+  "url": "https://papersofabrahamlincoln.org/documents/D200859",
+  "metadata": {
+    "date": "1855-08-21",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Divorce",
+      "Land titles--Registration and transfer"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to , 21 August 18551 Herewith is the Bill– Fill in the names of the arbitrators in the blank left for\n\nthat purpose– Also, get copies of your deed and bond, as indicated in the bill, mark\n\nthem (A) & (B.) and file them with the Bill–2",
+    "paragraphs": [
+      "Abraham Lincoln to , 21 August 18551 Herewith is the Bill– Fill in the names of the arbitrators in the blank left for",
+      "that purpose– Also, get copies of your deed and bond, as indicated in the bill, mark",
+      "them (A) & (B.) and file them with the Bill–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953),2:319-20;Miller v. Miller, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137129.",
+      "Bill of Divorce, Document ID: 4456; Answer, Document ID: 56837; Decree, Document ID:\n                     56854,Miller v. Miller, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137129."
+    ],
+    "footnotes": [
+      {
+        "id": "XA2E9B69C-0457-4480-A835-A20300132291",
+        "text": "1Abraham Lincoln wrote and signed this note. Lincoln did not include a recipient; Roy\n                  P. Basler, editor ofThe Collected Works of Abraham Lincoln, identifiedJohn L. Milleras the recipient, and  documents associated with this note confirm that contention.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953),2:319-20;Miller v. Miller, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137129."
+      },
+      {
+        "id": "XC8FDFAB5-C75C-4996-8C12-8B6FF502F83B",
+        "text": "2John L. Miller filled in the blanks and filed the bill and supporting documents with\n                  theWoodford County Circuit Courton August 27, 1855.The bill and this note are associated with a lawsuit between John L. and Susan F.\n                  Miller.  John L.  Miller married Susan F. Rockwell inWoodford County, Illinois, on November 15, 1849.  The couple lived together as husband and wife until October\n                  31, 1852, when, according to John, Susan left the family home.  Susan absented herself\n                  from home for two years, and John retained Lincoln and sued Susan in the Woodford\n                  County Circuit Court in April 1855 for divorce on the grounds of desertion.  Susan\n                  answered that she left John because he mistreated her, spread illicit rumors about\n                  her, and refused to allow her to see her family.  John dismissed the case but later\n                  reinstated it.  At the September term of the Woodford County Circuit Court, Susan\n                  failed to appear, and the court granted the divorce.Bill of Divorce, Document ID: 4456; Answer, Document ID: 56837; Decree, Document ID:\n                     56854,Miller v. Miller, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137129."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to [John L. Miller], 21 August 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "Herewith is the Bill–  Fill in the names of the arbitrators in the blank left for\n               that purpose–  Also, get copies of your deed and bond, as indicated in the bill, mark\n               them (A) & (B.) and file them with the Bill–2"
+      }
+    ],
+    "word_count": 49
+  },
+  "extraction_date": "2025-12-26 21:37:17",
+  "word_count": 51,
+  "processing": {
+    "cleaned": true,
+    "original_length": 296,
+    "cleaned_length": 250,
+    "preserved_originality": true
+  }
+}

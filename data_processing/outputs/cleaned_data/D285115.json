@@ -1,0 +1,58 @@
+{
+  "document_id": "D285115",
+  "url": "https://papersofabrahamlincoln.org/documents/D285115",
+  "metadata": {
+    "date": "1832-08-31",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military discharge",
+      "Indians of North America--Wars",
+      "Militia",
+      "Soldiers--Salaries, etc.",
+      "Bounties, Military"
+    ],
+    "type": "Certificate"
+  },
+  "content": {
+    "full_text": "Certificate of Discharge for Hugh Armstrong, 31 August 18321 I CERTIFY, ThatHugh Armstrongvolunteered and servedas 1stLieutenantin the Company of Mounted Volunteers under my command, in theRegimentcommanded by Col.Samuel M. Thompson, in the Brigade under the command of GeneralsS. WhitesideandH. Atkinson, called into the service of the United States by theCommander-in-Chiefof theMilitia of the State, for the protection of the North Western Frontier against anInvasion of the British BandofSacand other tribes of Indians,—that he was enrolled on the29thday ofApril1832, and was HONORABLY DISCHARGED on the7thday ofJunethereafter, having servedas such 40 days2",
+    "paragraphs": [
+      "Certificate of Discharge for Hugh Armstrong, 31 August 18321 I CERTIFY, ThatHugh Armstrongvolunteered and servedas 1stLieutenantin the Company of Mounted Volunteers under my command, in theRegimentcommanded by Col.Samuel M. Thompson, in the Brigade under the command of GeneralsS. WhitesideandH.",
+      "Atkinson, called into the service of the United States by theCommander-in-Chiefof theMilitia of the State, for the protection of the North Western Frontier against anInvasion of the British BandofSacand other tribes of Indians,—that he was enrolled on the29thday ofApril1832, and was HONORABLY DISCHARGED on the7thday ofJunethereafter, having servedas such 40 days2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+    ],
+    "footnotes": [
+      {
+        "id": "X8C89559A-FEC3-45C7-9120-222BDB0D4A7C",
+        "text": "1Abraham Lincoln signed and filled in the blanks of this partially printed document.\n                  He also wrote Hugh Armstrong’s name on the back side."
+      },
+      {
+        "id": "XC6787D8B-2C72-4571-9209-841C3640A765",
+        "text": "2At the outbreak of theBlack Hawk War, Lincoln volunteered for theIllinois state militia. On April 21, 1832, Lincoln and other men from theNew Salemarea were mustered into a company in the4th Regiment of Illinois Mounted Volunteers, and the members of the company elected Lincoln as their captain. When his month\n                  of service ended, Lincoln re-enlisted twice, for twenty and thirty days respectively,\n                  serving as a private both times. He was discharged finally on July 10, 1832.Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Discharge for Hugh Armstrong, 31 August 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "I CERTIFY, ThatHugh Armstrongvolunteered and servedas  1stLieutenantin the Company of Mounted Volunteers under my command, in theRegimentcommanded by Col.Samuel M. Thompson, in the Brigade under the command of GeneralsS. WhitesideandH. Atkinson, called into the service of the United States by theCommander-in-Chiefof theMilitia of the State, for the protection of the North Western Frontier against anInvasion of the British BandofSacand other tribes of Indians,—that he was enrolled on the29thday ofApril1832, and was HONORABLY DISCHARGED on the7thday ofJunethereafter, having servedas such 40 days2"
+      }
+    ],
+    "word_count": 90
+  },
+  "extraction_date": "2025-12-26 19:45:26",
+  "word_count": 90,
+  "processing": {
+    "cleaned": true,
+    "original_length": 662,
+    "cleaned_length": 661,
+    "preserved_originality": true
+  }
+}

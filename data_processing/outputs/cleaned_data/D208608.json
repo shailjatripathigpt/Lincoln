@@ -1,0 +1,61 @@
+{
+  "document_id": "D208608",
+  "url": "https://papersofabrahamlincoln.org/documents/D208608",
+  "metadata": {
+    "date": "1841-03-01",
+    "authors": [
+      "Shields, James"
+    ],
+    "keywords": [
+      "Wages"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of James Shields to Abraham Lincoln, 1 March 18411 No.64662 (The holder of this warrant will be entitled to six per cent. interest from date, until redeemed by theState.)",
+    "paragraphs": [
+      "Check of James Shields to Abraham Lincoln, 1 March 18411 No.64662 (The holder of this warrant will be entitled to six per cent. interest from date, until redeemed by theState.)"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "An Act Making Appropriations for the Years 1841 and 1842."
+    ],
+    "footnotes": [
+      {
+        "id": "X147235FF-5B66-495B-85C3-A1D1CDB00B7F",
+        "text": "1This partially printed check was filled in by James Shields and signed by Shields\n                  and John D. Whiteside. Abraham Lincoln endorsed it on the back side."
+      },
+      {
+        "id": "KBC480459184103010000_1",
+        "text": "2\"6464\" changed to \"6466\"."
+      },
+      {
+        "id": "X0CE5D75E-0BBF-4796-9D92-EBE329EFD579",
+        "text": "3Members of the General Assembly earned $4 for each day’s attendance at the session,\n                  plus  an additional $4 for every twenty miles of necessary travel in coming to and\n                  returning from the statehouse.An Act Making Appropriations for the Years 1841 and 1842."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of James Shields to Abraham Lincoln, 1 March 18411"
+      },
+      {
+        "type": "paragraph",
+        "text": "No.64662"
+      },
+      {
+        "type": "paragraph",
+        "text": "(The holder of this warrant will be entitled to six per cent. interest from date, until redeemed by theState.)"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:16:08",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 176,
+    "cleaned_length": 176,
+    "preserved_originality": true
+  }
+}

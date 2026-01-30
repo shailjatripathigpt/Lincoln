@@ -1,0 +1,72 @@
+{
+  "document_id": "D200226",
+  "url": "https://papersofabrahamlincoln.org/documents/D200226",
+  "metadata": {
+    "date": "1840-11-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "State governments--Officials and employees",
+      "Legislators",
+      "Legislative bodies--Upper chambers"
+    ],
+    "type": "Resolution",
+    "extracted_date": "1840-11-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "clerk",
+      "doorkeeper",
+      "resolution",
+      "regarding",
+      "organization",
+      "house",
+      "resolved",
+      "theclerkof",
+      "thishouseinform",
+      "thesenate",
+      "they",
+      "met",
+      "electedwilliam",
+      "lee",
+      "ewingtheir"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Resolution regarding the Organization of the House, 1 Resolved that theclerkof thisHouseinform theSenate, that they have met, electedWilliam Lee D. Ewingtheir Speaker,John Calhountheir Principal clerk,George Davis, their Assistant clerk,Robert SmithEngrossing and Enrolling clerk,W— C MurphyPrincipal Doorkeeper, &Benjamin Robertsassistant Doorkeeper, and are now ready to proceed to Legislative business.",
+    "paragraphs": [
+      "Resolution regarding the Organization of the House, 1 Resolved that theclerkof thisHouseinform theSenate, that they have met, electedWilliam Lee D. Ewingtheir Speaker,John Calhountheir Principal clerk,George Davis, their Assistant clerk,Robert SmithEngrossing and Enrolling clerk,W— C MurphyPrincipal Doorkeeper, &Benjamin Robertsassistant Doorkeeper, and are now ready to proceed to Legislative business."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1840. 12th G. A., 7; Illinois SenateJournal. 1840. 12th G. A.,  6."
+    ],
+    "footnotes": [
+      {
+        "id": "X37B2C21C-A9AF-48B8-AD48-DBCF6DFA2BA1",
+        "text": "1Abraham Lincoln wrote the resolution in its entirety.  On November 24, 1840, Lincoln\n                  introduced the resolution in the House of Representatives, and the House adopted it.\n                  The Senate received the resolution on November 25.Illinois HouseJournal. 1840. 12th G. A., 7; Illinois SenateJournal. 1840. 12th G. A.,  6."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Resolution regarding the Organization of the House, [24 November 1840]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Resolved that theclerkof thisHouseinform theSenate, that they have met, electedWilliam Lee D. Ewingtheir Speaker,John Calhountheir Principal clerk,George Davis, their Assistant clerk,Robert SmithEngrossing and Enrolling clerk,W— C MurphyPrincipal Doorkeeper, &Benjamin Robertsassistant Doorkeeper, and are now ready to proceed to Legislative business."
+      }
+    ],
+    "word_count": 48
+  },
+  "extraction_date": "2025-12-26 20:12:53",
+  "word_count": 50,
+  "processing": {
+    "cleaned": true,
+    "original_length": 423,
+    "cleaned_length": 405,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

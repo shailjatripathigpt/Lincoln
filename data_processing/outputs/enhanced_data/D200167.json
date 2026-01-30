@@ -1,0 +1,79 @@
+{
+  "document_id": "D200167",
+  "url": "https://papersofabrahamlincoln.org/documents/D200167",
+  "metadata": {
+    "date": "1839-02-23",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Counties",
+      "Circuit courts",
+      "Clerks",
+      "Promissory notes"
+    ],
+    "type": "Letter",
+    "extracted_date": "1839-02-23",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "william",
+      "butler",
+      "february"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William Butler, 23 February 18391",
+    "paragraphs": [
+      "Abraham Lincoln to William Butler, 23 February 18391"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     353, 410, 435, 492, 595, 597; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 407, 485, 491-92, 498, 507; “An Act for the Relief\n                     of the Clerks of the Circuit Courts of Sangamon, Clinton, Fayette and Franklin counties,”\n                     9 December 1839,Laws of Illinois(1840), 156."
+    ],
+    "footnotes": [
+      {
+        "id": "XADDED91E-F6A3-4046-B470-3CDB5D1295BF",
+        "text": "1Abraham Lincoln wrote the body of the letter, his signature, and the address.” William\n                  Butler penned the docketing."
+      },
+      {
+        "id": "XD4C33C2D-F0D4-45A7-9E97-3715426821DA",
+        "text": "2Butler’s letter has not been located."
+      },
+      {
+        "id": "X577B0BBB-25FF-4281-B8D0-2A18CD0FE120",
+        "text": "3Abraham Lincoln to John T. Stuart."
+      },
+      {
+        "id": "X0BB89FA6-E1BA-4141-B54F-5BD06D2715FF",
+        "text": "4Lincoln’s signed note is not enclosed."
+      },
+      {
+        "id": "X753F7BFE-94A5-4F2B-8987-B42119955B9B",
+        "text": "5The Senate passed thebillas amended by the House on February 25, and theactbecame law on February 26.  This was tangentially connected with the division ofSangamon County.SeeAbraham Lincoln to William Butler."
+      },
+      {
+        "id": "X2BC332E9-0A8B-4BC1-A0C3-6D8C94A71BB0",
+        "text": "6Lincoln introducedHB 272in the House of Representatives on February 6, and the House and Senate passed it\n                  and laid it beforeCouncil of Revisionon March 2. The Council did not have time to act on the bill before the session ended\n                  in March 4, so it did not appear in the laws for first session of the Eleventh General\n                  Assembly.    Lincoln queriedAlexander P. Field, the secretary of state, about the disposition of the bill in aletteron May 11, and he received areplyon May 17 that the Council had tabled the bill.  By law, ten days not having intervened\n                  before the adjournment of the 1st session, and the Council having no objections, theactbecame law on December 9, the first day of the special session.Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     353, 410, 435, 492, 595, 597; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 407, 485, 491-92, 498, 507; “An Act for the Relief\n                     of the Clerks of the Circuit Courts of Sangamon, Clinton, Fayette and Franklin counties,”\n                     9 December 1839,Laws of Illinois(1840), 156."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William Butler, 23 February 18391"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 20:09:13",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 52,
+    "cleaned_length": 52,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

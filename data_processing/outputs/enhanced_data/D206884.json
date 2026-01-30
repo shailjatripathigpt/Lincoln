@@ -1,0 +1,74 @@
+{
+  "document_id": "D206884",
+  "url": "https://papersofabrahamlincoln.org/documents/D206884",
+  "metadata": {
+    "date": "1852-05-31",
+    "authors": [
+      "Goodrich, Grant"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Lawyers--Fees",
+      "Land titles--Registration and transfer",
+      "Debtor and creditor"
+    ],
+    "type": "Letter",
+    "extracted_date": "1852-05-31",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "grant",
+      "goodrich",
+      "abraham",
+      "lincoln"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Grant Goodrich to Abraham Lincoln, 31 May 18521",
+    "paragraphs": [
+      "Grant Goodrich to Abraham Lincoln, 31 May 18521"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Order, Document ID: 134287; Judgment Docket, Document ID: 134288;   Order, Document\n                     ID: 134286; Assignment of Judgment, Document ID: 134285,Allin v. Douglas, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141103; “Default judgment,” Reference, Glossary, Martha L. Benner and Cullom Davis et al.,\n                     eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+    ],
+    "footnotes": [
+      {
+        "id": "X59268047-6F20-4538-8E72-DB3313BDD14F",
+        "text": "1Grant Goodrich wrote and signed this letter."
+      },
+      {
+        "id": "X41294BBB-F116-4EA2-93D5-313F2EE80A6B",
+        "text": "2The judgment Grant Goodrich refers to was related to the caseAllin v. Douglas. In the case, Stephen A. Douglas owedJames Allin, Jr.$800, and secured the debt with a mortgage on two lots inBloomington, Illinois.  After Douglas failed to pay the debt, Allin retained Abraham Lincoln and Goodrich,\n                  who sued Douglas to foreclose on the mortgage as a means to collect the debt.  In\n                  October 1839, the case came before theMcLean County Circuit Court, which issued writs on behalf of Allin, then continued the case. When, in May 1840,\n                  Douglas failed to appear in court, the court issued what is known as a default judgment\n                  in his absence—a ruling against a defendant who failed to plead his or her case within\n                  the allotted time. The court found for Allin in the amount of $865 and ordered the\n                  lots in Bloomington be foreclosed upon and sold in order to collect the sum. The lots\n                  were sold in January 1841 for $364.13, which, in September 1841, the court ordered\n                  credited to Allin toward the $800 debt, $65 in damages, and $9 in costs it deemed\n                  he was ultimately owed.  Allin assigned, or transferred,  the judgment to Judge David\n                  Davis, authorizing him to collect the judgment on his behalf.It is unclear how Goodrich arrived at the amount of $918.91 that he gives in this\n                  letter as the judgment against Douglas.The letter from Lincoln which Goodrich references has not been located.Order, Document ID: 134287; Judgment Docket, Document ID: 134288;   Order, Document\n                     ID: 134286; Assignment of Judgment, Document ID: 134285,Allin v. Douglas, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141103; “Default judgment,” Reference, Glossary, Martha L. Benner and Cullom Davis et al.,\n                     eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+      },
+      {
+        "id": "XE38F3F7F-CFA3-48B1-B7C2-A184ACFC5D96",
+        "text": "3Lincoln’s reply to Goodrich has not been located."
+      },
+      {
+        "id": "XAB8EA0C9-33E5-45FB-811A-04344DDFEF52",
+        "text": "4Goodrich also wrote this docketing."
+      },
+      {
+        "id": "XDF8E99ED-0F8F-44A4-8A5E-B28BAA626BC1",
+        "text": "5Lincoln wrote and signed this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Grant Goodrich to Abraham Lincoln, 31 May 18521"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 21:26:34",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 47,
+    "cleaned_length": 47,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

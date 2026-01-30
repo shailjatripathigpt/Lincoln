@@ -1,0 +1,96 @@
+{
+  "document_id": "D200993",
+  "url": "https://papersofabrahamlincoln.org/documents/D200993",
+  "metadata": {
+    "date": "1858-01-19",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Apportionment (Election law)",
+      "State governments--Officials and employees"
+    ],
+    "type": "Telegram",
+    "extracted_date": "1858-01-19",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "power",
+      "company",
+      "themselves",
+      "any",
+      "received",
+      "abraham",
+      "lincoln",
+      "george",
+      "brown",
+      "january",
+      "note",
+      "assume",
+      "risk",
+      "hold",
+      "liable"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to George T. Brown, 19 January 18581 NOTE.—This Company will assume no risk, or hold themselves liable for any damage,\n\nfor errors, omissions or delays beyond the amount actually received by the Company\n\nfor the transmission of any message, but will pledge themselves to use every exertion\n\nin their power to insure promptness and accuracy. The following dispatch has just been received, SendJo Gillespieup here at once–2Don’t fail",
+    "paragraphs": [
+      "Abraham Lincoln to George T. Brown, 19 January 18581 NOTE.—This Company will assume no risk, or hold themselves liable for any damage,",
+      "for errors, omissions or delays beyond the amount actually received by the Company",
+      "for the transmission of any message, but will pledge themselves to use every exertion",
+      "in their power to insure promptness and accuracy. The following dispatch has just been received, SendJo Gillespieup here at once–2Don’t fail"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Gustave P. Koerner;People ex rel. Lanphier & Walker v. Hatch, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139920; Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 4:64-91; Illinois HouseJournal. 1857. 20th G. A., 909-10, 1004, 1018;   Illinois SenateJournal. 1857. 20th G. A., 760.",
+      "Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Gustave P. Koerner."
+    ],
+    "footnotes": [
+      {
+        "id": "X195539AD-98A1-42F6-A292-C87B9C80C998",
+        "text": "1This telegram is attributed to Abraham Lincoln but is not written in Lincoln’s hand."
+      },
+      {
+        "id": "X52E422CD-BCE8-4FA6-9AB3-803D73B64F0F",
+        "text": "2On this date Lincoln had also written related letters to Joseph Gillespie and toGustave P. Koernerrequesting their presence in Springfield to consult on the case ofPeople ex rel. Lanphier & Walker v. Hatch.In this case,IllinoisSecretary of StateOzias M. Hatchwas being sued in theIllinois Supreme Courtto furnish state printers Lanphier & Walker of theDemocraticIllinois State Registerwith a true copy of an 1857 bill apportioning representation in theIllinois General Assembly. The bill had been drafted and supported by the Democrats with an eye towards maintaining\n                  their party’s majority in the General Assembly. TheIllinois House of Representativespassed the bill on February 16, 1857, and theIllinois Senateconcurred on February 18.RepublicanGovernorWilliam H. Bissellmistakenly signed the bill then cancelled his signature after his secretary had already\n                  reported his approval to the House. Hatch retained Lincoln,Orville H. Browning, andJackson Grimshawfor his defense. Neither Gillespie nor Koerner were attorneys of record on the case.\n                  The Illinois Supreme Court ruled in Hatch’s favor in February 1858.Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Gustave P. Koerner;People ex rel. Lanphier & Walker v. Hatch, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139920; Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 4:64-91; Illinois HouseJournal. 1857. 20th G. A., 909-10, 1004, 1018;   Illinois SenateJournal. 1857. 20th G. A., 760."
+      },
+      {
+        "id": "XD03EC1F5-DDE5-4FC5-A744-BBB5BD0959B6",
+        "text": "3No response to this telegram from George T. Brown has been located. On February 7,\n                  1858 Lincoln again wrote to both Gillespie and Koerner to apprise them that the case\n                  had been resolved in Hatch’s favor.Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Gustave P. Koerner."
+      },
+      {
+        "id": "X7D795BC8-561B-4F41-A18C-D7305994BEE8",
+        "text": "4Brown wrote and signed this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to George T. Brown, 19 January 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "NOTE.—This Company will assume no risk, or hold themselves liable for any damage,\n                  for errors, omissions or delays beyond the amount actually received by the Company\n                  for the transmission of any message, but will pledge themselves to use every exertion\n                  in their power to insure promptness and accuracy."
+      },
+      {
+        "type": "paragraph",
+        "text": "The following dispatch has just been received,"
+      },
+      {
+        "type": "paragraph",
+        "text": "SendJo Gillespieup here at once–2Don’t fail"
+      }
+    ],
+    "word_count": 70
+  },
+  "extraction_date": "2025-12-26 21:45:57",
+  "word_count": 70,
+  "processing": {
+    "cleaned": true,
+    "original_length": 498,
+    "cleaned_length": 447,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

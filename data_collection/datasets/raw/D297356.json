@@ -1,0 +1,57 @@
+{
+  "document_id": "D297356",
+  "url": "https://papersofabrahamlincoln.org/documents/D297356",
+  "metadata": {
+    "date": "1857-09-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Finance, Personal"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of Abraham Lincoln to Jackson A. Hough, 28 September 18571 Springfield Marine & Fire Insurance Company, Pay toJ. A. Hough.or BearerEight.50/100Dollars,IN CURRENT BANK NOTES.$8.50 Richards & Smith, Printers.2",
+    "paragraphs": [
+      "Check of Abraham Lincoln to Jackson A. Hough, 28 September 18571",
+      "Springfield Marine & Fire Insurance Company,",
+      "Pay toJ. A. Hough.or BearerEight.50/100Dollars,IN CURRENT BANK NOTES.$8.50",
+      "Richards & Smith, Printers.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. Census Office, Seventh Census of the United States (1850),  Springfield, Sangamon\n                     County, IL, 123; U.S. Census Office, Eighth Census of the United States (1860),  Springfield,\n                     Sangamon County, IL, 241."
+    ],
+    "footnotes": [
+      {
+        "id": "X63AD7AE7-945D-40E3-9885-81ED384F0CF6",
+        "text": "1Abraham Lincoln wrote the handwritten portions of this check and signed his name."
+      },
+      {
+        "id": "XB665E259-F556-42B5-BA8C-D5FE9CB94616",
+        "text": "2Although it is unclear what Lincoln purchased from Jackson A. Hough with these funds,\n                  given that Hough was a carpenter and cabinet maker, it was likely a piece of furniture\n                  of some sort.U.S. Census Office, Seventh Census of the United States (1850),  Springfield, Sangamon\n                     County, IL, 123; U.S. Census Office, Eighth Census of the United States (1860),  Springfield,\n                     Sangamon County, IL, 241."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Abraham Lincoln to Jackson A. Hough, 28 September 18571"
+      },
+      {
+        "type": "description",
+        "text": "Springfield Marine & Fire Insurance Company,"
+      },
+      {
+        "type": "description",
+        "text": "Pay toJ. A. Hough.or BearerEight.50/100Dollars,IN CURRENT BANK NOTES.$8.50"
+      },
+      {
+        "type": "description",
+        "text": "Richards & Smith, Printers.2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:44:10",
+  "word_count": 29
+}

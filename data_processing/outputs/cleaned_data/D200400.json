@@ -1,0 +1,64 @@
+{
+  "document_id": "D200400",
+  "url": "https://papersofabrahamlincoln.org/documents/D200400",
+  "metadata": {
+    "date": "1846-05-07",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers",
+      "Circuit courts",
+      "Political oratory"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James Berdan, 7 May 18461 It is a matter of high moral obligation, if not of necessity, for me to attend theColes&EdgarCourts– I have some cases in both of them, in which the parties have my promise,\n\nand are depending upon me– The court commences inColeson the second Monday, and inEdgaron the third–2Yourcourt in Morgancommences on the fourth monday; and it is my purpose to be with you then, and make\n\na speech–3I mention the Coles & Edgar courts, in order, that if I should not reachJacksonvilleat the time named, you may understand the reason why– I do not, however, think there\n\nis much danger of my being detained; as I shall go with a purpose not to be, and consequently\n\nshall engage in no new cases that might delay me–",
+    "paragraphs": [
+      "Abraham Lincoln to James Berdan, 7 May 18461 It is a matter of high moral obligation, if not of necessity, for me to attend theColes&EdgarCourts– I have some cases in both of them, in which the parties have my promise,",
+      "and are depending upon me– The court commences inColeson the second Monday, and inEdgaron the third–2Yourcourt in Morgancommences on the fourth monday; and it is my purpose to be with you then, and make",
+      "a speech–3I mention the Coles & Edgar courts, in order, that if I should not reachJacksonvilleat the time named, you may understand the reason why– I do not, however, think there",
+      "is much danger of my being detained; as I shall go with a purpose not to be, and consequently",
+      "shall engage in no new cases that might delay me–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act to Regulate the Time of Holding Circuit Courts in the Fourth Judicial Circuit,”\n                     1 March 1843,Laws of Illinois(1843), 133; “An Act to Change the Time of Holding Courts in the County of Shelby,\n                     and for Other Purposes,” 21 February 1845,Laws of Illinois(1845), 47-49.",
+      "“An Act to Establish the Times of Holding the Circuit Court in the First Judicial\n                     Circuit,” 27 February 1845,Laws of Illinois(1845), 49-50."
+    ],
+    "footnotes": [
+      {
+        "id": "XE546FDC9-E45B-4999-93E2-65A0930012A2",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "X819EF108-185E-4F82-BFFD-82B242625B1F",
+        "text": "2The Coles County Circuit Court opened on May 11, 1846, and the Edgar County Circuit\n                  Court opened on May 18, 1846.“An Act to Regulate the Time of Holding Circuit Courts in the Fourth Judicial Circuit,”\n                     1 March 1843,Laws of Illinois(1843), 133; “An Act to Change the Time of Holding Courts in the County of Shelby,\n                     and for Other Purposes,” 21 February 1845,Laws of Illinois(1845), 47-49."
+      },
+      {
+        "id": "X31A2C31F-04C1-4773-A568-C11E1BAA2E92",
+        "text": "3The Morgan County Circuit Court convened on May 25, 1846. There is no record of Lincoln\n                  giving a speech in Jacksonville during that time.“An Act to Establish the Times of Holding the Circuit Court in the First Judicial\n                     Circuit,” 27 February 1845,Laws of Illinois(1845), 49-50."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James Berdan, 7 May 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is a matter of high moral obligation, if not of necessity, for me to attend theColes&EdgarCourts– I have some cases in both of them, in which the parties have my promise,\n               and are depending upon me– The court commences inColeson the second Monday, and inEdgaron the third–2Yourcourt in Morgancommences on the fourth monday; and it is my purpose to be with you then, and make\n               a speech–3I mention the Coles & Edgar courts, in order, that if I should not reachJacksonvilleat the time named, you may understand the reason why– I do not, however, think there\n               is much danger of my being detained; as I shall go with a purpose not to be, and consequently\n               shall engage in no new cases that might delay me–"
+      }
+    ],
+    "word_count": 134
+  },
+  "extraction_date": "2025-12-26 20:23:34",
+  "word_count": 134,
+  "processing": {
+    "cleaned": true,
+    "original_length": 804,
+    "cleaned_length": 748,
+    "preserved_originality": true
+  }
+}

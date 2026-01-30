@@ -1,0 +1,50 @@
+{
+  "document_id": "D233927",
+  "url": "https://papersofabrahamlincoln.org/documents/D233927",
+  "metadata": {
+    "date": "1833-05-14",
+    "authors": [
+      "Berry, William F.",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debtor and creditor"
+    ],
+    "type": "Promissory note"
+  },
+  "content": {
+    "full_text": "Promissory Note of Lincoln & Berry to Knapp & Pogue, 14 May 18331",
+    "paragraphs": [
+      "Promissory Note of Lincoln & Berry to Knapp & Pogue, 14 May 18331"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Watkins  v. Lincoln & Berry, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140676;Watkins  v. Lincoln & Berry, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140677; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: The Abraham Lincoln Association, 1943), 13."
+    ],
+    "footnotes": [
+      {
+        "id": "X532D306A-83AD-4B98-834F-585AF5D003BE",
+        "text": "1Abraham Lincoln signed “Lincoln & Berry” to this note. The remainder of the document\n                  is in the handwriting of several other people."
+      },
+      {
+        "id": "XBBC523AB-E37E-4AAA-8486-25184532B574",
+        "text": "2Knapp & Pogue signed over this promissory note to William Watkins. When Lincoln &\n                  Berry failed to pay, Watkins sued in theJustice of the Peace Court. The JP court ruled for Watkins and awarded $53.Lincolnappealed the judgment to theSangamon County Circuit Court, which ruled for Watkins and awarded $57.86 (the amount of the debt plus interest).\n                  Lincoln’s surveying equipment was auctioned off to settle the debt.Watkins  v. Lincoln & Berry, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140676;Watkins  v. Lincoln & Berry, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140677; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: The Abraham Lincoln Association, 1943), 13."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note of Lincoln & Berry to Knapp & Pogue, 14 May 18331"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 19:46:30",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 65,
+    "cleaned_length": 65,
+    "preserved_originality": true
+  }
+}

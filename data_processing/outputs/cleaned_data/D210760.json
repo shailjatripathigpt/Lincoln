@@ -1,0 +1,50 @@
+{
+  "document_id": "D210760",
+  "url": "https://papersofabrahamlincoln.org/documents/D210760",
+  "metadata": {
+    "date": "1858-07-12",
+    "authors": [
+      "Dodge, Lewis"
+    ],
+    "keywords": [
+      "Libraries",
+      "Mechanics’ institutes"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Lewis Dodge to Abraham Lincoln, 12 July 18581",
+    "paragraphs": [
+      "Lewis Dodge to Abraham Lincoln, 12 July 18581"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 July 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-09; 10 July 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-10; 14 July 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-14."
+    ],
+    "footnotes": [
+      {
+        "id": "4018500",
+        "text": "1Lewis Dodge wrote and signed this letter."
+      },
+      {
+        "id": "4018501",
+        "text": "2No response to this letter has been located, nor has any evidence of Abraham Lincoln\n                  visiting the Mechanics’ Institute ofChicagoat this time. Lincoln was in Chicago between July 9 and 14, 1858, in part to attend\n                  theU.S. Circuit Court for the Northern District of Illinois. While in the city, he attendedStephen A. Douglas’ first speech of his1858 U.S. Senate campaign, and gave a speech of his own atTremont Houseon the evening of July 10.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 July 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-09; 10 July 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-10; 14 July 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-14."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Lewis Dodge to Abraham Lincoln, 12 July 18581"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 21:52:00",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 45,
+    "cleaned_length": 45,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "document_id": "D200586",
+  "url": "https://papersofabrahamlincoln.org/documents/D200586",
+  "metadata": {
+    "date": "1849-05-13",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Clayton, 13 May 18491 Permit me to introduce to your acquaintance my esteemed friendCharles H– Constable, Esq– MrConstable is a Marylander by birth, who came to ourstateten years ago, has fought thewhigbattles faithfully with us ever since, and is now a favorite with us all– He thinks\n\nof being an applicant forCharge d' Affaires to one of the South American Statesand should he succeed, I, and I believe the other whigs of the state, will be much\n\ngratified–2",
+    "paragraphs": [
+      "Abraham Lincoln to John M. Clayton, 13 May 18491 Permit me to introduce to your acquaintance my esteemed friendCharles H– Constable, Esq– MrConstable is a Marylander by birth, who came to ourstateten years ago, has fought thewhigbattles faithfully with us ever since, and is now a favorite with us all– He thinks",
+      "of being an applicant forCharge d' Affaires to one of the South American Statesand should he succeed, I, and I believe the other whigs of the state, will be much"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Edwin B. Webb to Abraham Lincoln;Justin Harlan to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+    ],
+    "footnotes": [
+      {
+        "id": "X953867FB-A165-47E5-BFE0-B1CFBB445277",
+        "text": "1Abraham Lincoln wrote  the bulk of this letter and signed this letter.  He also wrote\n                  the address on the second sheet, which was folded to create an envelope.“Charge d' Affaires to one of the South American States” is not in Lincoln’s hand."
+      },
+      {
+        "id": "X6242DF6F-53F6-4509-9F38-AB660DE04A85",
+        "text": "2In April and early May,Edwin B. WebbandJustin Harlanwrote Lincoln requesting his help in getting Charles H. Constable an appointment.\n                  On May 5, Constable himselfwroteLincoln to solicit his assistance.  Constable’s name does not appear in the official\n                  registers of the officers and agents of the government for 1849, 1851, and 1853, so\n                  apparently he did not receive an appointment.Edwin B. Webb to Abraham Lincoln;Justin Harlan to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Clayton, 13 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Permit me to introduce to your acquaintance my esteemed friendCharles H– Constable, Esq–[Esquire] MrConstable is a Marylander by birth, who came to ourstateten years ago, has fought thewhigbattles faithfully with us ever since, and is now a favorite with us all–  He thinks\n                  of being an applicant forCharge  d' Affaires to one of the South American Statesand should he succeed, I, and I believe the other whigs of the state, will be much\n                  gratified–2"
+      }
+    ],
+    "word_count": 83
+  },
+  "extraction_date": "2025-12-26 21:15:06",
+  "word_count": 83,
+  "processing": {
+    "cleaned": true,
+    "original_length": 533,
+    "cleaned_length": 488,
+    "preserved_originality": true
+  }
+}

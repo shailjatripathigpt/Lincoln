@@ -1,0 +1,95 @@
+{
+  "document_id": "D201030",
+  "url": "https://papersofabrahamlincoln.org/documents/D201030",
+  "metadata": {
+    "date": "1858-06-19",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Election districts",
+      "Local elections",
+      "Political candidates",
+      "Political conventions",
+      "United States. Congress. House"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-06-19",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "principle",
+      "you",
+      "not",
+      "perceive",
+      "olney",
+      "think",
+      "best",
+      "your",
+      "abraham",
+      "lincoln",
+      "andrew",
+      "mccallen",
+      "june",
+      "yoursof",
+      "hand"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Andrew McCallen, 19 June 18581 Yoursof the 12thby the hand of MrEdwardswas duly received. I conversed several times quite freely with MrOlney.2I do not perceive that we here, or thegeneral conventionhere could rightfully determine any thing between Messrs Olney &Wiley. You in the District must fix that3 Let me make a remark not suggested by yourletter. I think too much reliance is placed in noisy demonstrations importing speakers from\n\na distance and the like. They excite prejudice and close the avenues to sober reason.\n\nThe “home productions” principle in my judgement is the best. You andSextonand Olney and others whose hearts are in the work should quietly form your plans\n\nand carry them out energetically among your own neighbors. You perceive my idea; and\n\nI really think it the best.",
+    "paragraphs": [
+      "Abraham Lincoln to Andrew McCallen, 19 June 18581 Yoursof the 12thby the hand of MrEdwardswas duly received. I conversed several times quite freely with MrOlney.2I do not perceive that we here, or thegeneral conventionhere could rightfully determine any thing between Messrs Olney &Wiley. You in the District must fix that3 Let me make a remark not suggested by yourletter. I think too much reliance is placed in noisy demonstrations importing speakers from",
+      "a distance and the like. They excite prejudice and close the avenues to sober reason.",
+      "The “home productions” principle in my judgement is the best. You andSextonand Olney and others whose hearts are in the work should quietly form your plans",
+      "and carry them out energetically among your own neighbors. You perceive my idea; and",
+      "I really think it the best."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daily Illinois State Journal(Springfield), 15 June 1858, 2:2; 17 June 1858, 2:3-4.",
+      "Daily Illinois State Journal(Springfield), 15 June 1858, 2:2; 7 September 1858, 2:3; 21 September 1858, 3:1;The Weekly Pantagraph(Bloomington, IL), 26 May 1858, 1:1; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 11, 143."
+    ],
+    "footnotes": [
+      {
+        "id": "X2CF3B56B-C519-4F7D-83D9-681479F35F57",
+        "text": "1This letter is attributed to Abraham Lincoln but is in an unidentified hand and no\n                  manuscript version in his hand has been located."
+      },
+      {
+        "id": "XEBCB70A9-0BA2-4628-8F1B-BE8F2B9FCCC1",
+        "text": "2John W. Edwards and John Olney, Sr. were in Springfield as delegates fromGallatin Countyto the 1858 Illinois Republican Convention, having been chosen for the role at the\n                  county convention on June 5, 1858. McCallen had also been selected as a delegate from\n                  Gallatin County to the state convention, but despite being listed as having been in\n                  attendance at the convention in Springfield on June 16, 1858, he apparently was not\n                  present. Lincoln was a delegate fromSangamon County.Daily Illinois State Journal(Springfield), 15 June 1858, 2:2; 17 June 1858, 2:3-4."
+      },
+      {
+        "id": "XE26DABD2-5226-4D02-A3AB-6EC5AAD7393F",
+        "text": "3In hisletterto Lincoln of June 12, 1858, McCallen had expressed a hope that the delegates at\n                  the state convention would settle the question of who should be the candidate for\n                  theU.S. House of Representativesin the  Illinois Ninth Congressional District in theelection of 1858. The Republicans of Gallatin County had passed a resolution at their county convention\n                  requesting that Olney be named the candidate. Other counties in the district endorsed\n                  Benjamin L. Wiley for the office. Wiley was  selected to run, but dropped out of the\n                  race in September 1858 citing business obligations that prevented him from canvassing.David L. Phillipswas chosen to replace him as candidate. Phillips lost the election toDemocratJohn A. Loganin a resounding defeat, earning only 14.8% of the vote compared to Logan’s 84.2%.Daily Illinois State Journal(Springfield), 15 June 1858, 2:2; 7 September 1858, 2:3; 21 September 1858, 3:1;The Weekly Pantagraph(Bloomington, IL), 26 May 1858, 1:1; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 11, 143."
+      },
+      {
+        "id": "XA2DA8741-49C8-4598-BC9E-A4B204DB2AF7",
+        "text": "4No response to this letter has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Andrew McCallen, 19 June 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yoursof the 12thby the hand of MrEdwardswas duly received. I conversed several times quite freely with MrOlney.2I do not perceive that we here, or thegeneral conventionhere could rightfully determine any thing between Messrs[Messieurs] Olney &Wiley. You in the District must fix that3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Let me make a remark not suggested by yourletter. I think too much reliance is placed in noisy demonstrations importing speakers from\n               a distance and the like. They excite prejudice and close the avenues to sober reason.\n               The “home productions” principle in my judgement is the best. You andSextonand Olney and others whose hearts are in the work should quietly form your plans\n               and carry them out energetically among your own neighbors. You perceive my idea; and\n               I really think it the best."
+      }
+    ],
+    "word_count": 133
+  },
+  "extraction_date": "2025-12-26 21:49:36",
+  "word_count": 133,
+  "processing": {
+    "cleaned": true,
+    "original_length": 883,
+    "cleaned_length": 816,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

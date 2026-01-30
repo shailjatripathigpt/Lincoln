@@ -1,0 +1,64 @@
+{
+  "document_id": "D210346",
+  "url": "https://papersofabrahamlincoln.org/documents/D210346",
+  "metadata": {
+    "date": "1848-04-10",
+    "authors": [
+      "Butterfield Jr., Justin"
+    ],
+    "keywords": [
+      "Speeches",
+      "Government publications",
+      "War--Causes"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Justin Butterfield to Abraham Lincoln, 10 April 18481 Will you do me the favor to send me thePresidentsmessage & accompanying documents. I wish to for future reference as containing thegovernmentalhistory of thewar with Mexico– And also. Ex. Doc.[Executive Document] 123H. R. 26thCong: 2dSession. If not too much to ask I should like this document–2 Ourcanalopens to day—& the first boat fromLockportcomes through to day– We all go forClayin these parts.3",
+    "paragraphs": [
+      "Justin Butterfield to Abraham Lincoln, 10 April 18481",
+      "Will you do me the favor to send me thePresidentsmessage & accompanying documents. I wish to for future reference as containing thegovernmentalhistory of thewar with Mexico–",
+      "And also. Ex. Doc.[Executive Document] 123H. R. 26thCong: 2dSession. If not too much to ask I should like this document–2",
+      "Ourcanalopens to day—& the first boat fromLockportcomes through to day– We all go forClayin these parts.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "H.R. Exe. Doc. No. 123, 26th Cong., 2nd Sess. (1841).",
+      "Abraham Lincoln to Simeon Francis."
+    ],
+    "footnotes": [
+      {
+        "id": "X7965B441-C859-40FE-BB39-F59E624BF523",
+        "text": "1Justin Butterfield, Jr. wrote and signed this letter."
+      },
+      {
+        "id": "XF7F17EF7-5FE8-4C07-B6DE-B29CB395A9DA",
+        "text": "2This document was a message from PresidentMartin Van Burendelivered in March 1841 in compliance with a resolution adopted in the House of Representatives\n                  in March 1840 requesting the opinions of attorneys general on the construction of\n                  public laws.H.R. Exe. Doc. No. 123, 26th Cong., 2nd Sess. (1841)."
+      },
+      {
+        "id": "XCA6FE7EC-8AEC-4BD3-BE99-B033EECD3C56",
+        "text": "3Reference to Henry Clay’s anticipated nomination as theWhig Partycandidate in thepresidential election of 1848.  To the surprise of many, Clay would not get the nomination; the Whigs at their\n                  national convention inPhiladelphia, in June, would nominateZachary Tayloras their standard bearer.Abraham Lincoln to Simeon Francis."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Justin Butterfield to Abraham Lincoln, 10 April 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Will you do me the favor to send me thePresidentsmessage & accompanying documents. I wish to for future reference as containing thegovernmentalhistory of thewar with Mexico–"
+      },
+      {
+        "type": "paragraph",
+        "text": "And also. Ex. Doc.[Executive Document] 123H. R. 26thCong: 2dSession. If not too much to ask I should like this document–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ourcanalopens to day—& the first boat fromLockportcomes through to day– We all go forClayin these parts.3"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:28:24",
+  "word_count": 70
+}

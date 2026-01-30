@@ -1,0 +1,9 @@
+{
+  "total_processed": 2223,
+  "successfully_cleaned": 2223,
+  "failed": 0,
+  "total_words_before": 566212,
+  "total_words_after": 566212,
+  "avg_reduction": 0.0,
+  "failed_files": []
+}

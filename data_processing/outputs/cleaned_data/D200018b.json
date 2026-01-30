@@ -1,0 +1,70 @@
+{
+  "document_id": "D200018b",
+  "url": "https://papersofabrahamlincoln.org/documents/D200018b",
+  "metadata": {
+    "date": "1833-01-15",
+    "authors": [
+      "Green, William G."
+    ],
+    "keywords": [
+      "Mortgages",
+      "Deeds",
+      "Real property",
+      "Land titles--Registration and transfer"
+    ],
+    "type": "Deed"
+  },
+  "content": {
+    "full_text": "Mortgage Deed of William Green Jr. to Reuben Radford, 15 January 18331 William Green JrToReuben Radford Know all men by these presents that I William Green Jof the County ofSangamonand State of Illinois for and in Consideration of the sum of Two hundred dollars\n\nto me in hand paid the receipt whereof I do hereby acknowledged have given granted\n\nbargained and sold and by these presents do give grant bargain and sell all my right\n\ntitle interest and estate in an to the west half of lot number five North of Main\n\nStreet in the 1stsurvey in the Town ofNew Salemin the County an State aforesaid together with all and singular the appurtenances\n\nthereunto belonging or in anywise appertaining thereunto Reuben Radford his heirs\n\nand assigns forever— In testimony whereof I have hereunto set my hand and seal thisfifteenth day of January in the year of our Lord one Thousand eight hundred and thirty\n\nthree—2",
+    "paragraphs": [
+      "Mortgage Deed of William Green Jr. to Reuben Radford, 15 January 18331 William Green JrToReuben Radford Know all men by these presents that I William Green Jof the County ofSangamonand State of Illinois for and in Consideration of the sum of Two hundred dollars",
+      "to me in hand paid the receipt whereof I do hereby acknowledged have given granted",
+      "bargained and sold and by these presents do give grant bargain and sell all my right",
+      "title interest and estate in an to the west half of lot number five North of Main",
+      "Street in the 1stsurvey in the Town ofNew Salemin the County an State aforesaid together with all and singular the appurtenances",
+      "thereunto belonging or in anywise appertaining thereunto Reuben Radford his heirs",
+      "and assigns forever— In testimony whereof I have hereunto set my hand and seal thisfifteenth day of January in the year of our Lord one Thousand eight hundred and thirty"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Promissory Note of William F. Berry, Abraham Lincoln and William Green to Reuben Radford;Vanbergen v. Lincoln et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition(Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140678; David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 47, 49, 54."
+    ],
+    "footnotes": [
+      {
+        "id": "XB26FA032-6C15-4B70-B243-ECCC431A2886",
+        "text": "1Clerks transcribed the mortgage deed into Sangamon CountyDeed Book F1and also into Deed Book F2, shown here. The original document has not been located."
+      },
+      {
+        "id": "X841328A8-F0A6-4327-905D-16129A2704AD",
+        "text": "2In 1833, Abraham Lincoln and his partnerWilliam F. Berryran one of three general stores in the village of New Salem. When Reuben Radford’s\n                  store was ransacked by locals in January 1833, he sold his building and stock to William\n                  Greene, who immediately sold it toLincoln & Berry. Lincoln and Berry signed promissory notes to cover the purchase of their initial\n                  business as well as Radford’s building and stock. By April 1833, Lincoln and Berry’s\n                  store had failed and in 1835 Berry died, leaving Lincoln to pay the partnership’s\n                  debts.Promissory Note of William F. Berry, Abraham Lincoln and William Green to Reuben Radford;Vanbergen v. Lincoln et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition(Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140678; David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 47, 49, 54."
+      },
+      {
+        "id": "X2158E9E1-D0B5-4343-9B94-4986D470E18B",
+        "text": "3“is” written over “if”."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Mortgage Deed of William Green Jr. to Reuben Radford, 15 January 18331"
+      },
+      {
+        "type": "description",
+        "text": "William Green JrToReuben Radford"
+      },
+      {
+        "type": "paragraph",
+        "text": "Know all men by these presents that I William Green J[r]of the County ofSangamonand State of Illinois for and in Consideration of the sum of Two hundred dollars\n               to me in hand paid the receipt whereof I do hereby acknowledged have given granted\n               bargained and sold and by these presents do give grant bargain and sell all my right\n               title interest and estate in an to the west half of lot number five North of Main\n               Street in the 1stsurvey in the Town ofNew Salemin the County an State aforesaid together with all and singular the appurtenances\n               thereunto belonging or in anywise appertaining thereunto Reuben Radford his heirs\n               and assigns forever—  In testimony whereof I have hereunto set my hand and seal thisfifteenth day of January in the year of our Lord one Thousand eight hundred and thirty\n                  three—2"
+      }
+    ],
+    "word_count": 155
+  },
+  "extraction_date": "2025-12-26 19:46:17",
+  "word_count": 155,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1012,
+    "cleaned_length": 907,
+    "preserved_originality": true
+  }
+}

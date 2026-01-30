@@ -1,0 +1,64 @@
+{
+  "document_id": "D200188",
+  "url": "https://papersofabrahamlincoln.org/documents/D200188",
+  "metadata": {
+    "date": "1839-12-16",
+    "authors": [
+      "Bennett, John (IL State Representative)"
+    ],
+    "keywords": [
+      "Municipal corporations",
+      "Real property"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of John Bennett to the Illinois General Assembly, 16 December 18391 The Petition of John Bennett praying the vacation of the plat of part of Bennetts addition to the town of Petersburg— The undersigned respectfully petitions that Blocks, two, three, four and five inBennett's addition to the town ofPetersburghin the county ofMenardbe vacated—2",
+    "paragraphs": [
+      "Petition of John Bennett to the Illinois General Assembly, 16 December 18391 The Petition of John Bennett praying the vacation of the plat of part of Bennetts addition to the town of Petersburg— The undersigned respectfully petitions that Blocks, two, three, four and five inBennett's addition to the town ofPetersburghin the county ofMenardbe vacated—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess.,  44, 92, 114, 161, 306; Illinois SenateJournal. 1839. 11th G. A., special sess., 109-10, 216-17.",
+      "An Act to Vacate Town Plats; Alasdair Roberts,America’s First Great Depression: Economic Crisis and Political Disorder after the\n                        Panic of 1837(Ithaca, NY: Cornell University Press, 2012), 19, 33, 38; James E. Davis,Frontier Illinois(Bloomington: Indiana University Press, 1998), 210-12; Robert P. Howard,Illinois: A History of the Prairie State(Grand Rapids, MI: William B. Eerdmans, 1972), 196.",
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 44."
+    ],
+    "footnotes": [
+      {
+        "id": "X31DC9252-1673-4D3E-9494-6AA1CD7617AC",
+        "text": "1Abraham Lincoln wrote the text of this petition and signed John Bennett’s name.  He\n                  also wrote on page two the title and his name as part of the list of representatives\n                  considering the bill.On  December 17, 1839, Lincoln in theHouse of Representativespresented this petition of John Bennett, requesting vacation of the plat of part\n                  of Bennett’s addition in Petersburg.  The House referred the petition to a three-person\n                  select committee that included Lincoln. In response to this petition,   Lincoln of\n                  the aforesaid select committee introducedHB 58in the House on December 27.  The House passed the bill on January 13, 1840.  On\n                  January 30, theSenateamended the bill by an additional section relating to tax assessment inGreeneandJerseycounties.  The Senate passed the bill as amended, amending the title by adding the\n                  words “and for the assessment and collection of taxes in certain counties.”  The Senate\n                  informed the House of the bill’s passage and amendment, but the House  did not take\n                  up the Senate amendments.Illinois HouseJournal. 1839. 11th G. A., special sess.,  44, 92, 114, 161, 306; Illinois SenateJournal. 1839. 11th G. A., special sess., 109-10, 216-17."
+      },
+      {
+        "id": "X42D3C83D-1478-4612-97FD-7B076F76AC85",
+        "text": "2Illinois experienced a time of intense land speculation in the 1830s that resulted\n                  in a number of  “paper towns,” settlements that were platted and available for sale\n                  but where few or no people actually lived. Many of the proprietors of these settlements\n                  abandoned them during and after thePanic of 1837. As a result, the General Assembly received a large number of petitions for vacation\n                  during their sessions from 1838 to 1841. In 1841, the legislature passed anactsetting parameters for proprietors to vacate town plats themselves. Vacating a plat\n                  gave owners greater flexibility in the use, fencing, and sale of the property.An Act to Vacate Town Plats; Alasdair Roberts,America’s First Great Depression: Economic Crisis and Political Disorder after the\n                        Panic of 1837(Ithaca, NY: Cornell University Press, 2012), 19, 33, 38; James E. Davis,Frontier Illinois(Bloomington: Indiana University Press, 1998), 210-12; Robert P. Howard,Illinois: A History of the Prairie State(Grand Rapids, MI: William B. Eerdmans, 1972), 196."
+      },
+      {
+        "id": "XBAB830CE-38D6-49DC-B72D-084865A8986E",
+        "text": "3These legislators formed a select committee in the House of Representatives that considered\n                  the petition.Illinois HouseJournal. 1839. 11th G. A., special sess., 44."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of John Bennett to the Illinois General Assembly, 16 December 18391"
+      },
+      {
+        "type": "description",
+        "text": "The Petition of John Bennett praying the vacation of the plat of part of Bennett[’]s addition to the town of Petersburg—"
+      },
+      {
+        "type": "paragraph",
+        "text": "The undersigned respectfully petitions that Blocks, two, three, four and five inBennett's addition to the town ofPetersburghin the county ofMenardbe vacated—2"
+      }
+    ],
+    "word_count": 54
+  },
+  "extraction_date": "2025-12-26 20:09:35",
+  "word_count": 54,
+  "processing": {
+    "cleaned": true,
+    "original_length": 356,
+    "cleaned_length": 353,
+    "preserved_originality": true
+  }
+}

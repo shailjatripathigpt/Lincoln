@@ -1,0 +1,88 @@
+{
+  "document_id": "D233584",
+  "url": "https://papersofabrahamlincoln.org/documents/D233584",
+  "metadata": {
+    "date": "1849-02-16",
+    "authors": [
+      "Brown, William H."
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-02-16",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "liberty",
+      "his",
+      "you",
+      "mrc",
+      "appointment",
+      "our",
+      "office",
+      "say",
+      "well",
+      "william",
+      "brown",
+      "edward",
+      "baker",
+      "abraham",
+      "lincoln"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "William H. Brown to Edward D. Baker and Abraham Lincoln, 16 February 18491 As the representatives of theIllinoisbranch of theWhigfamily atWashington, I take the liberty to call your attention to the application of our mutual friendAlfred CowlesEsq. for the office of Register of theLand officeat thisplace. I need not say to you, for you are well aware of the fact, that MrC. is fully competent to perform the duties of the office– and that his unblemished\n\ncharacter & standing in thestatewill justify the new administration in making the appointment– but it is proper for\n\nme to say, that this appointment is here almost unanimously conceeded to MrC. by the Whigs of Chicago– I am certain that it would be a popular appointment. Independant of other considerations, MrC.s age, and the dependant state of his family, give him strong claims to the sympathy\n\nof his Whig friends– His best days, as you well know, have been spent in the advocacy\n\nof correct & sound principles– and in the decline of life, this reward for faithful\n\nservices, will be as grateful to his feelings, as merited by his past efforts for\n\nthe success of our cause.2",
+    "paragraphs": [
+      "William H. Brown to Edward D. Baker and Abraham Lincoln, 16 February 18491 As the representatives of theIllinoisbranch of theWhigfamily atWashington, I take the liberty to call your attention to the application of our mutual friendAlfred CowlesEsq. for the office of Register of theLand officeat thisplace. I need not say to you, for you are well aware of the fact, that MrC. is fully competent to perform the duties of the office– and that his unblemished",
+      "character & standing in thestatewill justify the new administration in making the appointment– but it is proper for",
+      "me to say, that this appointment is here almost unanimously conceeded to MrC. by the Whigs of Chicago– I am certain that it would be a popular appointment. Independant of other considerations, MrC.s age, and the dependant state of his family, give him strong claims to the sympathy",
+      "of his Whig friends– His best days, as you well know, have been spent in the advocacy",
+      "of correct & sound principles– and in the decline of life, this reward for faithful",
+      "services, will be as grateful to his feelings, as merited by his past efforts for",
+      "the success of our cause.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138."
+    ],
+    "footnotes": [
+      {
+        "id": "X682F9B92-BB08-42E8-BCF8-A9DF51628A61",
+        "text": "1William H. Brown wrote the letter in its entirety."
+      },
+      {
+        "id": "XC688C528-8DD7-4EF1-BD9B-0771A8D4B845",
+        "text": "2Alfred Cowles received the appointment, holding the position until 1853.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William H. Brown to Edward D. Baker and Abraham Lincoln, 16 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "As the representatives of theIllinoisbranch of theWhigfamily atWashington, I take the liberty to call your attention to the application of our mutual friendAlfred CowlesEsq.[Esquire] for the office of Register of theLand officeat thisplace."
+      },
+      {
+        "type": "paragraph",
+        "text": "I need not say to you,   for you are well aware of the fact, that MrC. is fully competent to perform the duties of the office– and that his unblemished\n               character & standing in thestatewill justify the new administration in making the appointment– but it is proper for\n               me to say, that this appointment is here almost unanimously conceeded to MrC. by the Whigs of Chicago–  I am certain that it would be a popular appointment."
+      },
+      {
+        "type": "paragraph",
+        "text": "Independant of other considerations, MrC.s age, and the dependant state of his family, give him strong claims to the sympathy\n               of his Whig friends– His best days, as you well know, have been spent in the advocacy\n               of correct & sound principles– and in the decline of life, this reward for faithful\n               services, will be as grateful to his feelings, as merited by his past efforts for\n               the success of our cause.2"
+      }
+    ],
+    "word_count": 194
+  },
+  "extraction_date": "2025-12-26 20:35:19",
+  "word_count": 194,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1235,
+    "cleaned_length": 1139,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

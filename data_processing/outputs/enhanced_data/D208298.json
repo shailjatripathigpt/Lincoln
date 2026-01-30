@@ -1,0 +1,84 @@
+{
+  "document_id": "D208298",
+  "url": "https://papersofabrahamlincoln.org/documents/D208298",
+  "metadata": {
+    "date": "1845-XX-XX",
+    "authors": [
+      "Harvey, William"
+    ],
+    "keywords": [
+      "Taxation, State",
+      "Local taxation",
+      "Real property tax"
+    ],
+    "type": "Receipt",
+    "extracted_date": "1845",
+    "extracted_type": "receipt",
+    "extracted_keywords": [
+      "county",
+      "receipt",
+      "illinois",
+      "sangamon",
+      "taxes",
+      "received",
+      "ofabraham",
+      "lincolnhis",
+      "state",
+      "tax",
+      "year",
+      "following",
+      "described",
+      "real",
+      "estate"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Receipt for 1845 Illinois and Sangamon County Taxes, 1 Received ofAbraham Lincolnhis State and county tax, for the year 1845on the following described real estate. Valuation, $240Tax, $1.68 E ½ S E ¼Sec.12T.15R.6A.802 Sec. T. R. A.",
+    "paragraphs": [
+      "Receipt for 1845 Illinois and Sangamon County Taxes, 1 Received ofAbraham Lincolnhis State and county tax, for the year 1845on the following described real estate. Valuation, $240Tax, $1.68 E ½ S E ¼Sec.12T.15R.6A.802 Sec. T. R. A."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Deed of Robert S. Todd and Elizabeth Todd to Mary Lincoln; Daniel W. Stowell, “Femes UnCovert: Women’s Encounters with the Law,”  Daniel W.\n                     Stowell,In Tender Consideration: Women, Families, and the Law in Abraham Lincoln’s Illinois(Urbana: University of Illinois Press, 2002), 18."
+    ],
+    "footnotes": [
+      {
+        "id": "X4973DE05-D440-4F7F-A70E-AC5EA6B1A0A0",
+        "text": "1William Harvey filled in the blanks of this partially-printed form and signed the\n                  document."
+      },
+      {
+        "id": "XF2225208-A447-42C7-B8E4-98494CE448A6",
+        "text": "2This land was a gift toMary Lincolnfrom herfatherin 1844. As her husband, Abraham Lincoln was the legal owner of the property and\n                  was responsible for the taxes on it.Deed of Robert S. Todd and Elizabeth Todd to Mary Lincoln; Daniel W. Stowell, “Femes UnCovert: Women’s Encounters with the Law,”  Daniel W.\n                     Stowell,In Tender Consideration: Women, Families, and the Law in Abraham Lincoln’s Illinois(Urbana: University of Illinois Press, 2002), 18."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt for 1845 Illinois and Sangamon County Taxes, [1845]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received ofAbraham Lincolnhis State and county tax, for the year 1845on the following described real estate. Valuation, $240Tax, $1.68"
+      },
+      {
+        "type": "paragraph",
+        "text": "E[East] ½ S E [Southeast]¼Sec.[Section]12T.[Township]15R.[Range]6A.[Acres]802"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sec. T. R. A."
+      }
+    ],
+    "word_count": 37
+  },
+  "extraction_date": "2025-12-26 20:22:39",
+  "word_count": 37,
+  "processing": {
+    "cleaned": true,
+    "original_length": 287,
+    "cleaned_length": 231,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "D209187",
+  "url": "https://papersofabrahamlincoln.org/documents/D209187",
+  "metadata": {
+    "date": "1856-06-23",
+    "authors": [],
+    "keywords": [
+      "Receipts (Acknowledgments)",
+      "Pumping machinery"
+    ],
+    "type": "Receipt",
+    "extracted_date": "1856-06-23",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "receipt",
+      "haggard",
+      "neely",
+      "abraham",
+      "lincoln",
+      "june"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Receipt of Haggard & Neely to Abraham Lincoln, 23 June 18561",
+    "paragraphs": [
+      "Receipt of Haggard & Neely to Abraham Lincoln, 23 June 18561"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Daily Journal(Springfield), 2 July 1852, 3:2."
+    ],
+    "footnotes": [
+      {
+        "id": "X1A344787-FAE5-4953-AD05-F34E8C59A57A",
+        "text": "1Hiram Baker wrote and signed this receipt on behalf of Haggard & Neely."
+      },
+      {
+        "id": "X5205AE7C-7C46-4653-ABCA-0397928CE3E2",
+        "text": "2Haggard & Neely dealt in chain pumps for drawing water; therefore, Abraham Lincoln\n                  most likely paid for repair work on one such water pump.Illinois Daily Journal(Springfield), 2 July 1852, 3:2."
+      },
+      {
+        "id": "XE075B43E-CB97-4EF8-A2FE-16A95599D5F7",
+        "text": "3An unknown person wrote this endorsement."
+      },
+      {
+        "id": "X15E69EAD-30A6-456D-84C5-F05174E316B2",
+        "text": "4An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Haggard & Neely to Abraham Lincoln, 23 June 18561"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 21:39:04",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 60,
+    "cleaned_length": 60,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

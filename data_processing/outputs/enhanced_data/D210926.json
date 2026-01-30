@@ -1,0 +1,91 @@
+{
+  "document_id": "D210926",
+  "url": "https://papersofabrahamlincoln.org/documents/D210926",
+  "metadata": {
+    "date": "1858-09-02",
+    "authors": [
+      "Stover, Emanuel"
+    ],
+    "keywords": [
+      "Constitutional law",
+      "Elections",
+      "Political campaigns",
+      "Slavery--Extension to the territories",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-09-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "answer",
+      "emanuel",
+      "stover",
+      "abraham",
+      "lincoln",
+      "september",
+      "here",
+      "written",
+      "get",
+      "your",
+      "opinion",
+      "regard",
+      "certain",
+      "questions"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Emanuel Stover to Abraham Lincoln, 2 September 18581 I have here written to you, to get your opinion in regard to certain questions which\n\nI hope you will answer–2I have sent the same toS. A. Douglass, to see what answers he will give. Please answer immediately.3",
+    "paragraphs": [
+      "Emanuel Stover to Abraham Lincoln, 2 September 18581 I have here written to you, to get your opinion in regard to certain questions which",
+      "I hope you will answer–2I have sent the same toS. A. Douglass, to see what answers he will give. Please answer immediately.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85."
+    ],
+    "footnotes": [
+      {
+        "id": "XD54FC08F-C655-4F90-99BE-8AE8C07FCC6D",
+        "text": "1Emanuel Stover wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "X39110731-EEF4-4FCE-88C4-FF51DBE8E607",
+        "text": "2Stoverpenneda list of questions for Abraham Lincoln, dated September 1, 1858 and possibly enclosed\n                  in this letter, regarding the latter’s positions on slavery. Lincoln was at this time\n                  running against incumbentDemocratStephen A. Douglas to representIllinoisin theU.S. Senate. See1858 Illinois Republican Convention;1858 Federal Election.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85."
+      },
+      {
+        "id": "XCA414255-0371-4E39-B59B-57A3716D85A1",
+        "text": "3StoverwroteLincoln again on October 5, 1858 to thank him for his response to the  questions\n                  referenced in this letter. Such an answer by Lincoln has not been located. Stover\n                  reported that Douglas failed to respond to his queries."
+      },
+      {
+        "id": "X747C213D-A2EA-4BCA-BA20-044FFDB897FD",
+        "text": "4Lincoln wrote this docketing."
+      },
+      {
+        "id": "XD9ADA939-77B8-482F-8B2E-4234231C8258",
+        "text": "5Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Emanuel Stover to Abraham Lincoln, 2 September 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have here written to you, to get your opinion in regard to certain questions which\n               I hope you will answer–2I have sent the same toS. A. Douglass,  to see what answers he will give. Please answer immediately.3"
+      }
+    ],
+    "word_count": 46
+  },
+  "extraction_date": "2025-12-26 22:00:19",
+  "word_count": 46,
+  "processing": {
+    "cleaned": true,
+    "original_length": 278,
+    "cleaned_length": 263,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

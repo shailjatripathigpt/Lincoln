@@ -1,0 +1,87 @@
+{
+  "document_id": "D251933",
+  "url": "https://papersofabrahamlincoln.org/documents/D251933",
+  "metadata": {
+    "date": "1857-09-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Finance, Personal",
+      "Banks and banking"
+    ],
+    "type": "Check",
+    "extracted_date": "1857-09-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "ruth",
+      "check",
+      "abraham",
+      "lincoln",
+      "reuben",
+      "september",
+      "springfield",
+      "marine",
+      "fire",
+      "insurance",
+      "company",
+      "pay",
+      "tor",
+      "current",
+      "bank"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Check of Abraham Lincoln to Reuben F. Ruth, 28 September 18571 Springfield Marine & Fire Insurance Company, Pay toR. F. Ruth.or BearerFourteen70/100Dollars, IN CURRENT BANK NOTES. $14–702",
+    "paragraphs": [
+      "Check of Abraham Lincoln to Reuben F. Ruth, 28 September 18571 Springfield Marine & Fire Insurance Company, Pay toR. F. Ruth.or BearerFourteen70/100Dollars, IN CURRENT BANK NOTES. $14–702"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daily Illinois State Journal(Springfield), 21 August 1857, 4:1; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 166."
+    ],
+    "footnotes": [
+      {
+        "id": "X7BA2A66D-29E4-40C6-BCBB-F49FFF7D1F81",
+        "text": "1Abraham Lincoln filled in the blanks of this partially printed check and signed it."
+      },
+      {
+        "id": "X4EB1EC58-58D7-450E-994C-E37D4E18E092",
+        "text": "2It is unknown what this payment from Lincoln to Reuben F. Ruth was for, but it may\n                  have been related to Ruth’s business as a harness-maker, saddler, and trunk manufacturer.\n                  The funds were withdrawn from Lincoln’s account at the Springfield Marine & Fire Insurance\n                  Company on September 30, 1857. He wrote another check to Ruth in 1859.Daily Illinois State Journal(Springfield), 21 August 1857, 4:1; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 166."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Abraham Lincoln to Reuben  F. Ruth, 28 September 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Springfield Marine & Fire Insurance Company,"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pay toR. F. Ruth.or BearerFourteen70/100Dollars,"
+      },
+      {
+        "type": "paragraph",
+        "text": "IN CURRENT BANK NOTES."
+      },
+      {
+        "type": "paragraph",
+        "text": "$14–702"
+      }
+    ],
+    "word_count": 27
+  },
+  "extraction_date": "2025-12-26 21:44:20",
+  "word_count": 27,
+  "processing": {
+    "cleaned": true,
+    "original_length": 188,
+    "cleaned_length": 187,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

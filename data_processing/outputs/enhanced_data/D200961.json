@@ -1,0 +1,84 @@
+{
+  "document_id": "D200961",
+  "url": "https://papersofabrahamlincoln.org/documents/D200961",
+  "metadata": {
+    "date": "1857-07-03",
+    "authors": [
+      "Dubois, Jesse K.",
+      "Hatch, Ozias M.",
+      "Lincoln, Abraham (President)",
+      "Ross, William",
+      "Trumbull, Lyman",
+      "Williams, John (Springfield, IL)",
+      "Wood, John"
+    ],
+    "keywords": [
+      "Newspapers--Circulation",
+      "Capitalists and financiers",
+      "Politics and government"
+    ],
+    "type": "Agreement",
+    "extracted_date": "1857-07-03",
+    "extracted_type": "agreement",
+    "extracted_keywords": [
+      "agreement",
+      "regarding",
+      "missouri",
+      "democrat",
+      "july"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Agreement regarding the Missouri Democrat, 3 July 18571",
+    "paragraphs": [
+      "Agreement regarding the Missouri Democrat, 3 July 18571"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 211, 228; Walter B. Stevens,St. Louis: The Fourth City, 1764-1911(St. Louis: S.J. Clarke, 1911), 1:162, 164."
+    ],
+    "footnotes": [
+      {
+        "id": "X4D20EF38-F65F-41D9-A892-BB92061641F7",
+        "text": "1Abraham Lincoln wrote and signed this letter. Each co-author signed his respective\n                  signature."
+      },
+      {
+        "id": "XC8A49E4E-0E8C-48EC-B785-F9C25ECFD1DA",
+        "text": "2Lincoln, knowing that theRepublican Party’s support was weak in southern Illinois, took this opportunity to support John G.\n                  Nicolay’s plan to promote the circulation of the staunchly Republican newspaper, theMissouri Democrat, in that part of the state with the hope of helping Republican candidates for theIllinois General Assembly.  Lincoln hoped that Republican control of the General Assembly would assist him\n                  in the1858 senatorial racebetween Lincoln and the incumbentDemocrat,Stephen A. Douglas.   Nicolay lived inSpringfieldand served as the Illinois correspondent of theDemocratat the time. Lincoln’s Republicans did not gain control of the General Assembly,\n                  and Douglas retained his seat in theU.S. Senate. See the1858 Federal Election.David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 211, 228; Walter B. Stevens,St. Louis: The Fourth City, 1764-1911(St. Louis: S.J. Clarke, 1911), 1:162, 164."
+      },
+      {
+        "id": "DEW72216185707030000_1",
+        "text": "3“a” changed to “of”"
+      },
+      {
+        "id": "X758FD463-2F57-4E3C-975D-35A0ABDC741E",
+        "text": "4Nicolay wrote and signed this endorsement."
+      },
+      {
+        "id": "XE287274B-7C8D-40EC-AFF3-B8FC8C9D82FD",
+        "text": "5Nicolay wrote and signed this endorsement."
+      },
+      {
+        "id": "X21123F8D-F61B-4D80-8006-7009CA10F3A3",
+        "text": "6An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Agreement regarding the Missouri Democrat, 3 July 18571"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 21:43:49",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 55,
+    "cleaned_length": 55,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

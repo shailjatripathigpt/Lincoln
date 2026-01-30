@@ -1,0 +1,54 @@
+{
+  "document_id": "D200485",
+  "url": "https://papersofabrahamlincoln.org/documents/D200485",
+  "metadata": {
+    "date": "1848-05-03",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Printing, Public",
+      "Speeches"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John T. Towers, 3 May 18481 I understand that the speech of MrWick, ofIndiana, is printed at your office–2Please send to the folding room for me, three hundred copies of it, and oblige",
+    "paragraphs": [
+      "Abraham Lincoln to John T. Towers, 3 May 18481 I understand that the speech of MrWick, ofIndiana, is printed at your office–2Please send to the folding room for me, three hundred copies of it, and oblige"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Josephine F. Pacheo,The Pearl: A Failed Slave Escape on the Potomac(Chapel Hill and London: University of North Carolina Press, 2005), 48-70, 171-80;\n                     Gilbert Hobbs Barnes, “PearlCase,”Dictionary of American History, rev. ed. (New York: Charles Scribner’s Sons, 1976), 5:239; “Speech of Mr. W. W.\n                     Wick, of Indiana, on the Privilege of Members and the Subject of Slavery.  Delivered\n                     in the House of Representatives, April 25, 1848” (Washington, DC: Towers, 1848), 1-16;\n                     Cong. Globe, 30th Cong., 1st Sess., 649-56, 657-64, 665-73 (1848)."
+    ],
+    "footnotes": [
+      {
+        "id": "XFDFCDE69-808C-40A6-8976-E549826624E1",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XC8A43B7A-D604-48A3-8BE2-4DB65AAB5ACD",
+        "text": "2William W. Wick delivered this speech in theU.S. House of Representativeson April 25, 1848 in the midst of a three-day debate on a resolution introduced by\n                  RepresentativeJohn G. Palfrey. The resolution  called for the appointment of a five-person select committee to\n                  investigate pro-slavery riots that rocked the nation’s capital in the aftermath of\n                  thePearlincident and offered their opinion whether legislation was necessary to prevent future\n                  rioting.  On April 15, seventy-six or seventy-seven slaves from Washington, DC attempted\n                  to escape by hiding aboard a schooner named thePearl.  The plan was  to sail down thePotomac Riverinto theChesapeake Bayand up theDelaware Riverto freedom inNew JerseyorPennsylvania. Inclement weather delayed thePearl’svoyage, and on April 17, a posse captured the runaways and returned them to Washington.\n                  This prompted three days of rioting by pro-slavery mobs.Josephine F. Pacheo,The Pearl: A Failed Slave Escape on the Potomac(Chapel Hill and London: University of North Carolina Press, 2005), 48-70, 171-80;\n                     Gilbert Hobbs Barnes, “PearlCase,”Dictionary of American History, rev. ed. (New York: Charles Scribner’s Sons, 1976), 5:239; “Speech of Mr. W. W.\n                     Wick, of Indiana, on the Privilege of Members and the Subject of Slavery.  Delivered\n                     in the House of Representatives, April 25, 1848” (Washington, DC: Towers, 1848), 1-16;\n                     Cong. Globe, 30th Cong., 1st Sess., 649-56, 657-64, 665-73 (1848)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John T. Towers, 3 May 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "I understand that the speech of MrWick, ofIndiana, is printed at your office–2Please send to the folding room for me, three hundred copies of it, and oblige"
+      }
+    ],
+    "word_count": 36
+  },
+  "extraction_date": "2025-12-26 20:29:14",
+  "word_count": 36,
+  "processing": {
+    "cleaned": true,
+    "original_length": 203,
+    "cleaned_length": 203,
+    "preserved_originality": true
+  }
+}

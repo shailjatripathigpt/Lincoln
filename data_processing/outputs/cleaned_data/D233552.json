@@ -1,0 +1,60 @@
+{
+  "document_id": "D233552",
+  "url": "https://papersofabrahamlincoln.org/documents/D233552",
+  "metadata": {
+    "date": "1850-04-25",
+    "authors": [
+      "Ewing, Thomas"
+    ],
+    "keywords": [
+      "Pensions",
+      "Administrative agencies",
+      "Rumor"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Thomas Ewing to Abraham Lincoln, 25 April 18501 I have the honor to acknowledge the receipt of your letter of the 13th Inst,2and on the subject of the same to state that theDepartmenthas no intention, at present, of making any change in the Pension Agency ofIllinois.3",
+    "paragraphs": [
+      "Thomas Ewing to Abraham Lincoln, 25 April 18501 I have the honor to acknowledge the receipt of your letter of the 13th Inst,2and on the subject of the same to state that theDepartmenthas no intention, at present, of making any change in the Pension Agency ofIllinois.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 140;Memorandum concerning Orville Paddock and William S. Wallace.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 151;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 152."
+    ],
+    "footnotes": [
+      {
+        "id": "X61B0368D-5A6E-4F70-97EF-8C829640314B",
+        "text": "1This letter is attributed to Secretary of the Interior Thomas Ewing but is not in\n                  Ewing’s hand."
+      },
+      {
+        "id": "X970CC696-196E-4487-8A7B-E97AFB455913",
+        "text": "2This is a reference to aletterAbraham Lincoln wrote Ewing, expressing opposition to the division of the Illinois\n                  pension agency into two separate state agencies. Lincoln stated that his brother-in-law,William S. Wallace, had written him about the matter. Wallace was the pension agent for Illinois inSpringfieldat the time, having been appointed by PresidentZachary Taylorin 1849 after Lincoln recommended him for the position.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 140;Memorandum concerning Orville Paddock and William S. Wallace."
+      },
+      {
+        "id": "X24ED83EB-7436-400F-A885-59DFFFAC67C3",
+        "text": "3Wallace remained the sole pension agent for Illinois until 1853, when he was replaced\n                  byIsaac B. Curran.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 151;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 152."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Thomas Ewing to Abraham Lincoln, 25 April 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the honor to acknowledge the receipt of your letter of the 13th Inst,2and on the subject of the same to state that theDepartmenthas no intention, at present, of making any change in the Pension Agency ofIllinois.3"
+      }
+    ],
+    "word_count": 46
+  },
+  "extraction_date": "2025-12-26 21:22:40",
+  "word_count": 46,
+  "processing": {
+    "cleaned": true,
+    "original_length": 268,
+    "cleaned_length": 268,
+    "preserved_originality": true
+  }
+}

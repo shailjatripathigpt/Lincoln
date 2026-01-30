@@ -1,0 +1,66 @@
+{
+  "document_id": "D200129",
+  "url": "https://papersofabrahamlincoln.org/documents/D200129",
+  "metadata": {
+    "date": "1837-12-07",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Political candidates",
+      "Political parties"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William A. Minshall, 7 December 18371 I write this to say that it isStuart’s intention to be a candidate forcongressagain; and that he will be publicly announced before long. I would suggest to you\n\nthe propriety of your letting our friends in your parts know, that he is to be the\n\ncandidate. On the receipt of this, write me all youknowand all youthink, in regard to our prospects for the race.2 I believe we have nothing here that would be news to you. I am ashamed to write so\n\nshort a letter; but lack ofmaterial, you know, will make any thing short.",
+    "paragraphs": [
+      "Abraham Lincoln to William A. Minshall, 7 December 18371 I write this to say that it isStuart’s intention to be a candidate forcongressagain; and that he will be publicly announced before long. I would suggest to you",
+      "the propriety of your letting our friends in your parts know, that he is to be the",
+      "candidate. On the receipt of this, write me all youknowand all youthink, in regard to our prospects for the race.2 I believe we have nothing here that would be news to you. I am ashamed to write so",
+      "short a letter; but lack ofmaterial, you know, will make any thing short."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Robert W. Johannsen,Stephen A. Douglas(New York: Oxford University Press, 1973), 64-68, 70-72; Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 109."
+    ],
+    "footnotes": [
+      {
+        "id": "XD8506E00-2DEC-4D4D-8FE2-15AE008E1FAB",
+        "text": "1Abraham Lincoln wrote the entire text of the letter, his signature, and the postscript."
+      },
+      {
+        "id": "X081D8F18-4F69-4F8A-827C-020C0FC5C8E5",
+        "text": "2John T. Stuart would run for re-election, and in March 1838, Stephen A. Douglas resigned\n                  as register of the Springfield Land Office to run against him.  When the ballots were\n                  finally tallied in August 1838, Stuart defeated Douglas by a scant 36 votes (18,254\n                  for Stuart to 18,218 for Douglas). The closeness of the vote and accusations of voter\n                  irregularities prompted Douglas to contest the election, to no avail.Robert W. Johannsen,Stephen A. Douglas(New York: Oxford University Press, 1973), 64-68, 70-72; Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 109."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William A. Minshall, 7 December 18371"
+      },
+      {
+        "type": "paragraph",
+        "text": "I write this to say that it isStuart’s intention to be a candidate forcongressagain; and that he will be publicly announced before long. I would suggest to you\n               the propriety of your letting our friends in your parts know, that he is to be the\n               candidate."
+      },
+      {
+        "type": "paragraph",
+        "text": "On the receipt of this, write me all youknowand all youthink, in regard to our prospects for the race.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "I believe we have nothing here that would be news to you. I am ashamed to write so\n               short a letter; but lack ofmaterial, you know, will make any thing short."
+      }
+    ],
+    "word_count": 105
+  },
+  "extraction_date": "2025-12-26 20:06:28",
+  "word_count": 105,
+  "processing": {
+    "cleaned": true,
+    "original_length": 616,
+    "cleaned_length": 574,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "document_id": "D210682",
+  "url": "https://papersofabrahamlincoln.org/documents/D210682",
+  "metadata": {
+    "date": "1858-05-03",
+    "authors": [
+      "Hitt, Charles B."
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Claims",
+      "Debtor and creditor"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-05-03",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "charles",
+      "hardin",
+      "catlin",
+      "you",
+      "some",
+      "sent",
+      "against",
+      "time",
+      "claim",
+      "pay",
+      "hear",
+      "willys",
+      "hitt",
+      "abraham",
+      "lincoln"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Charles B. Hitt to Abraham Lincoln, 3 May 18581 About Charles Hardin4 Some few years ago I sent to a MrCharles Hardinthen Clerk ofone of the Courtsin yourStateatSpringfielda transcribt of a judgement against oneWillys Catlinformerly from thisCittyMr Hardin was of the opinion at the time I sent the claim that Mr Catlin was fully\n\nable to pay it But sold a stock of Books in which trade Mr Catlin was engaged in Springfield\n\nto avoid the payment of this claim2I have not hear anything from Mr Hardin for some time and suppose he is deadmy object in writeing is to get you to mange this claim against Willys Catlinplease let me hear from<Page 2>you and inform me if Mr Charles Hardin is dead and If you know this Willys Catlin\n\nand his ability to pay $5003",
+    "paragraphs": [
+      "Charles B. Hitt to Abraham Lincoln, 3 May 18581 About Charles Hardin4 Some few years ago I sent to a MrCharles Hardinthen Clerk ofone of the Courtsin yourStateatSpringfielda transcribt of a judgement against oneWillys Catlinformerly from thisCittyMr Hardin was of the opinion at the time I sent the claim that Mr Catlin was fully",
+      "able to pay it But sold a stock of Books in which trade Mr Catlin was engaged in Springfield",
+      "to avoid the payment of this claim2I have not hear anything from Mr Hardin for some time and suppose he is deadmy object in writeing is to get you to mange this claim against Willys Catlinplease let me hear from<Page 2>you and inform me if Mr Charles Hardin is dead and If you know this Willys Catlin",
+      "and his ability to pay $5003"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. Census Office, Eighth Census of the United States (1860), Jacksonville, Morgan\n                     County, IL, 10, 58;History of Morgan County, Illinois(Chicago: Donnelley, Loyd, 1878), 265.",
+      "Hitt asked Lincoln to conduct legal research, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141376;Illinois Daily State Journal(Springfield), 3 February 1863, 3:2; U.S. Census Office, Eighth Census of the United\n                     States (1860), Jacksonville, Morgan County, IL, 58."
+    ],
+    "footnotes": [
+      {
+        "id": "4018648",
+        "text": "1Charles B. Hitt wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "4018651",
+        "text": "2Charles Hardin and Willis (Willys) Catlin were both residents ofJacksonville, Illinois, not Springfield, and Hardin was clerk there of theMorgan County Circuit Court.U.S. Census Office, Eighth Census of the United States (1860), Jacksonville, Morgan\n                     County, IL, 10, 58;History of Morgan County, Illinois(Chicago: Donnelley, Loyd, 1878), 265."
+      },
+      {
+        "id": "4018652",
+        "text": "3Neither the outcome of Hitt’s claim nor the extent of Abraham Lincoln’s involvement\n                  in the case is known. Hardin did not die until 1863. At the time of the 1860 census,\n                  Catlin owned real estate valued at $5,000 and possessed personal property of a similar\n                  value.Hitt asked Lincoln to conduct legal research, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141376;Illinois Daily State Journal(Springfield), 3 February 1863, 3:2; U.S. Census Office, Eighth Census of the United\n                     States (1860), Jacksonville, Morgan County, IL, 58."
+      },
+      {
+        "id": "4018649",
+        "text": "4Lincoln wrote this docketing."
+      },
+      {
+        "id": "4018650",
+        "text": "5Lincoln wrote this docketing. Neither Lincoln’s response to this letter nor any further\n                  correspondence between Hitt and Lincoln on the subject has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Charles B. Hitt to Abraham Lincoln, 3 May 18581"
+      },
+      {
+        "type": "description",
+        "text": "About Charles Hardin4"
+      },
+      {
+        "type": "paragraph",
+        "text": "Some few years ago I sent to a MrCharles Hardinthen Clerk ofone of the Courtsin yourStateatSpringfielda transcribt of a judgement against oneWillys Catlinformerly from thisCittyMr Hardin was of the opinion at the time I sent the claim that Mr Catlin was fully\n               able to pay it But sold a stock of Books in which trade Mr Catlin was engaged in Springfield\n               to avoid the payment of this claim2I have not hear anything from Mr Hardin for some time and suppose he is deadmy object in writeing is to get you to mange this claim against Willys Catlinplease let me hear from<Page 2>you and inform me if Mr Charles Hardin is dead and If you know this Willys Catlin\n               and his ability to pay $5003"
+      }
+    ],
+    "word_count": 136
+  },
+  "extraction_date": "2025-12-26 21:46:28",
+  "word_count": 136,
+  "processing": {
+    "cleaned": true,
+    "original_length": 797,
+    "cleaned_length": 755,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

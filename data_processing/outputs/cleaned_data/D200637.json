@@ -1,0 +1,68 @@
+{
+  "document_id": "D200637",
+  "url": "https://papersofabrahamlincoln.org/documents/D200637",
+  "metadata": {
+    "date": "1850-01-25",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Employment references",
+      "Judges--Selection and appointment"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Zachary Taylor, 25 January 18501 In a letter to you of this date I have strongly recommended HonStephen T. Loganfor U.S. Judge of theDistrict Court for Illinois–2Understanding that a portion of our goodwhigfriends are recommending Hon:Samuel D. Lockwoodfor the same office,3I mean not to abate in the least my recommendation of Judge Logan, when I say that\n\nJudge Lockwood too is most worthy of such an appointment. His moral worth, and legal\n\nability are above all question– For about twentyfive years he was a judge of our Supreme Court; and his opinions, extending through nearly all our books of Reports, are a sufficient\n\nguaranty of his capacity, to all who may not personally know him– His appointment,\n\nI think, would give very general satisfaction–4",
+    "paragraphs": [
+      "Abraham Lincoln to Zachary Taylor, 25 January 18501 In a letter to you of this date I have strongly recommended HonStephen T. Loganfor U.S. Judge of theDistrict Court for Illinois–2Understanding that a portion of our goodwhigfriends are recommending Hon:Samuel D. Lockwoodfor the same office,3I mean not to abate in the least my recommendation of Judge Logan, when I say that",
+      "Judge Lockwood too is most worthy of such an appointment. His moral worth, and legal",
+      "ability are above all question– For about twentyfive years he was a judge of our Supreme Court; and his opinions, extending through nearly all our books of Reports, are a sufficient",
+      "guaranty of his capacity, to all who may not personally know him– His appointment,",
+      "I think, would give very general satisfaction–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Robert M. Sutton, \"Pope, Nathaniel,\"American National Biography, ed. by John A. Garraty and Mark C. Carnes\n                     (New York: Oxford University Press, 1999), 17:678.",
+      "Illinois Daily Journal(Springfield), 7 February 1850, 2:1."
+    ],
+    "footnotes": [
+      {
+        "id": "X51EA09BD-AF67-435B-BBE7-45EB93392C69",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X803A7737-1B87-4C76-AFC8-65B7323EFE64",
+        "text": "2Lincoln’s January 25, 1850 letter to President Zachary Taylor, recommending Stephen\n                  T. Logan for a judgeship with the U.S. Circuit Court, District of Illinois, has not\n                  been located.Since 1819,Nathaniel Popehad been  judge of the U.S. Circuit Court, District of Illinois. His death on January\n                  22, 1850 created a vacancy which Taylor had to fill.Robert M. Sutton, \"Pope, Nathaniel,\"American National Biography, ed. by John A. Garraty and Mark C. Carnes\n                     (New York: Oxford University Press, 1999), 17:678."
+      },
+      {
+        "id": "XE024FC3D-C9C8-4062-BD26-E761D15B1875",
+        "text": "3No other correspondence to or from Lincoln on the topic of Whigs recommending Samuel\n                  D. Lockwood for judge of the U.S. Circuit Court, District of Illinois has been located."
+      },
+      {
+        "id": "XAA14B864-E3EC-4AD8-B38F-0BC8AE209739",
+        "text": "4Neither Logan nor Lockwood received the appointment. President Taylor awarded the\n                  U.S. Circuit Court, District of Illinois judgeship toThomas Drummondinstead.Illinois Daily Journal(Springfield), 7 February 1850, 2:1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Zachary Taylor, 25 January 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "In a letter to you of this date I have strongly recommended HonStephen T. Loganfor U.S. Judge of theDistrict Court for Illinois–2Understanding that a portion of our goodwhigfriends are recommending Hon:Samuel D. Lockwoodfor the same office,3I mean not to abate in the least my recommendation of Judge Logan, when I say that\n               Judge Lockwood too is most worthy of such an appointment. His moral worth, and legal\n               ability are above all question– For about twentyfive years he was a judge of our Supreme Court; and his opinions, extending through nearly all our books of Reports, are a sufficient\n               guaranty of his capacity, to all who may not personally know him– His appointment,\n               I think, would give very general satisfaction–4"
+      }
+    ],
+    "word_count": 127
+  },
+  "extraction_date": "2025-12-26 21:21:17",
+  "word_count": 127,
+  "processing": {
+    "cleaned": true,
+    "original_length": 833,
+    "cleaned_length": 777,
+    "preserved_originality": true
+  }
+}

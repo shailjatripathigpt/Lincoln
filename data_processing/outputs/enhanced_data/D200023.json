@@ -1,0 +1,85 @@
+{
+  "document_id": "D200023",
+  "url": "https://papersofabrahamlincoln.org/documents/D200023",
+  "metadata": {
+    "date": "1833-08-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Indians of North America--Wars",
+      "Militia",
+      "Military discharge"
+    ],
+    "type": "Letter",
+    "extracted_date": "1833-08-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "power",
+      "rankin",
+      "having",
+      "acquaintance",
+      "mine",
+      "wished",
+      "case",
+      "any",
+      "abraham",
+      "lincoln",
+      "eli",
+      "blankenship",
+      "august",
+      "regard",
+      "timedavid"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Eli C. Blankenship, 10 August 18331 In regard to the timeDavid Rankinserved the enclosed discharge shows correctly—as well as I can recollect—having no\n\nwriting to refer. The transfer of Rankin from my company2occurred as follows—Rankin having lost his horse atDixon's ferryand having acquaintance in one of the foot companies who were going down the river\n\nwas desirous to go with them, and oneGalishenbeing an acquaintance of mine and belonging to the company in which Rankin wished\n\nto go wished to leave it and join mine, this being the case it was agreed that they\n\nshould exchange places and answer to each others names—as it was expected we allwouldbe discharged inveryfew days. As to a blanket—I have no knowledge of Rankin ever getting any. The above\n\nembraces all the facts now in my recollection which are pertinent to the case. I shall take pleasure in giving any further information in my power should you call\n\non me.",
+    "paragraphs": [
+      "Abraham Lincoln to Eli C. Blankenship, 10 August 18331 In regard to the timeDavid Rankinserved the enclosed discharge shows correctly—as well as I can recollect—having no",
+      "writing to refer. The transfer of Rankin from my company2occurred as follows—Rankin having lost his horse atDixon's ferryand having acquaintance in one of the foot companies who were going down the river",
+      "was desirous to go with them, and oneGalishenbeing an acquaintance of mine and belonging to the company in which Rankin wished",
+      "to go wished to leave it and join mine, this being the case it was agreed that they",
+      "should exchange places and answer to each others names—as it was expected we allwouldbe discharged inveryfew days. As to a blanket—I have no knowledge of Rankin ever getting any. The above",
+      "embraces all the facts now in my recollection which are pertinent to the case. I shall take pleasure in giving any further information in my power should you call"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+    ],
+    "footnotes": [
+      {
+        "id": "X0FF1B96F-50A0-4D00-AEF8-052BE22C676B",
+        "text": "1This document is not extant and no image of the document has been located. This transcription\n                  is taken from the earliest published transcription of the document, in Ida Tarbell’sLife of Abraham Lincoln(New York: Doubleday & McClure, 1900), 2:265."
+      },
+      {
+        "id": "X4F7AF7C9-9E95-44D9-B96C-9D289E151803",
+        "text": "2At the outbreak of theBlack Hawk War, Abraham Lincoln volunteered for theIllinois state militia. On April 21, 1832, Lincoln and other men from theNew Salemarea were mustered into a company in the4th Regiment of Illinois Mounted Volunteers, and the members of the company elected Lincoln as their Captain. When his month\n                  of service ended, Lincoln re-enlisted twice, for twenty and thirty days respectively,\n                  serving as a Private both times. He was discharged finally on July 10, 1832.Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Eli C. Blankenship, 10 August 18331"
+      },
+      {
+        "type": "paragraph",
+        "text": "In regard to the timeDavid Rankinserved the enclosed discharge shows correctly—as well as I can recollect—having no\n               writing to refer. The transfer of Rankin from my company2occurred as follows—Rankin having lost his horse atDixon's ferryand having acquaintance in one of the foot companies who were going down the river\n               was desirous to go with them, and oneGalishenbeing an acquaintance of mine and belonging to the company in which Rankin wished\n               to go wished to leave it and join mine, this being the case it was agreed that they\n               should exchange places and answer to each others names—as it was expected we allwouldbe discharged inveryfew days. As to a blanket—I have no knowledge of Rankin ever getting any. The above\n               embraces all the facts now in my recollection which are pertinent to the case."
+      },
+      {
+        "type": "paragraph",
+        "text": "I shall take pleasure in giving any further information in my power should you call\n               on me."
+      }
+    ],
+    "word_count": 159
+  },
+  "extraction_date": "2025-12-26 19:46:15",
+  "word_count": 159,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1034,
+    "cleaned_length": 950,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

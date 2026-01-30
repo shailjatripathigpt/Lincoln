@@ -1,0 +1,76 @@
+{
+  "document_id": "D200618",
+  "url": "https://papersofabrahamlincoln.org/documents/D200618",
+  "metadata": {
+    "date": "1849-09-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Employment references",
+      "Elections"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-09-12",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "elisha",
+      "embree",
+      "september"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Elisha Embree, 12 September 18491",
+    "paragraphs": [
+      "Abraham Lincoln to Elisha Embree, 12 September 18491"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:306-7;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton.",
+      "Michael Burlingame,Abraham Lincoln: A Life, 1:307;Abraham Lincoln to Thomas Ewing;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 250.",
+      "Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 561, 997; Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 440-41."
+    ],
+    "footnotes": [
+      {
+        "id": "XE2AE17CB-D332-4D6F-895E-48023F59DF92",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the last page,\n                  which was folded to create an envelope."
+      },
+      {
+        "id": "X00659DFB-18D0-4564-ABA7-AC54ADBDBFC0",
+        "text": "2This letter from Elisha Embree to Lincoln has not been located."
+      },
+      {
+        "id": "XF7509F9A-9167-4F97-99BC-BD1FF44DAC3C",
+        "text": "3This is a reference to Lincoln recommendingSimeon Francisfor appointment as secretary of theOregon Territory. PresidentZachary TaylorhadappointedLincoln secretary of the Oregon Territory August 9, 1849, less than a month after\n                  he appointedJustin H. Butterfieldcommissioner of theU.S. General Land Office, a position Lincoln had sought after learning that Butterfield was favored for the\n                  job. See theGeneral Land Office Affair. As Lincoln explained in a May 16, 1849lettertoWilliam B. Preston, he believed the appointment of Butterfield to such a valuable patronage position\n                  would represent an affront toWhigsinIllinoiswho had worked so hard to get Taylor nominated andelected president. Many Illinois Whigs were indeed upset by Butterfield’s appointment and criticized\n                  both President Taylor and Secretary of the InteriorThomas Ewing. The administration hoped that by offering Lincoln the position of  secretary of\n                  the Oregon Territory, it would appease any angry Illinois Whigs and prevent additional\n                  attacks upon Butterfield’s appointment. In aletterto Secretary of State John M. Clayton dated August 21, 1849, Lincoln declined the\n                  appointment for secretary of the Oregon Territory and recommended Francis for the\n                  position instead. Lincoln reiterated his endorsement of Francis for the appointment\n                  in two other letters to Clayton in late September 1849.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:306-7;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton."
+      },
+      {
+        "id": "X1CF5CC4C-3E0C-4B97-955B-AC07D18C145F",
+        "text": "4Lincoln’s letter to Clayton endorsing Embree and Edwin B. Webb has not been located.\n                  In the end, Taylor appointed Edward Hamilton ofOhiosecretary of the Oregon Territory.On September 20, 1849, in a final effort to ease any tensions caused by Butterfield’s\n                  appointment, the Taylor administration also offered Lincoln appointment as governor\n                  of the Oregon Territory. After serious consideration of this offer, Lincoln also turned\n                  this position down, at least in part becauseMary Lincolnhad no desire to live in such a remote location. Taylor appointedJohn P. GainesofVirginiagovernor of the Oregon Territory instead.Michael Burlingame,Abraham Lincoln: A Life, 1:307;Abraham Lincoln to Thomas Ewing;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 250."
+      },
+      {
+        "id": "XFBD2FC7F-E70B-48D6-9B22-06FE6CB7DC68",
+        "text": "5Embree served as a Whig to the ThirtiethCongress, but failed to win reelection in 1848. TheDemocratic Partyclaimed victory in many congressional elections that year; Embree lost to Democrat\n                  Nathaniel Albertson.Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 561, 997; Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 440-41."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Elisha Embree, 12 September 18491"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 21:20:41",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 52,
+    "cleaned_length": 52,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

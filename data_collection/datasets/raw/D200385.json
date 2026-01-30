@@ -1,0 +1,52 @@
+{
+  "document_id": "D200385",
+  "url": "https://papersofabrahamlincoln.org/documents/D200385",
+  "metadata": {
+    "date": "1846-01-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political candidates",
+      "Political conventions",
+      "Nominations for office"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John Bennett, 16 January 18461 The enclosed letters I wrote last night, but when I went to thePost-officethis morning your mail had left about half an hour–2So I send them by MrHarris– Will^you^please take out the one addressed to you, and drop the others in your Post-office,\n               unless you see the men to hand them to in person, in which case please do that– Per. MrHarris",
+    "paragraphs": [
+      "Abraham Lincoln to John Bennett, 16 January 18461",
+      "The enclosed letters I wrote last night, but when I went to thePost-officethis morning your mail had left about half an hour–2So I send them by MrHarris– Will^you^please take out the one addressed to you, and drop the others in your Post-office,\n               unless you see the men to hand them to in person, in which case please do that–",
+      "Per. MrHarris"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XD30C8BF4-97AC-43ED-BD04-2E84AB844959",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also authored the address on the back\n                  page, which was folded to create an envelope."
+      },
+      {
+        "id": "XA882589C-7D0C-4D83-8E47-9BD1492B579B",
+        "text": "2The enclosed letters included Lincoln’sletterto John Bennett of the previous day."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John Bennett, 16 January 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "The enclosed letters I wrote last night, but when I went to thePost-officethis morning your mail had left about half an hour–2So I send them by MrHarris– Will^you^please take out the one addressed to you, and drop the others in your Post-office,\n               unless you see the men to hand them to in person, in which case please do that–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Per. MrHarris"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:22:32",
+  "word_count": 69
+}

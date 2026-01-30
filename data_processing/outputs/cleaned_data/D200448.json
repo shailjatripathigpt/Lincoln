@@ -1,0 +1,72 @@
+{
+  "document_id": "D200448",
+  "url": "https://papersofabrahamlincoln.org/documents/D200448",
+  "metadata": {
+    "date": "1848-01-19",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Decedents' estates",
+      "Negotiable instruments",
+      "Promissory notes"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Herndon, 19 January 18481 Inclosed you find a letter ofLouis W. Chandler.2What is wanted is that you shall ascertain whether the claim upon the note described\n\nhas received any dividend in theProbate CourtofChristian County, where the estate of Mr.Overton Williamshas been admin-<Page 2>istered on. If nothing is paid on it, withdraw the note and send it to me, so that\n\nChandler can see the indorser of it. At all events write me all about it, till I can somehow get it off my hands.\n\nI have already been bored more than enough about it; not the least of which annoyance\n\nis his cursed, unreadable, and ungodly handwriting.3 I have made aspeech, a copy of which I will send you by next mail.4",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Herndon, 19 January 18481 Inclosed you find a letter ofLouis W. Chandler.2What is wanted is that you shall ascertain whether the claim upon the note described",
+      "has received any dividend in theProbate CourtofChristian County, where the estate of Mr.Overton Williamshas been admin-<Page 2>istered on. If nothing is paid on it, withdraw the note and send it to me, so that",
+      "Chandler can see the indorser of it. At all events write me all about it, till I can somehow get it off my hands.",
+      "I have already been bored more than enough about it; not the least of which annoyance",
+      "is his cursed, unreadable, and ungodly handwriting.3 I have made aspeech, a copy of which I will send you by next mail.4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "For more on this case, search “Chandler, Louis W.,” in “Participants,” Martha L. Benner\n                     and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+    ],
+    "footnotes": [
+      {
+        "id": "XAF4E6537-676F-4DD9-A75C-E95E8FDFC614",
+        "text": "1This letter is attributed to Abraham Lincoln.  The original in Lincoln’s handwriting\n                  has not been located."
+      },
+      {
+        "id": "XCD457773-0968-4F1D-B364-3C10DBAC834B",
+        "text": "2Louis W. Chandler’s enclosed letter has not been located."
+      },
+      {
+        "id": "XF261B801-906A-4DF4-A275-C3D88EE913A6",
+        "text": "3Chandler asked Lincoln to research a claim against Overton Williams' estate in the\n                  Christian County Probate Court.  Lincoln then wrote to William Herndon requesting\n                  that he do the research.  Herndon’s return letter, if he penned one, has not been\n                  located.For more on this case, search “Chandler, Louis W.,” in “Participants,” Martha L. Benner\n                     and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+      },
+      {
+        "id": "X0A9874EF-D193-4DEE-B30D-AEA717EA2AA1",
+        "text": "4Lincoln references hisspeechon theMexican Wardelivered on January 12, 1848."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Herndon, 19 January 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Inclosed you find a letter ofLouis W. Chandler.2What is wanted is that you shall ascertain whether the claim upon the note described\n               has received any dividend in theProbate CourtofChristian County, where the estate of Mr.Overton Williamshas been admin-<Page 2>istered on.  If nothing is paid on it, withdraw the note and send it to me, so that\n               Chandler can see the indorser of it.  At all events write me all about it, till I can somehow get it off my hands.\n               I have already been bored more than enough about it; not the least of which annoyance\n               is his cursed, unreadable, and ungodly handwriting.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have made aspeech, a copy of which I will send you by next mail.4"
+      }
+    ],
+    "word_count": 127
+  },
+  "extraction_date": "2025-12-26 20:26:54",
+  "word_count": 127,
+  "processing": {
+    "cleaned": true,
+    "original_length": 781,
+    "cleaned_length": 723,
+    "preserved_originality": true
+  }
+}

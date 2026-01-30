@@ -1,0 +1,96 @@
+{
+  "document_id": "D200308",
+  "url": "https://papersofabrahamlincoln.org/documents/D200308",
+  "metadata": {
+    "date": "1842-07-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers--Fees",
+      "Judgments",
+      "Mormons"
+    ],
+    "type": "Letter",
+    "extracted_date": "1842-07-14",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "clerk",
+      "send",
+      "you",
+      "here",
+      "abraham",
+      "lincoln",
+      "samuel",
+      "marshall",
+      "july",
+      "yours",
+      "relative",
+      "suit",
+      "ofgrablevsmargravewas",
+      "duly",
+      "received"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Samuel D. Marshall, 14 July 18421 Yours of the 15thJune, relative to the suit ofGrablevsMargravewas duly received, and I have delayed answering it till now, when I can announce\n\nthe result of the case—2The judgement is affirmed— So soon as the clerk has liesure to make out a copy^of^the mandate of thecourt, I will get him to do so, and send it to you, by force of which, your clerk will\n\nissue an execution— As to the fee, if you are agreed, let it be as follows— Give me credit for two years\n\nsubscription to yourpaper, and send me five dollars in good money or the equivalent of it in our Illinois paper—3 There is nothing new here—Bennett’sMormondisclosiers are making some little stir here, but not very great—4",
+    "paragraphs": [
+      "Abraham Lincoln to Samuel D. Marshall, 14 July 18421 Yours of the 15thJune, relative to the suit ofGrablevsMargravewas duly received, and I have delayed answering it till now, when I can announce",
+      "the result of the case—2The judgement is affirmed— So soon as the clerk has liesure to make out a copy^of^the mandate of thecourt, I will get him to do so, and send it to you, by force of which, your clerk will",
+      "issue an execution— As to the fee, if you are agreed, let it be as follows— Give me credit for two years",
+      "subscription to yourpaper, and send me five dollars in good money or the equivalent of it in our Illinois paper—3 There is nothing new here—Bennett’sMormondisclosiers are making some little stir here, but not very great—4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Charles Hunter Garnett,State Banks of Issue in Illinois(Champaign: University of Illinois, 1898), 38, 40-41.",
+      "Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Complete Documentary Edition,  1:249-50, n40;Sangamo Journal(Springfield, IL), 8 July 1842, 2:4-6; 15 July 1842, 2:2-7; 22 July 1842, 2:4-5;\n                     19 August 1842, 2:6-7; 2 September 1842, 2:7."
+    ],
+    "footnotes": [
+      {
+        "id": "XFDB33D01-BB11-4C39-8E7F-734E50DEAD6F",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also authored the address on the back\n                  page. The paper was folded to create an envelope."
+      },
+      {
+        "id": "XA8AFF21C-C2CA-40A7-BF36-80521646AEB1",
+        "text": "2Marshall’s June 15 letter to Lincoln has not been located.Margrave v. Grablewas tried in theGallatin County Circuit Court, which found for Margrave. Grable then appealed the decision to theIllinois Supreme Court. Marshall represented Margrave during the circuit court trial; Lincoln represented\n                  Margrave in the appeal. The Supreme Court delivered its opinion on July 14. For details\n                  of the case, see Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 1:239-50; andGrable v. Margrave, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=136016."
+      },
+      {
+        "id": "XBF96617F-F4A8-4A6C-934D-B522765222E4",
+        "text": "3During this time, banks issued their own paper currency. The notes tended to vary\n                  in value, responding to economic and political conditions. Both of Illinois’ state\n                  banks became insolvent in 1842: theState Bankfailed in February and theBank of Illinoisin June. The paper currency produced by each bank had depreciated considerably by\n                  the time of this letter.Charles Hunter Garnett,State Banks of Issue in Illinois(Champaign: University of Illinois, 1898), 38, 40-41."
+      },
+      {
+        "id": "XC8C4B6BB-0826-4C72-A529-FC84E78423A2",
+        "text": "4Dr. John C. Bennett, an excommunicated Mormon, published several letters in theSangamo Journalfrom July to September 1842, detailing accusations againstJoseph Smithand the Mormon religion. TheJournaltitled the first of these letters “Mormon  Disclosures.”Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Complete Documentary Edition,  1:249-50, n40;Sangamo Journal(Springfield, IL), 8 July 1842, 2:4-6; 15 July 1842, 2:2-7; 22 July 1842, 2:4-5;\n                     19 August 1842, 2:6-7; 2 September 1842, 2:7."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Samuel D. Marshall, 14 July 18421"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 15thJune, relative to the suit ofGrablevsMargravewas duly received, and I have delayed answering it till now, when I can announce\n               the result of the case—2The judgement is affirmed— So soon as the clerk has liesure to make out a copy^of^the mandate of thecourt, I will get him to do so, and send it to you, by force of which, your clerk will\n               issue an execution—"
+      },
+      {
+        "type": "paragraph",
+        "text": "As to the fee, if you are agreed, let it be as follows— Give me credit for two years\n               subscription to yourpaper, and send me five dollars in good money or the equivalent of it in our Illinois paper—3"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is nothing new here—Bennett’sMormondisclosiers are making some little stir here, but not very great—4"
+      }
+    ],
+    "word_count": 131
+  },
+  "extraction_date": "2025-12-26 20:17:33",
+  "word_count": 131,
+  "processing": {
+    "cleaned": true,
+    "original_length": 778,
+    "cleaned_length": 736,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,71 @@
+{
+  "document_id": "D229233",
+  "url": "https://papersofabrahamlincoln.org/documents/D229233",
+  "metadata": {
+    "date": "1851-10-23",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Agriculture",
+      "Dispute resolution (Law)",
+      "Partnership"
+    ],
+    "type": "Decree",
+    "extracted_date": "1851-10-23",
+    "extracted_type": "decree",
+    "extracted_keywords": [
+      "decree",
+      "ingundy",
+      "gundy"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Decree inGundy v. Gundy, 1",
+    "paragraphs": [
+      "Decree inGundy v. Gundy, 1"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 2: 1849-1860, by William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     62; Decree, Document ID: 59226,Gundy v. Gundy, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137301.",
+      "For amended bill of complaint, cross-bill, replications, final decree, and other documents\n                     associated with this case,  seeGundy v. Gundy, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137301."
+    ],
+    "footnotes": [
+      {
+        "id": "X19DE3F91-AE7F-412D-A817-23D2F6306882",
+        "text": "1Abraham Lincoln wrote the text of this decree.  David Davis wrote “Enter this” and\n                  signed his name.Lincoln did not date this decree, and its actual date remains a mystery.  Editors\n                  ofLincoln Day by Daydated it October 23, 1851, inferring this date from the Vermilion County Circuit\n                  Court records.  Editors of the Law Practice of Abraham Lincoln examined the court\n                  records and, absent any additional evidence,  kept this date.  The editors have retained\n                  this date.Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 2: 1849-1860, by William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     62; Decree, Document ID: 59226,Gundy v. Gundy, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137301."
+      },
+      {
+        "id": "XB4A34EE0-D9E9-4558-A6A2-CDDB5A3E1F9B",
+        "text": "2Joseph Gundy and John Van Gundy entered into the business of selling hogs and cattle\n                  in the fall of 1847.  In December 1848, they dissolved the partnership.  Joseph Gundy\n                  sued John Van Gundy in a chancery action in theVermilion County Circuit Courtto settle the partnership.  Joseph Gundy also sued John Van Gundy in a separate common\n                  law action (Gundy v. Gundy).  In this case, Joseph Gundy claimed that John Van Gundy owed him $200 for 1,000\n                  bushels of corn; $200 for 110 hogs sold; and an additional amount for twenty-four\n                  steers.  John Van Gundy retained Lincoln and answered that Joseph Gundy owed him money\n                  from the partnership and filed a cross-bill to obtain the sum.  The lawsuit commenced\n                  in October 1850, and in May 1852, the parties reached a settlement in which the court\n                  ruled for Joseph Gundy and ordered John Van Gundy to pay him $415.For amended bill of complaint, cross-bill, replications, final decree, and other documents\n                     associated with this case,  seeGundy v. Gundy, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137301."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Decree inGundy v. Gundy, [23 October 1851]1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "Joseph Gundy | }",
+          "vs | In Chancery",
+          "John Van Gundy"
+        ]
+      }
+    ],
+    "word_count": 5
+  },
+  "extraction_date": "2025-12-26 21:25:18",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 53,
+    "cleaned_length": 26,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

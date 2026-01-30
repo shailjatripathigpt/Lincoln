@@ -1,0 +1,96 @@
+{
+  "document_id": "D210686",
+  "url": "https://papersofabrahamlincoln.org/documents/D210686",
+  "metadata": {
+    "date": "1858-05-07",
+    "authors": [
+      "Rutherford, Friend S."
+    ],
+    "keywords": [
+      "Elections",
+      "Political oratory",
+      "Political parties",
+      "Public meetings"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-05-07",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "people",
+      "you",
+      "meeting",
+      "want",
+      "make",
+      "good",
+      "several",
+      "speakers",
+      "friend",
+      "rutherford",
+      "abraham",
+      "lincoln",
+      "therepublicansofmadison",
+      "countywill",
+      "assemble"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Friend S. Rutherford to Abraham Lincoln, 7 May 18581 TheRepublicansofMadison Countywill assemble in mass meeting atEdwardsvilleon Tuesday the 18thinstant– We want to make a vigorous fightthis fall, and want to make a good start–2We intend to announce several speakers from abroad among whom will be yourself–3The Republicans of this vicinity would take great pleasure in meeting you, and we\n\nare satisfied you could do much good. We shall be happy<Page 2>know that you will be present at our meeting– The people of Madison have been disappointed several times in regard to speakers and\n\nbegin to mistrust they are that not worth looking after– Come if you can",
+    "paragraphs": [
+      "Friend S. Rutherford to Abraham Lincoln, 7 May 18581 TheRepublicansofMadison Countywill assemble in mass meeting atEdwardsvilleon Tuesday the 18thinstant– We want to make a vigorous fightthis fall, and want to make a good start–2We intend to announce several speakers from abroad among whom will be yourself–3The Republicans of this vicinity would take great pleasure in meeting you, and we",
+      "are satisfied you could do much good. We shall be happy<Page 2>know that you will be present at our meeting– The people of Madison have been disappointed several times in regard to speakers and",
+      "begin to mistrust they are that not worth looking after– Come if you can"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daily Illinois State Journal(Springfield), 10 June 1858, 2:1; 17 June 1858, 2:5; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:458, 557.",
+      "The Illinois State Journal(Springfield), 26 May 1858, 1:3; Summary of Speech at Edwardsville, Illinois."
+    ],
+    "footnotes": [
+      {
+        "id": "X0004397A-C65B-422D-B150-E99990579118",
+        "text": "1Friend S. Rutherford wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "XE90B957A-22B8-49F8-A401-146CC8995F66",
+        "text": "2In May and June 1858, many Illinois counties were holding meetings prior to the1858 Illinois Republican Conventionon June 16 to choose delegates for the event. Abraham Lincoln sought a seat in theU.S. Senatein the1858 Federal Electionagainst incumbentStephen A. Douglas. Delegates at the convention unanimously nominated Lincoln to challenge Douglas.\n                  Lincoln lost the election but made a name for himself nationally.Daily Illinois State Journal(Springfield), 10 June 1858, 2:1; 17 June 1858, 2:5; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:458, 557."
+      },
+      {
+        "id": "XD00710C1-8857-4CDF-91B8-28869D5C73F1",
+        "text": "3Speakers at the Edwardsville meeting included Lincoln,John M. Palmer,Mark W. Delahay, andJoseph Gillespie.The Illinois State Journal(Springfield), 26 May 1858, 1:3; Summary of Speech at Edwardsville, Illinois."
+      },
+      {
+        "id": "XB8A6E788-C655-43B7-B4F0-3A40DA0AFA83",
+        "text": "4Lincoln wrote this docketing. His response to Rutherford has not been found."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Friend S. Rutherford to Abraham Lincoln, 7 May 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "TheRepublicansofMadison Countywill assemble in mass meeting atEdwardsvilleon Tuesday the 18thinstant–  We want to make a vigorous fightthis fall, and want to make a good start–2We intend to announce  several speakers from  abroad among whom will be yourself–3The Republicans of this vicinity would take great pleasure in meeting you, and we\n               are satisfied you could do much good.  We shall be happy<Page 2>know that you will be present at our meeting–"
+      },
+      {
+        "type": "paragraph",
+        "text": "The people of Madison have been disappointed several times in regard to speakers and\n               begin to mistrust they are that not worth looking after–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Come if you can"
+      }
+    ],
+    "word_count": 107
+  },
+  "extraction_date": "2025-12-26 21:46:45",
+  "word_count": 107,
+  "processing": {
+    "cleaned": true,
+    "original_length": 691,
+    "cleaned_length": 659,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

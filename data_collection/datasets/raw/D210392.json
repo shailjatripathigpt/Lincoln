@@ -1,0 +1,46 @@
+{
+  "document_id": "D210392",
+  "url": "https://papersofabrahamlincoln.org/documents/D210392",
+  "metadata": {
+    "date": "1849-03-XX",
+    "authors": [
+      "Rives, George W."
+    ],
+    "keywords": [
+      "Business enterprises",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "George W. Rives to Abraham Lincoln, March 18491 I take pleasure in introducing to you Mr.H. W. MartinEsqr[Esquire] ofEdgarHe is a Gentleman of high standing in myCounty– and desires to form some acquaintancies during his stay in thecityconnected with some business he is attending to. I hope you can give him some assistance\n               with regard to his Visit toWashington City2",
+    "paragraphs": [
+      "George W. Rives to Abraham Lincoln, March 18491",
+      "I take pleasure in introducing to you Mr.H. W. MartinEsqr[Esquire] ofEdgarHe is a Gentleman of high standing in myCounty– and desires to form some acquaintancies during his stay in thecityconnected with some business he is attending to. I hope you can give him some assistance\n               with regard to his Visit toWashington City2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X74055E79-D695-4CB8-BD74-200B15B7A660",
+        "text": "1George W. Rives wrote and signed this letter."
+      },
+      {
+        "id": "XE0F89E9F-C1F2-413A-A82C-460A876BD93C",
+        "text": "2The exact nature of Henry W. Martin’s business in Washington, DC has not been determined."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "George W. Rives to Abraham Lincoln, March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I take pleasure in introducing to you Mr.H. W. MartinEsqr[Esquire] ofEdgarHe is a Gentleman of high standing in myCounty– and desires to form some acquaintancies during his stay in thecityconnected with some business he is attending to. I hope you can give him some assistance\n               with regard to his Visit toWashington City2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:39:36",
+  "word_count": 60
+}

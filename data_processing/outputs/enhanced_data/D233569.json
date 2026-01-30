@@ -1,0 +1,77 @@
+{
+  "document_id": "D233569",
+  "url": "https://papersofabrahamlincoln.org/documents/D233569",
+  "metadata": {
+    "date": "1849-02-05",
+    "authors": [
+      "Gill, Richard T."
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-02-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "office",
+      "appointment",
+      "richard",
+      "gill",
+      "abraham",
+      "lincoln",
+      "february",
+      "generally",
+      "conceded",
+      "thewhigsis",
+      "benefit",
+      "offices",
+      "undergenl",
+      "taylors",
+      "administration"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Richard T. Gill to Abraham Lincoln, 5 February 18491 As it is Generally conceded That thewhigsIs To Have The benefit of the offices underGenl Taylors administration I would suggest The propriety of securing an office For our Friend,Turner, R; KingofPekin, He is one of the most useful men To thepartyin thisCounty.. He is unfortunately poor & lame and not able To make A Living by work, He undoubtedly\n\nought To Have some office, He would Like To Have a Land office appointment.. If you\n\nwill use your Influence To secure Him the appointment of such an office It will be\n\nremembered by His friends in This County",
+    "paragraphs": [
+      "Richard T. Gill to Abraham Lincoln, 5 February 18491 As it is Generally conceded That thewhigsIs To Have The benefit of the offices underGenl Taylors administration I would suggest The propriety of securing an office For our Friend,Turner, R; KingofPekin, He is one of the most useful men To thepartyin thisCounty.. He is unfortunately poor & lame and not able To make A Living by work, He undoubtedly",
+      "ought To Have some office, He would Like To Have a Land office appointment.. If you",
+      "will use your Influence To secure Him the appointment of such an office It will be",
+      "remembered by His friends in This County"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Niles’ National Register(Philadelphia, PA), 23 May 1849, 1:2;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;Philo H. Thompson to Abraham Lincoln;Samuel R. Baker to Abraham Lincoln;William B. Doolittle to Abraham Lincoln;Robert W. Briggs to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X7AFA1DBC-AA0D-42F2-9C65-4A5522112BA5",
+        "text": "1Richard T. Gill wrote this letter in its entirety."
+      },
+      {
+        "id": "XD89C95AE-8715-4726-BD09-84AB0DE0CAB0",
+        "text": "2From December 1848 to February 1849, Abraham Lincoln received several letters urging\n                  him to help Turner R. King secure a job at theU.S. General Land Office.  On April 7, 1849, Lincoln wrote aletterto Secretary of the InteriorThomas Ewingrecommending King for the job of register.    On April 13, he wrote anotherletterreversing himself, recommending King for the job of receiver.  On May 10, Lincoln\n                  reversed himself again, penning aletterrecommending King for register. In late May, King received the appointment as register\n                  and held the job until 1853.Niles’ National Register(Philadelphia, PA), 23 May 1849, 1:2;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;Philo H. Thompson to Abraham Lincoln;Samuel R. Baker to Abraham Lincoln;William B. Doolittle to Abraham Lincoln;Robert W. Briggs to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Richard T. Gill to Abraham Lincoln, 5 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "As it is Generally conceded That thewhigsIs To Have The benefit of the offices underGenl[General] Taylors administration I would suggest The propriety of securing an office For our Friend,Turner,  R; KingofPekin, He is one of the most useful men To thepartyin thisCounty.. He is unfortunately poor & lame and not able To make A Living by work, He undoubtedly\n               ought To Have some office, He would Like To Have a Land office appointment..  If you\n               will use your Influence To secure Him the appointment of  such an office It will be\n               remembered by His friends in This County"
+      }
+    ],
+    "word_count": 107
+  },
+  "extraction_date": "2025-12-26 20:34:06",
+  "word_count": 107,
+  "processing": {
+    "cleaned": true,
+    "original_length": 666,
+    "cleaned_length": 612,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,83 @@
+{
+  "document_id": "D200309",
+  "url": "https://papersofabrahamlincoln.org/documents/D200309",
+  "metadata": {
+    "date": "1842-08-15",
+    "authors": [],
+    "keywords": [
+      "Debtor and creditor",
+      "Lawyers",
+      "Bankruptcy"
+    ],
+    "type": "Letter",
+    "extracted_date": "1842-08-15",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "your",
+      "allowing",
+      "they",
+      "matter",
+      "logan",
+      "lincoln",
+      "abner",
+      "walker",
+      "august",
+      "enclosed",
+      "you",
+      "order",
+      "court",
+      "assignee",
+      "sell"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Logan & Lincoln to Abner Walker, 15 August 18421 Enclosed you have an order of court allowing your assignee to sell your property on\n\na credit. Nothing is said in it about allowing your creditors pay for what they may\n\npurchase without money. We however, think this a matter of no consequence; as it\n\nwill be a matter of course to take theirbondsand security, as of other purchasers, and then, in the final settlement, to set off\n\ntheir dividends against those bonds in whole or as far as they will go.3",
+    "paragraphs": [
+      "Logan & Lincoln to Abner Walker, 15 August 18421 Enclosed you have an order of court allowing your assignee to sell your property on",
+      "a credit. Nothing is said in it about allowing your creditors pay for what they may",
+      "purchase without money. We however, think this a matter of no consequence; as it",
+      "will be a matter of course to take theirbondsand security, as of other purchasers, and then, in the final settlement, to set off",
+      "their dividends against those bonds in whole or as far as they will go.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:291;In re Walker, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=141871.",
+      "“An Act to Establish a Uniform System of Bankruptcy throughout the United States,”\n                     19 August 1841,Statutes at Large of the United States5 (1856):440-49."
+    ],
+    "footnotes": [
+      {
+        "id": "XC7462E5E-E555-4726-832D-68BF0AB06E07",
+        "text": "1This document is not extant and no image of the document has been located. This transcription\n                  is taken from the earliest published transcription of the document, in Ida Tarbell’sThe Life of Abraham Lincoln(New York: Doubleday & McClure, 1900), 2:288. Tarbell presumably had access to the\n                  original, and presumably it was written by Abraham Lincoln."
+      },
+      {
+        "id": "X7AE0C001-C61D-4299-80D4-24FF92780371",
+        "text": "2In theThe Collected Works of Abraham Lincoln, Roy P. Basler speculated that this letter was written toIsaac P. Walker, aGeneral Assemblymember fromVermilion County. In fact, it was written toAbner WalkerofMcDonough County, regarding his bankruptcy suit.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:291;In re Walker, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=141871."
+      },
+      {
+        "id": "X4732E45F-B7D1-4426-B49B-9A4389D77F89",
+        "text": "3The order mentioned in the first sentence is not extant. It may be that Walker’s creditors\n                  desired his land rather than cash as payment for his debts. No provision for such\n                  existed in the bankruptcy law, so a court order would have been required.  Credit\n                  purchasers were generally required to post a surety bond in lieu of full payment.“An Act to Establish a Uniform System of Bankruptcy throughout the United States,”\n                     19 August 1841,Statutes at Large of the United States5 (1856):440-49."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Logan & Lincoln to Abner Walker, 15 August 18421"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enclosed you have an order of court allowing your assignee to sell your property on\n               a credit. Nothing is said in it about allowing your creditors pay for what they may\n               purchase without money.  We however, think this a matter of no consequence; as it\n               will be a matter of course to take theirbondsand security, as of other purchasers, and then, in the final settlement, to set off\n               their dividends against those bonds in whole or as far as they will go.3"
+      }
+    ],
+    "word_count": 91
+  },
+  "extraction_date": "2025-12-26 20:17:23",
+  "word_count": 91,
+  "processing": {
+    "cleaned": true,
+    "original_length": 560,
+    "cleaned_length": 503,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

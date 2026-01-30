@@ -1,0 +1,94 @@
+{
+  "document_id": "D239618",
+  "url": "https://papersofabrahamlincoln.org/documents/D239618",
+  "metadata": {
+    "date": "1858-06-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Decedents' estates",
+      "Land titles",
+      "Real property"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-06-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "lane",
+      "gentleman",
+      "land",
+      "knows",
+      "matter",
+      "says",
+      "halsey",
+      "part",
+      "abraham",
+      "lincoln",
+      "joseph",
+      "copes",
+      "june",
+      "length",
+      "interview"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Joseph S. Copes, 2 June 18582 At length I have had an interview with MrJ. A. Pickrell, the gentleman from whom I expected to get information in relation to the land once\n\nowned by MrAbram A. Halseyand MrE. Lane–3MrPickrell is an entirely reliable gentleman, and he tells me he knows all about the\n\nmatter– He says the legal title to the land was wholly in Lane, though Halsey was\n\nthe equitable owner of part of it– He says he personally knows that Lane sold and\n\nconveyed Halsey's part,4and paid the proceeds to theAmer. Bd. Comrsfor Foreign Missions; and he always understood, and now believes, this was done by MrHalsey's direction– If so, and I have no doubt of it, this is the end of the matter–5",
+    "paragraphs": [
+      "Abraham Lincoln to Joseph S. Copes, 2 June 18582 At length I have had an interview with MrJ. A. Pickrell, the gentleman from whom I expected to get information in relation to the land once",
+      "owned by MrAbram A. Halseyand MrE. Lane–3MrPickrell is an entirely reliable gentleman, and he tells me he knows all about the",
+      "matter– He says the legal title to the land was wholly in Lane, though Halsey was",
+      "the equitable owner of part of it– He says he personally knows that Lane sold and",
+      "conveyed Halsey's part,4and paid the proceeds to theAmer. Bd. Comrsfor Foreign Missions; and he always understood, and now believes, this was done by MrHalsey's direction– If so, and I have no doubt of it, this is the end of the matter–5"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Letter, Document ID: 130391,Copes asked Lincoln to search title to land, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141385.",
+      "“Conveyance,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+    ],
+    "footnotes": [
+      {
+        "id": "4018992",
+        "text": "1Joseph S. Copes wrote this docketing."
+      },
+      {
+        "id": "4018991",
+        "text": "2Abraham Lincoln wrote and signed this letter. He also wrote the letter’s postscript\n                  vertically in the letter’s left margin, shown in the image."
+      },
+      {
+        "id": "4018993",
+        "text": "3On April 8, 1858, Copes had written aletterto Lincoln requesting his help ascertaining whether there was a tract of approximately\n                  1,000 acres land inSangamon County, Illinoisthat had been held jointly byEbenezer Laneand the late Abram A. Halsey. Copes, who had custody of one of Halsey’s orphans,\n                  wanted to know the status of the title to this land, and specifically whether Halsey’s\n                  children were entitled to any of the land. Lincoln replied to Copes’ letter on April\n                  16, noting that he had examined public land sales records to no avail but would continue\n                  investigating the matter and write Copes again.Letter, Document ID: 130391,Copes asked Lincoln to search title to land, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141385."
+      },
+      {
+        "id": "4018994",
+        "text": "4In American law, conveyance is the transfer of property ownership from one party to\n                  another via written instrument.“Conveyance,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+      },
+      {
+        "id": "4018995",
+        "text": "5No further correspondence between Lincoln and Copes has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Joseph S. Copes, 2 June 18582"
+      },
+      {
+        "type": "paragraph",
+        "text": "At length I have had an interview with MrJ. A. Pickrell, the gentleman from whom I expected to get information in relation to the land once\n               owned by MrAbram A. Halseyand MrE. Lane–3MrPickrell is an entirely reliable gentleman, and he tells me he knows all about the\n               matter– He says the legal title to the land was wholly in Lane, though Halsey was\n               the equitable owner of part of it– He says he personally knows that Lane sold and\n               conveyed Halsey's part,4and paid the proceeds to theAmer.  Bd. Comrsfor Foreign Missions; and he always understood, and now believes, this was done by MrHalsey's direction– If so, and I have no doubt of it, this is the end of the matter–5"
+      }
+    ],
+    "word_count": 129
+  },
+  "extraction_date": "2025-12-26 21:48:50",
+  "word_count": 129,
+  "processing": {
+    "cleaned": true,
+    "original_length": 777,
+    "cleaned_length": 720,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

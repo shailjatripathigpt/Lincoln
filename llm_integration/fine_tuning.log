@@ -1,0 +1,131 @@
+2026-01-06 00:59:48,533 - __main__ - INFO - 🔧 Configuration:
+2026-01-06 00:59:48,534 - __main__ - INFO -    Base Model: Qwen/Qwen1.5-0.5B-Chat
+2026-01-06 00:59:48,534 - __main__ - INFO -    Dataset: /Users/shailjatripathi/Desktop/llm_lincoln_project/data_processing/outputs/enhanced_data
+2026-01-06 00:59:48,534 - __main__ - INFO -    Output: /Users/shailjatripathi/Desktop/llm_lincoln_project/llm_integration/qwen_0_5b_lora
+2026-01-06 00:59:48,534 - __main__ - INFO -    Max Length: 512
+2026-01-06 00:59:48,534 - __main__ - INFO -    Batch Size: 1
+2026-01-06 00:59:48,534 - __main__ - INFO -    Epochs: 3
+2026-01-06 00:59:48,534 - __main__ - INFO -    Learning Rate: 0.0002
+2026-01-06 00:59:48,534 - __main__ - INFO - 📁 Output directory ready: /Users/shailjatripathi/Desktop/llm_lincoln_project/llm_integration/qwen_0_5b_lora
+2026-01-06 00:59:48,546 - __main__ - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-06 00:59:48,547 - __main__ - INFO - 
+📥 Loading tokenizer...
+2026-01-06 00:59:49,763 - __main__ - INFO - ✅ Tokenizer loaded successfully
+2026-01-06 00:59:49,763 - __main__ - INFO -    Vocab size: 151643
+2026-01-06 00:59:49,763 - __main__ - INFO -    Padding token: <|endoftext|>
+2026-01-06 00:59:49,763 - __main__ - INFO - 
+📥 Loading base model...
+2026-01-06 00:59:53,215 - __main__ - INFO - ✅ Base model loaded successfully
+2026-01-06 00:59:53,215 - __main__ - INFO -    Total parameters: 463,987,712
+2026-01-06 00:59:53,215 - __main__ - INFO -    Model dtype: torch.float16
+2026-01-06 00:59:53,215 - __main__ - INFO - 
+⚙️ Configuring LoRA adapter...
+2026-01-06 00:59:53,320 - __main__ - INFO - 📊 Trainable parameters:
+2026-01-06 00:59:53,322 - __main__ - INFO -    Trainable: 1,572,864 parameters
+2026-01-06 00:59:53,322 - __main__ - INFO -    Total: 465,560,576 parameters
+2026-01-06 00:59:53,322 - __main__ - INFO -    Percentage: 0.3378%
+2026-01-06 00:59:53,322 - __main__ - INFO - 
+📚 Preparing dataset...
+2026-01-06 00:59:53,322 - __main__ - INFO - 📂 Loading dataset from: /Users/shailjatripathi/Desktop/llm_lincoln_project/data_processing/outputs/enhanced_data
+2026-01-06 00:59:53,325 - __main__ - INFO - 📄 Found 2224 JSON files
+2026-01-06 00:59:53,325 - __main__ - INFO -    Sample files: D206772.json, D200219.json, D200649.json, D273737.json, D210649.json
+2026-01-06 00:59:53,326 - __main__ - INFO - 📝 Sample 1: Abraham Lincoln to Zachary Taylor, 15 March 18501 I understand some one of ourOhiofriends will proba...
+2026-01-06 00:59:53,326 - __main__ - INFO - 📝 Sample 2: Petition of John Chatham and Others to U.S. Congress, 1 Dear Sir—Please obtain all the signatures in...
+2026-01-06 00:59:53,326 - __main__ - INFO - 📝 Sample 3: Lyman Trumbull to Abraham Lincoln, 24 February 18551 I am truly obliged for your notice of the “Able...
+2026-01-06 00:59:53,598 - __main__ - INFO - ✅ Successfully processed 1993 documents
+2026-01-06 00:59:53,598 - __main__ - INFO - 📚 Total training examples: 1993
+2026-01-06 00:59:53,599 - __main__ - INFO - 📊 Average text length: 1669 characters
+2026-01-06 00:59:54,668 - __main__ - INFO - ✅ Dataset prepared successfully
+2026-01-06 00:59:54,669 - __main__ - INFO -    Examples: 1993
+2026-01-06 00:59:54,669 - __main__ - INFO -    Input length: 512 tokens
+2026-01-06 00:59:54,669 - __main__ - INFO -    Sample input IDs length: 512
+2026-01-06 00:59:54,669 - __main__ - INFO - 
+⚙️ Setting up training...
+2026-01-06 00:59:54,682 - __main__ - INFO - ✅ Training setup complete
+2026-01-06 00:59:54,682 - __main__ - INFO -    Total steps: 747
+2026-01-06 00:59:54,682 - __main__ - INFO -    Checkpoints will be saved to: /Users/shailjatripathi/Desktop/llm_lincoln_project/llm_integration/qwen_0_5b_lora
+2026-01-06 00:59:54,682 - __main__ - INFO - Beginning fine-tuning process...
+2026-01-06 00:59:54,682 - __main__ - INFO - Estimated time: 374 minutes
+2026-01-06 00:59:54,682 - __main__ - INFO - (Press Ctrl+C to interrupt)
+2026-01-06 01:03:41,429 - __main__ - INFO - 🔧 Configuration:
+2026-01-06 01:03:41,429 - __main__ - INFO -    Base Model: Qwen/Qwen1.5-0.5B-Chat
+2026-01-06 01:03:41,429 - __main__ - INFO -    Dataset: /Users/shailjatripathi/Desktop/llm_lincoln_project/data_processing/outputs/enhanced_data
+2026-01-06 01:03:41,429 - __main__ - INFO -    Output: /Users/shailjatripathi/Desktop/llm_lincoln_project/llm_integration/qwen_0_5b_lora
+2026-01-06 01:03:41,429 - __main__ - INFO -    Max Length: 512
+2026-01-06 01:03:41,429 - __main__ - INFO -    Batch Size: 1
+2026-01-06 01:03:41,429 - __main__ - INFO -    Epochs: 6
+2026-01-06 01:03:41,429 - __main__ - INFO -    Learning Rate: 0.0002
+2026-01-06 01:03:41,429 - __main__ - INFO - 📁 Output directory ready: /Users/shailjatripathi/Desktop/llm_lincoln_project/llm_integration/qwen_0_5b_lora
+2026-01-06 01:03:41,445 - __main__ - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-06 01:03:41,445 - __main__ - INFO - 
+📥 Loading tokenizer...
+2026-01-06 01:03:42,772 - __main__ - INFO - ✅ Tokenizer loaded successfully
+2026-01-06 01:03:42,772 - __main__ - INFO -    Vocab size: 151643
+2026-01-06 01:03:42,772 - __main__ - INFO -    Padding token: <|endoftext|>
+2026-01-06 01:03:42,772 - __main__ - INFO - 
+📥 Loading base model...
+2026-01-06 01:03:45,235 - __main__ - INFO - ✅ Base model loaded successfully
+2026-01-06 01:03:45,236 - __main__ - INFO -    Total parameters: 463,987,712
+2026-01-06 01:03:45,236 - __main__ - INFO -    Model dtype: torch.float16
+2026-01-06 01:03:45,236 - __main__ - INFO - 
+⚙️ Configuring LoRA adapter...
+2026-01-06 01:03:46,633 - __main__ - INFO - 📊 Trainable parameters:
+2026-01-06 01:03:46,635 - __main__ - INFO -    Trainable: 1,572,864 parameters
+2026-01-06 01:03:46,635 - __main__ - INFO -    Total: 465,560,576 parameters
+2026-01-06 01:03:46,635 - __main__ - INFO -    Percentage: 0.3378%
+2026-01-06 01:03:46,635 - __main__ - INFO - 
+📚 Preparing dataset...
+2026-01-06 01:03:46,635 - __main__ - INFO - 📂 Loading dataset from: /Users/shailjatripathi/Desktop/llm_lincoln_project/data_processing/outputs/enhanced_data
+2026-01-06 01:03:46,641 - __main__ - INFO - 📄 Found 2224 JSON files
+2026-01-06 01:03:46,641 - __main__ - INFO -    Sample files: D206772.json, D200219.json, D200649.json, D273737.json, D210649.json
+2026-01-06 01:03:46,642 - __main__ - INFO - 📝 Sample 1: Abraham Lincoln to Zachary Taylor, 15 March 18501 I understand some one of ourOhiofriends will proba...
+2026-01-06 01:03:46,643 - __main__ - INFO - 📝 Sample 2: Petition of John Chatham and Others to U.S. Congress, 1 Dear Sir—Please obtain all the signatures in...
+2026-01-06 01:03:46,643 - __main__ - INFO - 📝 Sample 3: Lyman Trumbull to Abraham Lincoln, 24 February 18551 I am truly obliged for your notice of the “Able...
+2026-01-06 01:03:46,872 - __main__ - INFO - ✅ Successfully processed 1993 documents
+2026-01-06 01:03:46,872 - __main__ - INFO - 📚 Total training examples: 1993
+2026-01-06 01:03:46,872 - __main__ - INFO - 📊 Average text length: 1669 characters
+2026-01-06 01:03:47,749 - __main__ - INFO - ✅ Dataset prepared successfully
+2026-01-06 01:03:47,749 - __main__ - INFO -    Examples: 1993
+2026-01-06 01:03:47,749 - __main__ - INFO -    Input length: 512 tokens
+2026-01-06 01:03:47,750 - __main__ - INFO -    Sample input IDs length: 512
+2026-01-06 01:03:47,750 - __main__ - INFO - 
+⚙️ Setting up training...
+2026-01-06 01:03:47,760 - __main__ - INFO - ✅ Training setup complete
+2026-01-06 01:03:47,760 - __main__ - INFO -    Total steps: 1495
+2026-01-06 01:03:47,760 - __main__ - INFO -    Checkpoints will be saved to: /Users/shailjatripathi/Desktop/llm_lincoln_project/llm_integration/qwen_0_5b_lora
+2026-01-06 01:03:47,760 - __main__ - INFO - Beginning fine-tuning process...
+2026-01-06 01:03:47,760 - __main__ - INFO - Estimated time: 747 minutes
+2026-01-06 01:03:47,760 - __main__ - INFO - (Press Ctrl+C to interrupt)
+2026-01-06 09:03:09,100 - huggingface_hub.utils._http - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json (Caused by NameResolutionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: f422b8e4-0834-4f24-a6b9-f821de295a9f)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json
+2026-01-06 09:03:09,110 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2026-01-06 09:03:40,122 - huggingface_hub.utils._http - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json (Caused by NameResolutionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: 773adf01-dc44-4e67-b864-605df60514c2)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json
+2026-01-06 09:03:40,122 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2026-01-06 09:04:12,134 - huggingface_hub.utils._http - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json (Caused by NameResolutionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: 121b9122-66f0-4583-8d63-4a239b2b2dd1)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json
+2026-01-06 09:04:12,134 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2026-01-06 09:04:46,146 - huggingface_hub.utils._http - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json (Caused by NameResolutionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: 0359be8b-41e1-4eda-8842-cd846b034a88)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json
+2026-01-06 09:04:46,146 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2026-01-06 09:05:24,157 - huggingface_hub.utils._http - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json (Caused by NameResolutionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: bb360ac0-829c-4827-bfe3-a2832cdf38ea)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json
+2026-01-06 09:05:24,157 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2026-01-06 09:06:02,170 - huggingface_hub.utils._http - WARNING - '(MaxRetryError('HTTPSConnectionPool(host=\'huggingface.co\', port=443): Max retries exceeded with url: /Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json (Caused by NameResolutionError("HTTPSConnection(host=\'huggingface.co\', port=443): Failed to resolve \'huggingface.co\' ([Errno 8] nodename nor servname provided, or not known)"))'), '(Request ID: 8a03c644-090a-4a40-8c75-23b7c67d6591)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat/resolve/main/config.json
+2026-01-06 10:55:56,301 - __main__ - INFO - ✅ Training completed successfully!
+2026-01-06 10:55:56,304 - __main__ - INFO - 
+💾 Saving fine-tuned model...
+2026-01-06 10:55:56,977 - __main__ - INFO - ✅ Model saved successfully to: /Users/shailjatripathi/Desktop/llm_lincoln_project/llm_integration/qwen_0_5b_lora
+2026-01-06 10:55:56,977 - __main__ - INFO - 📁 Files created:
+2026-01-06 10:55:56,978 - __main__ - INFO -    • adapter_model.safetensors (6.02 MB)
+2026-01-06 10:55:56,978 - __main__ - INFO -    • added_tokens.json         (0.00 MB)
+2026-01-06 10:55:56,984 - __main__ - INFO -    • checkpoint-1400           (0.00 MB)
+2026-01-06 10:55:56,987 - __main__ - INFO -    • tokenizer_config.json     (0.00 MB)
+2026-01-06 10:55:56,988 - __main__ - INFO -    • special_tokens_map.json   (0.00 MB)
+2026-01-06 10:55:56,988 - __main__ - INFO -    • tokenizer.json            (10.89 MB)
+2026-01-06 10:55:56,988 - __main__ - INFO -    • checkpoint-1300           (0.00 MB)
+2026-01-06 10:55:56,988 - __main__ - INFO -    • README.md                 (0.00 MB)
+2026-01-06 10:55:56,991 - __main__ - INFO -    • merges.txt                (1.59 MB)
+2026-01-06 10:55:56,991 - __main__ - INFO -    • adapter_config.json       (0.00 MB)
+2026-01-06 10:55:56,991 - __main__ - INFO -    • chat_template.jinja       (0.00 MB)
+2026-01-06 10:55:56,992 - __main__ - INFO -    • vocab.json                (2.65 MB)
+2026-01-06 10:55:56,995 - __main__ - INFO -    • checkpoint-1500           (0.00 MB)
+2026-01-06 10:55:56,996 - __main__ - INFO - 📄 Created README: /Users/shailjatripathi/Desktop/llm_lincoln_project/llm_integration/qwen_0_5b_lora/README.md
+2026-01-06 10:55:56,996 - __main__ - INFO - 📁 Model saved to: /Users/shailjatripathi/Desktop/llm_lincoln_project/llm_integration/qwen_0_5b_lora
+2026-01-06 10:55:56,996 - __main__ - INFO - 📊 Total trainable parameters: 1,572,864
+2026-01-06 10:55:56,996 - __main__ - INFO - ⏱️  Training completed

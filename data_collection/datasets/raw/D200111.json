@@ -1,0 +1,43 @@
+{
+  "document_id": "D200111",
+  "url": "https://papersofabrahamlincoln.org/documents/D200111",
+  "metadata": {
+    "date": "1837-07-13",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Roads"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James Semple, [13 July 1837]1 I give notice that on monday next I shall ask leave to introduce a bill for an act\n               in relation to State & County roads—",
+    "paragraphs": [
+      "Abraham Lincoln to James Semple, [13 July 1837]1",
+      "I give notice that on monday next I shall ask leave to introduce a bill for an act\n               in relation to State & County roads—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1837. 10th G. A., special sess., 32."
+    ],
+    "footnotes": [
+      {
+        "id": "XBE3B317D-F90F-487F-BC61-B4AFED0BAE4B",
+        "text": "1Although this document is in Abraham Lincoln’s handwriting, the HouseJournalrecorded that it was presented to theHouse of RepresentativesbyRichard N. Cullomon July 13. No bill of this title was introduced in the House at this session of\n                  the Tenth General Assembly.Illinois HouseJournal. 1837. 10th G. A., special sess., 32."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James Semple, [13 July 1837]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I give notice that on monday next I shall ask leave to introduce a bill for an act\n               in relation to State & County roads—"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:05:26",
+  "word_count": 33
+}

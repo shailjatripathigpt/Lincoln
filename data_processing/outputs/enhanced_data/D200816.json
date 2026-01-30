@@ -1,0 +1,87 @@
+{
+  "document_id": "D200816",
+  "url": "https://papersofabrahamlincoln.org/documents/D200816",
+  "metadata": {
+    "date": "1854-11-29",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "United States. Congress. Senate",
+      "Political parties"
+    ],
+    "type": "Letter",
+    "extracted_date": "1854-11-29",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "not",
+      "him",
+      "abraham",
+      "lincoln",
+      "hugh",
+      "lamaster",
+      "november",
+      "got",
+      "into",
+      "head",
+      "try",
+      "senator",
+      "wish",
+      "somehow",
+      "get"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Hugh Lamaster, 29 November 18541 I have got it into my head to try to be U.S. Senator; and I wish somehow to get at\n\nyourwhigmember, MrBabcock– I am not acquainted with him– Could you not make, or cause to be made, a mark\n\nwith him for me? Would notJudge Kellogglend a helping hand?J. P. Boice, I venture to hope, would be willing to give a lift–2Please write me at all events;3and let this be confidential, so far as practicable–",
+    "paragraphs": [
+      "Abraham Lincoln to Hugh Lamaster, 29 November 18541 I have got it into my head to try to be U.S. Senator; and I wish somehow to get at",
+      "yourwhigmember, MrBabcock– I am not acquainted with him– Could you not make, or cause to be made, a mark",
+      "with him for me? Would notJudge Kellogglend a helping hand?J. P. Boice, I venture to hope, would be willing to give a lift–2Please write me at all events;3and let this be confidential, so far as practicable–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Charles Hoyt;Abraham Lincoln to J. Young Scammon;Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Horace W. Fay; David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps;William H. Randolph to Abraham Lincoln;Illinois Daily Journal(Springfield), 10 November 1854, 2:5; Illinois SenateJournal. 1855. 19th G. A., 242-55.",
+      "Illinois SenateJournal. 1855. 19th G. A., 242-55."
+    ],
+    "footnotes": [
+      {
+        "id": "XCEEC302C-C3E3-4936-8B9C-D49DB499008E",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X5C3FBE0E-3EDF-4D24-B528-46F0DD19B59D",
+        "text": "2Lincoln wrote similar letters to other political allies in November and December of\n                  1854.Passage of theKansas-Nebraska Actand its effective repeal of theMissouri Compromisereawakened Lincoln’s passion for politics, and he threw himself into thecongressional election campaignin the fall of 1854, crisscrossingIllinoisto deliver speeches against the Kansas-Nebraska Act and in support ofanti-Nebraskacandidates. He even allowed himself to become a candidate for theIllinois General Assembly(albeit reluctantly at first). As the election campaign reached its climax, Lincoln’s\n                  name began to circulate as a possible nominee for one of the state’sU.S. Senateseats.Lincoln won election to the Illinois General Assembly, but, in late-November 1854,declinedto serve in order to run for the U.S. Senate. Ultimately, Lincoln did not win election\n                  to the U.S. Senate; the Illinois General Assembly selected anti-NebraskaDemocratLyman Trumbullinstead. See the1854 Federal Election.Abraham Lincoln to Charles Hoyt;Abraham Lincoln to J. Young Scammon;Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Horace W. Fay; David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps;William H. Randolph to Abraham Lincoln;Illinois Daily Journal(Springfield), 10 November 1854, 2:5; Illinois SenateJournal. 1855. 19th G. A., 242-55."
+      },
+      {
+        "id": "XF0EA1AA8-5007-4E88-93B0-C10860FB4512",
+        "text": "3Hugh Lamasterrespondedto this letter on December 11, 1854, stating that the prominent Whigs he had spoken\n                  to would support Lincoln in the event that an election was held for senator. Lamaster\n                  added that while he had not seen William Kellogg or Amos C. Babcock, Kellogg had previously\n                  expressed his support for Lincoln, and newly-elected Whig representative Babcock was\n                  politically inexperienced but would soon learn his duty.When the Illinois General Assembly met on February 8, 1855, to vote on the state’s\n                  next U.S. Senator, William Kellogg was himself nominated as a candidate in the first\n                  round of voting. The sole vote he received was from Babcock and he did not appear\n                  as a candidate in subsequent rounds of voting. Babcock switched his vote to Lincoln\n                  for votes two through five, supportedOrville H. Browningin round six of voting, then once again supported Lincoln in rounds seven and eight.\n                  In the final two rounds of voting, Babcock supported the ultimate victor, Trumbull.Illinois SenateJournal. 1855. 19th G. A., 242-55."
+      },
+      {
+        "id": "XD1FF105F-B8A0-4854-8E31-791F1E798941",
+        "text": "4Hugh Lamaster wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Hugh Lamaster, 29 November 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have got it into my head to try to be U.S. Senator; and I wish somehow to get at\n               yourwhigmember, MrBabcock–  I am not acquainted with him–  Could you not make, or cause to be made, a mark\n               with him for me?  Would notJudge Kellogglend a helping hand?J. P. Boice, I venture to hope,  would be willing to give a lift–2Please write me at all events;3and let this be confidential, so  far as practicable–"
+      }
+    ],
+    "word_count": 83
+  },
+  "extraction_date": "2025-12-26 21:32:15",
+  "word_count": 83,
+  "processing": {
+    "cleaned": true,
+    "original_length": 482,
+    "cleaned_length": 449,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

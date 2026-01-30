@@ -1,0 +1,46 @@
+{
+  "document_id": "D229333",
+  "url": "https://papersofabrahamlincoln.org/documents/D229333",
+  "metadata": {
+    "date": "1847-12-06 - 1849-03-03",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislators",
+      "Landlord and tenant"
+    ],
+    "type": "Envelope"
+  },
+  "content": {
+    "full_text": "Fragment of Envelope of Abraham Lincoln to Ann G. Sprigg, 1",
+    "paragraphs": [
+      "Fragment of Envelope of Abraham Lincoln to Ann G. Sprigg, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "David Herbert Donald,Lincoln(New York: Simon & Schuster Paperbacks, 1995), 119-20."
+    ],
+    "footnotes": [
+      {
+        "id": "X4B6D051B-5DE2-490C-A1B3-032E717829CC",
+        "text": "1Abraham Lincoln addressed the envelope and wrote and signed the free postage frank.\n                  While serving in theU.S. House of Representatives, Lincoln lived in Ann Sprigg’s boarding house inWashington,  DC.The correspondence enclosed within the envelope has not been located.David Herbert Donald,Lincoln(New York: Simon & Schuster Paperbacks, 1995), 119-20."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fragment of Envelope of Abraham Lincoln to Ann G. Sprigg, [1847-1849]1"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 20:36:24",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 70,
+    "cleaned_length": 59,
+    "preserved_originality": true
+  }
+}

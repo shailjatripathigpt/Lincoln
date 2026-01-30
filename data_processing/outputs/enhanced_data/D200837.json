@@ -1,0 +1,87 @@
+{
+  "document_id": "D200837",
+  "url": "https://papersofabrahamlincoln.org/documents/D200837",
+  "metadata": {
+    "date": "1855-03-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Bonds",
+      "Attorney and client",
+      "Actions and defenses",
+      "Real property"
+    ],
+    "type": "Letter",
+    "extracted_date": "1855-03-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "bond",
+      "collection",
+      "send",
+      "say",
+      "abraham",
+      "lincoln",
+      "henry",
+      "dummer",
+      "march",
+      "firm",
+      "lawyers",
+      "innew",
+      "yorkhave",
+      "sent"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Henry E. Dummer, 10 March 18551 A firm of lawyers inNew-Yorkhave sent me a money bond, of $2000 for collection– Both the parties to the bond\n\nreside in New-York, but theobligorhas a farm of 330 acres, within about a mile ofRushvilleinSchuyler county, out of which, by an attachment suit, theobligeewishes collection to be made–2As I do not practice in Rushville, I have concluded to send you the job, if you will\n\nwrite me, saying you will take it– What say you? The attornys who send me the claim, say their client is a good responsible man–3",
+    "paragraphs": [
+      "Abraham Lincoln to Henry E. Dummer, 10 March 18551 A firm of lawyers inNew-Yorkhave sent me a money bond, of $2000 for collection– Both the parties to the bond",
+      "reside in New-York, but theobligorhas a farm of 330 acres, within about a mile ofRushvilleinSchuyler county, out of which, by an attachment suit, theobligeewishes collection to be made–2As I do not practice in Rushville, I have concluded to send you the job, if you will",
+      "write me, saying you will take it– What say you? The attornys who send me the claim, say their client is a good responsible man–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 971; “Attachment suit,” Reference, Glossary,\n                     Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html;Lincoln referred Sandford et al. to Dummer, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141324."
+    ],
+    "footnotes": [
+      {
+        "id": "X5BD9A5FD-C01F-4568-95D1-FED5F686B650",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X92950AC8-5DA8-44A4-B663-47A8D5558E58",
+        "text": "2James S. Sandford,Mortimer Porter, andGarrit H. Striker, Jr.wrote Lincoln in reference to this bond on both December 15, 1854 and March 5, 1855.\n                  Neither of these letters have been located, but Lincoln mentioned in hisreplyto Sandford, Porter, and Striker, written on the same day as this letter, that they\n                  had enclosed the bond in their letter of December 15. Samuel A. Clift, the obligor,\n                  had made a bond with Pray, the obligee, for $2,000.  Clift had failed to pay the bond,\n                  and Pray had commenced an attachment suit to collect the debt.  Sandford, Porter,\n                  and Striker sent the bond to Lincoln for collection. Lincoln failed to collect the\n                  debt, noting in hisreplyto Sandford, Porter, and Striker that he had been “dabbling in politics”--reference\n                  to his successful bid to win a seat in theU.S. Senate. See the1854 Federal ElectionIn legal parlance, the obligor is a person who makes a bond and promises to perform\n                  some action, and  the obligee is a  person who receives a bond as a promise of something\n                  owed to them. An attachment suit is “an action through which a plaintiff could have\n                  the court seize the defendant’s personal or real property pending the outcome of a\n                  case involving a debt of $20 or more or an out-of-state defendant.”Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 971; “Attachment suit,” Reference, Glossary,\n                     Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html;Lincoln referred Sandford et al. to Dummer, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141324."
+      },
+      {
+        "id": "XB2076AC0-0F8D-4A14-B90A-F8D0C0D84B87",
+        "text": "3Dummer agreed to take the case, and Lincoln enclosed the bond and related correspondence\n                  from Sandford, Porter, and Striker  in aletterto Dummer dated March 19.  The final outcome of the case is unknown."
+      },
+      {
+        "id": "X0B3B93AB-771C-4F30-8321-A7E3981B6286",
+        "text": "4Henry E. Dummer wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Henry E. Dummer, 10 March 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "A firm of lawyers inNew-Yorkhave sent me a money bond, of $2000 for collection– Both the parties to the bond\n               reside in New-York, but theobligorhas a farm of 330 acres, within about a mile ofRushvilleinSchuyler county, out of which, by an attachment suit, theobligeewishes collection to be made–2As I do not practice in Rushville, I have concluded to send you the job, if you will\n               write me, saying you will take it– What say you? The attornys who send me the claim, say their client is a good responsible man–3"
+      }
+    ],
+    "word_count": 99
+  },
+  "extraction_date": "2025-12-26 21:35:17",
+  "word_count": 99,
+  "processing": {
+    "cleaned": true,
+    "original_length": 590,
+    "cleaned_length": 562,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

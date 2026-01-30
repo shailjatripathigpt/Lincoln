@@ -1,0 +1,64 @@
+{
+  "document_id": "D200422",
+  "url": "https://papersofabrahamlincoln.org/documents/D200422",
+  "metadata": {
+    "date": "1847-10-23",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Ludlum, Cornelius"
+    ],
+    "keywords": [
+      "Rent",
+      "Dwellings"
+    ],
+    "type": "Contract",
+    "extracted_date": "1847-10-23",
+    "extracted_type": "contract",
+    "extracted_keywords": [
+      "contract",
+      "between",
+      "abraham",
+      "lincoln",
+      "cornelius",
+      "ludlum",
+      "october"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Contract between Abraham Lincoln and Cornelius Ludlum, 23 October 18471",
+    "paragraphs": [
+      "Contract between Abraham Lincoln and Cornelius Ludlum, 23 October 18471"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:253-54, 262;Abraham Lincoln to Mary Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X9F03515B-71D7-4DEA-897F-0015D3CD3BBD",
+        "text": "1Abraham Lincoln wrote and signed the document. Cornelius Ludlum signed his name."
+      },
+      {
+        "id": "X0CD1744D-443C-441B-B702-F93ADC0501C3",
+        "text": "2Lincoln rented out his family’s home for the term  he spent inCongress, during which time he lived inWashington, DC. His family accompanied him to Washington and spent the remainder of his term withMary Lincoln’s family inLexington, Kentucky.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:253-54, 262;Abraham Lincoln to Mary Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Contract between Abraham Lincoln and Cornelius Ludlum, 23 October 18471"
+      }
+    ],
+    "word_count": 10
+  },
+  "extraction_date": "2025-12-26 20:25:24",
+  "word_count": 10,
+  "processing": {
+    "cleaned": true,
+    "original_length": 71,
+    "cleaned_length": 71,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

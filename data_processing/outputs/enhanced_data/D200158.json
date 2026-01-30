@@ -1,0 +1,88 @@
+{
+  "document_id": "D200158",
+  "url": "https://papersofabrahamlincoln.org/documents/D200158",
+  "metadata": {
+    "date": "1839-01-31",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Independent treasury",
+      "Political parties",
+      "Legislative bodies"
+    ],
+    "type": "Letter",
+    "extracted_date": "1839-01-31",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "before",
+      "you",
+      "old",
+      "again",
+      "abraham",
+      "lincoln",
+      "william",
+      "butler",
+      "january",
+      "just",
+      "time",
+      "bearer",
+      "starts",
+      "say",
+      "want"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William Butler, 31 January 18391 I have just time before the bearer of this starts, to say that I want you to send\n\nme theamountof your claim for old State Bank fees— I can not find the old bill thatStoneintroduced—2 You have heard before this, that we have passedAnti-Sub-Treasury resolutionsthro, bothHouses— Yesterday theLoco Focos, took it into their heads that they would contend thatsenatehad amended the resolutions, and then theHousehad a right to try the whole question over again— We commenced the fight at 9. A.M\n\nand kept it up most fiercely till after candlelight, when on taking the final vote,\n\nwe beat them again 46 to 43—3",
+    "paragraphs": [
+      "Abraham Lincoln to William Butler, 31 January 18391 I have just time before the bearer of this starts, to say that I want you to send",
+      "me theamountof your claim for old State Bank fees— I can not find the old bill thatStoneintroduced—2 You have heard before this, that we have passedAnti-Sub-Treasury resolutionsthro, bothHouses— Yesterday theLoco Focos, took it into their heads that they would contend thatsenatehad amended the resolutions, and then theHousehad a right to try the whole question over again— We commenced the fight at 9. A.M",
+      "and kept it up most fiercely till after candlelight, when on taking the final vote,",
+      "we beat them again 46 to 43—3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to William Butler;Abraham Lincoln to William Butler;Abraham Lincoln to Alexander P. Field;James M. Morse to Abraham Lincoln.",
+      "Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     310-12."
+    ],
+    "footnotes": [
+      {
+        "id": "X068BAEEA-2AE4-4B50-BA7E-573A8B458E31",
+        "text": "1Abraham Lincoln wrote the body of the letter, his signature, and the address.  William\n                  Butler penned the docketing."
+      },
+      {
+        "id": "XE372673E-765B-491F-A65E-15795481BF8E",
+        "text": "2It is not clear to which billLincolnis referring. Daniel Stone did not introduce any bills in the first session of the\n                  Eleventh General Assembly.  This could be a reference to theclerk fee billwhich Lincoln introduced in theHouse of Representativeson February 6, which he hoped Stone would help him get passed.Abraham Lincoln to William Butler;Abraham Lincoln to William Butler;Abraham Lincoln to Alexander P. Field;James M. Morse to Abraham Lincoln."
+      },
+      {
+        "id": "X8BB591A9-57B2-4398-8A03-32247A1B7A0C",
+        "text": "3The House of Representatives spent the entire session on January 30 debating theresolutions, which were directed atMartin Van Buren’sIndependent Treasury System.Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     310-12."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William Butler, 31 January 18391"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have just time before the bearer of this starts, to say that I want you to send\n               me theamountof your claim for old State Bank fees— I can not find the old bill thatStoneintroduced—2"
+      },
+      {
+        "type": "paragraph",
+        "text": "You have heard before this, that we have passedAnti-Sub-Treasury resolutionsthro[through], bothHouses— Yesterday theLoco Focos, took it into their heads that they would contend thatsenatehad amended the resolutions, and then theHousehad a right to try the whole question over again— We commenced the fight at 9. A.M\n               and kept it up most fiercely till after candlelight, when on taking the final vote,\n               we beat them again 46 to 43—3"
+      }
+    ],
+    "word_count": 111
+  },
+  "extraction_date": "2025-12-26 20:08:16",
+  "word_count": 111,
+  "processing": {
+    "cleaned": true,
+    "original_length": 709,
+    "cleaned_length": 658,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

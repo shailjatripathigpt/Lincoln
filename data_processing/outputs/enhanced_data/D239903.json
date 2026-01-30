@@ -1,0 +1,83 @@
+{
+  "document_id": "D239903",
+  "url": "https://papersofabrahamlincoln.org/documents/D239903",
+  "metadata": {
+    "date": "1849-03-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "honor",
+      "not",
+      "crain",
+      "department",
+      "one",
+      "friend",
+      "year",
+      "now",
+      "did",
+      "consistent",
+      "him",
+      "believe",
+      "abraham",
+      "lincoln",
+      "william"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William M. Meredith, 10 March 18491 John Crain, a clerk in the Treasury of thePost-Office Department, at a salary of one thousand dollars only, is an old personal friend of mine, of\n\ngood character and honorable standing; has filled many places of honor and high responsibility\n\nin ourstate; was induced not a year ago to accept the place he now holds, which he did at some\n\nsacrafice, having promise of promotion, which, however, he does not now expect, but wishes\n\nto be retained where he is if consistent with your feelings– I bespeak for him as\n\nmuch favor as you can find it consistent to allow– He is ademocrat; and I believe no otherbadthing can be said of him– I hope politics alone may not be made a ground of removals\n\nin the Department; but if it shall, I ask the indulgence for my friend Crain for one\n\nyear at least– He did not interfere in thelate election, as I believe–2",
+    "paragraphs": [
+      "Abraham Lincoln to William M. Meredith, 10 March 18491 John Crain, a clerk in the Treasury of thePost-Office Department, at a salary of one thousand dollars only, is an old personal friend of mine, of",
+      "good character and honorable standing; has filled many places of honor and high responsibility",
+      "in ourstate; was induced not a year ago to accept the place he now holds, which he did at some",
+      "sacrafice, having promise of promotion, which, however, he does not now expect, but wishes",
+      "to be retained where he is if consistent with your feelings– I bespeak for him as",
+      "much favor as you can find it consistent to allow– He is ademocrat; and I believe no otherbadthing can be said of him– I hope politics alone may not be made a ground of removals",
+      "in the Department; but if it shall, I ask the indulgence for my friend Crain for one",
+      "year at least– He did not interfere in thelate election, as I believe–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 22;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 22-24;  U.S. Census Office, Seventh Census of the\n                     United States (1850),  Washington County, IL, 112."
+    ],
+    "footnotes": [
+      {
+        "id": "X434817FF-C9D8-4ABC-A297-83280AACB71F",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "X620585C7-3046-4168-BF16-37FDE8886475",
+        "text": "2John Crain was still employed as a clerk in the Office of the Auditor of the Treasury\n                  of the Post Office Department in September 1849, but was not listed among the clerks\n                  in the official register of the officers and agents of the government for 1851. Crain\n                  mostly likely lost his position in either 1849 or 1850, as he was back living inIllinoisin August 1850.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 22;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 22-24;  U.S. Census Office, Seventh Census of the\n                     United States (1850),  Washington County, IL, 112."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William M. Meredith, 10 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "John Crain,  a clerk in the Treasury of thePost-Office Department, at a salary of one thousand dollars only, is an old personal friend of mine, of\n               good character and honorable standing; has filled many places of honor and high responsibility\n               in ourstate; was induced not a year ago to accept the place he now holds, which he did at some\n               sacrafice, having promise of promotion, which, however, he does not now expect, but wishes\n               to be retained where he is if consistent with your feelings–  I bespeak for him as\n               much favor as you can find it consistent to allow–  He is ademocrat; and I believe no otherbadthing can be said of him–  I hope politics alone may not be made a ground of removals\n               in the Department; but if it shall, I ask the indulgence for my friend Crain for one\n               year at least–  He did not interfere in thelate election, as I believe–2"
+      }
+    ],
+    "word_count": 164
+  },
+  "extraction_date": "2025-12-26 20:37:56",
+  "word_count": 164,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1008,
+    "cleaned_length": 905,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

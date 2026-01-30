@@ -1,0 +1,75 @@
+{
+  "document_id": "D200026",
+  "url": "https://papersofabrahamlincoln.org/documents/D200026",
+  "metadata": {
+    "date": "1833-10-25",
+    "authors": [
+      "Armstrong, Hugh",
+      "Clemment, James",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Real property--Valuation",
+      "Appraisers"
+    ],
+    "type": "Report",
+    "extracted_date": "1833-10-25",
+    "extracted_type": "report",
+    "extracted_keywords": [
+      "appraisers",
+      "report",
+      "abraham",
+      "lincoln",
+      "hugh",
+      "armstrong",
+      "james",
+      "clemment",
+      "october"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Appraisers' Report of Abraham Lincoln, Hugh Armstrong, and James Clemment, 25 October\n\n18331",
+    "paragraphs": [
+      "Appraisers' Report of Abraham Lincoln, Hugh Armstrong, and James Clemment, 25 October"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln et al. appraised property for Sangamon County Circuit Court, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition Springfield: Illinois Historic Preservation Agency, 2009,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141375;Lincoln & Reed appraised property for Brown, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141151;Lincoln & Hill appraised property for Dorrell, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141711."
+    ],
+    "footnotes": [
+      {
+        "id": "X780945D1-A6FF-4FEB-A136-FD0ED18E09A7",
+        "text": "1David Dickinson wrote the body of the text. Lincoln signed his own name only."
+      },
+      {
+        "id": "CAS773503183310250000_1",
+        "text": "2\"my\" changed to “our\"."
+      },
+      {
+        "id": "X2D4628E1-21F8-49AB-ACCB-03EDD7456D03",
+        "text": "3Sinco may have owed money to the New Salem tavern that Alley owned and operated."
+      },
+      {
+        "id": "XCC050D61-0509-4629-B589-8A9FF41BD51F",
+        "text": "4WhenLincolnlived in New Salem, he appraised property on at least three occasions, including\n                  this one. The other two occasions involved the value of horses instead of land.Lincoln et al. appraised property for Sangamon County Circuit Court, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition Springfield: Illinois Historic Preservation Agency, 2009,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141375;Lincoln & Reed appraised property for Brown, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141151;Lincoln & Hill appraised property for Dorrell, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141711."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Appraisers' Report of Abraham Lincoln, Hugh Armstrong, and James Clemment, 25 October\n               18331"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 19:46:10",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 106,
+    "cleaned_length": 92,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

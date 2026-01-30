@@ -1,0 +1,73 @@
+{
+  "document_id": "D200956",
+  "url": "https://papersofabrahamlincoln.org/documents/D200956",
+  "metadata": {
+    "date": "1857-06-02",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Land titles--Registration and transfer",
+      "Public lands",
+      "Real property"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Cornell, Waite & Jameson, 2 June 18571 (The above copy is exact, including punctuation.) “Yours of the 29thwas duly received–2This morning I went to theRegisterwith four hundred dollars in gold in my hand and tendered to the RegisterLandof theLand Officea written application to enter the land, as you requested, all which the Register\n\ndeclined– I have made a written memorandum of the facts,3deposited the gold withJ. Bunn(who furnished it to me on the draft you sent) and took his Certificate of deposite, which certificate and memorandum I hold subject to your order– Now, if you please, send me ten dollars, as a fee.4",
+    "paragraphs": [
+      "Abraham Lincoln to Cornell, Waite & Jameson, 2 June 18571 (The above copy is exact, including punctuation.) “Yours of the 29thwas duly received–2This morning I went to theRegisterwith four hundred dollars in gold in my hand and tendered to the RegisterLandof theLand Officea written application to enter the land, as you requested, all which the Register",
+      "declined– I have made a written memorandum of the facts,3deposited the gold withJ. Bunn(who furnished it to me on the draft you sent) and took his Certificate of deposite, which certificate and memorandum I hold subject to your order– Now, if you please, send me ten dollars, as a fee.4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln registered land for Cornell et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141529."
+    ],
+    "footnotes": [
+      {
+        "id": "X3EA43CA0-D2A5-40C7-95A3-869EA20A4033",
+        "text": "1An unknown person wrote this handwritten transcription.  A version in Abraham Lincoln’s\n                  hand is not extant."
+      },
+      {
+        "id": "XAC81FF5E-9892-4458-B89A-5D09BE06DED8",
+        "text": "2The May 29, 1857, letter from Cornell, Waite & Jameson to Lincoln has not been located."
+      },
+      {
+        "id": "X311101BF-CFC3-4FD1-B318-69F95C1AD429",
+        "text": "3This memorandum has not been found."
+      },
+      {
+        "id": "X2862C7C8-24FF-46D9-A115-A60C2ED3D526",
+        "text": "4Lincoln deposited the money in June 1857.Lincoln registered land for Cornell et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141529."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Cornell, Waite & Jameson, 2 June 18571"
+      },
+      {
+        "type": "description",
+        "text": "(The above copy is exact, including punctuation.)"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Yours of the 29thwas duly received–2This morning I went to theRegisterwith four hundred dollars in gold in my hand and tendered to the RegisterLandof theLand Officea written application to enter the land, as you requested, all which the Register\n                  declined–  I have made a written memorandum of the facts,3deposited the gold withJ. Bunn(who furnished it to me on the draft you sent) and took his Certificate of deposite, which certificate and memorandum I hold subject to your order–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Now, if you please, send me ten dollars, as a fee.4"
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 21:43:53",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 660,
+    "cleaned_length": 642,
+    "preserved_originality": true
+  }
+}

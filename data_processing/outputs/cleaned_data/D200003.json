@@ -1,0 +1,59 @@
+{
+  "document_id": "D200003",
+  "url": "https://papersofabrahamlincoln.org/documents/D200003",
+  "metadata": {
+    "date": "1830-12-16",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Reed, John W."
+    ],
+    "keywords": [
+      "Horses",
+      "Personal property--Valuation",
+      "Livestock"
+    ],
+    "type": "Appraisal"
+  },
+  "content": {
+    "full_text": "Appraisal of an Estray by Abraham Lincoln and John W. Reed, 16 December 18301 We the under signers having been called on to apprais an Estray Mare Taken up byJonathan B. Brownon Monday the 12thday of Decr1830; Do find her to be four years old next Spring a bright bay 14 hands high— a\n\nSmall blaze and a Snip in her face— right hind foot white— right fore foot with a^white^stripe down the hough and white hairs around the edge of the hough no brands perceiveable black mane and\n\ntail appraised to 30 DollarsGiven under hands this16thday of December 18302",
+    "paragraphs": [
+      "Appraisal of an Estray by Abraham Lincoln and John W. Reed, 16 December 18301 We the under signers having been called on to apprais an Estray Mare Taken up byJonathan B. Brownon Monday the 12thday of Decr1830; Do find her to be four years old next Spring a bright bay 14 hands high— a",
+      "Small blaze and a Snip in her face— right hind foot white— right fore foot with a^white^stripe down the hough and white hairs around the edge of the hough no brands perceiveable black mane and",
+      "tail appraised to 30 DollarsGiven under hands this16thday of December 18302"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of  Abraham  Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:3.",
+      "“An Act concerning Water Crafts, Found Adrift, Lost Goods, and Estray Animals,” 31\n                     January 1827,Revised Laws of Illinois(1827), 189-98."
+    ],
+    "footnotes": [
+      {
+        "id": "X0858C2BA-2CE7-47F0-AF41-F84B2DA742EB",
+        "text": "1Abraham Lincoln wrote only his own signature on this document. Roy P. Basler believed\n                  it to be entirely in Lincoln’s handwriting, and he included the document inThe Collected Works of  Abraham  Lincoln.Roy P. Basler, ed.,The Collected Works of  Abraham  Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:3."
+      },
+      {
+        "id": "X8180D7FE-FE9C-4F9C-AD68-7C3E708B8D58",
+        "text": "2An estray is any domestic animal found wandering, whose ownership is unknown; the\n                  term also applies to water craft found adrift.  Illinois law required the finder of\n                  an estray to register their possession with a justice of the peace. The justice of\n                  the peace would have two or three persons from the neighborhood appraise the estray,\n                  and report its description and value to the clerk of thecounty commissioners’ court.  If the value were more than $15, the clerk would advertise the estray in public\n                  places and a local newspaper.  If no owner appeared to prove his ownership within\n                  a year, the finder of the estray would deliver it to the sheriff, who would sell it\n                  at public auction and deposit the proceeds into the county treasury, after paying\n                  the finder the costs of taking care of the animal.“An Act concerning Water Crafts, Found Adrift, Lost Goods, and Estray Animals,” 31\n                     January 1827,Revised Laws of Illinois(1827), 189-98."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Appraisal of an Estray by Abraham Lincoln and John W. Reed, 16 December 18301"
+      },
+      {
+        "type": "paragraph",
+        "text": "We the under signers having been called on to apprais an Estray Mare Taken up byJonathan B. Brownon Monday the 12thday of Decr1830; Do find her to be four years old next Spring a bright bay 14 hands high—  a\n               Small blaze and a Snip in her face—  right hind foot white— right fore foot with a^white^stripe down the hough[hoof] and white hairs around the edge of the hough no brands perceiveable black mane and\n               tail appraised to 30 DollarsGiven under hands this16thday of December 18302"
+      }
+    ],
+    "word_count": 100
+  },
+  "extraction_date": "2025-12-26 19:45:14",
+  "word_count": 100,
+  "processing": {
+    "cleaned": true,
+    "original_length": 591,
+    "cleaned_length": 555,
+    "preserved_originality": true
+  }
+}

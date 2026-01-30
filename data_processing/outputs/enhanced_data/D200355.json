@@ -1,0 +1,62 @@
+{
+  "document_id": "D200355",
+  "url": "https://papersofabrahamlincoln.org/documents/D200355",
+  "metadata": {
+    "date": "1844-04-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Divorce",
+      "Lawyers"
+    ],
+    "type": "Letter",
+    "extracted_date": "1844-04-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "horatio",
+      "vandeveer",
+      "april"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Horatio M. Vandeveer, 28 April 18441",
+    "paragraphs": [
+      "Abraham Lincoln to Horatio M. Vandeveer, 28 April 18441"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Wilson v. Wilson, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136928.",
+      "Wilson v. Wilson, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136928."
+    ],
+    "footnotes": [
+      {
+        "id": "XABB323A1-2D2B-4446-8E58-B62F1859C6A3",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also wrote the address on the back\n                  page, which was folded to create an envelope for mailing. The letter also enclosed\n                  a Bill for Divorce. The original documents have not been located.Wilson v. Wilson, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136928."
+      },
+      {
+        "id": "XFC0FDD64-CC06-4897-98AF-58072BBE935C",
+        "text": "2Andrew J. Wilsonhad retainedLogan & Lincolnto sue his wife,Susan Wilson, for divorce, on the grounds that she had committed adultery with Edward Taylor.\n                  The bill for divorce, authored by Lincoln and enclosed within this letter, was filed\n                  in the Christian  County Circuit Court on May 3, 1844. The court dismissed the case\n                  after Wilson failed to provide security for the court costs.Wilson v. Wilson, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136928."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Horatio M. Vandeveer, 28 April 18441"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:20:30",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 55,
+    "cleaned_length": 55,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

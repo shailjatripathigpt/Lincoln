@@ -1,0 +1,54 @@
+{
+  "document_id": "D208090",
+  "url": "https://papersofabrahamlincoln.org/documents/D208090",
+  "metadata": {
+    "date": "1855-02-05",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Receipts (Acknowledgments)",
+      "Promissory notes"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt of Abraham Lincoln to Anderson, 5 February 18551 Received, Feby 5. 1855 ofAndersonby the hand ofW. H. Lamon, twentyfive dollars, being in full of all demands, and particularly of a note for that sum, being\n\nthe only note I hold or ever held against him, which note is not now at hand to be\n\ndelivered up–2",
+    "paragraphs": [
+      "Receipt of Abraham Lincoln to Anderson, 5 February 18551 Received, Feby 5. 1855 ofAndersonby the hand ofW. H. Lamon, twentyfive dollars, being in full of all demands, and particularly of a note for that sum, being",
+      "the only note I hold or ever held against him, which note is not now at hand to be"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XDB09126E-0138-4873-AEEB-D74C29AA8EBC",
+        "text": "1Abraham Lincoln wrote and signed this receipt."
+      },
+      {
+        "id": "X3B581C21-DD81-4844-A5D1-05B9799B3E9D",
+        "text": "2Anderson could not be positively identified. It is therefore unclear why he was indebted\n                  to Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Abraham Lincoln to Anderson, 5 February 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received, Feby[February] 5. 1855 ofAndersonby the hand ofW. H. Lamon, twentyfive dollars, being in full of all demands, and particularly of a note for that sum, being\n               the only note I hold or ever held against him, which note is not now at hand to be\n               delivered up–2"
+      }
+    ],
+    "word_count": 57
+  },
+  "extraction_date": "2025-12-26 21:35:59",
+  "word_count": 57,
+  "processing": {
+    "cleaned": true,
+    "original_length": 351,
+    "cleaned_length": 313,
+    "preserved_originality": true
+  }
+}

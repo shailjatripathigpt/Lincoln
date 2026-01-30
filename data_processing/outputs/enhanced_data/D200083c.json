@@ -1,0 +1,60 @@
+{
+  "document_id": "D200083c",
+  "url": "https://papersofabrahamlincoln.org/documents/D200083c",
+  "metadata": {
+    "date": "1836-11-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Real property",
+      "Surveying",
+      "Surveys"
+    ],
+    "type": "Survey",
+    "extracted_date": "1836-11-17",
+    "extracted_type": "survey",
+    "extracted_keywords": [
+      "certificate",
+      "survey",
+      "alvin",
+      "ringo",
+      "november"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Certificate of Survey for Alvin Ringo, 17 November 1",
+    "paragraphs": [
+      "Certificate of Survey for Alvin Ringo, 17 November 1"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X25C13B7D-28F3-4921-848A-CB37921B5AAC",
+        "text": "1Lincoln apparently performed two surveys for Alvin  Ringo, and the certificates were\n                  likely originally written on the same piece of paper and separated later. The first\n                  survey only survives in the form of twohandwrittentranscriptions. The second survey is transcribed here.  Page one was written entirely by Abraham\n                  Lincoln, including Neale’s signature."
+      },
+      {
+        "id": "XACB72022-C314-470A-BA8B-4626A8989110",
+        "text": "2The land described here is located nearClary Creekin present-dayMenard County, southwest ofPetersburg."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Survey for Alvin Ringo, 17 November [1836]1"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:03:55",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 58,
+    "cleaned_length": 52,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

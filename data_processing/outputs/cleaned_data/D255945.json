@@ -1,0 +1,62 @@
+{
+  "document_id": "D255945",
+  "url": "https://papersofabrahamlincoln.org/documents/D255945",
+  "metadata": {
+    "date": "1840-01-22",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Canals",
+      "Stocks",
+      "Real property"
+    ],
+    "type": "Amendment"
+  },
+  "content": {
+    "full_text": "Amendment to \"A Bill for the Further Prosecution of the Illinois and Michigan Canal,\"\n\n1 Amendment of the select committee— Amend the eighth section by adding there to the following towit.\"norshallupon any contracts except those existing at the passage of this\n\nact.\"Providedthat contracts which may be transfered from one\n\ncontractor to another, without any change in their terms, shall not be construed to\n\nbe new contracts2",
+    "paragraphs": [
+      "Amendment to \"A Bill for the Further Prosecution of the Illinois and Michigan Canal,\"",
+      "1 Amendment of the select committee— Amend the eighth section by adding there to the following towit.\"norshallupon any contracts except those existing at the passage of this",
+      "act.\"Providedthat contracts which may be transfered from one",
+      "contractor to another, without any change in their terms, shall not be construed to"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 136, 163, 201, 204, 232-33, 235, 236, 242-43."
+    ],
+    "footnotes": [
+      {
+        "id": "XAF6E6F1C-94D2-475B-B870-4F4538248403",
+        "text": "1Abraham Lincoln wrote the text of this amendment and the docketing on the back page."
+      },
+      {
+        "id": "X48F39910-4E2F-4A3E-86DA-0DA488F73670",
+        "text": "2On January 22, 1840, Lincoln of a select committee proposed this amendment toHB 108,  introduced byNewton Cloudin theHouse of Representativeson January 8. On January 13, the House referred the bill to the Committee on the\n                  Judiciary. The Committee on the Judiciary reported back the bill on January 18 with\n                  an amendment, in which the House concurred. The House refused to order the bill engrossed\n                  for a third reading by a vote of 35 yeas to 50 nays, with Lincoln voting yea. On January\n                  20, the House re-considered this vote and, upon Lincoln’s motion, referred the bill\n                  to a five-person select committee that included Lincoln. Lincoln of the select committee\n                  reported back the bill on January 22 with this amendment. Representatives offered\n                  amendments, and the House informally tabled the bill and proposed amendments. On January\n                  23, the House tabled the amendment to the select committee’s amendment and concurred\n                  with the select committee’s amendment. The House added language related to the issuance\n                  of scrip, but rejected further amendment related to the issue of scrip by a vote of\n                  26 yeas to 55 nays, with Lincoln voting nay. Lincoln proposed anamendmentto add a proviso to the first section, which the House adopted . On January 24, the\n                  House tabled, on Lincoln’s motion, an amendment and an amendment to said amendment.\n                  The House refused to order the bill engrossed for a third reading by a vote of 36\n                  yeas to 46 nays, with Lincoln voting yea.Illinois HouseJournal. 1839. 11th G. A., special sess., 136, 163, 201, 204, 232-33, 235, 236, 242-43."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to \"A Bill for the Further Prosecution of the Illinois and Michigan Canal,\"\n               [22 January 1840]1"
+      },
+      {
+        "type": "description",
+        "text": "Amendment of the select committee—"
+      },
+      {
+        "type": "paragraph",
+        "text": "Amend the eighth section by adding there to the following towit.\"norshallupon any contracts except those existing at the passage of this\n               act.\"Providedthat contracts which may be transfered from one\n               contractor to another, without any change in their terms, shall not be construed to\n               be new contracts2"
+      }
+    ],
+    "word_count": 66
+  },
+  "extraction_date": "2025-12-26 20:11:14",
+  "word_count": 68,
+  "processing": {
+    "cleaned": true,
+    "original_length": 499,
+    "cleaned_length": 426,
+    "preserved_originality": true
+  }
+}

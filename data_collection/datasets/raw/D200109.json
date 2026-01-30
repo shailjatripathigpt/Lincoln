@@ -1,0 +1,52 @@
+{
+  "document_id": "D200109",
+  "url": "https://papersofabrahamlincoln.org/documents/D200109",
+  "metadata": {
+    "date": "1837-07-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Real property",
+      "Women--Legal status, laws, etc.",
+      "Minors--Legal status, laws, etc.",
+      "Inheritance and succession",
+      "Guardians ad litem"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James Semple, [12 July 1837]1 I hereby give notice that on friday next or some day thereafter I shall ask leave\n               to introducea billfor an act to authorizeRhoda Hartand others to sell and convey certain real estate.2",
+    "paragraphs": [
+      "Abraham Lincoln to James Semple, [12 July 1837]1",
+      "I hereby give notice that on friday next or some day thereafter I shall ask leave\n               to introducea billfor an act to authorizeRhoda Hartand others to sell and convey certain real estate.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1837. 10th G. A., special sess., 21.",
+      "Illinois HouseJournal. 1837. 10th G. A., special sess., 78, 110, 117-18."
+    ],
+    "footnotes": [
+      {
+        "id": "XCD6D846A-07A4-40C2-AC5A-8871435AD11A",
+        "text": "1Abraham Lincoln wrote the entirety of this document and he presented it to the House\n                  of Representatives on July 12, 1837.Illinois HouseJournal. 1837. 10th G. A., special sess., 21."
+      },
+      {
+        "id": "X40759FA6-8FBA-4DBE-AEAA-40A91095C506",
+        "text": "2Lincoln introduced HB 48 in the House of Representatives on July 15, 1837. On July\n                  19, the House voted against further action on the bill.Illinois HouseJournal. 1837. 10th G. A., special sess., 78, 110, 117-18."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James Semple, [12 July 1837]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I hereby give notice that on friday next or some day thereafter I shall ask leave\n               to introducea billfor an act to authorizeRhoda Hartand others to sell and convey certain real estate.2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:05:33",
+  "word_count": 40
+}

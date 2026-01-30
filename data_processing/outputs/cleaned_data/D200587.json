@@ -1,0 +1,56 @@
+{
+  "document_id": "D200587",
+  "url": "https://papersofabrahamlincoln.org/documents/D200587",
+  "metadata": {
+    "date": "1849-05-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political",
+      "Diplomatic and consular service, American"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Clayton, 16 May 18491 I learn thatE. P. Oliphant, ofUnion Town, Pa, is a candidate for the appointment of Chargé toDenmark– Several years ago MrOliphant was a citizen of ourtown, and was a fellow soldier with us in the \"famedBlack Hawk War\"– His success would afford me sincere satisfaction–",
+    "paragraphs": [
+      "Abraham Lincoln to John M. Clayton, 16 May 18491 I learn thatE. P. Oliphant, ofUnion Town, Pa, is a candidate for the appointment of Chargé toDenmark– Several years ago MrOliphant was a citizen of ourtown, and was a fellow soldier with us in the \"famedBlack Hawk War\"– His success would afford me sincere satisfaction–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 7;Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 1049;The American Almanac and Repository of Useful Knowledge, for the Year 1853(Boston: Little, Brown, 1853), 130."
+    ],
+    "footnotes": [
+      {
+        "id": "X7D546BE7-3E6D-49C6-A4E5-18E3242A0ACC",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XC704DBAA-898F-4C8F-BC1B-C1090E7030E6",
+        "text": "2In January 1849, Lincoln promised to aid Ethelbert P. Oliphant in obtaining the appointment\n                  as chargé d'affaires to Denmark.  On May 8,  OliphantwroteLincoln requesting that he andJohn T. Stuartwrite  PresidentZachary Tayloror Secretary of State John M. Clayton on his behalf.  Oliphant did not get the appointment;\n                  in November, President Taylor gave the post to Walter Forward, who held the job until\n                  October 1851. Miller Grieve would succeed Forward.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 7;Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 1049;The American Almanac and Repository of Useful Knowledge, for the Year 1853(Boston: Little, Brown, 1853), 130."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Clayton, 16 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I learn thatE. P. Oliphant, ofUnion Town, Pa, is a candidate for the appointment of Chargé toDenmark– Several years ago MrOliphant was a citizen of ourtown, and was a fellow soldier with us in the \"famedBlack Hawk War\"– His success would afford me sincere satisfaction–"
+      }
+    ],
+    "word_count": 54
+  },
+  "extraction_date": "2025-12-26 20:43:06",
+  "word_count": 54,
+  "processing": {
+    "cleaned": true,
+    "original_length": 318,
+    "cleaned_length": 318,
+    "preserved_originality": true
+  }
+}

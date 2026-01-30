@@ -1,0 +1,59 @@
+{
+  "document_id": "D206898",
+  "url": "https://papersofabrahamlincoln.org/documents/D206898",
+  "metadata": {
+    "date": "1858-05-31",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Collecting of accounts",
+      "Debtor and creditor",
+      "Promissory notes"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Clark, 31 May 18581 Your note upon Whitten I received long ago–3Did not think it could be collected–  Mislaid the note for a while–  Have found\n               it again, and will take it toChicagothe first time I go— in July perhaps— and try to get the money of Whitten–  He has\n               employment there now–4",
+    "paragraphs": [
+      "Abraham Lincoln to John M. Clark, 31 May 18581",
+      "Your note upon Whitten I received long ago–3Did not think it could be collected–  Mislaid the note for a while–  Have found\n               it again, and will take it toChicagothe first time I go— in July perhaps— and try to get the money of Whitten–  He has\n               employment there now–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln collected debt for Clark, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141243.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, July 1858,https://thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1858&month=7."
+    ],
+    "footnotes": [
+      {
+        "id": "4018972",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "4018973",
+        "text": "2Lincoln was known to sometimes use “Ia” as an abbreviation forIndiana. For several examples, seeAbraham Lincoln to Joel B. McFarland, Abraham Lincoln to James F. Babcock, and Abraham Lincoln to Richard M. Corwine."
+      },
+      {
+        "id": "4018974",
+        "text": "3Whitten could not be positively identified. Neither Whitten’s promissory note to John\n                  M. Clark nor any additional correspondence between Lincoln and Clark concerning Whitten\n                  could be located; therefore, some of the context for this letter is missing.Lincoln collected debt for Clark, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141243."
+      },
+      {
+        "id": "4018975",
+        "text": "4Lincoln indeed traveled to Chicago in July. He attended to legal business in the city\n                  from July 9 to 14 and again from July 21 to 24. It is not known whether he was able\n                  to collect on Whitten’s debt.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, July 1858,https://thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1858&month=7."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Clark, 31 May 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your note upon Whitten I received long ago–3Did not think it could be collected–  Mislaid the note for a while–  Have found\n               it again, and will take it toChicagothe first time I go— in July perhaps— and try to get the money of Whitten–  He has\n               employment there now–4"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:48:05",
+  "word_count": 58
+}

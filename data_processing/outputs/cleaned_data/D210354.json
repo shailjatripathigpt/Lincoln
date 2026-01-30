@@ -1,0 +1,62 @@
+{
+  "document_id": "D210354",
+  "url": "https://papersofabrahamlincoln.org/documents/D210354",
+  "metadata": {
+    "date": "1849-02-20",
+    "authors": [
+      "Pope, Nathaniel"
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Nathaniel Pope to Abraham Lincoln, 20 February 18491 This will be handed to you by my young friendJohn Cook, whom I have known all his life and in whose wefare I feel a deep interest— He is as you have heard the son of the lateDanlP— Cookand grandson of the late GovernorNinian Edwards— MrCookdesires an office under the administration ofGenlTaylor— But what the office is know not and so cannot speak of qualifications You will do me a great personal kindness by making him favorably known to President\n\nTaylor and promoting his wishes for any office for which he is qualified—2",
+    "paragraphs": [
+      "Nathaniel Pope to Abraham Lincoln, 20 February 18491 This will be handed to you by my young friendJohn Cook, whom I have known all his life and in whose wefare I feel a deep interest— He is as you have heard the son of the lateDanlP— Cookand grandson of the late GovernorNinian Edwards— MrCookdesires an office under the administration ofGenlTaylor— But what the office is know not and so cannot speak of qualifications You will do me a great personal kindness by making him favorably known to President",
+      "Taylor and promoting his wishes for any office for which he is qualified—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849)."
+    ],
+    "footnotes": [
+      {
+        "id": "XC74B4AFF-474E-4E58-AA1F-A8288B6FA3A2",
+        "text": "1Nathaniel Pope wrote this letter in its entirety."
+      },
+      {
+        "id": "XC84E2DCF-4669-4A60-A1A8-DCA2C1FAC604",
+        "text": "2TheRegister of all Officers and Agentsof the federal government as of September 30, 1849 does not include John C. Cook.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Nathaniel Pope to Abraham Lincoln, 20 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "This will be handed to you by my young friendJohn Cook, whom I have known all his life and in whose wefare I feel a deep interest—  He is as you have heard the son of the lateDanlP— Cookand grandson of the late GovernorNinian Edwards—"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrCookdesires an office under the administration ofGenlTaylor— But what the office is know not and so cannot speak of qualifications"
+      },
+      {
+        "type": "paragraph",
+        "text": "You will do me a great personal kindness by making him favorably known to President\n               Taylor and promoting his wishes for any office for which he is qualified—2"
+      }
+    ],
+    "word_count": 101
+  },
+  "extraction_date": "2025-12-26 20:36:11",
+  "word_count": 101,
+  "processing": {
+    "cleaned": true,
+    "original_length": 594,
+    "cleaned_length": 579,
+    "preserved_originality": true
+  }
+}

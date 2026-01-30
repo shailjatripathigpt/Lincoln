@@ -1,0 +1,58 @@
+{
+  "document_id": "D200090",
+  "url": "https://papersofabrahamlincoln.org/documents/D200090",
+  "metadata": {
+    "date": "1836-12-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislative bodies",
+      "Roads"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John McNamar, 24 December 18361 DearMack: I write this to notify you that I have received the petition for the change of the\n               state road,2so as to make it run byTilman Hornsecker’s andBowman’s, and that unless you, who are opposed to the change, get up a remonstrance and\n               send it on, I shall be forced to have a bill passed upon the petition.  I might write\n               you a long letter of political news but you will see that as soon in the newspapers,\n               which will save me the trouble. If you feel any particular interest in this affair don’t fail to bestir yourself.3",
+    "paragraphs": [
+      "Abraham Lincoln to John McNamar, 24 December 18361",
+      "DearMack: I write this to notify you that I have received the petition for the change of the\n               state road,2so as to make it run byTilman Hornsecker’s andBowman’s, and that unless you, who are opposed to the change, get up a remonstrance and\n               send it on, I shall be forced to have a bill passed upon the petition.  I might write\n               you a long letter of political news but you will see that as soon in the newspapers,\n               which will save me the trouble.",
+      "If you feel any particular interest in this affair don’t fail to bestir yourself.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "An Act concerning Public Roads, sec. 9;An Act Authorizing Commissioners’ Courts to Alter, Change, and Relocate State Roads;An Act concerning Public Roads.",
+      "Illinois Daily State Journal(Springfield), 15 October 1874, 3:3."
+    ],
+    "footnotes": [
+      {
+        "id": "X9CCED41C-44C3-41CB-935E-2426DFA28213",
+        "text": "1Lincoln presumably wrote the text of this letter, which was published in 1874 by its\n                  recipient. This transcription is taken from the 1874 publication."
+      },
+      {
+        "id": "X49FE09BD-A3B5-459E-8506-E7F244E6A188",
+        "text": "2State roads were those public roads established or designated by theGeneral Assemblyand usually crossed county lines.  Only the General Assembly could establish, alter,\n                  or abandon state roads, until 1840 and 1841, when the General Assembly gave counties\n                  the authority to alter or to abandon state roads upon petition by a majority of voters\n                  in the area of the change.An Act concerning Public Roads, sec. 9;An Act Authorizing Commissioners’ Courts to Alter, Change, and Relocate State Roads;An Act concerning Public Roads."
+      },
+      {
+        "id": "X2AFF0E0D-A9D3-4B69-B016-7EDA5D458B6B",
+        "text": "3McNamar explained in the interview accompanying the letter as published in theIllinois State Journal, that Lincoln had surveyed the road so as to run in front of his farm, but that the\n                  petition would have relocated the road a mile or two behind McNamar’s farm. There\n                  is no evidence that Lincoln introduced the petition in theHouse of Representatives, nor that he introduced a bill to change the road.Illinois Daily State Journal(Springfield), 15 October 1874, 3:3."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John McNamar, 24 December 18361"
+      },
+      {
+        "type": "paragraph",
+        "text": "DearMack: I write this to notify you that I have received the petition for the change of the\n               state road,2so as to make it run byTilman Hornsecker’s andBowman’s, and that unless you, who are opposed to the change, get up a remonstrance and\n               send it on, I shall be forced to have a bill passed upon the petition.  I might write\n               you a long letter of political news but you will see that as soon in the newspapers,\n               which will save me the trouble."
+      },
+      {
+        "type": "paragraph",
+        "text": "If you feel any particular interest in this affair don’t fail to bestir yourself.3"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:04:47",
+  "word_count": 106
+}

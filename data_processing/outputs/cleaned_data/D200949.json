@@ -1,0 +1,57 @@
+{
+  "document_id": "D200949",
+  "url": "https://papersofabrahamlincoln.org/documents/D200949",
+  "metadata": {
+    "date": "1857-05-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Petitions",
+      "Manslaughter",
+      "Pardon",
+      "Clemency"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Anderson P. Miller and Others to William H. Bissell, 1",
+    "paragraphs": [
+      "Petition of Anderson P. Miller and Others to William H. Bissell, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:394.",
+      "People v. Hibbs, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140068."
+    ],
+    "footnotes": [
+      {
+        "id": "XE81A7BED-C98B-4751-A269-F6D9CCE22680",
+        "text": "1Abraham Lincoln wrote the body of this petition.Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, utilizes the date thatDavid Daviswrote alettertoWilliam H. Bissell—May 8, 1857—to infer that Lincoln signed an endorsement on that letter as well as\n                  this petition on May 8, 1857. However, it is unclear that Lincoln wrote this petition\n                  on that exact date; therefore, the editors date this petition May 1857.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:394."
+      },
+      {
+        "id": "X37F9F06D-5979-40EB-A4E6-4A2C66A46F42",
+        "text": "2The victim in this case could not be positively identified."
+      },
+      {
+        "id": "XED8EAE80-AA9F-42A1-B87A-4E98F6210219",
+        "text": "3This petition is related to the casePeople v. Hibbs. In June 1855, the State of Illinois indicted John Hibbs for manslaughter. Hibbs\n                  retained Lincoln andWilliam Herndonfor his defense and pled not guilty;Amzi McWilliamsrepresented the people. On June 13, theLogan County Circuit Courtgranted a change of venue and transferred the case to the Sangamon County Circuit\n                  Court. The case came before the Sangamon County Circuit Court in March 1856, and,\n                  on March 13, the jury found Hibbs guilty and recommended a sentence of two years.\n                  Lincoln and Herndon motioned for a new trial, but, on March 29, the court sentenced\n                  him to the recommended two years in the Illinois State Penitentiary. As this petition\n                  and aletterto Governor Bissell demonstrate, in 1857 Lincoln and others petitioned Bissell to\n                  grant Hibbs a pardon. On May 16, 1857, Governor Bissell ordered Hibbs pardoned.People v. Hibbs, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140068."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Anderson P. Miller and Others to William H. Bissell, [May 1857]1"
+      }
+    ],
+    "word_count": 12
+  },
+  "extraction_date": "2025-12-26 21:43:21",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 76,
+    "cleaned_length": 66,
+    "preserved_originality": true
+  }
+}

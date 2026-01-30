@@ -1,0 +1,73 @@
+{
+  "document_id": "D208094",
+  "url": "https://papersofabrahamlincoln.org/documents/D208094",
+  "metadata": {
+    "date": "1857-09-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Finance, Personal"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of Abraham Lincoln to William H. Herndon, 28 September 18571 Springfield Marine & Fire Insurance Company, Pay toW. H. Herndonor Bearer Twentythree/100Dollars, IN CURRENT BANK NOTES. $23–002 Richards & Smith, printers.",
+    "paragraphs": [
+      "Check of Abraham Lincoln to William H. Herndon, 28 September 18571 Springfield Marine & Fire Insurance Company, Pay toW. H. Herndonor Bearer Twentythree/100Dollars, IN CURRENT BANK NOTES. $23–002 Richards & Smith, printers."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln paid debt to Herndon, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141365."
+    ],
+    "footnotes": [
+      {
+        "id": "X08E29FD9-6F6D-47BF-BDAE-A9A966A89F35",
+        "text": "1Abraham Lincoln filled in the blanks of this partially printed check and signed it."
+      },
+      {
+        "id": "X480A596F-555C-4BC2-9E17-1A3DA9746D3B",
+        "text": "2It is unknown for what Lincoln was making this payment to William H. Herndon.Lincoln paid debt to Herndon, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141365."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Abraham Lincoln to William H. Herndon, 28 September 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Springfield Marine & Fire Insurance Company,"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pay toW. H. Herndonor Bearer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Twentythree/100Dollars,"
+      },
+      {
+        "type": "paragraph",
+        "text": "IN CURRENT BANK NOTES."
+      },
+      {
+        "type": "paragraph",
+        "text": "$23–002"
+      },
+      {
+        "type": "paragraph",
+        "text": "Richards & Smith, printers."
+      }
+    ],
+    "word_count": 32
+  },
+  "extraction_date": "2025-12-26 21:44:27",
+  "word_count": 32,
+  "processing": {
+    "cleaned": true,
+    "original_length": 223,
+    "cleaned_length": 223,
+    "preserved_originality": true
+  }
+}

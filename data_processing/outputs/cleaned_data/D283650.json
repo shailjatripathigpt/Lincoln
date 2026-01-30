@@ -1,0 +1,60 @@
+{
+  "document_id": "D283650",
+  "url": "https://papersofabrahamlincoln.org/documents/D283650",
+  "metadata": {
+    "date": "1849-02-19",
+    "authors": [
+      "Casey, Zadok",
+      "McMurtry, William"
+    ],
+    "keywords": [
+      "Hospitals, Naval and marine"
+    ],
+    "type": "Resolution"
+  },
+  "content": {
+    "full_text": "Joint Resolution of Illinois General Assembly to Abraham Lincoln, 19 February 18491 Resolved by theHouse of Representatives, theSenateconcurring herein, that our Senators inCongressbe instructed and our representatives be requested to use all honorable exertions\n\nto procure the passage of an act to direct the Secretary of War to select a suitable\n\ntract of Lands upon theIsland of Rock Islandin the State ofIllinoisfor the site of the necessary buildings for a Marine Hospital with the necessary\n\ngrounds and directing a sale of the remainder of the Land upon said Island in small\n\nquantities at public sale. The proceeds of said sale to be appropriated to the establishment\n\nand support of said Marine Hospital; and that theGovernorbe requested to forward a copy of this resolution to our Senators and representatives\n\nin Congress.2",
+    "paragraphs": [
+      "Joint Resolution of Illinois General Assembly to Abraham Lincoln, 19 February 18491 Resolved by theHouse of Representatives, theSenateconcurring herein, that our Senators inCongressbe instructed and our representatives be requested to use all honorable exertions",
+      "to procure the passage of an act to direct the Secretary of War to select a suitable",
+      "tract of Lands upon theIsland of Rock Islandin the State ofIllinoisfor the site of the necessary buildings for a Marine Hospital with the necessary",
+      "grounds and directing a sale of the remainder of the Land upon said Island in small",
+      "quantities at public sale. The proceeds of said sale to be appropriated to the establishment",
+      "and support of said Marine Hospital; and that theGovernorbe requested to forward a copy of this resolution to our Senators and representatives"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Iowa HouseJournal. 1849. 2nd G. A., 248, 261, 266, 277, 339; \n                     Illinois HouseJournal. 1849.  16th G. A., 43, 70, 130; Illinois SenateJournal. 1849. 16th G. A., 62, 100; “Report of the Committee on Federal Relations, Upon a\n                     Memorial of the Iowa Legislature in Regard to a Marine Hospital Upon the Island of\n                     Rock Island,”Reports Made to the Fifteenth General Assembly of the State of Illinois(Springfield: Charles H. Lanphier, 1849), 87-88.",
+      "U.S. SenateJournal. 1849. 30th Congress, 2nd sess., 180, 226; U.S. HouseJournal. 1849. 30th Congress, 2nd sess., 474."
+    ],
+    "footnotes": [
+      {
+        "id": "XA56410F7-1208-4D36-AF6F-D7426A0123A2",
+        "text": "1On December 21, 1848, theIowa General Assemblyadopted a memorial requesting theU.S. Congressto establish a marine hospital on Rock Island.  On January 6, 1849, GovernorAugustus C. Frenchpresented the memorial to theIllinois House of Representatives.  The House referred the memorial to the Committee on Federal Relations.  The Committee\n                  on Federal Relations reported back the memorial on January 11 with this resolution,\n                  which the House adopted.    On January 18, theSenateconcurred.Iowa HouseJournal. 1849. 2nd G. A., 248, 261, 266, 277, 339; \n                     Illinois HouseJournal. 1849.  16th G. A., 43, 70, 130; Illinois SenateJournal. 1849. 16th G. A., 62, 100; “Report of the Committee on Federal Relations, Upon a\n                     Memorial of the Iowa Legislature in Regard to a Marine Hospital Upon the Island of\n                     Rock Island,”Reports Made to the Fifteenth General Assembly of the State of Illinois(Springfield: Charles H. Lanphier, 1849), 87-88."
+      },
+      {
+        "id": "XC9546892-B9F1-4347-82C9-6D2FCE6A4214",
+        "text": "2On February 5, 1849,Stephen A. Douglasintroduced this resolution in theU.S. Senate.  The Senate referred the resolution to the Committee on Commerce and ordered it\n                  printed.   On February 19,Abraham Lincolnintroduced the resolution in theU.S. House, and the House tabled it and ordered it printed.  On February 17, the Senate Committee\n                  on Commerce reported back the resolution with  a bill to authorize a section of Rock\n                  Island set aside for a Marine Hospital.    The bill reached a second reading, but\n                  went no further.U.S. SenateJournal. 1849. 30th Congress, 2nd sess., 180, 226; U.S. HouseJournal. 1849. 30th Congress, 2nd sess., 474."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Joint Resolution of Illinois General Assembly to Abraham Lincoln, 19 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Resolved by theHouse of Representatives, theSenateconcurring herein, that our Senators inCongressbe instructed and our representatives be requested to use all honorable exertions\n               to procure the passage of an act to direct the Secretary of War to select a suitable\n               tract  of Lands upon theIsland of Rock Islandin the State ofIllinoisfor the site of the necessary buildings for a Marine Hospital with the necessary\n               grounds and directing a sale of the remainder of the Land upon said Island in small\n               quantities at public sale.  The proceeds of said sale to be appropriated to the establishment\n               and support of said Marine Hospital; and that theGovernorbe requested to forward a copy of this resolution to our Senators and representatives\n               in Congress.2"
+      }
+    ],
+    "word_count": 130
+  },
+  "extraction_date": "2025-12-26 20:35:05",
+  "word_count": 130,
+  "processing": {
+    "cleaned": true,
+    "original_length": 921,
+    "cleaned_length": 835,
+    "preserved_originality": true
+  }
+}

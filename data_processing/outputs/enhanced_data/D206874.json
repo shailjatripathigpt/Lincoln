@@ -1,0 +1,82 @@
+{
+  "document_id": "D206874",
+  "url": "https://papersofabrahamlincoln.org/documents/D206874",
+  "metadata": {
+    "date": "1849-09-23",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-09-23",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "your",
+      "get",
+      "way",
+      "abraham",
+      "lincoln",
+      "peyton",
+      "harrison",
+      "september",
+      "letter",
+      "forwarded",
+      "here",
+      "very",
+      "glad",
+      "oblige",
+      "you"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Peyton L. Harrison, 23 September 18491 Your letter has been forwarded to me here–2I would be very glad to oblige you but I have not had any P. M. removed at the request of asingleman– Get up a petition, stating your objections toSmith, and asking the appointment ofGlenn, have it signed by thewhigsof the neighborhood, forward it to me, and I will then get the thing done– This\n\nis the right way, and the way the Department wishes pursued–3",
+    "paragraphs": [
+      "Abraham Lincoln to Peyton L. Harrison, 23 September 18491 Your letter has been forwarded to me here–2I would be very glad to oblige you but I have not had any P. M. removed at the request of asingleman– Get up a petition, stating your objections toSmith, and asking the appointment ofGlenn, have it signed by thewhigsof the neighborhood, forward it to me, and I will then get the thing done– This",
+      "is the right way, and the way the Department wishes pursued–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 20 September 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-09-20; 25 September 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-09-25.",
+      "Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls,  Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:172, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *485;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *545."
+    ],
+    "footnotes": [
+      {
+        "id": "X1D1F37E1-CE59-4F75-B4F6-7F13C4417799",
+        "text": "1Abraham Lincoln wrote and signed this letter.Lincoln was inTazewell Countyattending theTazewell County Circuit Court.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 20 September 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-09-20; 25 September 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-09-25."
+      },
+      {
+        "id": "XB17366CD-F369-42FC-A3AD-3AB77ECFB5DA",
+        "text": "2Peyton L. Harrison’s letter to Lincoln has not been located."
+      },
+      {
+        "id": "X908D8CC7-533E-46D0-853A-282F7A846000",
+        "text": "3The petition Lincoln references has not been located.Lincoln writes Harrison related to the position of postmaster atPleasant Plains, Illinois.In November 1849, James M. Glynn supplanted Henry Smith as postmaster, holding the\n                  job until April 1853, when Smith would replace him.Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls,  Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:172, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *485;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *545."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Peyton L. Harrison, 23 September 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter has been forwarded to me here–2I would be very glad to oblige you but I have not had any P. M.[Postmaster] removed at the request of asingleman–  Get up a petition, stating your objections toSmith, and asking the appointment ofGlenn, have it signed by thewhigsof the neighborhood, forward it to me, and I will then get the thing done–  This\n               is the right way, and the way the Department wishes pursued–3"
+      }
+    ],
+    "word_count": 82
+  },
+  "extraction_date": "2025-12-26 21:20:23",
+  "word_count": 82,
+  "processing": {
+    "cleaned": true,
+    "original_length": 487,
+    "cleaned_length": 459,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

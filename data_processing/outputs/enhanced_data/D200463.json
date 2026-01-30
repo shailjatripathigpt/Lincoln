@@ -1,0 +1,81 @@
+{
+  "document_id": "D200463",
+  "url": "https://papersofabrahamlincoln.org/documents/D200463",
+  "metadata": {
+    "date": "1848-02-21",
+    "authors": [
+      "Young, Richard M."
+    ],
+    "keywords": [
+      "Land titles",
+      "Public lands"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-02-21",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "honor",
+      "you",
+      "patent",
+      "receipt",
+      "richard",
+      "young",
+      "abraham",
+      "transmit",
+      "herewith",
+      "springfield",
+      "mopatent",
+      "favor",
+      "ofjohn",
+      "stringfield",
+      "north"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Richard M. Young to Abraham Lincoln1 I have the honor to transmit to you, herewith,Springfield, MoPatent No6792, in favor ofJohn W. Stringfield, for the East1/2of the North West1/4of section 32, in Township 29, of Range 28, West, being the patent referred to in\n\nmy letter to you of the 19thulto–2 Be pleased to acknowledge the receipt of the patent and cause the Receiver's Receipt\n\nto be surrendered to this office–",
+    "paragraphs": [
+      "Richard M. Young to Abraham Lincoln1 I have the honor to transmit to you, herewith,Springfield, MoPatent No6792, in favor ofJohn W. Stringfield, for the East1/2of the North West1/4of section 32, in Township 29, of Range 28, West, being the patent referred to in",
+      "my letter to you of the 19thulto–2 Be pleased to acknowledge the receipt of the patent and cause the Receiver's Receipt",
+      "to be surrendered to this office–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Plat Book of Lawrence County, Missouri(Rockford, IL: W. W. Hixson, n.d.), 2, 18."
+    ],
+    "footnotes": [
+      {
+        "id": "XBAD96F3B-88B6-4929-92C1-FEC2523B4A25",
+        "text": "1Richard M. Young signed this letter.  The original letter has not been located.  Abraham\n                  Lincoln wrote and signed the endorsement at the bottom of the letter and  addressed\n                  the envelope."
+      },
+      {
+        "id": "XDD4D2B5D-4F9A-414C-9756-74772CA82615",
+        "text": "2Neither the enclosed patent nor Young’s letter of January 19 has been located.  The\n                  land tract was situated in Red Oak Township, Lawrence County, Missouri.Plat Book of Lawrence County, Missouri(Rockford, IL: W. W. Hixson, n.d.), 2, 18."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Richard M. Young to Abraham Lincoln1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the honor to transmit to you, herewith,Springfield, MoPatent No6792, in favor ofJohn W. Stringfield, for the East1/2of the North West1/4of section 32, in Township 29, of Range 28, West, being the patent referred to in\n               my letter to you of the 19thulto–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Be pleased to acknowledge the receipt of the patent and cause the Receiver's Receipt\n               to be surrendered to this office–"
+      }
+    ],
+    "word_count": 70
+  },
+  "extraction_date": "2025-12-26 20:27:20",
+  "word_count": 70,
+  "processing": {
+    "cleaned": true,
+    "original_length": 445,
+    "cleaned_length": 417,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

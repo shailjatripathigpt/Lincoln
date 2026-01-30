@@ -1,0 +1,50 @@
+{
+  "document_id": "D200427",
+  "url": "https://papersofabrahamlincoln.org/documents/D200427",
+  "metadata": {
+    "date": "1847-12-08",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Richardson, William A. (Congressman)"
+    ],
+    "keywords": [
+      "Armed Forces--Officers",
+      "Employment references",
+      "Military appointments"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William A. Richardson and Abraham Lincoln to James K. Polk, 8 December 18471",
+    "paragraphs": [
+      "William A. Richardson and Abraham Lincoln to James K. Polk, 8 December 18471"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X314A36BF-FAEF-4992-AB14-2211E612662E",
+        "text": "1Abraham Lincoln wrote and signed the letter. William A. Richardson signed his own\n                  name only."
+      },
+      {
+        "id": "XBCA58192-37BA-42B6-97C3-AA586CA2CE15",
+        "text": "2The accompanying letters have not been located. It does not appear that Thomas Graham,\n                  Jr.  received a commission."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William A. Richardson and Abraham Lincoln to James K. Polk, 8 December 18471"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 20:24:46",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 76,
+    "cleaned_length": 76,
+    "preserved_originality": true
+  }
+}

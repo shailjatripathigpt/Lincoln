@@ -1,0 +1,77 @@
+{
+  "document_id": "D201044",
+  "url": "https://papersofabrahamlincoln.org/documents/D201044",
+  "metadata": {
+    "date": "1858-07-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-07-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "article",
+      "abraham",
+      "lincoln",
+      "robert",
+      "moseley",
+      "july",
+      "yourletterof",
+      "received",
+      "thank",
+      "herewith",
+      "send",
+      "little",
+      "wish",
+      "published"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Robert Moseley, 2 July 18581 Yourletterof the 29this received, and for which I thank you– Herewith I send a little article which I\n\nwish you would have published in the \"Prarie Beacon\" next week. Besides my own recollection, I have carefully examined the Journals since\n\nI saw you; and I know theeditorwill be entirely safe in publishing the article– Get it into the first paper.2",
+    "paragraphs": [
+      "Abraham Lincoln to Robert Moseley, 2 July 18581 Yourletterof the 29this received, and for which I thank you– Herewith I send a little article which I",
+      "wish you would have published in the \"Prarie Beacon\" next week. Besides my own recollection, I have carefully examined the Journals since",
+      "I saw you; and I know theeditorwill be entirely safe in publishing the article– Get it into the first paper.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Robert Moseley to Abraham Lincoln;The Illinois State Journal(Springfield), 17 November 1858, 2:4; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:483; Allen C. Guelzo, “Houses\n                     Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 394, 416-17; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:556-57."
+    ],
+    "footnotes": [
+      {
+        "id": "X7D070125-E86F-497B-9120-CB2B2C1645A6",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X075F593A-CC7B-45DC-8CAE-67140A227A83",
+        "text": "2Both Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, and the editors searched thePrairie Beacon, without success, for the article that Lincoln notes he enclosed with this letter.\n                  Some of the context for this letter is therefore missing. Robert Moseley’s June 29letterto Lincoln focused onDemocraticinsinuations that theRepublican Partywas composed of radicalabolitionistsbent on emancipation by \"stealing\" and subsequently freeing enslaved persons, and\n                  that Lincoln, as the Republican candidate forStephen A. Douglas’ seat in theU.S. Senate, supported the same. It is possible that the article Lincoln wished Moseley to publish\n                  was related to these insinuations.In local elections for theIllinois General Assembly, which elected U.S. senators in 1858,Edgar County’s voters sent Moseley to theIllinois House of RepresentativesandThomas A. Marshall, another Republican, to theIllinois Senate.Democratsretained a majority in both chambers, however, allowing Douglas to win reelection\n                  to the U.S. Senate in the1858 Federal Election. Through the campaign, however, and in particular through his participation in theLincoln-Douglas Debates, Lincoln gained national recognition as well as standing within the Republican Party.Robert Moseley to Abraham Lincoln;The Illinois State Journal(Springfield), 17 November 1858, 2:4; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:483; Allen C. Guelzo, “Houses\n                     Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 394, 416-17; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:556-57."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Robert Moseley, 2 July 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yourletterof the 29this received, and for which I thank you– Herewith I send a little article which I\n               wish you would have published in the \"Prarie Beacon\" next week. Besides my own recollection, I have carefully examined the Journals since\n               I saw you; and I know theeditorwill be entirely safe in publishing the article– Get it into the first paper.2"
+      }
+    ],
+    "word_count": 68
+  },
+  "extraction_date": "2025-12-26 21:50:53",
+  "word_count": 68,
+  "processing": {
+    "cleaned": true,
+    "original_length": 427,
+    "cleaned_length": 399,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

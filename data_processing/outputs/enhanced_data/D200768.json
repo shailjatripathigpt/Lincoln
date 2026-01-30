@@ -1,0 +1,81 @@
+{
+  "document_id": "D200768",
+  "url": "https://papersofabrahamlincoln.org/documents/D200768",
+  "metadata": {
+    "date": "1853-12-26",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Debtor and creditor"
+    ],
+    "type": "Letter",
+    "extracted_date": "1853-12-26",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "your",
+      "him",
+      "sell",
+      "abraham",
+      "lincoln",
+      "henry",
+      "dummer",
+      "december",
+      "butlerhas",
+      "just",
+      "shown",
+      "letter",
+      "concerning",
+      "thegrubbdebt"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Henry E. Dummer, 26 December 18531 Butlerhas just shown me your letter to him concerning theGrubbdebt;2and, in relation to your intimation that you might be induced to sell it, he desires\n\nme to say to you that, in a few days over three months he issureto get the principal of the debt (without interest) and that after you shall have\n\nreceived this information, he will entertain any proposition you may make, to sell–\n\nPlease write him again–",
+    "paragraphs": [
+      "Abraham Lincoln to Henry E. Dummer, 26 December 18531 Butlerhas just shown me your letter to him concerning theGrubbdebt;2and, in relation to your intimation that you might be induced to sell it, he desires",
+      "me to say to you that, in a few days over three months he issureto get the principal of the debt (without interest) and that after you shall have",
+      "received this information, he will entertain any proposition you may make, to sell–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Butler v. Grubb, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138478."
+    ],
+    "footnotes": [
+      {
+        "id": "XE0FAE411-411F-476E-AA01-E9A674501904",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X0E27C351-EAF3-428B-9B51-FCB721AA3389",
+        "text": "2William Butler had himself previously sued George G. Grubb over an unpaid promissory\n                  note  in November 1845. Lincoln represented Grubb in that case inSangamon County Circuit Courtand with Grubb’s authorization admitted his client’s liability for the debt, resulting\n                  in an award of $226.24 for Butler.Butler v. Grubb, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138478."
+      },
+      {
+        "id": "X0CCA7E49-AD7F-4A5D-A65F-0F7E4FD28FFD",
+        "text": "3An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Henry E. Dummer, 26 December 18531"
+      },
+      {
+        "type": "paragraph",
+        "text": "Butlerhas just shown me your letter to him concerning theGrubbdebt;2and, in relation to your intimation that you might be induced to sell it, he desires\n               me to say to you that, in a few days over three months he issureto get the principal of the debt (without interest) and that after you shall have\n               received this information, he will entertain any proposition you may make, to sell–\n               Please write him again–"
+      }
+    ],
+    "word_count": 80
+  },
+  "extraction_date": "2025-12-26 21:29:05",
+  "word_count": 80,
+  "processing": {
+    "cleaned": true,
+    "original_length": 505,
+    "cleaned_length": 463,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "D200285",
+  "url": "https://papersofabrahamlincoln.org/documents/D200285",
+  "metadata": {
+    "date": "1841-11-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Lawyers--Fees"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt of Abraham Lincoln to John Brodie, 17 November 18411 Received,Springfield,Nov. 17th1841ofJohn Brodie, administrator ofArchibald Hooddeceased, ten dollars, being in full for a fee which said Hood owed me, and also\n               the only debt he owed me—2",
+    "paragraphs": [
+      "Receipt of Abraham Lincoln to John Brodie, 17 November 18411",
+      "Received,Springfield,Nov. 17th1841ofJohn Brodie, administrator ofArchibald Hooddeceased, ten dollars, being in full for a fee which said Hood owed me, and also\n               the only debt he owed me—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Hood v. Gray, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=139254."
+    ],
+    "footnotes": [
+      {
+        "id": "X46655E57-702B-488F-B912-C0D66EA1B903",
+        "text": "1Abraham Lincoln wrote and signed this document."
+      },
+      {
+        "id": "XFAF71AAD-A067-4362-B580-16BBCC9AFF49",
+        "text": "2In March 1840, Hood had retainedStuart & Lincolnto sue for a debt in theSangamon County Circuit Court. The jury found for Hood and awarded $100. Lincoln received $10 for his services\n                  in representing Hood.Hood v. Gray, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=139254."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Abraham Lincoln to John Brodie, 17 November 18411"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received,Springfield,Nov. 17th1841ofJohn Brodie, administrator ofArchibald Hooddeceased, ten dollars, being in full for a fee which said Hood owed me, and also\n               the only debt he owed me—2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:16:14",
+  "word_count": 37
+}

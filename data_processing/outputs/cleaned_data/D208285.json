@@ -1,0 +1,57 @@
+{
+  "document_id": "D208285",
+  "url": "https://papersofabrahamlincoln.org/documents/D208285",
+  "metadata": {
+    "date": "1852-11-29",
+    "authors": [
+      "Cantrall, Thomas C."
+    ],
+    "keywords": [
+      "Promissory notes",
+      "Credit",
+      "Interest",
+      "Mortgage loans",
+      "Debtor and creditor"
+    ],
+    "type": "Promissory note"
+  },
+  "content": {
+    "full_text": "Promissory Note from Thomas C. Cantrall to Abraham Lincoln, 29 November 18521 One year after date I promise to payAbraham LincolnSix hundred and sixty dollars together with interest thereon at the rate of ten per cent per annum from date until paid for value received.2",
+    "paragraphs": [
+      "Promissory Note from Thomas C. Cantrall to Abraham Lincoln, 29 November 18521 One year after date I promise to payAbraham LincolnSix hundred and sixty dollars together with interest thereon at the rate of ten per cent per annum from date until paid for value received.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 75; Gravestone, Canterbury\n                     Cemetery, Cantrall, IL; Deed record, Document ID: 132080,Lincoln wrote mortgage for Cantrall et ux., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141313."
+    ],
+    "footnotes": [
+      {
+        "id": "X7255F38A-383B-4231-A7C8-E146DCF96BC0",
+        "text": "1NeitherThomas C. Cantrallnor Abraham Lincoln wrote or signed this document. It is unclear who wrote the script."
+      },
+      {
+        "id": "XD4D08996-4A3E-487F-8263-E24C734F569E",
+        "text": "2Harry E. Pratt, author ofThe Personal Finances of Abraham Lincoln, claims that, on November 28, 1851, Lincoln loaned Cantrall $600 under the conditions\n                  that it be repaid within two years and was subject to an interest rate of ten percent\n                  per year. Pratt also claims that, to secure this loan, Lincoln assumed a mortgage\n                  on eighty acres of land that Cantrall owned inMenard County, Illinoisand that Lincoln released this mortgage on the same day that this November 29, 1852\n                  promissory note for $660 was created. The 1851 promissory note and mortgage document\n                  Pratt refers to have not been located.Also on November 29, 1852, Cantrall and his wife,Elizabeth W. Cantrall, mortgaged 160 acres of land in Menard County to Lincoln as security on the repayment of the\n                  new debt. After a series of payments were made, the debt was finally cleared on June\n                  22,1858, two years after Thomas C. Cantrall’s death. His brother, Charles S. Cantrall,\n                  who was the administrator of his estate, made the final payment, and, on October 29,\n                  1858, the deed on the land was released back to the Cantrall family.Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 75; Gravestone, Canterbury\n                     Cemetery, Cantrall, IL; Deed record, Document ID: 132080,Lincoln wrote mortgage for Cantrall et ux., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141313."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note from Thomas C. Cantrall to Abraham Lincoln, 29 November 18521"
+      },
+      {
+        "type": "paragraph",
+        "text": "One year after date I promise to payAbraham LincolnSix hundred and sixty dollars together with interest thereon at the rate of ten per cent per annum from date until paid for value received.2"
+      }
+    ],
+    "word_count": 45
+  },
+  "extraction_date": "2025-12-26 21:26:29",
+  "word_count": 45,
+  "processing": {
+    "cleaned": true,
+    "original_length": 269,
+    "cleaned_length": 269,
+    "preserved_originality": true
+  }
+}

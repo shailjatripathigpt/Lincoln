@@ -1,0 +1,71 @@
+{
+  "document_id": "D200106",
+  "url": "https://papersofabrahamlincoln.org/documents/D200106",
+  "metadata": {
+    "date": "1837-05-23",
+    "authors": [
+      "Iles, Washington",
+      "Pasfield, George",
+      "Williams, John (Springfield, IL)"
+    ],
+    "keywords": [
+      "Local government",
+      "Surveying",
+      "Public lands"
+    ],
+    "type": "Report",
+    "extracted_date": "1837-05-23",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "report",
+      "george",
+      "pasfield",
+      "washington",
+      "iles",
+      "john",
+      "williams",
+      "sangamon",
+      "county",
+      "commissioners",
+      "court"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Report of George Pasfield, Washington Iles, and John Williams to the Sangamon County\n\nCommissioners' Court, 23 May 18371",
+    "paragraphs": [
+      "Report of George Pasfield, Washington Iles, and John Williams to the Sangamon County",
+      "Commissioners' Court, 23 May 18371"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sangamon County Commissioners Court Record Book D, p. 326-27, Manuscripts Department,\n                     Abraham Lincoln Presidential Library and Museum, Springfield, IL."
+    ],
+    "footnotes": [
+      {
+        "id": "X4D793A81-D6D9-402D-A240-1C5C126D875E",
+        "text": "1On May 23, the Sangamon County Commissioners Court met and noted that George Pasfield,\n                  Washington Iles, and John Williams had failed to make this report at the March term,\n                  and ordered that they report at the May Term. On May 24, the Court noted  the receipt\n                  of Pasfield, Iles, and Williams’s report.Sangamon County Commissioners Court Record Book D, p. 326-27, Manuscripts Department,\n                     Abraham Lincoln Presidential Library and Museum, Springfield, IL.He was not one of the commissioners, butAbraham Lincolnauthored their report. The commissioners signed their own names. The accompanying\n                  plat and field notes of the survey, which Lincoln may have performed and authored\n                  as well, have not been located."
+      },
+      {
+        "id": "XE9AF209E-D4C9-4C36-9197-BF57DF9D9C4E",
+        "text": "2The area described here is near theSangamon River, approximately four miles north of Springfield."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of George Pasfield, Washington Iles, and John Williams to the Sangamon County\n               Commissioners' Court, 23 May 18371"
+      }
+    ],
+    "word_count": 18
+  },
+  "extraction_date": "2025-12-26 20:05:52",
+  "word_count": 18,
+  "processing": {
+    "cleaned": true,
+    "original_length": 134,
+    "cleaned_length": 120,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

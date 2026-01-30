@@ -1,0 +1,81 @@
+{
+  "document_id": "D200614",
+  "url": "https://papersofabrahamlincoln.org/documents/D200614",
+  "metadata": {
+    "date": "1849-08-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-08-12",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "john",
+      "clayton",
+      "august",
+      "when",
+      "about",
+      "leavingwashingtonlast",
+      "told",
+      "you",
+      "anecdote",
+      "way",
+      "impressing",
+      "your",
+      "memory"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Clayton, 12 August 18491 When I was about leavingWashingtonlast I told you an anecdote by way of impressing on your memory the application ofAllen Francisto be Consul atGlasgow, Scotland–2I very much wish he could be obliged– He is part editor of the oldestpaperin thestate; and, being a practical printer, has worked constantly, setting type for^it^the paper, eighteen years– He is tired, and has a right to be– Hiswifeis a \"Scotchman\" and wishes to visit her father-land–3",
+    "paragraphs": [
+      "Abraham Lincoln to John M.",
+      "Clayton, 12 August 18491 When I was about leavingWashingtonlast I told you an anecdote by way of impressing on your memory the application ofAllen Francisto be Consul atGlasgow, Scotland–2I very much wish he could be obliged– He is part editor of the oldestpaperin thestate; and, being a practical printer, has worked constantly, setting type for^it^the paper, eighteen years– He is tired, and has a right to be– Hiswifeis a \"Scotchman\" and wishes to visit her father-land–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1863(Washington, DC: Government Printing Office, 1864), 3;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1865(Washington, DC: Government Printing Office, 1866), 4."
+    ],
+    "footnotes": [
+      {
+        "id": "XC1EFC17C-6B64-4B1F-B921-C7E3301C1318",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X1BD6E6D5-3878-45EA-A83C-3C303F884E89",
+        "text": "2In aletterto Lincoln on June 12, 1849, Allen Francis enclosed materials which may have been\n                  related to the application Lincoln references. Those enclosed materials, however,\n                  have not been located."
+      },
+      {
+        "id": "X866DB580-4E2D-47CC-B22C-32A4544032C9",
+        "text": "3Francis’ name does not appear in the official registers of the officers and agents\n                  of the government for 1849, 1853, 1855, 1857, or  1859, so apparently, he did not\n                  receive an appointment. Once he was president, however, Lincoln appointed Francis\n                  to the consulate in Victoria, British Columbia,Canada.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1863(Washington, DC: Government Printing Office, 1864), 3;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1865(Washington, DC: Government Printing Office, 1866), 4."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Clayton, 12 August 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "When I was about leavingWashingtonlast I told you an anecdote by way of impressing on your memory the application ofAllen Francisto be Consul atGlasgow, Scotland–2I very much wish he could be obliged– He is part editor of the oldestpaperin thestate; and, being a practical printer, has worked constantly, setting type for^it^the paper, eighteen years– He is tired, and has a right to be– Hiswifeis a \"Scotchman\" and wishes to visit her father-land–3"
+      }
+    ],
+    "word_count": 81
+  },
+  "extraction_date": "2025-12-26 21:20:03",
+  "word_count": 81,
+  "processing": {
+    "cleaned": true,
+    "original_length": 501,
+    "cleaned_length": 501,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

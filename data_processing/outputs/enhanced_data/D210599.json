@@ -1,0 +1,71 @@
+{
+  "document_id": "D210599",
+  "url": "https://papersofabrahamlincoln.org/documents/D210599",
+  "metadata": {
+    "date": "1854-12-08",
+    "authors": [
+      "Duncan, Charles L."
+    ],
+    "keywords": [
+      "Elections",
+      "Political candidates",
+      "Fraud"
+    ],
+    "type": "Letter",
+    "extracted_date": "1854-12-08",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "defeat",
+      "vote",
+      "all",
+      "see",
+      "one",
+      "there",
+      "archer",
+      "you",
+      "charles",
+      "duncan",
+      "abraham",
+      "lincoln",
+      "december",
+      "absence",
+      "ofcol"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Charles L. Duncan to Abraham Lincoln, 8 December 18541 In the absence ofCol ArcherI oppened your letter giving the official vote of this congressional District by which we regret\n\nto see his defeat by one vote.2We all think, there has been fraud in theClay Countyvote, we recd letters from Gentlemen of standing in thatcounty— stating the vote of MrAllen533 Archer 347 and now Archer vote is not changed a vote, whilst MrAllen vote is increased sixty.3I wish you would take the trouble to see how stands the vote betweenMooreandMillerin thatcountyand let us know all the vote.4MrConstablewho has been toMt VernonattendingCourt, came home last night, and says no one in Clay Co, pretends that Allen vote is more than 186 Maj— he conversed with those who were present at the counting of the vote, and they all\n\nconcur in say^ing^186,– Should we however be wrong in thinking there has been cheating— we have ample\n\ngrounds for contesting– hoping to hear from you soon I am drsir",
+    "paragraphs": [
+      "Charles L. Duncan to Abraham Lincoln, 8 December 18541 In the absence ofCol ArcherI oppened your letter giving the official vote of this congressional District by which we regret",
+      "to see his defeat by one vote.2We all think, there has been fraud in theClay Countyvote, we recd letters from Gentlemen of standing in thatcounty— stating the vote of MrAllen533 Archer 347 and now Archer vote is not changed a vote, whilst MrAllen vote is increased sixty.3I wish you would take the trouble to see how stands the vote betweenMooreandMillerin thatcountyand let us know all the vote.4MrConstablewho has been toMt VernonattendingCourt, came home last night, and says no one in Clay Co, pretends that Allen vote is more than 186 Maj— he conversed with those who were present at the counting of the vote, and they all",
+      "concur in say^ing^186,– Should we however be wrong in thinking there has been cheating— we have ample",
+      "grounds for contesting– hoping to hear from you soon I am drsir"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Newton Bateman and Paul Selby, eds.,Historical Encyclopedia of Illinois and History of Clark County, ed. by H. C. Bell (Chicago: Middle West, 1907), 22; Howard W. Allen and Vincent\n                     A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10, 11,\n                     135.",
+      "Richard Lawrence Miller,Lincoln and His World: Volume 4, The Path to the Presidency, 1854-1860(Jefferson, NC: McFarland, 2012), 60;Illinois Daily Journal(Springfield), 17 November 1854, 2:1"
+    ],
+    "footnotes": [],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Charles L. Duncan to Abraham Lincoln, 8 December 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "In the absence ofCol ArcherI oppened your letter giving the official vote of this congressional District by which we regret\n               to see his defeat by one vote.2We all think, there has been fraud in theClay Countyvote, we recd[received] letters from Gentlemen of standing in thatcounty— stating the vote of MrAllen533 Archer 347 and now Archer vote is not changed a vote, whilst MrAllen vote is increased sixty.3I wish you would take the trouble to see how stands the vote betweenMooreandMillerin thatcountyand let us know all the vote.4MrConstablewho has been toMt VernonattendingCourt, came home last night, and says no one in Clay Co[County], pretends that Allen vote is more than 186 Maj[Majority]— he conversed with those who were present at the counting of the vote, and they all\n               concur in say^ing^186,–   Should we however be wrong in thinking there has been cheating— we have ample\n               grounds for contesting–  hoping to hear from you soon I am drsir"
+      }
+    ],
+    "word_count": 165
+  },
+  "extraction_date": "2025-12-26 21:32:24",
+  "word_count": 165,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1048,
+    "cleaned_length": 975,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

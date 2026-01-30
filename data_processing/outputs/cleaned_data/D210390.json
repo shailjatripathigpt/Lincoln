@@ -1,0 +1,68 @@
+{
+  "document_id": "D210390",
+  "url": "https://papersofabrahamlincoln.org/documents/D210390",
+  "metadata": {
+    "date": "1849-03-31",
+    "authors": [
+      "Warren, Fitz Henry"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Fitz Henry Warren to Abraham Lincoln, 31 March 18491 R. S. Updike.the Postmaster atTremontCounty ofTazewellState ofIllinois, has resigned, and recommends Dr.Alanson Stockwellas his successor– Sixty one Citizens have, in a petition, recommendedDavid Roberts. Peter Menardthinks Dr.Stockwellis not a proper person for Postmaster, on account of his being a practicing Physician,\n\n& prefers MrRoberts2 Before submitting this Case to thePostmaster General, I have to request the favor of any information you may possess, or be able conveniently\n\nto obtain, respecting it.",
+    "paragraphs": [
+      "Fitz Henry Warren to Abraham Lincoln, 31 March 18491 R. S. Updike.the Postmaster atTremontCounty ofTazewellState ofIllinois, has resigned, and recommends Dr.Alanson Stockwellas his successor– Sixty one Citizens have, in a petition, recommendedDavid Roberts. Peter Menardthinks Dr.Stockwellis not a proper person for Postmaster, on account of his being a practicing Physician,",
+      "& prefers MrRoberts2 Before submitting this Case to thePostmaster General, I have to request the favor of any information you may possess, or be able conveniently"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Benjamin F. James to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *489;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 550*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), *520;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855), 346*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857), 346*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859), 74*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1861(Washington, DC: Government Printing Office, 1862), 376*."
+    ],
+    "footnotes": [
+      {
+        "id": "X5A84A945-E53A-4AD1-9CDC-950CB8DAD1C5",
+        "text": "1Fitz Henry Warren signed his name to this form letter."
+      },
+      {
+        "id": "X8ED3001E-832D-461D-902F-15F6805335DA",
+        "text": "2Abraham Lincoln preferred David Roberts and recommended him for the position.  Roberts\n                  received the appointment in May 1849 and held the job until 1860.Benjamin F. James to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *489;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 550*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), *520;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855), 346*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857), 346*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859), 74*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1861(Washington, DC: Government Printing Office, 1862), 376*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fitz Henry Warren to Abraham Lincoln, 31 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "R. S. Updike.the Postmaster atTremontCounty ofTazewellState ofIllinois, has resigned, and recommends Dr.Alanson Stockwellas his successor–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sixty one Citizens have, in a petition, recommendedDavid Roberts."
+      },
+      {
+        "type": "paragraph",
+        "text": "Peter Menardthinks Dr.Stockwellis not a proper person for Postmaster, on account of his being a practicing Physician,\n               & prefers MrRoberts2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before submitting this Case to thePostmaster General, I have to request the favor of any information you may possess, or be able conveniently\n                        to obtain, respecting it."
+      }
+    ],
+    "word_count": 80
+  },
+  "extraction_date": "2025-12-26 20:39:13",
+  "word_count": 80,
+  "processing": {
+    "cleaned": true,
+    "original_length": 603,
+    "cleaned_length": 566,
+    "preserved_originality": true
+  }
+}

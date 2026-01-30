@@ -1,0 +1,82 @@
+{
+  "document_id": "D200135",
+  "url": "https://papersofabrahamlincoln.org/documents/D200135",
+  "metadata": {
+    "date": "1838-04-20",
+    "authors": [
+      "Crain, James W."
+    ],
+    "keywords": [
+      "Attorney and client"
+    ],
+    "type": "Agreement",
+    "extracted_date": "1838-04-20",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "cause",
+      "succeed",
+      "said",
+      "promise",
+      "pay",
+      "them",
+      "saidstuart",
+      "lincolnthe",
+      "sum",
+      "hundred",
+      "dollars",
+      "recovery",
+      "contingent",
+      "fee",
+      "agreement"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Contingent Fee Agreement and Promissory Note of James W. Crain to Stuart & Lincoln,\n\n20 April 18381 WhereasJohn T. StuartandAbraham Lincolnhave engaged as attorneys in my behalf in a cause now pending in the chancery side\n\nof theTazewell county circuit courtin which I am complainant and the heirs ofLewis F Craindeceased and others are defendants, therefore if I shall succeed to the full extent\n\nof my claim in said case, I promise to pay them, the saidStuart & Lincolnthe sum of five hundred dollars; but if I should not succeed in the recovery of the\n\nproperty mentioned in said cause as having been purchased ofPeter Menard, but shall succeed in the recovery of all the ballancenamed^claimed^, in said cause, then I promise to pay them the saidStuart & Lincolnthe sum of three hundred dollars–2",
+    "paragraphs": [
+      "Contingent Fee Agreement and Promissory Note of James W. Crain to Stuart & Lincoln,",
+      "20 April 18381 WhereasJohn T. StuartandAbraham Lincolnhave engaged as attorneys in my behalf in a cause now pending in the chancery side",
+      "of theTazewell county circuit courtin which I am complainant and the heirs ofLewis F Craindeceased and others are defendants, therefore if I shall succeed to the full extent",
+      "of my claim in said case, I promise to pay them, the saidStuart & Lincolnthe sum of five hundred dollars; but if I should not succeed in the recovery of the",
+      "property mentioned in said cause as having been purchased ofPeter Menard, but shall succeed in the recovery of all the ballancenamed^claimed^, in said cause, then I promise to pay them the saidStuart & Lincolnthe sum of three hundred dollars–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008),  1:55-56;Crain v. Crain et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136365."
+    ],
+    "footnotes": [
+      {
+        "id": "X6750C1E4-D6A4-4F8F-A328-A137B1A20ADE",
+        "text": "1Abraham Lincoln wrote the text of the continent fee agreement and the date, and he\n                  also penned the text of the promissory note."
+      },
+      {
+        "id": "X9E4974ED-351A-4A54-AFB1-CFB064E71F48",
+        "text": "2James Crain dismissed the case in September 1838, perhaps after a settlement of some\n                  sort. Unfortunately, there is no record of any settlement or information regarding\n                  the result of the contingency agreement in this case. Continency agreements were somewhat\n                  rare in the practice of law  during the first half of the nineteenth-century, but\n                  there were at least fifteen cases that Lincoln  handled during his law career in which\n                  he or his partners accepted one.Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008),  1:55-56;Crain v. Crain et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136365."
+      },
+      {
+        "id": "X4C918907-4B95-4FAA-8604-CD9B6B6B6BDA",
+        "text": "3Given that Crain dismissed his suit, it is highly probable that neither the $300 nor\n                  the $500 contingency came through for Stuart & Lincoln.  Therefore, this $25 promissory\n                  note   probably represented the fee Crain paid them for their legal services in his\n                  case."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Contingent Fee Agreement and Promissory Note of James W. Crain to Stuart & Lincoln,\n               20 April 18381"
+      },
+      {
+        "type": "paragraph",
+        "text": "WhereasJohn T. StuartandAbraham Lincolnhave engaged as attorneys in my behalf in a cause now pending in the chancery side\n               of theTazewell county circuit courtin which I am complainant and the heirs ofLewis F   Craindeceased and others are defendants, therefore if I shall succeed to the full extent\n               of my claim in said case, I promise to pay them, the saidStuart & Lincolnthe sum of five hundred dollars; but if I should not succeed in the recovery of the\n               property mentioned in said cause as having been purchased ofPeter Menard, but shall succeed in the recovery of all the ballancenamed^claimed^,   in said cause, then I promise to pay them the saidStuart & Lincolnthe sum of three hundred dollars–2"
+      }
+    ],
+    "word_count": 134
+  },
+  "extraction_date": "2025-12-26 20:07:07",
+  "word_count": 134,
+  "processing": {
+    "cleaned": true,
+    "original_length": 859,
+    "cleaned_length": 799,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

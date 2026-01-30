@@ -1,0 +1,73 @@
+{
+  "document_id": "D200048",
+  "url": "https://papersofabrahamlincoln.org/documents/D200048",
+  "metadata": {
+    "date": "1835-01-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Animal industry",
+      "Livestock brands",
+      "Cattle--Marking"
+    ],
+    "type": "Bill",
+    "extracted_date": "1835-01-17",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "out",
+      "section",
+      "after",
+      "amendment",
+      "bill",
+      "concerning",
+      "marks",
+      "brands",
+      "strike",
+      "all",
+      "first",
+      "enacting",
+      "clause",
+      "prefix",
+      "word"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill Concerning Marks and Brands”, 1 Strike out all of the first section after the enacting clause—Prefix the word \"that\" to the second sectionInsertAnnex to the third Section the following (viz) That each certificate so made out shall\n\nbe filed with the clerk of thecounty commissioners courtwithin ten days after obtaining the same",
+    "paragraphs": [
+      "Amendment to “A Bill Concerning Marks and Brands”, 1 Strike out all of the first section after the enacting clause—Prefix the word \"that\" to the second sectionInsertAnnex to the third Section the following (viz) That each certificate so made out shall",
+      "be filed with the clerk of thecounty commissioners courtwithin ten days after obtaining the same"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 177, 242, 253, 315, 330, 342, 355, 365-66, 376, 465;\n                     \n                     Illinois SenateJournal. 1835. 9th G. A., 1st sess., 326, 350, 357, 392, 436, 441, 454; Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 381, 398, 411."
+    ],
+    "footnotes": [
+      {
+        "id": "X012258D2-A0C4-4762-AE40-FEC5B0866D86",
+        "text": "1Abraham Lincoln authored the entirety of this document.On December 29, 1834, theHouse of Representativespassed a resolution instructing the Committee of Propositions and Grievances to investigate\n                  the statute on marks and brands.  In response to this resolution,Stinson H. Andersonfrom the Committee on Propositions and Grievances introducedHB 85in the House on January 7, 1835.  On January 8, the House referred the bill to a\n                  three-person select committee that includedAbraham Lincoln.  The select committee reported back the bill on January 17 with these amendments,\n                  in which the House concurred.  On January 19, the House amended thebillby adding a proviso.  The House referred the bill and amendment to a second select\n                  committee, which reported back the bill on January 21 with amendments.  The House\n                  tabled the bill and amendments.  On January 22, the House took up the bill and amended\n                  the proviso.  The House concurred in the select committee’s other amendments.  Representatives\n                  proposed additional amendments, and the House referred the bill and proposed amendments\n                  to a third select committee.  The select committee reported back the bill on January\n                  23 with anamendmentin the form of a substitute, in which the House concurred.  The House passed the\n                  substitutebillon January 24.  The Senate passed the bill on January 31.  On February 6, theCouncil of Revisionapproved the bill, and theactbecame law.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 177, 242, 253, 315, 330, 342, 355, 365-66, 376, 465;\n                     \n                     Illinois SenateJournal. 1835. 9th G. A., 1st sess., 326, 350, 357, 392, 436, 441, 454; Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 381, 398, 411."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill Concerning Marks and Brands”, [17 January 1835]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Strike out all of the first section after the enacting clause—Prefix the word \"that\" to the second sectionInsertAnnex to the third Section the following (viz) That each certificate so made out shall\n               be filed with the clerk of thecounty commissioners courtwithin ten days after obtaining the same"
+      }
+    ],
+    "word_count": 56
+  },
+  "extraction_date": "2025-12-26 20:02:25",
+  "word_count": 58,
+  "processing": {
+    "cleaned": true,
+    "original_length": 380,
+    "cleaned_length": 349,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "D200198",
+  "url": "https://papersofabrahamlincoln.org/documents/D200198",
+  "metadata": {
+    "date": "1840-01-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military pensions"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "Fragment of an Amendment to a Bill to Amend “An Act concerning the Public Revenue,”\n\nApproved February 1839, 1 A bill for an act exempting Revolutionary pensioners from taxation\n\non loaned money— . . . mors . . . ted . . . in . . .. That hereafter all Revolutionary pensioners within thisstate, shall be permitted to loan all or any part of the money which they may have acquired\n\nexclusively by means of their pensions, without paying any tax whatever, therefor— The assessors of the several counties within this state, shall take the production\n\nof the regular pension\n\ncertificate from theWar officeof the United States, as sufficient evidence, that the person therein\n\nshown to be a Revolutionary pensioner is a Revolutionary pensioner; and shall then\n\ntake the statement\n\nupon honor of such pensioner, as sufficient evidence of the facts whether he has any\n\nmoney loaned other\n\nthan that acquired by means of his pension, and if so, how much, and on all other\n\nquestions deemed\n\nnecessary and proper under this act—",
+    "paragraphs": [
+      "Fragment of an Amendment to a Bill to Amend “An Act concerning the Public Revenue,”",
+      "Approved February 1839, 1 A bill for an act exempting Revolutionary pensioners from taxation",
+      "on loaned money— . . . mors . . . ted . . . in . . .. That hereafter all Revolutionary pensioners within thisstate, shall be permitted to loan all or any part of the money which they may have acquired",
+      "exclusively by means of their pensions, without paying any tax whatever, therefor— The assessors of the several counties within this state, shall take the production",
+      "certificate from theWar officeof the United States, as sufficient evidence, that the person therein",
+      "shown to be a Revolutionary pensioner is a Revolutionary pensioner; and shall then",
+      "upon honor of such pensioner, as sufficient evidence of the facts whether he has any",
+      "than that acquired by means of his pension, and if so, how much, and on all other",
+      "necessary and proper under this act—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 116-17, 260, 318-19; Illinois SenateJournal. 1839. 11th G. A., special sess., 210."
+    ],
+    "footnotes": [
+      {
+        "id": "XA9714A93-2725-4701-BC7E-33D99BF4E5D4",
+        "text": "1Abraham Lincoln wrote the text of this bill as well as the bill’s title on page two.\n                  The title and the enacting clause have been torn off the document.Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, dated “An Act concerning Public Revenue,\" February 1837, but evidence clearing show\n                  that theactbecame law in February 1839.On January 2, 1840, Lincoln introduced this as an individual bill entitled “A Bill\n                  for an Act Exempting Revolutionary Pensioners from Taxation on Loan Money” immediately\n                  afterPeter Greenintroduced abillentitled “A Bill to Amend ‘An Act concerning the Public Revenue,’ Approved February\n                  26, 1839.”  \n                  Lincoln moved his bill as an amendment adding an additional section to Green’s bill.\n                  The House adopted, and referred the bill as amended to the Committee on Finance, of\n                  which Lincoln was a member.  Both the House and Senate  eventually passed Green’s\n                  bill, and theactbecame law without Lincoln’s amendment concerning Revolutionary pensioners.Illinois HouseJournal. 1839. 11th G. A., special sess., 116-17, 260, 318-19; Illinois SenateJournal. 1839. 11th G. A., special sess., 210."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fragment of an Amendment to a Bill to Amend “An Act concerning the Public Revenue,”\n               Approved February 1839, [2 January 1840]1"
+      },
+      {
+        "type": "description",
+        "text": "A bill for an act exempting Revolutionary pensioners from taxation\n               on loaned money—"
+      },
+      {
+        "type": "paragraph",
+        "text": ". . . mors . . . ted . . .  in . . .. That hereafter all Revolutionary pensioners within thisstate, shall be permitted to loan all or any part of the money which they may have acquired\n               exclusively by means of their pensions, without paying any tax whatever, therefor—"
+      },
+      {
+        "type": "paragraph",
+        "text": "The assessors of the several counties within this state, shall take the production\n               of the regular pension\n               certificate from theWar officeof the United States, as sufficient evidence, that the person therein\n               shown to be a Revolutionary pensioner is a Revolutionary pensioner; and shall then\n               take the statement\n               upon honor of such pensioner, as sufficient evidence of the facts whether he has any\n               money loaned other\n               than that acquired by means of his pension, and if so, how much, and on all other\n               questions deemed\n               necessary and proper under this act—"
+      }
+    ],
+    "word_count": 173
+  },
+  "extraction_date": "2025-12-26 20:10:54",
+  "word_count": 175,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1205,
+    "cleaned_length": 1020,
+    "preserved_originality": true
+  }
+}

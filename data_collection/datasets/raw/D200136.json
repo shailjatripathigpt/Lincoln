@@ -1,0 +1,57 @@
+{
+  "document_id": "D200136",
+  "url": "https://papersofabrahamlincoln.org/documents/D200136",
+  "metadata": {
+    "date": "1838-06-18",
+    "authors": [],
+    "keywords": [
+      "Circuit courts",
+      "Courthouses",
+      "Rent"
+    ],
+    "type": "Account"
+  },
+  "content": {
+    "full_text": "Account of Stuart & Lincoln to Sangamon County, Illinois, 18 June 18381 The county of Sangamon ToStuart & LincolnDr[Debere] To furnishing room for Grand an Petit Juries at July & October terms of 1837– and\n               March term of 1838—",
+    "paragraphs": [
+      "Account of Stuart & Lincoln to Sangamon County, Illinois, 18 June 18381",
+      "The county of Sangamon",
+      "ToStuart & LincolnDr[Debere]",
+      "To furnishing room for Grand an Petit Juries at July & October terms of 1837– and\n               March term of 1838—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Stuart & Lincoln rented office to Sangamon County Circuit Court, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141179."
+    ],
+    "footnotes": [
+      {
+        "id": "XF5C990C2-D360-4F3B-AC7E-62D27035233E",
+        "text": "1Abraham Lincoln wrote this account in its entirety."
+      },
+      {
+        "id": "X470EB383-40EF-4980-9ACF-5C4267E9787D",
+        "text": "2Stuart and Lincoln rented their office as a jury room for grand and petit juries of\n                  theSangamon County Circuit Court.  The court paid them $36 per year in rent between July 1837 and December 1840.Stuart & Lincoln rented office to Sangamon County Circuit Court, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141179."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Account of Stuart & Lincoln to Sangamon County, Illinois, 18 June 18381"
+      },
+      {
+        "type": "paragraph",
+        "text": "The county of Sangamon"
+      },
+      {
+        "type": "paragraph",
+        "text": "ToStuart & LincolnDr[Debere]"
+      },
+      {
+        "type": "paragraph",
+        "text": "To furnishing room for Grand an Petit Juries at July & October terms of 1837– and\n               March term of 1838—"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:07:26",
+  "word_count": 39
+}

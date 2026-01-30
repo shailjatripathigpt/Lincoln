@@ -1,0 +1,61 @@
+{
+  "document_id": "D200606",
+  "url": "https://papersofabrahamlincoln.org/documents/D200606",
+  "metadata": {
+    "date": "1849-07-05",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Thomas Ewing, 5 July 18491 I have a friend here,William Porter, who desires the job of examining theLand Officesin the North-West, if such a job is to be given out. I also desire him to have it;\n\nand while atWashingtonI filed a letter of his, with my indorsement upon it to that effect.2I do not know that a citizen of my district, or even ofIllinois, is to receive this little favor; and if not, I have no preference to express between\n\napplicants elsewhere. What I do ask is, that, if any citizen of my district, andparticularlyof my owntown, is to receive it, MrPorter may be the man–3",
+    "paragraphs": [
+      "Abraham Lincoln to Thomas Ewing, 5 July 18491 I have a friend here,William Porter, who desires the job of examining theLand Officesin the North-West, if such a job is to be given out. I also desire him to have it;",
+      "and while atWashingtonI filed a letter of his, with my indorsement upon it to that effect.2I do not know that a citizen of my district, or even ofIllinois, is to receive this little favor; and if not, I have no preference to express between",
+      "applicants elsewhere. What I do ask is, that, if any citizen of my district, andparticularlyof my owntown, is to receive it, MrPorter may be the man–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Thomas Ewing to Abraham Lincoln;Thomas Ewing to Abraham Lincoln; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851)."
+    ],
+    "footnotes": [
+      {
+        "id": "X6F084584-ED16-4A31-B09C-1C99D2DE669B",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X4A0A50F9-C51A-485D-A72E-7D4C8636C86A",
+        "text": "2Lincoln filed aletterWilliam Porter wrote him, along with his endorsement of Porter, with theU.S. Department of the InteriorJune 23, 1849."
+      },
+      {
+        "id": "X9CB348A2-E9CE-44E3-A8E1-0FFD24FBB866",
+        "text": "3Springfield and the other towns inSangamon Countywere part of the Seventh Congressional District.Thomas Ewing replied to this letter on July 16, 1849. Porter does not appear in the\n                  official registers of the officers and agents of the federal government for 1849 and\n                  1851, so apparently he did not receive an appointment.Thomas Ewing to Abraham Lincoln;Thomas Ewing to Abraham Lincoln; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Thomas Ewing, 5 July 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have a friend here,William Porter, who desires the job of examining theLand Officesin the North-West, if such a job is to be given out. I also desire him to have it;\n               and while atWashingtonI filed a letter of his, with my indorsement upon it to that effect.2I do not know that a citizen of my district, or even ofIllinois, is to receive this little favor; and if not, I have no preference to express between\n               applicants elsewhere. What I do ask is, that, if any citizen of my district, andparticularlyof my owntown, is to receive it, MrPorter may be the man–3"
+      }
+    ],
+    "word_count": 110
+  },
+  "extraction_date": "2025-12-26 21:19:49",
+  "word_count": 110,
+  "processing": {
+    "cleaned": true,
+    "original_length": 635,
+    "cleaned_length": 607,
+    "preserved_originality": true
+  }
+}

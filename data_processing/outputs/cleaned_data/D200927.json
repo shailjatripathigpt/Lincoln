@@ -1,0 +1,59 @@
+{
+  "document_id": "D200927",
+  "url": "https://papersofabrahamlincoln.org/documents/D200927",
+  "metadata": {
+    "date": "1856-10-21",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Presidents--Election",
+      "Political campaigns",
+      "Politics and government"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Abraham Jonas, 21 October 18561 I am here atcourt, and find myself so “hobbled” with a particular case, that I can not leave, & consequently, can not be with you on the 23rd, I regret this exceedingly, but there is no help for it–2Please make the best appology, for me, in your power–",
+    "paragraphs": [
+      "Abraham Lincoln to Abraham Jonas, 21 October 18561 I am here atcourt, and find myself so “hobbled” with a particular case, that I can not leave, & consequently, can not be with you on the 23rd, I regret this exceedingly, but there is no help for it–2Please make the best appology, for me, in your power–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Isaac Markens,Abraham Lincoln and the Jews(New York: Isaac Markens, 1909), 17-18;Spink v. Chiniquy, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136641;The Weekly Pantagraph(Bloomington, IL), 5 November 1856, 2:3; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 1 November 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-11-01."
+    ],
+    "footnotes": [
+      {
+        "id": "XEC123B5A-2B5C-4158-801C-2329A6BFDC12",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XFCD6034F-E8AE-403A-964A-F57290665609",
+        "text": "2A letter of invitation from Abraham Jonas to Lincoln, if one was penned, has not been\n                  found. Jonas lived inQuincy, Illinois, at the time.On the day Lincoln wrote this letter, he was representingCharles Chiniquyin the slander caseSpink v. Chiniquyin theChampaign County Circuit Court.    Chiniquy, aCatholicpriest, allegedly continued to tell his congregation thatPeter Spinkhad committed perjury after Spink had been acquitted. Spink accused Chiniquy of slander\n                  in the Kankakee County Circuit Court and requested $10,000 in damages. After a change\n                  of venue to the Champaign County Circuit Court, Chiniquy retained Lincoln for his\n                  defense. Lincoln managed to settle the case before it went to trial and it was dismissed\n                  in October 1856.Lincoln attended and spoke at aRepublicanrally inAtlantaon October 23. Between July and November 1856, Lincoln crisscrossed Illinois canvassing\n                  on behalf of Republican Party candidates for political office. He delivered over fifty\n                  speeches in support of the Republican cause. See the1856 Federal Election.Isaac Markens,Abraham Lincoln and the Jews(New York: Isaac Markens, 1909), 17-18;Spink v. Chiniquy, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136641;The Weekly Pantagraph(Bloomington, IL), 5 November 1856, 2:3; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 1 November 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-11-01."
+      },
+      {
+        "id": "X562BC6F8-6B68-4B90-B6E6-435AA421D6FB",
+        "text": "3An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Abraham Jonas, 21 October 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am here atcourt, and find myself so “hobbled” with a particular case, that I can not leave, & consequently, can not be with you on the 23rd, I regret this exceedingly, but there is no help for it–2Please make the best appology, for me, in your power–"
+      }
+    ],
+    "word_count": 56
+  },
+  "extraction_date": "2025-12-26 21:42:58",
+  "word_count": 56,
+  "processing": {
+    "cleaned": true,
+    "original_length": 303,
+    "cleaned_length": 303,
+    "preserved_originality": true
+  }
+}

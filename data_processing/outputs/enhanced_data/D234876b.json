@@ -1,0 +1,75 @@
+{
+  "document_id": "D234876b",
+  "url": "https://papersofabrahamlincoln.org/documents/D234876b",
+  "metadata": {
+    "date": "1855-03-02",
+    "authors": [
+      "Hay, Nathaniel"
+    ],
+    "keywords": [
+      "Promissory notes",
+      "Debtor and creditor"
+    ],
+    "type": "Promissory note",
+    "extracted_date": "1855-03-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "promissory",
+      "note",
+      "nathaniel",
+      "hay",
+      "abraham",
+      "lincoln",
+      "march",
+      "ninth",
+      "day",
+      "april",
+      "next",
+      "promise",
+      "paya",
+      "lincolntwo",
+      "hundred"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Promissory Note of Nathaniel Hay to Abraham Lincoln, 2 March 18551 On the ninth day of April next I promise to payA. Lincolntwo hundred dollars, with ten per cent interest after due until paid, for value Received2",
+    "paragraphs": [
+      "Promissory Note of Nathaniel Hay to Abraham Lincoln, 2 March 18551 On the ninth day of April next I promise to payA. Lincolntwo hundred dollars, with ten per cent interest after due until paid, for value Received2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln filed claim against Hay’s estate, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141352; Sangamon County Record of Letters and Wills, Microfilm Publication, Roll 66, 1855-1857,\n                     3:130-32, Illinois Regional Archives Depository, University of Illinois Springfield;\n                     Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: The Abraham Lincoln Association, 1943), 72-73."
+    ],
+    "footnotes": [
+      {
+        "id": "XD505EB48-F0DD-462F-AA08-B2A3E45E6C03",
+        "text": "1An unknown person wrote this handwritten transcription. Abraham Lincoln produced anotherversionof this promissory note in his own hand."
+      },
+      {
+        "id": "XFF092839-DC65-49E8-9C03-316B33A8344B",
+        "text": "2In April 1849, Nathaniel Hay borrowed $200 from Lincoln. Hay gave Lincoln a promissory\n                  note for $200 at six percent interest for the first six months and ten percent thereafter.\n                  Over a period of six years, Hay repaid Lincoln with small amounts of cash and in-kind\n                  services. Hay also paid Lincoln for legal fees in a number of cases in which Lincoln\n                  was his attorney. On this date, Lincoln and Hay settled the debt. Hay gave Lincoln\n                  this promissory note and adue-billfor the balance of interest due. Hay died intestate on February 4, 1856, and his\n                  brother,Milton Hay, and brother-in-law,Joshua F. Amos, were appointed administrators for his estate. On June 9, 1856 Lincoln filed aclaimfor $240 against Hay’s estate, amounting to the principal of this promissory note\n                  plus interest. Amos paid Lincoln $225 on May 16, 1857, of which Lincoln deposited $200 into his account at\n                  theSpringfield Marine and Fire Insurance Company.Lincoln filed claim against Hay’s estate, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141352; Sangamon County Record of Letters and Wills, Microfilm Publication, Roll 66, 1855-1857,\n                     3:130-32, Illinois Regional Archives Depository, University of Illinois Springfield;\n                     Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: The Abraham Lincoln Association, 1943), 72-73."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note of Nathaniel Hay to Abraham Lincoln, 2 March 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "On the ninth day of April next I promise to payA. Lincolntwo hundred dollars, with ten per cent interest after due until paid, for value Received2"
+      }
+    ],
+    "word_count": 37
+  },
+  "extraction_date": "2025-12-26 21:35:33",
+  "word_count": 37,
+  "processing": {
+    "cleaned": true,
+    "original_length": 213,
+    "cleaned_length": 213,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

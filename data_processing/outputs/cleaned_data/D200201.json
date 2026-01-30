@@ -1,0 +1,64 @@
+{
+  "document_id": "D200201",
+  "url": "https://papersofabrahamlincoln.org/documents/D200201",
+  "metadata": {
+    "date": "1840-01-18",
+    "authors": [],
+    "keywords": [
+      "Real property and taxation",
+      "Tax assessment",
+      "Municipal corporations"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "A Bill for the Relief of Incorporated Towns, 1 1Be it enacted by the People of the state ofIllinoisrepresented in theGeneral Assembly—That hereafter in the assessment of^real^propertyit shall be the duty of the assessorsmade under the provisions of thelawact entitled\"an act concerning the Public Revenue\"approved Feby 26th1839, it shall be the duty of the assessors to put in a separate column all such^real^property as may be assessed in incorporated towns—2 2Real estate situate in incorporated towns shall^pay a state tax but shall^not hereafter be taxed for county purposes– And it shall be lawful for the President\n\n& Trustees\n\nof towns to assess such taxes on the real estate situate within the limits of their\n\nrespective\n\nincorporated towns as to them may seem proper not exceeding one half of one per cent—3",
+    "paragraphs": [
+      "A Bill for the Relief of Incorporated Towns, 1 1Be it enacted by the People of the state ofIllinoisrepresented in theGeneral Assembly—That hereafter in the assessment of^real^propertyit shall be the duty of the assessorsmade under the provisions of thelawact entitled\"an act concerning the Public Revenue\"approved Feby 26th1839, it shall be the duty of the assessors to put in a separate column all such^real^property as may be assessed in incorporated towns—2 2Real estate situate in incorporated towns shall^pay a state tax but shall^not hereafter be taxed for county purposes– And it shall be lawful for the President",
+      "of towns to assess such taxes on the real estate situate within the limits of their",
+      "incorporated towns as to them may seem proper not exceeding one half of one per cent—3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess.,   141, 143, 202.",
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 202."
+    ],
+    "footnotes": [
+      {
+        "id": "XA49239A6-4C08-4F34-903C-90F934C8A855",
+        "text": "1John Henryintroduced the bill in theHouse of Representativeson January 9, 1840.  On January 10, the House referred the bill to the Committee\n                  on Finance, of whichAbraham Lincolnwas a member.  The Committee on Finance reported back the bill on January 18 with\n                  anamendment, and the House tabled the bill and proposed amendment.Illinois HouseJournal. 1839. 11th G. A., special sess.,   141, 143, 202."
+      },
+      {
+        "id": "X11858178-220E-41A1-8DE4-9B196BBD7139",
+        "text": "2The originalactonly ordered assessors to specify the county in which the property was located."
+      },
+      {
+        "id": "XD2D8C664-7667-450B-B4D8-7406803EB9C0",
+        "text": "3On January 18, 1839, the House Committee on Finance proposed anamendmentto strike out this section and replace it with a new second section.Illinois HouseJournal. 1839. 11th G. A., special sess., 202."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "A Bill for the Relief of Incorporated Towns, [18 January 1840]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "1Be it enacted by the People of the state ofIllinoisrepresented in theGeneral Assembly—That hereafter in the assessment of^real^propertyit shall be the duty of the assessorsmade under the provisions of thelawact entitled\"an act concerning the Public Revenue\"approved Feby[February] 26th1839, it shall be the duty of the assessors to put in a separate column all such^real^property as may be assessed in incorporated towns—2"
+      },
+      {
+        "type": "paragraph",
+        "text": "2Real estate situate in incorporated towns shall^pay a state tax but shall^not hereafter be taxed for county purposes– And it shall be lawful for the President\n               & Trustees\n               of towns to assess such taxes on the real estate situate within the limits of their\n               respective\n               incorporated towns as to them may seem proper not exceeding one half of one per cent—3"
+      }
+    ],
+    "word_count": 131
+  },
+  "extraction_date": "2025-12-26 20:10:24",
+  "word_count": 133,
+  "processing": {
+    "cleaned": true,
+    "original_length": 900,
+    "cleaned_length": 817,
+    "preserved_originality": true
+  }
+}

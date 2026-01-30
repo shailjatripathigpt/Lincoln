@@ -1,0 +1,85 @@
+{
+  "document_id": "D210540",
+  "url": "https://papersofabrahamlincoln.org/documents/D210540",
+  "metadata": {
+    "date": "1849-06-16",
+    "authors": [
+      "Smith, Edward O."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-16",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "your",
+      "letter",
+      "serve",
+      "proper",
+      "edward",
+      "smith",
+      "abraham",
+      "lincoln",
+      "june",
+      "urbana",
+      "illjune",
+      "recd",
+      "engaged",
+      "place"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Edward O. Smith to Abraham Lincoln, 16 June 18491 Urbana IllJune 16, I recd your letter to day2I am engaged at this place in building A Court House and did not get your letter\n\nas soon as I shouldI recdit bypprivate conveyance, I am anxious that you should recieve the appointment alluded too but hardly know in what manner to serve youI have given you A letterfortoGen. Tayloryou can use it if proper, and if you think proper I authorise you to write such A one as will best serve your purpose and sign my name3",
+    "paragraphs": [
+      "Edward O. Smith to Abraham Lincoln, 16 June 18491 Urbana IllJune 16, I recd your letter to day2I am engaged at this place in building A Court House and did not get your letter",
+      "as soon as I shouldI recdit bypprivate conveyance, I am anxious that you should recieve the appointment alluded too but hardly know in what manner to serve youI have given you A letterfortoGen. Tayloryou can use it if proper, and if you think proper I authorise you to write such A one as will best serve your purpose and sign my name3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+    ],
+    "footnotes": [
+      {
+        "id": "XE8B3F485-5B4F-4166-A4BC-8BCE36194764",
+        "text": "1Edward O. Smith wrote and signed this letter."
+      },
+      {
+        "id": "XD11DBB1B-5F6C-48E1-8F34-7B7D366B45BF",
+        "text": "2Abraham Lincoln's letter to Smith has not been located. In early June 1849, Lincoln\n                  sent a series of letters to numerous people requesting letters in support of his candidacy\n                  for commissioner of theU.S. General Land Office. Presumably, he made a similar request of Smith.Originally, onlyJustin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner. Lincoln entered the competition after learning\n                  that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "X81FFB5CC-E299-4DED-A250-49AC936829F2",
+        "text": "3The enclosed letter Smith references has not been located. Similarly, neither a letter\n                  Lincoln wrote on Smith’s behalf, nor a reply from Lincoln, if penned, has been located.Thomas Ewingwas secretary of theU.S. Department of the Interior, the department which oversaw the U.S. General Land Office. President Zachary Taylor,\n                  however, was ultimately responsible for appointing the commissioner of the U.S. General\n                  Land Office. In the end, neither Morrison, Edwards, nor Lincoln received the appointment;\n                  the job went to Butterfield instead.  See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Edward O. Smith to Abraham Lincoln, 16 June 18491"
+      },
+      {
+        "type": "description",
+        "text": "Urbana Ill[Illinois]June 16,"
+      },
+      {
+        "type": "paragraph",
+        "text": "I recd[received] your letter to day2I am engaged at this place in building A Court House and did not get your letter\n               as soon  as I shouldI recdit bypprivate conveyance, I am anxious that you should recieve  the appointment alluded too but  hardly know in what manner to serve youI have given you A letterfortoGen. Tayloryou can use it if proper, and if you think proper I authorise you to write such A one as will best serve your purpose and sign my name3"
+      }
+    ],
+    "word_count": 96
+  },
+  "extraction_date": "2025-12-26 21:17:55",
+  "word_count": 96,
+  "processing": {
+    "cleaned": true,
+    "original_length": 549,
+    "cleaned_length": 512,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

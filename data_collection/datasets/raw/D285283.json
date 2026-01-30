@@ -1,0 +1,47 @@
+{
+  "document_id": "D285283",
+  "url": "https://papersofabrahamlincoln.org/documents/D285283",
+  "metadata": {
+    "date": "1848-05-27",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Naval deserters",
+      "Navies",
+      "Sailors"
+    ],
+    "type": "Register entry"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William L. Marcy, 27 May 18481 Enc.[Encloses] a letter from A G. Henderson giving informn[information] of a deserter fromNavy.2",
+    "paragraphs": [
+      "Abraham Lincoln to William L. Marcy, 27 May 18481",
+      "Enc.[Encloses] a letter from A G. Henderson giving informn[information] of a deserter fromNavy.2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XE9F7E34D-725A-4195-8618-80047A8B7950",
+        "text": "1This register entry, written by a clerk in theWar Department, records the existence of a letter from Abraham Lincoln to Secretary of WarWilliam L. Marcy, written from theHouse of Representativeschamber on May 27, 1848, and enclosing a letter giving information on a deserter\n                  from the U.S. Navy."
+      },
+      {
+        "id": "X8E25B9AC-9A6E-4714-AF9A-1BD1D16C6DC6",
+        "text": "2A. G. Henderson could not be positively identified."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William L. Marcy, 27 May 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enc.[Encloses] a letter from A G. Henderson giving informn[information] of a deserter fromNavy.2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:29:30",
+  "word_count": 22
+}

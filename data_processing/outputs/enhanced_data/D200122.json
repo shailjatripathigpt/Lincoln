@@ -1,0 +1,101 @@
+{
+  "document_id": "D200122",
+  "url": "https://papersofabrahamlincoln.org/documents/D200122",
+  "metadata": {
+    "date": "1837-08-05",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Incorporation",
+      "Cities and towns--growth",
+      "Roads--Location",
+      "Elections"
+    ],
+    "type": "Letter",
+    "extracted_date": "1837-08-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "law",
+      "you",
+      "bennett",
+      "whether",
+      "passed",
+      "your",
+      "not",
+      "suppose",
+      "abraham",
+      "lincoln",
+      "john",
+      "august",
+      "mredwards",
+      "tells"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John Bennett, 5 August 18371 MrEdwards tells me you wish to know, whether theactto which yourtownincorporation provision was attached, passed into a law. It did. You can organize\n\nunder the general incorporation law as soon as you choose.2 I also tacked aprovisionon to a fellow'sbillto authorize the relocation of the road fromSalemdown to your town;3but I am not certain whether or not the bill passed; neither do I suppose I can ascertain\n\nbefore the laws will be published. If it is a law,Bowling Green,Bennett Abell, and yourself are appointed to make the change.4 No news. No excitement except a little about the election of monday next. I suppose,\n\nof course, our friendDrHenry, stands no chance in your \"diggings\"5",
+    "paragraphs": [
+      "Abraham Lincoln to John Bennett, 5 August 18371 MrEdwards tells me you wish to know, whether theactto which yourtownincorporation provision was attached, passed into a law. It did. You can organize",
+      "under the general incorporation law as soon as you choose.2 I also tacked aprovisionon to a fellow'sbillto authorize the relocation of the road fromSalemdown to your town;3but I am not certain whether or not the bill passed; neither do I suppose I can ascertain",
+      "before the laws will be published. If it is a law,Bowling Green,Bennett Abell, and yourself are appointed to make the change.4 No news. No excitement except a little about the election of monday next. I suppose,",
+      "of course, our friendDrHenry, stands no chance in your \"diggings\"5"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:93-94;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 3 August 1837,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1837-08-03.",
+      "Sangamo Journal(Springfield, IL), 12 August 1837, 2:1, 7;Election Returns for Springfield, Illinois."
+    ],
+    "footnotes": [
+      {
+        "id": "XDE37CE07-A293-4FAB-923B-2F6472BB8B09",
+        "text": "1Abraham Lincoln wrote the text of this letter and his signature, as well as the address\n                  on the back page."
+      },
+      {
+        "id": "X040C28B1-195E-46B6-BDFA-AA6F1729AEEC",
+        "text": "2“Mr. Edwards” could have been a reference toNinian W. Edwards, but it seems unlikely, because as a member of the10th General Assembly, Edwards could have answered Bennett’s question himself.  Another possibility was\n                  Thomas Edwards, a farmer from nearNew Salem.  This seems more plausible, as on August 3, Lincoln had attended a dinner inAthenshonoring theSangamon Countymembers of the General Assembly.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:93-94;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 3 August 1837,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1837-08-03."
+      },
+      {
+        "id": "XBF0B458E-042F-4B94-9509-54B907E34C9C",
+        "text": "3Wyatt B. Stappintroduced thisbillon July 19, 1837, the same day as Lincoln’samendment."
+      },
+      {
+        "id": "XB25507E3-5A91-49BA-8046-CAB5D9A8B7F4",
+        "text": "4TheHouse of Representativespassed the bill, but the session ended before theSenateread the bill a third time, so it did not become law."
+      },
+      {
+        "id": "X7656B797-3753-4907-BC1E-719F85AAEE4E",
+        "text": "5Dr.  Anson G. Henry, theWhigcandidate, ran against GeneralJames Adams, theDemocraticcandidate, for probate justice of the peace, in bitter contest full of political\n                  attacks on both sides.  In the election held on August 7, Adams defeated Henry, 1025\n                  votes to 792 votes.  Petersburg went for Adams, 116 to 8. Lincoln voted for Henry.\n                  He also cast ballots forCharles R. Mathenyfor county clerk, John Constant for county treasurer, and Adam Bowman for justice\n                  of the peace.Sangamo Journal(Springfield, IL), 12 August 1837, 2:1, 7;Election Returns for Springfield, Illinois."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John Bennett, 5 August 18371"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrEdwards tells me you wish to know, whether theactto which yourtownincorporation provision was attached, passed into a law. It did. You can organize\n               under the general incorporation law as soon as you choose.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "I also tacked aprovisionon to a fellow'sbillto authorize the relocation of the road fromSalemdown to your town;3but I am not certain whether or not the bill passed; neither do I suppose I can ascertain\n               before the laws will be published. If it is a law,Bowling Green,Bennett Abell, and yourself are appointed to make the change.4"
+      },
+      {
+        "type": "paragraph",
+        "text": "No news. No excitement except a little about the election of monday next. I suppose,\n               of course, our friendDrHenry, stands no chance in your \"diggings\"5"
+      }
+    ],
+    "word_count": 121
+  },
+  "extraction_date": "2025-12-26 20:06:14",
+  "word_count": 121,
+  "processing": {
+    "cleaned": true,
+    "original_length": 783,
+    "cleaned_length": 741,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

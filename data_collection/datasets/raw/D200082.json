@@ -1,0 +1,49 @@
+{
+  "document_id": "D200082",
+  "url": "https://papersofabrahamlincoln.org/documents/D200082",
+  "metadata": {
+    "date": "1836-10-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Postmasters"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Ira I. Fenn, 6 October 18361 By direction ofJudge Lockwood,as per enclosed letter, I send you this with it's contents2",
+    "paragraphs": [
+      "Abraham Lincoln to Ira I. Fenn, 6 October 18361",
+      "By direction ofJudge Lockwood,as per enclosed letter, I send you this with it's contents2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XADC832D9-DB4F-4434-999C-F63F79F32B4B",
+        "text": "1Abraham  Lincoln wrote the entirety of the text on page one, as well as the “Free”\n                  frank and the address on the back page."
+      },
+      {
+        "id": "X2B15C800-4655-4FF4-AFA5-5D84A0B20F0B",
+        "text": "2The enclosure has not been identified."
+      },
+      {
+        "id": "XAB6243B6-5954-4B6E-9704-86ED8D58BBA9",
+        "text": "3Lincoln received free postage as a benefit of hisappointmentas postmaster ofNew Salem. However, that post office was discontinued and closed on May 30, 1836, so Lincoln\n                  was no longer technically postmaster."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Ira I. Fenn, 6 October 18361"
+      },
+      {
+        "type": "paragraph",
+        "text": "By direction ofJudge Lockwood,as per enclosed letter, I send you this with it's contents2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:04:23",
+  "word_count": 23
+}

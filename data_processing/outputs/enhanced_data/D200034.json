@@ -1,0 +1,85 @@
+{
+  "document_id": "D200034",
+  "url": "https://papersofabrahamlincoln.org/documents/D200034",
+  "metadata": {
+    "date": "1834-07-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Postal rates",
+      "Receipts (Acknowledgments)",
+      "Newspapers"
+    ],
+    "type": "Letter",
+    "extracted_date": "1834",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "law",
+      "you",
+      "postage",
+      "george",
+      "spears",
+      "your",
+      "request",
+      "receipt",
+      "full",
+      "abraham",
+      "lincoln",
+      "send",
+      "yourpaper",
+      "some",
+      "what"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to George Spears, 1 At your request, I send you a receipt for the postage on yourpaper— I am some what surprised at your request— I will however comply with it— The law\n\nrequires News\n\npaper postage to be paid in advance and now that I have waited a full year you choose\n\nto wound my\n\nfeelings by insinuating that unless you get a receipt I will probably make you pay\n\nit again— Received of George Spears in full for postage on theSangamo Journalup to the first of\n\nJuly 1834",
+    "paragraphs": [
+      "Abraham Lincoln to George Spears, 1 At your request, I send you a receipt for the postage on yourpaper— I am some what surprised at your request— I will however comply with it— The law",
+      "paper postage to be paid in advance and now that I have waited a full year you choose",
+      "feelings by insinuating that unless you get a receipt I will probably make you pay",
+      "it again— Received of George Spears in full for postage on theSangamo Journalup to the first of"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X0838FF55-A281-431B-95F2-B5DBCB2CE136",
+        "text": "1Abraham Lincoln wrote this document."
+      },
+      {
+        "id": "X6318B281-1120-4488-989E-B16C6207D3C3",
+        "text": "2This could beGeorge Spears Sr.or hissonof the same name."
+      },
+      {
+        "id": "X52D10149-7749-48E9-991E-7440C7225CEE",
+        "text": "3PresidentAndrew Jacksonappointed Lincoln  postmaster ofNew Salemon May 7, 1833. He held the position until the post office was closed on May 30,\n                  1836."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to George Spears, [1 July 1834]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "At your request, I send you a receipt for the postage on yourpaper— I am some what surprised at your request— I will however comply with it— The law\n               requires News\n               paper postage to be paid in advance and now that I have waited a full year you choose\n               to wound my\n               feelings by insinuating that unless you get a receipt I will probably make you pay\n               it again—"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received of George Spears in full for postage on theSangamo Journalup to the first of\n               July 1834"
+      }
+    ],
+    "word_count": 92
+  },
+  "extraction_date": "2025-12-26 19:46:53",
+  "word_count": 94,
+  "processing": {
+    "cleaned": true,
+    "original_length": 588,
+    "cleaned_length": 491,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

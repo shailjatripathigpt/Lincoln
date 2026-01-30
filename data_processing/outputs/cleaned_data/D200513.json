@@ -1,0 +1,62 @@
+{
+  "document_id": "D200513",
+  "url": "https://papersofabrahamlincoln.org/documents/D200513",
+  "metadata": {
+    "date": "1848-07-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military pensions",
+      "Military service, Voluntary",
+      "Soldiers"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William L. Marcy, 17 July 18481 A claim of DrA.. G. Henry, late ofPekin, Illinois, for transportation, and some other expenses of volunteers, has been in part disallowed\n\nby the accounting officers, as not being within the Joint Resolution of March 3, 1847–2His account, together with his evidence of it's correctness, is in theThird Auditor's office, and have now to request that you will direct a re-examination of the claim,\n\nunder the act of June 2, 1848. a^printed^copy of which herewith enclosed– I also enclose a copy of former proceedings in the\n\ncase–3",
+    "paragraphs": [
+      "Abraham Lincoln to William L. Marcy, 17 July 18481 A claim of DrA.. G. Henry, late ofPekin, Illinois, for transportation, and some other expenses of volunteers, has been in part disallowed",
+      "by the accounting officers, as not being within the Joint Resolution of March 3, 1847–2His account, together with his evidence of it's correctness, is in theThird Auditor's office, and have now to request that you will direct a re-examination of the claim,",
+      "under the act of June 2, 1848. a^printed^copy of which herewith enclosed– I also enclose a copy of former proceedings in the"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Harry E. Pratt, \"Dr. Anson G. Henry: Lincoln's Physician and Friend,\"Lincoln Herald45 (October 1943): 12; “A Resolution to Refund Money to the States Which Have Supplied\n                     Volunteers and Furnished Them Transportation During the Present War Before Being Mustered\n                     and Received into the Service of the United States,” 3 March 1847,Statutes at Large of the United States9 (1862):206-7.",
+      "“An Act to Refund Money for Expenses Incurred, Subsistence or Transportation Furnished,\n                     for the Use of Volunteers During the Present War, Before Being Mustered into the Service\n                     of the United States,” 2 June 1848,Statutes at Large of the United States9 (1862):236."
+    ],
+    "footnotes": [
+      {
+        "id": "XE8EBB313-3FBC-4351-A318-E4DC4ABC9CD4",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X68E25B4C-F169-478C-B48F-DE306D50FE6F",
+        "text": "2When theMexican Warcommenced, Anson G. Henry assisted Edward Jones, a lawyer fromTremont, in raising a company of volunteers from the Pekin area.  Henry accompanied the company\n                  toSpringfieldand laterAlton, where it became Company G of the Fourth Illinois Volunteer Regiment.  Henry’s denied\n                  claim was for $430.38.Harry E. Pratt, \"Dr. Anson G. Henry: Lincoln's Physician and Friend,\"Lincoln Herald45 (October 1943): 12; “A Resolution to Refund Money to the States Which Have Supplied\n                     Volunteers and Furnished Them Transportation During the Present War Before Being Mustered\n                     and Received into the Service of the United States,” 3 March 1847,Statutes at Large of the United States9 (1862):206-7."
+      },
+      {
+        "id": "X53E3AD30-3A96-4BF1-ABC6-B06DDFAA66DD",
+        "text": "3The enclosures were not included and have not been located.“An Act to Refund Money for Expenses Incurred, Subsistence or Transportation Furnished,\n                     for the Use of Volunteers During the Present War, Before Being Mustered into the Service\n                     of the United States,” 2 June 1848,Statutes at Large of the United States9 (1862):236."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William L. Marcy, 17 July 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "A claim of DrA.. G. Henry, late ofPekin, Illinois, for transportation, and some other expenses of volunteers, has been in part disallowed\n               by the accounting officers, as not being within the Joint Resolution of March 3, 1847–2His account, together with his evidence of it's correctness, is in theThird Auditor's office, and have now to request that you will direct a re-examination of the claim,\n               under the act of June 2, 1848. a^printed^copy of which herewith enclosed– I also enclose a copy of former proceedings in the\n               case–3"
+      }
+    ],
+    "word_count": 96
+  },
+  "extraction_date": "2025-12-26 20:30:33",
+  "word_count": 96,
+  "processing": {
+    "cleaned": true,
+    "original_length": 622,
+    "cleaned_length": 580,
+    "preserved_originality": true
+  }
+}

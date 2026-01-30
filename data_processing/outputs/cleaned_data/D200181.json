@@ -1,0 +1,51 @@
+{
+  "document_id": "D200181",
+  "url": "https://papersofabrahamlincoln.org/documents/D200181",
+  "metadata": {
+    "date": "1839-08-07",
+    "authors": [],
+    "keywords": [
+      "Debtor and creditor"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "John T. Stuart and Abraham Lincoln to Thomas Bohannon, 7 August 18391",
+    "paragraphs": [
+      "John T. Stuart and Abraham Lincoln to Thomas Bohannon, 7 August 18391"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Note regarding Remittance to Thomas Bohannon;Stuart & Lincoln collected debt for Thomas Bohannan & Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141169."
+    ],
+    "footnotes": [
+      {
+        "id": "XFFBFA4CF-F391-4A60-A8D2-948CFA9DEE05",
+        "text": "1Abraham Lincoln wrote the body of the letter in its entirety, signed for Stuart &\n                  Lincoln, and wrote the address on page two."
+      },
+      {
+        "id": "XB77B8615-7A05-4D65-A251-D9E813A62392",
+        "text": "2Thomas Bohannan’s letter of July 29 has not been located."
+      },
+      {
+        "id": "X71372D3C-21CE-40C3-8ACF-8CB499F334E5",
+        "text": "3Thomas Bohannan & Co. hired Stuart & Lincoln to collect debts from Allen & Stone and Josiah Francis, debtors\n                  of Bohannan & Co.  In October, Stuart & Lincoln collected $126 of the debts.There is a discrepancy in the amount of Francis‘s debt.  Lincoln in this letter recorded\n                  it as $50.35, but the office fee book listed it as $51.35.Note regarding Remittance to Thomas Bohannon;Stuart & Lincoln collected debt for Thomas Bohannan & Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141169."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John T. Stuart and Abraham Lincoln to Thomas Bohannon, 7 August 18391"
+      }
+    ],
+    "word_count": 12
+  },
+  "extraction_date": "2025-12-26 20:09:54",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 69,
+    "cleaned_length": 69,
+    "preserved_originality": true
+  }
+}

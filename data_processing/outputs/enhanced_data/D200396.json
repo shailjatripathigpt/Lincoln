@@ -1,0 +1,80 @@
+{
+  "document_id": "D200396",
+  "url": "https://papersofabrahamlincoln.org/documents/D200396",
+  "metadata": {
+    "date": "1846-04-15",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Trials (Murder)",
+      "Acquittals",
+      "Murder--Investigation",
+      "Mentally ill"
+    ],
+    "type": "Newspaper article",
+    "extracted_date": "1846-04-15",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "truth",
+      "remarkable",
+      "case",
+      "arrest",
+      "murder",
+      "publication",
+      "april",
+      "following",
+      "narrative",
+      "handed",
+      "amember",
+      "bar",
+      "there",
+      "doubt",
+      "every"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "“Remarkable Case of Arrest for Murder,” 15 April 18461 Remarkable case of Arrest for Murder. (The following narrative has been handed us for publication by amember of the bar. There is no doubt of the truth of every fact stated; and the whole affair is of\n\nso extraordinary a character as to entitle it to publication, and commend it to the\n\nattention of those at present engaged in discussing reforms in criminal jurisprudence,\n\nand the abolition of capital punishment.)",
+    "paragraphs": [
+      "“Remarkable Case of Arrest for Murder,” 15 April 18461 Remarkable case of Arrest for Murder. (The following narrative has been handed us for publication by amember of the bar. There is no doubt of the truth of every fact stated; and the whole affair is of",
+      "so extraordinary a character as to entitle it to publication, and commend it to the",
+      "attention of those at present engaged in discussing reforms in criminal jurisprudence,",
+      "and the abolition of capital punishment.)"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Ward H. Lamon,The Life of Abraham Lincoln from His Birth to His Inauguration as President(Boston: James R. Osgood, 1872), 317-21."
+    ],
+    "footnotes": [
+      {
+        "id": "X8AC1F102-3975-4B18-B73C-F90BC3494E7D",
+        "text": "1Although published anonymously in theQuincy Whig, this piece was known to Abraham Lincoln’s friends to  have been written by Lincoln.\n                  At the time of the incident in 1841, Lincoln also wrote a longlettertoJoshua F. Speeddetailing the entire story.Ward H. Lamon,The Life of Abraham Lincoln from His Birth to His Inauguration as President(Boston: James R. Osgood, 1872), 317-21."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "“Remarkable Case of Arrest for Murder,” 15 April 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "Remarkable case of Arrest for Murder."
+      },
+      {
+        "type": "paragraph",
+        "text": "(The following narrative has been handed us for publication by amember of the bar.  There is no doubt of the truth of every fact stated; and the whole affair is of\n               so extraordinary a character as to entitle it to publication, and commend it to the\n               attention of those at present engaged in discussing reforms in criminal jurisprudence,\n               and the abolition of capital punishment.)"
+      }
+    ],
+    "word_count": 79
+  },
+  "extraction_date": "2025-12-26 20:23:32",
+  "word_count": 79,
+  "processing": {
+    "cleaned": true,
+    "original_length": 514,
+    "cleaned_length": 471,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

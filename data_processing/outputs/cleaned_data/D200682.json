@@ -1,0 +1,63 @@
+{
+  "document_id": "D200682",
+  "url": "https://papersofabrahamlincoln.org/documents/D200682",
+  "metadata": {
+    "date": "1851-06-05",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Patent suits"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Orville H. Browning and Nehemiah H. Bushnell, 5 June 18511",
+    "paragraphs": [
+      "Abraham Lincoln to Orville H. Browning and Nehemiah H. Bushnell, 5 June 18511"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Parker v. Hoyt, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137697;List of Patents for Inventions and Designs, Issued by the United States, From 1790\n                        to 1847(Washington, DC: J. & G. S. Gideon, 1847), 234;H.R. Exe. Doc. No. 59, 33rd Cong., 2nd Sess. (1855);The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 July 1850,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-09; 24 July 1850,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-24;Abraham Lincoln to Orville H. Browning and Nehemiah H. Bushnell;Charles Hoyt to Abraham Lincoln;Charles Hoyt to Abraham Lincoln;Abraham Lincoln to Charles Hoyt.",
+      "Rufus Blanchard,History of Illinois, to Accompany an Historical Map of the State(Chicago: National School Furnishing, 1883), 118."
+    ],
+    "footnotes": [
+      {
+        "id": "XD0AAD28F-6C6C-4DFE-AF2F-A062E301D534",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "X4C7AC8E0-A3D1-4165-81E5-9B0732214DA0",
+        "text": "2No letter from either Orville H. Browning or Nehemiah Bushnell to Lincoln in 1851\n                  has been located."
+      },
+      {
+        "id": "X1705C938-8E1D-4A6F-87CB-235BF5C545A5",
+        "text": "3Lincoln alsowroteBrowning and Bushnell in March 1851, noting that he had made arrangements to use\n                  the Hoyt evidence in the other cases. The “Hoyt evidence” is a reference to evidence\n                  used in the caseParker v. Hoyt, in which Lincoln was an attorney for the defendant, along withGrant GoodrichandGeorge W. Meeker. In the case,Zebulon ParkersuedCharles Hoytin theU.S. Circuit Court, District of Illinois, for violating Parker’s patent, which he secured in October 1829.In the initial trial, the jury found for Parker. However, Hoyt motioned for a new\n                  trial, which the court granted. During the second trial, which took place July 9-24,\n                  1850, the defense provided evidence via experiments conducted on Hoyt’s water wheels.\n                  These experiments demonstrated that the modifications Hoyt had made to his water wheels\n                  produced no effect on the movement of water through them. This called into question\n                  Parker’s fundamental claim that Hoyt’s modifications to his water wheels represented\n                  an infringement upon Parker’s patent. When Parker’s legal team conducted their own\n                  experiments, they only bolstered the defense team’s evidence by demonstrating that\n                  the technology Parker patented did not actually function. The jury found for Hoyt.\n                  Parker then motioned for a new trial, which the court granted, and the case lingered\n                  on through the early 1850s. In July 1855, Lincoln succeeded in having the case dismissed\n                  in theU.S. Circuit Court, Northern District of Illinois. He also succeeded in having the three Rock Island patent cases dismissed.Parker v. Hoyt, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137697;List of Patents for Inventions and Designs, Issued by the United States, From 1790\n                        to 1847(Washington, DC: J. & G. S. Gideon, 1847), 234;H.R. Exe. Doc. No. 59, 33rd Cong., 2nd Sess. (1855);The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 July 1850,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-09; 24 July 1850,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1850-07-24;Abraham Lincoln to Orville H. Browning and Nehemiah H. Bushnell;Charles Hoyt to Abraham Lincoln;Charles Hoyt to Abraham Lincoln;Abraham Lincoln to Charles Hoyt."
+      },
+      {
+        "id": "XEEA0865A-C5F9-40F5-B470-F48DAFF154F0",
+        "text": "4The first session of the SeventeenthIllinois General Assemblyadjourned on February 17, 1851.Rufus Blanchard,History of Illinois, to Accompany an Historical Map of the State(Chicago: National School Furnishing, 1883), 118."
+      },
+      {
+        "id": "XAA31CBA7-200B-4737-902E-27B662C396BD",
+        "text": "5Browning and Bushnell’s reply, if they penned one, has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Orville H. Browning and Nehemiah H. Bushnell, 5 June 18511"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 21:24:37",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 77,
+    "cleaned_length": 77,
+    "preserved_originality": true
+  }
+}

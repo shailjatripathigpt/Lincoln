@@ -1,0 +1,60 @@
+{
+  "document_id": "D287726",
+  "url": "https://papersofabrahamlincoln.org/documents/D287726",
+  "metadata": {
+    "date": "1848-03-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Armed Forces--Officers"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Jesse Lynch, 1 March 18481 Your letter of the 13thFeb.[February] accompanying a recommendation of  many citizens ofRobtIrwinfor a lieutenancy, has been received–2I suppose “Othello’s ocupation’s gone”3–  All hands here seem to think thewaris over– that thetreatysent on here byTristwill be ratified–4If, however, a chance presents, I will do the very best I can– Excuse the shortness of this letter; I am really very much hurried.",
+    "paragraphs": [
+      "Abraham Lincoln to Jesse Lynch, 1 March 18481",
+      "Your letter of the 13thFeb.[February] accompanying a recommendation of  many citizens ofRobtIrwinfor a lieutenancy, has been received–2I suppose “Othello’s ocupation’s gone”3–  All hands here seem to think thewaris over– that thetreatysent on here byTristwill be ratified–4If, however, a chance presents, I will do the very best I can–",
+      "Excuse the shortness of this letter; I am really very much hurried."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William Shakespeare,Othello(ca. 1604), Act 3, Scene 3, Line 357, in William Shakespeare,The Tragedy of Othello the Moor of Venice, ed. Russ McDonald (New York: Penguin),78."
+    ],
+    "footnotes": [
+      {
+        "id": "XEECC835F-48E5-4113-9624-DEDDA285E409",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X74183DD6-2D1B-4412-9C26-73AF2FA79C5A",
+        "text": "2Jesse Lynch’s letter and the recommendation have not been located."
+      },
+      {
+        "id": "X8AE7330F-DCC6-402C-95BC-A6C82A621337",
+        "text": "3Partial quote from Shakespeare’sOthello.William Shakespeare,Othello(ca. 1604), Act 3, Scene 3, Line 357, in William Shakespeare,The Tragedy of Othello the Moor of Venice, ed. Russ McDonald (New York: Penguin),78."
+      },
+      {
+        "id": "X1CE57059-D02B-466E-A0F5-B6A610DB157D",
+        "text": "4For the terms of the treaty and ratification process, see:Treaty of Guadalupe-Hidalgo."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Jesse Lynch, 1 March 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 13thFeb.[February] accompanying a recommendation of  many citizens ofRobtIrwinfor a lieutenancy, has been received–2I suppose “Othello’s ocupation’s gone”3–  All hands here seem to think thewaris over– that thetreatysent on here byTristwill be ratified–4If, however, a chance presents, I will do the very best I can–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Excuse the shortness of this letter; I am really very much hurried."
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:27:41",
+  "word_count": 68
+}

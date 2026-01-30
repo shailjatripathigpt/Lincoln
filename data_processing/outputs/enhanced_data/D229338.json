@@ -1,0 +1,94 @@
+{
+  "document_id": "D229338",
+  "url": "https://papersofabrahamlincoln.org/documents/D229338",
+  "metadata": {
+    "date": "1847-12-28",
+    "authors": [],
+    "keywords": [
+      "Armies--Officers",
+      "Military service, Voluntary"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847-12-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "officer",
+      "hope",
+      "not",
+      "your",
+      "since",
+      "desire",
+      "ever",
+      "obtain",
+      "you",
+      "fragment",
+      "unknown",
+      "abraham",
+      "lincoln",
+      "december",
+      "trespass"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Fragment of Unknown to Abraham Lincoln, 28 December 18471 I hope that I shall not trespass much upon your time, and I shall make my letas short as possible Since my earliest days I have had a great desire a Commission in theArmy,\n\nthis is not a mere fancy,\n\nto\n\nimmediate dissipation when it comes to\n\n. . .\n\nality, will recolect that I served twelve months\n\ncapacity\n\ncommissioned officer, and thh I\n\nmany\n\nthere which\n\nwould darken the ardor of ather, yet I find\n\nmy desire is greater than ever, as I have applied\n\nfriends here for their aid in obtaining^for^me the Commissionond Lieutenant, Mr Calhoun2forwarded my recommendation to the HonR. M. Young, nearly a month since I hope to obtain your interference in my behalf, and if I succeed rest assured sir\n\nthat it will never be\n\nforgotten by me, nor shall you ever have cause to repeat your influence in assisting\n\nme to obtain the\n\nappointment, I believe the application does not specify any particular corps– I should\n\nprefer the\n\nRiflem. . .\n\nalthough I\n\nbe contented in the Inf. . . In the hope that you\n\n. . .",
+    "paragraphs": [
+      "Fragment of Unknown to Abraham Lincoln, 28 December 18471 I hope that I shall not trespass much upon your time, and I shall make my letas short as possible Since my earliest days I have had a great desire a Commission in theArmy,",
+      "this is not a mere fancy,",
+      "immediate dissipation when it comes to",
+      "ality, will recolect that I served twelve months",
+      "commissioned officer, and thh I",
+      "would darken the ardor of ather, yet I find",
+      "my desire is greater than ever, as I have applied",
+      "friends here for their aid in obtaining^for^me the Commissionond Lieutenant, Mr Calhoun2forwarded my recommendation to the HonR. M. Young, nearly a month since I hope to obtain your interference in my behalf, and if I succeed rest assured sir",
+      "that it will never be",
+      "forgotten by me, nor shall you ever have cause to repeat your influence in assisting",
+      "appointment, I believe the application does not specify any particular corps– I should",
+      "be contented in the Inf. . . In the hope that you"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X4B67D15C-4B85-465A-BED2-C806AC3EADBD",
+        "text": "1This letter, now badly damaged, was written by an unknown author."
+      },
+      {
+        "id": "X6671EAC6-33CE-4425-969E-292112438406",
+        "text": "2“Mr. Calhoun” may refer toJohn Calhounof Springfield."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fragment of Unknown to Abraham Lincoln, 28 December 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "I hope that I shall not trespass much upon your time, and I shall make my let[ter]as short as possible"
+      },
+      {
+        "type": "paragraph",
+        "text": "Since my earliest days I have had a great desire [to obtain?] a Commission in theArmy,\n               this is not a mere fancy, \n               [?] to \n               immediate dissipation when it comes to \n               . . .\n               ality, [for you?] will recolect that I served twelve months\n               [in that?] capacity \n               [?]\n               commissioned officer, and th[oug]h I \n               [?]\n               many \n               there which\n               would darken the ardor of a[no]ther, yet I find \n               [?]\n               my desire is greater than ever, as I have applied \n               [?]\n               friends here for their aid in obtaining^for^me the Commission[of Sec]ond Lieutenant, Mr Calhoun2forwarded my recommendation to the HonR. M. Young, nearly a month since"
+      },
+      {
+        "type": "paragraph",
+        "text": "I hope to obtain your interference in my behalf, and if I succeed rest assured sir\n               that it will never be\n               forgotten by me, nor shall you ever have cause to repeat your influence in assisting\n               me to obtain the\n               appointment, I believe the application does not specify any particular corps– I should\n               prefer the\n               Riflem[en]. . .\n               although I \n               [?]\n               be contented in the Inf[antry]. . ."
+      },
+      {
+        "type": "paragraph",
+        "text": "In the hope that you \n               . . ."
+      }
+    ],
+    "word_count": 193
+  },
+  "extraction_date": "2025-12-26 20:26:06",
+  "word_count": 206,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1540,
+    "cleaned_length": 1069,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

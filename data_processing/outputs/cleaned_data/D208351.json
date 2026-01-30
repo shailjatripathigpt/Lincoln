@@ -1,0 +1,96 @@
+{
+  "document_id": "D208351",
+  "url": "https://papersofabrahamlincoln.org/documents/D208351",
+  "metadata": {
+    "date": "1837-03-06",
+    "authors": [
+      "Prickett, David (Pricket)"
+    ],
+    "keywords": [
+      "Public officers",
+      "Wages"
+    ],
+    "type": "Payroll"
+  },
+  "content": {
+    "full_text": "Payroll for Tenth Illinois General Assembly, First Session, 1",
+    "paragraphs": [
+      "Payroll for Tenth Illinois General Assembly, First Session, 1"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XEE73EE8E-DB9F-4A14-82D7-6896016370AA",
+        "text": "1Abraham Lincoln signed his name."
+      },
+      {
+        "id": "X69294E28-A30D-4FCA-B811-A206F0E717F9",
+        "text": "2Section four of theappropriation actset the compensation for members of the General Assembly."
+      },
+      {
+        "id": "DEW849223183703060000_1",
+        "text": "3“210” changed to “110”."
+      },
+      {
+        "id": "DEW441911183703060000_2",
+        "text": "4“240” changed to “220”."
+      },
+      {
+        "id": "DEW556517183703060000_3",
+        "text": "5“338” changed to “388”."
+      },
+      {
+        "id": "DEW780890183703060000_4",
+        "text": "6“400” changed to “320”."
+      },
+      {
+        "id": "X33F29195-A703-4365-8CD1-9B665FA75027",
+        "text": "7“434” changed to “424”."
+      },
+      {
+        "id": "DEW452506183703060000_6",
+        "text": "8“434” changed to “424”."
+      },
+      {
+        "id": "DEW286141183703060000_7",
+        "text": "9“226” changed to “286”."
+      },
+      {
+        "id": "DEW785130183703060000_8",
+        "text": "10“434” changed to “424”."
+      },
+      {
+        "id": "DEW89036183703060000_10",
+        "text": "11“434” changed to “424”."
+      },
+      {
+        "id": "DEW90397183703060000_9",
+        "text": "12“340” changed to “240”."
+      },
+      {
+        "id": "DEW432969183703060000_11",
+        "text": "13“676” changed to “576”."
+      },
+      {
+        "id": "DEW284536183703060000_12",
+        "text": "14“ 368” changed to “460”."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Payroll for Tenth Illinois General Assembly, First Session, [6 March 1837]1"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:04:49",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 75,
+    "cleaned_length": 61,
+    "preserved_originality": true
+  }
+}

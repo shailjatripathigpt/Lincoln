@@ -1,0 +1,86 @@
+{
+  "document_id": "D201037",
+  "url": "https://papersofabrahamlincoln.org/documents/D201037",
+  "metadata": {
+    "date": "1858-06-25",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Campaign funds",
+      "Finance, Personal",
+      "Political campaigns"
+    ],
+    "type": "Letter",
+    "extracted_date": "1856",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "authority",
+      "you",
+      "now",
+      "not",
+      "than",
+      "then",
+      "abraham",
+      "lincoln",
+      "alexander",
+      "campbell",
+      "june",
+      "gave",
+      "draw",
+      "any",
+      "sum"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Alexander Campbell, 25 June 18581 In 1856 you gave me authority to draw on you for any sum not exceeding five hundred\n\ndollars– I see clearly that such a privilege would be more available^now^than it wasthat^then^–2I am aware that times are tighter now than they were then–3Please write me at all events;4and whether you can now do anything or not, I shall continue grateful for the past–",
+    "paragraphs": [
+      "Abraham Lincoln to Alexander Campbell, 25 June 18581 In 1856 you gave me authority to draw on you for any sum not exceeding five hundred",
+      "dollars– I see clearly that such a privilege would be more available^now^than it wasthat^then^–2I am aware that times are tighter now than they were then–3Please write me at all events;4and whether you can now do anything or not, I shall continue grateful for the past–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 103-4;Daily Illinois State Journal(Springfield), 17 June 1858, 2:5-6."
+    ],
+    "footnotes": [
+      {
+        "id": "4018561",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on page two."
+      },
+      {
+        "id": "4018562",
+        "text": "2Alexander Campbell had offered Lincoln $500 to defray the expenses he incurred in\n                  campaigning for theRepublican Partyduring theelection of 1856. During that election campaign Lincoln accepted between $200 and $300 from Campbell.\n                  Lincoln had recently been  named the Republican Party’s candidate forU.S. Senateat the1858 Illinois Republican Conventionon June 16, 1858, and was anticipating the need for funds to campaign againstStephen A. Douglas. See the1858 Federal Election.Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 103-4;Daily Illinois State Journal(Springfield), 17 June 1858, 2:5-6."
+      },
+      {
+        "id": "4018563",
+        "text": "3Lincoln is apparently referencing the lingering financial repercussions of thePanic of 1857."
+      },
+      {
+        "id": "4018564",
+        "text": "4Campbellrespondedto Lincoln in a letter of August 2, 1858."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Alexander Campbell, 25 June 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "In 1856 you gave me authority to draw on you for any sum not exceeding five hundred\n               dollars– I see clearly that such a privilege would be more available^now^than it wasthat^then^–2I am aware that times are tighter now than they were then–3Please write me at all events;4and whether you can now do anything or not, I shall continue grateful for the past–"
+      }
+    ],
+    "word_count": 70
+  },
+  "extraction_date": "2025-12-26 21:50:45",
+  "word_count": 70,
+  "processing": {
+    "cleaned": true,
+    "original_length": 421,
+    "cleaned_length": 407,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

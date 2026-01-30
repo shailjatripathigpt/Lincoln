@@ -1,0 +1,56 @@
+{
+  "document_id": "D200760",
+  "url": "https://papersofabrahamlincoln.org/documents/D200760",
+  "metadata": {
+    "date": "1853-10-04",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Land tenure",
+      "Promissory notes",
+      "Tax lien certificates",
+      "Local taxation"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John Connelly, Sr., 4 October 18531 Inclosed is a certificate, lacking only the date & your name–3I took the facts from the tax books here & suppose they are correct–  If you will\n               fill the date and sign your name, and return the certificate, by the first mail, to\n               me at this place, I shall be obliged, and will pay your fee, when I return home–4",
+    "paragraphs": [
+      "Abraham Lincoln to John Connelly, Sr., 4 October 18531",
+      "Inclosed is a certificate, lacking only the date & your name–3I took the facts from the tax books here & suppose they are correct–  If you will\n               fill the date and sign your name, and return the certificate, by the first mail, to\n               me at this place, I shall be obliged, and will pay your fee, when I return home–4"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XEAC3F75B-2243-4989-9DB2-C2544DCD0B1C",
+        "text": "1Abraham Lincoln wrote and signed this document, misspelling Connelly’s name."
+      },
+      {
+        "id": "X4CD79503-EDC8-452D-B5EB-08D2E938BF1C",
+        "text": "2Lincoln arrived in Pekin in the first days of October having traveled theEighth Judicial CircuitfromPeoria.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 30 September 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-09-30."
+      },
+      {
+        "id": "XA40D1374-DE00-4C80-957A-394840803517",
+        "text": "3The certificate detailed land ownership for theWoodford County Circuit CourtcaseGingrich v. Evans, et al. In 1851, Joseph Gingrich sued Isaac W. Evans, James Harlan, and Elijah Harlan for\n                  failing to honor two promissory notes. Evans refuted that the notes had been for land\n                  and because Gingrich delivered a bad title, he refused to pay. Lincoln served as Gingrich’s\n                  attorney and required Connelly’s signature as register of theSpringfield Land Office. He planned to present the certificate to the court next term. Spanning two and a\n                  half years, the case resolved with the court ruling in favor of Gingrich.Recorder's Certificate, Document ID: 1820; Plat Map, Document ID: 1818,Gingrich v. Evans, et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137073."
+      },
+      {
+        "id": "X23CC1207-6BBE-4504-8FE0-AF698D64B9F9",
+        "text": "4The signed certificate was filed at the conclusion of the court case in April 1854.Recorder's Certificate, Document ID: 1820,Gingrich v. Evans, et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137073."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John Connelly, Sr., 4 October 18531"
+      },
+      {
+        "type": "paragraph",
+        "text": "Inclosed is a certificate, lacking only the date & your name–3I took the facts from the tax books here & suppose they are correct–  If you will\n               fill the date and sign your name, and return the certificate, by the first mail, to\n               me at this place, I shall be obliged, and will pay your fee, when I return home–4"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:28:02",
+  "word_count": 69
+}

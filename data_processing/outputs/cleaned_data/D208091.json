@@ -1,0 +1,66 @@
+{
+  "document_id": "D208091",
+  "url": "https://papersofabrahamlincoln.org/documents/D208091",
+  "metadata": {
+    "date": "1855-11-24",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Finance, Personal",
+      "Banks and banking"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of Abraham Lincoln to Self, 24 November 18551 Springfield Marine and Fire Insurance Co., Pay toSelfor Bearer, Thirty Sevenx/100Dollars In Current Bank Bills.",
+    "paragraphs": [
+      "Check of Abraham Lincoln to Self, 24 November 18551 Springfield Marine and Fire Insurance Co., Pay toSelfor Bearer, Thirty Sevenx/100Dollars In Current Bank Bills."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 24 November 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-11-24."
+    ],
+    "footnotes": [
+      {
+        "id": "XD173C3B8-F05A-4720-89D3-B0D41788D76C",
+        "text": "1An unknown person filled in the blanks of this partially printed check and Abraham\n                  Lincoln signed it."
+      },
+      {
+        "id": "XDA456131-222C-4684-B48F-5DBCA6D8661C",
+        "text": "2The ledger of the Springfield Marine & Fire Insurance Company records Lincoln’s withdrawal\n                  of $37 from his account on this date. Lincoln’s intent for these funds is unknown.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 24 November 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-11-24."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Abraham Lincoln to Self, 24 November 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "Springfield Marine and Fire Insurance Co.,"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pay toSelfor Bearer,"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thirty Sevenx/100Dollars"
+      },
+      {
+        "type": "paragraph",
+        "text": "In Current Bank Bills."
+      }
+    ],
+    "word_count": 24
+  },
+  "extraction_date": "2025-12-26 21:37:19",
+  "word_count": 24,
+  "processing": {
+    "cleaned": true,
+    "original_length": 163,
+    "cleaned_length": 163,
+    "preserved_originality": true
+  }
+}

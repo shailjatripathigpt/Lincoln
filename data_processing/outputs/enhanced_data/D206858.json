@@ -1,0 +1,85 @@
+{
+  "document_id": "D206858",
+  "url": "https://papersofabrahamlincoln.org/documents/D206858",
+  "metadata": {
+    "date": "1847-04-18",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Common law",
+      "Lawyers"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847-04-18",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "war",
+      "you",
+      "course",
+      "take",
+      "testimony",
+      "york",
+      "all",
+      "upon",
+      "new",
+      "abraham",
+      "lincoln",
+      "grant",
+      "goodrich",
+      "april",
+      "yours"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Grant Goodrich, 18 April 18471 Yours of the 24thMarch was received in due course; but being so busy with our owncourt, with preparations to go on the circuit, and with the \"pleasant and painful\" war-news,thatI have neglected an answer till now–2Not to be tedious, I concur with you entirely in your inclination to take no further\n\ntestimony inNew-York– Bring down with you to court, all thehometestimony you can, on all the points, and let the cases rest upon that– This, of course, is^to^depend upon whether you discover any new fact, which may make it proper to take testimony\n\nin New-York–3",
+    "paragraphs": [
+      "Abraham Lincoln to Grant Goodrich, 18 April 18471 Yours of the 24thMarch was received in due course; but being so busy with our owncourt, with preparations to go on the circuit, and with the \"pleasant and painful\" war-news,thatI have neglected an answer till now–2Not to be tedious, I concur with you entirely in your inclination to take no further",
+      "testimony inNew-York– Bring down with you to court, all thehometestimony you can, on all the points, and let the cases rest upon that– This, of course, is^to^depend upon whether you discover any new fact, which may make it proper to take testimony"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Amy S. Greenberg,A Wicked War: Polk, Clay, Lincoln, and the 1846 U.S. Invasion of Mexico(New York: Vintage Books, 2013), 160-61.",
+      "Grant Goodrich to William H. Herndon, 9 December 1866, Douglas L. Wilson and Rodney\n                     O. Davis, eds.,Herndon’s Informants: Letters, Interviews, and Statements about Abraham Lincoln(Urbana: University of Illinois Press, 1998), 509;Anderson v. Lawrence, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140938;Dayton v. Lawrence, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140937;Voce v. Lawrence, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137642."
+    ],
+    "footnotes": [
+      {
+        "id": "X40E032EC-89DA-4407-B55E-2D3A5C15CD18",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "XEE9B63D3-DD48-40B5-9EB7-7B765628957E",
+        "text": "2Grant Goodrich’s letter of March 24 has not been located.The “pleasant and painful” war-news Lincoln references relates toJohn J. Hardin, who died at theBattle of Buena Vista, which was otherwise a victory for the American military forces in theMexican War.Amy S. Greenberg,A Wicked War: Polk, Clay, Lincoln, and the 1846 U.S. Invasion of Mexico(New York: Vintage Books, 2013), 160-61."
+      },
+      {
+        "id": "XDA3BA208-7DA5-46FC-974A-FC5E15586C1A",
+        "text": "3In 1847 and 1848, Lincoln partnered with Grant Goodrich as attorney in  three federal\n                  court cases involving fraud and misrepresentations in the sale of land.Grant Goodrich to William H. Herndon, 9 December 1866, Douglas L. Wilson and Rodney\n                     O. Davis, eds.,Herndon’s Informants: Letters, Interviews, and Statements about Abraham Lincoln(Urbana: University of Illinois Press, 1998), 509;Anderson v. Lawrence, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140938;Dayton v. Lawrence, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140937;Voce v. Lawrence, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137642."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Grant Goodrich, 18 April 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 24thMarch was received in due course; but being so busy with our owncourt, with preparations to go on the circuit, and with the \"pleasant and painful\" war-news,thatI have neglected an answer till now–2Not to be tedious, I concur   with you entirely in your inclination to take no further\n               testimony inNew-York–  Bring down with you to court, all thehometestimony you can, on all the points, and let the cases rest upon that–"
+      },
+      {
+        "type": "paragraph",
+        "text": "This, of course, is^to^depend upon whether you discover any new fact, which may make it proper to take testimony\n               in New-York–3"
+      }
+    ],
+    "word_count": 103
+  },
+  "extraction_date": "2025-12-26 20:24:24",
+  "word_count": 103,
+  "processing": {
+    "cleaned": true,
+    "original_length": 643,
+    "cleaned_length": 612,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

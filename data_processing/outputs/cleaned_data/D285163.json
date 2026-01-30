@@ -1,0 +1,57 @@
+{
+  "document_id": "D285163",
+  "url": "https://papersofabrahamlincoln.org/documents/D285163",
+  "metadata": {
+    "date": "1832-05-13",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military service, Voluntary",
+      "Militia",
+      "Indians of North America--Wars",
+      "Military discharge"
+    ],
+    "type": "Certificate"
+  },
+  "content": {
+    "full_text": "Certificate of Discharge for Royal Potter, 13 May 18321 I do hereby certify thatRoyal Potteris dismissed on furlough during the present campaign for the purpose of attending\n\na sick man— given under my hand this13thday of May 1832.2",
+    "paragraphs": [
+      "Certificate of Discharge for Royal Potter, 13 May 18321 I do hereby certify thatRoyal Potteris dismissed on furlough during the present campaign for the purpose of attending",
+      "a sick man— given under my hand this13thday of May 1832.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+    ],
+    "footnotes": [
+      {
+        "id": "XECAE3979-FC02-4A18-B6FC-1D0CAE02C8B5",
+        "text": "1Abraham Lincoln wrote and signed the document. The docketing is in another hand."
+      },
+      {
+        "id": "X38FD8625-D278-48E9-BE66-4769EACDA81A",
+        "text": "2At the outbreak of theBlack Hawk War, Lincoln volunteered for theIllinois state militia. On April 21, 1832, Lincoln and other men from theNew Salemarea were mustered into a company in the4th Regiment of Illinois Mounted Volunteers, and the members of the company elected Lincoln as their captain. When his month\n                  of service ended, Lincoln re-enlisted twice, for twenty and thirty days respectively,\n                  serving as a private both times. He was discharged finally on July 10, 1832.Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Discharge for Royal Potter, 13 May 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "I do hereby certify thatRoyal Potteris dismissed on furlough during the present campaign for the purpose of attending\n               a sick man— given under my hand this13thday of May 1832.2"
+      }
+    ],
+    "word_count": 38
+  },
+  "extraction_date": "2025-12-26 19:45:15",
+  "word_count": 38,
+  "processing": {
+    "cleaned": true,
+    "original_length": 246,
+    "cleaned_length": 232,
+    "preserved_originality": true
+  }
+}

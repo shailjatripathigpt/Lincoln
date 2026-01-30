@@ -1,0 +1,104 @@
+{
+  "document_id": "D200347",
+  "url": "https://papersofabrahamlincoln.org/documents/D200347",
+  "metadata": {
+    "date": "1844-02-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Equity pleading and procedure",
+      "Lawyers",
+      "Debtor and creditor"
+    ],
+    "type": "Letter",
+    "extracted_date": "1844-02-16",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "stringer",
+      "decree",
+      "term",
+      "pay",
+      "next",
+      "your",
+      "debt",
+      "ten",
+      "days",
+      "answer",
+      "claim",
+      "heirs",
+      "long",
+      "abraham",
+      "lincoln"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Simeon Ryder, 16 February 18441 Yours of the 14thInstis received.3The decree taken againstStringerat the last term of ourcourtwas not afinal, but only aninterlocutorydecree–4The substance of it is, that Stringer pay to you on or before the first day of the\n\nnext term, your debt & interest, and that Stringer should have ten days to file an\n\nanswer, to enable him to contest the claim ofMitchells heirs, and the cause continued– Stringer's ten days have long since expired long\n\nago, and he has filed no answer– At next court, I suppose a decree will rendered,\n\nordering the sale of the property to pay your debt, subject to the claim of Mitchell's\n\nheirs– NoobjectionInjunction has been obtained in the case–5",
+    "paragraphs": [
+      "Abraham Lincoln to Simeon Ryder, 16 February 18441 Yours of the 14thInstis received.3The decree taken againstStringerat the last term of ourcourtwas not afinal, but only aninterlocutorydecree–4The substance of it is, that Stringer pay to you on or before the first day of the",
+      "next term, your debt & interest, and that Stringer should have ten days to file an",
+      "answer, to enable him to contest the claim ofMitchells heirs, and the cause continued– Stringer's ten days have long since expired long",
+      "ago, and he has filed no answer– At next court, I suppose a decree will rendered,",
+      "ordering the sale of the property to pay your debt, subject to the claim of Mitchell's",
+      "heirs– NoobjectionInjunction has been obtained in the case–5"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Ryder v. Stringer et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139917.",
+      "Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 731; Decree, 30 November 1843,Ryder v. Stringer et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139917.",
+      "Bill for Injunction,  20 November 1844; Decree, 20 November 1844,Ryder v. Stringer et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139917."
+    ],
+    "footnotes": [
+      {
+        "id": "X3DC2D57C-E0B9-4DF4-BF92-A637C0A6616D",
+        "text": "1Abraham Lincoln wrote and signed the letter. Simeon Ryder wrote the endorsement. The\n                  docketing was written by a separate person."
+      },
+      {
+        "id": "X525B6B85-DEC8-4746-A49A-1B976DBC6504",
+        "text": "2Daniel Stringer owed Ryder $300. Edward Mitchell secured the debt with a bond for\n                  a city lot in Springfield, Illinois. Mitchell died before the debt was discharged,\n                  and Ryder retainedStuart & Lincolnand sued Stringer and Mitchell’s heirs to obtain a deed to the land.Ryder v. Stringer et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139917."
+      },
+      {
+        "id": "X0C1F0DBF-735F-496B-B399-77862FDA1741",
+        "text": "3Ryder’s February 14, 1844 letter to Lincoln has not been located."
+      },
+      {
+        "id": "X0D6D522B-7797-45BC-B4CF-E146D800D408",
+        "text": "4An interlocutory decree is a provisional decree in a legal case; not the final decision.\n                  The decree to which Lincoln refers was handed down by the court on November 30, 1843.\n                  It ordered that Stringer pay $300 with interest at seven percent. The court also gave\n                  Stringer an opportunity to answer the charges, which he failed to do.Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 731; Decree, 30 November 1843,Ryder v. Stringer et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139917."
+      },
+      {
+        "id": "X79126CA2-BB50-46C2-B024-1B5DB2D870A4",
+        "text": "5The court ordered the master in chancery to sell the lot in order to pay Stringer’s\n                  debts. In November 1844, Stringer’s minor children sued for an injunction to stop\n                  the sale, claiming that they rightfully owned the land. The court ordered the injunction.Bill for Injunction,  20 November 1844; Decree, 20 November 1844,Ryder v. Stringer et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139917."
+      },
+      {
+        "id": "X1F2B9C2C-AC55-45A6-B429-95D76DF46F64",
+        "text": "6“Strong” likely refers to  Springfield attorneySchuyler Strong."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Simeon Ryder, 16 February 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours  of the 14thInstis received.3The decree taken againstStringerat  the last term of ourcourtwas not afinal, but only aninterlocutorydecree–4The substance of it is, that Stringer pay to you on or before the first day of the\n               next term, your debt & interest, and that Stringer should have ten days to file an\n               answer, to enable him to contest the claim ofMitchells heirs, and the cause  continued–  Stringer's ten days have long since expired long\n               ago, and he has filed no answer–  At next court, I suppose a decree will rendered,\n               ordering the sale of the property to pay your debt, subject to the claim of Mitchell's\n               heirs–"
+      },
+      {
+        "type": "paragraph",
+        "text": "NoobjectionInjunction has been obtained in the case–5"
+      }
+    ],
+    "word_count": 121
+  },
+  "extraction_date": "2025-12-26 20:19:40",
+  "word_count": 121,
+  "processing": {
+    "cleaned": true,
+    "original_length": 804,
+    "cleaned_length": 729,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

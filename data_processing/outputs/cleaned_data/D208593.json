@@ -1,0 +1,50 @@
+{
+  "document_id": "D208593",
+  "url": "https://papersofabrahamlincoln.org/documents/D208593",
+  "metadata": {
+    "date": "1837-07-22",
+    "authors": [
+      "Davis, Levi",
+      "Whiteside, John D."
+    ],
+    "keywords": [
+      "Legislators--Salaries, etc.",
+      "State governments--Officials and employees",
+      "Wages"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of Levi Davis to Abraham Lincoln, 22 July 18371",
+    "paragraphs": [
+      "Check of Levi Davis to Abraham Lincoln, 22 July 18371"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X48BBA368-74EB-4E0F-8E13-2A6C1A89808C",
+        "text": "1This partially printed check was filled in by Levi Davis and signed by Davis and Whiteside.\n                  Lincoln countersigned it on the back side."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Levi Davis to Abraham Lincoln, 22 July 18371"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Countersigned and Registered.]"
+      }
+    ],
+    "word_count": 10
+  },
+  "extraction_date": "2025-12-26 20:05:35",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 85,
+    "cleaned_length": 53,
+    "preserved_originality": true
+  }
+}

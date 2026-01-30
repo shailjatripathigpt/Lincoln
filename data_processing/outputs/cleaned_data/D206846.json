@@ -1,0 +1,71 @@
+{
+  "document_id": "D206846",
+  "url": "https://papersofabrahamlincoln.org/documents/D206846",
+  "metadata": {
+    "date": "1836-08-22",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveys",
+      "Surveying",
+      "Wages",
+      "Payment"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to School Commissioner, 22 August 18361 Free. A. Lincoln P M4New Salem Ills Something more than a year ago, at the request of the trustees, IsurveyedSec. 16 Town 19. Range 8, being in yourcounty.2As yet, I have been paid nothing for it. Will you be so good as to get my claim\n\nallowed at the September term of theCounty Commissioner's Court?",
+    "paragraphs": [
+      "Abraham Lincoln to School Commissioner, 22 August 18361 Free. A. Lincoln P M4New Salem Ills Something more than a year ago, at the request of the trustees, IsurveyedSec. 16 Town 19. Range 8, being in yourcounty.2As yet, I have been paid nothing for it. Will you be so good as to get my claim",
+      "allowed at the September term of theCounty Commissioner's Court?"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Survey for Trustees of Schools of Township 19 North, Range 8 West.",
+      "“An Act to Enable the People of the Illinois Territory to Form a Constitution and\n                     State Government, and for the Admission of Such State into the Union on an Equal Footing\n                     with the Original States,” 18 April 1818,Statutes at Large of the United States3 (1846):428-31; W. L. Pillsbury, “Early Education in Illinois,”Sixteenth Biennial Report of the Superintendent of Public Instruction of the State\n                        of Illinois(Springfield, IL: H. W. Rokker, 1886), 106-7.",
+      "Record of Appointment of Abraham Lincoln as Postmaster of New Salem, Illinois."
+    ],
+    "footnotes": [
+      {
+        "id": "X274DACDD-4BF1-4FFE-B39B-BDDEFB2349C9",
+        "text": "1Abraham Lincoln wrote all the text on page one, as well as the “Free” frank and the\n                  address on the back page."
+      },
+      {
+        "id": "XD266EB44-C061-4C41-84D5-8B860145991F",
+        "text": "2The land described here lies in the northeast corner of present-dayCass County. The trustees wereBenjamin Sutton,James Hickey, andWilliam Morgan.Survey for Trustees of Schools of Township 19 North, Range 8 West."
+      },
+      {
+        "id": "X4862DDF9-5584-4AA2-ACCF-5A682851C420",
+        "text": "3TheLand Ordinance of 1785reserved the sixteenth section of each full thirty-six-section township to support\n                  public schools within the township.  In 1818, whenCongresspassed the act enabling theIllinois Territoryto become a state, it granted to every  township in the state the proceeds of the\n                  sale of land in each township’s Section 16. This money became known as the common\n                  school fund.“An Act to Enable the People of the Illinois Territory to Form a Constitution and\n                     State Government, and for the Admission of Such State into the Union on an Equal Footing\n                     with the Original States,” 18 April 1818,Statutes at Large of the United States3 (1846):428-31; W. L. Pillsbury, “Early Education in Illinois,”Sixteenth Biennial Report of the Superintendent of Public Instruction of the State\n                        of Illinois(Springfield, IL: H. W. Rokker, 1886), 106-7."
+      },
+      {
+        "id": "X056B5CF9-5AFE-413B-ACE6-2A9BC51676F0",
+        "text": "4The Post Office at New Salem having been closed on May 30, 1836, Lincoln was no longer\n                  technically postmaster.Record of Appointment of Abraham Lincoln as Postmaster of New Salem, Illinois."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to School Commissioner, 22 August 18361"
+      },
+      {
+        "type": "description",
+        "text": "Free. A. Lincoln P M[Postmaster]4New Salem Ills"
+      },
+      {
+        "type": "paragraph",
+        "text": "Something more than a year ago, at the request of the trustees, IsurveyedSec.[Section] 16 Town[Township] 19. Range 8, being in yourcounty.2As yet, I have been paid nothing  for it. Will you be so good as to get my claim\n               allowed at the September term of theCounty Commissioner's Court?"
+      }
+    ],
+    "word_count": 63
+  },
+  "extraction_date": "2025-12-26 20:04:07",
+  "word_count": 63,
+  "processing": {
+    "cleaned": true,
+    "original_length": 403,
+    "cleaned_length": 357,
+    "preserved_originality": true
+  }
+}

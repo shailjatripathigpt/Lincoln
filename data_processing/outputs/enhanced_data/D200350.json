@@ -1,0 +1,78 @@
+{
+  "document_id": "D200350",
+  "url": "https://papersofabrahamlincoln.org/documents/D200350",
+  "metadata": {
+    "date": "1844-03-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Tariff",
+      "Political candidates"
+    ],
+    "type": "Speech",
+    "extracted_date": "1844-03-01",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "people",
+      "they",
+      "lincoln",
+      "some",
+      "him",
+      "enlightened",
+      "baker",
+      "made",
+      "suppose",
+      "make",
+      "farmer",
+      "tariff",
+      "such",
+      "then",
+      "his"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Summary of Speech at Sugar Creek, Illinois, 1 March 18441 The poor ignorant people were enlightened by speeches (if they were worthy of the\n\nname) from MessrsLincoln,Baker,HenryandMcNeil. Mr. Lincoln made some large statements, but I suppose they were true, for he had\n\nthe document with him. He attempted to make the farmer believe that the high pressure\n\ntariff made every thing they bought cheaper, but said also he could not tell the reason,\n\nbut that it was so, and I suppose that is enough for the huge farmer to know. Now,\n\nthe little boys who Mr. Lincoln enlightened as to what the tariff was, could have\n\ntold him better than to make such a statement. He then proceeded along very calmly,\n\nuntil Mr. Baker handed him aState Register, containing some extracts from the papers ofAlex. Hamilton; then he rolled his eyes and shook his head, as if he had seen an Irishman. I think\n\nI never saw such a stew as that piece threw them into; Lincoln came near having a\n\nchicken fit, and a choking to death; but fortunately some water was proeured and he got over it.",
+    "paragraphs": [
+      "Summary of Speech at Sugar Creek, Illinois, 1 March 18441 The poor ignorant people were enlightened by speeches (if they were worthy of the",
+      "name) from MessrsLincoln,Baker,HenryandMcNeil. Mr. Lincoln made some large statements, but I suppose they were true, for he had",
+      "the document with him. He attempted to make the farmer believe that the high pressure",
+      "tariff made every thing they bought cheaper, but said also he could not tell the reason,",
+      "but that it was so, and I suppose that is enough for the huge farmer to know. Now,",
+      "the little boys who Mr. Lincoln enlightened as to what the tariff was, could have",
+      "told him better than to make such a statement. He then proceeded along very calmly,",
+      "until Mr. Baker handed him aState Register, containing some extracts from the papers ofAlex. Hamilton; then he rolled his eyes and shook his head, as if he had seen an Irishman. I think",
+      "I never saw such a stew as that piece threw them into; Lincoln came near having a",
+      "chicken fit, and a choking to death; but fortunately some water was proeured and he got over it."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X49D34B12-32AB-4D9E-B53E-CD369B234640",
+        "text": "1TheDemocraticIllinois State Registerpublished this summary of Abraham Lincoln’s speech as a letter to the editors. No\n                  other account of  the speech has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Summary of Speech at Sugar Creek, Illinois, 1 March 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "The poor ignorant people were enlightened by speeches (if they were worthy of the\n               name) from Messrs[Messieurs]Lincoln,Baker,HenryandMcNeil. Mr. Lincoln made some large statements, but I suppose they were true, for he had\n               the document with him.  He attempted to make the farmer believe that the high pressure\n               tariff made every thing they bought cheaper, but said also he could not tell the reason,\n               but that it was so, and I suppose that is enough for the huge farmer to know.  Now,\n               the little boys who Mr. Lincoln enlightened as to what the tariff was, could have\n               told him better than to make such a statement.  He then proceeded along very calmly,\n               until Mr. Baker handed him aState Register, containing some extracts from the papers ofAlex. Hamilton; then he rolled his eyes and shook his head, as if he had seen an Irishman.  I think\n               I never saw such a stew as that piece threw them into; Lincoln came near having a\n               chicken fit, and a choking to death; but fortunately some water was proeured and he got over it."
+      }
+    ],
+    "word_count": 189
+  },
+  "extraction_date": "2025-12-26 20:20:05",
+  "word_count": 189,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1206,
+    "cleaned_length": 1065,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

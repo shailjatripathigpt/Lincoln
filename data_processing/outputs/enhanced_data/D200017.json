@@ -1,0 +1,72 @@
+{
+  "document_id": "D200017",
+  "url": "https://papersofabrahamlincoln.org/documents/D200017",
+  "metadata": {
+    "date": "1833-XX-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Collecting of accounts",
+      "Debtor and creditor"
+    ],
+    "type": "Account",
+    "extracted_date": "1833-XX-XX",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "account",
+      "james",
+      "eastep",
+      "henry",
+      "onstot"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Account of James Eastep to Henry Onstot, 1",
+    "paragraphs": [
+      "Account of James Eastep to Henry Onstot, 1"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Benjamin P. Thomas,Lincoln's New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 61-63."
+    ],
+    "footnotes": [
+      {
+        "id": "XA9200A07-BF06-4EA5-BB25-889FB44B7DC4",
+        "text": "1Abraham Lincoln wrote the entirety of this document."
+      },
+      {
+        "id": "XA048A860-16D0-413E-98B3-2328D7DC9B0D",
+        "text": "2This account likely reflects transactions the parties made in theLincoln & Berrystore.Benjamin P. Thomas,Lincoln's New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 61-63."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Account of James Eastep to Henry Onstot, [1833]1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "To | Sack Salt | $4—901/2",
+          "tobacco paidSummers. | 25",
+          "articles paid E— Eastep | 75",
+          "articles paid self— | 1  50",
+          "$7—401/2"
+        ]
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 19:46:23",
+  "word_count": 10,
+  "processing": {
+    "cleaned": true,
+    "original_length": 58,
+    "cleaned_length": 42,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

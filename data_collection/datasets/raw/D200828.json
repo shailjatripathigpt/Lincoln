@@ -1,0 +1,106 @@
+{
+  "document_id": "D200828",
+  "url": "https://papersofabrahamlincoln.org/documents/D200828",
+  "metadata": {
+    "date": "1855-01-01",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Elections",
+      "Political campaigns",
+      "United States. Congress. Senate",
+      "Political parties",
+      "Legislators--U.S. states"
+    ],
+    "type": "List"
+  },
+  "content": {
+    "full_text": "List of Members of the Illinois Legislature in 1855, [1 January 1855]2 Democrats11–  Of these, MrGraham did not vote last winter;3and MrDetrich has since written a letter against the repeal of theMo. comp– Whigs9 A N. D 5– Of these two classes several4have gone into theRepublican organization– Abn[Abolitionist]1of the three last classes,8a great many have gone into the Republican organization Nebraska Whig 1. Vacancy 1",
+    "paragraphs": [
+      "List of Members of the Illinois Legislature in 1855, [1 January 1855]2",
+      "Democrats11–  Of these, MrGraham did not vote last winter;3and MrDetrich has since written a letter against the repeal of theMo. comp–",
+      "Whigs9",
+      "A N. D 5– Of these two classes several4have gone into theRepublican organization–",
+      "Abn[Abolitionist]1of the three last classes,8a great many have gone into the Republican organization",
+      "Nebraska Whig 1.",
+      "Vacancy 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:296; Illinois HouseJournal. 1855. 19th G. A., 3; Illinois SenateJournal. 1855. 19th G. A., 3.",
+      "John Clayton, comp.,The Illinois Fact Book and Historical Almanac, 1673-1968(Carbondale: Southern Illinois University Press, 1970), 220.",
+      "Illinois Daily Journal(Springfield), 2 January 1855, 2:3."
+    ],
+    "footnotes": [
+      {
+        "id": "X7F18FD6C-EDF1-4184-81E4-18ACD86E23E4",
+        "text": "1Robert Boal wrote and signed this endorsement."
+      },
+      {
+        "id": "X8CF2D643-98E0-4A4F-8336-A2CDD6E4AF85",
+        "text": "2Abraham Lincoln wrote the text of this document.  Lincoln prepared another version for Samuel C. Parks.  The Boal and Parks versions are the only extant copies of several\n                  Lincoln prepared for use by his supporters in his bid to become U.S. senator in 1855.\n                  Principal variations between these versions are noted in footnotes.  The actual date\n                  Lincoln prepared this list is unknown; the editors have adopted the inferred date\n                  of January 1, 1855--the opening of theNineteenth Illinois General Assembly.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:296; Illinois HouseJournal. 1855. 19th G. A., 3; Illinois SenateJournal. 1855. 19th G. A., 3."
+      },
+      {
+        "id": "XB74339A4-5635-442D-B886-0358F15B0CDD",
+        "text": "3In the Parks version, the phrase “and his district A.N.D over 2000” is written."
+      },
+      {
+        "id": "XFF86C030-4FBE-44A8-A9E9-3969DC9CFF90",
+        "text": "4In the Parks version, the word “several” is replaced with the phase “a great many”."
+      },
+      {
+        "id": "X38AF57C2-4AD9-4AB5-9C94-C08331637262",
+        "text": "5James M. Bradford was not in the legislature during this time period.James Bradfordfrom Bond County was the only Bradford serving at this time.John Clayton, comp.,The Illinois Fact Book and Historical Almanac, 1673-1968(Carbondale: Southern Illinois University Press, 1970), 220."
+      },
+      {
+        "id": "X136DB0C3-390C-4094-AFB0-4F60724DFDE7",
+        "text": "6In the Parks version, the word “Whiteside” is replaced with the word “Lee”.  Miles S. Henry represented\n                  both Whiteside andLeecounties in the Illinois House of Representatives.Illinois Daily Journal(Springfield), 2 January 1855, 2:3."
+      },
+      {
+        "id": "X4FC37D5D-3E5D-41B8-87F4-B5D180D40584",
+        "text": "7Benjamin P. Hinch’s name is shortened to “Hinc” in the Parks version."
+      },
+      {
+        "id": "X83894162-8B16-4CC7-A546-1DE5090F17BC",
+        "text": "8In the Parks version, this clause reads as: “Of these two last classes, many have gone”."
+      },
+      {
+        "id": "XB385BFD8-F9BB-45C7-8393-401FC073F334",
+        "text": "9The Parks version does not include the above partial list.  It does include a list of the officers\n                  of the Illinois House and Senate."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "List of Members of the Illinois Legislature in 1855, [1 January 1855]2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Democrats11–  Of these, MrGraham did not vote last winter;3and MrDetrich has since written a letter against the repeal of theMo. comp–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whigs9"
+      },
+      {
+        "type": "paragraph",
+        "text": "A N. D 5– Of these two classes several4have gone into theRepublican organization–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Abn[Abolitionist]1of the three last classes,8a great many have gone into the Republican organization"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nebraska Whig 1."
+      },
+      {
+        "type": "paragraph",
+        "text": "Vacancy 1"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:34:52",
+  "word_count": 65
+}

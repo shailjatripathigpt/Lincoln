@@ -1,0 +1,84 @@
+{
+  "document_id": "D200256",
+  "url": "https://papersofabrahamlincoln.org/documents/D200256",
+  "metadata": {
+    "date": "1841-02-06",
+    "authors": [],
+    "keywords": [
+      "Incorporation",
+      "Public lands",
+      "Railroads"
+    ],
+    "type": "Legislative debate",
+    "extracted_date": "1841",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "country",
+      "principle",
+      "bill",
+      "alton",
+      "road",
+      "company",
+      "committee",
+      "state",
+      "property",
+      "not",
+      "one",
+      "all",
+      "reference",
+      "summary",
+      "legislative"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Summary of Legislative Debate on “A Bill Supplemental to the Charter of the Springfield\n\nand Alton Turnpike Road Company,” 6 February 1841 MrEdwards, from the committee on Internal Improvement, reported back thebillto incorporate theSpringfield and Alton Rail Road company, with anamendmentproviding for the use of theStateproperty. The question being on ordering the bill to a third reading, Mr.Munsellopposed the bill on the ground that the State property should not be given without\n\nconditions, to one section of the country more than another. MrLincolnreplied, and shewed in substance that the State property would all be lost and go\n\nto ruin, if the principle be adopted that no one shall have any, for fear all shall\n\nnot have some. MrMunsellrejoined, and moved to refer the bill and amendments to the committee of Finance.\n\nA discussion. on the reference ensued, in which Messrs. Edwards,Gillespie,Dollins, Munsell,Peck, Lincoln,Dougherty,Kitchell,Ross, andTrumbullparticipated; the reference was then agreed to.",
+    "paragraphs": [
+      "Summary of Legislative Debate on “A Bill Supplemental to the Charter of the Springfield",
+      "and Alton Turnpike Road Company,” 6 February 1841 MrEdwards, from the committee on Internal Improvement, reported back thebillto incorporate theSpringfield and Alton Rail Road company, with anamendmentproviding for the use of theStateproperty. The question being on ordering the bill to a third reading, Mr.Munsellopposed the bill on the ground that the State property should not be given without",
+      "conditions, to one section of the country more than another. MrLincolnreplied, and shewed in substance that the State property would all be lost and go",
+      "to ruin, if the principle be adopted that no one shall have any, for fear all shall",
+      "not have some. MrMunsellrejoined, and moved to refer the bill and amendments to the committee of Finance.",
+      "A discussion. on the reference ensued, in which Messrs. Edwards,Gillespie,Dollins, Munsell,Peck, Lincoln,Dougherty,Kitchell,Ross, andTrumbullparticipated; the reference was then agreed to."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Summary of Legislative Debate on “A Bill Supplemental to the Charter of the Springfield\n               and Alton Turnpike Road Company,” 6 February 1841"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrEdwards, from the committee on Internal Improvement, reported back thebillto incorporate theSpringfield and Alton Rail Road company, with anamendmentproviding for the use of theStateproperty."
+      },
+      {
+        "type": "paragraph",
+        "text": "The question being on ordering the bill to a third reading,"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr.Munsellopposed the bill on the ground that the State property should not be given without\n               conditions, to one section of the country more than another."
+      },
+      {
+        "type": "paragraph",
+        "text": "MrLincolnreplied, and shewed in substance that the State property would all be lost and go\n               to ruin, if the principle be adopted that no one shall have any, for fear all shall\n               not have some."
+      },
+      {
+        "type": "paragraph",
+        "text": "MrMunsellrejoined, and moved to refer the bill and amendments to the committee of Finance.\n               A discussion. on the reference ensued, in which Messrs.[Messieurs] Edwards,Gillespie,Dollins, Munsell,Peck, Lincoln,Dougherty,Kitchell,Ross, andTrumbullparticipated; the reference was then agreed to."
+      }
+    ],
+    "word_count": 150
+  },
+  "extraction_date": "2025-12-26 20:15:02",
+  "word_count": 150,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1101,
+    "cleaned_length": 1020,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

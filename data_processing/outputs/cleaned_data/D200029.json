@@ -1,0 +1,53 @@
+{
+  "document_id": "D200029",
+  "url": "https://papersofabrahamlincoln.org/documents/D200029",
+  "metadata": {
+    "date": "1834-03-01",
+    "authors": [
+      "Green, Bowling",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Nominations for office",
+      "Political candidates",
+      "Governors--election"
+    ],
+    "type": "Proceedings"
+  },
+  "content": {
+    "full_text": "Proceedings of a Meeting of Citizens of New Salem regarding Candidate for Governor,\n\n1 March 1834 PUBLIC MEETING.",
+    "paragraphs": [
+      "Proceedings of a Meeting of Citizens of New Salem regarding Candidate for Governor,",
+      "1 March 1834 PUBLIC MEETING."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 369-70; Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 86."
+    ],
+    "footnotes": [
+      {
+        "id": "X1395C7C9-9871-4411-B724-844E29219026",
+        "text": "1James D. Henry had moved toNew Orleansin 1833 in the hope that a warmer climate would alleviate a health condition. Henry\n                  died there on March 5, 1834. At the next election in August 1834,Joseph Duncanwas elected governor of Illinois.John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 369-70; Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 86."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Proceedings of a Meeting of Citizens of New Salem regarding Candidate for Governor,\n               1 March 1834"
+      },
+      {
+        "type": "paragraph",
+        "text": "PUBLIC MEETING."
+      }
+    ],
+    "word_count": 18
+  },
+  "extraction_date": "2025-12-26 19:46:04",
+  "word_count": 18,
+  "processing": {
+    "cleaned": true,
+    "original_length": 127,
+    "cleaned_length": 113,
+    "preserved_originality": true
+  }
+}

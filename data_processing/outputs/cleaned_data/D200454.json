@@ -1,0 +1,63 @@
+{
+  "document_id": "D200454",
+  "url": "https://papersofabrahamlincoln.org/documents/D200454",
+  "metadata": {
+    "date": "1848-02-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Opposition (Political science)",
+      "Speeches",
+      "War--Causes"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Herndon, 2 February 18481 I just take up my pen to say, that MrStephensofGeorgia, a little slim, pale-faced, consumptive man, with a voice likeLogan's has just concluded the very best speech, of an hour's length, I ever heard– My old, withered, dry eyes, are full of tears yet– If he writes it out any thing like he delivered it, our people shall see a good many\n\ncopies of it–2",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Herndon, 2 February 18481 I just take up my pen to say, that MrStephensofGeorgia, a little slim, pale-faced, consumptive man, with a voice likeLogan's has just concluded the very best speech, of an hour's length, I ever heard– My old, withered, dry eyes, are full of tears yet– If he writes it out any thing like he delivered it, our people shall see a good many"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Cong. Globe, 30th Cong., 1st Sess., Appendix, 159-63 (1848); Thomas E. Schott,Alexander H. Stephens of Georgia: A Biography(Baton Rouge and London: Louisiana State University Press, 1988), 81;Speech of Mr. Stephens, of Georgia, on the War and Taxation. Delivered in the House\n                        of Representatives of the U.S., February 2, 1848(Washington, DC: J. & G. S. Gideon, [1848]), 1-16."
+    ],
+    "footnotes": [
+      {
+        "id": "X2C93A0F6-EE86-49E8-A1ED-8FF097365606",
+        "text": "1Abraham Lincoln wrote and signed this letter.  The original letter, which was in the\n                  Oliver R. Barrett Collection in 1953, has not been located."
+      },
+      {
+        "id": "X9E11ECC9-A746-4A97-824E-3AD2B4575E62",
+        "text": "2Delivered during debate in theHouse of Representativesover submitting PresidentJames K. Polk’s annual message to the appropriate committees, Alexander H. Stephens excoriated\n                  the Polk administration for theMexican War, calling the conflict “a wanton outrage upon the Constitution” began by the president’s\n                  “most miserable subterfuges,”  an act of aggression “against a neighboring people\n                  to compel them to sell their country.”  Polk was “the greatest enemy the people of\n                  this country have at this time,” for he was “waging a war against the Constitution\n                  of the country.”J. & G. S. Gideonissued Stephen’s speech in pamphlet form sometime in 1848.Cong. Globe, 30th Cong., 1st Sess., Appendix, 159-63 (1848); Thomas E. Schott,Alexander H. Stephens of Georgia: A Biography(Baton Rouge and London: Louisiana State University Press, 1988), 81;Speech of Mr. Stephens, of Georgia, on the War and Taxation. Delivered in the House\n                        of Representatives of the U.S., February 2, 1848(Washington, DC: J. & G. S. Gideon, [1848]), 1-16."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Herndon, 2 February 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "I just take up my pen to say, that MrStephensofGeorgia, a little slim, pale-faced, consumptive man, with a voice likeLogan's has just concluded the very best speech, of an hour's length, I ever heard–"
+      },
+      {
+        "type": "paragraph",
+        "text": "My old, withered, dry eyes, are full of tears yet–"
+      },
+      {
+        "type": "paragraph",
+        "text": "If he writes it out any thing like he delivered it, our people shall see a good many\n               copies of it–2"
+      }
+    ],
+    "word_count": 74
+  },
+  "extraction_date": "2025-12-26 20:27:34",
+  "word_count": 74,
+  "processing": {
+    "cleaned": true,
+    "original_length": 422,
+    "cleaned_length": 408,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "D234725",
+  "url": "https://papersofabrahamlincoln.org/documents/D234725",
+  "metadata": {
+    "date": "1849-02-08",
+    "authors": [
+      "Eccles, Joseph T."
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "United States marshals"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Joseph T. Eccles to Abraham Lincoln, 8 February 18491 I understandAndrew McCallanEsqr desires the appointment of Marshall toCalifornia– May I request your kind aid in his behalf– He is one of the few of our friends who\n\nhas never truckled to the powers ofLocofocoism, even in Egypt–,2and I should be pleased to hear of his success–3",
+    "paragraphs": [
+      "Joseph T. Eccles to Abraham Lincoln, 8 February 18491 I understandAndrew McCallanEsqr desires the appointment of Marshall toCalifornia– May I request your kind aid in his behalf– He is one of the few of our friends who",
+      "has never truckled to the powers ofLocofocoism, even in Egypt–,2and I should be pleased to hear of his success–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Richard J. Jensen,Illinois: A History(Urbana: University of Illinois Press, 1981), 3; Edward Callary,Place Names of Illinois(Urbana: University of Illinois Press, 2009), 106.",
+      "Niles National Register(Philadelphia, PA), 6 June 1849, 1:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 139;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;John W. Norton to Abraham Lincoln; Arthur Arthur Charles Cole, ed.,The Constitutional Debates of 1847(Springfield: Illinois State Historical Library, 1919), 969."
+    ],
+    "footnotes": [
+      {
+        "id": "X080B31F2-EC7A-492D-BA8A-7ECE67C3306A",
+        "text": "1Joseph T. Eccles wrote the letter in its entirety.  Different color ink was used throughout."
+      },
+      {
+        "id": "XCFA64A5F-39E6-4F8C-B1AC-1AC09A7EE868",
+        "text": "2“Egypt” and “Little Egypt” were and are popular nicknames for southern Illinois.Richard J. Jensen,Illinois: A History(Urbana: University of Illinois Press, 1981), 3; Edward Callary,Place Names of Illinois(Urbana: University of Illinois Press, 2009), 106."
+      },
+      {
+        "id": "X4476F817-8633-4F73-A58A-4B04F15EC8C6",
+        "text": "3Andrew McCallen did not become marshal of California; Abraham Lincoln andEdward D. Bakerinstead endorsed McCallen for the position of register of theGeneral Land OfficeatShawneetown.  McCallen received the appointment and held the job from June 1849 to May 1853.Niles National Register(Philadelphia, PA), 6 June 1849, 1:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 139;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;John W. Norton to Abraham Lincoln; Arthur Arthur Charles Cole, ed.,The Constitutional Debates of 1847(Springfield: Illinois State Historical Library, 1919), 969."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Joseph T. Eccles to Abraham Lincoln, 8 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I understandAndrew McCallanEsqr[Esquire] desires the appointment of Marshall toCalifornia– May I request your kind aid in his behalf– He is one of the few of our friends who\n               has never truckled to the powers ofLocofocoism, even in Egypt–,2and I should be pleased to hear of his success–3"
+      }
+    ],
+    "word_count": 56
+  },
+  "extraction_date": "2025-12-26 20:33:51",
+  "word_count": 56,
+  "processing": {
+    "cleaned": true,
+    "original_length": 355,
+    "cleaned_length": 332,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "D210539",
+  "url": "https://papersofabrahamlincoln.org/documents/D210539",
+  "metadata": {
+    "date": "1849-06-15",
+    "authors": [
+      "Thompson, Richard W."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Richard W. Thompson to Abraham Lincoln, 15 June 1 I send youEllis’ letter enclosed.2I sent youJudahs’ yesterday3",
+    "paragraphs": [
+      "Richard W. Thompson to Abraham Lincoln, 15 June 1 I send youEllis’ letter enclosed.2I sent youJudahs’ yesterday3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+    ],
+    "footnotes": [
+      {
+        "id": "X8385D2C7-5F38-4632-99B2-1D25B31C8BD8",
+        "text": "1Richard W. Thompson wrote and signed this letter."
+      },
+      {
+        "id": "X098719D1-A857-4C58-B672-93E0E2E56919",
+        "text": "2The letter from Abner T. Ellis that Thompson references was not enclosed and has not\n                  been located. However, it was most likely a letter of reference for Abraham Lincoln’s\n                  appointment as commissioner of theU.S. General Land Office. In early June 1849, Lincoln sent a series of letters to numerous people requesting\n                  letters in support of his candidacy for commissioner.Originally, onlyJustin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner. Lincoln entered the competition after learning\n                  that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair. In late May 1849, LincolnwroteThompson a letter on the topic of Butterfield winning the appointment.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "X8579DAC9-0F66-4489-B38A-A85FB66E870B",
+        "text": "3Samuel Judah’s letter has not been located.  ThompsonwroteLincoln another letter June 14, 1849, regarding the contest for commissioner. Ultimately,\n                  neither Morrison, Edwards, nor Lincoln received the appointment; the job went to Butterfield\n                  instead.  See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Richard W. Thompson to Abraham Lincoln, 15 June [1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I send youEllis’ letter enclosed.2I sent youJudahs’ yesterday3"
+      }
+    ],
+    "word_count": 17
+  },
+  "extraction_date": "2025-12-26 21:18:23",
+  "word_count": 17,
+  "processing": {
+    "cleaned": true,
+    "original_length": 118,
+    "cleaned_length": 112,
+    "preserved_originality": true
+  }
+}

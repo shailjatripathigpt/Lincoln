@@ -1,0 +1,51 @@
+{
+  "document_id": "D200025",
+  "url": "https://papersofabrahamlincoln.org/documents/D200025",
+  "metadata": {
+    "date": "1833-10-19",
+    "authors": [
+      "Berry, William F.",
+      "Green, William (of Sangamon Co., IL)",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debtor and creditor"
+    ],
+    "type": "Promissory note"
+  },
+  "content": {
+    "full_text": "Promissory Note of William F. Berry, Abraham Lincoln and William Green to Reuben Radford,\n\n19 October 18331",
+    "paragraphs": [
+      "Promissory Note of William F. Berry, Abraham Lincoln and William Green to Reuben Radford,"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Autobiography of Abraham Lincoln Written for John L. Scripps;Vanbergen v. Lincoln, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140678."
+    ],
+    "footnotes": [
+      {
+        "id": "XBD98DEFF-59F5-48AF-99CC-D7E7896F31A2",
+        "text": "1Abraham Lincoln wrote the body of the text and signed his own name."
+      },
+      {
+        "id": "X13256B77-C231-461F-974C-B8D66FBF5D55",
+        "text": "2Berry, Lincoln, and Green purchased a grocery store on credit from Radford. Green\n                  later sold his interest in the store. The subsequent failure ofLincoln & Berryto repay the Radford debt became the basis ofVanbergen v. Lincoln.Autobiography of Abraham Lincoln Written for John L. Scripps;Vanbergen v. Lincoln, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140678."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note of William F. Berry, Abraham Lincoln and William Green to Reuben Radford,\n               19 October 18331"
+      }
+    ],
+    "word_count": 17
+  },
+  "extraction_date": "2025-12-26 19:46:32",
+  "word_count": 17,
+  "processing": {
+    "cleaned": true,
+    "original_length": 121,
+    "cleaned_length": 107,
+    "preserved_originality": true
+  }
+}

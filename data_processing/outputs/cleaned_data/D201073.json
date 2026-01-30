@@ -1,0 +1,65 @@
+{
+  "document_id": "D201073",
+  "url": "https://papersofabrahamlincoln.org/documents/D201073",
+  "metadata": {
+    "date": "1858-08-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debates and debating",
+      "Elections",
+      "Political campaigns",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Abraham Jonas, 2 August 18581 Yoursof the 30thJuly is just received– My mind is at once made up to be with you atAugustaon the 25thof August,2unless I shall conclude it will prevent my being atFreeporton the 27thwhen and where, by appointment, I am to meetJudge Douglas–3I suppose there will be no difficulty in getting from Augusta to Freeport in due\n\ntime–4",
+    "paragraphs": [
+      "Abraham Lincoln to Abraham Jonas, 2 August 18581 Yoursof the 30thJuly is just received– My mind is at once made up to be with you atAugustaon the 25thof August,2unless I shall conclude it will prevent my being atFreeporton the 27thwhen and where, by appointment, I am to meetJudge Douglas–3I suppose there will be no difficulty in getting from Augusta to Freeport in due"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of\n                     1858,”The Journal of American History94 (September 2007), 392-94, 400-401; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77;Summary of Speech at Augusta, Illinois;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 25 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-25.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 25 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-25; 26 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-26; 27 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-27; Second Debate with Stephen A. Douglas at Freeport, Illinois; Second Debate with Stephen A. Douglas at Freeport, Illinois; Second Debate with Stephen A. Douglas at Freeport, Illinois."
+    ],
+    "footnotes": [
+      {
+        "id": "X397E9798-A0BA-44EE-9CC6-8DA73959115E",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X870CFC32-0522-451F-B133-61A7D8A29FC3",
+        "text": "2Abraham Jonas hadwrittenLincoln on July 30, 1858, requesting that Lincoln give a speech in Augusta on August\n                  25 following theRepublicanFifth Congressional District Convention. Lincoln had been nominated in June at the1858 Illinois Republican Conventionto run against incumbentStephen A. Douglasto representIllinoisin theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. Lincoln campaigned extensively in Illinois\n                  in the summer and fall of 1858, delivering speeches and campaigning on behalf of Republican\n                  candidates for the General Assembly. He and Douglas both focused their campaign efforts\n                  on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.Lincoln accepted Jonas’ invitation and spoke in Augusta for two hours on August 25,\n                  to a crowd that was estimated to consist of 1,200 people, roughly two thirds of whom\n                  were formerHenry ClayWhigs.Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of\n                     1858,”The Journal of American History94 (September 2007), 392-94, 400-401; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77;Summary of Speech at Augusta, Illinois;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 25 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-25."
+      },
+      {
+        "id": "X7FFB29A2-9732-4BE2-86DA-804E3083EEE1",
+        "text": "3Lincoln left Augusta on August 25 following his speech, and arrived in Freeport on\n                  August 27 for the secondLincoln-Douglas Debate.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 25 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-25; 26 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-26; 27 August 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-27; Second Debate with Stephen A. Douglas at Freeport, Illinois; Second Debate with Stephen A. Douglas at Freeport, Illinois; Second Debate with Stephen A. Douglas at Freeport, Illinois."
+      },
+      {
+        "id": "XFA12BE13-2B47-4E65-9ADA-B615CBFDFA62",
+        "text": "4Jonasrespondedto Lincoln on August 5, 1858, to reassure him that it would be possible to travel\n                  from Augusta to Freeport in time for the Lincoln-Douglas Debate in the latter city."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Abraham Jonas, 2 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yoursof the 30thJuly is just received– My mind is at once made up to be with you atAugustaon the 25thof August,2unless I shall conclude it will prevent my being atFreeporton the 27thwhen and where, by appointment, I am to meetJudge Douglas–3I suppose there will be no difficulty in getting from Augusta to Freeport in due\n               time–4"
+      }
+    ],
+    "word_count": 64
+  },
+  "extraction_date": "2025-12-26 21:54:54",
+  "word_count": 64,
+  "processing": {
+    "cleaned": true,
+    "original_length": 392,
+    "cleaned_length": 378,
+    "preserved_originality": true
+  }
+}

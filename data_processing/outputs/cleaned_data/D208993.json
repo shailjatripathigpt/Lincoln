@@ -1,0 +1,83 @@
+{
+  "document_id": "D208993",
+  "url": "https://papersofabrahamlincoln.org/documents/D208993",
+  "metadata": {
+    "date": "1857-12-31",
+    "authors": [
+      "Clarke, James C."
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Railroads--Employees",
+      "Railroad passes"
+    ],
+    "type": "Pass"
+  },
+  "content": {
+    "full_text": "Railroad Pass for Abraham Lincoln, 31 December 18571 NOT TRANSFERABLE2 This Ticket will pass but one person.3 PassHon A Lincoln Attorney forCompany4 Until Dec. 31, 1858,unless otherwie ordered.",
+    "paragraphs": [
+      "Railroad Pass for Abraham Lincoln, 31 December 18571 NOT TRANSFERABLE2 This Ticket will pass but one person.3 PassHon A Lincoln Attorney forCompany4 Until Dec. 31, 1858,unless otherwie ordered."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 49-54; For Lincoln’s cases\n                     involving the Illinois Central Railroad, search Participant, “Illinois Central RR,”\n                     Martha L. Benner and Cullom Davis, et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+    ],
+    "footnotes": [
+      {
+        "id": "XB0B54A8A-139F-4591-82F7-1327E63E8821",
+        "text": "1James C. Clarke filled in the blanks on this partially printed railroad pass and signed\n                  it. The pass bears ten punched holes, presumably made on presentation of the pass\n                  to a railroad official for use."
+      },
+      {
+        "id": "DEW987308185712310000_1",
+        "text": "2This text is printed vertically on the left side of the pass."
+      },
+      {
+        "id": "DEW439929185712310000_2",
+        "text": "3This text is printed vertically on the right side of the pass."
+      },
+      {
+        "id": "X0ED2706F-55CE-4519-A926-7FC18BC2CEC6",
+        "text": "4Lincoln had been  an attorney for the Illinois Central Railroad Company since 1853.Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 49-54; For Lincoln’s cases\n                     involving the Illinois Central Railroad, search Participant, “Illinois Central RR,”\n                     Martha L. Benner and Cullom Davis, et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+      },
+      {
+        "id": "XAB8EB14F-2C08-4544-8A22-76C585646BE8",
+        "text": "5No correspondence related to this railroad pass has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Railroad Pass for Abraham Lincoln, 31 December 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "NOT TRANSFERABLE2"
+      },
+      {
+        "type": "paragraph",
+        "text": "This Ticket will pass but one person.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "PassHon A Lincoln"
+      },
+      {
+        "type": "paragraph",
+        "text": "Attorney forCompany4"
+      },
+      {
+        "type": "paragraph",
+        "text": "Until Dec.[December] 31, 1858,unless otherwi[s]e ordered."
+      }
+    ],
+    "word_count": 28
+  },
+  "extraction_date": "2025-12-26 21:45:01",
+  "word_count": 28,
+  "processing": {
+    "cleaned": true,
+    "original_length": 206,
+    "cleaned_length": 193,
+    "preserved_originality": true
+  }
+}

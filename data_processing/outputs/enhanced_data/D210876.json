@@ -1,0 +1,89 @@
+{
+  "document_id": "D210876",
+  "url": "https://papersofabrahamlincoln.org/documents/D210876",
+  "metadata": {
+    "date": "1858-08-16",
+    "authors": [
+      "Aiken, James"
+    ],
+    "keywords": [
+      "Debates and debating",
+      "Elections",
+      "Humorous stories",
+      "Political campaigns",
+      "Poetry",
+      "Slavery--Extension to the territories",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-08-16",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "freedom",
+      "you",
+      "send",
+      "james",
+      "aiken",
+      "abraham",
+      "lincoln",
+      "august",
+      "take",
+      "deepest",
+      "interest",
+      "yourcontestwithdouglas",
+      "all",
+      "heart",
+      "wish"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "James Aiken to Abraham Lincoln, 16 August 18581 I take the deepest interest in yourcontestwithDouglas, and with all my heart, I wish you success. I send you a story clipped from a news-paper. Could you not use it as an illustration of the relative position of yourself and\n\nof the “Giant”? Did’nt theRepublicanschurn out freedom inKansas? And has’nt Douglas been churning butter-milk ever since last winter?2You can apply the Parable better than I can3 I send you also, a few humble rhymes, as my greeting to Kansas. Would it be poss^i^ble for you in the midst of your mighty labors, to write me only three or four lines\n\nto say how goes thebattle?4 The eyes of freemen here are on you",
+    "paragraphs": [
+      "James Aiken to Abraham Lincoln, 16 August 18581 I take the deepest interest in yourcontestwithDouglas, and with all my heart, I wish you success. I send you a story clipped from a news-paper. Could you not use it as an illustration of the relative position of yourself and",
+      "of the “Giant”? Did’nt theRepublicanschurn out freedom inKansas? And has’nt Douglas been churning butter-milk ever since last winter?2You can apply the Parable better than I can3 I send you also, a few humble rhymes, as my greeting to Kansas. Would it be poss^i^ble for you in the midst of your mighty labors, to write me only three or four lines",
+      "to say how goes thebattle?4 The eyes of freemen here are on you"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:445-50; David M. Potter\n                     and Don E. Fehrenbacher,The Impending Crisis, 1848-1861(New York: Harper & Row, 1976), 322-25.",
+      "Lewisburg Chronicle(PA), 13 August 1858, 4:2.",
+      "Barre Gazette(MA), 18 September 1846, 2:2;Gazette and Courier(Greenfield, MA), 22 September 1846, 2:3;Western Citizen(Chicago, IL), 10 November 1846, 4:1;Alton Telegraph & Democratic Review(IL), 5 March 1847, 1:6-7;The Dixon Telegraph(IL), 8 October 1853, 1:2;Monongahela Weekly Republican(Monongahela City, PA), 3 June 1858, 1:4;Carlisle Herald(PA), 9 June 1858, 1:6;Franklin Repository and Transcript(Chambersburg, PA), 16 June 1858, 6:1;The Brookville Jeffersonian(PA), 8 July 1858, 3:1;Raftsman’s Journal(Clearfield, PA), 11 August 1858, 1:5;The Sunbury American(PA), 14 August 1858, 1:6.",
+      "Genesis 6:1-8:22.",
+      "Barre Gazette(MA), 18 September 1846, 2:2;Gazette and Courier(Greenfield, MA), 22 September 1846, 2:3;Carlisle Herald(PA), 9 June 1858, 1:6;Franklin Repository and Transcript(Chambersburg, PA), 16 June 1858, 6:1;The Brookville Jeffersonian(PA), 8 July 1858, 3:1;Raftsman’s Journal(Clearfield, PA), 11 August 1858, 1:5;The Sunbury American(PA), 14 August 1858, 1:6; James A. H. Murray, ed.,A New English Dictionary on Historical Principles(Oxford: Clarendon Press, 1914), 8:548."
+    ],
+    "footnotes": [],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James Aiken to Abraham Lincoln, 16 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "I take the deepest interest in yourcontestwithDouglas, and with all my heart, I wish you success.  I send you a story clipped from a news-paper. Could you not use it as an illustration of the relative position of yourself and\n               of the “Giant”? Did’nt theRepublicanschurn out freedom inKansas?  And has’nt Douglas been churning butter-milk ever since last winter?2You can apply the Parable better than I can3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I send you also, a few humble rhymes, as my greeting to Kansas."
+      },
+      {
+        "type": "paragraph",
+        "text": "Would it be poss^i^ble for you in the midst of your mighty labors, to write me only three or four lines\n               to say how goes thebattle?4"
+      },
+      {
+        "type": "paragraph",
+        "text": "The eyes of freemen here are on you"
+      }
+    ],
+    "word_count": 121
+  },
+  "extraction_date": "2025-12-26 21:57:17",
+  "word_count": 121,
+  "processing": {
+    "cleaned": true,
+    "original_length": 715,
+    "cleaned_length": 685,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

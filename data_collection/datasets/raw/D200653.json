@@ -1,0 +1,44 @@
+{
+  "document_id": "D200653",
+  "url": "https://papersofabrahamlincoln.org/documents/D200653",
+  "metadata": {
+    "date": "1850-06-11",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Bricks",
+      "Building",
+      "Bricklaying"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Nathaniel Hay, 11 June 18501",
+    "paragraphs": [
+      "Abraham Lincoln to Nathaniel Hay, 11 June 18501"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Irvin Haas,Historic Homes of the American Presidents(New York: Dover Publications, 1991), 81;Claim against Estate of Nathaniel Hay;Claim against Estate of Nathaniel Hay."
+    ],
+    "footnotes": [
+      {
+        "id": "X8CFCEC9C-122E-4F72-90B7-A7D09F467EAD",
+        "text": "1Abraham Lincoln wrote and signed this letter. He did not, however, write the text\n                  in the second image."
+      },
+      {
+        "id": "X91752CCA-1F5A-45AB-8385-ACE6ED63465D",
+        "text": "2Lincoln had the brick foundation, which effectively became a retaining wall, as well\n                  as a front fence constructed soon after this letter to Nathaniel Hay. Five years later,\n                  Lincoln again purchased bricks from Hay to extend the brick foundation and front fence\n                  from the front of the Lincoln home to one-quarter of the way down the side of the\n                  lot facing Jackson Street.Irvin Haas,Historic Homes of the American Presidents(New York: Dover Publications, 1991), 81;Claim against Estate of Nathaniel Hay;Claim against Estate of Nathaniel Hay."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Nathaniel Hay, 11 June 18501"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:23:19",
+  "word_count": 8
+}

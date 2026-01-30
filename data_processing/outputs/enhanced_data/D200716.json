@@ -1,0 +1,77 @@
+{
+  "document_id": "D200716",
+  "url": "https://papersofabrahamlincoln.org/documents/D200716",
+  "metadata": {
+    "date": "1852-07-21",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Land grants",
+      "Real property"
+    ],
+    "type": "Letter",
+    "extracted_date": "1852-07-21",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "patent",
+      "abraham",
+      "lincoln",
+      "catharine",
+      "nance",
+      "july",
+      "morning",
+      "received",
+      "affidavit",
+      "yours",
+      "inclosed",
+      "letter",
+      "ofl",
+      "wynne",
+      "purpose"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Catharine Nance, 21 July 18521 This morning I received an affidavit of yours, inclosed with a letter ofL. B. Wynne, for the purpose of getting a Patent from the Land Office–2Herewith is the Patent,– Please accept my respects–3",
+    "paragraphs": [
+      "Abraham Lincoln to Catharine Nance, 21 July 18521 This morning I received an affidavit of yours, inclosed with a letter ofL. B. Wynne, for the purpose of getting a Patent from the Land Office–2Herewith is the Patent,– Please accept my respects–3"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XBD64312C-3D65-4F54-B5C3-02D022633B8B",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the second\n                  sheet, which was folded to form an envelope."
+      },
+      {
+        "id": "XFD8BA62A-1D04-4360-8E28-196BE208597D",
+        "text": "2The affidavit and Lewis B. Wynne’s letter have not been located."
+      },
+      {
+        "id": "X22AAAAC5-2689-426B-93E9-EF89D74C3B03",
+        "text": "3The patent was not enclosed in this letter, and its whereabouts is unknown."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Catharine Nance, 21 July 18521"
+      },
+      {
+        "type": "paragraph",
+        "text": "This morning I received an affidavit of yours, inclosed with a letter ofL. B. Wynne, for the purpose of getting a Patent from the Land Office–2Herewith is the Patent,–  Please accept my respects–3"
+      }
+    ],
+    "word_count": 41
+  },
+  "extraction_date": "2025-12-26 21:26:43",
+  "word_count": 41,
+  "processing": {
+    "cleaned": true,
+    "original_length": 246,
+    "cleaned_length": 245,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

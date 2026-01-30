@@ -1,0 +1,61 @@
+{
+  "document_id": "D200173",
+  "url": "https://papersofabrahamlincoln.org/documents/D200173",
+  "metadata": {
+    "date": "1839-04-05",
+    "authors": [
+      "Calhoun, John",
+      "Edwards, Ninian W.",
+      "Herndon, Archer G.",
+      "Lincoln, Abraham (President)",
+      "McCormick, Andrew (McCormack)"
+    ],
+    "keywords": [
+      "Revenue",
+      "Taxation",
+      "Public meetings"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln and Others to the People of Sangamon County, 5 April 1839 We, a portion of the Sangamon delgation learning that great dissatisfaction prevails among you, relative to theNew Revenue Law, ask the favor of you, to attend a public discussion of the merits and demerits of\n\nthat measure, on SATURDAY the 13th APRIL inst., atSpringfield. We invite every man in theCounty, who opposes theRevenue Law, to come armed with all the arguments against it that he can, and we confidently\n\nbelieve, we will be able to show, that none of them are well founded.1",
+    "paragraphs": [
+      "Abraham Lincoln and Others to the People of Sangamon County, 5 April 1839 We, a portion of the Sangamon delgation learning that great dissatisfaction prevails among you, relative to theNew Revenue Law, ask the favor of you, to attend a public discussion of the merits and demerits of",
+      "that measure, on SATURDAY the 13th APRIL inst., atSpringfield. We invite every man in theCounty, who opposes theRevenue Law, to come armed with all the arguments against it that he can, and we confidently",
+      "believe, we will be able to show, that none of them are well founded.1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 321."
+    ],
+    "footnotes": [
+      {
+        "id": "X8F556B58-796E-4334-BE66-FF744A59D25C",
+        "text": "1Some of Abraham Lincoln’s views can be gleaned from alettertoWilliam S. Waiton March 2, 1839."
+      },
+      {
+        "id": "X231B6311-4B20-4659-8370-7CA048445F40",
+        "text": "2The other members of the delegation wereEdward D. Baker,William F. Elkin, andJohn Dawson.  Unfortunately, there exists no newspaper account of the revenue meeting.  TheIllinois State Registerfor April 19, 1839 did not cover it, and theSangamo Journalfor that week is not extant.Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 321."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln and Others to the People of Sangamon County, 5 April 1839"
+      },
+      {
+        "type": "paragraph",
+        "text": "We, a portion of the Sangamon delgation learning that great dissatisfaction prevails among you, relative to theNew Revenue Law, ask the favor of you, to attend a public discussion of the merits and demerits of\n               that measure, on SATURDAY the 13th APRIL inst., atSpringfield.  We invite every man in theCounty, who opposes theRevenue Law, to come armed with all the arguments against it that he can, and we confidently\n               believe, we will be able to show, that none of them are well founded.1"
+      }
+    ],
+    "word_count": 96
+  },
+  "extraction_date": "2025-12-26 20:09:27",
+  "word_count": 96,
+  "processing": {
+    "cleaned": true,
+    "original_length": 590,
+    "cleaned_length": 561,
+    "preserved_originality": true
+  }
+}

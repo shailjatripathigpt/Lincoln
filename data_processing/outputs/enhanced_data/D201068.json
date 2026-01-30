@@ -1,0 +1,61 @@
+{
+  "document_id": "D201068",
+  "url": "https://papersofabrahamlincoln.org/documents/D201068",
+  "metadata": {
+    "date": "1858-08-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Democracy",
+      "Slavery"
+    ],
+    "type": "Fragment",
+    "extracted_date": "1858-08-01",
+    "extracted_type": "fragment",
+    "extracted_keywords": [
+      "definition",
+      "democracy"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Definition of Democracy, 1",
+    "paragraphs": [],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:532;Illinois State Journal and Register(Springfield), 14 February 1943, 19:5; Jean H. Baker,Mary Todd Lincoln: A Biography(New York: W. W. Norton, 1987), 338-41;The Courier-Journal(Louisville, KY), 15 September 1895, 8:4-5;The Evening Times-Republican(Marshalltown, IA), 26 February 1906, 4:6; Arthur Brooks Lapsley, ed.,The Writings of Abraham Lincoln(New York: P. F. Collier & Son, [ca. 1905-1906]), 7:389; Harry W. Hastings and Harold\n                     W. Thompson, eds.,Selections from the Works of Abraham Lincoln(New York: F. M. Ambrose, 1921), 58;The Broadax(Chicago, IL), 23 October 1915, 4:2;The Battle Creek Enquirer and the Evening News(MI), 26 February 1929, 1:6, 2:6.",
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln, 2:532;Illinois State Journal(Springfield), 10 February 1955, 3:1-2;Cong. Globe, 40th Cong., 3rd Sess., 710 (1869);Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 1675."
+    ],
+    "footnotes": [
+      {
+        "id": "X7BC459D3-3753-48B6-997A-B772A3A42B05",
+        "text": "1Abraham Lincolnwrote this unsigned and undated document. At the time that Roy P. Basler, editor\n                  of theCollected Works of Abraham Lincoln, published this document from a facsimile of the original manuscript, an evidently\n                  unrelated clipped signature of Lincoln’s had been affixed to the facsimile. Basler\n                  stated that the date of composition of August 1, 1858, which has historically been\n                  assigned to this document was “apparently pure conjecture”. The editors have retained\n                  this date in the absence of any evidence to the contrary. A date of August 1, 1858,\n                  would situate the composition of this manuscript during theelection campaign of 1858, on the day following Lincoln’slettertoStephen A. Douglasaccepting the latter’s terms for a series ofdebatesin their race for theU.S. Senate. The manuscript was reportedly given byMary Lincolnto attorney Myra Bradwell, who along with her husband James B. Bradwell helped to\n                  secure Mary Lincoln’s release from an institution in 1874. The text of the manuscript\n                  was reprinted widely in newspapers from at least 1895 onwards. One newspaper version\n                  published in 1906, apparently in consultation with James B. Bradwell, states that\n                  “Lincoln is believed to have penned it as a note for oratorical use while he was campaigning\n                  against Stephen A. Douglas.” As the text began to be included in collections of Lincoln’s\n                  writings in the early twentieth century, 1858 was given as the year of composition,\n                  with August 1 conjectured as a possible day, presumably based on an assumption that\n                  the document relates to the Lincoln-Douglas Debates.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:532;Illinois State Journal and Register(Springfield), 14 February 1943, 19:5; Jean H. Baker,Mary Todd Lincoln: A Biography(New York: W. W. Norton, 1987), 338-41;The Courier-Journal(Louisville, KY), 15 September 1895, 8:4-5;The Evening Times-Republican(Marshalltown, IA), 26 February 1906, 4:6; Arthur Brooks Lapsley, ed.,The Writings of Abraham Lincoln(New York: P. F. Collier & Son, [ca. 1905-1906]), 7:389; Harry W. Hastings and Harold\n                     W. Thompson, eds.,Selections from the Works of Abraham Lincoln(New York: F. M. Ambrose, 1921), 58;The Broadax(Chicago, IL), 23 October 1915, 4:2;The Battle Creek Enquirer and the Evening News(MI), 26 February 1929, 1:6, 2:6."
+      },
+      {
+        "id": "XE1BF9242-C4D5-462D-B0EC-51EA63BFC6B8",
+        "text": "2Neither Basler nor the editors have found evidence of Lincoln including this text\n                  in any of his speeches or other writings. During debate in the U.S. Senate over the\n                  Fifteenth Amendment to the U.S. Constitution in 1869,Republicansenator fromKansasSamuel C. Pomeroyvoiced a sentiment which echoed portions of Lincoln’s without attributing a source.\n                  Pomeroy stated that “As I would not be a slave, so would I not make a slave; and the\n                  man who would do or be either under our form of government does not merit the condition\n                  of a freeman”, suggesting that this text may have circulated in some form prior to\n                  its extensive publication beginning later in the nineteenth century.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln, 2:532;Illinois State Journal(Springfield), 10 February 1955, 3:1-2;Cong. Globe, 40th Cong., 3rd Sess., 710 (1869);Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 1675."
+      },
+      {
+        "id": "X4AD85A20-6D26-4108-9B39-FF687F287A3A",
+        "text": "3An unknown person wrote this docketing in pencil at the foot of the page. It is unclear\n                  whether this docket is archival."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Definition of Democracy, [1 August 1858?]1"
+      }
+    ],
+    "word_count": 4
+  },
+  "extraction_date": "2025-12-26 21:54:51",
+  "word_count": 6,
+  "processing": {
+    "cleaned": true,
+    "original_length": 42,
+    "cleaned_length": 26,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

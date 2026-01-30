@@ -1,0 +1,85 @@
+{
+  "document_id": "D200878",
+  "url": "https://papersofabrahamlincoln.org/documents/D200878",
+  "metadata": {
+    "date": "1856-02-21",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Leases",
+      "Attorney and client--Fees",
+      "Hotels"
+    ],
+    "type": "Letter",
+    "extracted_date": "1856-02-21",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "dollars",
+      "you",
+      "fifteen",
+      "abraham",
+      "lincoln",
+      "george",
+      "floyd",
+      "february",
+      "just",
+      "received",
+      "yours",
+      "check",
+      "onflagg",
+      "savagefor",
+      "twenty"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to George P. Floyd, 21 February 18561 I have just received yours of the 16th, with check onFlagg & Savagefor twenty-five dollars.2You must think I am a high-priced man. You are too liberal with your money. Fifteen dollars is enough for the job. I send you a receipt for fifteen dollars,\n\nand return to you a ten-dollar bill.3",
+    "paragraphs": [
+      "Abraham Lincoln to George P. Floyd, 21 February 18561 I have just received yours of the 16th, with check onFlagg & Savagefor twenty-five dollars.2You must think I am a high-priced man. You are too liberal with your money. Fifteen dollars is enough for the job. I send you a receipt for fifteen dollars,",
+      "and return to you a ten-dollar bill.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "George P. Floyd, “Abraham Lincoln’s Rum Sweat: A Vigorous Remedy that Helped him During\n                     his Presidential Campaign,”McClure’s Magazine30 (January 1908), 303;Lincoln provided unspecified legal services to Floyd, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141424."
+    ],
+    "footnotes": [
+      {
+        "id": "XA2F0AA6B-26E0-4904-8172-D871C9914EE9",
+        "text": "1This letter is attributed to Abraham Lincoln but no manuscript version in his hand\n                  has been located."
+      },
+      {
+        "id": "XDD5521A6-FDA3-45A9-B097-9FEF36E70A37",
+        "text": "2George P. Floyd’s letter of February 16 has not been located."
+      },
+      {
+        "id": "X43B72A1E-8540-47C2-B871-5C7FF23887F9",
+        "text": "3Floyd became acquainted with Lincoln in February 1856.  Floyd had leasedQuincy Housein Quincy, Illinois, and he employed Lincoln to draw up and execute the lease.George P. Floyd, “Abraham Lincoln’s Rum Sweat: A Vigorous Remedy that Helped him During\n                     his Presidential Campaign,”McClure’s Magazine30 (January 1908), 303;Lincoln provided unspecified legal services to Floyd, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141424."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to George P. Floyd, 21 February 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have just received yours of the 16th, with check onFlagg & Savagefor twenty-five dollars.2You must think I am a high-priced man.  You are too liberal with your money."
+      },
+      {
+        "type": "paragraph",
+        "text": "Fifteen dollars is enough for the job.  I send you a receipt for fifteen dollars,\n               and return to you a ten-dollar bill.3"
+      }
+    ],
+    "word_count": 60
+  },
+  "extraction_date": "2025-12-26 21:37:48",
+  "word_count": 60,
+  "processing": {
+    "cleaned": true,
+    "original_length": 357,
+    "cleaned_length": 341,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

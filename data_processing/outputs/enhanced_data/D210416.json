@@ -1,0 +1,84 @@
+{
+  "document_id": "D210416",
+  "url": "https://papersofabrahamlincoln.org/documents/D210416",
+  "metadata": {
+    "date": "1849-04-20",
+    "authors": [
+      "Herrick, Josiah B."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-04-20",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "public",
+      "power",
+      "your",
+      "you",
+      "josiah",
+      "herrick",
+      "abraham",
+      "lincoln",
+      "april",
+      "contemplate",
+      "making",
+      "application",
+      "office",
+      "receiver",
+      "monies"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Josiah B. Herrick to Abraham Lincoln, 20 April 18491 I contemplate making application for the office of Receiver of Public monies at theLand Officein thisplace– If I come as well recommended—by thewhigsof this Land District, and other portions of theState, as the applicants already before you—can I expect your influence in my behalf? I\n\nhave madno effort as yet, and shall not until I get your reply– I am confident, even at this\n\nlate date, that my recommendations will be as respectable as those who have been in\n\nadvance of me, and my claims under present circumstances, I think better. I believe that a large proportion of the power of directing the appointment lies with\n\nyou– and I shall have all confidence in your advice upon the subject, so please be\n\nexplicit with me–2",
+    "paragraphs": [
+      "Josiah B. Herrick to Abraham Lincoln, 20 April 18491 I contemplate making application for the office of Receiver of Public monies at theLand Officein thisplace– If I come as well recommended—by thewhigsof this Land District, and other portions of theState, as the applicants already before you—can I expect your influence in my behalf? I",
+      "have madno effort as yet, and shall not until I get your reply– I am confident, even at this",
+      "late date, that my recommendations will be as respectable as those who have been in",
+      "advance of me, and my claims under present circumstances, I think better. I believe that a large proportion of the power of directing the appointment lies with",
+      "you– and I shall have all confidence in your advice upon the subject, so please be"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 141;Illinois Journal(Springfield), 11 July 1849, 1:6;Illinois Daily Journal(Springfield), 4 September 1850, 2:4."
+    ],
+    "footnotes": [
+      {
+        "id": "XB67D3C10-611B-4F44-8529-0E7DDB33605E",
+        "text": "1Josiah B. Herrick wrote and signed this letter."
+      },
+      {
+        "id": "X12CE81D8-6B6E-4D87-8CC1-A64FFC983CEE",
+        "text": "2Lincoln’s response, if he penned one, has not been located.James T. B. StappandFrederick Remannwere also vying for the office of receiver.  Stapp would receive the appointment\n                  and hold the position until at least 1851.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 141;Illinois Journal(Springfield), 11 July 1849, 1:6;Illinois Daily Journal(Springfield), 4 September 1850, 2:4."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Josiah B. Herrick to Abraham Lincoln, 20 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I contemplate making application for the office of Receiver of Public monies at theLand Officein thisplace– If I come as well recommended—by thewhigsof this Land District, and other portions of theState, as the applicants already before you—can I expect your influence in my behalf? I\n               have mad[e]no effort as yet, and shall not until I get your reply– I am confident, even at this\n               late date, that my recommendations will be as respectable as those who have been in\n               advance of me, and my claims under present circumstances, I think better."
+      },
+      {
+        "type": "paragraph",
+        "text": "I believe that a large proportion of the power of directing the appointment lies with\n               you– and I shall have all confidence in your advice upon the subject, so please be\n               explicit with me–2"
+      }
+    ],
+    "word_count": 134
+  },
+  "extraction_date": "2025-12-26 20:41:10",
+  "word_count": 134,
+  "processing": {
+    "cleaned": true,
+    "original_length": 854,
+    "cleaned_length": 781,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

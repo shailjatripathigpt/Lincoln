@@ -1,0 +1,64 @@
+{
+  "document_id": "D200295",
+  "url": "https://papersofabrahamlincoln.org/documents/D200295",
+  "metadata": {
+    "date": "1842-02-24",
+    "authors": [
+      "Gambrel, James (Gambrell)"
+    ],
+    "keywords": [
+      "Lawyers--Fees",
+      "Debtor and creditor",
+      "Bankruptcy"
+    ],
+    "type": "Promissory note",
+    "extracted_date": "1842-02-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "promissory",
+      "note",
+      "james",
+      "gambrel",
+      "abraham",
+      "lincoln",
+      "february"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Promissory Note of James Gambrel to Abraham Lincoln, 24 February 18421",
+    "paragraphs": [
+      "Promissory Note of James Gambrel to Abraham Lincoln, 24 February 18421"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Public Notice, 4 March 1842,In re Gambrel, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=137809;Abraham Lincoln to Garland B. Shelledy."
+    ],
+    "footnotes": [
+      {
+        "id": "X317B0259-98A0-4EF6-8E41-9DB6D89CD657",
+        "text": "1Abraham Lincoln wrote this promissory note, and James Gambrel signed it."
+      },
+      {
+        "id": "X04A42989-5F58-4792-8738-96F3B49FB807",
+        "text": "2On March 18, 1842, Logan & Lincoln appeared for Gambrel in the U.S. District Court\n                  in Springfield, representing him in his petition for bankruptcy. This promissory likely\n                  represents Gambrel’s payment of the lawyers’ fee for attending to his case. $20 was\n                  the price per bankruptcy case that Lincoln estimated for  another lawyer at the same\n                  time.Public Notice, 4 March 1842,In re Gambrel, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=137809;Abraham Lincoln to Garland B. Shelledy."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note of James Gambrel to Abraham Lincoln, 24 February 18421"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 20:17:45",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 70,
+    "cleaned_length": 70,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "D206894",
+  "url": "https://papersofabrahamlincoln.org/documents/D206894",
+  "metadata": {
+    "date": "1858-02-25",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Election districts",
+      "Local elections--Law and legislation"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Mark Carley, 25 February 18581 Your letter of the 20thwas duly received–2I had a full talk, on the subject, with theGovernorto-day– He will not issue the commission– He says he is sorry for it; but as the question\n\nhas been made, he can do no other\n\nthan decide it as he thinks is right– His argument, in short, is this; As you state\n\nthe facts yourself, he thinks you had no legal\n\nresidence in the precinct when you were elected; clearly you were not entitled tovotein the\n\nprecinct, and therefore he thinks you could not be lawfullyvotedfor, in it–3 He asks “Can you not move your residence into the precinct, and be elected again?”4",
+    "paragraphs": [
+      "Abraham Lincoln to Mark Carley, 25 February 18581 Your letter of the 20thwas duly received–2I had a full talk, on the subject, with theGovernorto-day– He will not issue the commission– He says he is sorry for it; but as the question",
+      "has been made, he can do no other",
+      "than decide it as he thinks is right– His argument, in short, is this; As you state",
+      "the facts yourself, he thinks you had no legal",
+      "residence in the precinct when you were elected; clearly you were not entitled tovotein the",
+      "precinct, and therefore he thinks you could not be lawfullyvotedfor, in it–3 He asks “Can you not move your residence into the precinct, and be elected again?”4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Ill. Const. of 1848, art. VI, § 1.",
+      "Our Constitution(Urbana, IL), 7 November 1857, 2:1-3;Urbana Union(IL), 21 January 1858, 3:1; Don McCue, ed.,Treasures of the Lincoln Memorial Shrine(Redlands, CA: Watchorn Lincoln Memorial Association, 2008) 6-7; Milton W. Mathews\n                     and Lewis A. McLean,Early History and Pioneers of Champaign County(Urbana, IL: Champaign County Herald, 1886), 130."
+    ],
+    "footnotes": [
+      {
+        "id": "XBB10E1DC-FA82-479A-AB3C-DCC5CD533C93",
+        "text": "1Abraham Lincoln wrote and signed this lettter."
+      },
+      {
+        "id": "X83CE676B-730C-48FF-8641-811FAD5DC80E",
+        "text": "2Mark Carley’s letter of February 20, 1858,  to which this is a response has not been\n                  located."
+      },
+      {
+        "id": "X4BEB2B8B-FF36-484C-9E3D-4A74BA1394BB",
+        "text": "3GovernorWilliam H. Bissellapparently based his refusal to grant Carley a commission for elected office in\n                  part on article six, section one of the1848 Illinois Constitution, which stated that “no such citizen or inhabitant shall be entitled to vote, except\n                  in the district or county in which he shall actually reside at the time of such election.”Ill. Const. of 1848, art. VI, § 1."
+      },
+      {
+        "id": "X44BEB6E0-995B-4415-B5B4-FA8129DCE0EE",
+        "text": "4It is unknown precisely for what office Carley was attempting to obtain a commission.\n                  He had run for a position as county judge inChampaign Countyin November 1857, but while his eligibility to run for that office was questioned\n                  at the time of the election, it seems unlikely that this was the commission Lincoln\n                  was advising him on, as he lost that race and Lincoln here implies that he had been\n                  successfully elected.It seems more likely that the position under discussion here was that of justice of\n                  the peace of a new precinct inTolonoto which Carley had been elected on January 9, 1858. Carley reportedly never qualified\n                  for that office following his election.Our Constitution(Urbana, IL), 7 November 1857, 2:1-3;Urbana Union(IL), 21 January 1858, 3:1; Don McCue, ed.,Treasures of the Lincoln Memorial Shrine(Redlands, CA: Watchorn Lincoln Memorial Association, 2008) 6-7; Milton W. Mathews\n                     and Lewis A. McLean,Early History and Pioneers of Champaign County(Urbana, IL: Champaign County Herald, 1886), 130."
+      },
+      {
+        "id": "X84F73317-B3C7-4CAC-A7FF-3C685B1ACD52",
+        "text": "5No response to this letter nor further correspondence on the subject has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Mark Carley, 25 February 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 20thwas duly received–2I had a full talk, on the subject, with theGovernorto-day– He will not issue the commission– He says he is sorry for it; but as the question\n               has been made, he can do no other\n               than decide it as he thinks is right– His argument, in short, is this; As you state\n               the facts yourself, he thinks you had no legal\n               residence in the precinct when you were elected; clearly you were not entitled tovotein the\n               precinct, and therefore he thinks you could not be lawfullyvotedfor, in it–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "He asks “Can you not move your residence into the precinct, and be elected again?”4"
+      }
+    ],
+    "word_count": 117
+  },
+  "extraction_date": "2025-12-26 21:45:52",
+  "word_count": 117,
+  "processing": {
+    "cleaned": true,
+    "original_length": 725,
+    "cleaned_length": 655,
+    "preserved_originality": true
+  }
+}

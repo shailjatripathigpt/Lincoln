@@ -1,0 +1,78 @@
+{
+  "document_id": "D207684",
+  "url": "https://papersofabrahamlincoln.org/documents/D207684",
+  "metadata": {
+    "date": "1856-09-07",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Campaign speeches",
+      "Elections",
+      "Presidents--elections"
+    ],
+    "type": "Letter",
+    "extracted_date": "1856-09-07",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "logan",
+      "reavis",
+      "september",
+      "not",
+      "now",
+      "promise",
+      "beardstown",
+      "ten",
+      "applications",
+      "here",
+      "comply",
+      "one",
+      "sorry"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Logan U. Reavis, 7 September 18561 I can not now promise to be at Beardstown. I have ten applications to be here. Can comply\n\nwith one. Sorry for it, but it is so.2",
+    "paragraphs": [
+      "Abraham Lincoln to Logan U. Reavis, 7 September 18561 I can not now promise to be at Beardstown. I have ten applications to be here. Can comply",
+      "with one. Sorry for it, but it is so.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler and Christian O. Basler, eds.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1990), 11:12.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, September 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1856&month=9; October 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1856&month=10; November 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1856&month=11."
+    ],
+    "footnotes": [
+      {
+        "id": "XE379E711-0A60-40BD-91C9-777A2FDB184E",
+        "text": "1The letter is attributed to Abraham Lincoln.  The original in Lincoln’s hand appeared\n                  for sale in a Joseph Rubinfine auction catalog in 1990, but the whereabouts of the\n                  original is unknown.Roy P. Basler and Christian O. Basler, eds.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1990), 11:12."
+      },
+      {
+        "id": "XB71C2EB0-77D2-45E3-BCC9-E9FB0CAEB0D6",
+        "text": "2Lincoln was in high demand as a speaker for theRepublican Partyduring the1856 Federal Electioncampaign. He delivered more than fifty speeches throughoutIllinoisas he stumped on behalf of Republican candidates.Lincoln did not deliver an address in Beardstown, Illinois in September, October,\n                  or November 1856, and no additional correspondence between Lincoln and Logan U. Reavis\n                  has been located for 1856.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, September 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1856&month=9; October 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1856&month=10; November 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1856&month=11."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Logan U. Reavis, 7 September 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "I can not now promise to be at Beardstown.  I have ten applications to be here.  Can comply\n               with one.  Sorry for it, but it is so.2"
+      }
+    ],
+    "word_count": 36
+  },
+  "extraction_date": "2025-12-26 21:41:32",
+  "word_count": 36,
+  "processing": {
+    "cleaned": true,
+    "original_length": 200,
+    "cleaned_length": 183,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

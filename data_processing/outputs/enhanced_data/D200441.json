@@ -1,0 +1,55 @@
+{
+  "document_id": "D200441",
+  "url": "https://papersofabrahamlincoln.org/documents/D200441",
+  "metadata": {
+    "date": "1848-01-06",
+    "authors": [
+      "Baker, Edward D."
+    ],
+    "keywords": [],
+    "type": "Endorsement",
+    "extracted_date": "1848-01-06",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "fragment",
+      "edward",
+      "baker",
+      "unknown"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Fragment of Edward D. Baker to Unknown, 1 . . .",
+    "paragraphs": [
+      "Fragment of Edward D. Baker to Unknown, 1 . . ."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X9181A4AB-B476-4010-985A-978E110A516A",
+        "text": "1This fragment includes only Edward D. Baker’s signature. Abraham Lincoln wrote and\n                  signed the endorsement. The document was likely enclosed in aletterfrom Lincoln toPeter Hagnerregarding the claims of Dr.Argyle W. Furr.  The two documents have become separated and are now located in different repositories."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fragment of Edward D. Baker to Unknown, [6 January 1848]1"
+      },
+      {
+        "type": "paragraph",
+        "text": ". . . [seciary?]"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 20:26:10",
+  "word_count": 14,
+  "processing": {
+    "cleaned": true,
+    "original_length": 74,
+    "cleaned_length": 47,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

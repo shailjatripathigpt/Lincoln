@@ -1,0 +1,99 @@
+{
+  "document_id": "D200107",
+  "url": "https://papersofabrahamlincoln.org/documents/D200107",
+  "metadata": {
+    "date": "1837-05-30",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Veterans",
+      "Military service, Voluntary",
+      "Militia",
+      "Armed Forces--Pay, allowances, etc."
+    ],
+    "type": "Letter",
+    "extracted_date": "1837-05-30",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "army",
+      "states",
+      "officer",
+      "lincoln",
+      "there",
+      "abraham",
+      "peter",
+      "hagner",
+      "claim",
+      "founded",
+      "upon",
+      "enclosed",
+      "papers",
+      "allowed",
+      "money"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Peter Hagner, 30 May 18371 If the claim, founded upon the enclosed papers, be allowed, the money may be forwarded\n\ndirectly to the claimant, \"Archelaus Demmon, Springfield Illinois\"2If it benotallowed, on account of insufficiency of evidence, or for other cause, and the defect,\n\nwhatever it be, can be remidied, write back, stating particularly what is lacking, and direct toA. Lincoln, place as above.3 The Paymaster or disbursing officer; of whom this applicant received pay was, according\n\nto recollection,Major Wrightof theUnited States Army. In this there may be a mistake, as there is nothing but memory to refer to. At any\n\nrate it was the officer that paidWhiteside's Brigade.4",
+    "paragraphs": [
+      "Abraham Lincoln to Peter Hagner, 30 May 18371 If the claim, founded upon the enclosed papers, be allowed, the money may be forwarded",
+      "directly to the claimant, \"Archelaus Demmon, Springfield Illinois\"2If it benotallowed, on account of insufficiency of evidence, or for other cause, and the defect,",
+      "whatever it be, can be remidied, write back, stating particularly what is lacking, and direct toA. Lincoln, place as above.3 The Paymaster or disbursing officer; of whom this applicant received pay was, according",
+      "to recollection,Major Wrightof theUnited States Army. In this there may be a mistake, as there is nothing but memory to refer to. At any",
+      "rate it was the officer that paidWhiteside's Brigade.4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln conducted legal research for Demmon, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141185.",
+      "Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:201, 204-5.",
+      "Treasurer’s Accounts: Letter from the Treasurer of the United States, Transmitting\n                        Accounts for the Third and Fourth Quarters of 1837, and the First and Second Quarters\n                        of 1838, H.R. Rep. No. 28-233 (1839), 4."
+    ],
+    "footnotes": [
+      {
+        "id": "XAF8141D5-BA52-4689-921E-68C139FE1919",
+        "text": "1Abraham Lincoln wrote the text of this letter and  his signature, as well as the “Free”\n                  frank and address on the back page."
+      },
+      {
+        "id": "X076CDCB9-C126-4C6C-B2AC-1E1BB01C9820",
+        "text": "2The enclosures Lincoln mentions have not been located."
+      },
+      {
+        "id": "XA9F2D191-D52D-4BCE-AAE2-B6AEE20886E6",
+        "text": "3Archelaus Demmon was seeking reimbursement for a horse he had lost during his service\n                  in theBlack Hawk War.Lincoln conducted legal research for Demmon, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141185."
+      },
+      {
+        "id": "X3C14B696-D0A5-4CB0-A9AD-26ED15BEEBE3",
+        "text": "4Robert Blackwell was the paymaster underJames D. HenryinSamuel Whiteside’s Brigade.Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:201, 204-5."
+      },
+      {
+        "id": "XAE42F09D-7AA7-419B-B681-1C30A04C5FCB",
+        "text": "5The federal government reimbursed Demmon $32.68 for his lost horse in late 1837.Treasurer’s Accounts: Letter from the Treasurer of the United States, Transmitting\n                        Accounts for the Third and Fourth Quarters of 1837, and the First and Second Quarters\n                        of 1838, H.R. Rep. No. 28-233 (1839), 4."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Peter Hagner, 30 May 18371"
+      },
+      {
+        "type": "paragraph",
+        "text": "If the claim, founded upon the enclosed papers, be allowed, the money may be forwarded\n               directly to the claimant, \"Archelaus Demmon, Springfield Illinois\"2If it benotallowed, on account of insufficiency of evidence, or for other cause, and the defect,\n               whatever it be, can be remidied, write back, stating particularly what is lacking, and direct toA. Lincoln, place as above.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Paymaster or disbursing officer; of whom this applicant received pay was, according\n               to recollection,Major Wrightof theUnited States Army. In this there may be a mistake, as there is nothing but memory to refer to. At any\n               rate it was the officer that paidWhiteside's Brigade.4"
+      }
+    ],
+    "word_count": 111
+  },
+  "extraction_date": "2025-12-26 20:05:47",
+  "word_count": 111,
+  "processing": {
+    "cleaned": true,
+    "original_length": 761,
+    "cleaned_length": 705,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

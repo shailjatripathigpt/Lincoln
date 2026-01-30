@@ -1,0 +1,67 @@
+{
+  "document_id": "D208615",
+  "url": "https://papersofabrahamlincoln.org/documents/D208615",
+  "metadata": {
+    "date": "1836-09-04",
+    "authors": [],
+    "keywords": [
+      "Surveying",
+      "Government contractors",
+      "Expenditures, Public",
+      "School lands"
+    ],
+    "type": "Financial statement"
+  },
+  "content": {
+    "full_text": "Statement of Payment from Sangamon County Commissioners' Court to Abraham Lincoln\n\nfor Surveying School Section, 4 September 1836 1836 May 9. The School Fund of Township 17 North Range 6 West ToA LincolnDr1 The. Genl School Fund ofSangamon County ToErastus WrightDr",
+    "paragraphs": [
+      "Statement of Payment from Sangamon County Commissioners' Court to Abraham Lincoln",
+      "for Surveying School Section, 4 September 1836 1836 May 9. The School Fund of Township 17 North Range 6 West ToA LincolnDr1 The. Genl School Fund ofSangamon County ToErastus WrightDr"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act to Enable the People of the Illinois Territory to Form a Constitution and\n                     State Government, and for the Admission of Such State into the Union on an Equal Footing\n                     with the Original States,” 18 April 1818,Statutes at Large of the United States3 (1846):428-31; W. L. Pillsbury, “Early Education in Illinois,”Sixteenth Biennial Report of the Superintendent of Public Instruction of the State\n                        of Illinois(Springfield, IL: H. W. Rokker, 1886), 106-7."
+    ],
+    "footnotes": [
+      {
+        "id": "XC8505AB5-9A02-45B7-A3DE-A3258609E45F",
+        "text": "1In 1818, whenCongresspassed the act enabling theIllinois Territoryto become a state, it granted to every  township in the state the proceeds of the\n                  sale of land in each township’s Section 16. This money became known as the common\n                  school fund.“An Act to Enable the People of the Illinois Territory to Form a Constitution and\n                     State Government, and for the Admission of Such State into the Union on an Equal Footing\n                     with the Original States,” 18 April 1818,Statutes at Large of the United States3 (1846):428-31; W. L. Pillsbury, “Early Education in Illinois,”Sixteenth Biennial Report of the Superintendent of Public Instruction of the State\n                        of Illinois(Springfield, IL: H. W. Rokker, 1886), 106-7."
+      },
+      {
+        "id": "X23D776AE-4061-4460-BBB9-D8136A4429A5",
+        "text": "2The land described here is located in present-day southernMenard County."
+      },
+      {
+        "id": "X2CC4A4DD-008C-49E4-8B81-60A9DC888AA5",
+        "text": "3This dollar sign and the two below it were written over ditto marks."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Statement of Payment from Sangamon County Commissioners' Court to Abraham Lincoln\n               for Surveying School Section, 4 September 1836"
+      },
+      {
+        "type": "paragraph",
+        "text": "1836 May 9. The School Fund of Township 17 North Range 6 West ToA LincolnDr[debit]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "The. Genl[General] School Fund ofSangamon County"
+      },
+      {
+        "type": "paragraph",
+        "text": "ToErastus WrightDr"
+      }
+    ],
+    "word_count": 41
+  },
+  "extraction_date": "2025-12-26 20:04:00",
+  "word_count": 41,
+  "processing": {
+    "cleaned": true,
+    "original_length": 295,
+    "cleaned_length": 265,
+    "preserved_originality": true
+  }
+}

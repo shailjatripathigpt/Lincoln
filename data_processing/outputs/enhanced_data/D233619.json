@@ -1,0 +1,85 @@
+{
+  "document_id": "D233619",
+  "url": "https://papersofabrahamlincoln.org/documents/D233619",
+  "metadata": {
+    "date": "1849-11-29",
+    "authors": [
+      "Caton, John D."
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-11-29",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "you",
+      "place",
+      "political",
+      "well",
+      "thing",
+      "any",
+      "him",
+      "john",
+      "caton",
+      "abraham",
+      "lincoln",
+      "november",
+      "dre",
+      "guilbertof"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "John D. Caton to Abraham Lincoln, 29 November 18491 DrE. A. Guilbertof this place, is a candidate before theState DepartmentatWashington, for some appointment in connection with a foreign Mission– Although not belonging\n\nto the same political family with yourselfortheDoctor, as you well know, and as a general thing^declining^to interfere in any way in political affairs while holding my present position yet\n\nmy confidence in and personal friendship for Dr Guilbert,2prompt me to assure you, that if you can do any thing for him you will do an act which you will never regret. I have no hesitation in saying\n\nthat I have no doubt that he is well qualified for the place which he seeks– He is\n\ncertainly an estimable and worthy young man, and I hope you will feel justified in\n\ngiving him your support.",
+    "paragraphs": [
+      "John D. Caton to Abraham Lincoln, 29 November 18491 DrE. A. Guilbertof this place, is a candidate before theState DepartmentatWashington, for some appointment in connection with a foreign Mission– Although not belonging",
+      "to the same political family with yourselfortheDoctor, as you well know, and as a general thing^declining^to interfere in any way in political affairs while holding my present position yet",
+      "my confidence in and personal friendship for Dr Guilbert,2prompt me to assure you, that if you can do any thing for him you will do an act which you will never regret. I have no hesitation in saying",
+      "that I have no doubt that he is well qualified for the place which he seeks– He is",
+      "certainly an estimable and worthy young man, and I hope you will feel justified in"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+    ],
+    "footnotes": [
+      {
+        "id": "X0F9B099B-1C8A-4D59-A330-ED8A9A3F8469",
+        "text": "1John D. Caton wrote and signed this letter.  Abraham Lincoln enclosed this letter\n                  in aletterto Secretary of StateJohn M. Clayton, December 7, 1849."
+      },
+      {
+        "id": "X4E19DA2C-D7E5-46FD-95E5-E782D34D4721",
+        "text": "2Caton was at the time a justice on theIllinois Supreme Court.Abraham Lincoln to John M. Clayton."
+      },
+      {
+        "id": "X8D073A87-3BE4-4E7B-9B15-1D21A47D64EA",
+        "text": "3T. Lyle DickeyalsoendorsedEdward A. Guilbert to Lincoln, and Lincoln enclosed Dickey’s letter of recommendation\n                  in his December 7letterto Clayton.Guilbert does not appear in the official registers of the officers and agents of the\n                  federal government for 1849, 1851, and 1853, so apparently he did not receive an appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John D. Caton to Abraham Lincoln, 29 November 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "DrE. A. Guilbertof this place, is a candidate before theState DepartmentatWashington, for some appointment in connection with a foreign Mission– Although not belonging\n               to the same political family with yourselfortheDoctor, as you well know, and as a general thing^declining^to interfere in any way in political affairs while holding my present position yet\n               my confidence in and personal friendship for Dr Guilbert,2prompt me to assure you, that if you can do any thing for him you will do an act which you will never regret. I have no hesitation in saying\n               that I have no doubt that he is well qualified for the place which he seeks– He is\n               certainly an estimable and worthy young man, and I hope you will feel justified in\n               giving him your support."
+      }
+    ],
+    "word_count": 136
+  },
+  "extraction_date": "2025-12-26 21:21:15",
+  "word_count": 136,
+  "processing": {
+    "cleaned": true,
+    "original_length": 873,
+    "cleaned_length": 803,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

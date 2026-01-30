@@ -1,0 +1,36 @@
+{
+  "total_queries": 3,
+  "average_relevance": 0.5516896115409003,
+  "average_documents_retrieved": 3.0,
+  "system_type": "FAISS_vector_search",
+  "index_size": 182,
+  "query_results": [
+    {
+      "query": "What was Lincoln's view on slavery?",
+      "relevance_score": 0.5961363911628723,
+      "documents_retrieved": 3,
+      "top_similarity": 0.6364865303039551,
+      "answer_preview": "Based on documents from Abraham Lincoln's collection (Speech (1858-09-13), Letter (1858-10-03), Lett..."
+    },
+    {
+      "query": "How did Lincoln describe the Union?",
+      "relevance_score": 0.5331483681996664,
+      "documents_retrieved": 3,
+      "top_similarity": 0.541068971157074,
+      "answer_preview": "Based on documents from Abraham Lincoln's collection (Letter (1858-08-05), Speech (1858-09-13), Spee..."
+    },
+    {
+      "query": "Write in the tone of an 1860s presidential proclamation",
+      "relevance_score": 0.5257840752601624,
+      "documents_retrieved": 3,
+      "top_similarity": 0.5308871269226074,
+      "answer_preview": "Now therefore, I, Abraham Lincoln, President of the United States, do hereby declare and make known ..."
+    }
+  ],
+  "recommendations": [
+    "Add more style templates for different document types",
+    "Implement query expansion for better retrieval",
+    "Add document filtering by date or type for specific queries",
+    "Consider adding a fine-tuned model for answer refinement"
+  ]
+}

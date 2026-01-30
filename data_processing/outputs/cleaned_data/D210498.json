@@ -1,0 +1,93 @@
+{
+  "document_id": "D210498",
+  "url": "https://papersofabrahamlincoln.org/documents/D210498",
+  "metadata": {
+    "date": "1849-06-06",
+    "authors": [
+      "Davis, David"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "David Davis to Abraham Lincoln, 6 June 18491 Taylorville IllsJune 6th I recd on yesterday a letter fromDrHenry. telling of the troubles about theLand Office– & that you had gone toWashington, & desiring me & anywhigs. hereabouts to join in a letter, addressed toGenlTaylor3 I have written herewith a Letter. which I enclose to you– & if it Suits– & will do\n\nany good, of course deliver it–4 The appointment of oldButterfield. would be outrageous– Thepartyin thisState– if such is the policy– is flat– Is it not strange– that the voice of members ofCongressfrom a State is not taken about appointments Wishing you success5",
+    "paragraphs": [
+      "David Davis to Abraham Lincoln, 6 June 18491 Taylorville IllsJune 6th I recd on yesterday a letter fromDrHenry. telling of the troubles about theLand Office– & that you had gone toWashington, & desiring me & anywhigs. hereabouts to join in a letter, addressed toGenlTaylor3 I have written herewith a Letter. which I enclose to you– & if it Suits– & will do",
+      "any good, of course deliver it–4 The appointment of oldButterfield. would be outrageous– Thepartyin thisState– if such is the policy– is flat– Is it not strange– that the voice of members ofCongressfrom a State is not taken about appointments Wishing you success5"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 10 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-10; 19 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-19.",
+      "David Davis to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X9DA50C0E-11B6-4FB4-931A-1E356957BECC",
+        "text": "1David Davis wrote and signed this letter."
+      },
+      {
+        "id": "cas69224118490606L005_1",
+        "text": "2\"7\" changed to \"6\"."
+      },
+      {
+        "id": "X557CCEB9-D511-4206-937F-ADB0DBD3B1FC",
+        "text": "3Davis  references the contest to see who would replaceRichard M. Youngas commissioner of the U.S. General Land Office.  Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere among the early contestants. Abraham Lincoln entered the competition after learning\n                  that Butterfield was favored over Morrison and Edwards.As competition for the job intensified,William H. HendersonandJosiah Lucas, Lincoln supporters living in Washington, DC, urged Lincoln to come to the nation’s\n                  capital to personally lobby for the position.On June 9, ButterfieldwroteLincoln suggesting that neither go to Washington.  Lincoln did not respond to this\n                  suggestion, and on June 10, both set out for the capital.  Lincoln arrived on or before\n                  June 19. See theGeneral Land Office Affair.William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 10 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-10; 19 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-19."
+      },
+      {
+        "id": "X1FA819FB-F9D2-4AF6-9E5E-DC43BB09C619",
+        "text": "4Davis addressed his letter to PresidentZachary Taylor.  Davis’ missive was not enclosed in this letter, and it has not been located.David Davis to Abraham Lincoln."
+      },
+      {
+        "id": "X5310C82E-ECD3-4D98-A99A-D30E95CA96E4",
+        "text": "5On June 14, Davis againwroteLincoln in support of his candidacy.   Ultimately, neither Morrison, Edwards, nor\n                  Lincoln received the appointment; the job went to Butterfield instead.  See theGeneral Land Office Affair. On July 6, LincolnwroteDavis expressing some of his feelings about the episode."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "David Davis to Abraham Lincoln, 6 June 18491"
+      },
+      {
+        "type": "description",
+        "text": "Taylorville Ills[Illinois]June 6th"
+      },
+      {
+        "type": "paragraph",
+        "text": "I recd[received] on yesterday a letter fromDrHenry. telling of the troubles about theLand Office– & that you had gone toWashington, & desiring me & anywhigs. hereabouts to join in a letter, addressed toGenlTaylor3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have written herewith a Letter. which I enclose to you– & if it Suits– & will do\n               any good, of course deliver it–4"
+      },
+      {
+        "type": "paragraph",
+        "text": "The appointment of oldButterfield. would be outrageous–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thepartyin thisState– if such is the policy– is flat–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Is it not strange– that the voice of members ofCongressfrom a State is not taken about appointments"
+      },
+      {
+        "type": "paragraph",
+        "text": "Wishing you success5"
+      }
+    ],
+    "word_count": 104
+  },
+  "extraction_date": "2025-12-26 21:16:38",
+  "word_count": 104,
+  "processing": {
+    "cleaned": true,
+    "original_length": 655,
+    "cleaned_length": 621,
+    "preserved_originality": true
+  }
+}

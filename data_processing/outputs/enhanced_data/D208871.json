@@ -1,0 +1,81 @@
+{
+  "document_id": "D208871",
+  "url": "https://papersofabrahamlincoln.org/documents/D208871",
+  "metadata": {
+    "date": "1840-10-30",
+    "authors": [
+      "Anderson, William G."
+    ],
+    "keywords": [
+      "Elections",
+      "Invective",
+      "Political campaigns",
+      "Presidents--election"
+    ],
+    "type": "Letter",
+    "extracted_date": "1840-10-30",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "duty",
+      "you",
+      "words",
+      "your",
+      "whether",
+      "please",
+      "william",
+      "anderson",
+      "abraham",
+      "lincoln",
+      "october",
+      "our",
+      "first",
+      "meeting",
+      "wednesday"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "William G. Anderson to Abraham Lincoln, 30 October 18401 On our first meeting on Wednesday last, a difficulty, in words, ensued between us,\n\nwhich I deem it my duty to notice further. I think you were the aggressor. Your words\n\nimported insult; and whether you meant them as such is for you to say.ou will therefore please inform me on this point. And if you designed to offend me,\n\nplease communicate to me your present feelings, on the subject, and whether you persist\n\nin the stand you took.2",
+    "paragraphs": [
+      "William G. Anderson to Abraham Lincoln, 30 October 18401 On our first meeting on Wednesday last, a difficulty, in words, ensued between us,",
+      "which I deem it my duty to notice further. I think you were the aggressor. Your words",
+      "imported insult; and whether you meant them as such is for you to say.ou will therefore please inform me on this point. And if you designed to offend me,",
+      "please communicate to me your present feelings, on the subject, and whether you persist",
+      "in the stand you took.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame, Abraham Lincoln: A Life (Baltimore, MD: The Johns Hopkins University\n                     Press, 2008), 1:158-59;http://www.historyillinois.org/FindAMarker/MarkerDetails.aspx?MarkerID=144."
+    ],
+    "footnotes": [
+      {
+        "id": "XFCF41047-2541-4133-AACB-F82D83E34F6F",
+        "text": "1William G. Anderson wrote the letter in its entirety."
+      },
+      {
+        "id": "X854329B5-934A-4AD2-912D-F6970AEFDB27",
+        "text": "2The”difficulty” betweenLincolnandAndersonoccurred during the final, last hectic days of  thepresidential campaign of 1840.  Lincoln was canvassing the southern counties ofIllinoison behalf ofWilliam Henry Harrisonand theWhig Party. On October 28, Lincoln gave a speech atLawrenceville.  Anderson “repeatedly interrupted” Lincoln, contending that the orator was “falsifying\n                  the acts and record of theDemocratic party.” Lincoln’s retort was apparently testy enough to prompt Anderson to write this letter.\n                  Lincoln diffused the situation with a conciliatoryletteron October 31. In 1970, the Lawrence County Historical Society and the Illinois Historical\n                  Society erected a marker  on the north side of courthouse square in Lawrenceville\n                  commemorating the Lincoln/Anderson dispute.Michael Burlingame, Abraham Lincoln: A Life (Baltimore, MD: The Johns Hopkins University\n                     Press, 2008), 1:158-59;http://www.historyillinois.org/FindAMarker/MarkerDetails.aspx?MarkerID=144."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William G. Anderson to Abraham Lincoln, 30 October 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "On our first meeting on Wednesday last, a difficulty, in words, ensued between us,\n               which I deem it my duty to notice further. I think you were the aggressor. Your words\n               imported insult; and whether you meant them as such is for you to say.[Y]ou will therefore please inform me on this point. And if you designed to offend me,\n               please communicate to me your present feelings, on the subject, and whether you persist\n               in the stand you took.2"
+      }
+    ],
+    "word_count": 88
+  },
+  "extraction_date": "2025-12-26 20:13:14",
+  "word_count": 88,
+  "processing": {
+    "cleaned": true,
+    "original_length": 554,
+    "cleaned_length": 495,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

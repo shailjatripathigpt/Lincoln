@@ -1,0 +1,86 @@
+{
+  "document_id": "D294494",
+  "url": "https://papersofabrahamlincoln.org/documents/D294494",
+  "metadata": {
+    "date": "1848-01-28",
+    "authors": [
+      "Merriman, Halsey O."
+    ],
+    "keywords": [
+      "Naturalization",
+      "Passports"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Halsey O. Merriman to Abraham Lincoln, 28 January 18481 I send enclosed some papers for a Dutchman and his wife of this place to get the requisiteWay Billsto travel inGermany& other foreign parts, from the proper foreign functionaries– As he is desirous of\n\nstarting as soon as he gets the papers to keep him out of Calabouso,2it is hoped you will lose no time in this matter– I know so very little about the matter of passports, that perhaps these foreigners\n\nwill laugh a little at the shape of the Documents but I happen to know a little more\n\non the subject than any one else here, if they laugh I will laugh at theirnativesin these parts & get my pay in that way–3 All straight inIllinois",
+    "paragraphs": [
+      "Halsey O. Merriman to Abraham Lincoln, 28 January 18481 I send enclosed some papers for a Dutchman and his wife of this place to get the requisiteWay Billsto travel inGermany& other foreign parts, from the proper foreign functionaries– As he is desirous of",
+      "starting as soon as he gets the papers to keep him out of Calabouso,2it is hoped you will lose no time in this matter– I know so very little about the matter of passports, that perhaps these foreigners",
+      "will laugh a little at the shape of the Documents but I happen to know a little more",
+      "on the subject than any one else here, if they laugh I will laugh at theirnativesin these parts & get my pay in that way–3 All straight inIllinois"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Merriam-Webster, Spanish Central, accessed 16 December 2019,http://www.spanishcentral.com/translate/calabozo.",
+      "L. J. Meyer, “Passports,”Dictionary of American History, rev. ed. (New York: Charles Scribner’s Sons, 1976), 5:225; “An Act to Regulate the\n                     Diplomatic and Consular Systems of the United States,” 18 August 1856,Statutes at Large of the United States11 (1859):60-61."
+    ],
+    "footnotes": [
+      {
+        "id": "X5D1B2A80-6844-458E-AF2C-7AE40E4E7466",
+        "text": "1Halsey O. Merriman wrote this letter, including the address on the second sheet, which\n                  was folded to form an envelope."
+      },
+      {
+        "id": "X82EA080B-4B46-4576-B892-CB9075451565",
+        "text": "2Misspelling of the Spanish word “Calabozo,” meaning jail or prison.Merriam-Webster, Spanish Central, accessed 16 December 2019,http://www.spanishcentral.com/translate/calabozo."
+      },
+      {
+        "id": "X287EB9CD-6264-45ED-B939-815012AE5800",
+        "text": "3Local and state authorities and notaries public, as well as the secretary of state,\n                  issued passports in the United States until 1856 when, because foreign governments\n                  refused to recognize passports issued by local authorities,Congressrestricted issuance to theU.S. Department of State.Abraham Lincolnrespondedto this letter on February 16.L. J. Meyer, “Passports,”Dictionary of American History, rev. ed. (New York: Charles Scribner’s Sons, 1976), 5:225; “An Act to Regulate the\n                     Diplomatic and Consular Systems of the United States,” 18 August 1856,Statutes at Large of the United States11 (1859):60-61."
+      },
+      {
+        "id": "X6A126C3C-8703-46E0-BB00-7C11BE46E661",
+        "text": "4“3” written over “2”."
+      },
+      {
+        "id": "XB75F23C1-2B26-4D9A-8080-FB2AE8D4ADC1",
+        "text": "5Merriman wrote the text of this certification.  Ralph Hamlin and Christopher F. Koch\n                  signed their respective names."
+      },
+      {
+        "id": "X678CE994-3878-487D-907B-ACDC59344B02",
+        "text": "6Merriman wrote the text of this certification.  Hamlin and Rosina S.  Koch signed\n                  their respective names."
+      },
+      {
+        "id": "X058E9417-7EBB-4252-839C-2EC4A71DB7C9",
+        "text": "7Merriman wrote the text of this certification.  Hamlin signed his name."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Halsey O. Merriman to Abraham Lincoln, 28 January 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "I send enclosed some papers for a Dutchman and his wife of this place to get the requisiteWay Billsto travel inGermany& other foreign parts, from the proper foreign functionaries– As he is desirous of\n               starting as soon as he gets the papers to keep him out of  Calabouso,2it is hoped you will lose no time in this matter–"
+      },
+      {
+        "type": "paragraph",
+        "text": "I know so very little about the matter of passports, that perhaps these foreigners\n               will laugh a little at the shape of the Documents but I happen to know a little more\n               on the subject than any one else here, if they laugh I will laugh at theirnativesin these parts & get my pay in that way–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "All straight inIllinois"
+      }
+    ],
+    "word_count": 127
+  },
+  "extraction_date": "2025-12-26 20:26:28",
+  "word_count": 127,
+  "processing": {
+    "cleaned": true,
+    "original_length": 736,
+    "cleaned_length": 693,
+    "preserved_originality": true
+  }
+}

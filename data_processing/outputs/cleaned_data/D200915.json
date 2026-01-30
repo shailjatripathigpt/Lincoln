@@ -1,0 +1,64 @@
+{
+  "document_id": "D200915",
+  "url": "https://papersofabrahamlincoln.org/documents/D200915",
+  "metadata": {
+    "date": "1856-09-07",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political oratory",
+      "Campaign speeches",
+      "Elections",
+      "Presidents--Election"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Joel B. McFarland, 7 September 18561 Your invitation to me to be with you on the 1– 2– &3rdof Oct– at theTippecanoe Battle Ground, is received–2I fear I can not attend; but I will if I can–3",
+    "paragraphs": [
+      "Abraham Lincoln to Joel B. McFarland, 7 September 18561 Your invitation to me to be with you on the 1– 2– &3rdof Oct– at theTippecanoe Battle Ground, is received–2I fear I can not attend; but I will if I can–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 1 October 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-10-01; 2 October 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-10-02; 3 October 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-10-03."
+    ],
+    "footnotes": [
+      {
+        "id": "X83E33176-0CBA-4FA7-9D0A-06A8B3544423",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XF749C793-29E1-4EAD-879D-3497BC27C319",
+        "text": "2No letter from Joel B. McFarland inviting Lincoln to speak in at the Tippecanoe Battle\n                  Ground has been located."
+      },
+      {
+        "id": "X9AF12C3E-6123-46D9-8AB2-1A0A899485AB",
+        "text": "3During the1856 Federal Electioncampaign, Lincoln delivered more than fifty speeches throughoutIllinoisas he canvassed on behalf of theRepublican Party. He did not, however, conduct any stumping inIndiana. The only politicalspeechhe gave outside Illinois was inKalamazoo, Michiganon August 27. On October 1, Lincoln traveled toAlton, Illinois, spoke at a Republican rally on October 2, returned home to Springfield, Illinois,\n                  and attended to legal work in Springfield on October 3.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 1 October 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-10-01; 2 October 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-10-02; 3 October 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-10-03."
+      },
+      {
+        "id": "X807835B8-C313-4155-893F-BB8257D280DC",
+        "text": "4An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Joel B. McFarland, 7 September 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your invitation to me to be with you on the 1– 2– &3rdof Oct–[October] at theTippecanoe Battle Ground, is received–2I fear I can not attend; but I will if I can–3"
+      }
+    ],
+    "word_count": 40
+  },
+  "extraction_date": "2025-12-26 21:41:10",
+  "word_count": 40,
+  "processing": {
+    "cleaned": true,
+    "original_length": 218,
+    "cleaned_length": 209,
+    "preserved_originality": true
+  }
+}

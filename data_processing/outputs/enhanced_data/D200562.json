@@ -1,0 +1,78 @@
+{
+  "document_id": "D200562",
+  "url": "https://papersofabrahamlincoln.org/documents/D200562",
+  "metadata": {
+    "date": "1849-03-09",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-09",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "myself",
+      "our",
+      "not",
+      "you",
+      "abraham",
+      "lincoln",
+      "william",
+      "meredith",
+      "march",
+      "cole",
+      "bakerand",
+      "onlywhigmembers",
+      "ofcongressfromillinois",
+      "reason",
+      "think"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William M. Meredith, 9 March 18491 ColE. D. Bakerand myself are the onlyWhigmembers ofCongressfromIllinois– I, of the 30th& he of the 31stWe have reason to think the whigs of thatstatehold us responsible, to some extent, for the appointments which may be made of our\n\ncitizens– We do not know you personally; and our efforts to see you have, so far,\n\nbeen unavailing– I therefore hope I am not obtrusive in saying, in this way, for him\n\nand myself, that when a citizen of Illinois is to be appointed^in yourDepartment^to an office either in or out of the state, wedesire^most respectfully ask^to be heard.2",
+    "paragraphs": [
+      "Abraham Lincoln to William M. Meredith, 9 March 18491 ColE. D. Bakerand myself are the onlyWhigmembers ofCongressfromIllinois– I, of the 30th& he of the 31stWe have reason to think the whigs of thatstatehold us responsible, to some extent, for the appointments which may be made of our",
+      "citizens– We do not know you personally; and our efforts to see you have, so far,",
+      "been unavailing– I therefore hope I am not obtrusive in saying, in this way, for him",
+      "and myself, that when a citizen of Illinois is to be appointed^in yourDepartment^to an office either in or out of the state, wedesire^most respectfully ask^to be heard.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to George W. Rives; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:294-95."
+    ],
+    "footnotes": [
+      {
+        "id": "X0219F811-C6D3-4061-B5E7-BBB6D11BD80F",
+        "text": "1Abraham Lincoln wrote and signed this  copy, which he retained for his own files."
+      },
+      {
+        "id": "XEEBE793E-6072-47AA-856C-E86F086D6104",
+        "text": "2As a lame-duck, one-term Congressman, Lincoln was somewhat disappointed at his inability\n                  to command appointments from the new Whig presidential administration ofZachary Taylor, for whom he had campaigned and strongly supported in thepresidential election of 1848.Abraham Lincoln to George W. Rives; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:294-95."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William M. Meredith, 9 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Col[Colonel]E. D. Bakerand myself are the onlyWhigmembers ofCongressfromIllinois– I, of the 30th& he of the 31stWe have reason to think the whigs of thatstatehold us responsible, to some extent, for the appointments which may be made of our\n               citizens– We do not know you personally; and our efforts to see you have, so far,\n               been unavailing– I therefore hope I am not obtrusive in saying, in this way, for him\n               and myself, that when a citizen of Illinois is to be appointed^in yourDepartment^to an office either in or out of the state, wedesire^most respectfully ask^to be heard.2"
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 20:37:53",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 676,
+    "cleaned_length": 625,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

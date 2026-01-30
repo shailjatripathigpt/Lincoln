@@ -1,0 +1,65 @@
+{
+  "document_id": "D200128",
+  "url": "https://papersofabrahamlincoln.org/documents/D200128",
+  "metadata": {
+    "date": "1837-10-30",
+    "authors": [
+      "Dally, Crawford"
+    ],
+    "keywords": [
+      "Marriage law",
+      "Minors--Legal status, laws, etc.",
+      "Women--Legal status, laws, etc."
+    ],
+    "type": "Marriage authorization",
+    "extracted_date": "1837-10-30",
+    "extracted_type": "marriage authorization",
+    "extracted_keywords": [
+      "marriage",
+      "authorization",
+      "hester",
+      "ann",
+      "dally",
+      "edward",
+      "tyler",
+      "october"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Marriage Authorization for Hester Ann Dally and Edward H. Tyler, 30 October 18371",
+    "paragraphs": [
+      "Marriage Authorization for Hester Ann Dally and Edward H. Tyler, 30 October 18371"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Statewide Marriage Index, Sangamon County, 2 November 1837, Illinois State Archives, Springfield, IL; “An\n                     Act concerning Marriages,” 14 February 1827,Revised Laws of Illinois(1827), 288-90; Daniel W. Stowell, et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 4:197-98."
+    ],
+    "footnotes": [
+      {
+        "id": "X2123879A-00EA-410C-B529-A9D6B2D947DF",
+        "text": "1Abraham Lincoln wrote the text of the authorization, the date, and the attestation,\n                  and signed his name.  Crawford Dally signed his own name."
+      },
+      {
+        "id": "X9E2E8109-D35F-492F-A5E5-C83428F68108",
+        "text": "2Edward H. Tyler and Hester Ann Dally  married in Sangamon County on November 2, 1837.\n                  Dally is listed as “Dalby” in state marriage records.Illinois law allowed males over the age of seventeen and females over the age of fourteen\n                  to be joined in marriage.  However, only men over the age of twenty-one and women\n                  over the age of seventeen could obtain  marriage licenses without parental consent.\n                  Men between the ages of seventeen and twenty and women between the ages of fourteen\n                  and seventeen could only obtain marriage licenses with the consent of their respective\n                  fathers or, if one or both of the fathers were dead or incapacitated, their mothers\n                  or guardians.  In addition, persons who had not published their intention to marry\n                  for two weeks previous to the marriage were required to get a license from the county\n                  commissioners’ court of their respective county.Illinois Statewide Marriage Index, Sangamon County, 2 November 1837, Illinois State Archives, Springfield, IL; “An\n                     Act concerning Marriages,” 14 February 1827,Revised Laws of Illinois(1827), 288-90; Daniel W. Stowell, et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 4:197-98."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Marriage Authorization for Hester Ann Dally and Edward H. Tyler, 30 October 18371"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 20:06:54",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 81,
+    "cleaned_length": 81,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

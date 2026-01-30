@@ -1,0 +1,57 @@
+{
+  "document_id": "D200764",
+  "url": "https://papersofabrahamlincoln.org/documents/D200764",
+  "metadata": {
+    "date": "1853-11-17",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Debtor and Creditor",
+      "Attorney and client"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Henry E. Dummer, 17 November 18531 While I was atBeardstown,2I forgot to tell you thatWmButlersays if you will give him charge, and full discretion, of a claim in your hands,\n               againstGeorge G. Grubb, late ofSpringfield, now ofChicago, he knows how, and can, and will make something out of it for you–3Please write him–",
+    "paragraphs": [
+      "Abraham Lincoln to Henry E. Dummer, 17 November 18531",
+      "While I was atBeardstown,2I forgot to tell you thatWmButlersays if you will give him charge, and full discretion, of a claim in your hands,\n               againstGeorge G. Grubb, late ofSpringfield, now ofChicago, he knows how, and can, and will make something out of it for you–3Please write him–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Henry E. Dummer;Oldham & Hemingway v. Lincoln et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141851.",
+      "Butler v. Grubb,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138478."
+    ],
+    "footnotes": [
+      {
+        "id": "X314CF626-C96C-4172-BB3B-35AAE9125B33",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XE12FC759-198B-448D-A1FC-31A42F15E225",
+        "text": "2Lincoln met with Henry E. Dummer in Beardstown on November 15, 1853 in order to take\n                  his deposition in the case ofOldham & Hemingway v. Lincoln et al.Abraham Lincoln to Henry E. Dummer;Oldham & Hemingway v. Lincoln et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141851."
+      },
+      {
+        "id": "X7A322FE6-0279-414E-A8D7-552226480719",
+        "text": "3Lincoln had previously acted as George G. Grubb’s attorney in November 1845, when\n                  William Butler sued Grubb over an unpaid promissory note inSangamon County Circuit Court. In that case, Grubb authorized Lincoln to admit his liability for the debt, and\n                  the court awarded Butler $226.24.Butler v. Grubb,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138478."
+      },
+      {
+        "id": "XAA196D57-61B5-4B7D-A087-8E0C0FFDA40E",
+        "text": "4An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Henry E. Dummer, 17 November 18531"
+      },
+      {
+        "type": "paragraph",
+        "text": "While I was atBeardstown,2I forgot to tell you thatWmButlersays if you will give him charge, and full discretion, of a claim in your hands,\n               againstGeorge G. Grubb, late ofSpringfield, now ofChicago, he knows how, and can, and will make something out of it for you–3Please write him–"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:29:21",
+  "word_count": 56
+}

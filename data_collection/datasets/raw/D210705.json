@@ -1,0 +1,73 @@
+{
+  "document_id": "D210705",
+  "url": "https://papersofabrahamlincoln.org/documents/D210705",
+  "metadata": {
+    "date": "1858-05-31",
+    "authors": [
+      "Thornton, Anthony"
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Decedents' estates",
+      "Lawyers--Fees"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Anthony Thornton to Abraham Lincoln, 31 May 18581 I had forgotten to send you a check for the money, coming to you fromCrocketts' estate. The amount allowed was $59.87Accrued Int[Interest]5.25$64.12 I send you a check for above amt.[amount], less Exchange. Please recpt.[receipt] me, as I had to give a recpt. to theadmr2",
+    "paragraphs": [
+      "Anthony Thornton to Abraham Lincoln, 31 May 18581",
+      "I had forgotten to send you a check for the money, coming to you fromCrocketts' estate.",
+      "The amount allowed was",
+      "$59.87Accrued Int[Interest]5.25$64.12",
+      "I send you a check for above amt.[amount], less Exchange.",
+      "Please recpt.[receipt] me, as I had to give a recpt. to theadmr2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Anthony Thornton to Augustus C. French;Lincoln v. Alexander, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136711."
+    ],
+    "footnotes": [
+      {
+        "id": "4018983",
+        "text": "1Anthony Thornton wrote and signed this letter. He also wrote Abraham Lincoln’s name\n                  and address on the envelope shown in the second image."
+      },
+      {
+        "id": "4018984",
+        "text": "2Lincoln’s reply has not been located. However, he endorsed the envelope, indicating\n                  that he answered it. See the docketing on the left side of the envelope shown in the\n                  second image.Thornton's math in this letter is incorrect; the total amount should be $65.12, not\n                  $64.12. Lincoln apparently provided the receipt Thornton requests in this letter,\n                  although the original receipt to Thornton in Lincoln’s hand has not been located.\n                  See Receipt, Document ID: 127914,Lincoln v. Alexander, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136711.In this letter, Thornton is discussing funds owed to Lincoln from John E. “Elliott”\n                  Crockett’s estate due to Lincoln having defended the latter’s son, John A. L. Crockett,\n                  on a murder charge in 1852. Thornton served as Lincoln’s co-counsel in the case. For\n                  additional details regarding that case, seePeople v. Crockett, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135617. In late 1852, Thornton and Lincoln both joined Elliott Crockett’s campaign to get\n                  Illinois GovernorAugustus C. Frenchto pardon his son, and Thornton and Lincoln signed a petition to the Governor for clemency along with various citizens ofShelbyandMoultriecounties. Governor French’s final decision on the matter is unknown.Elliott Crockett apparently gave Lincoln a promissory note for his services inPeople v. Crockett, but died in 1855 without having paid Lincoln. In December 1856, Lincoln suedEbenezer Alexander(as administrator of Elliott Crockett's estate) for payment of the note. Thornton\n                  acted as Lincoln’s attorney in the case. The Shelby County Court ruled for Lincoln,\n                  awarding $64.12.Anthony Thornton to Augustus C. French;Lincoln v. Alexander, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136711."
+      },
+      {
+        "id": "4018985",
+        "text": "3Lincoln wrote this docketing. See the second image."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Anthony Thornton to Abraham Lincoln, 31 May 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "I had forgotten to send you a check for the money, coming to you fromCrocketts' estate."
+      },
+      {
+        "type": "paragraph",
+        "text": "The amount allowed was"
+      },
+      {
+        "type": "paragraph",
+        "text": "$59.87Accrued Int[Interest]5.25$64.12"
+      },
+      {
+        "type": "paragraph",
+        "text": "I send you a check for above amt.[amount], less Exchange."
+      },
+      {
+        "type": "paragraph",
+        "text": "Please recpt.[receipt] me, as I had to give a recpt. to theadmr2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:48:21",
+  "word_count": 52
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "D210334",
+  "url": "https://papersofabrahamlincoln.org/documents/D210334",
+  "metadata": {
+    "date": "1846-04-23",
+    "authors": [
+      "Munsell, Leander"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Postal service--Employees",
+      "Political parties"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Leander Munsell to Abraham Lincoln, 23 April 18461 I trouble You a with a line in regards to theGrandviewOffice– From my Knowledge of the condition of things at Grandview I have no doubt thatJ. V. BrownShould receive the appointment of P. M. at that place before MrPayneor any other Known applicant– If you will aid his appointment you will oblige me–2 In regard to the office at thisplacebetter let it remain as it is, any change particularly the appointment of MrReevewould give much dissatisfaction we think if a change is made, we havewhigsin Town with as good claims as MrReeve who lives 5 Miles in theCounty–",
+    "paragraphs": [
+      "Leander Munsell to Abraham Lincoln, 23 April 18461 I trouble You a with a line in regards to theGrandviewOffice– From my Knowledge of the condition of things at Grandview I have no doubt thatJ. V. BrownShould receive the appointment of P. M.",
+      "at that place before MrPayneor any other Known applicant– If you will aid his appointment you will oblige me–2 In regard to the office at thisplacebetter let it remain as it is, any change particularly the appointment of MrReevewould give much dissatisfaction we think if a change is made, we havewhigsin Town with as good claims as MrReeve who lives 5 Miles in theCounty–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The History of Coles County, Illinois(Chicago: Wm. Le Baron, Jr., 1879), 603."
+    ],
+    "footnotes": [
+      {
+        "id": "XA4661A65-A71A-4626-97A2-ECE2615C83A6",
+        "text": "1Leander Munsell wrote and signed the letter."
+      },
+      {
+        "id": "X261FB474-38C1-40B4-B8AF-610EBFA40B58",
+        "text": "2William K. Payne lived in Grand View until after the Civil War, and he served as the\n                  village’s postmaster for twelve years.The History of Coles County, Illinois(Chicago: Wm. Le Baron, Jr., 1879), 603."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Leander Munsell to Abraham Lincoln, 23 April 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "I trouble You a with a line in regards to theGrandviewOffice– From my Knowledge of the condition of  things at Grandview I have no doubt thatJ. V. BrownShould receive the appointment of P. M.[Postmaster] at that place before MrPayneor any other Known applicant– If you will aid his appointment you will oblige me–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "In regard to the office at thisplacebetter let it remain as it is, any change particularly the appointment of MrReevewould give much dissatisfaction we think if a change is made, we havewhigsin Town with as good claims as MrReeve who lives 5 Miles in theCounty–"
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 20:23:18",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 627,
+    "cleaned_length": 614,
+    "preserved_originality": true
+  }
+}

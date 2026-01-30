@@ -1,0 +1,51 @@
+{
+  "document_id": "D200367",
+  "url": "https://papersofabrahamlincoln.org/documents/D200367",
+  "metadata": {
+    "date": "1845-02-12",
+    "authors": [
+      "Gillespie, Joseph",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers--Licenses"
+    ],
+    "type": "Certification"
+  },
+  "content": {
+    "full_text": "Certification of Examination for Admittance of Stanislaus P. Lalumiere to the Practice\n\nof Law, 12 February 18451",
+    "paragraphs": [
+      "Certification of Examination for Admittance of Stanislaus P. Lalumiere to the Practice",
+      "of Law, 12 February 18451"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act Concerning Attorneys and Counselors at Law,” 1 March 1833,Revised Laws of Illinois(1833), 99-102."
+    ],
+    "footnotes": [
+      {
+        "id": "XE4F17663-8364-428A-BF7F-EC5A25B2E718",
+        "text": "1Abraham Lincoln wrote and signed this certification. Joseph Gillespie signed his own\n                  name."
+      },
+      {
+        "id": "XBAC6AE01-638C-4612-909A-040AC6293979",
+        "text": "2Aspiring lawyers inIllinoiswere required to pass an oral examination conducted by at least two attorneys.“An Act Concerning Attorneys and Counselors at Law,” 1 March 1833,Revised Laws of Illinois(1833), 99-102."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certification of Examination  for Admittance of Stanislaus P. Lalumiere to the Practice\n               of Law, 12 February 18451"
+      }
+    ],
+    "word_count": 17
+  },
+  "extraction_date": "2025-12-26 20:21:12",
+  "word_count": 17,
+  "processing": {
+    "cleaned": true,
+    "original_length": 128,
+    "cleaned_length": 113,
+    "preserved_originality": true
+  }
+}

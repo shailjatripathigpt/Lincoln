@@ -1,0 +1,90 @@
+{
+  "document_id": "D200584",
+  "url": "https://papersofabrahamlincoln.org/documents/D200584",
+  "metadata": {
+    "date": "1849-05-07",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-05-07",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "not",
+      "any",
+      "you",
+      "man",
+      "yet",
+      "thing",
+      "abraham",
+      "lincoln",
+      "george",
+      "rives",
+      "yourletterof",
+      "received",
+      "overrate",
+      "capacity",
+      "serve"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to George W. Rives, 7 May 18491 Yourletterof the 25thult was received on the 1stIntYou overrate my capacity to serve you– Not one man recommended by me has yet been\n\nappointed to any thing, little or big, except a few who had no opposition–2 Besides this, at the very inaugeration I commenced trying to get aMinesotaappointment forDrHenry, and have not yet succeeded; and I would not^now,^lessen his chance, by recommending any living man for any thing in that Teritory–3It is my recollection that you sent me an application to be P. M. atParis– Am I mistaken?4",
+    "paragraphs": [
+      "Abraham Lincoln to George W. Rives, 7 May 18491 Yourletterof the 25thult was received on the 1stIntYou overrate my capacity to serve you– Not one man recommended by me has yet been",
+      "appointed to any thing, little or big, except a few who had no opposition–2 Besides this, at the very inaugeration I commenced trying to get aMinesotaappointment forDrHenry, and have not yet succeeded; and I would not^now,^lessen his chance, by recommending any living man for any thing in that Teritory–3It is my recollection that you sent me an application to be P. M. atParis– Am I mistaken?4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Abraham Lincoln to Thomas Ewing;Abraham Lincoln to William B. Preston; Harry C. Blair,Dr. Anson G. Henry: Physician, Politician, Friend of Abraham Lincoln(Harrogate, TN: Lincoln Memorial University, 1944), 8; Edward D. Neill,History of the Minnesota Valley(Minneapolis: North Star, 1882), 118, 123-24.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+    ],
+    "footnotes": [
+      {
+        "id": "X66AAAC01-BBFA-4BE9-89E6-6965F14C1B8A",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X159B5B55-6B1B-44A5-A3D4-358276FFFC74",
+        "text": "2As Lincoln intimated in the succeeding paragraph, George W. RiveswroteLincoln seeking a federal appointment in the Minnesota Territory."
+      },
+      {
+        "id": "XFC8EBE36-65EE-4C0C-BB0E-5750BFFFAD88",
+        "text": "3In March 1849, Lincoln wrote letters to Secretary of StateJohn M. Clayton, Secretary of the InteriorThomas Ewing, Secretary of the NavyWilliam B. Preston, and others seeking a position for Anson G. Henry in the Minnesota Territory, to\n                  no avail.    Lincolncontinuedto recommend him to PresidentZachary Taylorand members of his administration. On June 24, 1850, Henry received the appointment\n                  of \n                  Indian agent for theOregon Territory.Abraham Lincoln to John M. Clayton;Abraham Lincoln to Thomas Ewing;Abraham Lincoln to William B. Preston; Harry C. Blair,Dr. Anson G. Henry: Physician, Politician, Friend of Abraham Lincoln(Harrogate, TN: Lincoln Memorial University, 1944), 8; Edward D. Neill,History of the Minnesota Valley(Minneapolis: North Star, 1882), 118, 123-24."
+      },
+      {
+        "id": "XBA5E6D26-DD36-43C2-B743-450A553286A8",
+        "text": "4Rives’ application to become postmaster of Paris, Illinois, if indeed he sent one\n                  to Lincoln, has not been located.Rives’ name does not appear in the official registers of the officers and agents of\n                  the government for 1849, 1851, and 1853, so apparently he did not receive an appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to George W. Rives, 7 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yourletterof the 25thult was received on the 1stIntYou overrate my capacity to serve you–  Not one man recommended by me has yet been\n               appointed to any thing, little or big, except a few who had no opposition–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Besides this, at the very inaugeration I commenced trying to get aMinesotaappointment forDrHenry, and have not yet succeeded; and I would not^now,^lessen his chance, by recommending any living man for  any thing in that Teritory–3It is my recollection that you sent me an application to be P.  M.[Postmaster] atParis–   Am I mistaken?4"
+      }
+    ],
+    "word_count": 98
+  },
+  "extraction_date": "2025-12-26 20:42:18",
+  "word_count": 98,
+  "processing": {
+    "cleaned": true,
+    "original_length": 608,
+    "cleaned_length": 577,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

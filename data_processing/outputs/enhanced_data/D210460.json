@@ -1,0 +1,78 @@
+{
+  "document_id": "D210460",
+  "url": "https://papersofabrahamlincoln.org/documents/D210460",
+  "metadata": {
+    "date": "1849-05-07",
+    "authors": [
+      "Scott, William C."
+    ],
+    "keywords": [
+      "Business transactions",
+      "Carpets",
+      "House furnishings"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-05-07",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "opportunity",
+      "one",
+      "forward",
+      "there",
+      "william",
+      "scott",
+      "abraham",
+      "lincoln",
+      "days",
+      "small",
+      "roll",
+      "carpet",
+      "mrlouderman",
+      "awaiting"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "William C. Scott to Abraham Lincoln, 7 May 18491 I have for 2 or 3 days had a small roll of carpet (from MrLouderman's) awaiting an opportunity by some one direct fromSpringdto forward you but as there is no one here for Spring–d– MrCresapofJacksonvillehas kindly offered to take charge of it that far and endeavor to forward immediately\n\nfrom there— he leaves this afternoon and I have thot best to apprize you of it by mail— so that if you may avail yourself of any opportunity\n\nof getting it up— in case he may not have forwarded it in due time–2",
+    "paragraphs": [
+      "William C. Scott to Abraham Lincoln, 7 May 18491 I have for 2 or 3 days had a small roll of carpet (from MrLouderman's) awaiting an opportunity by some one direct fromSpringdto forward you but as there is no one here for Spring–d– MrCresapofJacksonvillehas kindly offered to take charge of it that far and endeavor to forward immediately",
+      "from there— he leaves this afternoon and I have thot best to apprize you of it by mail— so that if you may avail yourself of any opportunity",
+      "of getting it up— in case he may not have forwarded it in due time–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "J. C. Louderman & Company to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "XF6AA4E2A-A798-4E31-83C0-0682BAD45877",
+        "text": "1William C. Scott wrote the letter and postscript and signed the letter."
+      },
+      {
+        "id": "X9A2C8264-EF13-47DC-A72D-4C00865152FD",
+        "text": "2Abraham Lincoln had purchased 71/4yards of Brussels Carpet from the firm of J. C. Louderman & Company.J. C. Louderman & Company to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William C. Scott to Abraham Lincoln, 7 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have for 2 or 3 days had a small roll of carpet (from MrLouderman's) awaiting an opportunity by some one direct fromSpringdto forward you but as there is no one here for Spring–d[Springfield]– MrCresapofJacksonvillehas kindly offered to take charge of it that far and endeavor to forward immediately\n               from there— he leaves this afternoon and I have thot[thought] best to apprize you of it by mail— so that if you may avail yourself of any opportunity\n               of getting it up— in case he may not have forwarded it in due time–2"
+      }
+    ],
+    "word_count": 101
+  },
+  "extraction_date": "2025-12-26 20:42:51",
+  "word_count": 101,
+  "processing": {
+    "cleaned": true,
+    "original_length": 599,
+    "cleaned_length": 549,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,82 @@
+{
+  "document_id": "D200381",
+  "url": "https://papersofabrahamlincoln.org/documents/D200381",
+  "metadata": {
+    "date": "1847-12-06 - 1849-03-03",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislators",
+      "Legislative bodies--Lower chambers",
+      "Employment references"
+    ],
+    "type": "Endorsement",
+    "extracted_date": "1847-12-06 - 1849-03-03",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "mrcrosby",
+      "endorsement",
+      "abraham",
+      "lincoln",
+      "unknown",
+      "request",
+      "most",
+      "cheerfully",
+      "state",
+      "concur",
+      "fully",
+      "foregoing",
+      "certificate",
+      "ofjudge",
+      "treat"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Endorsement of Abraham Lincoln to Unknown, 1 At the request of MrCrosby, I most cheerfully state that I concur fully in the foregoing certificate\n\nofJudge^Treat–^–2It is thought not improper for me to add, that I am the Representative toCongressfor the District in which MrCrosby resides–3",
+    "paragraphs": [
+      "Endorsement of Abraham Lincoln to Unknown, 1 At the request of MrCrosby, I most cheerfully state that I concur fully in the foregoing certificate",
+      "ofJudge^Treat–^–2It is thought not improper for me to add, that I am the Representative toCongressfor the District in which MrCrosby resides–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:352.",
+      "U.S. HouseJournal. 1848. 30th Cong., 1st sess., 15; U.S. HouseJournal. 1849. 30th Cong., 2nd sess., 669; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 120."
+    ],
+    "footnotes": [
+      {
+        "id": "X193B5F21-C7C0-4033-9E00-EED45C5DB93C",
+        "text": "1Abraham Lincoln wrote and signed the endorsement. The host document has not been located."
+      },
+      {
+        "id": "X0751F23F-03F6-4124-B68E-B4E983A160FE",
+        "text": "2Roy P. Basler identified “Mr. Crosby” as J. W. Crosby, without attribution.  Abraham\n                  Lincoln could have been referring to Israel W. Crosby, but the editors could not make\n                  a positive identification.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:352."
+      },
+      {
+        "id": "X993D49F5-4B81-4972-8212-B207E782E84F",
+        "text": "3The Thirtieth U.S. Congress met from December 6, 1847 to March 3, 1849.  Lincoln represented\n                  the Seventh Congressional District, which included the counties ofCass,Logan,Marshall,Mason,Menard,Morgan,Putnam,Sangamon,Scott,Tazewell, andWoodford.U.S. HouseJournal. 1848. 30th Cong., 1st sess., 15; U.S. HouseJournal. 1849. 30th Cong., 2nd sess., 669; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 120."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Endorsement of Abraham Lincoln to Unknown, [6 December 1847 - 3 March 1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "At the request of MrCrosby, I most cheerfully state that I concur fully in the foregoing certificate\n               ofJudge^Treat–^–2It is thought not improper for me to add, that I am the Representative toCongressfor the District in which MrCrosby resides–3"
+      }
+    ],
+    "word_count": 45
+  },
+  "extraction_date": "2025-12-26 20:37:18",
+  "word_count": 51,
+  "processing": {
+    "cleaned": true,
+    "original_length": 335,
+    "cleaned_length": 289,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

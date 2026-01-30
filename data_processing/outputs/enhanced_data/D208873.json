@@ -1,0 +1,104 @@
+{
+  "document_id": "D208873",
+  "url": "https://papersofabrahamlincoln.org/documents/D208873",
+  "metadata": {
+    "date": "1848-XX-XX",
+    "authors": [
+      "Adams, Green",
+      "Baker, Edward D.",
+      "Belcher, Hiram",
+      "Brady, Jasper E.",
+      "Collins, William",
+      "Conger, Harmon S.",
+      "Dixon, James",
+      "Dunn, George G.",
+      "Evans, Nathan",
+      "Freedley, John",
+      "Gaines, John P.",
+      "Gregory, Dudley S.",
+      "Hampton, Moses",
+      "Haskill, William T.",
+      "Holmes, Elias B.",
+      "Jones, John W.",
+      "Lincoln, Abraham (President)",
+      "Marvin, Dudley",
+      "McIlvaine, Abraham R.",
+      "Morehead, Charles S.",
+      "Nelson, William (Congressman)",
+      "Newell, William A. (Congressman)",
+      "Reynolds, Gideon",
+      "Rose, Robert L.",
+      "Sherrill, Eliakim",
+      "Silvester, Peter H.",
+      "Slingerland, John I.",
+      "St. John, Daniel B.",
+      "Thompson, Richard W.",
+      "Tompkins, Patrick W.",
+      "Van Dyke, John",
+      "Warren, Cornelius",
+      "Wilson, James (Congressman)"
+    ],
+    "keywords": [
+      "Legislators"
+    ],
+    "type": "Petition",
+    "extracted_date": "1848-XX-XX",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "lincoln",
+      "fragment",
+      "petition",
+      "abraham",
+      "others",
+      "unknown",
+      "concur",
+      "above",
+      "ills",
+      "thompsonj",
+      "dixon",
+      "conn",
+      "tompkinsjames",
+      "wilsonn",
+      "bradyrobt"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Fragment of Petition of Abraham Lincoln and Others to Unknown, 1 We concur in the above–A Lincoln,Ills.R W ThompsonJ. Dixon–Conn.P W TompkinsJames WilsonN,H,J– E– BradyRobt L RoseA R McIlvaineJohn W JonesGideon ReynoldsD S GregoryE SherrillCornsWarrenP H SilvesterN. EvansDudley MarvinJno.P.GainesD. B. St JohnGeo. G. DunnJohn I. SlingerlandE. B. HolmesWmT. HaskellH. S CongerJohn Van DykeW NelsonC S MoreheadJohn FreedleyW CollinsHiram BelcherGreen AdamsWmA NewellM. HamptonE. D. Baker2",
+    "paragraphs": [
+      "Fragment of Petition of Abraham Lincoln and Others to Unknown, 1 We concur in the above–A Lincoln,Ills.R W ThompsonJ. Dixon–Conn.P W TompkinsJames WilsonN,H,J– E– BradyRobt L RoseA R McIlvaineJohn W JonesGideon ReynoldsD S GregoryE SherrillCornsWarrenP H SilvesterN. EvansDudley MarvinJno.P.GainesD. B. St JohnGeo. G. DunnJohn I. SlingerlandE. B. HolmesWmT. HaskellH. S CongerJohn Van DykeW NelsonC S MoreheadJohn FreedleyW CollinsHiram BelcherGreen AdamsWmA NewellM. HamptonE. D. Baker2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X984537CC-6B54-4E68-A8ED-D03EC5837957",
+        "text": "1Abraham Lincoln wrote the line of concurrence and signed his name.  Each signatory\n                  signed his own name.  The actual petition has not been identified or located."
+      },
+      {
+        "id": "X3162ABC9-EFBE-4C4E-A319-A36ACCA535D0",
+        "text": "2With the exception of William Collins, all the signatories wereWhigmembers of theU.S. House of Representativesduring theThirtieth Congress."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fragment of Petition of Abraham Lincoln and Others to Unknown, [1848]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "We concur in the above–A Lincoln,Ills.R W ThompsonJ. Dixon–Conn.P W TompkinsJames WilsonN,H,J–    E– BradyRobt L RoseA R McIlvaineJohn W JonesGideon ReynoldsD S GregoryE SherrillCornsWarrenP H SilvesterN. EvansDudley MarvinJno.P.GainesD. B. St JohnGeo. G. DunnJohn  I. SlingerlandE. B. HolmesWmT. HaskellH. S CongerJohn Van DykeW NelsonC S MoreheadJohn FreedleyW CollinsHiram BelcherGreen AdamsWmA NewellM. HamptonE. D. Baker2"
+      }
+    ],
+    "word_count": 64
+  },
+  "extraction_date": "2025-12-26 20:32:16",
+  "word_count": 64,
+  "processing": {
+    "cleaned": true,
+    "original_length": 497,
+    "cleaned_length": 487,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

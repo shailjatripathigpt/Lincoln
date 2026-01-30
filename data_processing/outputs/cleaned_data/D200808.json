@@ -1,0 +1,72 @@
+{
+  "document_id": "D200808",
+  "url": "https://papersofabrahamlincoln.org/documents/D200808",
+  "metadata": {
+    "date": "1854-11-01",
+    "authors": [],
+    "keywords": [
+      "Political campaigns",
+      "Political oratory",
+      "Slavery--Extension to the territories"
+    ],
+    "type": "Speech"
+  },
+  "content": {
+    "full_text": "Summary of Speech at Quincy, Illinois, 1 November 18541 Mr.Lincoln’s Speech.2 Hon. A. Lincoln, ofSpringfieldaddressed a large audience atKendall’s Hallon Wednesday evening. We regret that we cannot give a full sketch of his address.\n\nThe large company present listened with unwearied attention and an approbation emphasised\n\nby repeated outbursts of enthusiastic applause. The address was one of the clearest,\n\nmost logical, argumentative and convincing discourse on theNebraska questionto which we have listened.3Commencing with the history of its earliest events which led to theCompromise of 1820, he traced that Compromise up to the present time, showing that it had ever remained\n\nin the hearts of the people a sacred thing which no ruthless hand should have dared\n\nto destroy. Mr Lincoln left a most favorable impression upon those who heard him. He is one of\n\nthe “truly great men” ofIllinois.",
+    "paragraphs": [
+      "Summary of Speech at Quincy, Illinois, 1 November 18541 Mr.Lincoln’s Speech.2 Hon. A. Lincoln, ofSpringfieldaddressed a large audience atKendall’s Hallon Wednesday evening. We regret that we cannot give a full sketch of his address.",
+      "The large company present listened with unwearied attention and an approbation emphasised",
+      "by repeated outbursts of enthusiastic applause. The address was one of the clearest,",
+      "most logical, argumentative and convincing discourse on theNebraska questionto which we have listened.3Commencing with the history of its earliest events which led to theCompromise of 1820, he traced that Compromise up to the present time, showing that it had ever remained",
+      "in the hearts of the people a sacred thing which no ruthless hand should have dared",
+      "to destroy. Mr Lincoln left a most favorable impression upon those who heard him. He is one of",
+      "the “truly great men” ofIllinois."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Daily Whig(Quincy, IL), 3 November 1854, 3:1",
+      "David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Orville H. Browning; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10."
+    ],
+    "footnotes": [
+      {
+        "id": "X051EB7F2-F242-48C2-899C-6EBB99B023DB",
+        "text": "1This summary appeared in the November 3, 1854, issue ofThe Daily Whig, published inQuincy, Illinois.The Daily Whig(Quincy, IL), 3 November 1854, 3:1"
+      },
+      {
+        "id": "XBBD2418A-DE33-452D-9740-DC6D6288986B",
+        "text": "2On October 30, 1854, LincolnwrotetoRichard Yates, “I am here now going to Quincy, to try to give MrWilliamsa little lift.” The passage of theKansas-Nebraska Actand repeal of theMissouri Compromisehad reawakened Lincoln’s interest in politics and spurred him to campaign foranti-Nebraskacandidates in thecongressional election of 1854. Archibald Williams, an opponent of the Kansas-Nebraska Act and aWhig, ran to represent the Illinois Fifth Congressional District in theU.S. House of Representativesbut was defeated by the incumbent,William A. Richardson.David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Orville H. Browning; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10."
+      },
+      {
+        "id": "X0E4B1559-1D46-4F6F-A3BB-C8E40EA9E607",
+        "text": "3The debate centered around whether or not slavery should be allow to expand to theKansasandNebraskaterritories."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Summary of Speech at Quincy, Illinois, 1 November 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr.Lincoln’s Speech.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hon. A. Lincoln, ofSpringfieldaddressed a large audience atKendall’s Hallon Wednesday evening.  We regret that we cannot give a full sketch of his address.\n               The large company present listened with unwearied attention and an approbation emphasised\n               by repeated outbursts of enthusiastic applause.  The address was one of the clearest,\n               most logical, argumentative and convincing discourse on theNebraska questionto which we have listened.3Commencing with the history of its earliest events which led to theCompromise of 1820, he traced that Compromise up to the present time, showing that it had ever remained\n               in the hearts of the people a sacred thing which no ruthless hand should have dared\n               to destroy."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr Lincoln left a most favorable impression upon those who heard him.  He is one of\n               the “truly great men” ofIllinois."
+      }
+    ],
+    "word_count": 139
+  },
+  "extraction_date": "2025-12-26 21:30:54",
+  "word_count": 139,
+  "processing": {
+    "cleaned": true,
+    "original_length": 987,
+    "cleaned_length": 900,
+    "preserved_originality": true
+  }
+}

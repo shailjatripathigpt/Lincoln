@@ -1,0 +1,79 @@
+{
+  "document_id": "D200394b",
+  "url": "https://papersofabrahamlincoln.org/documents/D200394b",
+  "metadata": {
+    "date": "1846-02-25",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Poetry"
+    ],
+    "type": "Poem",
+    "extracted_date": "1844",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "country",
+      "his",
+      "home",
+      "them",
+      "says",
+      "part",
+      "still",
+      "feelings",
+      "poetic",
+      "question",
+      "condition",
+      "childhood",
+      "see",
+      "again",
+      "editor"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "“My Childhood-Home I See Again,” 1 Mr. Editor: The following verses were written by afriendof mine, on re-visiting, after an absence of twenty years, the home of his infancy\n\nand boyhood, and the burial place of hismotherand his onlysister. In communicating them to me, he says:“That part of the country is, in itself, as unpoetical as any spot of the earth: but\n\nstill the sight of it, with its inhabitants and its natural objects, aroused feelings\n\nin me, which were certainly poetic. Whether my expression of those feelings is poetic,\n\nis quite another question.”I think this question may be safely decided in his favor, and having procured his\n\npermission to publish them—are willing to hear the verdict of your readers. The subject of the second part was a schoolmate of the author—the son oftherich man of the little neighborhood;“at the age of nineteen,”says my friend,“he unaccountably became furiously mad, from which condition he gradually settled down\n\ninto harmless insanity. When I visited my old home in the fall of 1844, I found him\n\nstill lingering in this wretched condition.”",
+    "paragraphs": [
+      "“My Childhood-Home I See Again,” 1 Mr. Editor: The following verses were written by afriendof mine, on re-visiting, after an absence of twenty years, the home of his infancy",
+      "and boyhood, and the burial place of hismotherand his onlysister. In communicating them to me, he says:“That part of the country is, in itself, as unpoetical as any spot of the earth: but",
+      "still the sight of it, with its inhabitants and its natural objects, aroused feelings",
+      "in me, which were certainly poetic. Whether my expression of those feelings is poetic,",
+      "is quite another question.”I think this question may be safely decided in his favor, and having procured his",
+      "permission to publish them—are willing to hear the verdict of your readers. The subject of the second part was a schoolmate of the author—the son oftherich man of the little neighborhood;“at the age of nineteen,”says my friend,“he unaccountably became furiously mad, from which condition he gradually settled down",
+      "into harmless insanity. When I visited my old home in the fall of 1844, I found him",
+      "still lingering in this wretched condition.”"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X97FAFF88-67BA-4987-B345-864AD4DD409E",
+        "text": "1The date of this poem written by Abraham  Lincoln is unknown. The editors have dated\n                  it the day following hislettertoAndrew Johnstonon February 24, in which Lincoln stated that his poem consisting of four cantos was\n                  “almost done.” This version was published anonymously in the May 5, 1847Quincy Whig."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "“My Childhood-Home I See Again,” [25 February 1846]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr. Editor: The following verses were written by afriendof mine, on re-visiting, after an absence of twenty years, the home of his infancy\n               and boyhood, and the burial place of hismotherand his onlysister. In communicating them to me, he says:“That part of the country is, in itself, as unpoetical as any spot of the earth: but\n                     still the sight of it, with its inhabitants and its natural objects, aroused feelings\n                     in me, which were certainly poetic.  Whether my expression of those feelings is poetic,\n                     is quite another question.”I think this question may be safely decided in his favor, and having procured his\n               permission to publish them—are willing to hear the verdict of your readers."
+      },
+      {
+        "type": "paragraph",
+        "text": "The subject of the second part was a schoolmate of the author—the son oftherich man of the little neighborhood;“at the age of nineteen,”says my friend,“he unaccountably became furiously mad, from which condition he gradually settled down\n                     into harmless insanity.  When I visited my old home in the fall of 1844, I found him\n                     still lingering in this wretched condition.”"
+      }
+    ],
+    "word_count": 179
+  },
+  "extraction_date": "2025-12-26 20:22:59",
+  "word_count": 181,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1241,
+    "cleaned_length": 1093,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

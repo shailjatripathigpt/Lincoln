@@ -1,0 +1,76 @@
+{
+  "document_id": "D210389",
+  "url": "https://papersofabrahamlincoln.org/documents/D210389",
+  "metadata": {
+    "date": "1849-03-30",
+    "authors": [
+      "Hampton, Moses"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references",
+      "Ambassadors"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Moses Hampton to Abraham Lincoln, 30 March 18491 Do you remember the story of the old Virginian stropping his razor on a certainmemberof a young negro's body?which you told and connected it with my mission toBrazil–2Now my good fellow, I am \"arter\" that same mission,3and my object in writing to you just now is to ask the favor that you will address\n\na letter toGen Tayloror MrClaytonon that subject– and you mayspiceit just as highly as you please, I have made up my mind tostandit– I want that appointment andmusthaveit– Will you have the goodness to procure a letter fromCol Baker, who is well and favorably Known to Gen. Taylor– Any influence you may feel disposed\n\nto exert, shall be repaid with compound interest, if ever in my power to do so– I want this application to be like your story of the old womansfish—getlarger, the more it is handled– Let me hear from you soon–",
+    "paragraphs": [
+      "Moses Hampton to Abraham Lincoln, 30 March 18491 Do you remember the story of the old Virginian stropping his razor on a certainmemberof a young negro's body?which you told and connected it with my mission toBrazil–2Now my good fellow, I am \"arter\" that same mission,3and my object in writing to you just now is to ask the favor that you will address",
+      "a letter toGen Tayloror MrClaytonon that subject– and you mayspiceit just as highly as you please, I have made up my mind tostandit– I want that appointment andmusthaveit– Will you have the goodness to procure a letter fromCol Baker, who is well and favorably Known to Gen. Taylor– Any influence you may feel disposed",
+      "to exert, shall be repaid with compound interest, if ever in my power to do so– I want this application to be like your story of the old womansfish—getlarger, the more it is handled– Let me hear from you soon–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:261.",
+      "“Arter.”Merriam-Webster.com Dictionary, Merriam-Webster,https://www.merriam-webster.com/dictionary/arter, accessed 2 September 2020.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 12;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 13."
+    ],
+    "footnotes": [
+      {
+        "id": "XAC61E53C-5136-42D6-A32F-97D6B95291D0",
+        "text": "1Moses Hampton wrote and signed this letter."
+      },
+      {
+        "id": "X40F79082-9142-4137-B589-F9A422314859",
+        "text": "2Hampton and Abraham Lincoln had served together in the30th Congress.  Congressman Lincoln was well-known for his dirty and off-color stories, which entertained\n                  his fellow representatives.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:261."
+      },
+      {
+        "id": "X398BF84F-3B5F-4A54-BCCD-115B809BF75B",
+        "text": "3The word “arter” in this context was most likely a regional or colloquial variant\n                  of the word “after.”“Arter.”Merriam-Webster.com Dictionary, Merriam-Webster,https://www.merriam-webster.com/dictionary/arter, accessed 2 September 2020."
+      },
+      {
+        "id": "XBE3462B5-F98F-4010-A3CA-EC64C2746F55",
+        "text": "4Lincoln wrote this endorsement.  Lincoln apparently answered Hampton’s letter, but\n                  his response has not been located.Hampton most likely hoped that President Zachary Taylor would name him envoy extraordinary\n                  and minister plenipotentiary to Brazil.  There is no documentary evidence that Lincoln\n                  wrote to President Taylor and Secretary of State John M. Clayton endorsing Hampton’s\n                  application, nor any letter to Edward D. Baker requesting a letter to President Taylor\n                  on Hampton’s behalf.  Hampton did not get the appointment;David Tod, appointed by PresidentJames K. Polkin 1847, retained the job until 1851, whenRobert C. Schenckreplaced him.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 12;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 13."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Moses Hampton to Abraham Lincoln, 30 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Do you remember the story of the old Virginian stropping his razor on a certainmemberof a young negro's body?which you told and connected it with my mission toBrazil–2Now my good fellow, I am \"arter\" that same mission,3and my object in writing to you just now is to ask the favor that you will address\n               a letter toGen Tayloror MrClaytonon that subject– and you mayspiceit just as highly as you please, I have made up my mind tostandit– I want that appointment andmusthaveit– Will you have the goodness to procure a letter fromCol Baker, who is well and favorably Known to Gen. Taylor– Any influence you may feel disposed\n               to exert, shall be repaid with compound interest, if ever in my power to do so–"
+      },
+      {
+        "type": "paragraph",
+        "text": "I want this application to be like your story of the old woman[']sfish—getlarger, the more it is handled–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Let me hear from you soon–"
+      }
+    ],
+    "word_count": 156
+  },
+  "extraction_date": "2025-12-26 20:39:31",
+  "word_count": 156,
+  "processing": {
+    "cleaned": true,
+    "original_length": 911,
+    "cleaned_length": 880,
+    "preserved_originality": true
+  }
+}

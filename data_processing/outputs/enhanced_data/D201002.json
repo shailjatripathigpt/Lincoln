@@ -1,0 +1,100 @@
+{
+  "document_id": "D201002",
+  "url": "https://papersofabrahamlincoln.org/documents/D201002",
+  "metadata": {
+    "date": "1858-03-22",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Clemency",
+      "Pardon",
+      "Swine",
+      "Theft"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-03-22",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "say",
+      "pardoned",
+      "father",
+      "son",
+      "his",
+      "not",
+      "abraham",
+      "lincoln",
+      "william",
+      "bissell",
+      "march",
+      "samuel",
+      "jonesandjames",
+      "jones",
+      "atcourthere"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Bissell, 22 March 18581 Samuel JonesandJames Jones, atcourthere last week, were found guilty of stealing five shoats, or small hogs– I have\n\nbeen appealed to, to say something in favor of their being pardoned– They are father\n\nand son– I know nothing to say, except that he is an old citizen (I mean the father)\n\nand his neighbors appear more anxious that he and his son should be pardoned, than\n\nI have known in any other case– This is really all can say– I was not concerned in\n\nthe trial; and consequently did not listen to the evidence–2",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Bissell, 22 March 18581 Samuel JonesandJames Jones, atcourthere last week, were found guilty of stealing five shoats, or small hogs– I have",
+      "been appealed to, to say something in favor of their being pardoned– They are father",
+      "and son– I know nothing to say, except that he is an old citizen (I mean the father)",
+      "and his neighbors appear more anxious that he and his son should be pardoned, than",
+      "I have known in any other case– This is really all can say– I was not concerned in",
+      "the trial; and consequently did not listen to the evidence–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln et al. petitioned for pardon of Jones & Jones, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141543.",
+      "Witness Affidavit, Document IDs: 2804 and 2805,Lincoln et al. petitioned for pardon of Jones & Jones,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141543.",
+      "U.S. Census Office, Eighth Census of the United States (1860), Logan County, IL, 63."
+    ],
+    "footnotes": [
+      {
+        "id": "X6D39C186-E26F-4A48-A121-9F89FA982E11",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XCA669D33-20A3-4A1D-B7A8-3336992BA512",
+        "text": "2Samuel Jones and his son James Jones were sentenced to a year in theIllinois State Penitentiaryby theLogan County Circuit Courtin March 1858 for the theft of five hogs worth $10. Almost immediately following\n                  the verdict, the prosecuting judge, attorney, and witnesses recommended clemency to\n                  Governor William H. Bissell. In addition, members of the county bar, court clerks,\n                  the sheriff, and numerous citizens of Lincoln, Illinois, petitioned for their release.\n                  One month after the verdict, Bissell granted the pardon.Lincoln et al. petitioned for pardon of Jones & Jones, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141543."
+      },
+      {
+        "id": "X4124ED18-C314-49C0-BBFE-1BD1DD2EFA76",
+        "text": "3Two witnesses of the theft testified against the Jones men.Witness Affidavit, Document IDs: 2804 and 2805,Lincoln et al. petitioned for pardon of Jones & Jones,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141543."
+      },
+      {
+        "id": "X6E43513D-C3CA-4025-91D9-F712A1EE2F12",
+        "text": "4Samuel Jones was about forty-three years old in 1858. In 1860, Samuel Jones owned\n                  real and personal property valued at $3,330.  He had eight children, and five of them\n                  were girls.U.S. Census Office, Eighth Census of the United States (1860), Logan County, IL, 63."
+      },
+      {
+        "id": "XBD856AA5-EAEF-40D8-A958-EED05CEB7B83",
+        "text": "5“thereafter” changed to “Hereafter.”"
+      },
+      {
+        "id": "XA4ECFB1C-408F-4D16-AA70-95B2D8A37C6D",
+        "text": "6David Davis wrote and signed this enclosure, including the postscript."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Bissell, 22 March 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Samuel JonesandJames Jones, atcourthere last week, were found guilty of stealing five shoats, or small hogs– I have\n               been appealed to, to say something in favor of their being pardoned– They are father\n               and son– I know nothing to say, except that he is an old citizen (I mean the father)\n               and his neighbors appear more anxious that he and his son should be pardoned, than\n               I have known in any other case– This is really all can say– I was not concerned in\n               the trial; and consequently did not listen to the evidence–2"
+      }
+    ],
+    "word_count": 103
+  },
+  "extraction_date": "2025-12-26 21:45:39",
+  "word_count": 103,
+  "processing": {
+    "cleaned": true,
+    "original_length": 641,
+    "cleaned_length": 571,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

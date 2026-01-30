@@ -1,0 +1,53 @@
+{
+  "document_id": "D200681",
+  "url": "https://papersofabrahamlincoln.org/documents/D200681",
+  "metadata": {
+    "date": "1851-04-23",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Lewis M. Hays, 23 April 18511",
+    "paragraphs": [
+      "Abraham Lincoln to Lewis M. Hays, 23 April 18511"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Receipt, Document ID: 83371,Hays v. Turley, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136157;Abraham Lincoln to Lewis M. Hays;Abraham Lincoln to Lewis M. Hays; Thomas P. Taylor, Gravestone, Alexander Cemetery, Owen County, IN."
+    ],
+    "footnotes": [
+      {
+        "id": "XF1444176-B920-486D-AABA-2346676E8681",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the last sheet,\n                  which was folded to create an envelope."
+      },
+      {
+        "id": "XC033B49D-B339-4784-B540-DF4E04C643CF",
+        "text": "2The enclosed letters Lincoln references have not been located."
+      },
+      {
+        "id": "XEFA1BC6F-7267-48FB-BBB8-3B2000F47109",
+        "text": "3Lewis M. Hays’ reply to Lincoln has not been located.This letter is related to the caseHays v. Turley, which was tried in theLogan County Circuit Courtbetween April 1851 and September 1853. In July 1836, George W. Turley gaveThomas P. Taylora promissory note for $100, but failed to pay.  After Taylor died in August 1842,\n                  Hays became the administrator of his estate. He retained Lincoln as his attorney,\n                  and sued Turley to collect the debt.In October 1852, LincolnwroteHays that he had agreed to give Turley a few months to find evidence supporting his\n                  claim that Taylor had promised to destroy the note and forgive the debt.  Lincoln\n                  justified the action by writing that he felt sorry for Turley, “poorand acrippleas he is.” In September 1853, Turley produced two  witnesses to support his claim\n                  that he had once offered Taylor the money, but Taylor refused it. In the end, on September\n                  7, 1853, the court ruled that Turley pay the estate $116.90, awarding only $16.90\n                  in interest since that was the interest accrued “between the offer to pay and the\n                  bringing of the suit.” Lincoln kept this $16.90 as a fee for his legal services.Receipt, Document ID: 83371,Hays v. Turley, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136157;Abraham Lincoln to Lewis M. Hays;Abraham Lincoln to Lewis M. Hays; Thomas P. Taylor, Gravestone, Alexander Cemetery, Owen County, IN."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Lewis M. Hays, 23 April 18511"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 21:24:53",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 48,
+    "cleaned_length": 48,
+    "preserved_originality": true
+  }
+}

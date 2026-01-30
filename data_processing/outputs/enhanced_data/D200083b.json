@@ -1,0 +1,82 @@
+{
+  "document_id": "D200083b",
+  "url": "https://papersofabrahamlincoln.org/documents/D200083b",
+  "metadata": {
+    "date": "1836-11-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Real property",
+      "Surveying",
+      "Surveys"
+    ],
+    "type": "Survey",
+    "extracted_date": "1836-11-16",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "links",
+      "chains",
+      "north",
+      "inches",
+      "thence",
+      "west",
+      "range",
+      "beginning",
+      "white",
+      "oak",
+      "certificate",
+      "survey",
+      "alvin",
+      "ringo",
+      "november"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Certificate of Survey for Alvin Ringo, 16 November 18361 1836Novr. 16th Surveyed forRingoa tract of land Composed of parts of Sections 30 & 31 in Township 18 North of Range\n\n7 West and bounded as follows (viz): Beginning on the line dividing Range 7 & 8 at\n\na point 6 chains & 81 links North of the North West Corner of said section 31. at\n\na White Oak 16 inches in diametre, bearing N. 43½ E 48 links. Thence East 14 chains & 93 links to a White Oak 36 inches N. 50 W. 32 links. Thence South 20 chains & 7 links to a Sugar tree 14 inches N. 29 W. 53\n\nlinks. Thence West 14 ^chains^ & 93 links to a Hickory 14 inches S. 22 E 19 links. Thence North 20 chains & 7 links to the beginning.2",
+    "paragraphs": [
+      "Certificate of Survey for Alvin Ringo, 16 November 18361 1836Novr. 16th Surveyed forRingoa tract of land Composed of parts of Sections 30 & 31 in Township 18 North of Range",
+      "7 West and bounded as follows (viz): Beginning on the line dividing Range 7 & 8 at",
+      "a point 6 chains & 81 links North of the North West Corner of said section 31. at",
+      "a White Oak 16 inches in diametre, bearing N. 43½ E 48 links. Thence East 14 chains & 93 links to a White Oak 36 inches N. 50 W. 32 links. Thence South 20 chains & 7 links to a Sugar tree 14 inches N. 29 W. 53",
+      "links. Thence West 14 ^chains^ & 93 links to a Hickory 14 inches S. 22 E 19 links. Thence North 20 chains & 7 links to the beginning.2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X3F8EE955-A10B-46BE-861E-A34C5F709308",
+        "text": "1Lincoln apparently performed two surveys for Alvin  Ringo; the certificates were likely\n                  originally written on the same piece of paper and separated later. This text, the\n                  first of the two surveys, only survives in the form oftwohandwritten transcriptions. The original of thesecond survey, in Lincoln’s hand, is extant."
+      },
+      {
+        "id": "X9578F965-D1E4-4063-A72C-4435C3BBBA85",
+        "text": "2The land described here is located nearClary Creek, southwest ofPetersburgin present-dayMenard County, Illinois."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Survey for Alvin Ringo, 16 November 18361"
+      },
+      {
+        "type": "description",
+        "text": "1836Novr. 16th"
+      },
+      {
+        "type": "description",
+        "text": "Surveyed forRingoa tract of land Composed of parts of Sections 30 & 31 in Township 18 North of Range\n               7 West and bounded as follows (viz): Beginning on the line dividing Range 7 & 8 at\n               a point 6 chains & 81 links North of the North West Corner of said section 31. at\n               a White Oak 16 inches in diametre, bearing N.[North] 43½ E[East] 48 links. Thence East 14 chains & 93 links to a White Oak 36 inches N. 50 W.[West] 32 links. Thence South 20 chains & 7 links to a Sugar tree 14 inches N. 29 W. 53\n               links. Thence West 14 ^chains^ & 93 links to a Hickory 14 inches S.[South] 22 E 19 links. Thence North 20 chains & 7 links to the beginning.2"
+      }
+    ],
+    "word_count": 141
+  },
+  "extraction_date": "2025-12-26 20:04:16",
+  "word_count": 141,
+  "processing": {
+    "cleaned": true,
+    "original_length": 768,
+    "cleaned_length": 686,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

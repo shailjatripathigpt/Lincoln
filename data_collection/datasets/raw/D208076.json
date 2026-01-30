@@ -1,0 +1,48 @@
+{
+  "document_id": "D208076",
+  "url": "https://papersofabrahamlincoln.org/documents/D208076",
+  "metadata": {
+    "date": "1836-06-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Roads--Location",
+      "Surveying",
+      "Roads--Maps",
+      "Public records"
+    ],
+    "type": "Survey"
+  },
+  "content": {
+    "full_text": "Survey for the Sangamon County Commissioners' Court, 2 June 18361 The undersigned, having been appointed to view and locate a road from the county line\n               near Watkins mill viaMiller's ferryto the county line in the direction ofPekin, report: that they have made the location and recommend the opening of said road.\n               The above is a Plat of said road.2",
+    "paragraphs": [
+      "Survey for the Sangamon County Commissioners' Court, 2 June 18361",
+      "The undersigned, having been appointed to view and locate a road from the county line\n               near Watkins mill viaMiller's ferryto the county line in the direction ofPekin, report: that they have made the location and recommend the opening of said road.\n               The above is a Plat of said road.2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X0BF98C9A-7CAC-421E-8F5B-93C8CA882BF4",
+        "text": "1Abraham Lincoln authored the entirety of the text on page one, including the signatures\n                  of Robert Cownover and William G. Jeter. Page one also includes a survey map in Lincoln’s\n                  handwriting, not transcribed here."
+      },
+      {
+        "id": "X589013B8-83D6-4FA8-BF0A-AFB40DC0DCD0",
+        "text": "2Sometime between June and September, Lincoln authored a petitionrecommendingthat the Sangamon County Commissioners’ Court relocate part of this road."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Survey for the Sangamon County Commissioners' Court, 2 June 18361"
+      },
+      {
+        "type": "paragraph",
+        "text": "The undersigned, having been appointed to view and locate a road from the county line\n               near Watkins mill viaMiller's ferryto the county line in the direction ofPekin, report: that they have made the location and recommend the opening of said road.\n               The above is a Plat of said road.2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:03:37",
+  "word_count": 59
+}

@@ -1,0 +1,55 @@
+{
+  "document_id": "D200398",
+  "url": "https://papersofabrahamlincoln.org/documents/D200398",
+  "metadata": {
+    "date": "1846-04-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political conventions",
+      "Elections"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Isaac Williams, 24 April 18461 When I saw you atWashington, I undetood that it might be inconvenientto^for^you to attend tPetersburgconvention–2I have become a little more anxious since I saw you, that the convention shall be\n\nfull; and I write this to let you know that if it is inconcvenient for you to attend, our friend,B. F. James, will willingly go as a substitute for you– Please be sure to attend, \"or send a hand\"",
+    "paragraphs": [
+      "Abraham Lincoln to Isaac Williams, 24 April 18461 When I saw you atWashington, I undetood that it might be inconvenientto^for^you to attend tPetersburgconvention–2I have become a little more anxious since I saw you, that the convention shall be",
+      "full; and I write this to let you know that if it is inconcvenient for you to attend, our friend,B. F. James, will willingly go as a substitute for you– Please be sure to attend, \"or send a hand\""
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126;Sangamo Journal(Springfield, IL), 12 March 1846, 2:1."
+    ],
+    "footnotes": [
+      {
+        "id": "XE5F94B0D-4BF9-41DF-A8AE-64D00731CB61",
+        "text": "1Abraham Lincoln wrote and signed this letter.  Isaac Williams wrote the docketing\n                  on the last page."
+      },
+      {
+        "id": "X430D2562-C6C2-4F92-9612-674A033946A2",
+        "text": "2Abraham Lincoln was vying to represent the Seventh Congressional District in theU.S. House of Representatives. The District included the counties ofCass,Logan,Marshall,Mason,Menard,Morgan,Putnam,Sangamon,Scott,Tazewell, andWoodford. \n                  TheWhigDistrict nominating convention was scheduled for  May 1, 1846.Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126;Sangamo Journal(Springfield, IL), 12 March 1846, 2:1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Isaac Williams, 24 April 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "When I saw you atWashington, I unde[rs]tood that it might be inconvenientto^for^you to attend t[he]Petersburgconvention–2I have become a little more anxious since I saw you, that the convention shall be\n               full; and I write this to let you know that if it is inconcvenient for you to attend, our friend,B. F. James, will willingly go as a substitute for you–  Please be sure to attend, \"or send a hand\""
+      }
+    ],
+    "word_count": 77
+  },
+  "extraction_date": "2025-12-26 20:23:15",
+  "word_count": 77,
+  "processing": {
+    "cleaned": true,
+    "original_length": 464,
+    "cleaned_length": 441,
+    "preserved_originality": true
+  }
+}

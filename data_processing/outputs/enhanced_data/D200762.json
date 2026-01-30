@@ -1,0 +1,67 @@
+{
+  "document_id": "D200762",
+  "url": "https://papersofabrahamlincoln.org/documents/D200762",
+  "metadata": {
+    "date": "1853-11-11",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Judgments",
+      "Attorney and client"
+    ],
+    "type": "Letter",
+    "extracted_date": "1853-11-11",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "lewis",
+      "hays",
+      "november"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Lewis M. Hays, 11 November 18531",
+    "paragraphs": [
+      "Abraham Lincoln to Lewis M. Hays, 11 November 18531"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Lewis M. Hays;Hays v. Turley, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136157.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 September 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-09-05; 10 November 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-11-10."
+    ],
+    "footnotes": [
+      {
+        "id": "X2394728F-86CB-447B-9975-CBC66A3033FF",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XED78C722-BC62-4C46-A776-7E5A0B701446",
+        "text": "2Lincoln successfully served as attorney for Lewis M. Hays in a lawsuit againstGeorge W. Turley, resulting in a $116.90 judgment in favor of Hays. Lincoln retained $16.90 for lawyer’s\n                  fees and owed Hays the remaining $100.Abraham Lincoln to Lewis M. Hays;Hays v. Turley, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136157."
+      },
+      {
+        "id": "X612578E2-C28D-4F3E-B94C-98541FA7DBC1",
+        "text": "3Hays’ letter of October 12, 1853 has not been located.  Lincoln returned to Springfield\n                  on November 10, 1853, after traveling more than nine weeks on theEighth Judicial Circuit.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 September 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-09-05; 10 November 1853,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1853-11-10."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Lewis M. Hays, 11 November 18531"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 21:28:32",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 51,
+    "cleaned_length": 51,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

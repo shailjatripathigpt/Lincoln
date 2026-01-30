@@ -1,0 +1,62 @@
+{
+  "document_id": "D233611",
+  "url": "https://papersofabrahamlincoln.org/documents/D233611",
+  "metadata": {
+    "date": "1849-01-12",
+    "authors": [
+      "Servant, Richard B."
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "United States marshals"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Richard B. Servant to Abraham Lincoln, 12 January 18491 I have recd a letter, from our mutual friendBenjm Bond, who desires me to recommend him, for the office of Marshall of the District ofIllinois. You know \"Ben\" as well as I do, and you must know that he is peculiarly fitted for\n\nsuch an office; and I have no hesitation in saying to you, that his Appointment, would\n\ngiveuniversalsatisfactionto theWhigsof this part of theState- Any assistance that you may render him, will be held in grateful remembrance, by\n\nour Whig friends2 I have other matters, about which to write, but as you may have to use this letter,\n\nI will defer them and write again, in a few days",
+    "paragraphs": [
+      "Richard B. Servant to Abraham Lincoln, 12 January 18491 I have recd a letter, from our mutual friendBenjm Bond, who desires me to recommend him, for the office of Marshall of the District ofIllinois. You know \"Ben\" as well as I do, and you must know that he is peculiarly fitted for",
+      "such an office; and I have no hesitation in saying to you, that his Appointment, would",
+      "giveuniversalsatisfactionto theWhigsof this part of theState- Any assistance that you may render him, will be held in grateful remembrance, by",
+      "our Whig friends2 I have other matters, about which to write, but as you may have to use this letter,",
+      "I will defer them and write again, in a few days"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+    ],
+    "footnotes": [
+      {
+        "id": "X4D906822-BB10-4DA9-9D8C-AE470236B8C9",
+        "text": "1Richard B. Servant wrote this letter in its entirety."
+      },
+      {
+        "id": "XE0B51008-6558-4A59-80DF-DDF3E60F9E9C",
+        "text": "2Benjamin Bond received the appointment and held the job until 1853.  In March 1849,\n                  Abraham Lincoln wrote several letters soliciting government officials on Bond’s behalf,\n                  though he preferred that the appointment go to another.Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Richard B. Servant to Abraham Lincoln, 12 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have recd[received] a letter, from our mutual friendBenjm Bond, who desires me to recommend him, for the office of Marshall of the District ofIllinois. You know \"Ben\" as well as I do, and you must know that he is peculiarly fitted for\n               such an office; and I have no hesitation in saying to you, that his Appointment, would\n               giveuniversalsatisfactionto theWhigsof this part of theState- Any assistance that you may render him, will be held in grateful remembrance, by\n               our Whig friends2"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have other matters, about which to write, but as you may have to use this letter,\n               I will defer them and write again, in a few days"
+      }
+    ],
+    "word_count": 119
+  },
+  "extraction_date": "2025-12-26 20:33:06",
+  "word_count": 119,
+  "processing": {
+    "cleaned": true,
+    "original_length": 733,
+    "cleaned_length": 667,
+    "preserved_originality": true
+  }
+}

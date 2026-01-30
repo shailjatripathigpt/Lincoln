@@ -1,0 +1,90 @@
+{
+  "document_id": "D200644",
+  "url": "https://papersofabrahamlincoln.org/documents/D200644",
+  "metadata": {
+    "date": "1850-02-20",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Military appointments",
+      "Employment references",
+      "Polish Americans"
+    ],
+    "type": "Letter",
+    "extracted_date": "1850-02-20",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "military",
+      "appointment",
+      "him",
+      "his",
+      "abraham",
+      "lincoln",
+      "george",
+      "crawford",
+      "february",
+      "captkoscialowski",
+      "who",
+      "present",
+      "you",
+      "letter"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to George W. Crawford, 20 February 18501 CaptKoscialowski, who will present you this letter, is an applicant for an appointment of Major in\n\nthe new Regiments proposed to be raised bycongress–2I have already placed my name, among others, to a general recommendation of him,\n\nfor that appointment;3but I now desire to say, a little more specifically, that I shall be much gratified\n\nif he shall be successful in his application– He is every way a gentleman, a great\n\nfavorite with his acquaintances here, and, (as I understand, without any capacity\n\nfor deciding myself) has a military education, fitting him peculiarly for the position\n\nhe seeks–4",
+    "paragraphs": [
+      "Abraham Lincoln to George W. Crawford, 20 February 18501 CaptKoscialowski, who will present you this letter, is an applicant for an appointment of Major in",
+      "the new Regiments proposed to be raised bycongress–2I have already placed my name, among others, to a general recommendation of him,",
+      "for that appointment;3but I now desire to say, a little more specifically, that I shall be much gratified",
+      "if he shall be successful in his application– He is every way a gentleman, a great",
+      "favorite with his acquaintances here, and, (as I understand, without any capacity",
+      "for deciding myself) has a military education, fitting him peculiarly for the position"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "H.R. Exec. Doc. No. 5, 31st Cong., 1st Sess. (1849), 13, 98-99; “An Act to Increase\n                     the Rank and File of the Army, and to Encourage Enlistments,” 17 June 1850,Statutes at Large of the United States9 (1862):438-39.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+    ],
+    "footnotes": [
+      {
+        "id": "X4C21C500-793E-4FFF-8AAC-97B280AA5554",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the second\n                  sheet, which was folded to create an envelope."
+      },
+      {
+        "id": "XCEA7ECCC-0B90-473A-AA78-890F21452729",
+        "text": "2This is a reference to  GeneralWinfield Scott’s recommendation, made in his annual report to theU.S. War Departmentdated November 3, 1849, that the United States nearly double the total number of\n                  enlisted men in theU.S. Army. Scott argued that “threats of hostilities” on the U.S. frontier as well as the recent\n                  acquisition of territory fromMexiconecessitated this increase in U.S. military forces. PresidentZachary Taylorendorsed Scott’s recommendations during his annual address to the U.S. Congress,\n                  which he delivered on December 24, 1849.On June 17, 1850, Congress passed an act to increase the rank and file of the U.S.\n                  Army and encourage enlistments. The act specifically empowered the president of the\n                  United States to increase the number of privates serving on the western frontier as\n                  well as at “remote and distant stations.” The act made no mention of an accompanying\n                  increase in the number of U.S. Army officers, however.H.R. Exec. Doc. No. 5, 31st Cong., 1st Sess. (1849), 13, 98-99; “An Act to Increase\n                     the Rank and File of the Army, and to Encourage Enlistments,” 17 June 1850,Statutes at Large of the United States9 (1862):438-39."
+      },
+      {
+        "id": "X93629019-7701-479D-8BA2-B120B8910800",
+        "text": "3Lincoln and twenty-one other Illinoisans signed  apetitionrecommending Napoleon Koscialowski to Secretary of WarGeorge W. Crawfordfor a U.S. Army commission at the rank of major."
+      },
+      {
+        "id": "XBBA71E15-E34A-4075-AC07-1CDF55D5B976",
+        "text": "4Koscialowski’s name does not appear in the official registers of the officers and\n                  agents of the government for 1851 or 1853, so apparently he did not receive the appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to George W. Crawford, 20 February 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "CaptKoscialowski, who will present you this letter, is an applicant for an appointment of Major in\n               the new Regiments proposed to be raised bycongress–2I have already placed my name, among others, to a general recommendation of him,\n               for that appointment;3but I now desire to say, a little more specifically, that I shall be much gratified\n               if he shall be successful in his application– He is every way a gentleman, a great\n               favorite with his acquaintances here, and, (as I understand, without any capacity\n               for deciding myself) has a military education, fitting him peculiarly for the position\n               he seeks–4"
+      }
+    ],
+    "word_count": 107
+  },
+  "extraction_date": "2025-12-26 21:22:33",
+  "word_count": 107,
+  "processing": {
+    "cleaned": true,
+    "original_length": 747,
+    "cleaned_length": 663,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

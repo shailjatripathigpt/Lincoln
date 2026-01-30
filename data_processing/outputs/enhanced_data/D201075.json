@@ -1,0 +1,92 @@
+{
+  "document_id": "D201075",
+  "url": "https://papersofabrahamlincoln.org/documents/D201075",
+  "metadata": {
+    "date": "1858-08-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Political campaigns",
+      "Strategy--Political aspects",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-08-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "abraham",
+      "lincoln",
+      "lyman",
+      "porter",
+      "august",
+      "quite",
+      "aware",
+      "doubt",
+      "thecontesti",
+      "engaged",
+      "suppose",
+      "equally",
+      "well",
+      "know"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Lyman Porter, 2 August 18581 You are quite aware, no doubt, of thecontestI am engaged in; and I suppose you equally well know, I would be glad of your help–2If you cannotgive it, burn this, and think no more of it– If you can give it, I shall be very\n\ngrateful; and, in which case I will thank you to consult with friends, and try to\n\nfix up about Representatives in yourcounty–3 Please write me at all events4",
+    "paragraphs": [
+      "Abraham Lincoln to Lyman Porter, 2 August 18581 You are quite aware, no doubt, of thecontestI am engaged in; and I suppose you equally well know, I would be glad of your help–2If you cannotgive it, burn this, and think no more of it– If you can give it, I shall be very",
+      "grateful; and, in which case I will thank you to consult with friends, and try to",
+      "fix up about Representatives in yourcounty–3 Please write me at all events4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of\n                     1858,”The Journal of American History94 (September 2007), 394, 400-401; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1: 458, 476-77.",
+      "John Clayton, comp.,The Illinois Fact Book and Historical Almanac 1673-1968(Carbondale: Southern Illinois University Press, 1970), 220, 222;Summary of Speech at Tremont, Illinois;Summary of Speech at Tremont, Illinois;Daily Illinois State Journal(Springfield), 4 November 1858, 3:2;The Weekly Chicago Times(IL), 11 November 1858, 2:5."
+    ],
+    "footnotes": [
+      {
+        "id": "X273DCAF2-CAAB-4A60-B203-21FB2BA2430E",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "X96782D9D-C24D-4E34-9486-4EAC9BE9F259",
+        "text": "2Lincoln was nominated at the1858 Illinois Republican Conventionto run against incumbentStephen A. Douglasto representIllinoisin theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. Lincoln and Douglas both focused their\n                  campaign efforts on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.\n                  See the1858 Federal Election.Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of\n                     1858,”The Journal of American History94 (September 2007), 394, 400-401; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1: 458, 476-77."
+      },
+      {
+        "id": "XAC70A18E-A0F8-423C-BFCB-E3C8963D3B48",
+        "text": "3Lyman Porter resided in Tazewell County, which comprised the Thirty-Ninth Illinois\n                  House of Representatives District.Thomas J. PickettwroteLincoln on August 3 suggesting that Porter would be a good nominee for the Illinois\n                  House.David Davisinformed Lincoln on August 9 that Porter had been nominated for theLegislatureseveral times but had continuously declined to run.When the Tazewell CountyRepublicanconvention was held inTremonton August 30, 1858,Richard N. Cullomwas selected as the party’s candidate for the race. Cullom ultimately received 1,783\n                  votes in the election, losing toDemocratRobert B. M. Wilson, who earned 1,955 votes.John Clayton, comp.,The Illinois Fact Book and Historical Almanac 1673-1968(Carbondale: Southern Illinois University Press, 1970), 220, 222;Summary of Speech at Tremont, Illinois;Summary of Speech at Tremont, Illinois;Daily Illinois State Journal(Springfield), 4 November 1858, 3:2;The Weekly Chicago Times(IL), 11 November 1858, 2:5."
+      },
+      {
+        "id": "XB78B75D4-4D22-4010-8248-5DA6868520AA",
+        "text": "4A response from Porter has not been found."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Lyman Porter, 2 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "You are quite aware, no doubt, of thecontestI am engaged in; and I suppose you equally well know, I would be glad of your help–2If you cannotgive it, burn this, and think no more of it–  If you can give it, I shall be very\n               grateful; and, in which case I will thank you to consult with friends, and try to\n               fix up about Representatives in yourcounty–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Please write me at all events4"
+      }
+    ],
+    "word_count": 81
+  },
+  "extraction_date": "2025-12-26 21:55:13",
+  "word_count": 81,
+  "processing": {
+    "cleaned": true,
+    "original_length": 458,
+    "cleaned_length": 429,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

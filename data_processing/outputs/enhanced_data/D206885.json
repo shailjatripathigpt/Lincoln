@@ -1,0 +1,67 @@
+{
+  "document_id": "D206885",
+  "url": "https://papersofabrahamlincoln.org/documents/D206885",
+  "metadata": {
+    "date": "1852-08-19",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "Presidential candidates",
+      "Presidents--Election"
+    ],
+    "type": "Letter",
+    "extracted_date": "1852-08-19",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "willie",
+      "mangum",
+      "august"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Willie P. Mangum, 19 August 18521",
+    "paragraphs": [
+      "Abraham Lincoln to Willie P. Mangum, 19 August 18521"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 143, 145; Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 724-25, 754; James R. Morrill, “The Presidential\n                     Election of 1852: Death Knell of the Whig Party of North Carolina,”The North Carolina Historical Review44 (October 1967), 358.",
+      "Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 2: 1849-1860, by William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     81; Charles O. Paullin, “Abraham Lincoln in Congress, 1847-1849,”Journal of the Illinois State Historical Society14 (April-July 1921), 85."
+    ],
+    "footnotes": [
+      {
+        "id": "XB3B6C589-74D7-4EB8-934A-CE6D6EC1AFB0",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X54EDE5A2-F4E7-4043-83D7-45F38C44C71F",
+        "text": "2Lincoln is asking Willie P. Mangum, aWhigwho was serving as North Carolina’s representative in theU.S. Senateat the time of this letter, about Winfield Scott’s chances for victory in the state\n                  during thepresidential election of 1852.The Whig Party had nominated Scott as their candidate for president andWilliam A. Grahamas their candidate for vice-president during their convention in June 1852 in the\n                  hope that a Scott-Graham ticket would enable the party to remain bisectional and appealing\n                  to both Northern and Southern Whigs. Scott was the favorite candidate of most Northern\n                  Whigs, and Graham was a slaveholder from North Carolina. After Graham’s nomination\n                  to the party’s ticket, a North Carolina delegate pledged that Scott and Graham would\n                  carry that state by at least 10,000 votes. Ultimately, although many Southern Whigs\n                  were pleased with Graham’s nomination, they were far less enthusiastic about Scott.\n                  The contest was close in North Carolina, with the Democrats carrying the vote by 39,744\n                  to 39,058, but the  Whig Party suffered a devastating national defeat. TheDemocratic Party’s candidate,Franklin Pierce, won 254 electoral votes to Scott’s 42.Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 143, 145; Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 724-25, 754; James R. Morrill, “The Presidential\n                     Election of 1852: Death Knell of the Whig Party of North Carolina,”The North Carolina Historical Review44 (October 1967), 358."
+      },
+      {
+        "id": "X6871B253-6324-4248-ACB2-F895087C6E71",
+        "text": "3The editors have been unable to determine the identity of “Miss L. K.” William E.\n                  Baringer, author ofLincoln Day by Day, claims, without attribution, that Miss L. K. was someone Lincoln and Mangum discussed\n                  while rooming at the same boarding house inWashington, DC. Lincoln and his family stayed at the boarding house of Mrs.Ann G. Spriggfor nearly a year, starting in December 1847, while he served as a member of theU.S. House of Representatives.No reply from Willie P. Mangum has been located.Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 2: 1849-1860, by William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     81; Charles O. Paullin, “Abraham Lincoln in Congress, 1847-1849,”Journal of the Illinois State Historical Society14 (April-July 1921), 85."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Willie P. Mangum, 19 August 18521"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 21:26:10",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 52,
+    "cleaned_length": 52,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

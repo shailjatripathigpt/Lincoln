@@ -1,0 +1,77 @@
+{
+  "document_id": "D210382",
+  "url": "https://papersofabrahamlincoln.org/documents/D210382",
+  "metadata": {
+    "date": "1849-03-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Unknown, 1 There is not now a SingleWhigClerk fromIlls. in any of the Departments here unless it beJ. M. Lucus, recently appointed byJudge Youngin theLand office.2I hope that in due course of time that the Illinois Whigs may be allowed to share\n\nin these offices, therefore I will place in your hands the following names: John H Morrison,Wyoming Stark Co. Ills Benjamin F. James,Tremont\" Victor B. BellMtCarmel\" These are all excellent Clerks, of good habits and unimpeachable Character3",
+    "paragraphs": [
+      "Abraham Lincoln to Unknown, 1 There is not now a SingleWhigClerk fromIlls. in any of the Departments here unless it beJ. M. Lucus, recently appointed byJudge Youngin theLand office.2I hope that in due course of time that the Illinois Whigs may be allowed to share",
+      "in these offices, therefore I will place in your hands the following names: John H Morrison,Wyoming Stark Co. Ills Benjamin F. James,Tremont\" Victor B. BellMtCarmel\" These are all excellent Clerks, of good habits and unimpeachable Character3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Josiah M. Lucas to Abraham Lincoln; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:298.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853);Abraham Lincoln to George W. Crawford;Stephen T. Logan to Abraham Lincoln;Abraham Lincoln to John M. Clayton;John H. Morrison to Abraham Lincoln;Benjamin F. James to Abraham Lincoln;Benjamin F. James to Abraham Lincoln;Benjamin F. James to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "XCFF6CA6D-2F35-4374-9873-470BB7A7F815",
+        "text": "1At the top of this document, there is a handwritten notation: March 22 (?) 1849. \n                  While March 22 is a possible date for the document, the more probable date is March\n                  11, 1849.Abraham Lincolnsent two letters with identical wording on that date,oneto Secretary of StateJohn M. Clayton, andoneto Secretary of WarGeorge W. Crawford."
+      },
+      {
+        "id": "XEB091A21-A82A-439C-89E7-C17FC9085C7D",
+        "text": "2Josiah M. Lucas was a clerk in the General Land Office inWashington, DC.Josiah M. Lucas to Abraham Lincoln; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:298."
+      },
+      {
+        "id": "XB4F5EB58-5537-463F-8ACB-DB015DA1376F",
+        "text": "3On March 11, 1849, Lincoln wrote letters to Secretary Crawford, Secretary Clayton,\n                  and others on behalf of John H. Morrison, Benjamin F. James, and Victor B. Bell. \n                  James pressed Lincoln in April, May, and June about an appointment.  Morrison apparently\n                  traveled to Washington, DC, to press his claim, before requesting his name be withdrawn\n                  from further consideration.  In June 1849, however, Morrisonwroteagain asking Lincoln for help in getting the surveyor generalship ofCaliforniaor, failing that, a clerk position in Washington.Neither Morrison, James, nor Bell appear in the official registers of the officers\n                  and agents of the federal government for 1849, 1851, and 1853, so apparently they\n                  did not receive appointments.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853);Abraham Lincoln to George W. Crawford;Stephen T. Logan to Abraham Lincoln;Abraham Lincoln to John M. Clayton;John H. Morrison to Abraham Lincoln;Benjamin F. James to Abraham Lincoln;Benjamin F. James to Abraham Lincoln;Benjamin F. James to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Unknown, [11 March 1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "There is not now a SingleWhigClerk fromIlls. in any of the Departments here unless it beJ. M. Lucus, recently appointed byJudge Youngin theLand office.2I hope that in due course of time that the Illinois Whigs may be allowed to share\n               in these offices, therefore I will place in your hands the following names:"
+      },
+      {
+        "type": "paragraph",
+        "text": "John H Morrison,Wyoming Stark Co. Ills"
+      },
+      {
+        "type": "paragraph",
+        "text": "Benjamin F. James,Tremont\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Victor B. BellMtCarmel\""
+      },
+      {
+        "type": "paragraph",
+        "text": "These are all excellent Clerks, of good habits and unimpeachable Character3"
+      }
+    ],
+    "word_count": 81
+  },
+  "extraction_date": "2025-12-26 20:37:44",
+  "word_count": 83,
+  "processing": {
+    "cleaned": true,
+    "original_length": 535,
+    "cleaned_length": 506,
+    "preserved_originality": true
+  }
+}

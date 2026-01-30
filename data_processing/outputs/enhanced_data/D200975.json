@@ -1,0 +1,87 @@
+{
+  "document_id": "D200975",
+  "url": "https://papersofabrahamlincoln.org/documents/D200975",
+  "metadata": {
+    "date": "1857-09-30",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Political parties",
+      "Legislative bodies"
+    ],
+    "type": "Letter",
+    "extracted_date": "1857-09-30",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "letter",
+      "your",
+      "any",
+      "make",
+      "abraham",
+      "lincoln",
+      "richard",
+      "yates",
+      "september",
+      "called",
+      "out",
+      "ofj",
+      "johnson",
+      "received"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Richard Yates, 30 September 18571 Your letter, called out by the letter ofJ. O. Johnson, was received by me on my return fromChicago– MrJohnson wrote the letter by concert with me; and is entirely reliable–2He is a new-comer; but he can devote more time to getting up an organization, than\n\nany one I know, who knows as well as he, how to do it– And now, let me say, I wish you could make up your mind to come to theLegislaturefromMorgannext term– You can be elected; and I doubt some whether any other friend can– It\n\nwill be something of a sacrafice to you; but can you not make it?3",
+    "paragraphs": [
+      "Abraham Lincoln to Richard Yates, 30 September 18571 Your letter, called out by the letter ofJ. O. Johnson, was received by me on my return fromChicago– MrJohnson wrote the letter by concert with me; and is entirely reliable–2He is a new-comer; but he can devote more time to getting up an organization, than",
+      "any one I know, who knows as well as he, how to do it– And now, let me say, I wish you could make up your mind to come to theLegislaturefromMorgannext term– You can be elected; and I doubt some whether any other friend can– It",
+      "will be something of a sacrafice to you; but can you not make it?3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, September 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1857&month=9.",
+      "John Clayton, comp.,The Illinois Fact Book and Historical Almanac, 1673-1968(Carbondale: Southern Illinois University Press, 1970), 219, 222;Daily Illinois State Journal(Springfield), 28 August 1858, 2:2; 2 October 1858, 2:4;Alton Daily Courier(IL), 3 November 1858, 2:3."
+    ],
+    "footnotes": [
+      {
+        "id": "XA6786BBE-EDFF-4556-B8BE-CF89B3561608",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XDFB45E3D-DEBF-4ACA-BD45-82922C44BA92",
+        "text": "2Richard Yates’ letter to Lincoln, to which this is a response, has not been located,\n                  nor has any letter from John O. Johnson to Yates from around this time.Lincoln had been in Chicago from early September through at least September 24, 1857,\n                  for the trial ofHurd et al. v. Rock Island Bridge Co., the so-calledEffie Aftoncase, in theU.S. Circuit Court for the Northern District of Illinois.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, September 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1857&month=9."
+      },
+      {
+        "id": "X63908303-ED7B-4C93-B431-E4D98436C237",
+        "text": "3Yates  did not run for the Illinois General Assembly in the Illinois state election\n                  of 1858. TheIllinois Senateseat for district fifteen, which encompassed Morgan andSangamoncounties, was not up for election, andCyrus W. Vanderenof theAmerican Partycontinued as the district’s state senator. InIllinois House of Representativesdistrict twenty-seven, which included Morgan andScottcounties, theRepublicancandidates in 1858 were Cyrus Mathews and James Leighton, both of whom were defeated\n                  byDemocrats.John Clayton, comp.,The Illinois Fact Book and Historical Almanac, 1673-1968(Carbondale: Southern Illinois University Press, 1970), 219, 222;Daily Illinois State Journal(Springfield), 28 August 1858, 2:2; 2 October 1858, 2:4;Alton Daily Courier(IL), 3 November 1858, 2:3."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Richard Yates, 30 September 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter, called out by the letter ofJ. O. Johnson, was received by me on my return fromChicago– MrJohnson wrote the letter by concert with me; and is entirely reliable–2He is a new-comer; but he can devote more time to getting up an organization, than\n               any one I know, who knows as well as he, how to do it–"
+      },
+      {
+        "type": "paragraph",
+        "text": "And now, let me say, I wish you could make up your mind to come to theLegislaturefromMorgannext term– You can be elected; and I doubt some whether any other friend can–  It\n               will be something of a sacrafice to you; but can you not make it?3"
+      }
+    ],
+    "word_count": 113
+  },
+  "extraction_date": "2025-12-26 21:45:33",
+  "word_count": 113,
+  "processing": {
+    "cleaned": true,
+    "original_length": 633,
+    "cleaned_length": 604,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

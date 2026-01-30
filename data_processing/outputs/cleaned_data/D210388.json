@@ -1,0 +1,68 @@
+{
+  "document_id": "D210388",
+  "url": "https://papersofabrahamlincoln.org/documents/D210388",
+  "metadata": {
+    "date": "1849-03-29",
+    "authors": [
+      "Davis, James M."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "James M. Davis to Abraham Lincoln, 29 March 18491 I wrote you some time ago that I had forwarded, by the hand ofCol Bissellmy recommendations to you with Request that you would have them placed, on file\n\nin the proper department, where they would be duly considered, I have heard nothing\n\non the subject whether you Recd them or not.2MrMcLaughlins time is up in next Sept. & the apointment will be made before the next session, ofCongressit is therefore important to me & my friends that my Claims should be placed in\n\nsuch Condition as to be ConsideredNothing new here, there will be sesion of theLegislature, perhaps in Nov–3",
+    "paragraphs": [
+      "James M. Davis to Abraham Lincoln, 29 March 18491 I wrote you some time ago that I had forwarded, by the hand ofCol Bissellmy recommendations to you with Request that you would have them placed, on file",
+      "in the proper department, where they would be duly considered, I have heard nothing",
+      "on the subject whether you Recd them or not.2MrMcLaughlins time is up in next Sept. & the apointment will be made before the next session, ofCongressit is therefore important to me & my friends that my Claims should be placed in",
+      "such Condition as to be ConsideredNothing new here, there will be sesion of theLegislature, perhaps in Nov–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "David M. Woodson to Abraham Lincoln.",
+      "Illinois Journal(Springfield), 5 September 1849, 3:3; Illinois HouseJournal. 1849. 16th G. A., 2nd sess., 3.",
+      "James M. Davis to Abraham Lincoln;James M. Davis to Abraham Lincoln;James M. Davis to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;Illinois Journal(Springfield), 18 July 1849, 4:3."
+    ],
+    "footnotes": [
+      {
+        "id": "X171A557B-EB49-420D-A26A-C642C41ACCE8",
+        "text": "1James M. Davis wrote this letter in its entirety, including the address on the second\n                  sheet, which was folded to make an envelope."
+      },
+      {
+        "id": "X3786C419-5AE4-426B-B8B5-98F78C8DE2D4",
+        "text": "2Davis’ letter to Abraham Lincoln has not been located.  Lincoln’s response, if he\n                  penned one, has not been located. Davis was seeking appointment as register of theU.S. General Land OfficeinVandalia, Illinois.David M. Woodson to Abraham Lincoln."
+      },
+      {
+        "id": "XF836EFE7-F309-4BBE-9EFF-DBFBB719B91B",
+        "text": "3Davis references the special session of the Illinois General Assembly.  GovernorAugustus C. Frenchwould issue a proclamation on September 5 calling for a special session, which would\n                  open on October 22.Illinois Journal(Springfield), 5 September 1849, 3:3; Illinois HouseJournal. 1849. 16th G. A., 2nd sess., 3."
+      },
+      {
+        "id": "X4CE42A40-CF64-4A48-B3C1-E33CC07CB787",
+        "text": "4Davis was one of three candidates for the position of register at Vandalia.  In alettertoJosiah B. Herrickin January 1849, Lincoln indicated that he had not pledged himself to any candidate,\n                  and was uncertain how to advise any of them.Davis himself wrote Lincoln several other letters regarding his application, urging\n                  Lincoln to respond whether he had received the application materials and whether they\n                  had been forwarded to the proper department.  In aletterfrom Davis dated April 9, 1849, Lincoln endorsed it by writing “Ansd before written.”\n                  Lincoln’s answer, however, has not been found.  Lincoln did not respond to this and\n                  the  other letters.Davis received the appointment, serving as register from July 1849 until 1853.James M. Davis to Abraham Lincoln;James M. Davis to Abraham Lincoln;James M. Davis to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;Illinois Journal(Springfield), 18 July 1849, 4:3."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James M. Davis to Abraham Lincoln, 29 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I wrote you some time ago that I had forwarded, by the hand ofCol Bissellmy recommendations to you with Request that you would have them placed, on file\n               in the proper department, where they would be duly considered, I have heard nothing\n               on the subject whether you Recd[Received] them or not.2MrMcLaughlin[']s time is up in next Sept.[September] & the apointment will be made before the next session, ofCongressit is therefore important to me & my friends that my Claims  should be placed in\n               such Condition as to be ConsideredNothing new here, there will be [called?] sesion of theLegislature, perhaps in Nov–[November]3"
+      }
+    ],
+    "word_count": 109
+  },
+  "extraction_date": "2025-12-26 20:38:04",
+  "word_count": 110,
+  "processing": {
+    "cleaned": true,
+    "original_length": 714,
+    "cleaned_length": 627,
+    "preserved_originality": true
+  }
+}

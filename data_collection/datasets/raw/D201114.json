@@ -1,0 +1,67 @@
+{
+  "document_id": "D201114",
+  "url": "https://papersofabrahamlincoln.org/documents/D201114",
+  "metadata": {
+    "date": "1858-09-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Inscriptions",
+      "Poetry"
+    ],
+    "type": "Inscription"
+  },
+  "content": {
+    "full_text": "Inscription of Abraham Lincoln to Rosa Haggard in Autograph Album, 28 September 18581 You are young, and I am older;You are hopeful, I am not– Enjoy life, ere it grow colder–Pluck the roses ere they rot. Teach your beau to heed the lay–That sunshine soon is lost in shade– Thatnow'sas good as any day–To take thee, Rosa, ere she fade–",
+    "paragraphs": [
+      "Inscription of Abraham Lincoln to Rosa Haggard in Autograph Album, 28 September 18581",
+      "You are young, and I am older;You are hopeful, I am not–",
+      "Enjoy life, ere it grow colder–Pluck the roses ere they rot.",
+      "Teach your beau to heed the lay–That sunshine soon is lost in shade–",
+      "Thatnow'sas good as any day–To take thee, Rosa, ere she fade–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 28 September 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-28; 29 September 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-29; 30 September 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-30; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-94, 400-401; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77;The Rock Island Argus(IL), 12 February 1920, 3:2-3."
+    ],
+    "footnotes": [
+      {
+        "id": "XD06C598C-F7A9-45B5-9D5F-1FBF95766241",
+        "text": "1Abraham Lincoln wrote and signed this document."
+      },
+      {
+        "id": "XA937D5B6-E732-4482-9A3E-A12E60746A4C",
+        "text": "2No correspondence between Lincoln and Rosa Haggard has been located."
+      },
+      {
+        "id": "X59CC261A-A471-48F3-90F8-BC295CD9FDB5",
+        "text": "3Lincoln was running to replace incumbentStephen A. Douglasto representIllinoisin theU.S. Senate. He arrived in Winchester on September 28, 1858 and gave a speech outside of town,\n                  then spoke at the court house in Winchester on September 29 and departed forPittsfieldthe following day.  At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. Lincoln campaigned extensively in Illinois\n                  in the summer and fall of 1858, delivering speeches and campaigning on behalf ofRepublicancandidates for the General Assembly. He and Douglas both focused their campaign efforts\n                  on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.While in Winchester, Lincoln was a guest of Rosa Haggard’s father, hotel owner Robert\n                  E. Haggard. Her sisterLinnierecollected that after her father entertained Lincoln and some prominent Republicans,\n                  Lincoln remained in the parlor with the Haggard family and upon seeing a guitar asked\n                  for some music. After Linnie played and sang for Lincoln, she and Rosa requested that\n                  he sign their autograph albums.  Lincoln complied, swiftly writing original verses\n                  to each, with these lines being the inscription he produced for Rosa. Following Linnie\n                  Haggard’s death,  this inscription by Lincoln was owned by the family of one of her\n                  former students. According to the memory of this  former pupil, Linnie had told him\n                  a slightly variant story of the origin  of these lines in which Linnie and her sisters\n                  were playing the guitar and singing in the parlor of their father’s hotel after their\n                  work was done. In this version of the story, several guests, including Lincoln, were\n                  on the porch as the Haggard sisters performed, and Lincoln came in from the porch\n                  where he had been listening to ask that they sing again. After receiving his thanks,\n                  the girls requested that he sign their autograph books. Lincolnpennedan inscription to Linnie Haggard on September 30, 1858.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 28 September 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-28; 29 September 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-29; 30 September 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-30; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-94, 400-401; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77;The Rock Island Argus(IL), 12 February 1920, 3:2-3."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Inscription of Abraham Lincoln to Rosa Haggard in Autograph Album, 28 September 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "You are young, and I am older;You are hopeful, I am not–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enjoy life, ere it grow colder–Pluck the roses ere they rot."
+      },
+      {
+        "type": "paragraph",
+        "text": "Teach your beau to heed the lay–That sunshine soon is lost in shade–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thatnow'sas good as any day–To take thee, Rosa, ere she fade–"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 22:00:52",
+  "word_count": 60
+}

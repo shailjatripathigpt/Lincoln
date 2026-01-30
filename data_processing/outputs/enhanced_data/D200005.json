@@ -1,0 +1,72 @@
+{
+  "document_id": "D200005",
+  "url": "https://papersofabrahamlincoln.org/documents/D200005",
+  "metadata": {
+    "date": "1831-11-12",
+    "authors": [
+      "Estep, James (Estep)"
+    ],
+    "keywords": [
+      "Real property",
+      "Heirs"
+    ],
+    "type": "Bond",
+    "extracted_date": "1831-11-12",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "law",
+      "james",
+      "teter",
+      "november",
+      "above",
+      "obligation",
+      "said",
+      "bond",
+      "estep",
+      "solomon",
+      "condition",
+      "such",
+      "eastep",
+      "make",
+      "good"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Bond of James Estep to Solomon Teter, 12 November 18311 The condition of the above obligation is Such. If the said James Eastep Shall make\n\na good and lawful patent to said Teter for the afforesaid parcel of land— by the twelfth\n\nday of November in the year of our Lord one thousand eight hundred— and thirty six\n\nthe above obligation is to be null void and of no effect—Otherwise to Remain in full force and Virtue at law",
+    "paragraphs": [
+      "Bond of James Estep to Solomon Teter, 12 November 18311 The condition of the above obligation is Such. If the said James Eastep Shall make",
+      "a good and lawful patent to said Teter for the afforesaid parcel of land— by the twelfth",
+      "day of November in the year of our Lord one thousand eight hundred— and thirty six",
+      "the above obligation is to be null void and of no effect—Otherwise to Remain in full force and Virtue at law"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XEC0F66DC-7C4B-44FD-963E-5662964AF4ED",
+        "text": "1This document is entirely in Abraham Lincoln’s hand, including James Eastep’s signature."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Bond of James Estep to Solomon Teter, 12 November 18311"
+      },
+      {
+        "type": "paragraph",
+        "text": "The condition of the above obligation is Such. If the said James Eastep Shall make\n                  a good and lawful patent to said Teter for the afforesaid parcel of land— by the twelfth\n                  day of November in the year of our Lord one thousand eight hundred— and thirty six\n                  the above obligation is to be null void and of no effect—Otherwise to Remain in full force and Virtue at law"
+      }
+    ],
+    "word_count": 79
+  },
+  "extraction_date": "2025-12-26 19:45:04",
+  "word_count": 79,
+  "processing": {
+    "cleaned": true,
+    "original_length": 473,
+    "cleaned_length": 422,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

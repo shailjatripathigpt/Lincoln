@@ -1,0 +1,88 @@
+{
+  "document_id": "D207668",
+  "url": "https://papersofabrahamlincoln.org/documents/D207668",
+  "metadata": {
+    "date": "1849-06-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-01",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "truth",
+      "you",
+      "what",
+      "bad",
+      "zach",
+      "abraham",
+      "lincoln",
+      "moses",
+      "hampton",
+      "june",
+      "last",
+      "concluded",
+      "take",
+      "thegeneral",
+      "land"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Moses Hampton, 1 June 18491 At last, I have concluded to take theGeneral Land-Officeif I can get it– I have come to this conclusion, more to prevent what would be\n\ngenerally bad for thepartyhere, and particularly bad for me, than a positive desire for the office–2Will you please writeOld Zach(not MrEwing, but Old Zach) as pretty a letter for me, as you think the truth will permit?, Time\n\nis important– What you do, do quickly–3",
+    "paragraphs": [
+      "Abraham Lincoln to Moses Hampton, 1 June 18491 At last, I have concluded to take theGeneral Land-Officeif I can get it– I have come to this conclusion, more to prevent what would be",
+      "generally bad for thepartyhere, and particularly bad for me, than a positive desire for the office–2Will you please writeOld Zach(not MrEwing, but Old Zach) as pretty a letter for me, as you think the truth will permit?, Time",
+      "is important– What you do, do quickly–3"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X0E7EF37F-6F2F-4176-A122-7B4091CF508E",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X17453CA4-0171-48C3-B7C3-9759ACB11E38",
+        "text": "2Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner of the U.S. General Land Office. Lincoln entered\n                  the competition for the position after learning that Butterfield was favored over\n                  Morrison and Edwards. See theGeneral Land Office Affair."
+      },
+      {
+        "id": "X22F6558A-AF97-479F-AF15-4231C31FE22C",
+        "text": "3“What you do, do quickly” is a biblical reference. In John 13:27,Jesussays this toJudasthe night he was betrayed.Moses Hampton’s reply to this letter has not been located. Neither Morrison, Edwards,\n                  nor Lincoln received the appointment for commissioner of the U.S. General Land Office.\n                  The job went to Butterfield instead. See theGeneral Land Office Affair"
+      },
+      {
+        "id": "X80215273-1256-4F82-B393-96CB3A1198B3",
+        "text": "4“June 2” written in by hand in the center of the postmark."
+      },
+      {
+        "id": "X642F5127-84F0-4A4B-BC1A-662196F98457",
+        "text": "5Hampton wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Moses Hampton, 1 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "At last, I have concluded to take theGeneral Land-Officeif I can get it–  I have come to this conclusion, more to prevent what would  be\n               generally bad for thepartyhere, and particularly bad for me, than a positive desire for the office–2Will you please writeOld Zach(not MrEwing, but Old Zach) as pretty a letter for me, as you think the truth will permit?,  Time\n               is important–  What you do, do quickly–3"
+      }
+    ],
+    "word_count": 78
+  },
+  "extraction_date": "2025-12-26 21:15:26",
+  "word_count": 78,
+  "processing": {
+    "cleaned": true,
+    "original_length": 481,
+    "cleaned_length": 449,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

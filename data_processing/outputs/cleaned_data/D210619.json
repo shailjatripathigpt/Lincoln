@@ -1,0 +1,73 @@
+{
+  "document_id": "D210619",
+  "url": "https://papersofabrahamlincoln.org/documents/D210619",
+  "metadata": {
+    "date": "1854-12-16",
+    "authors": [
+      "Scammon, J. Young"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "United States. Congress. Senate",
+      "Elections"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "J. Young Scammon to Abraham Lincoln, 16 December 18541 Illness and absence must be my apology for not replying to your letter before.2 I now write to acknowledge its receipt, and to say that I hope to see you before long,\n\nand to communicate personally with you.3",
+    "paragraphs": [
+      "J. Young Scammon to Abraham Lincoln, 16 December 18541 Illness and absence must be my apology for not replying to your letter before.2 I now write to acknowledge its receipt, and to say that I hope to see you before long,",
+      "and to communicate personally with you.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73;William H. Randolph to Abraham Lincoln; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Hugh Lamaster;Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Horace W. Fay;Illinois Daily Journal(Springfield), 10 November 1854, 2:5.",
+      "Illinois SenateJournal. 1855. 19th G. A., 242-55."
+    ],
+    "footnotes": [
+      {
+        "id": "X76997C33-E1ED-476F-97FB-46F19938DD33",
+        "text": "1J. Young Scammon wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "X69F03738-4BF8-4CA8-871A-757FB188F7D8",
+        "text": "2Abraham Lincoln’s letter to Scammon has not been found. However, it was undoubtedly\n                  regarding Lincoln’s run for theU.S. Senate. Passage of theKansas-Nebraska Actand its effective repeal of theMissouri Compromisereawakened Lincoln’s passion for politics, and he threw himself into thecongressional election campaignin the fall of 1854, crisscrossingIllinoisto deliver speeches against the Kansas-Nebraska Act and in support ofanti-Nebraskacandidates. He even allowed himself to become a candidate for theIllinois General Assembly(albeit unwillingly at first). As the election campaign reached its climax, Lincoln’s\n                  name began to circulate as a possible nominee for one of the state’s U.S. Senate seats.\n                  In November and December 1854, Lincoln wrote confidential letters to political allies\n                  seeking support for his candidacy and information about his prospects.\n                  Lincoln won election to theIllinois House of Representativesin the 1854 election, butdeclinedthe seat in late November in order to run for U.S. Senate.David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73;William H. Randolph to Abraham Lincoln; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Hugh Lamaster;Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Horace W. Fay;Illinois Daily Journal(Springfield), 10 November 1854, 2:5."
+      },
+      {
+        "id": "X91B91B0C-48BD-4847-B7BB-6BB38D3EC15F",
+        "text": "3Two days prior to this letter, on December 14, 1854, Lincolnhad written toElihu B. Washburne, concerned that he had not heard from his allies in Chicago. He wrote, “So far as\n                  I am concerned, there must be something wrong about U.S. Senator, at Chicago– My most\n                  intimate friends there do not answer my letters; and I can not get a word from them–”Scammon and Lincoln were among the candidates when the General Assembly met in joint\n                  session on February 8, 1855, to elect a U.S. Senator.  Neither Lincoln nor Scammon\n                  won the seat; the General Assembly selected anti-NebraskaDemocratLyman Trumbullinstead. See the1854 Federal Election.Illinois SenateJournal. 1855. 19th G. A., 242-55."
+      },
+      {
+        "id": "X444F104F-98BC-4FB5-AF88-A4718DCC4D1B",
+        "text": "4Lincoln wrote this docketing."
+      },
+      {
+        "id": "X4435FFB7-24BD-42A6-BA18-1BE341E3DD2B",
+        "text": "5An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "J. Young Scammon to Abraham Lincoln, 16 December 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "Illness and absence must be my apology for not replying to your letter before.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "I now write to acknowledge its receipt, and to say that I hope to see you before long,\n               and to communicate personally with you.3"
+      }
+    ],
+    "word_count": 47
+  },
+  "extraction_date": "2025-12-26 21:34:07",
+  "word_count": 47,
+  "processing": {
+    "cleaned": true,
+    "original_length": 277,
+    "cleaned_length": 263,
+    "preserved_originality": true
+  }
+}

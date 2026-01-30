@@ -1,0 +1,86 @@
+{
+  "document_id": "D200814",
+  "url": "https://papersofabrahamlincoln.org/documents/D200814",
+  "metadata": {
+    "date": "1854-11-27",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "Political parties",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1854-11-27",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "abraham",
+      "lincoln",
+      "thomas",
+      "henderson",
+      "november",
+      "come",
+      "round",
+      "awhigmay",
+      "possibility",
+      "elected",
+      "theu",
+      "senate",
+      "want",
+      "chance"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Thomas J. Henderson, 27 November 18541 It has come round that awhigmay, by possibility, be elected to theU. S. Senate; and I want the chance of being the man– You are a member of theLegislature, and have a vote to give– Think it over, and see whether you can do better than to\n\ngo for me–2 Write me, at all events; and let this be confidential–3",
+    "paragraphs": [
+      "Abraham Lincoln to Thomas J. Henderson, 27 November 18541 It has come round that awhigmay, by possibility, be elected to theU. S. Senate; and I want the chance of being the man– You are a member of theLegislature, and have a vote to give– Think it over, and see whether you can do better than to",
+      "go for me–2 Write me, at all events; and let this be confidential–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Charles Hoyt;Abraham Lincoln to J. Young Scammon;Abraham Lincoln to Jacob Harding;William H. Randolph to Abraham Lincoln; Stephen Hansen and Paul Nygard, “Stephen A. Douglas, the Know-Nothings, and the\n                     Democratic Party in Illinois, 1854-1858,”Illinois Historical Journal87 (Summer 1994), 114;Illinois Daily Journal(Springfield), 10 November 1854, 2:5; U.S. Const. art. I, § 3.",
+      "Victor B. Howard, “The Illinois Republican Party: Part I: A Party Organizer for the\n                     Republicans in 1854,”Journal of the Illinois State Historical Society64 (Summer 1971), 153-54; Illinois SenateJournal. 1855. 19th G. A., 242-55."
+    ],
+    "footnotes": [
+      {
+        "id": "XC2E6FEFF-C145-4021-BB47-B7D253DD0A20",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X32DE01B4-C085-4389-B39C-E14ED98846E1",
+        "text": "2Passage of theKansas-Nebraska Actand its effective repeal of theMissouri Compromisehad reawakened Lincoln’s passion for politics, and he threw himself into thecongressional election campaignin the fall of 1854, crisscrossingIllinoisto deliver speeches against the Kansas-Nebraska Act and in support ofanti-Nebraskacandidates. He even allowed himself to become a candidate for theIllinois General Assembly(albeit reluctantly at first). As the election campaign reached its climax, Lincoln’s\n                  name began to circulate as a possible nominee for one of the state’sU.S. Senateseats. U.S. senators were chosen at this time by the Illinois General Assembly and\n                  Lincoln began quietly seeking the support of General Assembly members such as newly-elected\n                  representative forStark County, Thomas J. Henderson. The state’s voters sent an anti-Nebraska majority to the Illinois\n                  General Assembly, in which Lincoln also won a seat. Around this date hedeclinedto serve in order to run for the U.S. Senate.David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Charles Hoyt;Abraham Lincoln to J. Young Scammon;Abraham Lincoln to Jacob Harding;William H. Randolph to Abraham Lincoln; Stephen Hansen and Paul Nygard, “Stephen A. Douglas, the Know-Nothings, and the\n                     Democratic Party in Illinois, 1854-1858,”Illinois Historical Journal87 (Summer 1994), 114;Illinois Daily Journal(Springfield), 10 November 1854, 2:5; U.S. Const. art. I, § 3."
+      },
+      {
+        "id": "X59B70680-0313-4693-B29B-706C6DEC5F57",
+        "text": "3Hendersonrespondedto this letter on December 11, 1854, saying that Lincoln andArchibald Williamshad occurred to him as desirable candidates for the U.S. Senate, but that Lincoln\n                  appeared to be the popular choice and he would be pleased if Lincoln were elected.Henderson did indeed support Lincoln’s bid for the U.S. Senate when the Illinois General\n                  Assembly met in a joint session on February 8, 1855, to vote on the matter. Henderson\n                  voted for Lincoln through the first nine rounds of voting. For the tenth vote, Lincoln\n                  withdrew and urged his supporters to vote for anti-NebraskaDemocratLyman Trumbullin order to ensure that an anti-Nebraska politician filled the seat. Henderson cast\n                  his vote for Trumbull in the tenth and final round of voting in which the latter emerged\n                  victorious. See the1854 Federal Election.Victor B. Howard, “The Illinois Republican Party: Part I: A Party Organizer for the\n                     Republicans in 1854,”Journal of the Illinois State Historical Society64 (Summer 1971), 153-54; Illinois SenateJournal. 1855. 19th G. A., 242-55."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Thomas J. Henderson, 27 November 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "It has come round that awhigmay, by possibility, be elected to theU. S. Senate; and I want the chance of being the man– You are a member of theLegislature, and have a vote to give– Think it over, and see whether you can do better than to\n               go for me–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Write me, at all events; and let this be confidential–3"
+      }
+    ],
+    "word_count": 69
+  },
+  "extraction_date": "2025-12-26 21:32:40",
+  "word_count": 69,
+  "processing": {
+    "cleaned": true,
+    "original_length": 378,
+    "cleaned_length": 364,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

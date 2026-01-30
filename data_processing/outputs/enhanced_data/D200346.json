@@ -1,0 +1,76 @@
+{
+  "document_id": "D200346",
+  "url": "https://papersofabrahamlincoln.org/documents/D200346",
+  "metadata": {
+    "date": "1844-02-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "Elections"
+    ],
+    "type": "Letter",
+    "extracted_date": "1844-02-14",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "president",
+      "one",
+      "you",
+      "abraham",
+      "lincoln",
+      "richard",
+      "thomas",
+      "february",
+      "sorry",
+      "say",
+      "find",
+      "copy",
+      "messages",
+      "town",
+      "belongs"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Richard S. Thomas, 14 February 18441 I am sorry to have to say I can find but one copy of President's Messages in town;\n\nand that one, belongs to theState Library, and^, of course,^can not be had– If alive and well, I am sure to be with you on the 22nd. I will meet thetrioof mighty adversaries you mention, in the best manner I can–2No news here–",
+    "paragraphs": [
+      "Abraham Lincoln to Richard S. Thomas, 14 February 18441 I am sorry to have to say I can find but one copy of President's Messages in town;",
+      "and that one, belongs to theState Library, and^, of course,^can not be had– If alive and well, I am sure to be with you on the 22nd. I will meet thetrioof mighty adversaries you mention, in the best manner I can–2No news here–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Summary of Speeches in Virginia, Illinois;Summary of Speeches in Virginia, Illinois;Summary of Speeches in Virginia, Illinois;Summary of Speech in Virginia, Illinois; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:225."
+    ],
+    "footnotes": [
+      {
+        "id": "X8F2CE8C3-195B-493D-9113-CCCAF0EAFB2E",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X970CDB64-DBB1-4827-BEF2-3CD58CDCC711",
+        "text": "2On February 22 and 23, Lincoln gave speeches in Virginia, Illinois.Democratscalled their own meeting for the same time, and invited JudgeJohn Pearsonand Secretary of StateThompson Campbellto give their own speeches. In the winter of 1843-1844, Lincoln joined otherWhigsin stumpingSangamonand other counties on behalf of the Whig Party in the1844 federal election.Summary of Speeches in Virginia, Illinois;Summary of Speeches in Virginia, Illinois;Summary of Speeches in Virginia, Illinois;Summary of Speech in Virginia, Illinois; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:225."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Richard S. Thomas, 14 February 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am sorry to have to say I can find but one copy of President's Messages in town;\n               and that one, belongs to theState Library, and^, of course,^can not be had–  If alive and well, I am sure to be with you on the 22nd.  I will meet thetrioof mighty adversaries you mention, in the best manner I can–2No news here–"
+      }
+    ],
+    "word_count": 70
+  },
+  "extraction_date": "2025-12-26 20:20:15",
+  "word_count": 70,
+  "processing": {
+    "cleaned": true,
+    "original_length": 382,
+    "cleaned_length": 366,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

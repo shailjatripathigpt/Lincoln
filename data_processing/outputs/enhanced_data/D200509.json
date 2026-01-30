@@ -1,0 +1,93 @@
+{
+  "document_id": "D200509",
+  "url": "https://papersofabrahamlincoln.org/documents/D200509",
+  "metadata": {
+    "date": "1848-07-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Newspapers",
+      "Presidential candidates",
+      "Presidents--Election"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "states",
+      "united",
+      "you",
+      "send",
+      "subscribers",
+      "paper",
+      "lincoln",
+      "prospectus",
+      "first",
+      "number",
+      "presidency",
+      "your",
+      "immediate",
+      "please"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Stephen A. Hurlbut, 10 July 1848.1 I send you herewith a prospectus, and the first number of a newWhigPaper calledTHE BATTERY, publishing in thiscity, with a view to promote theelectionof Gen.Zachary Taylorto the Presidency, andMillard Fillmoreto the Vice Presidency of the United States. I respectfully request you to obtain\n\nsubscribers for the paper in your immediate vicinage. Please send a list of names,\n\nand the amount that will be due according to the terms proposed, and I will see that\n\nthe subscribers get their papers through the mail. As a general dissemination of this\n\npaper will, it is believed, be of high importance to the success of the Whig cause,\n\npermit me to solicit an immediate attention to the subject. Your letter of a recent date was duly received–2I could think of no better way of fitting you out, than by sending you theBattery, the first number of which, together with the prospectus, I send by this mail–3If it strikes you as giving promise of being a good campaign paper, please get as\n\nmany subscribers as you can and send them on– I have put you down for one copy, the\n\nsubscription for which I will pay myself, if you are not satisfied with it– Free– A Lincoln M.C",
+    "paragraphs": [
+      "Abraham Lincoln to Stephen A. Hurlbut, 10 July 1848.1 I send you herewith a prospectus, and the first number of a newWhigPaper calledTHE BATTERY, publishing in thiscity, with a view to promote theelectionof Gen.Zachary Taylorto the Presidency, andMillard Fillmoreto the Vice Presidency of the United States. I respectfully request you to obtain",
+      "subscribers for the paper in your immediate vicinage. Please send a list of names,",
+      "and the amount that will be due according to the terms proposed, and I will see that",
+      "the subscribers get their papers through the mail. As a general dissemination of this",
+      "paper will, it is believed, be of high importance to the success of the Whig cause,",
+      "permit me to solicit an immediate attention to the subject. Your letter of a recent date was duly received–2I could think of no better way of fitting you out, than by sending you theBattery, the first number of which, together with the prospectus, I send by this mail–3If it strikes you as giving promise of being a good campaign paper, please get as",
+      "many subscribers as you can and send them on– I have put you down for one copy, the",
+      "subscription for which I will pay myself, if you are not satisfied with it– Free– A Lincoln M.C"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X62416F82-20C1-49CF-BFDF-7729573B5D96",
+        "text": "1Abraham Lincoln wrote the numeral ten in the dateline of the printed form letter and\n                  the portion of the letter beginning “Friend Hurlbut.”  He also signed the letter.\n                  Lincoln also penned the frank, his name, and the address on the envelope."
+      },
+      {
+        "id": "X542C01CC-13E5-477F-AF28-6A142C41B8A2",
+        "text": "2Stephen A. Hurlbut’s letter to Lincoln has not been located."
+      },
+      {
+        "id": "X23F6BBCF-C6A2-4B74-9FC0-1BFC1F1B2929",
+        "text": "3The enclosed first number of theBattery, dated July 6, 1848, and the prospectus have not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Stephen A. Hurlbut, 10 July 1848.1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I send you herewith a prospectus, and the first number of a newWhigPaper calledTHE BATTERY, publishing in thiscity, with a view to promote theelectionof Gen.Zachary Taylorto the Presidency, andMillard Fillmoreto the Vice Presidency of the United States. I respectfully request you to obtain\n                  subscribers for the paper in your immediate vicinage. Please send a list of names,\n                  and the amount that will be due according to the terms proposed, and I will see that\n                  the subscribers get their papers through the mail. As a general dissemination of this\n                  paper will, it is believed, be of high importance to the success of the Whig cause,\n                  permit me to solicit an immediate attention to the subject."
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of a recent date was duly received–2I could think of no better way of fitting you out, than by sending you theBattery, the first number of which, together with the prospectus, I send by this mail–3If it strikes you as giving promise of being a good campaign paper, please get as\n               many subscribers as you can and send them on– I have put you down for one copy, the\n               subscription for which I will pay myself, if you are not satisfied with it–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Free– A Lincoln M.C[Member Congress]"
+      }
+    ],
+    "word_count": 212
+  },
+  "extraction_date": "2025-12-26 20:30:37",
+  "word_count": 213,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1350,
+    "cleaned_length": 1220,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

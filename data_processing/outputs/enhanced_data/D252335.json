@@ -1,0 +1,108 @@
+{
+  "document_id": "D252335",
+  "url": "https://papersofabrahamlincoln.org/documents/D252335",
+  "metadata": {
+    "date": "1849-02-05",
+    "authors": [
+      "Cowles, Alfred"
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-02-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "appointment",
+      "office",
+      "him",
+      "collector",
+      "chicago",
+      "man",
+      "you",
+      "fully",
+      "mrwaughop",
+      "well",
+      "community",
+      "doubtless",
+      "receive",
+      "good",
+      "alfred"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Alfred Cowles to Edward D. Baker and Abraham Lincoln, 5 February 18491 John W WaughopEsq of thiscityis a candidate for the office of Collector of the Port of Chicago: He is a professional\n\nman, and like all other young men in the commencement of the legal profession finds\n\nmany obstacles with which to struggle. The nature of these each of you can fully appreciate, having surmounted them– MrWaughop stands well in this community for character and reputation, and his appointment\n\nwill doubtless be satisfactory I shall take it as a favor that you aid him in the object sought I fully concur in the Statements above made by MrCowles, and think with him, that the appointment of MrWaughop would not be unacceptable to ourWhigfriends in this community. I have already signed a petition for the appointment ofJacob RussellEsq to the office of Collector at Chicago, and I regard him as altogether a proper man\n\nto receive the office. Yet I have no hesitation in saying that I have known Mr. Waughop\n\nwell; that he is a good and reliable whig, and a good citizen, and should he receive\n\nthe appointment he desires, would doubtless discharge the duties satisfactorily.3",
+    "paragraphs": [
+      "Alfred Cowles to Edward D. Baker and Abraham Lincoln, 5 February 18491 John W WaughopEsq of thiscityis a candidate for the office of Collector of the Port of Chicago: He is a professional",
+      "man, and like all other young men in the commencement of the legal profession finds",
+      "many obstacles with which to struggle. The nature of these each of you can fully appreciate, having surmounted them– MrWaughop stands well in this community for character and reputation, and his appointment",
+      "will doubtless be satisfactory I shall take it as a favor that you aid him in the object sought I fully concur in the Statements above made by MrCowles, and think with him, that the appointment of MrWaughop would not be unacceptable to ourWhigfriends in this community. I have already signed a petition for the appointment ofJacob RussellEsq to the office of Collector at Chicago, and I regard him as altogether a proper man",
+      "to receive the office. Yet I have no hesitation in saying that I have known Mr. Waughop",
+      "well; that he is a good and reliable whig, and a good citizen, and should he receive",
+      "the appointment he desires, would doubtless discharge the duties satisfactorily.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 107;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 110;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 125."
+    ],
+    "footnotes": [
+      {
+        "id": "X2117CE64-09D5-4ECA-8179-CE1475F66327",
+        "text": "1Alfred Cowles wrote this letter in its entirety."
+      },
+      {
+        "id": "X44E281CF-9385-4F4F-96A2-43222BAA9BE4",
+        "text": "2William H. Brown wrote this endorsement in its entirety."
+      },
+      {
+        "id": "X3163B2A9-C755-4E87-A849-BDB52AA7DE71",
+        "text": "3John W. Waughop did not get the appointment; Jacob Russell received the job, holding\n                  the position until 1853.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 107;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 110;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 125."
+      },
+      {
+        "id": "XF636F4A0-2E3A-4399-9BBC-35064E910F13",
+        "text": "4J. Young Scammon wrote this endorsement in its entirety."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Alfred Cowles to Edward D. Baker and Abraham Lincoln, 5 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "John W WaughopEsq[Esquire] of thiscityis a candidate for the office of Collector of the Port of Chicago:  He is a professional\n               man, and like all other young men in the commencement of the legal profession finds\n               many obstacles with which to struggle."
+      },
+      {
+        "type": "paragraph",
+        "text": "The nature of these each of you can fully appreciate, having surmounted them–"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrWaughop stands well in this community for character and reputation, and his appointment\n               will doubtless be satisfactory"
+      },
+      {
+        "type": "paragraph",
+        "text": "I shall take it as a favor that you aid him in the object sought"
+      },
+      {
+        "type": "paragraph",
+        "text": "I fully concur in the Statements above made by MrCowles, and think with him, that the appointment of MrWaughop would not be unacceptable to ourWhigfriends in this community."
+      },
+      {
+        "type": "paragraph",
+        "text": "I have already signed a petition for the appointment ofJacob RussellEsq to the office of Collector at Chicago, and I regard him as altogether a proper man\n               to receive the office.  Yet I have no hesitation in saying that I have known Mr. Waughop\n               well; that he is a good and reliable whig, and a good citizen, and should he receive\n               the appointment he desires, would doubtless discharge the duties satisfactorily.3"
+      }
+    ],
+    "word_count": 198
+  },
+  "extraction_date": "2025-12-26 20:34:10",
+  "word_count": 198,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1259,
+    "cleaned_length": 1164,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

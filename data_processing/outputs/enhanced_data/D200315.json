@@ -1,0 +1,88 @@
+{
+  "document_id": "D200315",
+  "url": "https://papersofabrahamlincoln.org/documents/D200315",
+  "metadata": {
+    "date": "1842-10-04",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Personal correspondence",
+      "State governments--Officials and employees",
+      "Interpersonal relations",
+      "Dueling",
+      "Political parties"
+    ],
+    "type": "Letter",
+    "extracted_date": "1842-10-04",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "lincoln",
+      "louis",
+      "abraham",
+      "editor",
+      "thesangamo",
+      "journal",
+      "october",
+      "not",
+      "accept",
+      "any",
+      "thing",
+      "him",
+      "now",
+      "business",
+      "atst"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to the Editor of theSangamo Journal, October 18421 “Lincoln, I can not accept any thing from him now. I have business atSt. Louis: and it is as near as Louisiana. Upon making the above statement verbally to Gen. Whiteside, he replied—“I am going away when it suits my convenience: but I expect Dr. Merryman, as an honorable\n\nman, to meet me at St. Louis. We then shall be untrammeled by the laws of thisState.”3",
+    "paragraphs": [
+      "Abraham Lincoln to the Editor of theSangamo Journal, October 18421 “Lincoln, I can not accept any thing from him now. I have business atSt. Louis: and it is as near as Louisiana. Upon making the above statement verbally to Gen. Whiteside, he replied—“I am going away when it suits my convenience: but I expect Dr. Merryman, as an honorable",
+      "man, to meet me at St. Louis. We then shall be untrammeled by the laws of thisState.”3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Joshua F. Speed;Memorandum of Duel Instructions to Elias H. Merryman.",
+      "Abraham Lincoln to Joshua F. Speed;Sangamo Journal(Springfield, IL), 14 October 1842, 2:3-5."
+    ],
+    "footnotes": [
+      {
+        "id": "XE936ACEB-B859-4458-8391-C6FE0B3D0375",
+        "text": "1On October 7, 1842, theSangamo Journalprinted a long communication from John D. Whiteside, giving his account of the narrowly-averted\n                  duel between Abraham Lincoln andJames Shields. Whiteside and Dr. Elias Merryman, acting as “seconds” for Shields and Lincoln respectively,\n                  became embroiled in their own disagreement that escalated to a challenge to a duel.\n                  In the next column, theJournalthen  printed Merryman’s account, which includes these passages reported by Lincoln.Abraham Lincoln to Joshua F. Speed;Memorandum of Duel Instructions to Elias H. Merryman."
+      },
+      {
+        "id": "X1288839C-4FD1-40C0-8FA4-6165FB605527",
+        "text": "2On October 4, 1842, Lincoln delivered a note from Merryman to Whiteside in which Merryman\n                  offered to meet at Louisiana, Missouri, on the following Friday."
+      },
+      {
+        "id": "XB6C5A3BF-2A55-4648-BCEA-C74EB43BEC09",
+        "text": "3Whiteside later claimed that he understood Merryman to be proposing to meet in the\n                  state ofLouisiana. Merryman and Whiteside continued to bicker about the genesis of their disagreement\n                  and about the site for the duel.Abraham Lincoln to Joshua F. Speed;Sangamo Journal(Springfield, IL), 14 October 1842, 2:3-5."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to the Editor of theSangamo Journal, [4] October 18421"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Lincoln, I can not accept any thing from him now.  I have business atSt. Louis: and it is as near as Louisiana."
+      },
+      {
+        "type": "paragraph",
+        "text": "Upon making the above statement verbally to Gen. Whiteside, he replied—“I am going away when it suits my convenience: but I expect Dr. Merryman, as an honorable\n               man, to meet me at St. Louis.  We then shall be untrammeled by the laws of thisState.”3"
+      }
+    ],
+    "word_count": 76
+  },
+  "extraction_date": "2025-12-26 20:18:23",
+  "word_count": 77,
+  "processing": {
+    "cleaned": true,
+    "original_length": 447,
+    "cleaned_length": 427,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

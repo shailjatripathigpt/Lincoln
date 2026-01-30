@@ -1,0 +1,77 @@
+{
+  "document_id": "D201024",
+  "url": "https://papersofabrahamlincoln.org/documents/D201024",
+  "metadata": {
+    "date": "1858-06-04",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Local elections",
+      "Political candidates",
+      "Political conventions",
+      "Political parties"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Gray, 4 June 18581 Yoursof the 31st of May, accompanied by a printednoticeof yourClinton countymeeting, is just received. TheU.S. courtcommences its summer termherethe day before your meeting, and morally speaking, it is impossible for me to leave.3I hope and believe you will not be without able and interesting speakers. The delegates\n\nyou appoint will meet a large and goodconventionhere on the 11th.4Our prospects appear cheering everywhere. I think it only needs that those who feel\n\nthat our position is right should stand firm, and be active, when action is needed.5 Thanking you for your kind invitation, allow me to subscribe myself,",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Gray, 4 June 18581 Yoursof the 31st of May, accompanied by a printednoticeof yourClinton countymeeting, is just received. TheU.S. courtcommences its summer termherethe day before your meeting, and morally speaking, it is impossible for me to leave.3I hope and believe you will not be without able and interesting speakers. The delegates",
+      "you appoint will meet a large and goodconventionhere on the 11th.4Our prospects appear cheering everywhere. I think it only needs that those who feel",
+      "that our position is right should stand firm, and be active, when action is needed.5 Thanking you for your kind invitation, allow me to subscribe myself,"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Emanuel Hertz,Abraham Lincoln: A New Portrait(New York: Horace Liveright, 1931), 2:708; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:457.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 7 June 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-06-07;Daily Illinois State Journal(Springfield), 7 June 1858, 3:1;Tallman v. Harvey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137633.",
+      "Daily Illinois State Journal(Springfield), 17 June 1858, 2:2-5.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 547, 557."
+    ],
+    "footnotes": [
+      {
+        "id": "X43A32038-1F6B-4BFB-90F3-219617E613F6",
+        "text": "1This letter is attributed to Abraham Lincoln, but the original document in his hand\n                  has not been located."
+      },
+      {
+        "id": "4019251",
+        "text": "2Emanuel Hertz identified the recipient as \"M. H. Gray.\"  Roy P. Basler, editor of\n                  theCollected Works of Abraham Lincoln, corrected Hertz, citing William H. Gray'sletterto Lincoln dated May 31, 1858.  The editors have concurred with Basler on William\n                  H. Gray as the recipient.Emanuel Hertz,Abraham Lincoln: A New Portrait(New York: Horace Liveright, 1931), 2:708; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:457."
+      },
+      {
+        "id": "XE3330BBC-15A1-4C75-9EF3-21A9077B0B4A",
+        "text": "3The first day of the summer term of theU.S. Circuit Court, Southern District of Illinoiswas Monday, June 7. Lincoln appeared in court that day representing George C. Tallman\n                  in an action of ejectment against John F. Harvey.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 7 June 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-06-07;Daily Illinois State Journal(Springfield), 7 June 1858, 3:1;Tallman v. Harvey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137633."
+      },
+      {
+        "id": "XA4F9A715-4451-42D4-A49C-8D1FF33D8DB3",
+        "text": "4Lincoln references the1858 Illinois Republican Convention, which was scheduled, and held, on June 16, 1858.In hisletterto Lincoln, Gray had requested that Lincoln addressClinton CountyRepublicansat a meeting to select delegates for the state convention.  The meeting was to be\n                  held in conjunction with a special session of theClinton County Circuit Court.  Clinton County sent eight delegates, including Gray, to the state convention.Daily Illinois State Journal(Springfield), 17 June 1858, 2:2-5."
+      },
+      {
+        "id": "X8B7E2124-4203-490E-81AC-E05E9C5FF787",
+        "text": "5The 1858 Illinois Republican Convention adopted an anti-slavery platform and adopted\n                  a resolution nominating Lincoln for U.S. senator. Lincoln ran against, and lost to,Stephen A. Douglas, the incumbent.  See1858 Federal Election.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 547, 557."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Gray, 4 June 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yoursof the 31st of May, accompanied by a printednoticeof yourClinton countymeeting, is just received. TheU.S. courtcommences its summer termherethe day before your meeting, and morally speaking, it is impossible for me to leave.3I hope and believe you will not be without able and interesting speakers. The delegates\n               you appoint will meet a large and goodconventionhere on the 11th.4Our prospects appear cheering everywhere. I think it only needs that those who feel\n               that our position is right should stand firm, and be active, when action is needed.5"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thanking you for your kind invitation, allow me to subscribe myself,"
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 21:49:27",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 700,
+    "cleaned_length": 672,
+    "preserved_originality": true
+  }
+}

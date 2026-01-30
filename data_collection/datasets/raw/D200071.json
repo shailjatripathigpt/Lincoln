@@ -1,0 +1,69 @@
+{
+  "document_id": "D200071",
+  "url": "https://papersofabrahamlincoln.org/documents/D200071",
+  "metadata": {
+    "date": "1836-01-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Expenditures, Public"
+    ],
+    "type": "Report"
+  },
+  "content": {
+    "full_text": "Report of the Committee on Public Accounts and Expenditures regarding State Expenses\n               for 1836, [2 January 1836] The committee on Public accounts and expenditures, who were required, by a resolution\n               of theHouse, to ascertain the probable amount of money necessary for defraying the expenses of\n               the State for the succeeding year, report the following—1 [Table 1]",
+    "paragraphs": [
+      "Report of the Committee on Public Accounts and Expenditures regarding State Expenses\n               for 1836, [2 January 1836]",
+      "The committee on Public accounts and expenditures, who were required, by a resolution\n               of theHouse, to ascertain the probable amount of money necessary for defraying the expenses of\n               the State for the succeeding year, report the following—1",
+      "[Table 1: Contingent fund | $ | 4,000 Penitentiary | 750 Interest onWigginsloan | 6,000 Governor's salary | 1,...]"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 121, 206-207."
+    ],
+    "footnotes": [
+      {
+        "id": "X2B22CD46-A602-4A80-820B-AD4A473E0D62",
+        "text": "1On December 22, 1835, the House of Representatives adopted aresolutionordering the Committee on Public Accounts and Expenditures, of whichAbraham Lincolnwas a member, to report the projected costs of the state government for the following\n                  year.  On January 2, 1836,John D. Hughesfrom the Committee on Public Accounts and Expenditures  presented this report, in\n                  the handwriting of Abraham Lincoln.Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 121, 206-207."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of the Committee on Public Accounts and Expenditures regarding State Expenses\n               for 1836, [2 January 1836]"
+      },
+      {
+        "type": "paragraph",
+        "text": "The committee on Public accounts and expenditures, who were required, by a resolution\n               of theHouse, to ascertain the probable amount of money necessary for defraying the expenses of\n               the State for the succeeding year, report the following—1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "Contingent fund | $ | 4,000",
+          "Penitentiary | 750",
+          "Interest onWigginsloan | 6,000",
+          "Governor's salary | 1,000",
+          "Auditor'ssaldo | 1,600",
+          "Treasurer'sdo | 1,600",
+          "Sec, State'sdo | 1,100",
+          "SupremeJudgesdo | 4,000",
+          "Circuitme Judodo | 4,500",
+          "Attorneysdo | 1,850",
+          "Agent of Ohio Salines— | 200",
+          "Warden of Penitentiary | 400",
+          "Public Printer | 2,000",
+          "Counties on the Bounty tract— | 4,150",
+          "Special appropriations and incidental expenses | 6,000",
+          "General Assemblyfor Session of 1836, 7 | 37—000",
+          "Making in the whole | 76,150",
+          "To which add the expenses of the present session of the General Assembly— | 13000",
+          "Total | $ | 89150"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:02:56",
+  "word_count": 56
+}

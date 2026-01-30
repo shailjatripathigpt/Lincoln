@@ -1,0 +1,4 @@
+2025-12-31 11:13:35,553 - style_analyzer - INFO - NLTK data ready
+2025-12-31 11:13:56,756 - tensorflow - WARNING - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-12-31 11:13:58,283 - datasets - INFO - TensorFlow version 2.15.0 available.

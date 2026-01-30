@@ -1,0 +1,89 @@
+{
+  "document_id": "D200208",
+  "url": "https://papersofabrahamlincoln.org/documents/D200208",
+  "metadata": {
+    "date": "1840-01-25",
+    "authors": [],
+    "keywords": [
+      "Divorce"
+    ],
+    "type": "Bill",
+    "extracted_date": "1840-01-25",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "people",
+      "martin",
+      "matrimony",
+      "wife",
+      "bill",
+      "dissolve",
+      "between",
+      "nathaniel",
+      "sarah",
+      "his",
+      "bands",
+      "act",
+      "bonds",
+      "betweennathaniel",
+      "andsarah"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "A Bill to Dissolve the Bonds of Matrimony between Nathaniel B. Martin, and Sarah Martin\n\nHis Wife, 1 A bill for an act to dissolve the bands of matrimony between\n\nNathaniel B. Martin and Sarah Martin his wife— A bill for an act to dissolve the bands of matrimony betweenNathaniel B. Martin, andSarah Martinhis wife—2 Be it enacted by the people of the state ofIllinoisrepresented in theGeneral Assembly: That the bands\n\nof matrimony existing between Nathaniel B. Martin and Sarah Martin, his wife, be,\n\nand they are hereby\n\nforever dissolved—3",
+    "paragraphs": [
+      "A Bill to Dissolve the Bonds of Matrimony between Nathaniel B. Martin, and Sarah Martin",
+      "His Wife, 1 A bill for an act to dissolve the bands of matrimony between",
+      "Nathaniel B. Martin and Sarah Martin his wife— A bill for an act to dissolve the bands of matrimony betweenNathaniel B. Martin, andSarah Martinhis wife—2 Be it enacted by the people of the state ofIllinoisrepresented in theGeneral Assembly: That the bands",
+      "of matrimony existing between Nathaniel B. Martin and Sarah Martin, his wife, be,"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutger University Press, 1953), 1:198.",
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 184, 250, 259, 294, 296; Illinois SenateJournal. 1839. 11th G. A., special sess., \n                     \n                     220.",
+      "Ill. Const. of 1848, art. III, § 32; “An Act concerning Divorces,” 1 June 1827,Revised Laws of Illinois(1827), 181-83."
+    ],
+    "footnotes": [
+      {
+        "id": "X71FAE333-72C5-48B9-8A47-11034E8651FF",
+        "text": "1Abraham Lincolnwrote the text of this bill as well as the bill’s title on page two.  Sarah Martin’spetitionhas minor emendations in Lincoln’s hand.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutger University Press, 1953), 1:198."
+      },
+      {
+        "id": "XCDF0F7AC-B27C-4A47-A5A5-2A9F0E737BCE",
+        "text": "2On January 16, 1840, Abraham Lincoln introduced in the House of Representatives apetitionfrom Mrs. Sarah Martin, requesting a divorce.  The House, on Lincoln’s motion, referred\n                  the petition to a select committee which included Lincoln. In response to this petition,\n                  Lincoln introduced HB 232 in the House on January 25, and the House referred the bill\n                  to the Committee on the Judiciary. On January 27, the committee reported back the\n                  bill without amendment. On January 30, the House passed theengrossed bill. On January 25, the House requested that theSenateconcur in the passage of the bill, but the Senate took no action.Illinois HouseJournal. 1839. 11th G. A., special sess., 184, 250, 259, 294, 296; Illinois SenateJournal. 1839. 11th G. A., special sess., \n                     \n                     220."
+      },
+      {
+        "id": "X07A8DE5F-8BBD-4A0E-95F6-34E0E69CDC22",
+        "text": "3Although rare, legislative divorce was available in Illinois from 1818 until theIllinois Constitution of 1848, although there were no legislative divorces after 1838, when that body granted its\n                  last divorce by legislativeact. After that time, all divorces in the state fell within the jurisdiction of thecircuit courts.Ill. Const. of 1848, art. III, § 32; “An Act concerning Divorces,” 1 June 1827,Revised Laws of Illinois(1827), 181-83."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "A Bill to Dissolve the Bonds of Matrimony between Nathaniel B. Martin, and Sarah Martin\n               His Wife, [25 January 1840]1"
+      },
+      {
+        "type": "description",
+        "text": "A bill for an act to dissolve the bands of matrimony between\n               Nathaniel B. Martin and Sarah Martin his wife—"
+      },
+      {
+        "type": "paragraph",
+        "text": "A bill for an act to dissolve the bands of matrimony betweenNathaniel B. Martin, andSarah Martinhis wife—2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Be it enacted by the people of the state ofIllinoisrepresented in theGeneral Assembly: That the bands\n               of matrimony existing between Nathaniel B. Martin and Sarah Martin, his wife, be,\n               and they are hereby\n               forever dissolved—3"
+      }
+    ],
+    "word_count": 90
+  },
+  "extraction_date": "2025-12-26 20:11:51",
+  "word_count": 92,
+  "processing": {
+    "cleaned": true,
+    "original_length": 630,
+    "cleaned_length": 543,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

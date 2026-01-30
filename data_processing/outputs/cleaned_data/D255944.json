@@ -1,0 +1,57 @@
+{
+  "document_id": "D255944",
+  "url": "https://papersofabrahamlincoln.org/documents/D255944",
+  "metadata": {
+    "date": "1840-01-23",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Canals",
+      "Stocks",
+      "Real property"
+    ],
+    "type": "Amendment"
+  },
+  "content": {
+    "full_text": "Amendment to \"A Bill for the Further Prosecution of the Illinois and Michigan Canal,\"\n\n1 ^&^Providedthat no more than five hundred\n\nthousand dollars of said Certificates shall at any one time be outstanding–2",
+    "paragraphs": [
+      "Amendment to \"A Bill for the Further Prosecution of the Illinois and Michigan Canal,\"",
+      "1 ^&^Providedthat no more than five hundred",
+      "thousand dollars of said Certificates shall at any one time be outstanding–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 136, 163, 201, 204, 232-33, 235, 236, 242-43."
+    ],
+    "footnotes": [
+      {
+        "id": "X78DEA237-5E9B-4365-ACFB-196A486304D3",
+        "text": "1Abraham Lincoln wrote the text of this amendment.  The docketing on page two is in\n                  another hand."
+      },
+      {
+        "id": "X32BB29A2-1A80-42B9-B74D-D8741C761FFC",
+        "text": "2On January 23, 1840, Lincoln proposed this amendment toHB 108, introduced byNewton Cloudin theHouse of Representativeson January 8. On January 13, the House referred the bill to the Committee on the\n                  Judiciary. The Committee on the Judiciary reported back the bill on January 18 with\n                  an amendment, in which the House concurred. The House refused to order the bill engrossed\n                  for a third reading by a vote of 35 yeas to 50 nays, with Lincoln voting yea. On January\n                  20, the House re-considered this vote and, upon Lincoln’s motion, referred the bill\n                  to a five-person select committee that included Lincoln. Lincoln of the select committee\n                  reported back the bill on January 22 with anamendment. Representatives offered amendments, and the House informally tabled the bill and\n                  proposed amendments. On January 23, the House tabled the amendment to the select committee’s\n                  amendment and concurred with the select committee’s amendment. The House added language\n                  related to the issuance of scrip, but rejected further amendment related to the issue\n                  of scrip by a vote of 26 yeas to 55 nays, with Lincoln voting nay. The House adopted\n                  this amendment to add a proviso to the first section. On January 24, the House tabled,\n                  on Lincoln’s motion, an amendment and an amendment to said amendment. The House refused\n                  to order the bill engrossed for a third reading by a vote of 36 yeas to 46 nays, with\n                  Lincoln voting yea.Illinois HouseJournal. 1839. 11th G. A., special sess., 136, 163, 201, 204, 232-33, 235, 236, 242-43."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to \"A Bill for the Further Prosecution of the Illinois and Michigan Canal,\"\n               [23 January 1840]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "^&^Providedthat no more than five hundred\n               thousand dollars of said [s?] Certificates shall at any one time be outstanding–2"
+      }
+    ],
+    "word_count": 33
+  },
+  "extraction_date": "2025-12-26 20:11:39",
+  "word_count": 36,
+  "processing": {
+    "cleaned": true,
+    "original_length": 258,
+    "cleaned_length": 208,
+    "preserved_originality": true
+  }
+}

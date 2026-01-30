@@ -1,0 +1,79 @@
+{
+  "document_id": "D200011",
+  "url": "https://papersofabrahamlincoln.org/documents/D200011",
+  "metadata": {
+    "date": "1832-04-28",
+    "authors": [
+      "Whiteside, Samuel"
+    ],
+    "keywords": [
+      "Militia",
+      "Weapons"
+    ],
+    "type": "Order",
+    "extracted_date": "1832-04-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "order",
+      "provide",
+      "muskets",
+      "april",
+      "special",
+      "thebrigade",
+      "inspectorhaving",
+      "inspected",
+      "captainabram",
+      "lincolncompany",
+      "mustered",
+      "them",
+      "into",
+      "service",
+      "reports"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Order to Provide Muskets, 28 April 18321 Special Order (No) TheBrigade Inspectorhaving inspected CaptainAbram LincolnCompany and mustered them into service reports thatthirty gunsare wanting to arm the Company completely. Quarter Master GeneralEdwardswill furnish theCaptainwith that number of arms if to be had in his department.",
+    "paragraphs": [
+      "Order to Provide Muskets, 28 April 18321 Special Order (No) TheBrigade Inspectorhaving inspected CaptainAbram LincolnCompany and mustered them into service reports thatthirty gunsare wanting to arm the Company completely. Quarter Master GeneralEdwardswill furnish theCaptainwith that number of arms if to be had in his department."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers,  vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+    ],
+    "footnotes": [
+      {
+        "id": "XADA40160-D7DC-4F4F-ADEB-567AC54FBD9E",
+        "text": "1John J. Hardin filled in Abraham Lincoln’s name, signed the order, and authored the\n                  endorsement on the back side. Lincoln signed his name to the endorsement on page two."
+      },
+      {
+        "id": "XA457DB77-D916-4FA6-B16A-9C00E20862DE",
+        "text": "2Ball screws and wipers were attachments used in conjunction with a musket’s ramrod\n                  to clean the barrel and remove jammed musket balls.At the outbreak of theBlack Hawk War, Lincoln volunteered for theIllinois state militia. On April 21, 1832, Lincoln and other men from theNew Salemarea were mustered into a company in the4th Regiment of Illinois Mounted Volunteers, and the members of the company elected Lincoln as their captain. When his month\n                  of service ended, Lincoln re-enlisted twice, for twenty and thirty days respectively,\n                  serving as a private both times. He was discharged finally on July 10, 1832.Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers,  vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Order to Provide Muskets, 28 April 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "Special Order (No)"
+      },
+      {
+        "type": "paragraph",
+        "text": "TheBrigade Inspectorhaving inspected CaptainAbram LincolnCompany and mustered them into service reports thatthirty gunsare wanting to arm the Company completely.  Quarter Master GeneralEdwardswill furnish theCaptainwith that number of arms if to be had in his department."
+      }
+    ],
+    "word_count": 45
+  },
+  "extraction_date": "2025-12-26 19:44:59",
+  "word_count": 45,
+  "processing": {
+    "cleaned": true,
+    "original_length": 331,
+    "cleaned_length": 330,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

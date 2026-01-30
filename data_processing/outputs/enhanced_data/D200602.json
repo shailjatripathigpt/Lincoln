@@ -1,0 +1,80 @@
+{
+  "document_id": "D200602",
+  "url": "https://papersofabrahamlincoln.org/documents/D200602",
+  "metadata": {
+    "date": "1849-06-22",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-22",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "thomas",
+      "ewing",
+      "june",
+      "please",
+      "transmit",
+      "papers",
+      "file",
+      "yourdeptrecommending",
+      "comr",
+      "ofgenlland",
+      "office",
+      "not",
+      "inconsistent"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Thomas Ewing, 22 June 18491 Please transmit to me the papers on file in yourDeptrecommending me for Comr ofGenlLand Office, if not inconsistent with the rules of the Department–2",
+    "paragraphs": [
+      "Abraham Lincoln to Thomas Ewing, 22 June 18491 Please transmit to me the papers on file in yourDeptrecommending me for Comr ofGenlLand Office, if not inconsistent with the rules of the Department–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 10 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-10; 19 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-19;Abraham Lincoln to Thomas Ewing;Thomas Ewing to Abraham Lincoln;Abraham Lincoln to Thomas Ewing."
+    ],
+    "footnotes": [
+      {
+        "id": "X7E455F4E-C833-4570-8EA9-DF096AD3A491",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XA5138157-18E3-4F78-8878-E7E87B2BD169",
+        "text": "2This is a reference to letters of recommendation for Lincoln to become commissioner\n                  of the U.S. General Land Office. Originally, onlyJustin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner. Lincoln entered the competition after learning\n                  that Butterfield was favored over Morrison and Edwards. Supporters of each candidate\n                  sent letters of reference and recommendation to both PresidentZachary Taylorand Secretary of the InteriorThomas Ewing. Although theU.S. Department of the Interioroversaw the U.S. General Land Office, President Taylor was ultimately responsible\n                  for appointing the commissioner of the U.S. General Land Office.Ewingrepliedto this letter the same day Lincoln wrote it. Lincoln was in Washington, DC, because,\n                  as competition for the job intensified,William H. HendersonandJosiah Lucas, Lincoln supporters living in Washington, DC, had urged Lincoln to come to the nation’s\n                  capital to personally lobby for the position. Lincoln arrived on or before June 19.\n                  Ewing and Lincoln corresponded several more times on the topic of letters of recommendation\n                  Ewing and the Department of the Interior received concerning Lincoln’s candidacy for\n                  commissioner. Ultimately, neither Morrison, Edwards, nor Lincoln received the appointment;\n                  the job went to Butterfield instead.  See theGeneral Land Office Affair.William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 10 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-10; 19 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-19;Abraham Lincoln to Thomas Ewing;Thomas Ewing to Abraham Lincoln;Abraham Lincoln to Thomas Ewing."
+      },
+      {
+        "id": "DEW622889184906220005_1",
+        "text": "3“2” written over “1”."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Thomas Ewing, 22 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Please transmit to me the papers on file in yourDeptrecommending me for Comr[Commissioner] ofGenlLand Office, if not inconsistent with the rules of the Department–2"
+      }
+    ],
+    "word_count": 32
+  },
+  "extraction_date": "2025-12-26 21:19:13",
+  "word_count": 32,
+  "processing": {
+    "cleaned": true,
+    "original_length": 211,
+    "cleaned_length": 197,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

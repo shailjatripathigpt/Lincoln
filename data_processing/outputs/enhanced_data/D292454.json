@@ -1,0 +1,91 @@
+{
+  "document_id": "D292454",
+  "url": "https://papersofabrahamlincoln.org/documents/D292454",
+  "metadata": {
+    "date": "1856-08-12",
+    "authors": [
+      "Bergen, G. I.",
+      "Gale, William S.",
+      "Moshier, Timothy",
+      "Tilden, Joseph",
+      "Wiley, A. C."
+    ],
+    "keywords": [
+      "Politics and government",
+      "Elections",
+      "Presidents--Election"
+    ],
+    "type": "Letter",
+    "extracted_date": "1856-08-12",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "country",
+      "william",
+      "gale",
+      "others",
+      "abraham",
+      "lincoln",
+      "august",
+      "sep",
+      "next",
+      "therepublicansexpect",
+      "large",
+      "gathering",
+      "here",
+      "upon",
+      "heels"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "William S. Gale and Others to Abraham Lincoln, 12 August 18561 The 12. Sep next, theRepublicansexpect a large gathering here. It will be upon the heels of the Equestrian Fair,\n\ncoming off the 9. 10. & 11.2Altogether likely to draw a vast multitude. We are anxious to secure the presence of entertaining speakers, and you must come\n\nif possible. There will be a good opportunity to do your country some service.3",
+    "paragraphs": [
+      "William S. Gale and Others to Abraham Lincoln, 12 August 18561 The 12. Sep next, theRepublicansexpect a large gathering here. It will be upon the heels of the Equestrian Fair,",
+      "coming off the 9. 10. & 11.2Altogether likely to draw a vast multitude. We are anxious to secure the presence of entertaining speakers, and you must come",
+      "if possible. There will be a good opportunity to do your country some service.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Ogle County Reporter(Oregon, IL), 11 July 1856, 2:3;The Alton Weekly Courier(IL), 13 August 1857, 2:5.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 12 September 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-12; 1 November 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-11-01; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33."
+    ],
+    "footnotes": [
+      {
+        "id": "X9F24D75D-953A-4B96-86D7-F25D772EB921",
+        "text": "1William S. Gale wrote this letter and signed the names of all of the authors."
+      },
+      {
+        "id": "XECD43AE4-4DAD-4DA2-B0B8-268500F66984",
+        "text": "2According to an advertisement inThe Ogle County Reporter, the equestrian fair was scheduled in Galesburg on the 10, 11, and 12 of December\n                  1856. It was scheduled for September in Galesburg in 1857.The Ogle County Reporter(Oregon, IL), 11 July 1856, 2:3;The Alton Weekly Courier(IL), 13 August 1857, 2:5."
+      },
+      {
+        "id": "X83A5B475-4253-4FE7-9163-454A723BB862",
+        "text": "3A response from Abraham Lincoln, if he penned one, has not been found. On September\n                  12, Lincoln spoke to an audience at a Republican meeting inMajor’s HallinBloomington, Illinoisand attended to legal matters.This invitation was one of several Lincoln received during the summer and fall of\n                  1856 as Republicans battled for political power inIllinoisand the nation. Between July and November 1856, Lincoln crisscrossed the state canvassing\n                  on behalf of Republican Party candidates for political office.  He delivered over\n                  fifty speeches in support of the Republican cause.  See the1856 Federal Election.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 12 September 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-12; 1 November 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-11-01; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William S. Gale and Others to Abraham Lincoln, 12 August 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "The 12. Sep[September] next, theRepublicansexpect a large gathering here. It will be upon the heels of the Equestrian Fair,\n               coming off the 9. 10. & 11.2Altogether likely to draw a vast multitude."
+      },
+      {
+        "type": "paragraph",
+        "text": "We are anxious to secure the presence of entertaining speakers, and you must come\n               if possible. There will be a good opportunity to do your country some service.3"
+      }
+    ],
+    "word_count": 71
+  },
+  "extraction_date": "2025-12-26 21:41:03",
+  "word_count": 71,
+  "processing": {
+    "cleaned": true,
+    "original_length": 450,
+    "cleaned_length": 411,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

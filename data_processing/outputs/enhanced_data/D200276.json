@@ -1,0 +1,90 @@
+{
+  "document_id": "D200276",
+  "url": "https://papersofabrahamlincoln.org/documents/D200276",
+  "metadata": {
+    "date": "1841-06-04",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1841-06-04",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "any",
+      "say",
+      "best",
+      "same",
+      "matter",
+      "last",
+      "abraham",
+      "lincoln",
+      "william",
+      "davidson",
+      "june",
+      "yours",
+      "duly",
+      "received"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Davidson, 4 June 18411 Yours of the 23rdult: is duly received and I have most cheerfully complied with the request you make in\n\nrelation toCol: Servant— I have written toMrTylersaying all for theCol: that I could say for the best man on earth—2Bakerwill do the same to-day— About the matter you and I spoke of^at^our last parting, I can say nothing which would be new to you. My feelings, and those\n\nof Baker, on that subject, are precisely the same as when we last saw you; but the\n\nquestion ishowto effect any thing— If you see any way that we can do any thiyou ought to write us; there is no indelicacy in itBaker and I were withWebbat Vermillion,3antalked the matter over with him; and he will teyou the particulars of what we thought— With my best respects toMrsDavidsoandMrsWilson, I remain",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Davidson, 4 June 18411 Yours of the 23rdult: is duly received and I have most cheerfully complied with the request you make in",
+      "relation toCol: Servant— I have written toMrTylersaying all for theCol: that I could say for the best man on earth—2Bakerwill do the same to-day— About the matter you and I spoke of^at^our last parting, I can say nothing which would be new to you. My feelings, and those",
+      "of Baker, on that subject, are precisely the same as when we last saw you; but the",
+      "question ishowto effect any thing— If you see any way that we can do any thiyou ought to write us; there is no indelicacy in itBaker and I were withWebbat Vermillion,3antalked the matter over with him; and he will teyou the particulars of what we thought— With my best respects toMrsDavidsoandMrsWilson, I remain"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Combined History of Randolph, Monroe and Perry Counties, Illinois(Philadelphia: J. L. McDonough, 1883), 309;Niles' National Register(Philadelphia, PA), 25 March 1843, 51:2.",
+      "Fithian v. Cunningham, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+    ],
+    "footnotes": [
+      {
+        "id": "X31399558-DBCF-449F-BFB8-86F433BCBC9A",
+        "text": "1Abraham Lincoln wrote the entirety of this letter, including the address on page two."
+      },
+      {
+        "id": "X8FAFD048-EC8D-45B9-B3B5-A8722D98B432",
+        "text": "2Lincoln’s letter to President Tyler has not been located. Tyler appointed Servant\n                  receiver of theU.S. General Land OfficeinKaskaskiain March 1843.Combined History of Randolph, Monroe and Perry Counties, Illinois(Philadelphia: J. L. McDonough, 1883), 309;Niles' National Register(Philadelphia, PA), 25 March 1843, 51:2."
+      },
+      {
+        "id": "XDF32E89C-D523-4E4A-91DB-8CA52762B125",
+        "text": "3This is likely a reference to the most recent sitting of theVermilion County Circuit Court, where Lincoln had been arguing cases from May 17-20, 1841.Fithian v. Cunningham, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Davidson, 4 June 18411"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 23rdult:[ultimo] is duly received and I have most cheerfully complied with the request you make in\n               relation toCol: Servant— I have written toMrTylersaying all for theCol: that I could say for the best man on earth—2Bakerwill do the same to-day—"
+      },
+      {
+        "type": "paragraph",
+        "text": "About the matter you and I spoke of^at^our last parting, I can say nothing which would be new to you. My feelings, and those\n               of Baker, on that subject, are precisely the same as when we last saw you; but the\n               question ishowto effect any thing— If you see any way that we can do any thi[ng]you ought to write us; there is no indelicacy in it[.]Baker and I were withWebbat Vermillion,3an[d]talked the matter over with him; and he will te[ll]you the particulars of what we thought—"
+      },
+      {
+        "type": "paragraph",
+        "text": "With my best respects toMrsDavidso[n]andMrsWilson, I remain"
+      }
+    ],
+    "word_count": 146
+  },
+  "extraction_date": "2025-12-26 20:16:35",
+  "word_count": 146,
+  "processing": {
+    "cleaned": true,
+    "original_length": 893,
+    "cleaned_length": 826,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

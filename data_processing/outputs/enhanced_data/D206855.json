@@ -1,0 +1,80 @@
+{
+  "document_id": "D206855",
+  "url": "https://papersofabrahamlincoln.org/documents/D206855",
+  "metadata": {
+    "date": "1844-11-27",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers--Licenses"
+    ],
+    "type": "Order",
+    "extracted_date": "1844",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "good",
+      "moral",
+      "character",
+      "court",
+      "order",
+      "certifying",
+      "william",
+      "herndon",
+      "november",
+      "motion",
+      "ordered",
+      "thecourtthatitto",
+      "certified",
+      "thatwilliam",
+      "herndonis"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Court Order Certifying William H. Herndon as of Good Moral Character, [27 November\n\n1844]1 On Motion It is Ordered by thecourtthatitto be certified thatWilliam H. Herndonis of good moral character–2",
+    "paragraphs": [
+      "Court Order Certifying William H. Herndon as of Good Moral Character, [27 November",
+      "1844]1 On Motion It is Ordered by thecourtthatitto be certified thatWilliam H. Herndonis of good moral character–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141254",
+      "“An Act concerning Attorneys and Counselors at Law,” 1 March 1833,Revised Laws of Illinois(1833), 99-102; Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141254."
+    ],
+    "footnotes": [
+      {
+        "id": "X477EF811-1950-48FA-9E52-AD21E7056C4F",
+        "text": "1Abraham Lincolnwrote the motion. The court clerk entered the order on the docket book of the Sangamon\n                  County Circuit Court on November 27, 1844.Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141254"
+      },
+      {
+        "id": "X91A5B05A-77FA-47BF-A195-DDB925D93F87",
+        "text": "2Aspiring lawyers were required to obtain a certification of their good moral character.“An Act concerning Attorneys and Counselors at Law,” 1 March 1833,Revised Laws of Illinois(1833), 99-102; Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141254."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Court Order Certifying William H. Herndon as of Good Moral Character, [27 November\n               1844]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "On Motion"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is Ordered by thecourtthatitto be certified thatWilliam H. Herndonis of good moral character–2"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:21:22",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 212,
+    "cleaned_length": 198,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

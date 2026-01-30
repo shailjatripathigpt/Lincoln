@@ -1,0 +1,49 @@
+{
+  "document_id": "D200419",
+  "url": "https://papersofabrahamlincoln.org/documents/D200419",
+  "metadata": {
+    "date": "1847-10-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Petroleum",
+      "Debtor and creditor",
+      "Attorney and client"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Converse & Priest, 1 October 18471 If you will let MrE. G. Johnshave any amount of oil not exceeding ten dollars in value, I will pay you the money\n               for it in three months from date",
+    "paragraphs": [
+      "Abraham Lincoln to Converse & Priest, 1 October 18471",
+      "If you will let MrE. G. Johnshave any amount of oil not exceeding ten dollars in value, I will pay you the money\n               for it in three months from date"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Journal(Springfield), 21 October 1847, 3:3."
+    ],
+    "footnotes": [
+      {
+        "id": "X3A0318B4-145F-40F1-83C2-304105517D16",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "X16BBDE28-2679-411E-9E55-CD095DF5854B",
+        "text": "2The editors were unable to identify a business with this name inSpringfield, Illinois, where both Lincoln and Edmund G. Johns lived. It may refer to “Priest’s Oil Factory,”\n                  which advertised in a Springfield newspaper in October 1847.Illinois Journal(Springfield), 21 October 1847, 3:3."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Converse & Priest, 1 October 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you will let MrE. G. Johnshave any amount of oil not exceeding ten dollars in value, I will pay you the money\n               for it in three months from date"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:24:48",
+  "word_count": 39
+}

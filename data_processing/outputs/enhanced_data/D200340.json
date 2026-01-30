@@ -1,0 +1,88 @@
+{
+  "document_id": "D200340",
+  "url": "https://papersofabrahamlincoln.org/documents/D200340",
+  "metadata": {
+    "date": "1843-07-31",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "County government",
+      "Courthouses",
+      "Legal opinions"
+    ],
+    "type": "Letter",
+    "extracted_date": "1843-07-31",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "law",
+      "public",
+      "revert",
+      "buildings",
+      "land",
+      "purpose",
+      "not",
+      "deed",
+      "case",
+      "removed",
+      "conveyed",
+      "erecting",
+      "collected",
+      "question",
+      "county"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to a Gentleman in Tremont, 31 July 18431 Your letter of the 27th inst. is received.2I have consulted withJudgeLoganon the question whether the 20 acres deeded byHarriswill revert in case the county seat is removed, and after a good deal of reflection\n\nhe thinks it a doubtful question.He saysthat where land is conveyed for the purpose of erecting public buildings on it, if\n\nthose buildings are removed from it or abandoned as public buildings, the land reverts—but\n\nif not conveyed for that purpose, it will not revert by such removal or abandonment.\n\nNow in this case the deed does not show the land to have been conveyed for the purpose\n\nof erecting public buildings on it, while the law to which the deed refers provides\n\nfor receiving the donationfor the express purpose of erecting public buildings on it,—so that if the object of the conveyance is to be collected from the deed, it will\n\nnot revert—while, if it be collected from the law, it will revert.My own impression is, that the object of the conveyance is properly collected from a consideration of\n\nthe deed and the law both together, and consequently thatthe land will revert, in case the county seat shall be removed.3",
+    "paragraphs": [
+      "Abraham Lincoln to a Gentleman in Tremont, 31 July 18431 Your letter of the 27th inst. is received.2I have consulted withJudgeLoganon the question whether the 20 acres deeded byHarriswill revert in case the county seat is removed, and after a good deal of reflection",
+      "he thinks it a doubtful question.He saysthat where land is conveyed for the purpose of erecting public buildings on it, if",
+      "those buildings are removed from it or abandoned as public buildings, the land reverts—but",
+      "if not conveyed for that purpose, it will not revert by such removal or abandonment.",
+      "Now in this case the deed does not show the land to have been conveyed for the purpose",
+      "of erecting public buildings on it, while the law to which the deed refers provides",
+      "for receiving the donationfor the express purpose of erecting public buildings on it,—so that if the object of the conveyance is to be collected from the deed, it will",
+      "not revert—while, if it be collected from the law, it will revert.My own impression is, that the object of the conveyance is properly collected from a consideration of",
+      "the deed and the law both together, and consequently thatthe land will revert, in case the county seat shall be removed.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "History of Tazewell County Illinois(Chicago: Charles C. Chapman, 1879), 247-50."
+    ],
+    "footnotes": [
+      {
+        "id": "X3CB498F6-CAF2-409C-BE76-A05DB559C5DE",
+        "text": "1The text of Abraham Lincoln’s letter was printed on a broadside disseminated inTazewell County, arguing against moving the county seat fromTremonttoPekin. The authors of the broadside argued that if the seat was moved, the twenty acres\n                  in Tremont that had been deeded for the courthouse would revert back to its previous\n                  owner, John H. Harris.Anotherversion of the broadside exists which is slightly different; however, the text of\n                  Lincoln’s letter is the same on both. No handwritten version of the letter has been\n                  located, nor has the recipient of the letter been identified. The text of the broadside\n                  identifies the date of the letter as July 31, 1843."
+      },
+      {
+        "id": "X1B16F696-2CE0-455F-A8F5-06D775A78951",
+        "text": "2No letter to Lincoln on July 27, 1843 has been located."
+      },
+      {
+        "id": "X291BE75A-7BE4-434E-B642-F9E3376803BA",
+        "text": "3After a lengthy battle between the two towns, in 1849 Tazewell County citizens voted\n                  to move the county seat to Pekin.History of Tazewell County Illinois(Chicago: Charles C. Chapman, 1879), 247-50."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to a Gentleman in Tremont, 31 July 18431"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 27th inst. is received.2I have consulted withJudgeLoganon the question whether the 20 acres deeded byHarriswill revert in case the county seat is removed, and after a good deal of reflection\n               he thinks it a doubtful question.He saysthat where land is conveyed for the purpose of erecting public buildings on it, if\n               those buildings are removed from it or abandoned as public buildings, the land reverts—but\n               if not conveyed for that purpose, it will not revert by such removal or abandonment.\n               Now in this case the deed does not show the land to have been conveyed for the purpose\n               of erecting public buildings on it, while the law to which the deed refers provides\n               for receiving the donationfor the express purpose of erecting public buildings on it,—so that if the object of the conveyance is to be collected from the deed, it will\n               not revert—while, if it be collected from the law, it will revert.My own impression is, that the object of the conveyance is properly collected from a consideration of\n               the deed and the law both together, and consequently thatthe land will revert, in case the county seat shall be removed.3"
+      }
+    ],
+    "word_count": 205
+  },
+  "extraction_date": "2025-12-26 20:19:11",
+  "word_count": 205,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1314,
+    "cleaned_length": 1202,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

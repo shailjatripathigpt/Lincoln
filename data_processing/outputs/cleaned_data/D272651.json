@@ -1,0 +1,57 @@
+{
+  "document_id": "D272651",
+  "url": "https://papersofabrahamlincoln.org/documents/D272651",
+  "metadata": {
+    "date": "1848-01-17",
+    "authors": [],
+    "keywords": [
+      "Postal service",
+      "Postmasters",
+      "Post roads"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Samuel Smith and Others to Cave Johnson and U.S. Congress, 17 January\n\n18481 We the undersigned petitioners liveing on and near the the following described rout would represent that there is a district of Country lying in the county of Cass and\n\nstate ofIllinoisbetweenVirginiain Cass County andPetersburginMenard Countyin which there is noPostofficeand there is a large portion of inhabitants that are labouring under great disadvantages for the want of the establishment of a post rout and post Ofices between the above named places, a distance of 23 miles, and we would further represent\n\nthat there should be two Offices established on said rout one at the residence ofKeeling Berry,being six miles Eastsof Virginia and one atO B Nance’s, beingtwelve miles East of Virginia and we the undersagned petitioners would humbly pray that you establish a post rout between the above named points and that you appointKeeling Berryto be postmaster athis residence,to be calledPanther Grove P. O–and that you appointO B Nanceto be postmaster atO B Nance’s residenceto be calledMidle Creek P. O–andfor the abovepetitionwouldeverpray^your petitioners, as in duty bound &c^2",
+    "paragraphs": [
+      "Petition of Samuel Smith and Others to Cave Johnson and U.S. Congress, 17 January",
+      "18481 We the undersigned petitioners liveing on and near the the following described rout would represent that there is a district of Country lying in the county of Cass and",
+      "state ofIllinoisbetweenVirginiain Cass County andPetersburginMenard Countyin which there is noPostofficeand there is a large portion of inhabitants that are labouring under great disadvantages for the want of the establishment of a post rout and post Ofices between the above named places, a distance of 23 miles, and we would further represent",
+      "that there should be two Offices established on said rout one at the residence ofKeeling Berry,being six miles Eastsof Virginia and one atO B Nance’s, beingtwelve miles East of Virginia and we the undersagned petitioners would humbly pray that you establish a post rout between the above named points and that you appointKeeling Berryto be postmaster athis residence,to be calledPanther Grove P.",
+      "O–and that you appointO B Nanceto be postmaster atO B Nance’s residenceto be calledMidle Creek P. O–andfor the abovepetitionwouldeverpray^your petitioners, as in duty bound &c^2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1848. 30th Cong., 1st sess., 60, 480-81."
+    ],
+    "footnotes": [
+      {
+        "id": "X7E49D128-9CCF-49E0-9916-E2580857D374",
+        "text": "1The petition was written by an unknown person, with interlineations authored by another\n                  unknown person. Abraham Lincoln authored two instances of docketing on the last page."
+      },
+      {
+        "id": "X3D817893-93B7-46B3-8CEB-921E3D0439C1",
+        "text": "2Lincoln presented the petition in the House of Representatives on March 1, 1848. The\n                  petition was referred to the Committee on Post Offices and Post Roads, of which Abraham\n                  Lincoln was a member. It does not appear that either of these post offices was established.U.S. HouseJournal. 1848. 30th Cong., 1st sess., 60, 480-81."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Samuel Smith and Others to Cave Johnson and U.S. Congress, 17 January\n               18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "We the undersigned petitioners liveing on and near the the following described rout would represent that there is a district of Country lying in the county of Cass and\n               state ofIllinoisbetweenVirginiain Cass County andPetersburginMenard Countyin which there is noPostofficeand there is a large portion of inhabitants that are labouring under great disadvantages for the want of the establishment of a post rout and post Ofices between the above named places, a distance of 23 miles, and we would further represent\n               that there should be two Offices established on said rout one at the residence ofKeeling Berry,being six miles Eastsof Virginia and one atO B Nance’s, beingtwelve miles East of Virginia and we the undersagned petitioners would humbly pray that you establish a post rout  between the above named points and that you appointKeeling Berryto be postmaster athis residence,to be calledPanther Grove P. O–[Post Office]and that you appointO B Nanceto be postmaster atO B Nance’s residenceto be calledMidle Creek P. O–andfor the abovepetitionwouldeverpray^your petitioners, as in duty bound &c[etc.]^2"
+      }
+    ],
+    "word_count": 182
+  },
+  "extraction_date": "2025-12-26 20:26:32",
+  "word_count": 183,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1239,
+    "cleaned_length": 1177,
+    "preserved_originality": true
+  }
+}

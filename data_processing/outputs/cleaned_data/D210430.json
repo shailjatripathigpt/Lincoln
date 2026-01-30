@@ -1,0 +1,61 @@
+{
+  "document_id": "D210430",
+  "url": "https://papersofabrahamlincoln.org/documents/D210430",
+  "metadata": {
+    "date": "1849-04-10",
+    "authors": [
+      "King, David"
+    ],
+    "keywords": [
+      "Bounties, Military",
+      "Military pensions",
+      "Military service, Voluntary",
+      "Land titles"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "David King to Abraham Lincoln, 10 April 18491 Some time since I address you atWashington, requesting you to call onColEdwards& endeavor to procure, or have Col Edwards to forward, to my sonJnoNevin, a warrant for 160 acres of bounty land–2ColEdwards has not been heard from– Will you have the goodness to inform me by return\n\nof mail, whether you procured the warrant & if not, whether there was any cause for\n\nits being witheld–3",
+    "paragraphs": [
+      "David King to Abraham Lincoln, 10 April 18491 Some time since I address you atWashington, requesting you to call onColEdwards& endeavor to procure, or have Col Edwards to forward, to my sonJnoNevin, a warrant for 160 acres of bounty land–2ColEdwards has not been heard from– Will you have the goodness to inform me by return",
+      "of mail, whether you procured the warrant & if not, whether there was any cause for"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Walter B. Hendrickson, ed., \"The Happy Soldier: The Mexican War Letters of John Nevin\n                     King,\" Part 1,Journal of the Illinois State Historical Society46 (Spring 1953), 13-14, 15;Bounty-Land Warrant Applications Index, Warrant #47-160-54160, National Archives, Washington, DC, accessed 24 September\n                     1850https://www.fold3.com/record/641357480-john-nevin-king-private."
+    ],
+    "footnotes": [
+      {
+        "id": "XBF669162-A8E9-4532-8C14-562A08E640BB",
+        "text": "1Dave King wrote and signed this letter."
+      },
+      {
+        "id": "X5AAF261F-B693-4825-85C7-E848E10EA4CB",
+        "text": "2King’s earlier letter to Abraham Lincoln has not been located."
+      },
+      {
+        "id": "X73FF7A28-261E-4B1F-A53D-3EA370B1F151",
+        "text": "3Lincoln’s response, if he penned one, has not been located.John N. King was aMexican Warveteran, having served in a non-combat role with Company D, Fourth Regiment of Illinois\n                  Volunteers. He applied for a bounty land warrant, but theBureau of Pensionsrejected his application.Walter B. Hendrickson, ed., \"The Happy Soldier: The Mexican War Letters of John Nevin\n                     King,\" Part 1,Journal of the Illinois State Historical Society46 (Spring 1953), 13-14, 15;Bounty-Land Warrant Applications Index, Warrant #47-160-54160, National Archives, Washington, DC, accessed 24 September\n                     1850https://www.fold3.com/record/641357480-john-nevin-king-private."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "David King to Abraham Lincoln, 10 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Some time since I address you atWashington, requesting you to call onColEdwards& endeavor to procure, or have Col[Colonel] Edwards to forward, to my sonJnoNevin, a warrant for 160 acres of bounty land–2ColEdwards has not been heard from– Will you have the goodness to inform me by return\n               of mail, whether you procured the warrant & if not, whether there was any cause for\n               its being witheld–3"
+      }
+    ],
+    "word_count": 74
+  },
+  "extraction_date": "2025-12-26 20:40:26",
+  "word_count": 74,
+  "processing": {
+    "cleaned": true,
+    "original_length": 467,
+    "cleaned_length": 430,
+    "preserved_originality": true
+  }
+}

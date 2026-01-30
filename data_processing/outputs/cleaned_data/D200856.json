@@ -1,0 +1,73 @@
+{
+  "document_id": "D200856",
+  "url": "https://papersofabrahamlincoln.org/documents/D200856",
+  "metadata": {
+    "date": "1855-08-13",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Real property",
+      "Real property auctions"
+    ],
+    "type": "Notice"
+  },
+  "content": {
+    "full_text": "Public Notice of Sale of Town Lots, 13 August 18551 SALE OFTOWNLOTS. THAT PARCEL OF LAND LYING BEtween Washington and Adam’s Streets, and immediately west of the late residence ofDr. Todd, has been surveyed into Town Lots; and, ON SATURDAY the 18th of AUGUST, inst., at\n\n2 o’clock, p.m., upon the premises, a portion of said Lots will be offered at public\n\nauction.2 Termsfavorable, to be be made known at the time and place of sale. aug13-td3",
+    "paragraphs": [
+      "Public Notice of Sale of Town Lots, 13 August 18551 SALE OFTOWNLOTS. THAT PARCEL OF LAND LYING BEtween Washington and Adam’s Streets, and immediately west of the late residence ofDr. Todd, has been surveyed into Town Lots; and, ON SATURDAY the 18th of AUGUST, inst., at",
+      "2 o’clock, p.m., upon the premises, a portion of said Lots will be offered at public",
+      "auction.2 Termsfavorable, to be be made known at the time and place of sale. aug13-td3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois State Journal(Springfield), 15 August 1855, 4:3;Daily Illinois State Journal(Springfield), 16 August 1855, 3:3; 17 August 1855, 3:3.",
+      "Daily Illinois State Journal(Springfield), 2 November 1855, 1:1."
+    ],
+    "footnotes": [
+      {
+        "id": "X77BAFA38-CEFD-4AB1-B9B0-171439EE82EB",
+        "text": "1This printed advertisement appeared in the August 13, 1855 edition of theDaily Illinois State Journal. The same advertisement also appeared in the August 15, 16, and 17 editions of the\n                  newspaper.  The text of this advertisement is attributed to Abraham Lincoln, but no\n                  text in his hand is extant.Illinois State Journal(Springfield), 15 August 1855, 4:3;Daily Illinois State Journal(Springfield), 16 August 1855, 3:3; 17 August 1855, 3:3."
+      },
+      {
+        "id": "XFFA5D1FB-558A-4804-95DD-3AFAB3F2E9A2",
+        "text": "2Lincoln’s aunt,Maria L. Bullock, owned the land advertised. Lincolnwroteher a letter on August 31, 1855 about the sale and that he had sold the lots for\n                  $990."
+      },
+      {
+        "id": "X77973E99-5A9A-4FA5-B270-EF63B63D6D97",
+        "text": "3The newspaper code “td” likely refers to the edition of the newspaper in which the\n                  advertisement will appear. This advertisement appeared in the daily edition. TheIllinois State Journalalso had weekly and tri-weekly editions.Daily Illinois State Journal(Springfield), 2 November 1855, 1:1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Public Notice of Sale of Town Lots, 13 August 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "SALE OFTOWNLOTS."
+      },
+      {
+        "type": "paragraph",
+        "text": "THAT PARCEL OF LAND LYING BEtween Washington and Adam’s Streets, and immediately west of the late residence ofDr. Todd, has been surveyed into Town Lots; and, ON SATURDAY the 18th of AUGUST, inst., at\n               2 o’clock, p.m., upon the premises, a portion of said Lots will be offered at public\n               auction.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Termsfavorable, to be be made known at the time and place of sale."
+      },
+      {
+        "type": "paragraph",
+        "text": "aug[August]13-td3"
+      }
+    ],
+    "word_count": 77
+  },
+  "extraction_date": "2025-12-26 21:36:32",
+  "word_count": 77,
+  "processing": {
+    "cleaned": true,
+    "original_length": 479,
+    "cleaned_length": 443,
+    "preserved_originality": true
+  }
+}

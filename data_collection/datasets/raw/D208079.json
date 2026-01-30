@@ -1,0 +1,47 @@
+{
+  "document_id": "D208079",
+  "url": "https://papersofabrahamlincoln.org/documents/D208079",
+  "metadata": {
+    "date": "1837-07-15",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Promissory notes"
+    ],
+    "type": "Promissory note"
+  },
+  "content": {
+    "full_text": "Promissory Note from Samuel Hurst to William Butler, 15 July 18371 Twelve months after date I promise to payWilliam Butleror order one hundred & seventy dollars with interest at the rate of twelve per centum\n               per annum from date till paidValue receivedJuly 15th1837",
+    "paragraphs": [
+      "Promissory Note from Samuel Hurst to William Butler, 15 July 18371",
+      "Twelve months after date I promise to payWilliam Butleror order one hundred & seventy dollars with interest at the rate of twelve per centum\n               per annum from date till paidValue receivedJuly 15th1837"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 15 July 1837,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1837-07-15."
+    ],
+    "footnotes": [
+      {
+        "id": "XE7740185-9354-4FB6-B749-C75DA8F41C7A",
+        "text": "1While Abraham Lincoln did not write this promissory note, he authored  and signed\n                  the “Witness” endorsement and wrote Samuel Hurst’s name and “his mark.” Hurst presumably\n                  made his own mark. Lincoln also wrote everything on the back page that is transcribed\n                  here."
+      },
+      {
+        "id": "XB485D68F-5822-489A-A481-ED602F335F34",
+        "text": "2This individual may beSamuel Hurstof Menard County. On the date that this note was signed, Lincoln was in attendance\n                  at the Illinois House of Representatives in Vandalia.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 15 July 1837,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1837-07-15."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note from Samuel Hurst to William Butler, 15 July 18371"
+      },
+      {
+        "type": "paragraph",
+        "text": "Twelve months after date I promise to payWilliam Butleror order one hundred & seventy dollars with interest at the rate of twelve per centum\n               per annum from date till paidValue receivedJuly 15th1837"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:05:23",
+  "word_count": 43
+}

@@ -1,0 +1,117 @@
+{
+  "document_id": "D208075",
+  "url": "https://papersofabrahamlincoln.org/documents/D208075",
+  "metadata": {
+    "date": "1836-05-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveys",
+      "Surveying",
+      "School lands",
+      "Public schools--Finance"
+    ],
+    "type": "Survey",
+    "extracted_date": "1836-05-10",
+    "extracted_type": "survey",
+    "extracted_keywords": [
+      "survey",
+      "section",
+      "township",
+      "north",
+      "range",
+      "west"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Survey of Section 16 in Township 17 North, Range 6 West, 10 May 18361",
+    "paragraphs": [
+      "Survey of Section 16 in Township 17 North, Range 6 West, 10 May 18361"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "“An Act to Enable the People of the Illinois Territory to Form a Constitution and\n                     State Government, and for the Admission of Such State into the Union on an Equal Footing\n                     with the Original States,” 18 April 1818,Statutes at Large of the United States3 (1846):428-31; W. L. Pillsbury, “Early Education in Illinois,”Sixteenth Biennial Report of the Superintendent of Public Instruction of the State\n                        of Illinois(Springfield, IL: H. W. Rokker, 1886), 106-7."
+    ],
+    "footnotes": [
+      {
+        "id": "XD0F00355-332D-4B88-95B0-CDC943DE2E88",
+        "text": "1This document includes a survey map, which has not been transcribed here. On the map,\n                  all the text is in Lincoln’s handwriting, except the “valued at ___” additions, which\n                  are written vertically. The decimal numbers written in the spaces between each lot\n                  vertically and horizontally represent the dimensions of each lot boundary in feet.\n                  The whole numbers 1 through 34 correspond to the landmarks laid out in the succeeding\n                  table. The table transcribed here was written entirely by Lincoln. Lincoln also wrote\n                  and signed Neale’s certification."
+      },
+      {
+        "id": "X7465303F-6846-4D23-A2AB-E3A62AAADF89",
+        "text": "2This likely refers to a  Swamp  White Oak or a Shumard Oak; both are indigenous to\n                  Illinois."
+      },
+      {
+        "id": "X748EF462-13BF-4ABA-BE3F-AE9F1A4968F9",
+        "text": "3“6” written over “7”."
+      },
+      {
+        "id": "XE61CD6B7-E8A0-4832-AEA1-2456A91F4629",
+        "text": "4This likely refers to a Linden tree."
+      },
+      {
+        "id": "X8786A115-8CD2-42CA-B62B-85C70CC4EBAE",
+        "text": "5The land described here is located in present-day southern Menard County.In 1818, whenCongresspassed the act enabling theIllinois Territoryto become a state, it granted to every  township in the state the proceeds of the\n                  sale of land in each township’s Section 16. This money became known as the common\n                  school fund. Before the land in any county’s Section 16 could be sold, the county\n                  commissioners court had to first authorize a survey.“An Act to Enable the People of the Illinois Territory to Form a Constitution and\n                     State Government, and for the Admission of Such State into the Union on an Equal Footing\n                     with the Original States,” 18 April 1818,Statutes at Large of the United States3 (1846):428-31; W. L. Pillsbury, “Early Education in Illinois,”Sixteenth Biennial Report of the Superintendent of Public Instruction of the State\n                        of Illinois(Springfield, IL: H. W. Rokker, 1886), 106-7."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Survey of Section 16 in Township 17 North, Range 6 West, 10 May 18361"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "corners | Bearingtrees | InchesDiam[Diameter] | Course | LinksDist[Distance]",
+          "1 | W.[White] Oak | 18 | N[North] 59 W.[West] | 132",
+          "2 | W. Oak | 24 | S[South] 5 W | 66",
+          "3 | W. Oak | 12 | S 74 W. | 19",
+          "4 | Ash | 14 | N 51 E[East] | 55",
+          "5 | Post & Mound",
+          "6 | Elm | 16 | N 86 E. | 410",
+          "7 | Post & Mound",
+          "8 | Elm | 16 | S 24 W | 417",
+          "9 | Hick[Hickory] | 6 | S 84 W | 25",
+          "10 | S. Oak2 | 36 | N 73 E | 16",
+          "11 | Maple | 7 | S 60 W | 21",
+          "12 | Sycam[Sycamore] | 30 | N 26 W | 47",
+          "13 | Sycam | 24 | S 30 W | 15",
+          "14 | Cotten[Cottonwood] | 10 | S 6 W. | 30",
+          "15 | W. Oak | 10 | N 10 W | 37",
+          "16 | W. Oak | 3 | N 33 E | 8",
+          "17 | Hick | 12 | S 24 W | 58",
+          "18 | Hick | 3 | N 66 E | 9",
+          "19 | B.[Black] Oak | 32 | S 9 E | 79",
+          "20 | Post & Mound",
+          "21 | W. Oak | 22 | N 88 W | 3",
+          "22 | Elm | 14 | N 44 E. | 29",
+          "23 | B. Oak | 22 | corner",
+          "24 | Post & Mound",
+          "25 | Ash | 24 | N 80 W | 4",
+          "263 | Hick | 12 | corner",
+          "27 | Elm | 15 | corner",
+          "28 | B. Oak | 12 | S 37 E. | 23",
+          "29 | Post & Mound",
+          "30 | Lynn4 | 11 | N 50 E | 20",
+          "31 | Hick | 14 | N 50 W | 17",
+          "32 | Hick | 8 | N 32 W | 8",
+          "33 | W. Oak | 22 | corner",
+          "34 | cotten | 17 | S 25 E | 7"
+        ]
+      }
+    ],
+    "word_count": 14
+  },
+  "extraction_date": "2025-12-26 20:03:17",
+  "word_count": 16,
+  "processing": {
+    "cleaned": true,
+    "original_length": 79,
+    "cleaned_length": 69,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

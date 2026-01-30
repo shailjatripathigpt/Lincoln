@@ -1,0 +1,54 @@
+{
+  "document_id": "D200156",
+  "url": "https://papersofabrahamlincoln.org/documents/D200156",
+  "metadata": {
+    "date": "1839-01-26",
+    "authors": [
+      "Baker, Edward D."
+    ],
+    "keywords": [
+      "Counties",
+      "Boundaries"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Edward D. Baker to William Butler, 26 January 18391",
+    "paragraphs": [
+      "Edward D. Baker to William Butler, 26 January 18391"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore, MD: Johns Hopkins University Press, 2008), 145;Abraham Lincoln to William Butler;Abraham Lincoln to William Butler."
+    ],
+    "footnotes": [
+      {
+        "id": "XCD8DC760-1A48-4A1F-B78E-63B1C7C656F2",
+        "text": "1Abraham Lincoln dated and wrote the body of the letter.  Baker addressed it, wrote\n                  the salutation and closing, and signed it.  Butler also penned the address on the\n                  reverse side."
+      },
+      {
+        "id": "XC79BAC28-19BD-4926-9A5E-27B2F0D2CADC",
+        "text": "2Butler’s letter has not been located."
+      },
+      {
+        "id": "XB8A1DEC3-39A8-4101-BF37-8DDEEDAC69E5",
+        "text": "3Butler’s letter was precipitated by theHouse of Representativespassing abilldividing part ofSangamon Countyinto three counties.Lincolnand Baker opposed division of Sangamon County, but as the first session of theEleventh General Assemblyproceeded, some division appeared inevitable.  The general consensus was to divide\n                  the county into four equal counties, substantially decreasing the size of Sangamon\n                  and isolating it in the corner of one of the new counties.  Using his position on\n                  the Committee on Counties, Lincoln hoped to divide the county in such a manner that\n                  Sangamon would not be disadvantaged.  On January 16,  1839, Lincoln introduced a bill\n                  dividing Sangamon into three counties.  The House passed the bill on January 21, creating\n                  the three small counties ofLogan,Dane, andMenard, and leaving Sangamon  relatively large.  Butler accused Lincoln and Baker  of kowtowing\n                  to land speculators.  Lincoln’sresponseto Butler was much more conciliatory than Baker’s.Michael Burlingame,Abraham Lincoln: A Life(Baltimore, MD: Johns Hopkins University Press, 2008), 145;Abraham Lincoln to William Butler;Abraham Lincoln to William Butler."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Edward D. Baker to William Butler, 26 January 18391"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:08:14",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 51,
+    "cleaned_length": 51,
+    "preserved_originality": true
+  }
+}

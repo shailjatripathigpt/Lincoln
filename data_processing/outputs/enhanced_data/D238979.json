@@ -1,0 +1,87 @@
+{
+  "document_id": "D238979",
+  "url": "https://papersofabrahamlincoln.org/documents/D238979",
+  "metadata": {
+    "date": "1843-08-10",
+    "authors": [
+      "Doremus, John C.",
+      "Douglass, James",
+      "Jones, Strother G.",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Constables",
+      "Bonds"
+    ],
+    "type": "Bond",
+    "extracted_date": "1843-08-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "all",
+      "security",
+      "bond",
+      "strother",
+      "jones",
+      "august",
+      "nowif",
+      "saids",
+      "jonesshall",
+      "well",
+      "truly",
+      "discharge",
+      "duties",
+      "said",
+      "office"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Security Bond for Strother G. Jones, 10 August 18431 NOWif the saidS G Jonesshall well and truly discharge the duties of said Office, by serving all processes\n\nlegally to him directed, pay over all monies which may come to his hands by virtue\n\nthereof, and do and perform all things appertaining thereunto, then this obligation\n\nto be void and of non-effect, otherwise to remain in full force. Signed, sealed and delivered on the day and date above.",
+    "paragraphs": [
+      "Security Bond for Strother G. Jones, 10 August 18431 NOWif the saidS G Jonesshall well and truly discharge the duties of said Office, by serving all processes",
+      "legally to him directed, pay over all monies which may come to his hands by virtue",
+      "thereof, and do and perform all things appertaining thereunto, then this obligation",
+      "to be void and of non-effect, otherwise to remain in full force. Signed, sealed and delivered on the day and date above."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XEF3B5536-BED0-4906-809A-69B050692512",
+        "text": "1Noah W. Matheny filled in the blanks on this partially-printed document. Abraham Lincoln\n                  signed his own name only. John C. Doremas and James Douglass signed their names."
+      },
+      {
+        "id": "XC0064474-C744-4E35-936B-DC53855F1163",
+        "text": "2Matheny wrote and signed this certification."
+      },
+      {
+        "id": "X5D024D00-C64D-4A6E-B2C3-37BA9C528BA4",
+        "text": "3Matheny wrote and signed this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Security Bond for Strother G. Jones, 10 August 18431"
+      },
+      {
+        "type": "paragraph",
+        "text": "NOWif the saidS G Jonesshall well and truly discharge the duties of said Office, by serving all processes\n                  legally to him directed, pay over all monies which may come to his hands by virtue\n                  thereof, and do and perform all things appertaining thereunto, then this obligation\n                  to be void and of non-effect, otherwise to remain in full force."
+      },
+      {
+        "type": "paragraph",
+        "text": "Signed, sealed and delivered on the day and date above."
+      }
+    ],
+    "word_count": 77
+  },
+  "extraction_date": "2025-12-26 20:19:06",
+  "word_count": 77,
+  "processing": {
+    "cleaned": true,
+    "original_length": 500,
+    "cleaned_length": 449,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

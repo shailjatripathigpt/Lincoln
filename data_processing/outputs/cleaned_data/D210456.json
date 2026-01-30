@@ -1,0 +1,55 @@
+{
+  "document_id": "D210456",
+  "url": "https://papersofabrahamlincoln.org/documents/D210456",
+  "metadata": {
+    "date": "1849-05-03",
+    "authors": [
+      "Warren, Fitz Henry"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Fitz Henry Warren to Abraham Lincoln, 3 May 18491 I have the honor to inform you, that thePostmaster Generalhas appointedMunson CarterPostmaster atRochesterin the State ofIllinoisin place ofD. C Eggleston– Resigned.2",
+    "paragraphs": [
+      "Fitz Henry Warren to Abraham Lincoln, 3 May 18491 I have the honor to inform you, that thePostmaster Generalhas appointedMunson CarterPostmaster atRochesterin the State ofIllinoisin place ofD. C Eggleston– Resigned.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *487;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 546*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 516*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855), *343;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857), *344;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859), *71;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1861(Washington, DC: Government Printing Office, 1862), *373;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1863(Washington, DC: Government Printing Office, 1864), 349;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1865(Washington, DC: Government Printing Office, 1866), *71."
+    ],
+    "footnotes": [
+      {
+        "id": "XBE79630C-1E45-43C9-B05E-76794DAC4979",
+        "text": "1Fitz Henry Warren signed this form letter."
+      },
+      {
+        "id": "XBCA73330-DC63-42D2-B68F-8401168F9058",
+        "text": "2Munson Carter remained postmaster of Rochester, Illinois,   until after the end of\n                  the Civil War.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *487;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 546*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 516*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855), *343;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857), *344;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859), *71;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1861(Washington, DC: Government Printing Office, 1862), *373;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1863(Washington, DC: Government Printing Office, 1864), 349;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1865(Washington, DC: Government Printing Office, 1866), *71."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fitz Henry Warren to Abraham Lincoln, 3 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the honor to inform you, that thePostmaster Generalhas appointedMunson CarterPostmaster atRochesterin the State ofIllinoisin place ofD. C Eggleston– Resigned.2"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:42:20",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 216,
+    "cleaned_length": 216,
+    "preserved_originality": true
+  }
+}

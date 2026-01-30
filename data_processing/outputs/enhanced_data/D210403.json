@@ -1,0 +1,92 @@
+{
+  "document_id": "D210403",
+  "url": "https://papersofabrahamlincoln.org/documents/D210403",
+  "metadata": {
+    "date": "1849-04-17",
+    "authors": [
+      "Harkness, James"
+    ],
+    "keywords": [
+      "Emigration and immigration",
+      "Military topography",
+      "Scientific expeditions"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-04-17",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "about",
+      "one",
+      "kind",
+      "james",
+      "harkness",
+      "abraham",
+      "lincoln",
+      "april",
+      "hope",
+      "pardan",
+      "troubling",
+      "reports",
+      "enough",
+      "send"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "James Harkness to Abraham Lincoln, 17 April 18491 I hope you will pardan me for troubling you about the,Reports, one of which you were kind enough to send me,onebut it has been lost on the Road.2The ones I prise most are those of,DoctWizlizenus,Emory,Abert,Cook&Johnson.Freèmonts complete, or any others that you may obtain Relateing to,California. These documents have a peculiar value to me at this time, as I am about going to\n\nthat county.3 I will chearfully pay all expenses that you may incur in obtaing them. I have no doubt you have a great many applications of this kind, and would\n\nnot make this one, but I cannot trouble our present M. C. with a good grace.4",
+    "paragraphs": [
+      "James Harkness to Abraham Lincoln, 17 April 18491 I hope you will pardan me for troubling you about the,Reports, one of which you were kind enough to send me,onebut it has been lost on the Road.2The ones I prise most are those of,DoctWizlizenus,Emory,Abert,Cook&Johnson.Freèmonts complete, or any others that you may obtain Relateing to,California. These documents have a peculiar value to me at this time, as I am about going to",
+      "that county.3 I will chearfully pay all expenses that you may incur in obtaing them. I have no doubt you have a great many applications of this kind, and would",
+      "not make this one, but I cannot trouble our present M. C. with a good grace.4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to James Berdan.",
+      "U.S. HouseJournal. 1849. 30th Con., 1st Sess., 243, 425; U.S. HouseJournal. 1849. 30th Con., 2nd Sess., 130, 169;S. Exec. Doc. No. 7, 30rd Cong., 1st Sess. (1849).House Exec. Doc. No 41, 30th Cong., 1st Sess. (1849).",
+      "Michael Burlingame,Abraham Lincoln: A Life,  (Baltimore: The Johns Hopkins University Press, 2008), 1:271; Howard W. Allen and\n                     Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 8, 126."
+    ],
+    "footnotes": [
+      {
+        "id": "X6382AEB4-4ABE-4E3D-A745-FD3E0E62FBB4",
+        "text": "1James Harkness wrote and signed this letter."
+      },
+      {
+        "id": "X21CD8590-ED58-44AC-9659-75A3ACA3C036",
+        "text": "2It is not entirely clear which report Abraham Lincoln had sent Harkness, but it was\n                  most likely either the report of William H. Emory or James W. Abert.Abraham Lincoln to James Berdan."
+      },
+      {
+        "id": "XA850E991-0628-455C-A280-CAEDFA7F4C39",
+        "text": "3On January 17, 1848, theHouse of Representativespassed a resolution calling on Secretary of WarWilliam L. Marcyto provide copies of the reports of Emory, Abert, Philip St. George Cooke, Abraham\n                  R. Johnston, and others that accompanied Stephen W. Kearney from theMissouri Riverto thePacific Oceanat the outset of theMexican War.  Emory, Abert, and others were members of theU.S. Army Corps of Topographical Engineers, and they issued scientific reports on the Southwestern Border,California, andNew Mexico.  On February 17, the House passed a resolution calling for the printing of 10,000\n                  extra copies of these reports.  On December 21, the House passed a resolution ordering\n                  that the report of Emory be printed in one volume, and those of Abert, Cooke, Johnston,\n                  and John C. Frémont in a separate volume. On January 2, 1849, the House passed a resolution\n                  calling for the printing of 20,000 extra copies of Frémont’s last report to theSenate.U.S. HouseJournal. 1849. 30th Con., 1st Sess., 243, 425; U.S. HouseJournal. 1849. 30th Con., 2nd Sess., 130, 169;S. Exec. Doc. No. 7, 30rd Cong., 1st Sess. (1849).House Exec. Doc. No 41, 30th Cong., 1st Sess. (1849)."
+      },
+      {
+        "id": "XDFE25F23-27CD-4A9C-8B05-08CCBECE7B15",
+        "text": "4Thomas L. Harrishad succeeded Lincoln as representative of the Seventh Congressional District, having\n                  defeatedStephen T. Loganin a close race in August 1848.Michael Burlingame,Abraham Lincoln: A Life,  (Baltimore: The Johns Hopkins University Press, 2008), 1:271; Howard W. Allen and\n                     Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 8, 126."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James Harkness to Abraham Lincoln, 17 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I hope you will pardan me for troubling you about the,Reports, one of which you were kind enough to send me,onebut it has been lost on the Road.2The ones I prise most are those of,DoctWizlizenus,Emory,Abert,Cook&Johnson.Freèmonts complete, or any others that you may obtain Relateing to,California. These documents have a peculiar value to me at this time, as I am about going to\n               that county.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I will chearfully pay all expenses that you may incur in obtain[in]g them. I have no doubt you have a great many applications of this kind, and would\n               not make this one, but I cannot trouble our present M. C.[Member Congress] with a good grace.4"
+      }
+    ],
+    "word_count": 116
+  },
+  "extraction_date": "2025-12-26 20:39:42",
+  "word_count": 117,
+  "processing": {
+    "cleaned": true,
+    "original_length": 718,
+    "cleaned_length": 669,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

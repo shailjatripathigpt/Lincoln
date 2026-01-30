@@ -1,0 +1,32 @@
+{
+  "basic_stats": {
+    "total_words": 364,
+    "total_sentences": 3,
+    "avg_sentence_length": 121.33333333333333,
+    "avg_word_length": 4.7292817679558015,
+    "lexical_diversity": 0.46153846153846156
+  },
+  "pos_distribution": {
+    "PROPN": 0.2032967032967033,
+    "NOUN": 0.6126373626373627,
+    "DET": 0.11813186813186813,
+    "NUM": 0.008241758241758242,
+    "VERB": 0.0521978021978022,
+    "ADV": 0.005494505494505495
+  },
+  "lincoln_patterns": {
+    "biblical_allusions": 0,
+    "legal_terms": 6,
+    "metaphors": 0,
+    "parallel_structure": 54,
+    "repetition": 31,
+    "humble_tone": 0,
+    "firm_conviction": 2
+  },
+  "readability": {
+    "flesch_reading_ease": -44.84525641025637,
+    "flesch_kincaid_grade": 49.65692307692308
+  },
+  "document_id": "D302442",
+  "document_type": "Deed"
+}

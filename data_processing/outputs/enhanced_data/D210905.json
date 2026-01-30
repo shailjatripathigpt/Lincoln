@@ -1,0 +1,100 @@
+{
+  "document_id": "D210905",
+  "url": "https://papersofabrahamlincoln.org/documents/D210905",
+  "metadata": {
+    "date": "1858-08-28",
+    "authors": [
+      "Ferry, Elisha P."
+    ],
+    "keywords": [
+      "Elections",
+      "Local elections",
+      "Political campaigns",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-08-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "during",
+      "they",
+      "four",
+      "republican",
+      "elisha",
+      "ferry",
+      "abraham",
+      "lincoln",
+      "august",
+      "ourrepublicanfriends",
+      "part",
+      "thestate",
+      "very",
+      "anxious",
+      "hear"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Elisha P. Ferry to Abraham Lincoln, 28 August 18581 Ourrepublicanfriends in this part of thestate, are very anxious to hear you, during thepresent canvass.2 Many of them, also, have a strong desire to make your personal acquaintance They think, that they have been slighted during the past four years never having had\n\na Republican speech except by residents of theCounty. An audience of at least three or four thousand, could easily be gathered at this point,\n\nand although we are here strongly Republican, yet there are a fewDemocratswho need conversion.3",
+    "paragraphs": [
+      "Elisha P. Ferry to Abraham Lincoln, 28 August 18581 Ourrepublicanfriends in this part of thestate, are very anxious to hear you, during thepresent canvass.2 Many of them, also, have a strong desire to make your personal acquaintance They think, that they have been slighted during the past four years never having had",
+      "a Republican speech except by residents of theCounty. An audience of at least three or four thousand, could easily be gathered at this point,",
+      "and although we are here strongly Republican, yet there are a fewDemocratswho need conversion.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 557; Allen C. Guelzo,\n                     “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392.",
+      "Chicago Daily Press and Tribune(IL), 4 October 1858, 2:3;Waukegan Weekly Gazette(IL), 30 October 1858, 2:2-3; John Clayton, comp.,The Illinois Fact Book and Historical Almanac 1673-1968(Carbondale: Southern Illinois University Press, 1970), 219, 222-23."
+    ],
+    "footnotes": [
+      {
+        "id": "XFF55351C-A196-49AA-ABFB-11AC1FB2BE02",
+        "text": "1Elisha P. Ferrywrote this letter, including the address on the envelope."
+      },
+      {
+        "id": "X6C19B1D0-4073-4829-9478-29D797847184",
+        "text": "2Abraham Lincoln was the Republican candidate fromIllinoisfor theU.S. Senate. In the summer and fall of 1858, he crisscrossed Illinois delivering speeches and\n                  campaigning on behalf of Republican candidates for theIllinois General Assembly. At this time the Illinois General Assembly elected the state’s representatives in\n                  the U.S. Senate, thus the outcome of races for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. He ran against, and lost to, DemocratStephen A. Douglas, the incumbent. See1858 Illinois Republican Convention;1858 Federal Election.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 557; Allen C. Guelzo,\n                     “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392."
+      },
+      {
+        "id": "XF63DCE7A-15EF-4026-A053-FC0866A030F7",
+        "text": "3There is no record of Lincoln visiting Waukegan orLake Countyin 1858.Republicans in Lake County ran successful campaigns for the Illinois General Assembly\n                  in 1858, with Henry W. Blodgett capturing the seat in Second Illinois Senate District, which included Lake andMcHenrycounties, and  Elijah M. Haines winning in the Fifty-Fifth Illinois House District, which encompassed only Lake County.Chicago Daily Press and Tribune(IL), 4 October 1858, 2:3;Waukegan Weekly Gazette(IL), 30 October 1858, 2:2-3; John Clayton, comp.,The Illinois Fact Book and Historical Almanac 1673-1968(Carbondale: Southern Illinois University Press, 1970), 219, 222-23."
+      },
+      {
+        "id": "X913CF106-1D7D-41C9-85E4-6B773512E108",
+        "text": "4Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Elisha P. Ferry to Abraham Lincoln, 28 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ourrepublicanfriends in this part of thestate, are very anxious to hear you, during thepresent canvass.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Many of them, also, have a strong desire to make your personal acquaintance"
+      },
+      {
+        "type": "paragraph",
+        "text": "They think, that they have been slighted during the past four years never having had\n               a Republican speech except by residents of theCounty."
+      },
+      {
+        "type": "paragraph",
+        "text": "An audience of at least three or four thousand, could easily be gathered at this point,\n               and although we are here strongly Republican, yet there are a fewDemocratswho need conversion.3"
+      }
+    ],
+    "word_count": 90
+  },
+  "extraction_date": "2025-12-26 21:59:03",
+  "word_count": 90,
+  "processing": {
+    "cleaned": true,
+    "original_length": 585,
+    "cleaned_length": 557,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

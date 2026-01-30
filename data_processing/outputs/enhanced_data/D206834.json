@@ -1,0 +1,64 @@
+{
+  "document_id": "D206834",
+  "url": "https://papersofabrahamlincoln.org/documents/D206834",
+  "metadata": {
+    "date": "1853-01-19",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Adverse possession",
+      "Ejectment",
+      "Land titles",
+      "Real property"
+    ],
+    "type": "Letter",
+    "extracted_date": "1853-01-19",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "adam",
+      "adams",
+      "january"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Adam Adams, 19 January 18531",
+    "paragraphs": [
+      "Abraham Lincoln to Adam Adams, 19 January 18531"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "For the letters related to this case, seeKemper v. Adams & Bovey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,  2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140935."
+    ],
+    "footnotes": [
+      {
+        "id": "XFAA19377-A084-4348-84FB-29338F5A9646",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XEBAEEFE4-76D9-4C95-A67C-1AE7CE2039F4",
+        "text": "2Lincoln is referencing a lawsuit involving John H. Kemper, Adam Adams, and John Bovey.\n                  Kemper recovered a judgment againstWilliam F. Bradshaw, and the U.S. marshal sold Bradshaw's land inOgle County, Illinois, to satisfy the judgment.  Bradshaw conveyed the land to Adams and Bovey.  Adams\n                  and Bovey had possession of the land that Kemper claimed to own by virtue of the judgment.\n                  Kemper sued Adams and Bovey in an action of ejectment in theU.S. Circuit Court, District of Illinois, to remove them from the property.  Adams and Bovey retained Lincoln,Thomas J. Turner, andSolon Cumins; Kemper retainedStephen T. Logan. Lincoln and his fellow attorneys for the defense argued that the time during which\n                  Kemper could sue had expired.  The Circuit Court found for Kemper.  By virtue of anactpromulgated in March 1839, the  losing party in an ejectment case was entitled to\n                  one new trial simply by paying the court costs, and Adams and Bovey  paid the costs\n                  and motioned for a new trial.  The court granted the motion, and the jury found for\n                  Kemper.  Adams and Bovey apparently sued Kemper for an injunction to stop the execution\n                  of the judgment, and in March 1858, theU.S. Circuit Court, Northern District of Illinois, ruled for Adams and Bovey.  Lincoln received $100 for his legal services.As indicated in aletterto Turner, Lincoln first became involved in the lawsuit in December 1849.  Between\n                  1850 and 1858, Lincoln wrote Turner nine letters relating to this case.  He also corresponded\n                  with Adams, Bovey, and Cumins.For the letters related to this case, seeKemper v. Adams & Bovey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,  2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140935."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Adam Adams, 19 January 18531"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 21:26:36",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 47,
+    "cleaned_length": 47,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

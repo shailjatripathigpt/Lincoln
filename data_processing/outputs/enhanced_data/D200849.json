@@ -1,0 +1,94 @@
+{
+  "document_id": "D200849",
+  "url": "https://papersofabrahamlincoln.org/documents/D200849",
+  "metadata": {
+    "date": "1855-06-25",
+    "authors": [
+      "Hay, John",
+      "Hay, Nathaniel"
+    ],
+    "keywords": [
+      "Promissory notes",
+      "Debtor and creditor",
+      "Contracts for deeds"
+    ],
+    "type": "Promissory note",
+    "extracted_date": "1856",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "hay",
+      "note",
+      "nathaniel",
+      "one",
+      "date",
+      "hundred",
+      "dollars",
+      "cents",
+      "interest",
+      "per",
+      "received",
+      "promissory",
+      "john",
+      "maria",
+      "bullock"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Promissory Note of Nathaniel Hay and John Hay to Maria L. Bullock, 25 June 18551 $453.57 One year after date we or either of us promise to pay MrsMaria L. Bullockfour hundred and fiftythree dollars and fiftyseven cents, with interest from date, at the rate of six per cent per annum, until paid, for value received–2 Received, Novr 13. 1856, ofJ. F. Amos, one of the Admrs of Nathaniel Hay, decd four hundred and ninety dollars and fifty two cents, in full of principal & interest\n\nof the within note to date3",
+    "paragraphs": [
+      "Promissory Note of Nathaniel Hay and John Hay to Maria L. Bullock, 25 June 18551 $453.57 One year after date we or either of us promise to pay MrsMaria L. Bullockfour hundred and fiftythree dollars and fiftyseven cents, with interest from date, at the rate of six per cent per annum, until paid, for value received–2 Received, Novr 13. 1856, ofJ. F. Amos, one of the Admrs of Nathaniel Hay, decd four hundred and ninety dollars and fifty two cents, in full of principal & interest",
+      "of the within note to date3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Maria L. Bullock; Deed Record, Document ID: 129965,Lincoln sold land as agent for Bullock, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141281."
+    ],
+    "footnotes": [
+      {
+        "id": "XBC53F13D-DF17-471A-9A07-DFA243D8AC3E",
+        "text": "1Abraham Lincoln wrote this document. Nathaniel Hay and John Hay signed their own names."
+      },
+      {
+        "id": "X5FCE2F4E-C29E-442D-BD20-6F2749396D6A",
+        "text": "2Maria L. Bullock,Mary Lincoln’s aunt, owned property in Springfield, Illinois.  Serving as Bullock’s agent, Abraham\n                  Lincoln sold the land to several individuals for a total of $2,417.92.  Lincoln sold\n                  some of these tracts of land to Nathaniel Hay.  Hay bought approximately twenty-seven\n                  acres of land with promissory notes.  This is one of the two notes. The othernotewas also for $453.57, together equaling the $907.14 total.Abraham Lincoln to Maria L. Bullock; Deed Record, Document ID: 129965,Lincoln sold land as agent for Bullock, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141281."
+      },
+      {
+        "id": "X5F9DCEB7-F98F-4F81-87CA-71B626E0DFD8",
+        "text": "3The companion promissorynoteto this one equaled payment of $479.79, with $10.73 deducted because the note was\n                  paid before it was due."
+      },
+      {
+        "id": "X96E007B3-1206-4C09-AC26-4C3B38E2F3E8",
+        "text": "4Lincoln wrote this endorsement and signed it, including Maria L. Bullock’s name."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note of Nathaniel Hay and John Hay to Maria L. Bullock, 25 June 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "$453.57"
+      },
+      {
+        "type": "paragraph",
+        "text": "One year after date we or either of us promise to pay MrsMaria L. Bullockfour hundred and fiftythree dollars and fiftyseven cents, with interest from date, at the rate of six per cent per annum, until paid, for value received–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received, Novr[November] 13.  1856, ofJ. F. Amos, one of the Admrs[Administrators] of Nathaniel Hay, decd[deceased] four hundred and ninety dollars and fifty two cents, in full of principal & interest\n               of the within note to date3"
+      }
+    ],
+    "word_count": 92
+  },
+  "extraction_date": "2025-12-26 21:36:50",
+  "word_count": 92,
+  "processing": {
+    "cleaned": true,
+    "original_length": 560,
+    "cleaned_length": 509,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

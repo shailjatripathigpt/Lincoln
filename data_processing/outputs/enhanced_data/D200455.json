@@ -1,0 +1,80 @@
+{
+  "document_id": "D200455",
+  "url": "https://papersofabrahamlincoln.org/documents/D200455",
+  "metadata": {
+    "date": "1848-02-04",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Peace",
+      "Military service, Voluntary",
+      "Soldiers"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-02-04",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "peace",
+      "voted",
+      "act",
+      "abraham",
+      "lincoln",
+      "andrew",
+      "mccallen",
+      "february",
+      "yours",
+      "received",
+      "now",
+      "some",
+      "probability",
+      "thewargo",
+      "think"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Andrew McCallen, 4 February 18481 Yours of the 20thJany is received–2There is now some probability of peace; but, should thewargo on, I think volunteers, with the right of electing their own officers will be\n\nvoted, but that no more regulars will be voted– UntilCongressshall act, of course, nothing can be done towards getting your Regiment into the\n\nservice– Whenever it shall act I shall be happy to assist you in any way I can–3",
+    "paragraphs": [
+      "Abraham Lincoln to Andrew McCallen, 4 February 18481 Yours of the 20thJany is received–2There is now some probability of peace; but, should thewargo on, I think volunteers, with the right of electing their own officers will be",
+      "voted, but that no more regulars will be voted– UntilCongressshall act, of course, nothing can be done towards getting your Regiment into the",
+      "service– Whenever it shall act I shall be happy to assist you in any way I can–3"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X5D9DF91E-CEF7-4F9F-BA85-18EFE6165569",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the postscript."
+      },
+      {
+        "id": "X5E2BFF1D-B3C5-4736-8DCB-B7A5D2F042E0",
+        "text": "2Andrew McCallen’s letter of January 20, 1848, has not been located."
+      },
+      {
+        "id": "X21F2643E-EDEC-42FE-9097-180F8308C970",
+        "text": "3McCallen’s regiment did not enter active service, as theSenatewould ratify the treaty ending theMexican Warin mid-March.  For the terms of the treaty and ratification process, see:Treaty of Guadalupe-Hidalgo."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Andrew McCallen, 4 February 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 20thJany[January] is received–2There is now some probability of peace; but, should thewargo on, I think volunteers, with the right of electing their own officers will be\n               voted, but that no more regulars will be voted– UntilCongressshall act, of course, nothing can be done towards getting your Regiment into the\n               service– Whenever it shall act I shall be happy to assist you in any way I can–3"
+      }
+    ],
+    "word_count": 77
+  },
+  "extraction_date": "2025-12-26 20:27:53",
+  "word_count": 77,
+  "processing": {
+    "cleaned": true,
+    "original_length": 488,
+    "cleaned_length": 451,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

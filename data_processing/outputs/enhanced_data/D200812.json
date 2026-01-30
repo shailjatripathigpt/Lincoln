@@ -1,0 +1,77 @@
+{
+  "document_id": "D200812",
+  "url": "https://papersofabrahamlincoln.org/documents/D200812",
+  "metadata": {
+    "date": "1854-11-25",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "Elections",
+      "Abdication"
+    ],
+    "type": "Letter",
+    "extracted_date": "1854-11-25",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "office",
+      "abraham",
+      "lincoln",
+      "noah",
+      "matheny",
+      "november",
+      "hereby",
+      "decline",
+      "accept",
+      "representative",
+      "thegeneral",
+      "assembly",
+      "said",
+      "county",
+      "sangamon"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Noah W. Matheny, 25 November 18541 I hereby decline to accept the office of Representative in theGeneral Assembly, for the said county of Sangamon, to which office I am reported to have been elected\n\non the 7thof Novr Inst. I therefore desire that you notify theGovernorof this vacancy, in order that legal steps be taken to fill the same–2",
+    "paragraphs": [
+      "Abraham Lincoln to Noah W. Matheny, 25 November 18541 I hereby decline to accept the office of Representative in theGeneral Assembly, for the said county of Sangamon, to which office I am reported to have been elected",
+      "on the 7thof Novr Inst. I therefore desire that you notify theGovernorof this vacancy, in order that legal steps be taken to fill the same–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:392, 401-2; David Herbert\n                     Donald,Lincoln(New York: Touchstone, 1995), 167-73, 185; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Hugh Lamaster;Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Horace W. Fay;William H. Randolph to Abraham Lincoln;Illinois Daily Journal(Springfield), 10 November 1854, 2:5; Ill. Const. of 1848, art. III, § 7;Illinois State Register(Springfield), 6 January 1855, 4:1."
+    ],
+    "footnotes": [
+      {
+        "id": "XDB54AEE5-4597-41C5-9AF4-AA6AE7D901BC",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X6A438F12-6EF3-4AB7-8BF4-6CD6C83E34DC",
+        "text": "2During the1854 Federal Election, the voters of Sangamon County elected Lincoln to the Illinois General Assembly.\n                  Although he was an unwilling candidate for this position at first, passage of theKansas-Nebraska Actand its effective repeal of theMissouri Compromisehad reawakened his passion for politics, and he threw himself into the congressional\n                  election campaign in the fall of 1854, crisscrossingIllinoisto deliver speeches against the Kansas-Nebraska Act and in support ofanti-Nebraskacandidates.  As the election campaign reached its climax, his name began circulating\n                  as a possible nominee for one of the state’sU.S. Senateseats. In November and December 1854, he wrote confidential letters to political\n                  allies, seeking support for his candidacy and information about his prospects. Per\n                  article three, section seven of the1848 Illinois Constitution, however, state legislators were ineligible for election to the U.S. Senate. Lincoln’s\n                  decision not to accept his General Assembly seat freed him to pursue a seat in the\n                  U.S. Senate.In the special election held  on December 23, 1854 to fill his vacancy in the General\n                  Assembly,DemocratJonathan McDanieltriumphed overWhigNorman M. Broadwellby nearly 100 votes.Ultimately, Lincoln  did not win election to the U.S. Senate; the General Assembly\n                  selected anti-Nebraska DemocratLyman Trumbullinstead. See the1854 Federal Election. Stung and disappointed by his loss, Lincoln made no political speeches or public\n                  statements for an entire year after his defeat and reinvested his energies in his\n                  law practice.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:392, 401-2; David Herbert\n                     Donald,Lincoln(New York: Touchstone, 1995), 167-73, 185; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Hugh Lamaster;Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Horace W. Fay;William H. Randolph to Abraham Lincoln;Illinois Daily Journal(Springfield), 10 November 1854, 2:5; Ill. Const. of 1848, art. III, § 7;Illinois State Register(Springfield), 6 January 1855, 4:1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Noah W. Matheny, 25 November 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "I hereby decline to accept the office of Representative in theGeneral Assembly, for the said county of Sangamon, to which office I am reported to have been elected\n               on the 7thof Novr[November] Inst. I therefore desire that you notify theGovernorof this vacancy, in order that legal steps be taken to fill the same–2"
+      }
+    ],
+    "word_count": 62
+  },
+  "extraction_date": "2025-12-26 21:31:18",
+  "word_count": 62,
+  "processing": {
+    "cleaned": true,
+    "original_length": 383,
+    "cleaned_length": 359,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

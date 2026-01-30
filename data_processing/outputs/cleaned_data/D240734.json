@@ -1,0 +1,55 @@
+{
+  "document_id": "D240734",
+  "url": "https://papersofabrahamlincoln.org/documents/D240734",
+  "metadata": {
+    "date": "1849-09-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Fragment of Abraham Lincoln to Unknown, 12 September 18491 . . . if I had such means, I have no right to interfere then– I will however say this much–Joseph Gillespie(brother of theRegister) is a most judicious and reliable man, is, in my estimation,theprincipalWhigof that Land District, and one of the principal whigs of the wholestate– He resides atEdwardsville, . . .2",
+    "paragraphs": [
+      "Fragment of Abraham Lincoln to Unknown, 12 September 18491 . . . if I had such means, I have no right to interfere then– I will however say this much–Joseph Gillespie(brother of theRegister) is a most judicious and reliable man, is, in my estimation,theprincipalWhigof that Land District, and one of the principal whigs of the wholestate– He resides atEdwardsville, . . .2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Joseph Gillespie;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 139;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;History of Madison County, Illinois(Edwardsville, IL: W. R. Brink, 1882), 363."
+    ],
+    "footnotes": [
+      {
+        "id": "XC723448F-A701-44F8-9C07-56A2FB6B3C2C",
+        "text": "1Abraham Lincoln wrote and signed this fragment.Daniel Weinberg of the Abraham Lincoln Book Shop,Chicago, Illinois, received this fragment in segments.  The editors agreed with Mr. Weinberg’s assessment\n                  that the segments belonged together, so they were arranged to form a single fragment."
+      },
+      {
+        "id": "X81826F16-A188-4681-86B0-3DC1ECE7CC4C",
+        "text": "2Matthew Gillespie, Joseph Gillespie’s brother, was register at theU.S. General Land Officein Edwardsville.  In March 1849, Lincoln andEdward D. Bakerrecommended him for the job in aletterto Secretary of the InteriorThomas Ewing.  PresidentZachary Taylorappointed Gillespie to the position, in which capacity he served until 1853.Lincoln’s other correspondence in this period revolves around the scramble for patronage\n                  following thepresidential election of 1848and Taylor’s inauguration, so it seems likely that Lincoln is writing to assist Joseph\n                  Gillespie in getting an appointment.  In May 1849, LincolnwroteGillespie asking him to write President Taylor on his behalf in his unsuccessful\n                  campaign to become commissioner of theU.S. General Land Office, and evidence suggests that Gillespie complied.  Perhaps Lincoln was returning the\n                  favor.  See theGeneral Land Office Affair.Joseph Gillespie’s  name does not appear in the official registers of the officers\n                  and agents of the government for 1849, 1851, and 1853, so apparently he did not receive\n                  an appointment while the Whigs held national power.Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Joseph Gillespie;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 139;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138;History of Madison County, Illinois(Edwardsville, IL: W. R. Brink, 1882), 363."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fragment of Abraham Lincoln to Unknown, 12 September 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": ". . . if I had such means, I have no right to interfere then– I will however say this much–Joseph Gillespie(brother of theRegister) is a most judicious and reliable man, is, in my estimation,theprincipalWhigof that Land District, and one of the principal whigs of  the wholestate– He resides atEdwardsville, . . .2"
+      }
+    ],
+    "word_count": 62
+  },
+  "extraction_date": "2025-12-26 21:20:39",
+  "word_count": 62,
+  "processing": {
+    "cleaned": true,
+    "original_length": 373,
+    "cleaned_length": 372,
+    "preserved_originality": true
+  }
+}

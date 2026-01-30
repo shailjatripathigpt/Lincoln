@@ -1,0 +1,117 @@
+{
+  "document_id": "D200002",
+  "url": "https://papersofabrahamlincoln.org/documents/D200002",
+  "metadata": {
+    "date": "1830-05-26",
+    "authors": [
+      "Armstrong, Hosea J.",
+      "Ballard, John",
+      "Ballard, Phillip",
+      "Biglow, John",
+      "Brown, Jonathan B.",
+      "Brown, Reuben",
+      "Cole, Thomas (of Decatur, IL)",
+      "Cowan, Thomas",
+      "Dewees, Samuel B.",
+      "Dickey, John (of Decatur, IL)",
+      "Dickey, William",
+      "Ewing, Henry (of Decatur, IL)",
+      "Florey, David",
+      "Foren, William",
+      "Grimsley, John",
+      "Hall, Alfred",
+      "Hall, Squire (of Coles Co., IL)",
+      "Hall, William (of Decatur, IL)",
+      "Hanks, John",
+      "Harrel, Moses",
+      "Harrell, Landy",
+      "Johnson, James (of Decatur, IL)",
+      "Johnston, John D.",
+      "Lewis, Charles (of Decatur, IL)",
+      "Lincoln, Abraham (President)",
+      "Martin, James (of Decatur, IL)",
+      "Miller, David (of Decatur, IL)",
+      "Miller, Isaac",
+      "Miller, James (of Decatur, IL)",
+      "Miller, John (of Decatur, IL)",
+      "Owen, David (of Decatur)",
+      "Pettyjohn, John",
+      "Pugh, Isaac C.",
+      "Rose, Randolph",
+      "Sennitt, Seth",
+      "Shaw, Milo C.",
+      "Sheppard, Stephen R.",
+      "Smith, Andrew W.",
+      "Stevens, Buel",
+      "Stevens, Joseph",
+      "Stewart, Robert (of Decatur, IL)",
+      "Stuart, David H.",
+      "Williams, Philip D."
+    ],
+    "keywords": [
+      "Local elections",
+      "Counties"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Reuben Brown and Others to the Macon County Commissioners' Court, 26 May\n\n18301 We the undersigned qualified voters inDecaturPrecinct earnestly request your honors to change the present place of holding Elections\n\nin said Precinct fromPermenius Smallwoodsto the Court house in Decatur2",
+    "paragraphs": [
+      "Petition of Reuben Brown and Others to the Macon County Commissioners' Court, 26 May",
+      "18301 We the undersigned qualified voters inDecaturPrecinct earnestly request your honors to change the present place of holding Elections",
+      "in said Precinct fromPermenius Smallwoodsto the Court house in Decatur2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Minutes, 7 June 1830, Macon County Board of Supervisors’ Minutes, 1829-1840, 16, Illinois\n                     Regional Archives Depository, University of Illinois Springfield, Springfield, IL.",
+      "Minutes, 7 June 1830, 16; 6 September 1830, 18 Macon County Board of Supervisors’\n                     Minutes.",
+      "Minutes, 7 June 1830, 16, Macon County Board of Supervisors’ Minutes.",
+      "Ill. Const. of 1818, art. II, § 27;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 1 March 1830,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1830-03-01."
+    ],
+    "footnotes": [
+      {
+        "id": "X4AF16F78-EF7B-46B0-BA84-F322529F90B5",
+        "text": "1Reuben Brown authored the petition. Abraham Lincoln signed only his own name."
+      },
+      {
+        "id": "XEDA33EFE-42DF-427F-B9E9-4C7CE6A61809",
+        "text": "2The Macon County Commissioners’ Court responded to the petition by ordering that “the\n                  elections hereafter shall be held at the Court house in Decatur.”Minutes, 7 June 1830, Macon County Board of Supervisors’ Minutes, 1829-1840, 16, Illinois\n                     Regional Archives Depository, University of Illinois Springfield, Springfield, IL."
+      },
+      {
+        "id": "XE5FE9ED5-C87A-43CF-8DDB-A2D97AF0CF96",
+        "text": "3This signer could be either William Hanks Sr. or William Hanks Jr. Both were related\n                  to Abraham Lincoln and lived in Macon County when Lincoln signed this petition."
+      },
+      {
+        "id": "XD78E7B5C-2E4C-4E16-BC41-DCCF838826D1",
+        "text": "4Pugh was not a member of the Macon County Commissioners’ Court when it considered\n                  this petition, but he took office at the next term in September 1830.Minutes, 7 June 1830, 16; 6 September 1830, 18 Macon County Board of Supervisors’\n                     Minutes."
+      },
+      {
+        "id": "X12B6F609-7709-4028-9D94-AA83309674FD",
+        "text": "5In addition to signing the petition, Miller was one of the three commissioners who\n                  made up the court to which the petition was addressed.Minutes, 7 June 1830, 16, Macon County Board of Supervisors’ Minutes."
+      },
+      {
+        "id": "X48A624D3-4BF3-475A-BFF3-C5590F087BD3",
+        "text": "6Lincoln technically was not a “qualified voter” at the time, having resided in Illinois\n                  for fewer than the required six months.Ill. Const. of 1818, art. II, § 27;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 1 March 1830,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1830-03-01."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Reuben Brown and Others to the Macon County Commissioners' Court, 26 May\n               18301"
+      },
+      {
+        "type": "paragraph",
+        "text": "We the undersigned qualified voters inDecaturPrecinct earnestly request your honors to change the present place of holding Elections\n               in said Precinct fromPermenius Smallwoodsto the Court house in Decatur2"
+      }
+    ],
+    "word_count": 43
+  },
+  "extraction_date": "2025-12-26 19:44:45",
+  "word_count": 43,
+  "processing": {
+    "cleaned": true,
+    "original_length": 325,
+    "cleaned_length": 297,
+    "preserved_originality": true
+  }
+}

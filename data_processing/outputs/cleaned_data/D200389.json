@@ -1,0 +1,51 @@
+{
+  "document_id": "D200389",
+  "url": "https://papersofabrahamlincoln.org/documents/D200389",
+  "metadata": {
+    "date": "1846-01-25",
+    "authors": [
+      "Allen, John (Allin)",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Affidavits",
+      "Personal property"
+    ],
+    "type": "Affidavit"
+  },
+  "content": {
+    "full_text": "Affidavit of John Allen and Abraham Lincoln, 25 January 18461",
+    "paragraphs": [
+      "Affidavit of John Allen and Abraham Lincoln, 25 January 18461"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:359;Abraham Lincoln to Benjamin F. James."
+    ],
+    "footnotes": [
+      {
+        "id": "X20797CD0-B78A-4622-B15E-DE486F14C378",
+        "text": "1John Allen wrote and signed the affidavit. Abraham Lincoln signed his own name only."
+      },
+      {
+        "id": "X1D25283E-FDFF-459B-970A-2A53A26D185B",
+        "text": "2On this date, Lincoln was inPetersburg, Illinois, campaigning for theWhig Party’s nomination to represent the Seventh Congressional District  in theU.S. House of Representatives. According to Roy P. Basler inThe Collected Works of Abraham Lincoln, H. C. Gibson was a citizen ofAurora, Illinois, who fell ill while traveling in Petersburg. Before his death he was attended by\n                  Dr. John Allen. The issue of theSangamo Journalcited by Basler is no longer extant.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:359;Abraham Lincoln to Benjamin F. James."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Affidavit of John Allen and Abraham Lincoln, 25 January 18461"
+      }
+    ],
+    "word_count": 10
+  },
+  "extraction_date": "2025-12-26 20:22:11",
+  "word_count": 10,
+  "processing": {
+    "cleaned": true,
+    "original_length": 61,
+    "cleaned_length": 61,
+    "preserved_originality": true
+  }
+}

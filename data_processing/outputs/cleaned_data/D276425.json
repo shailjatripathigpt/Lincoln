@@ -1,0 +1,53 @@
+{
+  "document_id": "D276425",
+  "url": "https://papersofabrahamlincoln.org/documents/D276425",
+  "metadata": {
+    "date": "1836-03-16",
+    "authors": [
+      "Taylor, John (of Springfield, IL)"
+    ],
+    "keywords": [
+      "Real property",
+      "Public lands",
+      "Public land sales"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt of John Taylor to Abraham Lincoln, 16 March 18361 RECEIVED fromAbraham LincolnofSangamoncounty,Illinoisthe sum ofFifty Eight—dollarsSeventy fivecents, being in full payment for thenorth part of the North. West—quarter of Section No.Three—in Township No.nineteen.North of Range No.Seven—West of the third principal Meridian, containingForty Seven—acres andhundredths of an acre, at the rate of $1.25per acre.2",
+    "paragraphs": [
+      "Receipt of John Taylor to Abraham Lincoln, 16 March 18361 RECEIVED fromAbraham LincolnofSangamoncounty,Illinoisthe sum ofFifty Eight—dollarsSeventy fivecents, being in full payment for thenorth part of the North. West—quarter of Section No.Three—in Township No.nineteen.North of Range No.Seven—West of the third principal Meridian, containingForty Seven—acres andhundredths of an acre, at the rate of $1.25per acre.2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X56174E15-1B9F-4241-BA82-75AE362CD22E",
+        "text": "1This document is partially printed. The blanks were filled in by John Taylor, who\n                  also signed his own name."
+      },
+      {
+        "id": "X626B9249-9B40-432A-A62A-5EE89BCA1DF6",
+        "text": "2The land described here is in northernMenard County, bordering theSangamon River. In 1837, Lincolnsolda half-interest in the land toGershom Jayne; in 1848, Lincoln, Jayne, and their wivessoldthe land toPleasant ArmstrongandJohn Yardley."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of John Taylor to Abraham Lincoln, 16 March 18361"
+      },
+      {
+        "type": "paragraph",
+        "text": "RECEIVED fromAbraham LincolnofSangamoncounty,Illinoisthe sum ofFifty Eight—dollarsSeventy fivecents, being in full payment for thenorth part of the North. West—quarter of Section No.Three—in Township No.nineteen.North of Range No.Seven—West of the third principal Meridian, containingForty Seven—acres andhundredths of an acre, at the rate of $1.25per acre.2"
+      }
+    ],
+    "word_count": 53
+  },
+  "extraction_date": "2025-12-26 20:03:21",
+  "word_count": 53,
+  "processing": {
+    "cleaned": true,
+    "original_length": 416,
+    "cleaned_length": 416,
+    "preserved_originality": true
+  }
+}

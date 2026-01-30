@@ -1,0 +1,70 @@
+{
+  "document_id": "D206849",
+  "url": "https://papersofabrahamlincoln.org/documents/D206849",
+  "metadata": {
+    "date": "1839-12-23",
+    "authors": [
+      "Browning, Orville Hickman",
+      "Butterfield, Justin H.",
+      "Davis, Levi",
+      "Edwards, Ninian W.",
+      "Ficklin, Orlando B.",
+      "Field, Alexander P.",
+      "Gatewood, William J.",
+      "Gillespie, Joseph",
+      "Hardin, John J.",
+      "Johnston, Andrew",
+      "Lincoln, Abraham (President)",
+      "Little, Samuel N.",
+      "Logan, Stephen T.",
+      "Marshall, Samuel D.",
+      "Richardson, William A. (Congressman)",
+      "Scammon, Jonathan Y.",
+      "Webb, Edwin B.",
+      "Williams, Archibald"
+    ],
+    "keywords": [
+      "Courts",
+      "Wages",
+      "Judges"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Orville H. Browning and Others to the Senate and House of Representatives\n\nof the United States, 23 December 18391",
+    "paragraphs": [
+      "Petition of Orville H. Browning and Others to the Senate and House of Representatives",
+      "of the United States, 23 December 18391"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(Westport, CT: Greenwood, 1974),  10:4; R. B. Servant to John Pope, 24 December 1839,\n                     Abraham Lincoln Association Files, Lincoln Collection,  Abraham Lincoln Presidential\n                     Library and Museum (Springfield, IL).",
+      "Register of the Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1845(Washington, DC: J. & G. S. Gideon, 1845), 223."
+    ],
+    "footnotes": [
+      {
+        "id": "X3FF1D770-03B1-4DFA-BA40-6F223D901637",
+        "text": "1Abraham Lincoln signed his name to this petition.This petition was enclosed in a December 24, 1839 letter fromRichard B. Servantto John Pope, Nathaniel Pope’s brother  and U.S. representative from  fromKentucky, asking him “to hand to your brother” the petition “immediately on his arrival,”\n                  presumbly inWashington, DC.  Roy P. Basler misidentified Servant as “R. D. Servant.”Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(Westport, CT: Greenwood, 1974),  10:4; R. B. Servant to John Pope, 24 December 1839,\n                     Abraham Lincoln Association Files, Lincoln Collection,  Abraham Lincoln Presidential\n                     Library and Museum (Springfield, IL)."
+      },
+      {
+        "id": "XF6C5AFA6-3D7D-4A46-8F50-C8213D19EE1F",
+        "text": "2As the clerk records, the U.S. Senate referred the petition to its Committee on the\n                  Judiciary, but apparently to no effect; in 1845, Pope’s salary was recorded as $1,500\n                  annually.Register of the Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1845(Washington, DC: J. & G. S. Gideon, 1845), 223."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Orville H. Browning and Others to the Senate and House of Representatives\n               of the United States, 23 December 18391"
+      }
+    ],
+    "word_count": 21
+  },
+  "extraction_date": "2025-12-26 20:10:28",
+  "word_count": 21,
+  "processing": {
+    "cleaned": true,
+    "original_length": 140,
+    "cleaned_length": 126,
+    "preserved_originality": true
+  }
+}

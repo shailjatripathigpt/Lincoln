@@ -1,0 +1,61 @@
+{
+  "document_id": "D233615",
+  "url": "https://papersofabrahamlincoln.org/documents/D233615",
+  "metadata": {
+    "date": "1849-01-XX",
+    "authors": [
+      "Stuart, John T."
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "United States marshals"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "John T. Stuart to Abraham Lincoln and Edward D. Baker, 1 I have signed arecommendationfor the appointment of Mr.Harveyfor the office of Marshal of the State ofIllinois. In the event that MrHarvey does not receive the appointment it would give me much pleasure as it would\n\ndoubtless theWhigsof Illinois that that appointment should be conferred upon Mr.B. Bond– He is worthy of the office by his honesty and capacity.",
+    "paragraphs": [
+      "John T. Stuart to Abraham Lincoln and Edward D. Baker, 1 I have signed arecommendationfor the appointment of Mr.Harveyfor the office of Marshal of the State ofIllinois. In the event that MrHarvey does not receive the appointment it would give me much pleasure as it would",
+      "doubtless theWhigsof Illinois that that appointment should be conferred upon Mr.B. Bond– He is worthy of the office by his honesty and capacity."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+    ],
+    "footnotes": [
+      {
+        "id": "X715D5891-5E72-40C6-A35B-298578D156B4",
+        "text": "1John T. Stuart wrote and signed this letter.The actual date of this letter is unknown, but on January 2, 1849, Stuart joined other\n                  prominent Illinoisans in signing apetitionendorsing William Harvey for the job of U.S. marshal.  On January 18,Ninian W. Edwards, who also signed the petition, wrote Abraham Lincoln an almost identicallettersuggesting Benjamin Bond as an alternative should Harvey fail to be appointed.  The\n                  similarity of Stuart’s and Edwards’ letters, and the absence of any other known letters\n                  regarding Harvey, lends strong credence to the assumption that Stuart wrote his letter\n                  sometime in January 1849."
+      },
+      {
+        "id": "X652F0EF5-09AB-4E1A-8402-25BCF1C30D34",
+        "text": "2Harvey did not receive the appointment; Bond did and held the job until 1853.  In\n                  March 1849, Lincoln wrote several letters soliciting government officials on Bond’s\n                  behalf, though he preferred that the appointment go toCharles G. Thomas.Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John T. Stuart to Abraham Lincoln and Edward D. Baker, [January 1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have signed arecommendationfor the appointment of Mr.Harveyfor the office of Marshal of the State ofIllinois. In the event that MrHarvey does not receive the appointment it would give me much pleasure as it would\n               doubtless theWhigsof Illinois that that appointment should be conferred upon Mr.B. Bond–"
+      },
+      {
+        "type": "paragraph",
+        "text": "He is worthy of the office by his honesty and capacity."
+      }
+    ],
+    "word_count": 69
+  },
+  "extraction_date": "2025-12-26 20:33:49",
+  "word_count": 70,
+  "processing": {
+    "cleaned": true,
+    "original_length": 445,
+    "cleaned_length": 417,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "document_id": "D206867",
+  "url": "https://papersofabrahamlincoln.org/documents/D206867",
+  "metadata": {
+    "date": "1849-01-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Patronage, political",
+      "Postmasters"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-01-06",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "people",
+      "letter",
+      "relation",
+      "whether",
+      "you",
+      "abraham",
+      "lincoln",
+      "ebenezer",
+      "miller",
+      "january",
+      "your",
+      "thepost",
+      "officeatjacksonville",
+      "received",
+      "not"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Ebenezer T. Miller, 6 January 18491 Your letter in relation to thePost-officeatJacksonville, is received.2I do not know, as yet, whether MrHappywill be removed, nor if he shall, whether I shall be permitted to name the person\n\nto fill the vacancy–3If, however, this responsibility shall fall upon me, I shall^have^no motive in the exercise of it, other than to oblige the good and intelligent people\n\nof Jacksonville, and vicinity– And if, with all the lights before me, when the time\n\ncomes, their preference shall seem to be for you, I shall be most happy to gratify\n\nboth them and you– Yours is the first letter I have hat in relation to that office.",
+    "paragraphs": [
+      "Abraham Lincoln to Ebenezer T. Miller, 6 January 18491 Your letter in relation to thePost-officeatJacksonville, is received.2I do not know, as yet, whether MrHappywill be removed, nor if he shall, whether I shall be permitted to name the person",
+      "to fill the vacancy–3If, however, this responsibility shall fall upon me, I shall^have^no motive in the exercise of it, other than to oblige the good and intelligent people",
+      "of Jacksonville, and vicinity– And if, with all the lights before me, when the time",
+      "comes, their preference shall seem to be for you, I shall be most happy to gratify",
+      "both them and you– Yours is the first letter I have hat in relation to that office."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Daily Journal(Springfield), 3 July 1849, 3:1.",
+      "Illinois Daily Journal(Springfield), 3 July 1849, 3:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *535;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), *507."
+    ],
+    "footnotes": [
+      {
+        "id": "X16150ACD-C43C-42F8-9FDA-CC43B1730399",
+        "text": "1Ebenezer T. Miller wrote this letter in its entirety."
+      },
+      {
+        "id": "X938539A7-75E7-4D54-A58C-1840A60883D2",
+        "text": "2Miller’s letter has not been located."
+      },
+      {
+        "id": "XCDB169C1-57AA-4F19-BB5F-5832FB55FCD6",
+        "text": "3TheTayloradministration removedWilliam W. Happyas postmaster of Jacksonville in July 1849.Illinois Daily Journal(Springfield), 3 July 1849, 3:1."
+      },
+      {
+        "id": "X5DC0DC3A-C43B-4215-8DBE-B45428238748",
+        "text": "4Miller replaced Happy as postmaster in July 1849.  Miller held the position until\n                  April 1853.Illinois Daily Journal(Springfield), 3 July 1849, 3:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *535;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), *507."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Ebenezer T. Miller, 6 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter in relation to thePost-officeatJacksonville, is received.2I do not know, as yet, whether MrHappywill be removed, nor if he shall, whether I shall be permitted to name the person\n               to fill the vacancy–3If, however, this responsibility shall fall upon me, I shall^have^no motive in the exercise of it, other than to oblige the good and intelligent people\n               of Jacksonville, and vicinity– And if, with all the lights before me, when the time\n               comes, their preference shall seem to be for you, I shall be most happy to gratify\n               both them and you– Yours is the first letter I have hat in relation to that office."
+      }
+    ],
+    "word_count": 115
+  },
+  "extraction_date": "2025-12-26 20:33:04",
+  "word_count": 115,
+  "processing": {
+    "cleaned": true,
+    "original_length": 728,
+    "cleaned_length": 672,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

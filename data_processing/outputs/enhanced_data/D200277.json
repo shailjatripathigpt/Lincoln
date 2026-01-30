@@ -1,0 +1,99 @@
+{
+  "document_id": "D200277",
+  "url": "https://papersofabrahamlincoln.org/documents/D200277",
+  "metadata": {
+    "date": "1841-06-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Collecting of accounts"
+    ],
+    "type": "Receipt",
+    "extracted_date": "1841-06-12",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "peace",
+      "justice",
+      "them",
+      "francis",
+      "notes",
+      "upon",
+      "any",
+      "time",
+      "said",
+      "forty",
+      "days",
+      "return",
+      "one",
+      "other",
+      "against"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Receipt of Abraham Lincoln to Josiah N. Francis, 12 June 18411 This may certify that I have this day received ofJosiah Francisfour notes, hereafter described, upon the following conditions that I am to keep\n\nthem forty days unless the makers or any of them call and pay, and at the end of that\n\ntime or any time afterwards am to return them or so many of them as remain unpaid,\n\nwhen said Francis may demand them of me at my office; and any money I may receive\n\nupon said notes is to be applied to one or the other or both of two judgementsintheSangamonCircuitobtained against sd Francis in one case & against him and others in the other,byStuartbeforeThomas Moffetta Justice of the Peace ofSangamon county— The constable who has the executions in those cases, if they will expire before\n\nthe said forty days, may return them and take out new, & if they will not so expire,\n\nhe may suspend acting upon them for that length of time— The notes are as follows—2",
+    "paragraphs": [
+      "Receipt of Abraham Lincoln to Josiah N. Francis, 12 June 18411 This may certify that I have this day received ofJosiah Francisfour notes, hereafter described, upon the following conditions that I am to keep",
+      "them forty days unless the makers or any of them call and pay, and at the end of that",
+      "time or any time afterwards am to return them or so many of them as remain unpaid,",
+      "when said Francis may demand them of me at my office; and any money I may receive",
+      "upon said notes is to be applied to one or the other or both of two judgementsintheSangamonCircuitobtained against sd Francis in one case & against him and others in the other,byStuartbeforeThomas Moffetta Justice of the Peace ofSangamon county— The constable who has the executions in those cases, if they will expire before",
+      "the said forty days, may return them and take out new, & if they will not so expire,",
+      "he may suspend acting upon them for that length of time— The notes are as follows—2"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Receipt, 24 July 1841, in “Lincoln Collected Debts for Francis,” Martha L. Benner\n                     and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141297."
+    ],
+    "footnotes": [
+      {
+        "id": "X05BF4260-9E5B-4518-8894-AB2C5891641E",
+        "text": "1Abraham Lincoln wrote the body of the document and signed his name. Josiah Francis\n                  wrote the endorsements on page two. The original of this document has not been located."
+      },
+      {
+        "id": "X8998AB91-2D9F-435C-A6C0-BBF244DFED81",
+        "text": "2On July 24, 1841, Lincoln received $73.00 in payment on Eads’ note.Receipt, 24 July 1841, in “Lincoln Collected Debts for Francis,” Martha L. Benner\n                     and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141297."
+      },
+      {
+        "id": "XAEA2533E-473D-4E8D-89CA-469D5524FF58",
+        "text": "3The business “Bondurant & Primm” has not been identified. There were multiple men\n                  with those last names in  Sangamon  County in the 1840s."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Abraham Lincoln to Josiah N. Francis, 12 June 18411"
+      },
+      {
+        "type": "paragraph",
+        "text": "This may certify that I have this day received ofJosiah Francisfour notes, hereafter described, upon the following conditions that I am to keep\n               them forty days unless the makers or any of them call and pay, and at the end of that\n               time or any time afterwards am to return them or so many of them as remain unpaid,\n               when said Francis may demand them of me at my office; and any money I may receive\n               upon said notes is to be applied to one or the other or both of two judgementsintheSangamonCircuitobtained against sd[said] Francis in one case & against him and others in the other,byStuartbeforeThomas Moffetta Justice of the Peace ofSangamon county— The constable who has the executions in those cases, if they will expire before\n               the said forty days, may return them and take out new, & if they will not so expire,\n               he may suspend acting upon them for that length of time—"
+      },
+      {
+        "type": "paragraph",
+        "text": "The notes are as follows—2"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "1 onWesley Eadsfor. | $73.58",
+          "1 onWilliam Boydfor. | 34.06",
+          "1 onWilliam Ramsayfor. | 20.00",
+          "1 on Bondurant & Primm3for. | 12.37 | —"
+        ]
+      }
+    ],
+    "word_count": 173
+  },
+  "extraction_date": "2025-12-26 20:16:49",
+  "word_count": 175,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1058,
+    "cleaned_length": 958,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

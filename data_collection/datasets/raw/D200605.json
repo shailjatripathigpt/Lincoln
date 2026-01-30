@@ -1,0 +1,49 @@
+{
+  "document_id": "D200605",
+  "url": "https://papersofabrahamlincoln.org/documents/D200605",
+  "metadata": {
+    "date": "1849-07-04",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Clayton, 4 July 18491 I understand the name of our excellent friend Hon.R. W Thompson, ofIndiana, is before you for some diplomatic appointment–  It needs no one to tell you who\n               he is, and I wish to say, as matter of substance, and not of form merely, that I sincerely\n               desire he may be successful–2",
+    "paragraphs": [
+      "Abraham Lincoln to John M. Clayton, 4 July 18491",
+      "I understand the name of our excellent friend Hon.R. W Thompson, ofIndiana, is before you for some diplomatic appointment–  It needs no one to tell you who\n               he is, and I wish to say, as matter of substance, and not of form merely, that I sincerely\n               desire he may be successful–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+    ],
+    "footnotes": [
+      {
+        "id": "X4BE8E671-D95E-497D-9BA5-20FD09B2D7EE",
+        "text": "1Abraham Lincoln wrote and signed this letter and wrote and initialed the post script."
+      },
+      {
+        "id": "X23FE90A8-DD25-477D-A27B-9AA942B68FD4",
+        "text": "2Richard W. Thompson’s name does not appear in the official registers of the officers\n                  and agents of the government for 1849, 1851, and 1853, so apparently he did not receive\n                  an appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Clayton, 4 July 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I understand the name of our excellent friend Hon.R. W Thompson, ofIndiana, is before you for some diplomatic appointment–  It needs no one to tell you who\n               he is, and I wish to say, as matter of substance, and not of form merely, that I sincerely\n               desire he may be successful–2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:19:42",
+  "word_count": 60
+}

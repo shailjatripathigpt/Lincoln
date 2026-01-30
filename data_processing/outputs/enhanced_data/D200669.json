@@ -1,0 +1,74 @@
+{
+  "document_id": "D200669",
+  "url": "https://papersofabrahamlincoln.org/documents/D200669",
+  "metadata": {
+    "date": "1851-01-XX",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Kindness",
+      "Hotels"
+    ],
+    "type": "Letter",
+    "extracted_date": "1851-01-XX",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "wilson",
+      "january",
+      "take",
+      "care",
+      "thisboyuntil",
+      "morrow",
+      "longer",
+      "weather",
+      "bad",
+      "send",
+      "bill"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Mr. Wilson, January 18511 Take care of thisboyuntil to-morrow, or longer if the weather is bad, and send the bill to me.2",
+    "paragraphs": [
+      "Abraham Lincoln to Mr. Wilson, January 18511 Take care of thisboyuntil to-morrow, or longer if the weather is bad, and send the bill to me.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Gilbert A. Tracy,Uncollected Letters of Abraham Lincoln(Boston: Houghton Mifflin, 1917), 45;Illinois Daily Journal(Springfield), 10 October 1849, 3:1; 2 January 1851, 1:2; James T. Hickey, “The Lincolns’\n                     Globe Tavern: A Study in Tracing the History of a Nineteenth-Century Building,”Journal of the Illinois State Historical Society56 (Winter 1963), 629, 632.",
+      "Gilbert J. Greene,Lincoln the Comforter(Hancock, NY: Herald Press, 1916), 26-40; Gilbert A. Tracy,Uncollected Letters of Abraham Lincoln, 45;Illinois Daily Journal(Springfield), 2 January 1851, 1:2; James T. Hickey, “The Lincolns’ Globe Tavern:\n                     A Study in Tracing the History of a Nineteenth-Century Building,”Journal of the Illinois State Historical Society56 (Winter 1963), 632."
+    ],
+    "footnotes": [
+      {
+        "id": "XD2D0B935-6D0D-4F72-A70B-EAC4E6CAB999",
+        "text": "1This note is attributed to Abraham Lincoln, but the original note in Lincoln’s hand\n                  has not been located.NeitherGilbert J. Greene, the “boy” referred to in this note, nor Gilbert A. Tracy, who originally published\n                  a transcription of this note in hisUncollected Letters of Abraham Lincoln, identified the first name of Mr. Wilson. The editors were also unable to identify\n                  Mr. Wilson’s first name. However, advertisements in theIllinois Daily Journalconfirm that Mr. Wilson was a co-owner of theGlobe Hotelin Springfield, along with Samuel Chamblin. The hotel was also called the Globe Tavern\n                  at various points during its existence, was located on the second block west of the\n                  southwest corner of Springfield’s public square, and had served as Abraham andMary Lincoln‘s residence after they were first wed.Gilbert A. Tracy,Uncollected Letters of Abraham Lincoln(Boston: Houghton Mifflin, 1917), 45;Illinois Daily Journal(Springfield), 10 October 1849, 3:1; 2 January 1851, 1:2; James T. Hickey, “The Lincolns’\n                     Globe Tavern: A Study in Tracing the History of a Nineteenth-Century Building,”Journal of the Illinois State Historical Society56 (Winter 1963), 629, 632."
+      },
+      {
+        "id": "X125820B1-FB46-46CB-BBEA-8F88DF4467D8",
+        "text": "2After being forced out of his temporary residence near Jackson,Tennesseeby threats of violence following public arguments he made against the institution\n                  of slavery, Gilbert J. Greene began a long, arduous journey to his home in far northernIllinoiswith only the few dollars in his pockets and the clothing he wore when he first spotted\n                  armed men patrolling his Tennessee residence and fled. After walking toMemphis, Tennesseeand taking a river boat toCairo, Illinois, he walked all day in the direction of his home. He then stayed overnight at the\n                  home of farmer  Jacob Strause, nearJacksonville, in exchange for agreeing to take Lincoln some legal papers as he passed through\n                  Springfield, thirty-five miles to the north of Strause’s farmhouse, the next day.\n                  When Greene arrived to deliver the papers, Lincoln was interested in why he had walked\n                  the entire distance, particularly since the weather was cold and snowy. After hearing\n                  Greene’s story, Lincoln discussed the institution of slavery with him for some time.\n                  He then gave Greene $5.00 for delivering the papers, scribbled this note in the margin\n                  of the edition of theLouisville Journalhe had been reading upon Greene’s arrival at his office, tore the note off, handed\n                  it to Greene, pointed to the Globe Hotel across the square from his office, and told\n                  him to stay there until he was able to continue on his journey.The next morning, as Greene prepared to leave the hotel, a messenger delivered  another\n                  handwrittennotefrom Lincoln, asking a Mr. Wallace ofPeoriato render what aid he could to Greene, should Greene require it, and accepting the\n                  responsibility for the cost of such aid. Greene did not meet Wallace, eventually made\n                  it home after walking a total of more than 800 miles on foot, and claimed he later\n                  sold the “dingy” note from Lincoln to Wallace for $20.00.Gilbert J. Greene,Lincoln the Comforter(Hancock, NY: Herald Press, 1916), 26-40; Gilbert A. Tracy,Uncollected Letters of Abraham Lincoln, 45;Illinois Daily Journal(Springfield), 2 January 1851, 1:2; James T. Hickey, “The Lincolns’ Globe Tavern:\n                     A Study in Tracing the History of a Nineteenth-Century Building,”Journal of the Illinois State Historical Society56 (Winter 1963), 632."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Mr. Wilson, January 18511"
+      },
+      {
+        "type": "paragraph",
+        "text": "Take care of thisboyuntil to-morrow, or longer if the weather is bad, and send the bill to me.2"
+      }
+    ],
+    "word_count": 25
+  },
+  "extraction_date": "2025-12-26 21:23:48",
+  "word_count": 25,
+  "processing": {
+    "cleaned": true,
+    "original_length": 140,
+    "cleaned_length": 140,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

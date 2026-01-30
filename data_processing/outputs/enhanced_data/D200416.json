@@ -1,0 +1,74 @@
+{
+  "document_id": "D200416",
+  "url": "https://papersofabrahamlincoln.org/documents/D200416",
+  "metadata": {
+    "date": "1847-06-30",
+    "authors": [
+      "Brown, James N.",
+      "Bunn, Jacob",
+      "Calhoun, John",
+      "Enos, Pascal P.",
+      "Lincoln, Abraham (President)",
+      "Opdycke, Stacy B. (Opdyke)",
+      "Pickrell, William S. (Pickrel)",
+      "Stuart, John T.",
+      "Webster, Bela C.",
+      "Williams, John (Springfield, IL)"
+    ],
+    "keywords": [
+      "Railroads"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "people",
+      "abraham",
+      "lincoln",
+      "others",
+      "sangamon",
+      "county",
+      "june",
+      "alton",
+      "springfield",
+      "railroad"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln and Others to the People of Sangamon County, 30 June 1847 ALTON AND SPRINGFIELD RAILROAD.",
+    "paragraphs": [
+      "Abraham Lincoln and Others to the People of Sangamon County, 30 June 1847 ALTON AND SPRINGFIELD RAILROAD."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "\"An Act to Construct a Railroad from Alton, in Madison County, to Springfield, in\n                     Sangamon County,\" 27 February 1847,Private and Special Laws of Illinois(1847), 144-49;Alton & Sangamon Railroad Stock Subscription Book."
+    ],
+    "footnotes": [
+      {
+        "id": "X1BA67D3A-B35A-48B2-9C06-9F11B9A530C4",
+        "text": "1TheIllinois General Assemblyincorporated the Springfield and Alton Railroad on February 27, 1847. Subscriptions\n                  to the stock of the company were opened on May 20, 1847.\"An Act to Construct a Railroad from Alton, in Madison County, to Springfield, in\n                     Sangamon County,\" 27 February 1847,Private and Special Laws of Illinois(1847), 144-49;Alton & Sangamon Railroad Stock Subscription Book."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln and Others to the People of Sangamon County, 30 June 1847"
+      },
+      {
+        "type": "paragraph",
+        "text": "ALTON AND SPRINGFIELD RAILROAD."
+      }
+    ],
+    "word_count": 17
+  },
+  "extraction_date": "2025-12-26 20:24:03",
+  "word_count": 17,
+  "processing": {
+    "cleaned": true,
+    "original_length": 105,
+    "cleaned_length": 105,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

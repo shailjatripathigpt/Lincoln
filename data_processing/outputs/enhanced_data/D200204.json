@@ -1,0 +1,75 @@
+{
+  "document_id": "D200204",
+  "url": "https://papersofabrahamlincoln.org/documents/D200204",
+  "metadata": {
+    "date": "1840-01-21",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Election law",
+      "Legislation",
+      "Lawyers--Fees"
+    ],
+    "type": "Letter",
+    "extracted_date": "1840-01-21",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "john",
+      "stuart",
+      "january"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John T. Stuart, 21 January 18401",
+    "paragraphs": [
+      "Abraham Lincoln to John T. Stuart, 21 January 18401"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act Regulating Elections,” 10 January 1829,Revised Laws of Illinois(1829), 67;Abraham Lincoln to John T. Stuart; Illinois HouseJournal. 1839. 11th G. A., special sess., 222-23; Illinois SenateJournal. 1839. 11th G. A., special sess., 162, 212, 224.",
+      "People v. Truett, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140184."
+    ],
+    "footnotes": [
+      {
+        "id": "X1C22C625-E5F8-420A-A23F-2FB775B8E610",
+        "text": "1Abraham Lincoln wrote the letter, his signature, and the address.  John T. Stuart\n                  penned the first docketing on page two."
+      },
+      {
+        "id": "X6D709918-FB8A-4D90-BF08-252655D131E5",
+        "text": "2Section twenty-six of the 1829 law governing elections stipulated congressional elections\n                  would occur on the first Monday in August 1831, and on the first Monday in August\n                  1832, and on the first Monday in August biennially thereafter. Under provisions of\n                  section twenty-six, elections had occurred in 1834, 1836, 1838, and were scheduled\n                  for August 1840.  In January 1839, theGeneral Assemblyenacted, and theCouncil of Revisionapproved, anactstipulating that  on the first Monday of August, 1841, and on the first Monday of\n                  August every second year thereafter, there was to be held an election for theHouse of Representatives.  This act explicitly repealed section twenty-six of the 1829 law.  The text of the\n                  bill Lincoln references, entitled “A Bill in Relation to the Election of Members ofCongress,” is not extant, but presumably it would have repealed the January 1839 act and reinstated\n                  section twenty-six. \n                  The Illinois House of Representatives passed the bill by a vote of 45 yeas to 39 nays,\n                  with Lincoln voting nay, but the Illinois Senate indefinitely postponed further consideration\n                  on January 30, and the bill never became law.“An Act Regulating Elections,” 10 January 1829,Revised Laws of Illinois(1829), 67;Abraham Lincoln to John T. Stuart; Illinois HouseJournal. 1839. 11th G. A., special sess., 222-23; Illinois SenateJournal. 1839. 11th G. A., special sess., 162, 212, 224."
+      },
+      {
+        "id": "X10BD901A-88A0-4638-BB13-848960BD3AE3",
+        "text": "3Lincoln penned thisletteron January 1, 1840."
+      },
+      {
+        "id": "X903D3542-BA4F-433D-B150-E18CEAAD3F3B",
+        "text": "4Stuart’s response is not extant."
+      },
+      {
+        "id": "XA6B51F8C-8486-408E-AB80-B9543D815629",
+        "text": "5Stuart and Lincoln had successfully defended Henry B. Truett against the charge of\n                  murderingJacob M. Early.  Lincoln further elaborated on securing the debt in aletterdated January 29.People v. Truett, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140184."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John T. Stuart, 21 January 18401"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:11:49",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 51,
+    "cleaned_length": 51,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

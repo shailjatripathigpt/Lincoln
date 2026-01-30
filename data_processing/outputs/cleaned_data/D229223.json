@@ -1,0 +1,70 @@
+{
+  "document_id": "D229223",
+  "url": "https://papersofabrahamlincoln.org/documents/D229223",
+  "metadata": {
+    "date": "1842-01-18",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "McCoy, James P.",
+      "Miles, George U."
+    ],
+    "keywords": [
+      "Citizen suits (Civil procedure)--U.S. states"
+    ],
+    "type": "Affidavit"
+  },
+  "content": {
+    "full_text": "Affidavit of George U. Miles and James P. McCoy inMiles & McCoy v. Miles, 18 January 18421 George U. Miles, andJames P McCoy, trading under the style and firm name ofMiles & McCoy, and plaintiffs in a certain suit now pending in theCircuit Courtof theCountyaforesaid, which was taken into said court by appeal from one of the Justices of\n\nthe Peace of said county, and in which Daniel Miles2is defendant, being first duly sworn, state upon oath, each for himself, that any\n\ninstrument of writing purporting to be a receipt, or acknowledgement of payment, and purporting to have been made and executed by them to and in favour\n\nof said defendant,never was executedbythem, said affiants, or either of them, excepting a certain receipt purporting to be given\n\nby said affiants to said defendantfor theinfullofallaccountsup to its dat^for the amount of his account in full of all demands up to the date thereof,^bearing date theSixthdayof SeptA.D. 1841 and being in full up to that date, which was given byThomas S. Laird, as affiant’s agent, and which they admit is genuine.",
+    "paragraphs": [
+      "Affidavit of George U. Miles and James P. McCoy inMiles & McCoy v. Miles, 18 January 18421 George U. Miles, andJames P McCoy, trading under the style and firm name ofMiles & McCoy, and plaintiffs in a certain suit now pending in theCircuit Courtof theCountyaforesaid, which was taken into said court by appeal from one of the Justices of",
+      "the Peace of said county, and in which Daniel Miles2is defendant, being first duly sworn, state upon oath, each for himself, that any",
+      "instrument of writing purporting to be a receipt, or acknowledgement of payment, and purporting to have been made and executed by them to and in favour",
+      "of said defendant,never was executedbythem, said affiants, or either of them, excepting a certain receipt purporting to be given",
+      "by said affiants to said defendantfor theinfullofallaccountsup to its dat^for the amount of his account in full of all demands up to the date thereof,^bearing date theSixthdayof SeptA.D. 1841 and being in full up to that date, which was given byThomas S. Laird, as affiant’s agent, and which they admit is genuine."
+    ],
+    "tables_count": 1,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X73744E97-29A3-47CC-8FC8-8708539DBD35",
+        "text": "1Abraham Lincolnwrote the body of the affidavit, aside from an interlineation and the filled-in blanks,\n                  which were written by Nathan Dresser. Lincoln also wrote the first instance of docketing\n                  on the second page. George U. Miles and James P. McCoy signed their own names."
+      },
+      {
+        "id": "X2BC960C5-9B4E-4A00-8D8F-50A5C7CC0275",
+        "text": "2Daniel Miles could not be identified."
+      },
+      {
+        "id": "X43D0889F-D56C-4844-9E62-E6D359342163",
+        "text": "3Dresser wrote and signed this certification."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Affidavit of George U. Miles and James P. McCoy inMiles & McCoy v. Miles, 18 January 18421"
+      },
+      {
+        "type": "paragraph",
+        "text": "George U. Miles, andJames P McCoy, trading under the style and firm name ofMiles & McCoy, and plaintiffs in a certain suit now pending in theCircuit Courtof theCountyaforesaid, which was taken into said court by appeal from one of the Justices of\n               the Peace of said county, and in which Daniel Miles2is defendant, being first duly sworn, state upon oath, each for himself, that any\n               instrument of writing purporting to be a receipt, or acknowledgement of payment, and purporting to have been made and executed by them to and in favour\n               of said defendant,never was executedbythem, said affiants, or either of them, excepting a certain receipt purporting to be given\n               by said affiants to said defendantfor theinfullofallaccountsup to its dat^for the amount of his account in full of all demands up to the date thereof,^bearing date theSixthdayof Sept[September]A.D. 1841 and being in full up to that date, which was given byThomas S. Laird, as affiant’s agent, and which they admit is genuine."
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "Miles & McCoy | }",
+          "vs | affidavit",
+          "DanlMiles"
+        ]
+      }
+    ],
+    "word_count": 179
+  },
+  "extraction_date": "2025-12-26 20:16:47",
+  "word_count": 181,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1148,
+    "cleaned_length": 1071,
+    "preserved_originality": true
+  }
+}

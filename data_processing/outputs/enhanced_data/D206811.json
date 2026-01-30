@@ -1,0 +1,55 @@
+{
+  "document_id": "D206811",
+  "url": "https://papersofabrahamlincoln.org/documents/D206811",
+  "metadata": {
+    "date": "1844-12-09 - 1861-02-11",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Miscellanea"
+    ],
+    "type": "Notes",
+    "extracted_date": "1844-12-09 - 1861-02-11",
+    "extracted_type": "personal",
+    "extracted_keywords": [
+      "notes",
+      "regarding",
+      "filing",
+      "documents"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Notes regarding Filing of Documents, 1",
+    "paragraphs": [
+      "Notes regarding Filing of Documents, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 8:424-25."
+    ],
+    "footnotes": [
+      {
+        "id": "X835F2FD3-C9F4-4B0D-BEAF-3D7EFC26386B",
+        "text": "1Abraham Lincoln wrote this note. Its date is unknown. According to Lincoln’s law partnerWilliam H. Herndon, this slip of paper was kept on top of a stack of documents in theLincoln & Herndonlaw office. The editors have dated the document using the beginning and ending dates\n                  of Lincoln’s partnership with Herndon.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 8:424-25."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Notes regarding Filing of Documents, [9 December 1844-11 February 1861]1"
+      }
+    ],
+    "word_count": 6
+  },
+  "extraction_date": "2025-12-26 22:03:16",
+  "word_count": 10,
+  "processing": {
+    "cleaned": true,
+    "original_length": 72,
+    "cleaned_length": 38,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

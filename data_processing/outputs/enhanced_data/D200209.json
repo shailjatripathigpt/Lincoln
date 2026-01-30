@@ -1,0 +1,78 @@
+{
+  "document_id": "D200209",
+  "url": "https://papersofabrahamlincoln.org/documents/D200209",
+  "metadata": {
+    "date": "1840-01-27",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Canals",
+      "Public officers"
+    ],
+    "type": "Resolution",
+    "extracted_date": "1840-01-27",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "election",
+      "treasurer",
+      "canal",
+      "commissioners",
+      "representatives",
+      "resolution",
+      "regarding",
+      "board",
+      "resolved",
+      "thehouse",
+      "thesenateconcurring",
+      "herein",
+      "two",
+      "houses",
+      "meet"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Resolution regarding the Election of a Treasurer of the Board of Canal Commissioners,\n\n1 Resolved by theHouse of Representatives(theSenateconcurring herein) that the two houses will meet in the Hall of the House of Representatives\n\non tuesday the 28thInstat 7 o,clock P.M and proceed to the election of a Treasurer of theBoard of Canal Commissioners—2",
+    "paragraphs": [
+      "Resolution regarding the Election of a Treasurer of the Board of Canal Commissioners,",
+      "1 Resolved by theHouse of Representatives(theSenateconcurring herein) that the two houses will meet in the Hall of the House of Representatives",
+      "on tuesday the 28thInstat 7 o,clock P.M and proceed to the election of a Treasurer of theBoard of Canal Commissioners—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 263, 321; Illinois SenateJournal. 1839. 11th G. A., special sess., 190, 196, 227, 234.",
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 330-33, 336-38."
+    ],
+    "footnotes": [
+      {
+        "id": "XC223E8EA-6DC2-4657-8271-9D2B0057E17A",
+        "text": "1Abraham Lincoln wrote the text of this resolution. The docketing on page two is in\n                  another hand.On January 27, 1840, Abraham Lincoln introduced the resolution in the House of Representatives,\n                  and the House adopted it the same day.  The Senate took no action on this resolution,\n                  but on January 31, adopted a resolution calling for a joint vote on February 1.  The\n                  House concurred with the Senate resolution on February 1.Illinois HouseJournal. 1839. 11th G. A., special sess., 263, 321; Illinois SenateJournal. 1839. 11th G. A., special sess., 190, 196, 227, 234."
+      },
+      {
+        "id": "XA755A0DE-8475-4865-8734-918E4A7C4839",
+        "text": "2The joint session to elect the treasurer occurred on February 1, and the legislators\n                  electedDavid Prickettto the position on the eighth ballot.Illinois HouseJournal. 1839. 11th G. A., special sess., 330-33, 336-38."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Resolution regarding the Election of a Treasurer of the Board of Canal Commissioners,\n               [27 January 1840]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Resolved by theHouse of Representatives(theSenateconcurring herein) that the two houses will meet in the Hall of the House of Representatives\n               on tuesday the 28thInstat 7 o,clock P.M and proceed to the election of a Treasurer of theBoard of Canal Commissioners—2"
+      }
+    ],
+    "word_count": 54
+  },
+  "extraction_date": "2025-12-26 20:11:37",
+  "word_count": 56,
+  "processing": {
+    "cleaned": true,
+    "original_length": 396,
+    "cleaned_length": 351,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

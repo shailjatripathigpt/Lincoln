@@ -1,0 +1,61 @@
+{
+  "document_id": "D206832",
+  "url": "https://papersofabrahamlincoln.org/documents/D206832",
+  "metadata": {
+    "date": "1836-XX-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Finance, Public",
+      "Loans",
+      "State governments--Finance"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to the People of Sangamon County, 1 CopyofanElectionHandbillissuedbyMrLincoln.",
+    "paragraphs": [
+      "Abraham Lincoln to the People of Sangamon County, 1 CopyofanElectionHandbillissuedbyMrLincoln."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 299.",
+      "Reg Ankrom,Stephen A. Douglas: The Political Apprenticeship, 1833-1843(Jefferson, NC: McFarland, 2015), 79-80.",
+      "Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 108, 124-26."
+    ],
+    "footnotes": [
+      {
+        "id": "XCAA072DC-C595-4FE0-AB4E-8B4030451F15",
+        "text": "1This is a handwritten transcription of a document Lincoln apparently distributed as\n                  a handbill during the time  preceding his election on August 1 to the Tenth General\n                  Assembly, which convened December 5.Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 299."
+      },
+      {
+        "id": "X3E067458-1771-4300-B8A9-818525434348",
+        "text": "2In 1831, theGeneral Assemblyhad authorized borrowing $100,000 from Samuel Wiggins to replenish the school fund,\n                  from which the legislature had borrowed to pay state expenses, and to redeemState Bank of Illinoisbank notes, which thestatehad purchased at a heavy discount and which became due in 1831 at face value in specie.\n                  \n                  Section four of thebillrequired the State Bank of Illinois to redeem the loan.Reg Ankrom,Stephen A. Douglas: The Political Apprenticeship, 1833-1843(Jefferson, NC: McFarland, 2015), 79-80."
+      },
+      {
+        "id": "X437ACF0B-90F1-4722-9A1C-FC3DC94EEE8F",
+        "text": "3The vote engrossing thebillfor a third reading occurred on December 18, 1835. Lincoln references votes taken\n                  on December 22, right before the bill passed the House.  In the first vote, theHouse of Representativesrejected  Lincoln’samendmentto the bill.    The second saw the House reject anotheramendmentto the bill. Lincoln voted against engrossing the bill for a third reading.  The\n                  HouseJournaldoes not record his vote on the bill’s passage.Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 108, 124-26."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to the People of Sangamon County, [1836]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "CopyofanElectionHandbillissuedbyMrLincoln."
+      }
+    ],
+    "word_count": 10
+  },
+  "extraction_date": "2025-12-26 20:04:35",
+  "word_count": 10,
+  "processing": {
+    "cleaned": true,
+    "original_length": 100,
+    "cleaned_length": 94,
+    "preserved_originality": true
+  }
+}

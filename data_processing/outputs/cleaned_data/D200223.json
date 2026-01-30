@@ -1,0 +1,55 @@
+{
+  "document_id": "D200223",
+  "url": "https://papersofabrahamlincoln.org/documents/D200223",
+  "metadata": {
+    "date": "1840-06-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Trunks (Luggage)",
+      "Clothing and dress"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Jonathan G. Randall, 16 June 18401 Your sonRichardhas just told me of his great loss. The rascallyWhigs, through a mistake, took his trunk containing all his clothes off toChicago, and his heart is almost broken. Make him up some new ones just as you know he needs\n\nand make his heart glad.2",
+    "paragraphs": [
+      "Abraham Lincoln to Jonathan G. Randall, 16 June 18401 Your sonRichardhas just told me of his great loss. The rascallyWhigs, through a mistake, took his trunk containing all his clothes off toChicago, and his heart is almost broken. Make him up some new ones just as you know he needs",
+      "and make his heart glad.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Howard F. Dyson, “Lincoln in Rushville,”Transactions of the Illinois State Historical Society8 (1903), 226."
+    ],
+    "footnotes": [
+      {
+        "id": "X3E734AC9-074C-4517-ACFB-13D8898437F1",
+        "text": "1The text of this letter has been attributed to Abraham Lincoln, but the original manuscript\n                  has not been found."
+      },
+      {
+        "id": "X57B7D0A2-5F7F-47D4-9323-7A1725CC1F3A",
+        "text": "2In 1840,Jonathan G. Randallhad apprenticedRichardtoSimeon Francis, editor of theSangamo Journal.  During Richard’s first week in Springfield, theWhigstate convention met, and theChicagodelegation had traveled  down and stored their baggage in the Journal office.  Richard\n                  also had all his personal belongings stored in an old hair trunk in the office, and\n                  when the Chicago delegates departed, they inadvertently took Richard’s trunk.Howard F. Dyson, “Lincoln in Rushville,”Transactions of the Illinois State Historical Society8 (1903), 226."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Jonathan G. Randall, 16 June 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your sonRichardhas just told me of his great loss.  The rascallyWhigs, through a mistake, took his trunk containing all his clothes off toChicago, and his heart is almost broken.  Make him up some new ones just as you know he needs\n               and make his heart glad.2"
+      }
+    ],
+    "word_count": 55
+  },
+  "extraction_date": "2025-12-26 20:12:06",
+  "word_count": 55,
+  "processing": {
+    "cleaned": true,
+    "original_length": 326,
+    "cleaned_length": 310,
+    "preserved_originality": true
+  }
+}

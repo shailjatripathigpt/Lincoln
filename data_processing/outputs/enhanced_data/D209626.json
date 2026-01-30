@@ -1,0 +1,62 @@
+{
+  "document_id": "D209626",
+  "url": "https://papersofabrahamlincoln.org/documents/D209626",
+  "metadata": {
+    "date": "1856-XX-XX",
+    "authors": [],
+    "keywords": [
+      "Envelopes (Stationery)"
+    ],
+    "type": "Envelope",
+    "extracted_date": "1856-XX-XX",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "envelope",
+      "unknown",
+      "abraham",
+      "lincoln"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Envelope of Unknown to Abraham Lincoln, 1",
+    "paragraphs": [
+      "Envelope of Unknown to Abraham Lincoln, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William B. Archer to Abraham Lincoln.",
+      "Carroll Chase,The 3c Stamp of the United States 1851-1857 Issue, rev. ed. (Springfield, MA: Tatham Stamp and Coin, 1942)."
+    ],
+    "footnotes": [
+      {
+        "id": "XA87322BC-9E37-4880-B79A-AEF6413064DB",
+        "text": "1The author and the contents of this envelope addressed to Abraham Lincoln are uncertain.\n                  The editorially supplied date of 1856 is conjectured from the docketing on page two,\n                  which also suggests that this envelope and its contents were sent from Washington,\n                  DC. The handwriting of the address bears similarities to that ofWilliam B. Archer, who also spelled Lincoln’s surname “Lincon” on occasion. ArcherwroteLincoln at least one letter from Washington, DC in 1856.William B. Archer to Abraham Lincoln."
+      },
+      {
+        "id": "X5263D493-DE73-437B-86D9-C667CABF4878",
+        "text": "2An unknown person wrote this docketing."
+      },
+      {
+        "id": "X6FCECBD2-9A58-465A-B854-C37D2CC870C0",
+        "text": "3A second unknown person wrote this docketing, which uses philatelic terminology to\n                  describe the characteristics of the three centGeorge Washingtonpostage stamp on the envelope in an effort to determine the plate used to print the\n                  stamp, and the stamp’s location on that plate.Carroll Chase,The 3c Stamp of the United States 1851-1857 Issue, rev. ed. (Springfield, MA: Tatham Stamp and Coin, 1942)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Envelope of Unknown to Abraham Lincoln, [1856]1"
+      }
+    ],
+    "word_count": 7
+  },
+  "extraction_date": "2025-12-26 21:43:11",
+  "word_count": 7,
+  "processing": {
+    "cleaned": true,
+    "original_length": 47,
+    "cleaned_length": 41,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

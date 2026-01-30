@@ -1,0 +1,61 @@
+{
+  "document_id": "D303484",
+  "url": "https://papersofabrahamlincoln.org/documents/D303484",
+  "metadata": {
+    "date": "1833-04-20",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Veterans",
+      "Military service, Voluntary",
+      "Militia",
+      "Soldiers",
+      "Wounds and injuries"
+    ],
+    "type": "Certificate"
+  },
+  "content": {
+    "full_text": "Certificate of Service and Injury for William Hohimer, 20 April 18331 I do hereby certify thatWilliam Hohimer(a private in the company which I had the honor to command in thefourth regimentof the Brigade2of mounted volunteers— commanded by Brigadier GeneralSamuel Whitesideon anexpeditiondirected against theSac&Foxindians in the Spring and Summer of 1832—) received a wound^in the body^while in said service which at the time and for some days afterwards was considdered mortal—3",
+    "paragraphs": [
+      "Certificate of Service and Injury for William Hohimer, 20 April 18331 I do hereby certify thatWilliam Hohimer(a private in the company which I had the honor to command in thefourth regimentof the Brigade2of mounted volunteers— commanded by Brigadier GeneralSamuel Whitesideon anexpeditiondirected against theSac&Foxindians in the Spring and Summer of 1832—) received a wound^in the body^while in said service which at the time and for some days afterwards was considdered mortal—3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers."
+    ],
+    "footnotes": [
+      {
+        "id": "XA00E0917-3138-478D-9897-30902B34759A",
+        "text": "1Abraham Lincoln wrote and signed this document; he also wrote the certification signed\n                  by Moffett on page one."
+      },
+      {
+        "id": "X957A0673-E5AE-4DA3-A8A3-810446221525",
+        "text": "2“Brigadier” changed to “Brigade”."
+      },
+      {
+        "id": "X8ACBB627-75FD-41C6-AAA6-C41794DBEB80",
+        "text": "3At the outbreak of theBlack Hawk War,Abraham Lincolnvolunteered for theIllinoisstate militia. On April 21, 1832, Lincoln and other men from theNew Salemarea were mustered into a company in the 31st Regiment of Illinois Mounted Volunteers,\n                  and the members of the company elected Lincoln as their Captain. When his month of\n                  service ended, Lincoln re-enlisted twice, for twenty and thirty days respectively,\n                  serving as a Private both times.Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Service and Injury for William Hohimer, 20 April 18331"
+      },
+      {
+        "type": "paragraph",
+        "text": "I do hereby certify thatWilliam Hohimer(a private in the company which I had the honor to command in thefourth regimentof the Brigade2of mounted volunteers— commanded by Brigadier GeneralSamuel Whitesideon anexpeditiondirected against theSac&Foxindians in the Spring and Summer of 1832—) received a wound^in the body^while in said service which at the time and for some days afterwards was considdered mortal—3"
+      }
+    ],
+    "word_count": 70
+  },
+  "extraction_date": "2025-12-26 19:46:25",
+  "word_count": 70,
+  "processing": {
+    "cleaned": true,
+    "original_length": 480,
+    "cleaned_length": 480,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "document_id": "D200356",
+  "url": "https://papersofabrahamlincoln.org/documents/D200356",
+  "metadata": {
+    "date": "1844-05-02",
+    "authors": [
+      "Dresser, Charles",
+      "Dresser, Louisa W."
+    ],
+    "keywords": [
+      "Land titles--Registration and transfer",
+      "Real property",
+      "Deeds"
+    ],
+    "type": "Deed",
+    "extracted_date": "1844-05-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "deed",
+      "dresser",
+      "charles",
+      "louisa",
+      "abraham",
+      "lincoln",
+      "warrantee",
+      "relinquishment",
+      "dower",
+      "testimony",
+      "whereof",
+      "said",
+      "partyof",
+      "first",
+      "part"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Deed of Charles Dresser and Louisa W. Dresser to Abraham Lincoln, 2 May 18441 WARRANTEE DEED, With Relinquishment of Dower. In Testimony Whereof, the said partyof the first part havehereunto settheirhandsand sealsthe day and year aforesaid.",
+    "paragraphs": [
+      "Deed of Charles Dresser and Louisa W. Dresser to Abraham Lincoln, 2 May 18441 WARRANTEE DEED, With Relinquishment of Dower. In Testimony Whereof, the said partyof the first part havehereunto settheirhandsand sealsthe day and year aforesaid."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 11 February 1861,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1861-02-11.",
+      "Christopher A. Schnell, “Wives, Widows, and Will Makers: Woman and the Law of Property,”\n                     inIn Tender Consideration: Women, Families, and the Law in Abraham Lincoln’s Illinois, ed. Daniel W. Stowell (Urbana: University of Illinois Press, 2003), 129, 133; Joan\n                     R. Gundersen, “Women and Inheritance in America,”  inInheritance and Wealth in America, ed. Robert K. Miller Jr. and Stephen J. McNamee (New York: Springer Science and\n                     Business Media, 1998), 94."
+    ],
+    "footnotes": [
+      {
+        "id": "XCF2028F9-3338-4A06-A2BC-61F68146CBA2",
+        "text": "1Abraham Lincoln filled in the blanks of this partially printed document. Charles and\n                  Louisa Dresser signed their own names.Anothertext, from the deed record book, was written by Benjamin Talbott."
+      },
+      {
+        "id": "X9FEB2F4E-3CD2-4082-84B9-50124E25759C",
+        "text": "2The lot described here contained the only home Lincoln ever owned. \n                  He and his family lived there until he was elected president and moved toWashington, DC, on February 11, 1861.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 11 February 1861,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1861-02-11."
+      },
+      {
+        "id": "X8BC94D09-D4B5-43A2-95A7-C577E269111F",
+        "text": "3Lavely signed his own name."
+      },
+      {
+        "id": "X4F07EBFC-E644-414E-B38C-5AC6D4D37543",
+        "text": "4Printed “husbond” changed to handwritten “husband”."
+      },
+      {
+        "id": "X54072050-DF75-41CD-B697-9B8DADC54F0D",
+        "text": "5“Dower” is a term that refers to the legally protected lifetime right of a woman to\n                  one-third of her husband’s lands and personal property. Dower was intended to provide\n                  for the support of a widow and her children. Because of this, a husband could not\n                  convey property without the consent of his wife.Christopher A. Schnell, “Wives, Widows, and Will Makers: Woman and the Law of Property,”\n                     inIn Tender Consideration: Women, Families, and the Law in Abraham Lincoln’s Illinois, ed. Daniel W. Stowell (Urbana: University of Illinois Press, 2003), 129, 133; Joan\n                     R. Gundersen, “Women and Inheritance in America,”  inInheritance and Wealth in America, ed. Robert K. Miller Jr. and Stephen J. McNamee (New York: Springer Science and\n                     Business Media, 1998), 94."
+      },
+      {
+        "id": "X2DE7204B-FB32-48CC-A396-A79E6E9553AA",
+        "text": "6Talbott wrote and signed this certification."
+      },
+      {
+        "id": "X056CCCC2-E0E8-474A-9543-7EE0102ABBB0",
+        "text": "7Talbott wrote this docketing."
+      },
+      {
+        "id": "X0001EE35-4ABD-4451-B175-F951490768B0",
+        "text": "8Talbott wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Deed of Charles Dresser and Louisa W. Dresser to Abraham Lincoln, 2 May 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "WARRANTEE DEED, With Relinquishment of Dower."
+      },
+      {
+        "type": "paragraph",
+        "text": "In Testimony Whereof, the said partyof the first part havehereunto settheirhandsand sealsthe day and year aforesaid."
+      }
+    ],
+    "word_count": 36
+  },
+  "extraction_date": "2025-12-26 20:20:39",
+  "word_count": 36,
+  "processing": {
+    "cleaned": true,
+    "original_length": 240,
+    "cleaned_length": 240,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

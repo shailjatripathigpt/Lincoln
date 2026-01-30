@@ -1,0 +1,33 @@
+{
+  "basic_stats": {
+    "total_words": 187,
+    "total_sentences": 11,
+    "avg_sentence_length": 17.0,
+    "avg_word_length": 4.693989071038251,
+    "lexical_diversity": 0.6256684491978609
+  },
+  "pos_distribution": {
+    "PROPN": 0.06417112299465241,
+    "NOUN": 0.7540106951871658,
+    "NUM": 0.03208556149732621,
+    "DET": 0.06417112299465241,
+    "VERB": 0.058823529411764705,
+    "ADJ": 0.016042780748663103,
+    "ADV": 0.0106951871657754
+  },
+  "lincoln_patterns": {
+    "biblical_allusions": 0,
+    "legal_terms": 1,
+    "metaphors": 0,
+    "parallel_structure": 9,
+    "repetition": 12,
+    "humble_tone": 1,
+    "firm_conviction": 1
+  },
+  "readability": {
+    "flesch_reading_ease": 62.49703557312256,
+    "flesch_kincaid_grade": 8.697766798418971
+  },
+  "document_id": "D210629",
+  "document_type": "Letter"
+}

@@ -1,0 +1,78 @@
+{
+  "document_id": "D200224",
+  "url": "https://papersofabrahamlincoln.org/documents/D200224",
+  "metadata": {
+    "date": "1840-06-17",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Prentiss, William",
+      "Strong, Schuyler"
+    ],
+    "keywords": [
+      "Public works--Accounting",
+      "Lawyers--Fees"
+    ],
+    "type": "Receipt",
+    "extracted_date": "1840-06-17",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "public",
+      "board",
+      "works",
+      "receipt",
+      "schuyler",
+      "strong",
+      "abraham",
+      "lincoln",
+      "john",
+      "hogan",
+      "june",
+      "receivedspringfieldjune",
+      "ofjohn",
+      "hogancomr",
+      "one"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Receipt of Schuyler Strong and Abraham Lincoln to John Hogan, 17 June 18401 ReceivedSpringfieldJune 17th1840 ofJohn HoganComr of the Board of Public Works, One Hundred and fifty Dollars in full for the above\n\norder of the Board Pub works—",
+    "paragraphs": [
+      "Receipt of Schuyler Strong and Abraham Lincoln to John Hogan, 17 June 18401 ReceivedSpringfieldJune 17th1840 ofJohn HoganComr of the Board of Public Works, One Hundred and fifty Dollars in full for the above",
+      "order of the Board Pub works—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "An Act to Establish and Maintain a General System of Internal Improvements;An Act to Provide for the Settlement of Debts and Liabilities Incurred on Account\n                        of Internal Improvements in the State of Illinois; Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/NarrativeOverview.html."
+    ],
+    "footnotes": [
+      {
+        "id": "X55F8D3C6-3B2D-4D71-9D88-4F9256FAAA33",
+        "text": "1William Prentiss wrote the receipt in its entirety.  Schuyler Strong signed his and\n                  Abraham Lincoln’s names to the accompanying receipt."
+      },
+      {
+        "id": "X72936393-5BFE-49C0-9B60-4E66B80873B5",
+        "text": "2In February 1840, theIllinois General Assemblyreconfigured the Board of Public Works, which oversaw, promoted, maintained, supervised,\n                  and directed thesystem of internal improvementscreated by theInternal Improvement Act. The newlawchanged the board from seven to just three commissioners, elected by the General\n                  Assembly, who would keep an office inSpringfield. The law required the previous commissioners to settle accounts and to deliver all\n                  property and records to the new Board headquartered in Springfield. It is possible\n                  that Lincoln and Strong provided legal work related to this effort. In the late 1830s,\n                  Lincoln generally charged from $5-10 for each case he handled. Therefore, the $50\n                  fee here likely represented a significant amount of legal work for him.An Act to Establish and Maintain a General System of Internal Improvements;An Act to Provide for the Settlement of Debts and Liabilities Incurred on Account\n                        of Internal Improvements in the State of Illinois; Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/NarrativeOverview.html."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Schuyler Strong and Abraham Lincoln to John Hogan, 17 June 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "ReceivedSpringfieldJune 17th1840 ofJohn HoganComr[Commissioner] of the Board of Public Works, One Hundred and fifty Dollars in full for the above\n               order of the Board Pub works—"
+      }
+    ],
+    "word_count": 39
+  },
+  "extraction_date": "2025-12-26 20:12:10",
+  "word_count": 39,
+  "processing": {
+    "cleaned": true,
+    "original_length": 266,
+    "cleaned_length": 238,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

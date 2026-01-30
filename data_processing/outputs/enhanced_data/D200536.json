@@ -1,0 +1,60 @@
+{
+  "document_id": "D200536",
+  "url": "https://papersofabrahamlincoln.org/documents/D200536",
+  "metadata": {
+    "date": "1849-XX-XX",
+    "authors": [
+      "Baker, Edward D.",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-XX-XX",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "fragment",
+      "abraham",
+      "lincoln",
+      "edward",
+      "baker",
+      "unknown"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Fragment of Abraham Lincoln and Edward D. Baker to Unknown, 1",
+    "paragraphs": [
+      "Fragment of Abraham Lincoln and Edward D. Baker to Unknown, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:18, n1;Abraham Lincoln and Edward D. Baker to Thomas Ewing;Edward D. Baker and Abraham Lincoln to Thomas Ewing."
+    ],
+    "footnotes": [
+      {
+        "id": "XB928226D-B93C-4638-B346-9E55F697FAEE",
+        "text": "1Abraham Lincoln wrote the text and signed his name.  Edward D. Baker signed this own\n                  name.The actual date of this fragment is unknown.  Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln,  placed the entire letter, of which this fragment is the last page, in 1849, resting\n                  on the assumption that Lincoln wrote it during the competition for patronage that\n                  followed the inauguration of Zachary Taylor as president.  Lincoln’s and Baker’s other\n                  joint correspondence during this period offers ample evidence for Basler’s conjecture,\n                  and the editors have retained Basler’s date.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:18, n1;Abraham Lincoln and Edward D. Baker to Thomas Ewing;Edward D. Baker and Abraham Lincoln to Thomas Ewing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fragment of Abraham Lincoln and Edward D. Baker to Unknown, [1849]1"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 21:21:24",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 67,
+    "cleaned_length": 61,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

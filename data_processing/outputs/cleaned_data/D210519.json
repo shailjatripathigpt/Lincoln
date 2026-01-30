@@ -1,0 +1,74 @@
+{
+  "document_id": "D210519",
+  "url": "https://papersofabrahamlincoln.org/documents/D210519",
+  "metadata": {
+    "date": "1849-06-11",
+    "authors": [
+      "Stipp, George W."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "George W. Stipp to Abraham Lincoln, 11 June 18491 Inclosed you will find a letter to thePresident of the United States, signed by many of your numerous friends of the place.2Any number could have been procured, but enough thought to be attached to it.\n\nWe all are anxious for your success, and hope to hear of your appointment soon.3Judge Davisinformed me had written in your favor while on the circuit, therefore did not sign\n\nthis letter– Genl. Gridley& myself joined in a letter to the Hon.Thomas Ewing, Secty. of theHome Department, which we hope will do you at least no harm. \"Push\" is the motto that rarely fails,\n\nwhere worth and merit are the livers, which we think you have. May success attend you4",
+    "paragraphs": [
+      "George W. Stipp to Abraham Lincoln, 11 June 18491 Inclosed you will find a letter to thePresident of the United States, signed by many of your numerous friends of the place.2Any number could have been procured, but enough thought to be attached to it.",
+      "We all are anxious for your success, and hope to hear of your appointment soon.3Judge Davisinformed me had written in your favor while on the circuit, therefore did not sign",
+      "this letter– Genl. Gridley& myself joined in a letter to the Hon.Thomas Ewing, Secty. of theHome Department, which we hope will do you at least no harm. \"Push\" is the motto that rarely fails,",
+      "where worth and merit are the livers, which we think you have. May success attend you4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+    ],
+    "footnotes": [
+      {
+        "id": "X07AB1A85-4A7F-4447-AECC-A45E88879B59",
+        "text": "1George W. Stipp wrote and signed this letter."
+      },
+      {
+        "id": "XD075C233-79F0-4A39-9D6F-02FB7C06061A",
+        "text": "2The enclosed paper that Stipp references was not found with this letter, and has not\n                  been located."
+      },
+      {
+        "id": "X3D037AAD-3E83-43D9-9A16-9391D0280463",
+        "text": "3Stipp references Abraham Lincoln’s campaign to succeedRichard M. Youngas commissioner of theU.S. General Land Office.  Originally,Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere among the candidates to succeed Young. Lincoln entered the competition after\n                  learning that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair. In early June 1849, Lincoln sent a series of letters to numerous people requesting\n                  letters in support of his candidacy. Presumably, Lincoln made a similar request of\n                  Stipp, although no such letter has been located. The U.S. General Land Office was\n                  within theDepartment of the Interior, so Secretary of the Interior Thomas Ewing had authority over the appointment, but\n                  the final decision was in the hands of PresidentZachary Taylor, therefore some of Lincoln’s supporters addressed their letters of reference directly\n                  to Taylor.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "X1E6A1F7F-D93D-4C41-8923-5C03A5B1F100",
+        "text": "4Ultimately, neither Morrison, Edwards, nor Lincoln received the appointment; the job\n                  went to Butterfield instead. See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "George W. Stipp to Abraham Lincoln, 11 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Inclosed you will find a letter to thePresident of the United States, signed by many of your numerous friends of the place.2Any number could have been procured, but enough thought  to be attached to it. \n               We all are anxious for your success, and hope to hear of your appointment soon.3Judge Davisinformed me had written in your favor while on the circuit, therefore did not sign\n               this letter–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Genl. Gridley& myself joined in a letter to the Hon.Thomas Ewing, Secty.[Secretary] of theHome Department, which we hope will do you at least no harm.  \"Push\" is the motto that rarely fails,\n               where worth and merit are the livers, which we think you have."
+      },
+      {
+        "type": "paragraph",
+        "text": "May success attend you4"
+      }
+    ],
+    "word_count": 124
+  },
+  "extraction_date": "2025-12-26 21:17:11",
+  "word_count": 124,
+  "processing": {
+    "cleaned": true,
+    "original_length": 763,
+    "cleaned_length": 707,
+    "preserved_originality": true
+  }
+}

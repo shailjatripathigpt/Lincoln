@@ -1,0 +1,51 @@
+{
+  "document_id": "D210526",
+  "url": "https://papersofabrahamlincoln.org/documents/D210526",
+  "metadata": {
+    "date": "1849-06-13",
+    "authors": [
+      "Shelby, John (Nashville, TN)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "John Shelby to Abraham Lincoln, 13 June 18491 In the absence of my son-in lawW Barrow, I took the liberty of opening your  letter 5thinstant.2He is now inBostonand may probably return viaWashington, but the most^certain^mode of obtaining  a letter from him, is to write to him atPhiladelphia, to the care ofC. C. Norvell.3",
+    "paragraphs": [
+      "John Shelby to Abraham Lincoln, 13 June 18491",
+      "In the absence of my son-in lawW Barrow, I took the liberty of opening your  letter 5thinstant.2He is now inBostonand may probably return viaWashington, but the most^certain^mode of obtaining  a letter from him, is to write to him atPhiladelphia, to the care ofC. C. Norvell.3"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X11152F56-4E45-436A-9ADD-260CF114588E",
+        "text": "1John Shelby wrote and signed this letter."
+      },
+      {
+        "id": "XB09EAE9F-ABB8-44C8-8DFE-FE08DE3F96DC",
+        "text": "2Abraham Lincoln’s letter to Washington Barrow has not been located. Most likely, Lincoln\n                  wrote Barrow about the battle over who would replaceRichard M. Youngas commissioner of theU.S. General Land Office.  See theGeneral Land Office Affair."
+      },
+      {
+        "id": "X13CA7206-5BA4-460C-A5E8-05EDD1691508",
+        "text": "3Lincoln’s response to this letter, if he wrote one, has not been located.  No subsequent\n                  letter from Lincoln to Barrow, care of Caleb C. Norvell, has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John Shelby to Abraham Lincoln, 13 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "In the absence of my son-in lawW Barrow, I took the liberty of opening your  letter 5thinstant.2He is now inBostonand may probably return viaWashington, but the most^certain^mode of obtaining  a letter from him, is to write to him atPhiladelphia, to the care ofC. C. Norvell.3"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:17:57",
+  "word_count": 53
+}

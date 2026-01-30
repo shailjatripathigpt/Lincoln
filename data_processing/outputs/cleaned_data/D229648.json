@@ -1,0 +1,85 @@
+{
+  "document_id": "D229648",
+  "url": "https://papersofabrahamlincoln.org/documents/D229648",
+  "metadata": {
+    "date": "1849-02-28",
+    "authors": [
+      "Webster, Daniel"
+    ],
+    "keywords": [],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Daniel Webster to Abraham Lincoln, 28 February 1 MrEwbankis yet in doubt.2If the enclosed statement of the\n\nclaim will satisfy our friends,3I have reason to think a Patent may be obtained—4 A. LINCOLN. MANNER OF BOUYING VESSELS. No. 6,469.Patented May 22, 1849.5 THE NORRIS PETERS CO. PHOTO-LITHO., WASHINGTON, D.C.6",
+    "paragraphs": [
+      "Daniel Webster to Abraham Lincoln, 28 February 1 MrEwbankis yet in doubt.2If the enclosed statement of the",
+      "claim will satisfy our friends,3I have reason to think a Patent may be obtained—4 A. LINCOLN. MANNER OF BOUYING VESSELS. No. 6,469.Patented May 22, 1849.5 THE NORRIS PETERS CO. PHOTO-LITHO., WASHINGTON, D.C.6"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Jason Emerson,Lincoln the Inventor(Carbondale: Southern Illinois University Press, 2009), 88, n49.",
+      "Jason Emerson,Lincoln the Inventor, 17-18."
+    ],
+    "footnotes": [
+      {
+        "id": "X95375CA7-E836-458A-9807-B73BF80FE5C5",
+        "text": "1Daniel Webster wrote the text of this letter in its entirety."
+      },
+      {
+        "id": "XD9EB8A0D-5420-415D-BA9C-D8091FE6F2BA",
+        "text": "2Possibly a reference to Thomas Ewbank’s candidacy for commissioner of patents.  PresidentZachary Taylorwould appoint him commissioner in May 1849.Jason Emerson,Lincoln the Inventor(Carbondale: Southern Illinois University Press, 2009), 88, n49."
+      },
+      {
+        "id": "X12A3A9CB-08B7-42E6-A326-AD662E157439",
+        "text": "3The statement is not extant."
+      },
+      {
+        "id": "X0EBA48A6-F3ED-4EDE-A5B9-ABBAEF28928F",
+        "text": "4Lincoln lore posits that Abraham Lincoln sought Webster’s help in securing a patent\n                  for his invention to buoy ships over river shoals and sandbars. For many historians,\n                  this cryptic letter reinforces that postulation.  While the date makes it plausible\n                  to conclude that it is referring to Lincoln’s patent application--he was actively\n                  seeking a patent during this time--there is no veritable proof.   Lincoln submitted\n                  his patent application to theU.S. Patent Officeon March 10, 1849, and On May 22, the Patent Office approved his application and\n                  issued him patent number 6,469.Jason Emerson,Lincoln the Inventor, 17-18."
+      },
+      {
+        "id": "SPM482037184902280000_1",
+        "text": "5Three diagrams appear on the page."
+      },
+      {
+        "id": "SPM108813184902280000_2",
+        "text": "6This sentence is printed at the bottom of the page."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Daniel Webster to Abraham Lincoln, 28 February [1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrEwbankis yet in doubt.2If the enclosed statement of the\n               claim will satisfy our friends,3I have reason to think a Patent may be obtained—4"
+      },
+      {
+        "type": "paragraph",
+        "text": "A. LINCOLN."
+      },
+      {
+        "type": "paragraph",
+        "text": "MANNER OF BOUYING VESSELS."
+      },
+      {
+        "type": "paragraph",
+        "text": "No. 6,469.Patented May 22, 1849.5"
+      },
+      {
+        "type": "paragraph",
+        "text": "THE NORRIS PETERS CO. PHOTO-LITHO., WASHINGTON, D.C.6"
+      }
+    ],
+    "word_count": 49
+  },
+  "extraction_date": "2025-12-26 20:37:04",
+  "word_count": 49,
+  "processing": {
+    "cleaned": true,
+    "original_length": 336,
+    "cleaned_length": 316,
+    "preserved_originality": true
+  }
+}

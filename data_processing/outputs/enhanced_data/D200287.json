@@ -1,0 +1,75 @@
+{
+  "document_id": "D200287",
+  "url": "https://papersofabrahamlincoln.org/documents/D200287",
+  "metadata": {
+    "date": "1841-12-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Lawyers--Fees"
+    ],
+    "type": "Receipt",
+    "extracted_date": "1841-12-06",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "kellar",
+      "tostuart",
+      "receipt",
+      "december",
+      "decr",
+      "received",
+      "ofa",
+      "ballance",
+      "his",
+      "note",
+      "one",
+      "half",
+      "account"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Receipt of Abraham Lincoln to Abraham H. Kellar, 6 December 18411 Decr 6th1841. Received ofA. H. Kellar$12—50. the ballance of his note toStuart & Lincoln, and for one half of which I am to account toStuart—2",
+    "paragraphs": [
+      "Receipt of Abraham Lincoln to Abraham H. Kellar, 6 December 18411 Decr 6th1841. Received ofA. H. Kellar$12—50. the ballance of his note toStuart & Lincoln, and for one half of which I am to account toStuart—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "W. & C. Fellows v. Kellar & Snyder, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=135381."
+    ],
+    "footnotes": [
+      {
+        "id": "X715C5511-8A30-4185-BAA9-62F6354C52A7",
+        "text": "1Abraham Lincoln wrote and signed this document."
+      },
+      {
+        "id": "X7E89C3F1-2137-4CB9-8B0E-4B03CD682B9E",
+        "text": "2Kellar andAlbert G. Snyder(of the businessA. G. Snyder & Co.) gave two promissory notes to Willis Oglesby (their third business partner), totalling\n                  $937.32. Oglesby assigned the notes to W. & C. Fellows. After Kellar and Snyder failed to pay, W. & C. Fellows retained Stuart & Lincoln\n                  in October 1838, and sued in the Macon County Circuit Court to collect the debt, plus\n                  $100 in damages. The parties reached a settlement in March 1839, and the court dismissed\n                  the case. In addition to the $12.50 mentioned in this document, Kellar also assigned\n                  to Abraham Lincoln a debt, amount unspecified, owed to him by John Johnson.W. & C. Fellows v. Kellar & Snyder, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=135381."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Abraham Lincoln to Abraham H. Kellar, 6 December 18411"
+      },
+      {
+        "type": "paragraph",
+        "text": "Decr[December] 6th1841. Received ofA. H. Kellar$12—50. the ballance of his note toStuart & Lincoln, and for one half of which I am to account toStuart—2"
+      }
+    ],
+    "word_count": 36
+  },
+  "extraction_date": "2025-12-26 20:16:40",
+  "word_count": 36,
+  "processing": {
+    "cleaned": true,
+    "original_length": 218,
+    "cleaned_length": 208,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

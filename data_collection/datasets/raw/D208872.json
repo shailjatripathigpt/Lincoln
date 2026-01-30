@@ -1,0 +1,54 @@
+{
+  "document_id": "D208872",
+  "url": "https://papersofabrahamlincoln.org/documents/D208872",
+  "metadata": {
+    "date": "1840-11-09",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Counties",
+      "Presidential candidates",
+      "Presidents--Election"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt of Abraham Lincoln for Bringing Election Returns,  9 November 18401 No.3322 Received of the Auditor a Warrant on the—State Bank of IllinoisforNineteen —dollars and—cents, infullforbringingelectionreturns ofPresident H.fromLaurence County—2",
+    "paragraphs": [
+      "Receipt of Abraham Lincoln for Bringing Election Returns,  9 November 18401",
+      "No.3322",
+      "Received of the Auditor a Warrant on the—State Bank of IllinoisforNineteen —dollars and—cents, infullforbringingelectionreturns ofPresident H.fromLaurence County—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to William G. Anderson;William G. Anderson to Abraham Lincoln; Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 118-19;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 November 1840,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1840-11-05."
+    ],
+    "footnotes": [
+      {
+        "id": "XE90ADBA0-D337-4736-81DF-E05A6F0BCF7F",
+        "text": "1Abraham Lincoln affixed his signature on this receipt."
+      },
+      {
+        "id": "X094A11F3-B907-4A45-AA1C-F9857397EF0E",
+        "text": "2Lincoln’s correspondence withWilliam G. Andersonshows that Lincoln was inLawrenceville, county seat ofLawrence County, on October 30, 1840, as Lincoln stumpedIllinoison behalf ofWilliam Henry Harrisonand theWhig Partyin the1840 election.  On November 5, Lincoln was selected to bring the election returns from Lawrence\n                  County toSpringfieldto be filed with the office of the secretary of state.  Harrison carried Lawrence\n                  County by 676 votes to 597 votes forMartin Van Buren--though Lincoln reported 675 votes for Harrison.Abraham Lincoln to William G. Anderson;William G. Anderson to Abraham Lincoln; Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 118-19;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 November 1840,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1840-11-05."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Abraham Lincoln for Bringing Election Returns,  9 November 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "No.3322"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received of the Auditor a Warrant on the—State Bank of IllinoisforNineteen —dollars and—cents, infullforbringingelectionreturns ofPresident H.fromLaurence County—2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:13:05",
+  "word_count": 29
+}

@@ -1,0 +1,72 @@
+{
+  "document_id": "D200466",
+  "url": "https://papersofabrahamlincoln.org/documents/D200466",
+  "metadata": {
+    "date": "1848-03-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Post roads",
+      "Postal service"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Richard S. Thomas, 1 March 18481 Your letter of the 12thFeb.[February], together with thepetitionfor a mail route was received last night. Strange it was on the road so long. I shall\n               present the petition, and give it my best attention.2 Your second letter was received; and I thought I had answered it.3 I am not a candidate for re-nomination or election–4 Excuse the shortness of this letter; I am really very much hurried–",
+    "paragraphs": [
+      "Abraham Lincoln to Richard S. Thomas, 1 March 18481",
+      "Your letter of the 12thFeb.[February], together with thepetitionfor a mail route was received last night. Strange it was on the road so long. I shall\n               present the petition, and give it my best attention.2",
+      "Your second letter was received; and I thought I had answered it.3",
+      "I am not a candidate for re-nomination or election–4",
+      "Excuse the shortness of this letter; I am really very much hurried–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1848. 30th Cong., 1st sess., 480-81.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:271; Howard W. Allen and\n                     Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 8, 126."
+    ],
+    "footnotes": [
+      {
+        "id": "X5F0DFEF3-9788-43D7-BC5A-B1B0511A492B",
+        "text": "1This letter is attributed to Abraham Lincoln, but is not in his hand.  The original\n                  letter in Lincoln’s hand has not been located."
+      },
+      {
+        "id": "XC15B5E8D-0D94-43A4-9A6B-D314711621F3",
+        "text": "2Richard S. Thomas’s letter has not been located.  The editors located thepetitionin the records of theU.S. House of Representatives.Dated January 17, 1848, the petition was from citizens ofCass Countyrequesting a mail route between Virginia andPetersburg.  Lincoln endorsed thepetitionand introduced it in the House on March 1.  The House referred it to the Committee\n                  on the Post Office and Post Roads, of which Lincoln was a member.  The House included\n                  the requested route in theactpassed in August 1848 establishing postal routes.U.S. HouseJournal. 1848. 30th Cong., 1st sess., 480-81."
+      },
+      {
+        "id": "X115A0243-1098-4221-A416-EBCF802D09DC",
+        "text": "3Thomas’s second letter has not been located."
+      },
+      {
+        "id": "X6F5E8B90-C29E-4755-867B-793B5C5518DB",
+        "text": "4Lincoln represented the Seventh Congressional District, which included the counties\n                  ofCass,Logan,Marshall,Mason,Menard,Morgan,Putnam,Sangamon,Scott,Tazewell, andWoodford. He had pledged to serve only one term, but manyWhigsin the district favored his renomination. Lincoln was not averse to running again,\n                  butStephen T. Loganreceived the nomination. In August 1848, Logan would lose toThomas L. Harrisin a close race.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:271; Howard W. Allen and\n                     Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 8, 126."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Richard S. Thomas, 1 March 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 12thFeb.[February], together with thepetitionfor a mail route was received last night. Strange it was on the road so long. I shall\n               present the petition, and give it my best attention.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your second letter was received; and I thought I had answered it.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am not a candidate for re-nomination or election–4"
+      },
+      {
+        "type": "paragraph",
+        "text": "Excuse the shortness of this letter; I am really very much hurried–"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:27:46",
+  "word_count": 76
+}

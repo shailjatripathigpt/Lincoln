@@ -1,0 +1,74 @@
+{
+  "document_id": "D210425",
+  "url": "https://papersofabrahamlincoln.org/documents/D210425",
+  "metadata": {
+    "date": "1849-04-27",
+    "authors": [
+      "Kirby, Eliab B."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "eliab",
+      "kirby",
+      "abraham",
+      "lincoln",
+      "april",
+      "lynnville",
+      "ill"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Eliab B. Kirby to Abraham Lincoln, 27 April 18491 Lynnville Ill.–30thApril 1849.",
+    "paragraphs": [
+      "Eliab B. Kirby to Abraham Lincoln, 27 April 18491 Lynnville Ill.–30thApril 1849."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls,  Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:178, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on  the Thirtieth September, 1847(Washington, DC: J. & G. S. Gideon, 1847), 426*.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 492*;Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls,  Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:178, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *553;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 522*."
+    ],
+    "footnotes": [
+      {
+        "id": "X069A5E75-5FF8-4515-9805-DAABE0026474",
+        "text": "1Eliab B. Kirby wrote and signed this letter.  The addresses written on the second\n                  sheet, which was folded to create an envelope, are in a different hand."
+      },
+      {
+        "id": "X6F1EC3BF-CC00-4C0B-AC10-B9E54211A828",
+        "text": "2John Argust was the incumbent postmaster of Winchester, having received the appointment\n                  in July 1845.Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls,  Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:178, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on  the Thirtieth September, 1847(Washington, DC: J. & G. S. Gideon, 1847), 426*."
+      },
+      {
+        "id": "XA48EDB05-2D92-4D78-83F1-C4180DB46EB3",
+        "text": "3Abraham Lincoln’s response, if he penned one, has not been located.Argust remained postmaster until September 1849, when Richard C. Cumbey replaced him.\n                  Cumbey would hold the position until June 1853, when Argust regained the office.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 492*;Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls,  Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:178, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *553;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 522*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Eliab B. Kirby to Abraham Lincoln, 27 April 18491"
+      },
+      {
+        "type": "description",
+        "text": "Lynnville Ill.–30thApril 1849."
+      }
+    ],
+    "word_count": 12
+  },
+  "extraction_date": "2025-12-26 20:41:36",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 80,
+    "cleaned_length": 80,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

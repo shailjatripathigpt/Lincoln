@@ -1,0 +1,56 @@
+{
+  "document_id": "D200175",
+  "url": "https://papersofabrahamlincoln.org/documents/D200175",
+  "metadata": {
+    "date": "1839-05-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Circuit courts",
+      "Clerks"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Alexander P. Field, 11 May 18391 At the late session anactpassed both Houses oflegislaturefor the benefit of the clerks of theCircuit CourtsofSangamon,Hamilton, andFayettecounties. I can see nothing of this act in the printed laws, one copy of which has\n\nreached us. I know it passed bothHouses, but I am a little suspicious it has not been duly acted on by theCouncil of Revision. Will you<Page 2>please learn and write us what condition it is in, and also send us a copy of the\n\nact? Mr.Butlerwill pay the charge on sight.2",
+    "paragraphs": [
+      "Abraham Lincoln to Alexander P. Field, 11 May 18391 At the late session anactpassed both Houses oflegislaturefor the benefit of the clerks of theCircuit CourtsofSangamon,Hamilton, andFayettecounties. I can see nothing of this act in the printed laws, one copy of which has",
+      "reached us. I know it passed bothHouses, but I am a little suspicious it has not been duly acted on by theCouncil of Revision. Will you<Page 2>please learn and write us what condition it is in, and also send us a copy of the",
+      "act? Mr.Butlerwill pay the charge on sight.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     353, 410, 435, 492, 595, 597; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 407, 485, 491-92, 498, 507; “An Act for the Relief\n                     of the Clerks of the Circuit Courts of Sangamon, Clinton, Fayette and Franklin counties,”\n                     9 December 1839,Laws of Illinois(1840), 156."
+    ],
+    "footnotes": [
+      {
+        "id": "X68DDA7B0-12C5-4B02-A2AF-413C24007281",
+        "text": "1The original letter has not been located. John G. Nicolay, John Hay, and Roy P. Basler\n                  all attributed the text to Abraham Lincoln."
+      },
+      {
+        "id": "XDB8E6B3F-58BB-4ABB-993F-1D716BBEB0FA",
+        "text": "2On February 6, 1839,LincolnintroducedHB 272, originally titled “A Bill for the Relief of the Clerk of theCircuit Court of Sangamon County,” in theHouse of Representatives. The House referred the bill to a select committee that included Lincoln. Lincoln\n                  of the select committee reported back the bill on February 15 withamendments, in which the House concurred. On February 23, the House passed the bill as amended,\n                  on Lincoln’s motion amending the title so as to read “A Bill for the Relief of the\n                  Clerks of theCircuit Courtsof Sangamon,Clinton, Fayette, andFranklinCounties.” On March 1, theSenateindefinitely postponed further consideration. The Senate later re-considered that\n                  vote, referring the bill to a select committee. The select committee reported back\n                  the bill on March 2 with anamendmentin which the Senate concurred. The Senate passed the bill as amended. That same day,\n                  the House concurred with the Senate amendments. The House and Senate laid the bill\n                  before the Council of Revision, but the Council did not have time to act on the bill\n                  before the session ended in March 4.  By law, ten days not having intervened before\n                  the adjournment of the 1st session, and the Council having no objections, the act\n                  became law on December 9, the first day of the special session.Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     353, 410, 435, 492, 595, 597; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 407, 485, 491-92, 498, 507; “An Act for the Relief\n                     of the Clerks of the Circuit Courts of Sangamon, Clinton, Fayette and Franklin counties,”\n                     9 December 1839,Laws of Illinois(1840), 156.The Secretary of State’s office sent areplyto Lincoln on May 17."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Alexander P. Field, 11 May 18391"
+      },
+      {
+        "type": "paragraph",
+        "text": "At the late session anactpassed both Houses oflegislaturefor the benefit of the clerks of theCircuit CourtsofSangamon,Hamilton, andFayettecounties. I can see nothing of this act in the printed laws, one copy of which has\n               reached us. I know it passed bothHouses, but I am a little suspicious it has not been duly acted on by theCouncil of Revision. Will you<Page 2>please learn and write us what condition it is in, and also send us a copy of the\n               act? Mr.Butlerwill pay the charge on sight.2"
+      }
+    ],
+    "word_count": 93
+  },
+  "extraction_date": "2025-12-26 20:09:16",
+  "word_count": 93,
+  "processing": {
+    "cleaned": true,
+    "original_length": 572,
+    "cleaned_length": 544,
+    "preserved_originality": true
+  }
+}

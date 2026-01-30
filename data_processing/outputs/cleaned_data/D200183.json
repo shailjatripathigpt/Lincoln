@@ -1,0 +1,60 @@
+{
+  "document_id": "D200183",
+  "url": "https://papersofabrahamlincoln.org/documents/D200183",
+  "metadata": {
+    "date": "1839-11-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Clothing and dress"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William Doughty, 2 November 18391 I understand my coat was left in your possession— Will you please get a yard or so\n\nof coarse domestic (for which I will pay you the first time I see you) and fold the\n\ncoat in it and tie the card herein enclosed upon it, and hand the bundle to the Stage\n\ndriver on his trip towards Springfield?—2 You will verry much oblige me by doing so—",
+    "paragraphs": [
+      "Abraham Lincoln to William Doughty, 2 November 18391 I understand my coat was left in your possession— Will you please get a yard or so",
+      "of coarse domestic (for which I will pay you the first time I see you) and fold the",
+      "coat in it and tie the card herein enclosed upon it, and hand the bundle to the Stage",
+      "driver on his trip towards Springfield?—2 You will verry much oblige me by doing so—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 1: 1809-1848, by   William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     117."
+    ],
+    "footnotes": [
+      {
+        "id": "XDFC47460-8D7E-4A0D-B0C6-0598B8B8F8F8",
+        "text": "1Abraham Lincoln wrote the text of this letter and his signature."
+      },
+      {
+        "id": "XDAB2FAA9-5911-47B9-805A-D627D2380CF3",
+        "text": "2Lincolnwas inTremont, Illinois, where Doughty ran a tavern, attending theTazewell County Circuit Courtfrom September 23 to October 4. He probably left his coat during that trip.  Whether\n                  Doughty complied with his request is unknown.Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 1: 1809-1848, by   William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     117."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William Doughty, 2 November 18391"
+      },
+      {
+        "type": "paragraph",
+        "text": "I understand my coat was left in your possession—  Will you please get a yard or so\n               of coarse domestic (for which I will pay you the first time I see you) and fold the\n               coat in it and tie the card herein enclosed upon it, and hand the bundle to the Stage\n               driver on his trip towards Springfield?—2"
+      },
+      {
+        "type": "paragraph",
+        "text": "You will verry much oblige me by doing so—"
+      }
+    ],
+    "word_count": 76
+  },
+  "extraction_date": "2025-12-26 20:09:58",
+  "word_count": 76,
+  "processing": {
+    "cleaned": true,
+    "original_length": 436,
+    "cleaned_length": 393,
+    "preserved_originality": true
+  }
+}

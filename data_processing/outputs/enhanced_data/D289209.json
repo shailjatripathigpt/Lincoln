@@ -1,0 +1,68 @@
+{
+  "document_id": "D289209",
+  "url": "https://papersofabrahamlincoln.org/documents/D289209",
+  "metadata": {
+    "date": "1833-01-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Stores, Retail",
+      "Real property"
+    ],
+    "type": "Land description",
+    "extracted_date": "1833-01-XX",
+    "extracted_type": "land description",
+    "extracted_keywords": [
+      "land",
+      "description",
+      "lincoln",
+      "berry",
+      "store",
+      "undivided",
+      "half",
+      "lots",
+      "north",
+      "main",
+      "streetnew",
+      "salem"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Land Description for Lincoln-Berry Store, 1 The undivided half of lots— No— 16 & 17. North of Main StreetNew Salem",
+    "paragraphs": [
+      "Land Description for Lincoln-Berry Store, 1 The undivided half of lots— No— 16 & 17. North of Main StreetNew Salem"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 47, 49, 54; Harry E. Pratt,Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 14-15."
+    ],
+    "footnotes": [
+      {
+        "id": "X0B7773E6-867A-46CC-88F2-7DD7EC549852",
+        "text": "1Abraham  Lincoln wrote this document.In 1833, Abraham Lincoln and his partnerWilliam F. Berryran one of three general stores in the village of New Salem. WhenReuben Radford’s store was ransacked by locals in January 1833, he sold his building and stock toWilliam Greene, who immediately sold it to Lincoln and Berry. Lincoln and Berry signed promissory\n                  notes to cover the purchase of their initial business as well as Radford’s building\n                  and stock. By April 1833, Lincoln and Berry’s store had failed and in 1835 Berry died,\n                  leaving Lincoln to pay the partnership’s debts.David Herbert Donald,Lincoln(New York: Simon & Schuster, 1995), 47, 49, 54; Harry E. Pratt,Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 14-15."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Land Description for Lincoln-Berry Store, [January 1833]1"
+      },
+      {
+        "type": "description",
+        "text": "The undivided half of lots—  No— 16 & 17. North of Main StreetNew Salem"
+      }
+    ],
+    "word_count": 20
+  },
+  "extraction_date": "2025-12-26 19:46:02",
+  "word_count": 21,
+  "processing": {
+    "cleaned": true,
+    "original_length": 129,
+    "cleaned_length": 114,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

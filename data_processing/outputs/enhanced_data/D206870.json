@@ -1,0 +1,65 @@
+{
+  "document_id": "D206870",
+  "url": "https://papersofabrahamlincoln.org/documents/D206870",
+  "metadata": {
+    "date": "1849-03-11",
+    "authors": [
+      "Baker, Edward D.",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-11",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "edward",
+      "baker",
+      "abraham",
+      "lincoln",
+      "thomas",
+      "ewing",
+      "march"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Edward D. Baker and Abraham Lincoln to Thomas Ewing, 11 March 18491",
+    "paragraphs": [
+      "Edward D. Baker and Abraham Lincoln to Thomas Ewing, 11 March 18491"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to George W. Rives; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:294-95."
+    ],
+    "footnotes": [
+      {
+        "id": "XE93053EA-2B72-45BB-82A4-74A5AE3355F6",
+        "text": "1Edward D. Baker wrote and signed the letter. Abraham Lincoln signed his own name only."
+      },
+      {
+        "id": "XEC9BE3D2-D096-4BFB-8808-3E11F5EE8089",
+        "text": "2Lincoln himself eventually became a candidate for commissioner of the General Land\n                  Office, although he did not receive the appointment, the job going toJustin H. Butterfieldinstead.  See theGeneral Land Office Affair.This letter is similar in tone and content to aletterLincoln wrote to Secretary of the TreasuryWilliam M. Meredithon March 9, 1849.  As a lame-duck, one-term Congressman, Lincoln was somewhat disappointed\n                  at his inability to command appointments from the new Whig presidential administration\n                  ofZachary Taylor, for whom he had campaigned and strongly supported in thepresidential election of 1848.Abraham Lincoln to George W. Rives; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:294-95."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Edward D. Baker and Abraham Lincoln to Thomas Ewing, 11 March 18491"
+      }
+    ],
+    "word_count": 12
+  },
+  "extraction_date": "2025-12-26 20:37:25",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 67,
+    "cleaned_length": 67,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

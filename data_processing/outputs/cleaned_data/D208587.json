@@ -1,0 +1,62 @@
+{
+  "document_id": "D208587",
+  "url": "https://papersofabrahamlincoln.org/documents/D208587",
+  "metadata": {
+    "date": "1857-07-20",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Primm, James"
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Finance, Personal",
+      "Loans",
+      "Promissory notes"
+    ],
+    "type": "Promissory note"
+  },
+  "content": {
+    "full_text": "Promissory Note from James Primm to Abraham Lincoln, 20 July 18571 This note paid to me in full, by conveyance to me, March 11, 1858— of Lot 3— Block 19 inLincoln, Logan County, Illinois3",
+    "paragraphs": [
+      "Promissory Note from James Primm to Abraham Lincoln, 20 July 18571 This note paid to me in full, by conveyance to me, March 11, 1858— of Lot 3— Block 19 inLincoln, Logan County, Illinois3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lawrence B. Stringer,History of Logan County Illinois(Chicago: Pioneer, 1911), 1:222.",
+      "Lawrence B. Stringer,History of Logan County Illinois, 1:222; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 67."
+    ],
+    "footnotes": [
+      {
+        "id": "X7B2E5686-3A24-4C20-AF6F-146645FEE1E8",
+        "text": "1Abraham Lincoln wrote this note, and James Primm signed it."
+      },
+      {
+        "id": "X87B41838-F2F2-4693-A000-1FC57AE791B7",
+        "text": "2Primm was a land speculator overloaded in real estate and in need of ready money.\n                  He requested a loan of $400 from formerIllinoisgovernorJoel A. Matteson. Matteson told Primm to sign a note and have Lincoln endorse it, which he did, and\n                  then Matteson procured a loan for Primm. When the note became due, however, Primm\n                  could not pay Matteson back, so Lincoln paid it, leaving Primm owing Lincoln for the\n                  loan.Lawrence B. Stringer,History of Logan County Illinois(Chicago: Pioneer, 1911), 1:222."
+      },
+      {
+        "id": "XBD4DC058-8A76-4384-8D93-4F7B4CB6609B",
+        "text": "3Lincoln wrote this endorsement. This lot was on the south side of the courthouse square.WhenPrimmwas unable to repay Lincoln for the loan in currency, Lincoln received his payment\n                  in the form of aLogan Countyproperty owned by Primm. Lincoln maintained ownership of the property until his death.Lawrence B. Stringer,History of Logan County Illinois, 1:222; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 67."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note from James Primm to Abraham Lincoln, 20 July 18571"
+      },
+      {
+        "type": "description",
+        "text": "This note paid to me in full, by conveyance to me, March 11, 1858— of Lot 3— Block 19 inLincoln, Logan County, Illinois3"
+      }
+    ],
+    "word_count": 34
+  },
+  "extraction_date": "2025-12-26 21:44:38",
+  "word_count": 34,
+  "processing": {
+    "cleaned": true,
+    "original_length": 187,
+    "cleaned_length": 187,
+    "preserved_originality": true
+  }
+}

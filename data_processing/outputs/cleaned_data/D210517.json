@@ -1,0 +1,73 @@
+{
+  "document_id": "D210517",
+  "url": "https://papersofabrahamlincoln.org/documents/D210517",
+  "metadata": {
+    "date": "1849-06-11",
+    "authors": [
+      "Ryan, Ebenezer Z."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Ebenezer Z. Ryan to Abraham Lincoln, 11 June 18491 enclosed is a paper containing the names of Several of the most respectable and influential\n\nfriends of the administration inVincennes Ind2indeed There is but one feeling in all this wholeWabashCountry, and that is that you should receive the appointment over MrButterfield3he is doubtless a good man, but has never done any thing for the cause, and is not\n\nconsidered Prominent,4if you had given me notice sooner I would have furnishedold Zacwith a host of names all good men and true, I hope you may be well enoughf fortified– and receive the appointment5 let me hear from you",
+    "paragraphs": [
+      "Ebenezer Z. Ryan to Abraham Lincoln, 11 June 18491 enclosed is a paper containing the names of Several of the most respectable and influential",
+      "friends of the administration inVincennes Ind2indeed There is but one feeling in all this wholeWabashCountry, and that is that you should receive the appointment over MrButterfield3he is doubtless a good man, but has never done any thing for the cause, and is not",
+      "considered Prominent,4if you had given me notice sooner I would have furnishedold Zacwith a host of names all good men and true, I hope you may be well enoughf fortified– and receive the appointment5 let me hear from you"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+    ],
+    "footnotes": [
+      {
+        "id": "XAB336004-56AC-41F5-9907-1C95C4CB18C4",
+        "text": "1Ebenezer Z. Ryan wrote and signed this letter."
+      },
+      {
+        "id": "XDDB24A66-28C5-4819-9BF3-92424BD23E68",
+        "text": "2The enclosed paper that Ryan references was not found with this letter, and has not\n                  been located."
+      },
+      {
+        "id": "X3D037AAD-3E83-43D9-9A16-9391D0280463",
+        "text": "3Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner of theU.S. General Land Office. Abraham Lincoln entered the competition after learning that Butterfield was favored\n                  over Morrison and Edwards. See theGeneral Land Office Affair. In early June 1849, Lincoln sent a series of letters to numerous people requesting\n                  letters in support of his candidacy for commissioner. Presumably, Lincoln made a similar\n                  request of Ryan, although no such letter has been located.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "X7E42BAC1-E7B0-4DCC-B7ED-9FFC79651DB4",
+        "text": "4Lincoln and many of his fellowWhigsdid not believe Butterfield deserved the appointment due to his lack of effort on\n                  behalf of the party, particularly during the1840 Illinois state election, thepresidential election of 1840, and thepresidential election of 1848. Lincoln summarized his objections to Butterfield’s appointment in aletterhe wrote toWilliam B. PrestonMay 16, 1849."
+      },
+      {
+        "id": "X1E6A1F7F-D93D-4C41-8923-5C03A5B1F100",
+        "text": "5Ryan wrote Lincoln anotherletterJune 24, 1849, repeating his hope that Lincoln would become commissioner. Ultimately,\n                  neither Morrison, Edwards, nor Lincoln received the appointment; the job went to Butterfield\n                  instead. See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Ebenezer Z. Ryan to Abraham Lincoln, 11 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "enclosed is  a paper containing the names of Several of the most respectable and influential\n               friends of the administration inVincennes Ind2indeed There is but one feeling in all this wholeWabashCountry, and that is  that you should receive the appointment over MrButterfield3he is doubtless a good man, but has never done any thing for the cause, and is not\n               considered Prominent,4if you had given me notice sooner I would have furnishedold Zacwith a host of names all good men and true,  I hope you may be well enoughf fortified– and receive the appointment5"
+      },
+      {
+        "type": "paragraph",
+        "text": "let me hear from you"
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 21:17:25",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 660,
+    "cleaned_length": 629,
+    "preserved_originality": true
+  }
+}

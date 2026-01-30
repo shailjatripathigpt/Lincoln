@@ -1,0 +1,80 @@
+{
+  "document_id": "D200974",
+  "url": "https://papersofabrahamlincoln.org/documents/D200974",
+  "metadata": {
+    "date": "1857-09-29",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers--Fees",
+      "Legal opinions",
+      "Municipal incorporation",
+      "Elections"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Samuel Briggs, 29 September 18571 Your letter in regard to organizing the town ofDelevan, and also inclosing five dollars, has been received–2 I have examined the statute, and considered your questions; and am of opinion that\n\nthe original election having gone beyond the Town-plat, to the extent of a square\n\nmile, is lawful and valid– I think the Trustees can not exceed a mile square, as boundaries of the town, but may lessen them, within the\n\nmile square– The five dollars is a sufficient fee–3",
+    "paragraphs": [
+      "Abraham Lincoln to Samuel Briggs, 29 September 18571 Your letter in regard to organizing the town ofDelevan, and also inclosing five dollars, has been received–2 I have examined the statute, and considered your questions; and am of opinion that",
+      "the original election having gone beyond the Town-plat, to the extent of a square",
+      "mile, is lawful and valid– I think the Trustees can not exceed a mile square, as boundaries of the town, but may lessen them, within the",
+      "mile square– The five dollars is a sufficient fee–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Letter, Document ID: 130110,Lincoln provided legal advice to Briggs, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141367.",
+      "“Chapter XXV: Corporations,” 3 March 1845,Revised Statutes of Illinois(1845), 112."
+    ],
+    "footnotes": [
+      {
+        "id": "X092BB4EB-21CC-47BC-9260-06E2AE16CD05",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XF1E0CAD5-F0D8-461F-A984-79ADC4CD91D0",
+        "text": "2Samuel Briggs asked Lincoln’s opinion on the incorporation of Delavan, Illinois, \n                  in a letter dated September 17, 1857.Letter, Document ID: 130110,Lincoln provided legal advice to Briggs, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=141367."
+      },
+      {
+        "id": "X0E8C502F-638C-4B26-93E1-9FCCE3D701FB",
+        "text": "3No additional correspondence between Lincoln and Briggs has been located.The incorporation of towns was governed by chapter twenty-five of theRevised Statutes of Illinois, which theIllinois General Assemblyadopted in 1845. Section five of the statute  specified that the president and trustees\n                  of the town to be incorporated had the power to define the boundaries of the town\n                  so long as said boundaries did “not exceed one mile square.”“Chapter XXV: Corporations,” 3 March 1845,Revised Statutes of Illinois(1845), 112."
+      },
+      {
+        "id": "X123C6645-3C12-44F1-A38D-9F9CF691A455",
+        "text": "4Briggs wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Samuel Briggs, 29 September 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter in regard to organizing the town ofDelevan, and also inclosing five dollars, has been received–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have examined the statute, and considered your questions; and am of opinion that\n               the original election having gone beyond the Town-plat, to the extent of a square\n               mile, is lawful and valid–"
+      },
+      {
+        "type": "paragraph",
+        "text": "I think the Trustees can not exceed a mile square, as boundaries of the town, but may lessen them, within the\n               mile square–"
+      },
+      {
+        "type": "paragraph",
+        "text": "The five dollars is a sufficient fee–3"
+      }
+    ],
+    "word_count": 88
+  },
+  "extraction_date": "2025-12-26 21:44:16",
+  "word_count": 88,
+  "processing": {
+    "cleaned": true,
+    "original_length": 560,
+    "cleaned_length": 518,
+    "preserved_originality": true
+  }
+}

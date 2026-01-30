@@ -1,0 +1,88 @@
+{
+  "document_id": "D201021",
+  "url": "https://papersofabrahamlincoln.org/documents/D201021",
+  "metadata": {
+    "date": "1858-05-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Debtor and creditor",
+      "Insurance"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-05-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "bill",
+      "insure",
+      "not",
+      "party",
+      "him",
+      "abraham",
+      "lincoln",
+      "israel",
+      "piper",
+      "yours",
+      "copy",
+      "notice",
+      "send",
+      "out"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Israel S. Piper, 28 May 18581 Yours of the 20thinclosing copy of notice to send out a dedimus &c. was received only yesterday–2If, at the time of selling you the Bill of iron the plaintiffs agreed to insure\n\nit, and did not insure it, and you lost in consequence, you could set off3the damage against their Bill,ifyou couldfrom the facts– But you can not be allowed to prove anything byShoup– He was a party to the contract— is now a party to the suit; and no arrangement\n\nbetween you and him can make him a competent witness–4",
+    "paragraphs": [
+      "Abraham Lincoln to Israel S. Piper, 28 May 18581 Yours of the 20thinclosing copy of notice to send out a dedimus &c. was received only yesterday–2If, at the time of selling you the Bill of iron the plaintiffs agreed to insure",
+      "it, and did not insure it, and you lost in consequence, you could set off3the damage against their Bill,ifyou couldfrom the facts– But you can not be allowed to prove anything byShoup– He was a party to the contract— is now a party to the suit; and no arrangement",
+      "between you and him can make him a competent witness–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "\"Dedimus Potestatum,” Reference, Glossary, Martha L. Benner and Cullom Davis et al.,\n                     eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html.",
+      "”Set-off,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html.",
+      "Narratio, Document ID: 64884; Complete Record, Document ID: 64888,Zug, Lindsay & Co. v. Piper & Shoup, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Details.aspx?case=137612"
+    ],
+    "footnotes": [
+      {
+        "id": "4018964",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "4018965",
+        "text": "2Israel S. Piper’s letter to Lincoln has not been located.A dedimus potestatum is a writ that grants a named individual the authority and power\n                  to perform a specific action, such as taking the deposition of a witness in a legal\n                  case.\"Dedimus Potestatum,” Reference, Glossary, Martha L. Benner and Cullom Davis et al.,\n                     eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+      },
+      {
+        "id": "4018966",
+        "text": "3In American law, a set-off is a kind of counterclaim that a defendant can make against\n                  a plaintiff who had sued him for a debt, but who also owed the defendant money. If\n                  the defendant won the set-off, it reduced the amount of debt that he owed the plaintiff\n                  by the amount of money that the plaintiff owed him.”Set-off,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+      },
+      {
+        "id": "4018967",
+        "text": "4In March 1855, the firmPiper and Shoupbought $1,000 worth of goods and merchandise from the firm Zug, Lindsay and Company\n                  but failed to pay. In June 1858, Zug, Lindsay and Co. sued Piper and Shoup in theU.S. Circuit Court, Southern District of Illinoisin an action of assumpsit to collect the debt. Piper retained Lincoln andWilliam H. Herndon. When Piper and Solomon Shoup failed to appear, the court ruled for Zug, Lindsay\n                  and Co. and called a jury to assess damages. In January 1859, the jury awarded $871.99\n                  in damages.No further correspondence between either Lincoln and Piper or Lincoln and Shoup has\n                  been located.Narratio, Document ID: 64884; Complete Record, Document ID: 64888,Zug, Lindsay & Co. v. Piper & Shoup, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://lawpracticeofabrahamlincoln.org/Details.aspx?case=137612."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Israel S. Piper, 28 May 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 20thinclosing copy of notice to send out a dedimus &c.[etc] was received only yesterday–2If, at the time of selling you the Bill of iron the plaintiffs agreed to insure\n               it, and did not insure it, and you lost in consequence, you could set off3the damage against their Bill,ifyou couldfrom the facts– But you can not be allowed to prove anything byShoup–  He was a party to the contract— is now a party to the suit; and no arrangement\n               between you and him can make him a competent witness–4"
+      }
+    ],
+    "word_count": 100
+  },
+  "extraction_date": "2025-12-26 21:48:42",
+  "word_count": 100,
+  "processing": {
+    "cleaned": true,
+    "original_length": 580,
+    "cleaned_length": 546,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

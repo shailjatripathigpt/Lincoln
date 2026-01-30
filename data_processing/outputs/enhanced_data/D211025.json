@@ -1,0 +1,102 @@
+{
+  "document_id": "D211025",
+  "url": "https://papersofabrahamlincoln.org/documents/D211025",
+  "metadata": {
+    "date": "1857-01-02",
+    "authors": [
+      "Bissell, William H."
+    ],
+    "keywords": [
+      "Legislative bodies",
+      "Slavery--Extension to the territories",
+      "Speeches"
+    ],
+    "type": "Letter",
+    "extracted_date": "1857-01-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "message",
+      "william",
+      "bissell",
+      "abraham",
+      "lincoln",
+      "january",
+      "private",
+      "getting",
+      "tospringfieldi",
+      "desire",
+      "consult",
+      "what",
+      "say",
+      "thelegislatureaboutkansas"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "William H. Bissell to Abraham Lincoln, 2 January 18571 Private. On getting toSpringfieldI shall desire to consult you as to what I shall say in my message to theLegislatureaboutKansas.2 May I ask you to write out, hastily as you please, your views on that subject; that\n\nI may make such use of it as I deem proper in preparing my message?3 I shall be at Springfield on monday or tuesday next.4",
+    "paragraphs": [
+      "William H. Bissell to Abraham Lincoln, 2 January 18571 Private. On getting toSpringfieldI shall desire to consult you as to what I shall say in my message to theLegislatureaboutKansas.2 May I ask you to write out, hastily as you please, your views on that subject; that",
+      "I may make such use of it as I deem proper in preparing my message?3 I shall be at Springfield on monday or tuesday next.4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1857. 20th G. A., 82-86.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 January 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1857-01-05; 6 January 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1857-01-06; 12 January 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1857-01-12."
+    ],
+    "footnotes": [
+      {
+        "id": "XB44250D3-EC15-402F-A4B2-DE3F5D90261F",
+        "text": "1William H. Bissell wrote and signed this letter."
+      },
+      {
+        "id": "X32E63879-4843-4F48-8D03-B29DC7057B2A",
+        "text": "2Bissell’s inaugural address as the governor of Illinois, given on January 12, 1857,\n                  included typical items such as the building of a new penitentiary, schools, railroads,\n                  and the like. Bissell also included the standardRepublicanrhetoric about preventing the spread of slavery westward.  Bissell devoted six paragraphs\n                  to theKansas-Nebraska Actand its meaning for the republic.Illinois HouseJournal. 1857. 20th G. A., 82-86."
+      },
+      {
+        "id": "X09875513-0F8A-48FF-9120-D5F1BE3EEE8A",
+        "text": "3Abraham Lincoln’s response, if he penned one, has not been found. There is no documentary\n                  evidence of Lincoln contributing to Bissell’s views onBleeding Kansasand slavery extension in his inaugural address."
+      },
+      {
+        "id": "X7E096279-3733-4408-9636-BCE8DAC8FDE2",
+        "text": "4Lincoln was in Springfield that Monday and Tuesday, January 5 and 6, respectively.\n                  However, there is no evidence of a meeting between Lincoln and Bissell at that time.\n                  Lincoln did speak at the celebration of Bissell’s inauguration on January 12, 1857.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 January 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1857-01-05; 6 January 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1857-01-06; 12 January 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1857-01-12."
+      },
+      {
+        "id": "X4475B836-BFC6-42E3-AFDE-E5BCB2E0C8F7",
+        "text": "5“7” written over “9”.  An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William H. Bissell to Abraham Lincoln, 2 January 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Private."
+      },
+      {
+        "type": "paragraph",
+        "text": "On getting toSpringfieldI shall desire to consult you as to what I shall say in my message to theLegislatureaboutKansas.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "May I ask you to write out, hastily as you please, your views on that subject; that\n               I may  make such use of it as I deem proper in preparing my message?3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I shall be at Springfield on monday or tuesday next.4"
+      }
+    ],
+    "word_count": 71
+  },
+  "extraction_date": "2025-12-26 21:42:43",
+  "word_count": 71,
+  "processing": {
+    "cleaned": true,
+    "original_length": 408,
+    "cleaned_length": 393,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

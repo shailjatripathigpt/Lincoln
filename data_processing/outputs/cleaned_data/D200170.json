@@ -1,0 +1,56 @@
+{
+  "document_id": "D200170",
+  "url": "https://papersofabrahamlincoln.org/documents/D200170",
+  "metadata": {
+    "date": "1839-03-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Incorporation",
+      "Canals",
+      "Rivers"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill Supplemental to ‘An Act Incorporating the Beardstown and Sangamon\n\nCanal Company,’” 1 Provided, that if saidCanalshall not be commenced by the first of January 1841, thestateshall have full right to the navigation of theSangamon River—2",
+    "paragraphs": [
+      "Amendment to “A Bill Supplemental to ‘An Act Incorporating the Beardstown and Sangamon",
+      "Canal Company,’” 1 Provided, that if saidCanalshall not be commenced by the first of January 1841, thestateshall have full right to the navigation of theSangamon River—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     492, 567, 577-78, 583, 601; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 311, 390, 392, 471-72, 496, 506, 512."
+    ],
+    "footnotes": [
+      {
+        "id": "X11E51FCD-43C8-4AFF-9E81-0E7874503AC0",
+        "text": "1Abraham Lincoln wrote the text of this amendment.Andrew McCormickmoved Lincoln’s amendment on March 1, 1839, during a debate in theHouse of Representativeson Senate Bill 211.   On February 11, 1839, William Thomas introduced SB 211 in theSenate. On February 23, the Senate passed the bill without amendment. On February 28, the\n                  House amended the bill by striking out “12 percent” and inserting in lieu thereof\n                  “8 percent” in lines ten and eleven of the second section.  The House referred the\n                  bill to a select committee.  The select committee reported back the bill on March\n                  1 with an amendment striking out the bill and inserting in lieu thereof a settlement\n                  of the accounts of the State House commissioners. The House tabled this amendment\n                  by a vote of 35 yeas to 25 nays, with Lincoln voting yea. The House amended the bill\n                  by adopting Lincoln’s amendment.  The House furtheramendedthe bill by adding a third section.  The House reconsidered its previous vote striking\n                  out “12 percent” and inserting in lieu thereof “8 percent,” rejecting the amendment.\n                  The House then passed the bill as amended. On March 2, the Senate approved the House\n                  amendments. That same day, theCouncil of Revisionapproved the bill, and theactbecame law.Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     492, 567, 577-78, 583, 601; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 311, 390, 392, 471-72, 496, 506, 512."
+      },
+      {
+        "id": "X314A56B6-3B0A-4DE3-AA49-BEB08740A6AF",
+        "text": "2Lincoln’s amendment became the proviso at the end of the second section of theact.  In February 1841, theGeneral Assemblypassed anactgiving the company an additional four years to commence operations."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill Supplemental to ‘An Act Incorporating the Beardstown and Sangamon\n               Canal Company,’” [1 March 1839]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Provided, that if saidCanalshall not be commenced by the first of January 1841, thestateshall have full right to the navigation of theSangamon River—2"
+      }
+    ],
+    "word_count": 39
+  },
+  "extraction_date": "2025-12-26 20:09:02",
+  "word_count": 41,
+  "processing": {
+    "cleaned": true,
+    "original_length": 285,
+    "cleaned_length": 257,
+    "preserved_originality": true
+  }
+}

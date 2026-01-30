@@ -1,0 +1,49 @@
+{
+  "document_id": "D200040",
+  "url": "https://papersofabrahamlincoln.org/documents/D200040",
+  "metadata": {
+    "date": "1834-12-09",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Toll bridges--Design and construction",
+      "Rivers"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James Semple, [9 December 1834]1 I now give notice that Thursday next, or some day thereafter I shall ask leave to\n               introduce a bill entitled an act to authorizeSamuel Musickto build a toll bridge acrossSalt creekinSangamon county—2",
+    "paragraphs": [
+      "Abraham Lincoln to James Semple, [9 December 1834]1",
+      "I now give notice that Thursday next, or some day thereafter I shall ask leave to\n               introduce a bill entitled an act to authorizeSamuel Musickto build a toll bridge acrossSalt creekinSangamon county—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 86.",
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess.,118, 127, 131, 141-42, 160, 222, 240, 245; Illinois SenateJournal. 1835. 9th G. A., 1st sess., 121, 122, 126, 132, 192, 195."
+    ],
+    "footnotes": [
+      {
+        "id": "XF9BA48FC-BEEC-4847-9FC8-443D28EF1716",
+        "text": "1Abraham Lincoln wrote the entirety of the text on page one.Lincoln presented this notice to the  House of Representatives on December 9, 1834.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 86."
+      },
+      {
+        "id": "X903DD45B-1AAD-4B75-A606-CE2775B1901C",
+        "text": "2Abraham Lincoln introducedHB 34in theHouse of Representativeson December 15, 1834. On December 20, the House passed thebillwith an amendment authored by Lincoln. TheSenatepassed the bill on December 24. On January 7, 1835, theactbecame law.Illinois HouseJournal. 1835. 9th G. A., 1st sess.,118, 127, 131, 141-42, 160, 222, 240, 245; Illinois SenateJournal. 1835. 9th G. A., 1st sess., 121, 122, 126, 132, 192, 195."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James Semple, [9 December 1834]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I now give notice that Thursday next, or some day thereafter I shall ask leave to\n               introduce a bill entitled an act to authorizeSamuel Musickto build a toll bridge acrossSalt creekinSangamon county—2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 19:47:10",
+  "word_count": 40
+}

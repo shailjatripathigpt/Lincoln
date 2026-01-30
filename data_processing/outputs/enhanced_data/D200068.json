@@ -1,0 +1,69 @@
+{
+  "document_id": "D200068",
+  "url": "https://papersofabrahamlincoln.org/documents/D200068",
+  "metadata": {
+    "date": "1835-12-18",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Insurance companies",
+      "Incorporation"
+    ],
+    "type": "Amendment",
+    "extracted_date": "1835",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "amendment",
+      "bill",
+      "incorporate",
+      "sangamon",
+      "fire",
+      "insurance",
+      "company",
+      "december",
+      "amend",
+      "inserting",
+      "these",
+      "names"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill to Incorporate the Sangamon Fire Insurance Company,” [18 December\n\n1835] Amend by inserting these names",
+    "paragraphs": [
+      "Amendment to “A Bill to Incorporate the Sangamon Fire Insurance Company,” [18 December",
+      "1835] Amend by inserting these names"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 23-24, 79, 96, 124, 217, 241, 248, 260; Illinois SenateJournal. 1835. 9th G. A., 2nd sess., 95, 139, 157, 179, 180, 198."
+    ],
+    "footnotes": [
+      {
+        "id": "X9C6E05CA-AE24-411C-B909-A0FB44FC34DA",
+        "text": "1Abraham Lincoln wrote only the names on this document.On December 8, 1835,William C. Carpenterintroduced a resolution in theHouse of Representativesto appoint a committee to inquire into establishing a railroad fromSpringfieldto the southern termination of theWabash and Erie Canal. On December 17, the committee reported to the  HouseHB 37, originally titled “A Bill to Incorporate a Company therein Named.” The House referred\n                  the bill to a select committee. On December 18, the select committee reported back\n                  the bill with amendments, one of which was this one authored by Lincoln. The House\n                  approved the amendments and on December 22, the House passed the bill as amended.\n                  Afterward, on Lincoln’s motion, the title was changed to “A Bill to Incorporate the\n                  Sangamon Fire Insurance Company.” On December 31, theSenateamended the bill by striking out “Nicholas A. Bryant” in the first section. On January 2, 1836, the Senate passed the bill. On January\n                  7, theCouncil of Revisionapproved the bill and theactbecame law.Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 23-24, 79, 96, 124, 217, 241, 248, 260; Illinois SenateJournal. 1835. 9th G. A., 2nd sess., 95, 139, 157, 179, 180, 198."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill to Incorporate the Sangamon Fire Insurance Company,” [18 December\n               1835]"
+      },
+      {
+        "type": "paragraph",
+        "text": "Amend by inserting these names"
+      }
+    ],
+    "word_count": 19
+  },
+  "extraction_date": "2025-12-26 20:03:10",
+  "word_count": 19,
+  "processing": {
+    "cleaned": true,
+    "original_length": 138,
+    "cleaned_length": 124,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

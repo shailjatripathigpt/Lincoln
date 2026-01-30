@@ -1,0 +1,62 @@
+{
+  "document_id": "D201140",
+  "url": "https://papersofabrahamlincoln.org/documents/D201140",
+  "metadata": {
+    "date": "1858-11-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Endorsements in advertising",
+      "Maps",
+      "Postal service"
+    ],
+    "type": "Statement"
+  },
+  "content": {
+    "full_text": "Statement regardingLarrance’s Post Office Chart, 10 November 18581 I have^Having^hastily examined “Larrance’sPost-office Chart” and considered the principle upon which it is arranged, I think\n\nit will proveto bea great convenience to Post-Masters and others whose business lead them to search\n\nout particular localities upon maps.2",
+    "paragraphs": [
+      "Statement regardingLarrance’s Post Office Chart, 10 November 18581 I have^Having^hastily examined “Larrance’sPost-office Chart” and considered the principle upon which it is arranged, I think",
+      "it will proveto bea great convenience to Post-Masters and others whose business lead them to search",
+      "out particular localities upon maps.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "69Cong. Rec.3312 (1927);The Lincoln Collection Formed by  Emanuel Hertz New York City Sold by His Order: Part\n                        One Autographs(New York: Anderson Galleries, 1927), 39.",
+      "Isaac Larrance,Larrance’s Post Office Chart, and Maps of Ten States(Cincinnati: I. A. Pittman, 1866), n.p."
+    ],
+    "footnotes": [
+      {
+        "id": "X8A36A941-1E61-4649-A1AB-DD1EA16AA069",
+        "text": "1Abraham Lincoln wrote and signed this document."
+      },
+      {
+        "id": "X4D26B74B-89EC-48A5-9520-74EAF886C96D",
+        "text": "2According to a statement by two ofIsaac Larrance’s children written in 1925, on the date that Lincoln wrote this statement, Larrance\n                  called on Lincoln at the latter’s office in Springfield. There Larrance showed Lincoln\n                  one of his publications of a map and accompanying diagram, designed to allow a user\n                  to find a location instantly. This publication may have beenLarrance’s Post Office Chart: Diagram of the State of Illinois(Cincinnati: I. A. Pittman, 1858).Larrance’s children also reported that at this November 10, 1858 meeting between Larrance\n                  and Lincoln, Lincoln’s recent electoral loss toStephen A. Douglasin the1858 racefor theU.S. Senatewas mentioned, causing Lincoln to remark: “I did not expect to be elected, I was\n                  killing bigger game.”69Cong. Rec.3312 (1927);The Lincoln Collection Formed by  Emanuel Hertz New York City Sold by His Order: Part\n                        One Autographs(New York: Anderson Galleries, 1927), 39."
+      },
+      {
+        "id": "X06018956-C894-44AE-8664-D1C7177CD96C",
+        "text": "3No response to this statement by Larrance has been located. Larrance reprinted this\n                  statement as a testimonial in at least one of his subsequent publications.Isaac Larrance,Larrance’s Post Office Chart, and Maps of Ten States(Cincinnati: I. A. Pittman, 1866), n.p."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Statement regardingLarrance’s Post Office Chart, 10 November 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have^Having^hastily examined “Larrance’sPost-office Chart” and considered the principle upon which it is arranged, I think\n               it will proveto bea great convenience to Post-Masters and others whose business lead them to search\n               out particular  localities upon maps.2"
+      }
+    ],
+    "word_count": 45
+  },
+  "extraction_date": "2025-12-26 22:02:57",
+  "word_count": 45,
+  "processing": {
+    "cleaned": true,
+    "original_length": 360,
+    "cleaned_length": 331,
+    "preserved_originality": true
+  }
+}

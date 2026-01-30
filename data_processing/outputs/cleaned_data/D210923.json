@@ -1,0 +1,83 @@
+{
+  "document_id": "D210923",
+  "url": "https://papersofabrahamlincoln.org/documents/D210923",
+  "metadata": {
+    "date": "1858-09-01",
+    "authors": [
+      "Stover, Emanuel"
+    ],
+    "keywords": [
+      "Constitutional law",
+      "Elections",
+      "Political campaigns",
+      "Slavery--Extension to the territories",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Emanuel Stover to Abraham Lincoln, 1 September 18581 Will you please answer the following questions, by simply writing yes or no, and then\n\nsign it and send it to me, By so doing you will much oblige your humble servant.2 1st, Is a slave recognized as property by the constitution of the United States. answer, 2d, Does the constitution of the United States establish Slavery in the Teritories, 3d, Has a citizen of a Slave State, the right to take his slave into any teritory, and hold him there against his will, 4th, Hascongressthe right to establish, or to prohibit slavery in the Teritories, 5th, Have the people^in a Teritory^the right to legislate on the question of Slavery— to say wether Slavery shall or shall not exist there– 6th, If a Teritory (having the required number of inhabitants) should ask for admition with a slave constitution (endorsed by a majority of citizens of said Teritory) should it be admitted–",
+    "paragraphs": [
+      "Emanuel Stover to Abraham Lincoln, 1 September 18581 Will you please answer the following questions, by simply writing yes or no, and then",
+      "sign it and send it to me, By so doing you will much oblige your humble servant.2 1st, Is a slave recognized as property by the constitution of the United States.",
+      "answer, 2d, Does the constitution of the United States establish Slavery in the Teritories, 3d, Has a citizen of a Slave State, the right to take his slave into any teritory, and hold him there against his will, 4th, Hascongressthe right to establish, or to prohibit slavery in the Teritories, 5th, Have the people^in a Teritory^the right to legislate on the question of Slavery— to say wether Slavery shall or shall not exist there– 6th, If a Teritory (having the required number of inhabitants) should ask for admition with a slave constitution (endorsed by a majority of citizens of said Teritory) should it be admitted–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 557."
+    ],
+    "footnotes": [
+      {
+        "id": "XFB90D917-BACC-4CC6-A9A8-0D3242846FAA",
+        "text": "1Emanuel Stoverwrote and signed this letter."
+      },
+      {
+        "id": "XB7E2E8D0-BA97-4C01-BB1A-AE5133397298",
+        "text": "2Stover againwroteAbraham Lincoln the next day, September 2, informing him that he had sent the same\n                  questions toStephen A. Douglasand asking Lincoln to answer immediately. Although Lincoln’s response has not been\n                  found, StoverwroteLincoln on October 5 thanking him for his answer and informing Lincoln that Douglas\n                  never responded to his queries.Lincoln was theRepublicancandidate fromIllinoisfor theU.S. Senate. The morality and status of slavery and its expansion to federal territories became\n                  a leading issue in the campaign.  Lincoln ran against, and lost to,DemocratStephen A. Douglas, the incumbent. See1858 Illinois Republican Convention;1858 Federal Election;Lincoln-Douglas Debates.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 557."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Emanuel Stover to Abraham Lincoln, 1 September 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Will you please answer the following questions, by simply writing yes or no, and then\n               sign it and send it to me, By so doing you will  much oblige your humble servant.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "1st, Is a slave recognized as property by the constitution of the United States. answer,"
+      },
+      {
+        "type": "paragraph",
+        "text": "2d, Does the constitution of the United States establish Slavery in the Teritories,"
+      },
+      {
+        "type": "paragraph",
+        "text": "3d, Has a citizen of a Slave State, the right to take his slave into any teritory, and hold him there against his will,"
+      },
+      {
+        "type": "paragraph",
+        "text": "4th, Hascongressthe right to establish, or to prohibit slavery in the Teritories,"
+      },
+      {
+        "type": "paragraph",
+        "text": "5th, Have the people^in a Teritory^the right to legislate on the question of Slavery— to say wether Slavery shall or shall not exist there–"
+      },
+      {
+        "type": "paragraph",
+        "text": "6th, If a Teritory (having the required number of inhabitants) should ask for admition with a slave constitution (endorsed by a majority of citizens of said Teritory) should it be admitted–"
+      }
+    ],
+    "word_count": 159
+  },
+  "extraction_date": "2025-12-26 22:00:10",
+  "word_count": 159,
+  "processing": {
+    "cleaned": true,
+    "original_length": 941,
+    "cleaned_length": 926,
+    "preserved_originality": true
+  }
+}

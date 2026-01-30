@@ -1,0 +1,93 @@
+{
+  "document_id": "D234437",
+  "url": "https://papersofabrahamlincoln.org/documents/D234437",
+  "metadata": {
+    "date": "1845-07-23",
+    "authors": [
+      "Dubois, Jesse K.",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Land titles--Registration and transfer"
+    ],
+    "type": "Deed",
+    "extracted_date": "1845-07-23",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "party",
+      "part",
+      "said",
+      "first",
+      "second",
+      "his",
+      "state",
+      "all",
+      "lot",
+      "heirs",
+      "assigns",
+      "hill",
+      "july",
+      "day",
+      "year"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Deed of Conveyance from Jesse K. Dubois to James L. Hill, 23 July 18451 This Indenture made this twentythird day of July in the year of our Lord one thousand, eight hundred and fortyfive by and betweenJesse K. Duboisof the county ofLawrenceand state ofIllinois, party of the first part, andJames L. Hill, of the City ofSpringfieldand state aforesaid, party of the second part, Witnesseth: That the said party of\n\nthe first part, for, and in consideration of, the sum of fifty dollars to him in hand\n\npaid by the said party of the second part, the receipt whereof is hereby acknowledged,\n\nhas granted, bargained, and sold; and by these presents does grant, bargain, and sell,\n\nunto the said party of the second part, all the right, title, interest, and estate\n\nof the said party of the first part, in and to Lot numbered Fourteen in Block numbered\n\nFifteen inE. Iles’ addition to the (late town, now) city of Springfield in the state of Illinois.\n\nTo have and to hold to the said party of the second part, his heirs and assigns forever,\n\nthe above described Lot, together with all and singular the previleges and appurtenances thereunto belonging: And the said party of the first part, for\n\nhimself, his heirs and assigns, does covenant to, and with the said party of the second\n\npart, his heirs and assigns that he will warrant, and forever defend the title of\n\nsaid Lot against the claim or claims of any and all persons whomsoever– In testimony whereof the said party of the first part has hereunto set his hand and\n\nseal, the day and year first above written–",
+    "paragraphs": [
+      "Deed of Conveyance from Jesse K. Dubois to James L. Hill, 23 July 18451 This Indenture made this twentythird day of July in the year of our Lord one thousand, eight hundred and fortyfive by and betweenJesse K. Duboisof the county ofLawrenceand state ofIllinois, party of the first part, andJames L. Hill, of the City ofSpringfieldand state aforesaid, party of the second part, Witnesseth: That the said party of",
+      "the first part, for, and in consideration of, the sum of fifty dollars to him in hand",
+      "paid by the said party of the second part, the receipt whereof is hereby acknowledged,",
+      "has granted, bargained, and sold; and by these presents does grant, bargain, and sell,",
+      "unto the said party of the second part, all the right, title, interest, and estate",
+      "of the said party of the first part, in and to Lot numbered Fourteen in Block numbered",
+      "Fifteen inE. Iles’ addition to the (late town, now) city of Springfield in the state of Illinois.",
+      "To have and to hold to the said party of the second part, his heirs and assigns forever,",
+      "the above described Lot, together with all and singular the previleges and appurtenances thereunto belonging: And the said party of the first part, for",
+      "himself, his heirs and assigns, does covenant to, and with the said party of the second",
+      "part, his heirs and assigns that he will warrant, and forever defend the title of",
+      "said Lot against the claim or claims of any and all persons whomsoever– In testimony whereof the said party of the first part has hereunto set his hand and",
+      "seal, the day and year first above written–"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X8B91F3D6-FB6C-4A10-B90F-49E8932DE980",
+        "text": "1Abraham Lincoln wrote the deed and signed his and Jesse K. Dubois’ names."
+      },
+      {
+        "id": "XD17F43FF-08E6-498D-9343-C2CE1A05E69E",
+        "text": "2William Lavely wrote and signed this certification."
+      },
+      {
+        "id": "X74B53F0B-7318-43E8-97AA-9B5E8DDEA059",
+        "text": "3Benjamin Talbott wrote this certification."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Deed of Conveyance from Jesse K. Dubois to James L. Hill, 23 July 18451"
+      },
+      {
+        "type": "paragraph",
+        "text": "This Indenture made this twentythird day of July in the year of our Lord one thousand, eight hundred and fortyfive by and betweenJesse K. Duboisof the county ofLawrenceand state ofIllinois, party of the first part, andJames L. Hill, of the City ofSpringfieldand state aforesaid, party of the second part, Witnesseth: That the said party of\n               the first part, for, and in consideration of, the sum of fifty dollars to him in hand\n               paid by the said party of the second part, the receipt whereof is hereby acknowledged,\n               has granted, bargained, and sold; and by these presents does grant, bargain, and sell,\n               unto the said party of the second part, all the right, title, interest, and estate\n               of the said party of the first part, in and to Lot numbered Fourteen in Block numbered\n               Fifteen inE. Iles’ addition to the (late town, now) city of Springfield in the state of Illinois. \n               To have and to hold to the said party of the second part, his heirs and assigns forever,\n               the above described Lot, together with all and singular the previleges and appurtenances thereunto belonging: And the said party of the first part, for\n               himself, his heirs and assigns, does covenant to, and with the said party of the second\n               part, his heirs and assigns that he will warrant, and forever defend the title of\n               said Lot against the claim or claims of any and all persons whomsoever–"
+      },
+      {
+        "type": "paragraph",
+        "text": "In testimony whereof the said party of the first part has hereunto set his hand and\n               seal, the day and year first above written–"
+      }
+    ],
+    "word_count": 274
+  },
+  "extraction_date": "2025-12-26 20:21:52",
+  "word_count": 274,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1731,
+    "cleaned_length": 1562,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

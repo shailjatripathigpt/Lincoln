@@ -1,0 +1,76 @@
+{
+  "document_id": "D233620",
+  "url": "https://papersofabrahamlincoln.org/documents/D233620",
+  "metadata": {
+    "date": "1849-11-30",
+    "authors": [
+      "Dickey, Theophilus L."
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-11-30",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "lyle",
+      "dickey",
+      "abraham",
+      "lincoln",
+      "november",
+      "cheerfully",
+      "endorse",
+      "all",
+      "thatjudge",
+      "catonhas",
+      "pleased",
+      "say",
+      "behalf",
+      "ofdr",
+      "guilbert"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "T. Lyle Dickey to Abraham Lincoln, 30 November 18491 I cheerfully endorse all thatJudge Catonhas been pleased to say in behalf ofDr Guilbert& may be permitted to add that the Dr is a genuineWhigand has done some service for us as a party and especially in support of our gallant\n\noldChieftanin thelast presidential canvass",
+    "paragraphs": [
+      "T. Lyle Dickey to Abraham Lincoln, 30 November 18491 I cheerfully endorse all thatJudge Catonhas been pleased to say in behalf ofDr Guilbert& may be permitted to add that the Dr is a genuineWhigand has done some service for us as a party and especially in support of our gallant"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+    ],
+    "footnotes": [
+      {
+        "id": "X0D400775-0953-4E6E-99EA-FA106B04AFB4",
+        "text": "1T. Lyle Dickey wrote and signed this letter.  Abraham Lincoln enclosed this letter\n                  in aletterto Secretary of StateJohn M. Clayton, December 7, 1849."
+      },
+      {
+        "id": "XBE9178C4-00DE-4658-B200-8A08C7617D85",
+        "text": "2Judge John D. Caton alsoendorsedEdward A. Guilbert to Lincoln, and Lincoln enclosed Caton’s letter of recommendation\n                  in his December 7letterto Clayton.Guilbert does not appear in the official registers of the officers and agents of the\n                  federal government for 1849, 1851, and 1853, so apparently he did not receive an appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "T. Lyle Dickey to Abraham Lincoln, 30 November 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I cheerfully endorse all thatJudge Catonhas been pleased to say in behalf ofDr Guilbert& may be permitted to add that the Dr is a genuineWhigand has done some service for us as a party and especially in support of our gallant\n               oldChieftanin thelast presidential canvass"
+      }
+    ],
+    "word_count": 54
+  },
+  "extraction_date": "2025-12-26 21:21:33",
+  "word_count": 54,
+  "processing": {
+    "cleaned": true,
+    "original_length": 336,
+    "cleaned_length": 322,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "D210513",
+  "url": "https://papersofabrahamlincoln.org/documents/D210513",
+  "metadata": {
+    "date": "1849-06-11",
+    "authors": [
+      "McLean, James M."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "James M. McLean to Abraham Lincoln, 11 June 18491 When I recvd yours yesterday2I wrote you which you have recvdin a moment3after receiving it in a hurry to get it into the mail which was just leaving, on\n\nreflection I thought perhaps I ought to have adressed my letter to thepresidentand have written the enclosed4",
+    "paragraphs": [
+      "James M. McLean to Abraham Lincoln, 11 June 18491 When I recvd yours yesterday2I wrote you which you have recvdin a moment3after receiving it in a hurry to get it into the mail which was just leaving, on",
+      "reflection I thought perhaps I ought to have adressed my letter to thepresidentand have written the enclosed4"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X72028528-5493-41B5-B0B2-5AB6FE0623DC",
+        "text": "1James M. McLean wrote and signed this letter."
+      },
+      {
+        "id": "XC8E730EE-639E-4A3E-AB90-D526B43DC823",
+        "text": "2Abraham Lincoln sent McLean aletterJune 3, 1849, requesting a letter of support for his candidacy for commissioner of\n                  theU.S. General Land Office. Originally,Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to replaceRichard M. Youngas commissioner of the U.S. General Land Office. Lincoln entered the competition\n                  after learning that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair."
+      },
+      {
+        "id": "X6024232D-2984-4C13-A5D8-C8963D62AE59",
+        "text": "3No other letter on this topic from McLean to Lincoln has been located."
+      },
+      {
+        "id": "X3A70787B-4C5A-4FB5-96AF-AD4562649044",
+        "text": "4The enclosed correspondence that McLean references was not found with this letter\n                  and  has not been located. Ultimately, neither Morrison, Edwards, nor Lincoln received\n                  the position. PresidentZachary Taylorappointed Butterfield instead. See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James M. McLean to Abraham Lincoln, 11 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "When I recvd[received] yours yesterday2I wrote you which you have recvdin a moment3after receiving it in a hurry to get it into the mail which was just leaving, on\n               reflection I thought perhaps I ought to have adressed my letter to thepresidentand have written the enclosed4"
+      }
+    ],
+    "word_count": 55
+  },
+  "extraction_date": "2025-12-26 21:17:39",
+  "word_count": 55,
+  "processing": {
+    "cleaned": true,
+    "original_length": 338,
+    "cleaned_length": 314,
+    "preserved_originality": true
+  }
+}

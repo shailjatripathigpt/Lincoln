@@ -1,0 +1,66 @@
+{
+  "document_id": "D295261",
+  "url": "https://papersofabrahamlincoln.org/documents/D295261",
+  "metadata": {
+    "date": "1833-01-04",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Militia",
+      "Soldiers--Salaries, etc.",
+      "Indians of North America--Wars",
+      "Military discharge",
+      "Horses",
+      "Military service, Voluntary"
+    ],
+    "type": "Affidavit",
+    "extracted_date": "1833-01-04",
+    "extracted_type": "affidavit",
+    "extracted_keywords": [
+      "affidavit",
+      "abraham",
+      "lincoln",
+      "regarding",
+      "joseph",
+      "tibbs"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Affidavit of Abraham Lincoln regarding Joseph Tibbs, 1",
+    "paragraphs": [
+      "Affidavit of Abraham Lincoln regarding Joseph Tibbs, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+    ],
+    "footnotes": [
+      {
+        "id": "X06EF189E-B241-4156-941B-214FF2396058",
+        "text": "1Thomas Moffett wrote this document. Abraham Lincoln signed his own name only."
+      },
+      {
+        "id": "X525EB38E-B177-4962-82B8-C444D7159B1F",
+        "text": "2At the outbreak of theBlack Hawk War, Lincoln volunteered for theIllinois state militia. On April 21, 1832, Lincoln and other men from theNew Salemarea were mustered into a company in the4th Regiment of Illinois Mounted Volunteers, and the members of the company elected Lincoln as their captain. When his month\n                  of service ended, Lincoln re-enlisted twice, for twenty and thirty days respectively,\n                  serving as a private both times. He was discharged finally on July 10, 1832.Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Affidavit of Abraham Lincoln regarding Joseph Tibbs, [4 January 1833]1"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 19:45:28",
+  "word_count": 10,
+  "processing": {
+    "cleaned": true,
+    "original_length": 70,
+    "cleaned_length": 54,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

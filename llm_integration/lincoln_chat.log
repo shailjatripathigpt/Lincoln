@@ -1,0 +1,364 @@
+2026-01-09 15:36:37,377 - __main__ - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-09 15:36:37,377 - __main__ - INFO - ============================================================
+2026-01-09 15:36:37,377 - __main__ - INFO - 📥 Loading tokenizer...
+2026-01-09 15:36:39,201 - __main__ - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-09 15:36:39,222 - __main__ - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-09 15:36:39,223 - __main__ - INFO - 📥 Loading base model...
+2026-01-09 15:36:41,742 - __main__ - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-09 15:36:41,742 - __main__ - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-09 15:36:41,743 - __main__ - INFO - 📁 Found 13 files in LoRA directory
+2026-01-09 15:36:42,727 - __main__ - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-09 15:36:42,727 - __main__ - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-09 15:36:42,727 - __main__ - INFO -    % Fine-tuned: 0.0000%
+2026-01-09 15:36:55,633 - __main__ - WARNING -    Test 'Who are you?...': Score 30.0
+2026-01-09 15:36:55,634 - __main__ - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-09 15:56:07,665 - __main__ - INFO - ⚠️ Lincoln response quality low (20.0), using fallback...
+2026-01-09 15:58:31,300 - __main__ - INFO - ⚠️ Lincoln response quality low (20.0), using fallback...
+2026-01-09 16:24:09,057 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-09 16:24:09,057 - chat_lora - INFO - ============================================================
+2026-01-09 16:24:09,057 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-09 16:24:10,894 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-09 16:24:10,918 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-09 16:24:10,918 - chat_lora - INFO - 📥 Loading base model...
+2026-01-09 16:24:14,174 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-09 16:24:14,181 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-09 16:24:14,181 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-09 16:24:14,443 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-09 16:24:14,443 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-09 16:24:14,443 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-09 16:24:25,874 - chat_lora - WARNING -    Test 'Who are you?...': Score 30.0
+2026-01-09 16:24:25,875 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-09 16:24:50,568 - chat_lora - INFO - ⚠️ Lincoln response quality low (30.0), using fallback...
+2026-01-09 16:41:04,804 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-09 16:41:04,804 - chat_lora - INFO - ============================================================
+2026-01-09 16:41:04,804 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-09 16:41:06,510 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-09 16:41:06,539 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-09 16:41:06,539 - chat_lora - INFO - 📥 Loading base model...
+2026-01-09 16:41:08,972 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-09 16:41:08,972 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-09 16:41:08,972 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-09 16:41:09,173 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-09 16:41:09,173 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-09 16:41:09,173 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-09 16:41:21,363 - chat_lora - WARNING -    Test 'Who are you?...': Score 38.0
+2026-01-09 16:41:21,364 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-09 17:42:10,139 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-09 17:42:10,140 - chat_lora - INFO - ============================================================
+2026-01-09 17:42:10,140 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-09 17:42:11,824 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-09 17:42:11,842 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-09 17:42:11,842 - chat_lora - INFO - 📥 Loading base model...
+2026-01-09 17:42:14,605 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-09 17:42:14,605 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-09 17:42:14,606 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-09 17:42:15,716 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-09 17:42:15,716 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-09 17:42:15,716 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-09 17:42:27,873 - chat_lora - WARNING -    Test 'Who are you?...': Score 38.0
+2026-01-09 17:42:27,873 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-09 17:52:18,192 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-09 17:52:18,192 - chat_lora - INFO - ============================================================
+2026-01-09 17:52:18,192 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-09 17:52:19,622 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-09 17:52:19,647 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-09 17:52:19,647 - chat_lora - INFO - 📥 Loading base model...
+2026-01-09 17:52:22,060 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-09 17:52:22,060 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-09 17:52:22,060 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-09 17:52:23,021 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-09 17:52:23,021 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-09 17:52:23,021 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-09 17:52:36,413 - chat_lora - WARNING -    Test 'Who are you?...': Score 38.0
+2026-01-09 17:52:36,413 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 12:57:05,278 - __main__ - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 12:57:05,278 - __main__ - INFO - ============================================================
+2026-01-13 12:57:05,278 - __main__ - INFO - 📥 Loading tokenizer...
+2026-01-13 12:57:06,592 - __main__ - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 12:57:06,621 - __main__ - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 12:57:06,622 - __main__ - INFO - 📥 Loading base model...
+2026-01-13 12:57:09,622 - __main__ - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 12:57:09,622 - __main__ - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 12:57:09,622 - __main__ - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 12:57:10,602 - __main__ - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 12:57:10,603 - __main__ - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 12:57:10,603 - __main__ - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 12:57:23,336 - __main__ - WARNING -    Test 'Who are you?...': Score 46.0
+2026-01-13 12:57:23,336 - __main__ - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 12:59:08,353 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 12:59:08,353 - chat_lora - INFO - ============================================================
+2026-01-13 12:59:08,353 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 12:59:14,664 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 12:59:14,689 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 12:59:14,689 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 12:59:17,000 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 12:59:17,000 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 12:59:17,001 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 12:59:17,913 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 12:59:17,913 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 12:59:17,913 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 12:59:40,889 - chat_lora - WARNING -    Test 'What is democracy?...': Score 33.0
+2026-01-13 12:59:40,890 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 13:09:37,951 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 13:09:37,952 - chat_lora - INFO - ============================================================
+2026-01-13 13:09:37,952 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 13:09:39,144 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 13:09:39,144 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 13:09:39,144 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 13:09:43,115 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 13:09:43,115 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 13:09:43,115 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 13:09:43,760 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 13:09:43,761 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 13:09:43,761 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 13:09:57,380 - chat_lora - WARNING -    Test 'Who are you?...': Score 38.0
+2026-01-13 13:09:57,381 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 13:09:59,334 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 13:09:59,335 - chat_lora - INFO - ============================================================
+2026-01-13 13:09:59,335 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 13:10:00,493 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 13:10:00,493 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 13:10:00,493 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 13:10:04,645 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 13:10:04,648 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 13:10:04,649 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 13:10:04,852 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 13:10:04,852 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 13:10:04,852 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 13:10:15,157 - chat_lora - WARNING -    Test 'Who are you?...': Score 38.0
+2026-01-13 13:10:15,158 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 13:12:21,471 - chat_lora - INFO - ⚠️ Lincoln response quality low (37.5), using fallback...
+2026-01-13 13:23:49,558 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 13:23:49,559 - chat_lora - INFO - ============================================================
+2026-01-13 13:23:49,559 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 13:23:50,812 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 13:23:50,812 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 13:23:50,812 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 13:23:55,334 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 13:23:55,334 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 13:23:55,334 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 13:23:56,167 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 13:23:56,167 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 13:23:56,167 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 13:24:25,849 - chat_lora - INFO - 🧪 Lincoln persona test: PASSED
+2026-01-13 13:24:33,739 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 13:24:33,740 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 13:24:37,986 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 13:25:43,053 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 13:25:43,054 - chat_lora - INFO - ============================================================
+2026-01-13 13:25:43,054 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 13:25:44,290 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 13:25:44,290 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 13:25:44,290 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 13:25:50,550 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 13:25:50,550 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 13:25:50,551 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 13:25:51,465 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 13:25:51,465 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 13:25:51,465 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 13:26:18,442 - chat_lora - WARNING -    Test 'Who are you?...': Score 30.0
+2026-01-13 13:26:18,443 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 13:26:22,280 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 13:26:22,281 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 13:26:26,252 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 13:27:38,762 - rag_pipeline - ERROR - Index not initialized or empty
+2026-01-13 13:28:00,115 - rag_pipeline - ERROR - Index not initialized or empty
+2026-01-13 13:29:17,964 - chat_lora - INFO - ⚠️ Lincoln response quality low (30.0), using fallback...
+2026-01-13 13:30:02,569 - rag_pipeline - ERROR - Index not initialized or empty
+2026-01-13 13:30:08,491 - rag_pipeline - ERROR - Index not initialized or empty
+2026-01-13 13:33:41,082 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 13:33:41,083 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 13:33:45,906 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 13:33:48,277 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 13:33:48,278 - chat_lora - INFO - ============================================================
+2026-01-13 13:33:48,278 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 13:33:49,703 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 13:33:49,703 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 13:33:49,703 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 13:33:56,668 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 13:33:56,668 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 13:33:56,669 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 13:33:57,450 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 13:33:57,450 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 13:33:57,450 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 13:34:21,473 - chat_lora - WARNING -    Test 'Who are you?...': Score 46.0
+2026-01-13 13:34:21,474 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 13:34:26,463 - rag_pipeline - ERROR - Index not initialized or empty
+2026-01-13 13:37:30,934 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 13:37:30,934 - chat_lora - INFO - ============================================================
+2026-01-13 13:37:30,934 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 13:37:30,976 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 13:37:30,976 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 13:37:52,601 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 13:37:52,601 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 13:37:52,601 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 13:37:55,052 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 13:37:55,052 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 13:37:55,053 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 13:37:55,066 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 13:37:56,367 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 13:37:56,367 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 13:37:56,367 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 13:38:01,439 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 13:38:01,439 - chat_lora - INFO - ============================================================
+2026-01-13 13:38:01,439 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 13:38:04,088 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 13:38:04,088 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 13:38:04,088 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 13:38:06,123 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 13:38:06,124 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 13:38:06,124 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 13:38:06,386 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 13:38:06,386 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 13:38:06,386 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 13:38:15,805 - chat_lora - WARNING -    Test 'Who are you?...': Score 30.0
+2026-01-13 13:38:15,806 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 13:38:22,458 - chat_lora - WARNING -    Test 'Who are you?...': Score 46.0
+2026-01-13 13:38:22,458 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 13:39:59,714 - rag_pipeline - ERROR - Index not initialized or empty
+2026-01-13 13:41:32,774 - chat_lora - INFO - ⚠️ Lincoln response quality low (38.0), using fallback...
+2026-01-13 14:21:06,928 - rag_pipeline - ERROR - Index not initialized or empty
+2026-01-13 14:21:47,902 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 14:21:47,903 - chat_lora - INFO - ============================================================
+2026-01-13 14:21:47,903 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 14:21:49,212 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 14:21:49,213 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 14:21:49,213 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 14:21:52,420 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 14:21:52,420 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 14:21:52,421 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 14:21:52,604 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 14:21:52,604 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 14:21:52,604 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 14:22:02,707 - chat_lora - WARNING -    Test 'Who are you?...': Score 46.0
+2026-01-13 14:22:02,708 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 14:22:04,618 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 14:22:04,618 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 14:22:08,183 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 14:22:20,841 - chat_lora - INFO - ⚠️ Lincoln response quality low (30.0), using fallback...
+2026-01-13 14:22:25,784 - rag_pipeline - ERROR - Index not initialized or empty
+2026-01-13 14:29:08,299 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 14:29:08,300 - chat_lora - INFO - ============================================================
+2026-01-13 14:29:08,300 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 14:29:09,563 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 14:29:09,564 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 14:29:09,564 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 14:29:09,924 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 14:29:09,924 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 14:29:13,076 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 14:29:13,076 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 14:29:13,076 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 14:29:13,275 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 14:29:13,643 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 14:29:13,643 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 14:29:13,643 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 14:29:24,763 - chat_lora - WARNING -    Test 'Who are you?...': Score 38.0
+2026-01-13 14:29:24,764 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 14:29:35,025 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 14:29:35,025 - chat_lora - INFO - ============================================================
+2026-01-13 14:29:35,025 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 14:29:36,138 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 14:29:36,139 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 14:29:36,139 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 14:29:39,183 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 14:29:39,184 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 14:29:39,185 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 14:29:39,365 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 14:29:39,365 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 14:29:39,365 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 14:29:49,459 - chat_lora - WARNING -    Test 'Who are you?...': Score 38.0
+2026-01-13 14:29:49,459 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 14:29:52,487 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 14:29:52,487 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 14:29:55,886 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 14:34:23,466 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 14:34:23,467 - chat_lora - INFO - ============================================================
+2026-01-13 14:34:23,467 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 14:34:23,475 - huggingface_hub.utils._http - WARNING - '(ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), '(Request ID: 114dbfa1-9a9c-4868-ba0a-e25737714933)')' thrown while requesting HEAD https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat/resolve/main/tokenizer_config.json
+2026-01-13 14:34:23,478 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2026-01-13 14:34:26,146 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 14:34:26,146 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 14:34:26,146 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 14:34:29,518 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 14:34:29,519 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 14:34:29,519 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 14:34:29,700 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 14:34:29,700 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 14:34:29,700 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 14:34:39,945 - chat_lora - WARNING -    Test 'Who are you?...': Score 30.0
+2026-01-13 14:34:39,946 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 14:34:53,635 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 14:34:53,635 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 14:34:57,530 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 14:44:58,799 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 14:44:58,799 - chat_lora - INFO - ============================================================
+2026-01-13 14:44:58,799 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 14:45:04,355 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 14:45:04,355 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 14:45:04,355 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 14:45:08,104 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 14:45:08,105 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 14:45:08,105 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 14:45:08,283 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 14:45:08,283 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 14:45:08,283 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 14:45:18,381 - chat_lora - WARNING -    Test 'Who are you?...': Score 38.0
+2026-01-13 14:45:18,382 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 14:48:23,823 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 14:48:23,823 - chat_lora - INFO - ============================================================
+2026-01-13 14:48:23,823 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 14:48:25,042 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 14:48:25,043 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 14:48:25,043 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 14:48:28,335 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 14:48:28,335 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 14:48:28,335 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 14:48:28,523 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 14:48:28,524 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 14:48:28,524 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 14:48:38,668 - chat_lora - WARNING -    Test 'Who are you?...': Score 30.0
+2026-01-13 14:48:38,668 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 14:48:41,078 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 14:48:41,078 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 14:48:44,633 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 14:49:21,666 - rag_pipeline - ERROR - Index not initialized or empty
+2026-01-13 14:57:44,709 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-13 14:57:44,710 - chat_lora - INFO - ============================================================
+2026-01-13 14:57:44,710 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-13 14:57:45,991 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-13 14:57:45,991 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-13 14:57:45,991 - chat_lora - INFO - 📥 Loading base model...
+2026-01-13 14:57:49,780 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-13 14:57:49,780 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-13 14:57:49,781 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-13 14:57:49,970 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-13 14:57:49,970 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-13 14:57:49,971 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-13 14:58:00,121 - chat_lora - WARNING -    Test 'Who are you?...': Score 46.0
+2026-01-13 14:58:00,121 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-13 14:58:02,748 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-13 14:58:02,749 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-13 14:58:11,315 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-13 14:58:11,316 - faiss.loader - INFO - Loading faiss.
+2026-01-13 14:58:11,404 - faiss.loader - INFO - Successfully loaded faiss.
+2026-01-13 14:58:11,412 - rag_pipeline - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-30 14:46:33,795 - chat_lora - INFO - 🤖 LOADING CHAT SYSTEM...
+2026-01-30 14:46:33,795 - chat_lora - INFO - ============================================================
+2026-01-30 14:46:33,795 - chat_lora - INFO - 📥 Loading tokenizer...
+2026-01-30 14:46:35,313 - chat_lora - INFO - ✅ Tokenizer loaded (vocab: 151,643)
+2026-01-30 14:46:35,344 - chat_lora - INFO - 🍎 Using Apple Silicon GPU (MPS)
+2026-01-30 14:46:35,344 - chat_lora - INFO - 📥 Loading base model...
+2026-01-30 14:46:38,761 - chat_lora - INFO - ✅ Base model loaded (463,987,712 parameters)
+2026-01-30 14:46:38,762 - chat_lora - INFO - 📥 Attempting to load Lincoln LoRA adapter...
+2026-01-30 14:46:38,762 - chat_lora - INFO - 📁 Found 13 files in LoRA directory
+2026-01-30 14:46:40,414 - chat_lora - INFO - ✨ LINCOLN MODEL LOADED SUCCESSFULLY!
+2026-01-30 14:46:40,414 - chat_lora - INFO -    Trainable (Lincoln) parameters: 0
+2026-01-30 14:46:40,414 - chat_lora - INFO -    % Fine-tuned: 0.0000%
+2026-01-30 14:46:42,127 - chat_lora - WARNING -    Test 'Who are you?...': Score 30.0
+2026-01-30 14:46:42,127 - chat_lora - WARNING - ⚠️ Lincoln persona test: WEAK - May need fallback
+2026-01-30 14:46:48,088 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2026-01-30 14:46:48,088 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-30 14:46:51,786 - rag_pipeline - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-30 14:46:51,788 - faiss.loader - INFO - Loading faiss.
+2026-01-30 14:46:51,917 - faiss.loader - INFO - Successfully loaded faiss.
+2026-01-30 14:46:51,924 - rag_pipeline - INFO - ✅ Loaded FAISS index with 182 vectors

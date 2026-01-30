@@ -1,0 +1,56 @@
+{
+  "document_id": "D200374",
+  "url": "https://papersofabrahamlincoln.org/documents/D200374",
+  "metadata": {
+    "date": "1845-10-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Assignments (Law)",
+      "Lawyers--Fees",
+      "Trials (Slander)"
+    ],
+    "type": "Assignment"
+  },
+  "content": {
+    "full_text": "Assignment of Judgment against Francis Regnier, 24 October 18451 For and in consideration of the sum of twenty five dollars received ofFrancis Regnier, I do hereby transfer and release to said Regnier all my right, title and interest\n\nin and to a judgment obtained in theMorgan circuit courtin the year 1844 in favor ofEliza S. Cabbott(since married toTorry) against said Regnier it being my individual interestinand believed to be one eighth part of said judgment, be the same more or less–2Witness my hand this24thday of October 1845; as one of the attornies, of the",
+    "paragraphs": [
+      "Assignment of Judgment against Francis Regnier, 24 October 18451 For and in consideration of the sum of twenty five dollars received ofFrancis Regnier, I do hereby transfer and release to said Regnier all my right, title and interest",
+      "in and to a judgment obtained in theMorgan circuit courtin the year 1844 in favor ofEliza S. Cabbott(since married toTorry) against said Regnier it being my individual interestinand believed to be one eighth part of said judgment, be the same more or less–2Witness my hand this24thday of October 1845; as one of the attornies, of the"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Regnier v. Cabot & Torrey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+    ],
+    "footnotes": [
+      {
+        "id": "X339C0B8E-0849-450B-869D-4AF98B2E9362",
+        "text": "1Abraham Lincoln wrote and signed this document."
+      },
+      {
+        "id": "XD481AE32-9E79-43DC-B94D-6D1E2A75BCD3",
+        "text": "2Lincoln was one of  four attorneys who represented Eliza S. Cabot in a slander suit\n                  against Francis Regnier. A jury had awarded her $1,600 for Regnier’s assault on her\n                  character when he accused her of engaging in sex outside of marriage. Regnier appealed\n                  to theIllinois Supreme Court, which affirmed the verdict and the damages.Regnier v. Cabot & Torrey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Assignment of Judgment against Francis Regnier, 24 October 18451"
+      },
+      {
+        "type": "paragraph",
+        "text": "For and in consideration of the sum of twenty five dollars received ofFrancis Regnier, I do hereby transfer and release to said Regnier all my right, title and interest\n               in and to a judgment obtained in theMorgan circuit courtin the year 1844 in favor ofEliza S. Cabbott(since married toTorry) against said Regnier  it being my individual interestinand believed to be one eighth part of said judgment, be the same more or less–2Witness my hand this24thday of October 1845;  as one of the attornies, of the [plaintiff.?]"
+      }
+    ],
+    "word_count": 94
+  },
+  "extraction_date": "2025-12-26 20:21:36",
+  "word_count": 95,
+  "processing": {
+    "cleaned": true,
+    "original_length": 598,
+    "cleaned_length": 568,
+    "preserved_originality": true
+  }
+}

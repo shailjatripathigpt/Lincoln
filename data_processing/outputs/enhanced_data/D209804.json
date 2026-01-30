@@ -1,0 +1,100 @@
+{
+  "document_id": "D209804",
+  "url": "https://papersofabrahamlincoln.org/documents/D209804",
+  "metadata": {
+    "date": "1849-06-23",
+    "authors": [
+      "Ewing, Thomas"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-23",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "president",
+      "you",
+      "office",
+      "first",
+      "candidate",
+      "favorably",
+      "thomas",
+      "ewing",
+      "abraham",
+      "lincoln",
+      "june",
+      "hesitation",
+      "expressing",
+      "opinion",
+      "instance"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Thomas Ewing to Abraham Lincoln, 23 June 18491 I have no hesitation in expressing the opinion that if you had been, in the first\n\ninstance, a candidate\n\nfor the office of Commissioner of theGeneral Land Office, you would have received the appointment–2You\n\nwere generally and favorably known here– MrButterfieldwas at first a candidate for the office of\n\nSolicitor of theTreasury, so that you and he would not have come in competition– ThePresidenthad determined to give this office tooffice toIllinois,3and there was no\n\nother applicant in the State, however high his merits, who could, under all the circumstances\n\nhave been\n\npresented to the President so favorably as yourself. I also take great pleasure in saying, that your bearing throughout has been such as\n\nto entitle you to my\n\nhighest consideration and respect.4",
+    "paragraphs": [
+      "Thomas Ewing to Abraham Lincoln, 23 June 18491 I have no hesitation in expressing the opinion that if you had been, in the first",
+      "for the office of Commissioner of theGeneral Land Office, you would have received the appointment–2You",
+      "were generally and favorably known here– MrButterfieldwas at first a candidate for the office of",
+      "Solicitor of theTreasury, so that you and he would not have come in competition– ThePresidenthad determined to give this office tooffice toIllinois,3and there was no",
+      "other applicant in the State, however high his merits, who could, under all the circumstances",
+      "presented to the President so favorably as yourself. I also take great pleasure in saying, that your bearing throughout has been such as",
+      "to entitle you to my"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Thomas Ewing.",
+      "Thomas F. Schwartz, \"'An Egregious Political Blunder': Justin Butterfield, Lincoln,\n                     and Illinois Whiggery,\"Journal of the Abraham Lincoln Association8 (1986), 9-19.",
+      "Abraham Lincoln to Thomas Ewing;Thomas Ewing to Abraham Lincoln;Abraham Lincoln to Thomas Ewing;Thomas Ewing to Abraham Lincoln;Abraham Lincoln to Thomas Ewing."
+    ],
+    "footnotes": [
+      {
+        "id": "X9D06AD9C-B0C0-40BB-B58A-33A14E41BA17",
+        "text": "1This letter is attributed to Thomas Ewing but is not in his hand."
+      },
+      {
+        "id": "X905956B5-ED5F-40D7-8CE7-C393F797BD3E",
+        "text": "2Ewing references the competition over who would replaceRichard M. Youngas commissioner of theU.S. General Land Office. Originally, only Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner. Lincoln entered the competition after learning\n                  that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair.Ewing wrote this letter in response to aletterAbraham Lincoln wrote him on June 22, 1849. Edwards became angry that Lincoln joined\n                  the competition for the position, and filed a letter with theU.S. Department of the Interioragainst Lincoln and in favor of Butterfield. This pained Lincoln, who requested this\n                  letter from Ewing in the hopes that it would help remove Edwards’ bad impression of\n                  him. Ewing, however, does not directly address the topic of Edwards’ candidacy  in\n                  this letter.Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Thomas Ewing."
+      },
+      {
+        "id": "X32FBB72E-0B0A-4069-B745-47A48FF89A34",
+        "text": "3Butterfield was a prominent attorney inChicagoand a former district attorney, but Lincoln did not believe he deserved the position.\n                  Lincoln summarized his objections to Butterfield’s appointment as commissioner of\n                  the U.S. General Land Office in a May 16, 1849lettertoWilliam B. Preston.Thomas F. Schwartz, \"'An Egregious Political Blunder': Justin Butterfield, Lincoln,\n                     and Illinois Whiggery,\"Journal of the Abraham Lincoln Association8 (1986), 9-19."
+      },
+      {
+        "id": "XA6E7F0C5-0282-4D01-AC7B-6E70A3450A39",
+        "text": "4Neither Morrison, Edwards, nor Lincoln received the appointment; the job went to Butterfield\n                  instead.  See theGeneral Land Office Affair. Ewing and Lincoln corresponded several more times on the topic of letters of recommendation\n                  Ewing and the Department of the Interior received concerning Lincoln’s candidacy for\n                  commissioner.Abraham Lincoln to Thomas Ewing;Thomas Ewing to Abraham Lincoln;Abraham Lincoln to Thomas Ewing;Thomas Ewing to Abraham Lincoln;Abraham Lincoln to Thomas Ewing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Thomas Ewing to Abraham Lincoln, 23 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have no hesitation in expressing the opinion that if you had been, in the first\n               instance, a candidate\n               for the office of Commissioner of theGeneral Land Office, you would have received the appointment–2You\n               were generally and favorably known here– MrButterfieldwas at first a candidate for the office of\n               Solicitor of theTreasury, so that you and he would not have come in competition–"
+      },
+      {
+        "type": "paragraph",
+        "text": "ThePresidenthad determined to give this office tooffice toIllinois,3and there was no\n               other applicant in the State, however high his merits, who could, under all the circumstances\n               have been\n               presented to the President so favorably as yourself."
+      },
+      {
+        "type": "paragraph",
+        "text": "I also take great pleasure in saying, that your bearing throughout has been such as\n               to entitle you to my\n               highest consideration and respect.4"
+      }
+    ],
+    "word_count": 131
+  },
+  "extraction_date": "2025-12-26 21:18:54",
+  "word_count": 131,
+  "processing": {
+    "cleaned": true,
+    "original_length": 949,
+    "cleaned_length": 823,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

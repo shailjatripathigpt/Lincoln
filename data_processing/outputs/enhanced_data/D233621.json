@@ -1,0 +1,66 @@
+{
+  "document_id": "D233621",
+  "url": "https://papersofabrahamlincoln.org/documents/D233621",
+  "metadata": {
+    "date": "1849-12-07",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-12-07",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "john",
+      "clayton",
+      "december"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Clayton, 7 December 18491",
+    "paragraphs": [
+      "Abraham Lincoln to John M. Clayton, 7 December 18491"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+    ],
+    "footnotes": [
+      {
+        "id": "X1247996F-6675-4BF4-A502-3B6FBA117148",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XDE2A2B7D-BEBC-40E3-B067-474C71500A16",
+        "text": "2Lincoln endorsed two letters of recommendation,onefrom Judge John D. Caton, andonefrom T. Lyle Dickey."
+      },
+      {
+        "id": "XD0084F1F-D507-44F6-B9A0-A8AA0A86BF7A",
+        "text": "3Edward A. Guilbert does not appear in the official registers of the officers and agents\n                  of the federal government for 1849, 1851, and 1853, so apparently he did not receive\n                  an appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Clayton, 7 December 18491"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 21:21:47",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 52,
+    "cleaned_length": 52,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

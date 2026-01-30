@@ -1,0 +1,81 @@
+{
+  "document_id": "D210514",
+  "url": "https://papersofabrahamlincoln.org/documents/D210514",
+  "metadata": {
+    "date": "1849-06-11",
+    "authors": [
+      "Morrison, John H."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-11",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "return",
+      "john",
+      "morrison",
+      "abraham",
+      "lincoln",
+      "june",
+      "city",
+      "fromtazewell",
+      "sent",
+      "mrking",
+      "ofpekin",
+      "letter",
+      "mailed",
+      "atspringldfor"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "John H. Morrison to Abraham Lincoln, 11 June 18491 I am in this City on my return fromTazewell– I sent by MrKing(ofPekin) a letter to be mailed atSpringldfor you– That I addressed to theSecyof the Interior– You canyouuse your discretion in the use ofthiseither.2Don't let Mr.B. overreach you– He was here yesterday on his return from Springld3",
+    "paragraphs": [
+      "John H. Morrison to Abraham Lincoln, 11 June 18491 I am in this City on my return fromTazewell– I sent by MrKing(ofPekin) a letter to be mailed atSpringldfor you– That I addressed to theSecyof the Interior– You canyouuse your discretion in the use ofthiseither.2Don't let Mr.B. overreach you– He was here yesterday on his return from Springld3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope.",
+      "Thomas Ewing, “Lincoln and the General Land Office, 1849,”Journal of the Illinois State Historical Society25 (October 1932), 140, 142-43;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 June 1849,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-09."
+    ],
+    "footnotes": [
+      {
+        "id": "XD95AFE83-B983-4897-A617-5073F8A4B56A",
+        "text": "1John H. Morrison wrote and signed this letter."
+      },
+      {
+        "id": "XF34C0D95-D68C-4859-83C5-8687640D0E5A",
+        "text": "2In early June 1849, Abraham Lincoln sent a series of letters to numerous people requesting\n                  letters in support of his candidacy for commissioner of theU.S. General Land Office. Presumably, he made the same request of Morrison. Originally,Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to replaceRichard M. Youngas commissioner. Lincoln entered the competition after learning that Butterfield\n                  was favored over Morrison and Edwards. See theGeneral Land Office Affair. No letter of reference from Morrison to Lincoln has been located. MorrisonwroteLincoln again June 14, 1849.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "X3F4014DD-CD38-4E9B-A8EE-48B51ED947EB",
+        "text": "3Butterfield arrived in Springfield on June 5.    On June 9, Butterfieldcorrespondedwith Lincoln regarding their mutual interest in the U.S. General Land Office--a letter\n                  to which Lincoln did not respond.  Ultimately, neither Morrison, Edwards, nor Lincoln\n                  received the position. PresidentZachary Taylorappointed Butterfield instead. See theGeneral Land Office Affair.Thomas Ewing, “Lincoln and the General Land Office, 1849,”Journal of the Illinois State Historical Society25 (October 1932), 140, 142-43;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 June 1849,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-09."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John H. Morrison to Abraham Lincoln, 11 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am in this City on my return fromTazewell–  I sent by MrKing(ofPekin) a letter to be mailed atSpringldfor you–  That I addressed to theSecyof the Interior–  You canyouuse your discretion in the use  ofthiseither.2Don't let Mr.B. overreach you–  He was here yesterday on his return from Springld[Springfield]3"
+      }
+    ],
+    "word_count": 57
+  },
+  "extraction_date": "2025-12-26 21:16:55",
+  "word_count": 57,
+  "processing": {
+    "cleaned": true,
+    "original_length": 361,
+    "cleaned_length": 343,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

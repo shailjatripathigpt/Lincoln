@@ -1,0 +1,93 @@
+{
+  "document_id": "D200075",
+  "url": "https://papersofabrahamlincoln.org/documents/D200075",
+  "metadata": {
+    "date": "1836-04-04",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military pensions",
+      "Land titles--Registration and transfer",
+      "Title examinations",
+      "Public records",
+      "Real property",
+      "Public lands"
+    ],
+    "type": "Letter",
+    "extracted_date": "1836-04-04",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "record",
+      "whether",
+      "land",
+      "who",
+      "present",
+      "owner",
+      "abraham",
+      "lincoln",
+      "levi",
+      "davis",
+      "april",
+      "you",
+      "confer",
+      "favour",
+      "examining"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Levi Davis, 4 April 18361 You will confer a favour on me by examining the Record kept by\n\nthe old State Recorder, and ascertaining whether a deed for the N.W. quarter of Section 23, in Town 10\n\nNorth Range 5 West in theBounty tractmade byWilliamson TrenttoMichael Mcdiermanhas ever been recorded in that office, and if so,\n\nwhether the record shows that the land has been transfered by Mcdierman, and if it has, who is the present owner under him.2Also please to give me all the\n\ninformation inyouroffice in regard to sales of said land for taxes,\n\nand who is the present owner by tax title.3",
+    "paragraphs": [
+      "Abraham Lincoln to Levi Davis, 4 April 18361 You will confer a favour on me by examining the Record kept by",
+      "the old State Recorder, and ascertaining whether a deed for the N.W. quarter of Section 23, in Town 10",
+      "North Range 5 West in theBounty tractmade byWilliamson TrenttoMichael Mcdiermanhas ever been recorded in that office, and if so,",
+      "whether the record shows that the land has been transfered by Mcdierman, and if it has, who is the present owner under him.2Also please to give me all the",
+      "information inyouroffice in regard to sales of said land for taxes,",
+      "and who is the present owner by tax title.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act Establishing a Recorder’s Office for the State,” 12 February 1827,Revised Laws of Illinois(1827), 378-80; “An Act Abolishing the Office of the State Recorder,” 18 January\n                     1833,Revised Laws of Illinois(1833), 587-88.",
+      "“An Act Supplemental to an Act, Entitled ‘An Act to Provide for Raising a Revenue,’”\n                     19 January 1829,Revised Laws of Illinois(1829), 119-24; “An Act to Consolidate the Acts relative to the Auditor and Treasurer\n                     and Election of Attorney General,” 2 March 1833,Revised Laws of Illinois(1833), 103-07; “An Act concerning the Public Revenue,” 27 February 1833,Revised Laws of Illinois(1833), 528-34."
+    ],
+    "footnotes": [
+      {
+        "id": "X629568E6-57E0-4F55-8C56-62CB4425C135",
+        "text": "1Abraham Lincoln wrote the entirely of this letter to Levi Davis. The address, return\n                  address, and notation “Free” on the back page were also written by Lincoln."
+      },
+      {
+        "id": "XE2ED29C5-E580-45E9-8DA4-D35EBE7996D5",
+        "text": "2The land described here is in present-dayHenderson County, nearOquawka.The office of state recorder, which theLegislaturecreated in 1827 and abolished in 1833, was established to keep a record of all deeds\n                  and title papers of Illinois lands owned by non-residents of the state.“An Act Establishing a Recorder’s Office for the State,” 12 February 1827,Revised Laws of Illinois(1827), 378-80; “An Act Abolishing the Office of the State Recorder,” 18 January\n                     1833,Revised Laws of Illinois(1833), 587-88."
+      },
+      {
+        "id": "X67022786-73B8-46DF-8E0B-4C30B5FF7D36",
+        "text": "3Illinois law levied a tax on real estate. Until 1833, Illinois’ state auditor and\n                  treasurer conducted land sales to cover unpaid property taxes; after 1833, county\n                  officials conducted the sales. As auditor, Levi Davis was required to keep accounts\n                  of all taxes due to and received by the state.“An Act Supplemental to an Act, Entitled ‘An Act to Provide for Raising a Revenue,’”\n                     19 January 1829,Revised Laws of Illinois(1829), 119-24; “An Act to Consolidate the Acts relative to the Auditor and Treasurer\n                     and Election of Attorney General,” 2 March 1833,Revised Laws of Illinois(1833), 103-07; “An Act concerning the Public Revenue,” 27 February 1833,Revised Laws of Illinois(1833), 528-34."
+      },
+      {
+        "id": "XA1543D5D-AC85-4668-BE98-63583EF6DF3D",
+        "text": "4Lincoln received free postage as a benefit of hisappointmentas postmaster of New Salem."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Levi Davis, 4 April 18361"
+      },
+      {
+        "type": "paragraph",
+        "text": "You will confer a favour on me by examining the Record kept by\n               the old State Recorder, and ascertaining whether a deed for the N.W.[Northwest] quarter of Section 23, in Town[Township] 10\n               North Range 5 West in theBounty tractmade byWilliamson TrenttoMichael Mcdiermanhas ever been recorded in that office, and if so,\n               whether the record shows that the land has been transfered by Mcdierman, and if it has, who is the present owner under him.2Also please to give me all the\n               information inyouroffice in regard to sales of said land for taxes,\n               and who is the present owner by tax title.3"
+      }
+    ],
+    "word_count": 108
+  },
+  "extraction_date": "2025-12-26 20:03:35",
+  "word_count": 108,
+  "processing": {
+    "cleaned": true,
+    "original_length": 702,
+    "cleaned_length": 611,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

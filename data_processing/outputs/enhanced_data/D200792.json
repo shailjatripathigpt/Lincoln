@@ -1,0 +1,81 @@
+{
+  "document_id": "D200792",
+  "url": "https://papersofabrahamlincoln.org/documents/D200792",
+  "metadata": {
+    "date": "1854-08-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers--Fees"
+    ],
+    "type": "Letter",
+    "extracted_date": "1854-08-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "letter",
+      "you",
+      "your",
+      "note",
+      "take",
+      "abraham",
+      "lincoln",
+      "richard",
+      "thomas",
+      "august",
+      "received",
+      "day",
+      "before",
+      "yesterday",
+      "payee"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Richard S. Thomas, 24 August 18541 Your letter of the 19thwas received day before yesterday–2The payee of the note did write me that he had writtenAllardon the subject of the note in your hands; so that when Allard shows you the letter,\n\nyou need not doubt its genuineness– If the letter does, unconditionally, or only with\n\nthe condition of my consent, agree to take $110 and my fee, Settle the matter that\n\nway– As to the amount of my fees, take ten dollars, which you and I will divide equally.3",
+    "paragraphs": [
+      "Abraham Lincoln to Richard S. Thomas, 24 August 18541 Your letter of the 19thwas received day before yesterday–2The payee of the note did write me that he had writtenAllardon the subject of the note in your hands; so that when Allard shows you the letter,",
+      "you need not doubt its genuineness– If the letter does, unconditionally, or only with",
+      "the condition of my consent, agree to take $110 and my fee, Settle the matter that",
+      "way– As to the amount of my fees, take ten dollars, which you and I will divide equally.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln & Thomas collected debt, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141441."
+    ],
+    "footnotes": [
+      {
+        "id": "XDEE3E9BB-FCC6-4F6D-B4F0-71088695BE2C",
+        "text": "1This document is attributed to Abraham Lincoln but is not in his hand.  The original\n                  in Lincoln’s hand is not extant."
+      },
+      {
+        "id": "XE2FF00B2-3086-4E78-99FD-11E9D7D1DAC7",
+        "text": "2Richard S. Thomas’ letter has not been found."
+      },
+      {
+        "id": "X3DBEB33A-EF70-4750-8FA3-9AE5E540106F",
+        "text": "3Abraham Lincoln and Thomas collected the debt owed by Luther S. Allard and split the\n                  $10 fee for their efforts.Lincoln & Thomas collected debt, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141441."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Richard S. Thomas, 24 August 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 19thwas received day before yesterday–2The payee of the note did write me that he had writtenAllardon the subject of the note in your hands; so that when Allard shows you the letter,\n               you need not doubt its genuineness– If the letter does, unconditionally, or only with\n               the condition of my consent, agree to take $110 and my fee, Settle the matter that\n               way– As to the amount of my fees, take ten dollars, which you and I will divide equally.3"
+      }
+    ],
+    "word_count": 93
+  },
+  "extraction_date": "2025-12-26 21:29:50",
+  "word_count": 93,
+  "processing": {
+    "cleaned": true,
+    "original_length": 559,
+    "cleaned_length": 517,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

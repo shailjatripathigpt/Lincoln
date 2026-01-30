@@ -1,0 +1,43 @@
+{
+  "document_id": "D200051",
+  "url": "https://papersofabrahamlincoln.org/documents/D200051",
+  "metadata": {
+    "date": "1835-01-27",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Roads"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James Semple, [27 January 1835]1",
+    "paragraphs": [
+      "Abraham Lincoln to James Semple, [27 January 1835]1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 396.",
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 429."
+    ],
+    "footnotes": [
+      {
+        "id": "XF42F2F79-C5E8-4DA7-8841-70E0BB670C1C",
+        "text": "1Abraham Lincoln wrote the text on page one. He presented this notice in the House\n                  of Representatives on January 27, 1835.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 396."
+      },
+      {
+        "id": "X8569F03C-BA05-4247-A9DE-6ECA6C3BE7D5",
+        "text": "2On Thursday, January 29,John DawsonintroducedA Bill relative to a State Road Therein Named, although Abraham Lincoln had written the bill.   The bill becamelawon February 12, 1835. Lincoln also authored acopyof the bill that included the report of the road commissioners.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 429."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James Semple, [27 January 1835]1"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:02:06",
+  "word_count": 8
+}

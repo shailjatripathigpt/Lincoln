@@ -1,0 +1,72 @@
+{
+  "total_documents_analyzed": 42,
+  "total_files_checked": 50,
+  "failed_documents": 8,
+  "documents_with_text": 42,
+  "avg_sentence_length": 37.61168691322843,
+  "std_sentence_length": 50.530479635023966,
+  "avg_word_length": 5.011888810164751,
+  "std_word_length": 0.5471039877670627,
+  "avg_lexical_diversity": 0.6634664421506105,
+  "std_lexical_diversity": 0.14181285390617968,
+  "lincoln_patterns_summary": {
+    "biblical_allusions": {
+      "average": 0.19047619047619047,
+      "std_dev": 0.6982322999340561,
+      "max": 4,
+      "min": 0
+    },
+    "legal_terms": {
+      "average": 1.6428571428571428,
+      "std_dev": 3.656835924620059,
+      "max": 17,
+      "min": 0
+    },
+    "metaphors": {
+      "average": 2.8333333333333335,
+      "std_dev": 6.7679801680823175,
+      "max": 36,
+      "min": 0
+    },
+    "parallel_structure": {
+      "average": 32.07142857142857,
+      "std_dev": 63.416383964256745,
+      "max": 331,
+      "min": 1
+    },
+    "repetition": {
+      "average": 26.952380952380953,
+      "std_dev": 62.091312321126196,
+      "max": 312,
+      "min": 0
+    },
+    "humble_tone": {
+      "average": 0.8095238095238095,
+      "std_dev": 1.954702452549885,
+      "max": 8,
+      "min": 0
+    },
+    "firm_conviction": {
+      "average": 5.071428571428571,
+      "std_dev": 11.306114774427023,
+      "max": 62,
+      "min": 0
+    }
+  },
+  "document_types_summary": {
+    "Letter": 27,
+    "Deed": 3,
+    "Bill": 1,
+    "Speech": 1,
+    "Certificate": 2,
+    "Legislative debate": 1,
+    "Proceedings": 3,
+    "List": 2,
+    "Receipt": 1,
+    "Note": 1
+  },
+  "readability_summary": {
+    "avg_flesch_ease": 31.003693735907827,
+    "avg_flesch_grade": 18.24637347204191
+  }
+}

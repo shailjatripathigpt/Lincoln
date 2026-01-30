@@ -1,0 +1,87 @@
+{
+  "document_id": "D303450",
+  "url": "https://papersofabrahamlincoln.org/documents/D303450",
+  "metadata": {
+    "date": "1840-12-08",
+    "authors": [],
+    "keywords": [
+      "Debts, Public",
+      "Government securities",
+      "Finance, Public",
+      "Interest"
+    ],
+    "type": "Amendment",
+    "extracted_date": "1840",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "duty",
+      "public",
+      "necessary",
+      "bill",
+      "also",
+      "sufficient",
+      "pay",
+      "other",
+      "charges",
+      "received",
+      "bonds",
+      "said",
+      "amendment",
+      "payment",
+      "interest"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill for the Payment of Interest on the Public Debt,” [8 December\n\n1840] Mr.Lincoln, proposed to amend the bill by inserting into the 9th line, at the end of the word\n\n“next” the words following, to wit: “And also, sufficient to pay freights, duty and other necessary charges upon railroad\n\niron, which has been received, and to be received under contracts heretofore made,\n\nand also sufficient to pay the necessary charges of the prosecution of certain suits\n\nprosecuting and to be prosecuted<Page 2>on behalf of thisState, in the State ofNew York. And if it shall become necessary to prevent a forfeiture of the bonds so hypothecated,\n\nsaid Fund Commissioner is hereby empowered to re-hypothecate said bonds for that purpose,\n\nand for no other whatever.”2",
+    "paragraphs": [
+      "Amendment to “A Bill for the Payment of Interest on the Public Debt,” [8 December",
+      "1840] Mr.Lincoln, proposed to amend the bill by inserting into the 9th line, at the end of the word",
+      "“next” the words following, to wit: “And also, sufficient to pay freights, duty and other necessary charges upon railroad",
+      "iron, which has been received, and to be received under contracts heretofore made,",
+      "and also sufficient to pay the necessary charges of the prosecution of certain suits",
+      "prosecuting and to be prosecuted<Page 2>on behalf of thisState, in the State ofNew York. And if it shall become necessary to prevent a forfeiture of the bonds so hypothecated,",
+      "said Fund Commissioner is hereby empowered to re-hypothecate said bonds for that purpose,",
+      "and for no other whatever.”2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1840. 12th G. A., 89-90, 98-99, 100.",
+      "Illinois State Register(Springfield), 18 December 1840, 2:1;Sangamo Journal(Springfield, IL), 15 December 1840, 2:7."
+    ],
+    "footnotes": [
+      {
+        "id": "X70456CEF-C5F7-4B38-90DD-33A8E3EB0F67",
+        "text": "1On December 8, 1840, Abraham Lincoln in theHouse of Representativesproposed this amendment to abill.  In the morning session on December 10, the House apparently adopted this amendment\n                  by a vote of 43 yeas to 42 nays, with Lincoln voting yea, but in the afternoon session,\n                  Speaker of the HouseWilliam L. D. Ewingreported that the Journal had incorrectly recorded the vote, and the actual tally\n                  was 45 yeas to 42 nays.  Legislators did not include any of the language of this amendment\n                  in thebillthat passed theGeneral Assemblyand theactthat became law.Illinois HouseJournal. 1840. 12th G. A., 89-90, 98-99, 100."
+      },
+      {
+        "id": "X849DFE0F-D1ED-4E75-8482-78CD57A05542",
+        "text": "2The HouseJournalindicated that the House passed this amendment, but theIllinois State RegisterandSangamo Journalreported otherwise.  The State Register reported  the amendment failed by a vote\n                  of 44 yeas to 44 nays, and the Sangamo Journal recorded that it failed by a vote of\n                  40 yeas to 44 nays.Illinois State Register(Springfield), 18 December 1840, 2:1;Sangamo Journal(Springfield, IL), 15 December 1840, 2:7."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill for the Payment of Interest on the Public Debt,” [8 December\n               1840]"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr.Lincoln, proposed to amend the bill by inserting into the 9th line, at the end of the word\n               “next” the words following, to wit:"
+      },
+      {
+        "type": "paragraph",
+        "text": "“And also, sufficient to pay freights, duty and other necessary charges upon railroad\n               iron, which has been received, and to be received under contracts heretofore made,\n               and also sufficient to pay the necessary charges of the prosecution of certain suits\n               prosecuting and to be prosecuted<Page 2>on behalf of thisState, in the State ofNew York.  And if it shall become necessary to prevent a forfeiture of the bonds so hypothecated,\n               said Fund Commissioner is hereby empowered to re-hypothecate said bonds for that purpose,\n               and for no other whatever.”2"
+      }
+    ],
+    "word_count": 127
+  },
+  "extraction_date": "2025-12-26 20:14:21",
+  "word_count": 127,
+  "processing": {
+    "cleaned": true,
+    "original_length": 872,
+    "cleaned_length": 773,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

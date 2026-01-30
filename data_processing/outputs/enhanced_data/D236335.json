@@ -1,0 +1,80 @@
+{
+  "document_id": "D236335",
+  "url": "https://papersofabrahamlincoln.org/documents/D236335",
+  "metadata": {
+    "date": "1848-11-23",
+    "authors": [
+      "Davison, Asa Lee"
+    ],
+    "keywords": [
+      "Paper money",
+      "Finance, Personal"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-11-23",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "see",
+      "there",
+      "way",
+      "sending",
+      "asa",
+      "lee",
+      "davison",
+      "abraham",
+      "lincoln",
+      "november",
+      "thank",
+      "report",
+      "thepatent",
+      "officeand"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Asa Lee Davison to Abraham Lincoln, 23 November 18481 I have to thank you^for^a report from thePatent officeand several of your eloquent speeches– Hope for a continuance of like favours– Inclosed you will see one of the manybeautiesof theSub-treasury, by which you will see there is due me at the Patent office $20.2which they have no way of sending to me– And I must call there for it or send an\n\nagent– And altho' it is with extreme reluctance that I would burthen you with such a matter, I can\n\nthink of no other way to obtain the money, than by asking you to get it for me in\n\ngold and sending me a current bank bill, by mail– for which I have written an order\n\nbelow–",
+    "paragraphs": [
+      "Asa Lee Davison to Abraham Lincoln, 23 November 18481 I have to thank you^for^a report from thePatent officeand several of your eloquent speeches– Hope for a continuance of like favours– Inclosed you will see one of the manybeautiesof theSub-treasury, by which you will see there is due me at the Patent office $20.2which they have no way of sending to me– And I must call there for it or send an",
+      "agent– And altho' it is with extreme reluctance that I would burthen you with such a matter, I can",
+      "think of no other way to obtain the money, than by asking you to get it for me in",
+      "gold and sending me a current bank bill, by mail– for which I have written an order"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XA1C8CEC3-A707-408A-AEE0-012FC7A9504B",
+        "text": "1Asa Lee Davison wrote this letter in its entirety."
+      },
+      {
+        "id": "X8DAEA75B-54D2-484B-9BD1-238270AC53D4",
+        "text": "2The enclosed “beauty” was not with the letter and has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Asa Lee Davison to Abraham Lincoln, 23 November 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have to thank you^for^a report from thePatent officeand several of your eloquent speeches–  Hope for a continuance of like favours–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Inclosed you will see one of the manybeautiesof theSub-treasury, by which you will see there is due me at the Patent office $20.2which they have no way of sending to me–  And I must call there for it or send an\n               agent–  And altho'[although] it is with extreme reluctance that I would burthen you with such a matter, I can\n               think of no other way to obtain the money, than by asking you to get it for me in\n               gold and sending me a current bank bill, by mail– for which I have written an order\n               below–"
+      }
+    ],
+    "word_count": 127
+  },
+  "extraction_date": "2025-12-26 20:31:42",
+  "word_count": 127,
+  "processing": {
+    "cleaned": true,
+    "original_length": 741,
+    "cleaned_length": 672,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

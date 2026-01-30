@@ -1,0 +1,97 @@
+{
+  "document_id": "D200819",
+  "url": "https://papersofabrahamlincoln.org/documents/D200819",
+  "metadata": {
+    "date": "1854-12-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Patronage, Political",
+      "Clerks of court"
+    ],
+    "type": "Letter",
+    "extracted_date": "1854-12-06",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "his",
+      "wish",
+      "him",
+      "not",
+      "write",
+      "abraham",
+      "lincoln",
+      "john",
+      "mclean",
+      "december",
+      "understand",
+      "contemplation",
+      "displace",
+      "thepresent",
+      "clerkand"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John McLean, 6 December 18541 I understand it is in contemplation to displace thepresent Clerkand appoint a new one for theCircuit and District courts of Illinois– I am very friendly to the present incumbent, and both for his own sake, and that\n\nof his family, I wish him to be retained so long as it is possible for the Court to\n\ndo so– In the contingency of his removal, however, I have recommendedWilliam Butleras his successor; and I do not wish what I write now, to be taken as any abatement\n\nof that recommendation–2 William J. Black, is also an applicant for the appointment; and I write this, at the solicitation\n\nof his friends, to say that he is every way worthy of the office; and that, I doubt\n\nnot, the confering it upon him, would give great satisfaction–3",
+    "paragraphs": [
+      "Abraham Lincoln to John McLean, 6 December 18541 I understand it is in contemplation to displace thepresent Clerkand appoint a new one for theCircuit and District courts of Illinois– I am very friendly to the present incumbent, and both for his own sake, and that",
+      "of his family, I wish him to be retained so long as it is possible for the Court to",
+      "do so– In the contingency of his removal, however, I have recommendedWilliam Butleras his successor; and I do not wish what I write now, to be taken as any abatement",
+      "of that recommendation–2 William J. Black, is also an applicant for the appointment; and I write this, at the solicitation",
+      "of his friends, to say that he is every way worthy of the office; and that, I doubt",
+      "not, the confering it upon him, would give great satisfaction–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John Livingston,Livingston's Law Register(New York: Monthly Law Magazine, 1854), 271; \"An Act to Divide the State of Illinois\n                     into Two Judicial Circuits,\" 13 February 1855,Statutes at Large of the United States10 (1855):606-7;Illinois Daily Journal(Springfield), 27 March 1855, 3:1;Illinois Daily State Journal(Springfield), 9 January 1860, 3:2."
+    ],
+    "footnotes": [
+      {
+        "id": "X6F9602EE-55E2-4049-B8F3-A77E069DF7B5",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X23B937F5-FE28-4336-93FF-58F64C0FC5BB",
+        "text": "2Lincoln’s recommendation of William Butler for clerk of the U.S. Circuit Court, District\n                  of Illinois has not been located."
+      },
+      {
+        "id": "X439D9706-2AEE-4450-9312-ED6FED61D962",
+        "text": "3No correspondence between Lincoln and anyone soliciting his support for William J.\n                  Black for clerk of the U.S. Circuit Court, District of Illinois has been located.Neither Butler nor Black received appointment to the U.S. Circuit Court, District\n                  of Illinois;William Poperetained his position.In 1855, theU.S. CongressdividedIllinoisinto two judicial districts: the Northern District of Illinois and the Southern District\n                  of Illinois.William H. Bradleywas appointed clerk for theU.S. Circuit Court, Northern District of Illinois.George W. Lowrywas appointed clerk for theU.S. Circuit Court, Southern District of Illinois.John Livingston,Livingston's Law Register(New York: Monthly Law Magazine, 1854), 271; \"An Act to Divide the State of Illinois\n                     into Two Judicial Circuits,\" 13 February 1855,Statutes at Large of the United States10 (1855):606-7;Illinois Daily Journal(Springfield), 27 March 1855, 3:1;Illinois Daily State Journal(Springfield), 9 January 1860, 3:2."
+      },
+      {
+        "id": "X7D168AD5-DF6C-469B-9C61-EB95A9990FEB",
+        "text": "4John McLean wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John McLean, 6 December 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "I understand it is in contemplation to displace thepresent Clerkand appoint a new one for theCircuit and District courts of Illinois– I am very friendly to the present incumbent, and both for his own sake, and that\n               of his family, I wish him to be retained so long as it is possible for the Court to\n               do so–"
+      },
+      {
+        "type": "paragraph",
+        "text": "In the contingency of his removal, however, I have recommendedWilliam Butleras his successor; and I do not wish what I write now, to be taken as any abatement\n               of that recommendation–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "William J. Black, is also an applicant for the appointment; and I write this, at the solicitation\n               of his friends, to say that he is every way worthy of the office; and that, I doubt\n               not, the confering it upon him, would give great satisfaction–3"
+      }
+    ],
+    "word_count": 142
+  },
+  "extraction_date": "2025-12-26 21:31:58",
+  "word_count": 142,
+  "processing": {
+    "cleaned": true,
+    "original_length": 859,
+    "cleaned_length": 789,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

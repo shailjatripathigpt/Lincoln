@@ -1,0 +1,57 @@
+{
+  "document_id": "D250229",
+  "url": "https://papersofabrahamlincoln.org/documents/D250229",
+  "metadata": {
+    "date": "1848-06-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislators",
+      "Military service, Voluntary"
+    ],
+    "type": "Envelope",
+    "extracted_date": "1848-06-14",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "envelope",
+      "abraham",
+      "lincoln",
+      "enos",
+      "ridgely"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Envelope of Abraham Lincoln to Enos & Ridgely, 1",
+    "paragraphs": [
+      "Envelope of Abraham Lincoln to Enos & Ridgely, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1847. 30th Cong., 1st sess., 1, 7; U.S. HouseJournal. 1849. 30th Cong., 2nd sess., 672-73."
+    ],
+    "footnotes": [
+      {
+        "id": "XFB019BB5-BA10-4014-BFE2-4166B6ED3116",
+        "text": "1Abraham Lincoln addressed the envelope, and he also wrote and signed the free postage\n                  frank. Lincoln served in theU.S. House of Representativesfrom December 6, 1847 to March 3, 1849.  The envelope is postmarked June 14, and\n                  1848 was the only year during which Lincoln served inCongressin June. The envelope’s contents have not been located.U.S. HouseJournal. 1847. 30th Cong., 1st sess., 1, 7; U.S. HouseJournal. 1849. 30th Cong., 2nd sess., 672-73."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Envelope of Abraham Lincoln to Enos & Ridgely, [14 June 1848]1"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:30:01",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 62,
+    "cleaned_length": 48,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

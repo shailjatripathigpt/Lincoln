@@ -1,0 +1,57 @@
+{
+  "document_id": "D200557",
+  "url": "https://papersofabrahamlincoln.org/documents/D200557",
+  "metadata": {
+    "date": "1849-02-27",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Cabinet officers",
+      "Patronage, Political",
+      "Presidents--Staff"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Zachary Taylor, 27 February 18491 Yesterday you were so kind as to say it would be convenient for you to receive the\n\npapers reccommendingColBakerfor a cabinet appointment, through the mail— I herewith transmit them in that way,\n\nwith the request, that my name be considered as added to the recommendation—2",
+    "paragraphs": [
+      "Abraham Lincoln to Zachary Taylor, 27 February 18491 Yesterday you were so kind as to say it would be convenient for you to receive the",
+      "papers reccommendingColBakerfor a cabinet appointment, through the mail— I herewith transmit them in that way,",
+      "with the request, that my name be considered as added to the recommendation—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Elbert B. Smith,The Presidencies of Zachary Taylor and Millard Fillmore(Lawrence: University Press of Kansas, 1988), 52-55; Paul H. Bergeron,The Presidency of James K. Polk(Lawrence: University Press of Kansas, 1987), 23-24."
+    ],
+    "footnotes": [
+      {
+        "id": "X3242B2E1-B624-4CFE-8306-5ECB483F3F41",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X2573D6DA-3D19-45FD-9C6B-5C350403DCED",
+        "text": "2President Zachary Taylor did not offer Edward D. Baker a cabinet position. Like his\n                  predecessorJames K. Polk, Taylor apportioned his cabinet selections geographically.Thomas EwingofOhiorepresented the “Old Northwest” as secretary of the interior.Elbert B. Smith,The Presidencies of Zachary Taylor and Millard Fillmore(Lawrence: University Press of Kansas, 1988), 52-55; Paul H. Bergeron,The Presidency of James K. Polk(Lawrence: University Press of Kansas, 1987), 23-24."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Zachary Taylor, 27 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yesterday you were so kind as to say it would be convenient for you to receive the\n               papers reccommendingColBakerfor a cabinet appointment, through the mail— I herewith transmit them in that way,\n               with the request, that my name be considered as added to the recommendation—2"
+      }
+    ],
+    "word_count": 53
+  },
+  "extraction_date": "2025-12-26 20:36:43",
+  "word_count": 53,
+  "processing": {
+    "cleaned": true,
+    "original_length": 354,
+    "cleaned_length": 326,
+    "preserved_originality": true
+  }
+}

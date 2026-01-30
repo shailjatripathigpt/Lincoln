@@ -1,0 +1,72 @@
+{
+  "document_id": "D206892",
+  "url": "https://papersofabrahamlincoln.org/documents/D206892",
+  "metadata": {
+    "date": "1856-07-07",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political campaigns"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to David Davis, 7 July 18561 When I heard thatSwettwas beaten, andLovejoynominated, it turned me blind–2I was, by invitation, on my way toPrinceton; and I really thought of turning back–3However, on reaching that region, and seeing the people there— their great enthusiasm\n\nfor Lovejoy— considering the activity they will carry into the contest with him— and\n\ntheir great disappointment, if he should now be torn from them, I really think it\n\nbest to let the matter stand– It is not my business to advise in the case; and if\n\nit were, I am not sure I am capable of giving the best advice; but I know, saying\n\nwhat I do, will not be offensive to you– Show this toGridleyand other friends,or not, just as you may judge whether it do good or harm–4",
+    "paragraphs": [
+      "Abraham Lincoln to David Davis, 7 July 18561 When I heard thatSwettwas beaten, andLovejoynominated, it turned me blind–2I was, by invitation, on my way toPrinceton; and I really thought of turning back–3However, on reaching that region, and seeing the people there— their great enthusiasm",
+      "for Lovejoy— considering the activity they will carry into the contest with him— and",
+      "their great disappointment, if he should now be torn from them, I really think it",
+      "best to let the matter stand– It is not my business to advise in the case; and if",
+      "it were, I am not sure I am capable of giving the best advice; but I know, saying",
+      "what I do, will not be offensive to you– Show this toGridleyand other friends,or not, just as you may judge whether it do good or harm–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Mitchell Snay, “Abraham Lincoln, Owen Lovejoy, and the Emergence of the Republican\n                     Party in Illinois,”Journal of the Abraham Lincoln Association22 (Winter 2001), 82-99; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 4 July 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-07-04.",
+      "H. C. Bradsby, ed.,History of Bureau County, Illinois(Chicago: World, 1885), 267-68; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990, 139."
+    ],
+    "footnotes": [
+      {
+        "id": "X238E0226-FD4F-4FAE-B812-6298357A16A1",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X00AE6002-FC23-4FD0-9086-F95446AE0623",
+        "text": "2Owen Lovejoy defeated Leonard Swett for theRepublicannomination for U.S. representative in the Third Illinois Congressional District.\n                  In November 1856, Lovejoy won  the general election, defeatingUri Osgood, theDemocratic Partycandidate, by over 6,000 votes to become a part of theThirty-Fifth Congress.Lincoln wrote asimilar letteron July 9, 1856 toHenry C. Whitney, writing, “It turned me blind when I first heard Swett was beaten, and Lovejoy nominated.”Mitchell Snay, “Abraham Lincoln, Owen Lovejoy, and the Emergence of the Republican\n                     Party in Illinois,”Journal of the Abraham Lincoln Association22 (Winter 2001), 82-99; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10."
+      },
+      {
+        "id": "X98AA19EB-AD2F-4D2E-B97B-A134AAB242FB",
+        "text": "3Lincoln made a speech at a Republican rally forJohn C. FremontandWilliam H. Bissell, Republican candidates for president and governor, respectively, in Princeton, Illinois,\n                  on July 4. Lovejoy also spoke at the event.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 4 July 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-07-04."
+      },
+      {
+        "id": "X49945370-40F2-4C0E-B624-4CA58B1367F1",
+        "text": "4Bureau County, of which Princeton was the county seat, gave Lovejoy 2,440 votes to 1,312 votes\n                  for Osgood.H. C. Bradsby, ed.,History of Bureau County, Illinois(Chicago: World, 1885), 267-68; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990, 139."
+      },
+      {
+        "id": "X68FF4A38-F35F-4226-9D55-8A8B5D8D6910",
+        "text": "5David Davis wrote this docketing. His response letter, if he penned one,  has not\n                  been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to David Davis, 7 July 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "When I heard thatSwettwas beaten, andLovejoynominated, it turned me blind–2I was, by invitation, on my way toPrinceton; and I really thought of turning back–3However, on reaching that region, and seeing the people there— their great enthusiasm\n               for Lovejoy— considering the activity they will carry into the contest with him— and\n               their great disappointment, if he should now be torn from them, I really think it\n               best to let the matter stand– It is not my business to advise in the case; and if\n               it were, I am not sure I am capable of giving the best advice; but I know, saying\n               what I do, will not be offensive to you– Show this toGridleyand other friends,or not, just as you may judge whether it do good or harm–4"
+      }
+    ],
+    "word_count": 135
+  },
+  "extraction_date": "2025-12-26 21:38:57",
+  "word_count": 135,
+  "processing": {
+    "cleaned": true,
+    "original_length": 831,
+    "cleaned_length": 761,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document_id": "D200545",
+  "url": "https://papersofabrahamlincoln.org/documents/D200545",
+  "metadata": {
+    "date": "1849-01-15",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Military topography",
+      "Scientific expeditions"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-01-15",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "war",
+      "you",
+      "your",
+      "letter",
+      "they",
+      "copies",
+      "about",
+      "receive",
+      "suppose",
+      "abraham",
+      "lincoln",
+      "james",
+      "berdan",
+      "january",
+      "received"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James Berdan, 15 January 18491 Your letter of the 2ndwas received last night.2I went this morning to the folding room, and made enquiry for the documents you desire–\n\nThey told me, (what I had forgot) that ourHousehas ordered the printing of 10–000 copies ofEmory's andAbert's reports together, and that 8 copies for each member will be ready in about two\n\nweeks–3The first lot I receive, I will provide you and MrHarknessout of– I was very glad to receive your letter, and shall be pleased at any time\n\nto have another– We have the news here, thatShieldswasnominatedfor theSenate, from which we infer, that he was elected, as a matter of course–4How do you suppose this, as a fruit of the gloriousMexican war,tastes toBreese,McClernandetal?– Do you suppose they are in a mood ofblessingthe war about now? Write me again–",
+    "paragraphs": [
+      "Abraham Lincoln to James Berdan, 15 January 18491 Your letter of the 2ndwas received last night.2I went this morning to the folding room, and made enquiry for the documents you desire–",
+      "They told me, (what I had forgot) that ourHousehas ordered the printing of 10–000 copies ofEmory's andAbert's reports together, and that 8 copies for each member will be ready in about two",
+      "weeks–3The first lot I receive, I will provide you and MrHarknessout of– I was very glad to receive your letter, and shall be pleased at any time",
+      "to have another– We have the news here, thatShieldswasnominatedfor theSenate, from which we infer, that he was elected, as a matter of course–4How do you suppose this, as a fruit of the gloriousMexican war,tastes toBreese,McClernandetal?– Do you suppose they are in a mood ofblessingthe war about now? Write me again–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1849. 30th Con., 1st Sess., 243, 425; U.S. HouseJournal. 1849. 30th Con., 2nd Sess., 130;S. Exec. Doc. No. 7, 30th Cong., 1st Sess. (1849);H.R. Exec. Doc. No 41, 30th Cong., 1st Sess. (1849).",
+      "Illinois HouseJournal. 1849. 16th G. A., 90-91."
+    ],
+    "footnotes": [
+      {
+        "id": "XB4650C97-F212-44C4-8076-ED13786048C0",
+        "text": "1Abraham Lincoln wrote this letter in its entirety."
+      },
+      {
+        "id": "XD69E083F-F626-45B4-BFDD-E956EA772AE1",
+        "text": "2James Berdan’s letter of January 2, 1849 has not been located."
+      },
+      {
+        "id": "X97B63DC8-9CA3-466E-983F-5449BD6FD360",
+        "text": "3On January 17, 1848, the House of Representatives passed a resolution calling on Secretary\n                  of WarWilliam L. Marcyto provide copies of the reports of Emory, Abert, and others that accompanied General\n                  Stephen Kearny from theMissouri Riverto thePacific Oceanat the outset of the Mexican War.  Emory, Abert, and others were members of theU.S. Army Corps of Topographical Engineers, and they issued scientific reports on the southwestern border,California, andNew Mexico.  On February 17, the House passed a resolution calling for the printing of 10,000\n                  extra copies of these reports.  On December 21, the House passed a resolution ordering\n                  that the report of Emory be printed in one volume, and those of Abert and others in\n                  a separate volume.U.S. HouseJournal. 1849. 30th Con., 1st Sess., 243, 425; U.S. HouseJournal. 1849. 30th Con., 2nd Sess., 130;S. Exec. Doc. No. 7, 30th Cong., 1st Sess. (1849);H.R. Exec. Doc. No 41, 30th Cong., 1st Sess. (1849)."
+      },
+      {
+        "id": "XF866FDBA-D203-4676-990D-A34116AEE382",
+        "text": "4TheIllinois General Assemblyelected Shields to the U.S. Senate on January 13, 1849.Illinois HouseJournal. 1849. 16th G. A., 90-91."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James Berdan, 15 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 2ndwas received last night.2I went this morning to the folding room, and made enquiry for the documents you desire–\n               They told me, (what I had forgot) that ourHousehas ordered the printing of 10–000 copies ofEmory's andAbert's reports together, and that 8 copies for each member will be ready in about two\n               weeks–3The first lot I receive, I will provide you and MrHarknessout of– I was very glad to receive your letter, and shall be pleased at any time\n               to have another– We have the news here, thatShieldswasnominatedfor theSenate, from which we infer, that he was elected, as a matter of course–4How do you suppose this, as a fruit of the gloriousMexican war,tastes toBreese,McClernandetal?– Do you suppose they are in a mood ofblessingthe war about now?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Write me again–"
+      }
+    ],
+    "word_count": 140
+  },
+  "extraction_date": "2025-12-26 20:33:25",
+  "word_count": 140,
+  "processing": {
+    "cleaned": true,
+    "original_length": 882,
+    "cleaned_length": 840,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

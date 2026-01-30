@@ -1,0 +1,52 @@
+{
+  "document_id": "D200345",
+  "url": "https://papersofabrahamlincoln.org/documents/D200345",
+  "metadata": {
+    "date": "1844-01-16",
+    "authors": [
+      "Dresser, Charles",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Real property",
+      "Contracts",
+      "Land titles--Registration and transfer"
+    ],
+    "type": "Contract"
+  },
+  "content": {
+    "full_text": "Contract between Charles Dresser and Abraham Lincoln, 16 January 18441",
+    "paragraphs": [
+      "Contract between Charles Dresser and Abraham Lincoln, 16 January 18441"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Deed of Charles Dresser and Louisa W. Dresser to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 11 February 1861,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1861-02-11."
+    ],
+    "footnotes": [
+      {
+        "id": "XD2D66174-A1A6-4F36-A43A-575171D1DF38",
+        "text": "1Abraham Lincoln wrote and signed the deed, which Charles Dresser also signed. Lincoln\n                  also authored the endorsement, which was signed by Dresser and Seth M.  Tinsley."
+      },
+      {
+        "id": "XABA83BBC-884C-41BF-9706-DAD1157830E1",
+        "text": "2On May 2, 1844,  Dresser and his wife conveyed the lot to Lincoln. Lincoln and his\n                  family lived in the home until he was elected president and moved to Washington, DC,\n                  on February 11, 1861. It was the only home Lincoln ever owned.Deed of Charles Dresser and Louisa W. Dresser to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 11 February 1861,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1861-02-11."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Contract between Charles Dresser and Abraham Lincoln, 16 January 18441"
+      }
+    ],
+    "word_count": 10
+  },
+  "extraction_date": "2025-12-26 20:20:12",
+  "word_count": 10,
+  "processing": {
+    "cleaned": true,
+    "original_length": 70,
+    "cleaned_length": 70,
+    "preserved_originality": true
+  }
+}

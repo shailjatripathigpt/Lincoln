@@ -1,0 +1,91 @@
+{
+  "document_id": "D210814",
+  "url": "https://papersofabrahamlincoln.org/documents/D210814",
+  "metadata": {
+    "date": "1858-07-29",
+    "authors": [
+      "Michael, Charles W.",
+      "Proctor, William (of Lewistown, IL)"
+    ],
+    "keywords": [
+      "Advertising, Political",
+      "Campaign speeches",
+      "Elections",
+      "Political campaigns",
+      "Political candidates",
+      "Political oratory",
+      "Strategy--Political aspects",
+      "United States. Congress. Senate."
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-07-29",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "charles",
+      "michael",
+      "william",
+      "proctor",
+      "abraham",
+      "lincoln",
+      "july"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Charles W. Michael and William Proctor to Abraham Lincoln, 29 July 18581",
+    "paragraphs": [
+      "Charles W. Michael and William Proctor to Abraham Lincoln, 29 July 18581"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "\"An Act to Change the Fifth and Tenth Judicial Circuits, and Fix the Time of Holding\n                     Courts Therein,\" 29 January 1857,Laws of Illinois(1857), 5;Chicago Daily Press and Tribune(IL), 20 August 1858, 2:4.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:458, 476, 482-83, 556-57;\n                     Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of\n                     1858,”The Journal of American History94 (September 2007), 394, 404-8, 414-16; Report of Speech at Lewistown, Illinois."
+    ],
+    "footnotes": [
+      {
+        "id": "X82A276F1-5793-4D26-8DB5-D47C50C676F6",
+        "text": "1Charles W. Michael wrote and signed this letter."
+      },
+      {
+        "id": "XA1C19784-90EA-4D5F-B8DB-414D3CE02500",
+        "text": "2According to an 1857 law, the Fulton County Circuit Court met on the fourth Mondays\n                  of February, the fourth Mondays of May, and the second Mondays of November. No additional\n                  laws changing the meeting times of the court could be located between this 1857 law\n                  and the date of this letter.  However, theChicago Daily Press and Tribunereported that the court met during the third week in August, as did William Proctor\n                  in a  subsequentletterto Lincoln.\"An Act to Change the Fifth and Tenth Judicial Circuits, and Fix the Time of Holding\n                     Courts Therein,\" 29 January 1857,Laws of Illinois(1857), 5;Chicago Daily Press and Tribune(IL), 20 August 1858, 2:4."
+      },
+      {
+        "id": "X7CAD1CFF-DBF7-4F5A-A8AD-DAF9E0483093",
+        "text": "3William Proctor signed his own name."
+      },
+      {
+        "id": "XB932BD8B-964C-4E54-AD20-37B836225ECA",
+        "text": "4Proctor also wrote this postscript.Lincolnrepliedto this letter on August 2. JudgeWilliam Kellogghad alsowrittenLincoln, on July 26, requesting that he speak in Lewistown, Illinois. Lincoln’s reply\n                  to Kellogg’s letter has not been located.Amos C. BabcockandWilliam P. KelloggwroteLincoln on August 4 on behalf of Judge Kellogg, assuring Lincoln that they would\n                  assemble a good crowd in Lewistown by advertising well. ProctorwroteLincoln a similar letter on August 6, confident that the crowd would be large.In June, delegates to the1858 Illinois Republican Conventionhad unanimously nominated Abraham Lincoln as theparty’s candidate to replace incumbent Stephen A. Douglas in theU.S. Senate. Since the Republican Party dominated thestate’s northern counties and theDemocratic Partydominated the southern counties, both Lincoln and Douglas focused their  campaigns\n                  on central Illinois. During the first part of the campaign, Lincoln had often followed\n                  Douglas on the  trail, delivering speeches either later in the evening after Douglas\n                  finished, or the next day. Douglas delivered his campaign speech in Lewistown on August\n                  16. Lincoln delivered an address in Lewistown on August 17. As henotedin his reply to Michael and Proctor, “Judge Douglas considers my presence at his\n                  appointments as an intrusion; and so I have concluded to not be present at them.”\n                  Lincoln and Douglas did, however, eventually appear together during theLincoln-Douglas Debates, which won Lincoln considerable acclaim within the national Republican Party. Douglas’\n                  audience in Lewistown on August 16 was estimated at 3,000, while Lincoln’s on August\n                  17 was around 2,000.In the end, in the local elections of 1858, Republicans won a majority of all votes\n                  cast in Illinois, but pro-Douglas Democrats retained control of theIllinois General Assembly. At the time,  members of the General Assembly voted for and elected the state’s\n                  representatives in the U.S. Senate, and Douglas ultimately won reelection.  The campaign,\n                  however, and in particular the Lincoln-Douglas Debates, catapulted Lincoln onto the\n                  national political scene, setting the stage for the1860 Federal Election. See the1858 Federal Election.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:458, 476, 482-83, 556-57;\n                     Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of\n                     1858,”The Journal of American History94 (September 2007), 394, 404-8, 414-16; Report of Speech at Lewistown, Illinois."
+      },
+      {
+        "id": "XE3ACF045-7798-489F-AC20-4E98209FE427",
+        "text": "5Michael wrote this script."
+      },
+      {
+        "id": "X5A639AAF-E911-4407-80F0-52B4A1AAEEDD",
+        "text": "6Michael wrote Lincoln’s name and address on the envelope shown in the second image."
+      },
+      {
+        "id": "X029E746D-7145-42EF-8A8D-CA7786EF2264",
+        "text": "7Lincoln wrote this docketing vertically on the left side of the envelope shown in\n                  the second image."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Charles W. Michael and William  Proctor to Abraham Lincoln, 29 July 18581"
+      }
+    ],
+    "word_count": 12
+  },
+  "extraction_date": "2025-12-26 21:53:45",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 73,
+    "cleaned_length": 72,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

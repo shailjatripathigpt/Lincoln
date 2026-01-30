@@ -1,0 +1,80 @@
+{
+  "document_id": "D254532",
+  "url": "https://papersofabrahamlincoln.org/documents/D254532",
+  "metadata": {
+    "date": "1841-11-17",
+    "authors": [
+      "Shields, James"
+    ],
+    "keywords": [
+      "Surveying",
+      "State governments--Officials and employees--Salaries, etc.",
+      "Public land sales"
+    ],
+    "type": "Check",
+    "extracted_date": "1841-11-17",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "check",
+      "james",
+      "shields",
+      "abraham",
+      "lincoln",
+      "november",
+      "countersigned",
+      "registered",
+      "holder",
+      "warrant",
+      "entitled",
+      "six",
+      "per",
+      "cent",
+      "interest"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Check of James Shields to Abraham Lincoln, 17 November 18411 Countersigned and Registered. (The holder of this warrant will be entitled to six per cent. interest from date, until redeemed by theState.)",
+    "paragraphs": [
+      "Check of James Shields to Abraham Lincoln, 17 November 18411 Countersigned and Registered. (The holder of this warrant will be entitled to six per cent. interest from date, until redeemed by theState.)"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Joseph Wallace,Past and Present of the City of Springfield and Sangamon County, Illinois(La Crosse, WI: Brookhaven, 2001), 1:57-58."
+    ],
+    "footnotes": [
+      {
+        "id": "X84ABA549-15A4-4DF4-9B4E-5AAB835A4415",
+        "text": "1James Shields filled in the blanks on this partially printed document and signed his\n                  name. Milton Carpenter signed his own name. Lincoln’s endorsement on the back side\n                  indicates that he cashed the warrant."
+      },
+      {
+        "id": "X33E9B120-685F-4693-8FF0-710CADE549B7",
+        "text": "2At this time, Dubois held the office of register at theU.S. General Land Officeat Palestine.Joseph Wallace,Past and Present of the City of Springfield and Sangamon County, Illinois(La Crosse, WI: Brookhaven, 2001), 1:57-58."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of James Shields to Abraham Lincoln, 17 November 18411"
+      },
+      {
+        "type": "paragraph",
+        "text": "Countersigned and Registered."
+      },
+      {
+        "type": "paragraph",
+        "text": "(The holder of this warrant will be entitled to six per cent. interest from date, until redeemed by theState.)"
+      }
+    ],
+    "word_count": 32
+  },
+  "extraction_date": "2025-12-26 20:16:28",
+  "word_count": 32,
+  "processing": {
+    "cleaned": true,
+    "original_length": 201,
+    "cleaned_length": 201,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

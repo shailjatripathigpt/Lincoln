@@ -1,0 +1,80 @@
+{
+  "document_id": "D200100",
+  "url": "https://papersofabrahamlincoln.org/documents/D200100",
+  "metadata": {
+    "date": "1837-02-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Expenditures, Public",
+      "Finance, Public",
+      "Revenue",
+      "State governments--Finance"
+    ],
+    "type": "Report"
+  },
+  "content": {
+    "full_text": "Report of Committee on Finance regarding the State Treasury, 1 The committee on Finance, who were required by a resolution to ascertain the amount\n\nof money annually receivable into the State Treasury by opperation of the existing revenue^laws^; and also, the amount necessary to meet^the^current expenses of the government, report: The different items, forming the above amount of money are as follow (viz)",
+    "paragraphs": [
+      "Report of Committee on Finance regarding the State Treasury, 1 The committee on Finance, who were required by a resolution to ascertain the amount",
+      "of money annually receivable into the State Treasury by opperation of the existing revenue^laws^; and also, the amount necessary to meet^the^current expenses of the government, report: The different items, forming the above amount of money are as follow (viz)"
+    ],
+    "tables_count": 2,
+    "citations": [
+      "Illinois HouseJournal. 1836. 10th G. A., 1st sess., 551-52, 603-604."
+    ],
+    "footnotes": [
+      {
+        "id": "X177E99A1-42B7-4183-861F-D3E4B0B971BC",
+        "text": "1On February 10, 1837,John Dawsonintroduced aresolutionin theHouse of Representatives, requesting the Committee on Finance to report on the financial condition of the\n                  state, and the House adopted it.  On February 16, Abraham Lincoln reported on behalf\n                  of the Committee to the House. The report is entirely in Lincoln’s handwriting.Illinois HouseJournal. 1836. 10th G. A., 1st sess., 551-52, 603-604."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Committee on Finance regarding the State Treasury, [16 February 1837]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "The committee on Finance, who were required by a resolution to ascertain the amount\n               of money annually receivable into the State Treasury by opperation of the existing revenue^laws^; and also, the amount necessary to meet^the^current expenses of the government,  report:"
+      },
+      {
+        "type": "paragraph",
+        "text": "The different items, forming the above amount of money are as follow (viz)"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "That the amount receivable from all sources is | $ 57,895.15",
+          "And the amount required | 55,151.97"
+        ]
+      },
+      {
+        "type": "table",
+        "table_number": 2,
+        "rows": [
+          "From^non^resident land tax | $44,395,15",
+          "FromState Bank | 12.000.00",
+          "FromShawaneetown Bank | 151500.00",
+          "Total as above | 57,895.15",
+          "As to the amount necessary to meet the current expenditures of the government, the\n                     committee on Finance, have relied on a report made by the Committee on Public Accounts\n                     and Expenditures, which, as above, is | $55.151.97",
+          "The committee on Finance, on looking over the report of the committee on Public Accounts\n                     and Expenditures, discover that,nothing is allin their judgement, much too small a sum is allowed for a Contingent fund; they,\n                     therefore, think it prudent to add | 15.000.00",
+          "Total | 70.151[.]97",
+          "From which take the revenue | 57.895[.]15",
+          "Leaving a deficit of. | 12 256[.]82"
+        ]
+      }
+    ],
+    "word_count": 63
+  },
+  "extraction_date": "2025-12-26 20:05:13",
+  "word_count": 69,
+  "processing": {
+    "cleaned": true,
+    "original_length": 460,
+    "cleaned_length": 407,
+    "preserved_originality": true
+  }
+}

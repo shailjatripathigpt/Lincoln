@@ -1,0 +1,66 @@
+{
+  "document_id": "D295447",
+  "url": "https://papersofabrahamlincoln.org/documents/D295447",
+  "metadata": {
+    "date": "1840-12-17",
+    "authors": [
+      "Davis, Levi"
+    ],
+    "keywords": [
+      "Legislators--Salaries, etc.",
+      "State governments--Officials and employees"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of Levi Davis to Abraham Lincoln, 17 December 18401 Cashier of theState Bank of Illinois, Pay toAbraham Lincolnor order, the sum ofFiftydollars andcents, it being inpartfor his services as a Member of theGeneral Assembly, Session 1840 & ‘412 (The holder of this warrant will be entitled to six per cent interest from date, until redeemed by theState.) (Countersigned and Registered.)",
+    "paragraphs": [
+      "Check of Levi Davis to Abraham Lincoln, 17 December 18401 Cashier of theState Bank of Illinois, Pay toAbraham Lincolnor order, the sum ofFiftydollars andcents, it being inpartfor his services as a Member of theGeneral Assembly, Session 1840 & ‘412 (The holder of this warrant will be entitled to six per cent interest from date, until redeemed by theState.) (Countersigned and Registered.)"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "An Act Making Appropriations for the Years 1841 and 1842."
+    ],
+    "footnotes": [
+      {
+        "id": "X431F857D-2E4E-4F5A-A8CE-4158FA3366E5",
+        "text": "1This partially printed check was filled in by Levi Davis and signed by Davis and John\n                  D. Whiteside. Abraham Lincoln endorsed it on the back side."
+      },
+      {
+        "id": "X312C6995-C1F1-4ABB-ABC0-1C0924D6D2BD",
+        "text": "2Members of the General Assembly earned $4 for each day’s attendance at the session,\n                  plus an additional $4 for every twenty miles of necessary travel in coming to and\n                  returning from the statehouse.An Act Making Appropriations for the Years 1841 and 1842."
+      },
+      {
+        "id": "X2F310A35-0AEC-43BB-9A6E-530C05328BD3",
+        "text": "3Written vertically over the check text."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Levi Davis to Abraham Lincoln, 17 December 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cashier of theState Bank of Illinois, Pay toAbraham Lincolnor order, the sum ofFiftydollars andcents, it being inpartfor his services as a Member of theGeneral Assembly, Session 1840 & ‘412"
+      },
+      {
+        "type": "paragraph",
+        "text": "(The holder of this warrant will be entitled to six per cent interest from date, until redeemed by theState.)"
+      },
+      {
+        "type": "paragraph",
+        "text": "(Countersigned and Registered.)"
+      }
+    ],
+    "word_count": 61
+  },
+  "extraction_date": "2025-12-26 20:13:53",
+  "word_count": 61,
+  "processing": {
+    "cleaned": true,
+    "original_length": 389,
+    "cleaned_length": 389,
+    "preserved_originality": true
+  }
+}

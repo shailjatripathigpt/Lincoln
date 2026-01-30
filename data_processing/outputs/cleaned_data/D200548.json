@@ -1,0 +1,74 @@
+{
+  "document_id": "D200548",
+  "url": "https://papersofabrahamlincoln.org/documents/D200548",
+  "metadata": {
+    "date": "1849-01-22",
+    "authors": [
+      "Lacey, Robert  A."
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Robert A. Lacey to Abraham Lincoln, 22 January 18491 Will you have the goodness to transmit the enclosed to some neighboring Postmaster,\n\nor other reliable person, (MrClarkthe present incumbent if you think proper) and request him to notify the Citizens\n\ninterested to send an expression of their wishes respecting a new appointment atBeardstown.2 Your letter was received by me;4and^a copy of^the body of it sent to the P. O. D. Then came the above & accompanying, which you will readily understand",
+    "paragraphs": [
+      "Robert A. Lacey to Abraham Lincoln, 22 January 18491 Will you have the goodness to transmit the enclosed to some neighboring Postmaster,",
+      "or other reliable person, (MrClarkthe present incumbent if you think proper) and request him to notify the Citizens",
+      "interested to send an expression of their wishes respecting a new appointment atBeardstown.2 Your letter was received by me;4and^a copy of^the body of it sent to the P. O. D. Then came the above & accompanying, which you will readily understand"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1845(Washington, DC: J. & G. S. Gideon, 1845),  *381;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1847(Washington, DC: J. & G. S. Gideon, 1847), *405.",
+      "Roy P. Basler,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:24.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *467;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *523;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 496*."
+    ],
+    "footnotes": [
+      {
+        "id": "X58CD42DA-90FD-4C6D-B126-5CBF02634D6F",
+        "text": "1Robert A. Lacey wrote this letter in its entirety."
+      },
+      {
+        "id": "XFD4E2513-43C9-4642-9ED6-3B208D51E299",
+        "text": "2The enclosure referenced has not been located.  Hulett Clark was the incumbent postmaster\n                  at Beardstown, having served since sometime after September 1845.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1845(Washington, DC: J. & G. S. Gideon, 1845),  *381;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1847(Washington, DC: J. & G. S. Gideon, 1847), *405."
+      },
+      {
+        "id": "XA9AEADA7-0ACD-482B-BF2C-10D406C803EA",
+        "text": "3Abraham Lincoln wrote this endorsement in its entirety.  Roy P. Basler, inThe Collected Works of Abraham Lincoln, dated this endorsement January 23, 1849, without attribution.  The actual date is\n                  unknown.Roy P. Basler,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:24."
+      },
+      {
+        "id": "X0E2C3952-3851-429E-AAAF-5C29BA61F94E",
+        "text": "4Henry E. Dummer’s letter has not been located."
+      },
+      {
+        "id": "X919CFA1E-FE47-4D6C-A174-B1E096447AC0",
+        "text": "5Clark remained the postmaster in Beardstown until March, 1849, when the administration\n                  of PresidentZachary Taylorreplaced him withSylvester Emmons.  Emmons held the position until 1851.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *467;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *523;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 496*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Robert A. Lacey to Abraham Lincoln, 22 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Will you have the goodness to transmit the enclosed to some neighboring Postmaster,\n               or other reliable person, (MrClarkthe present incumbent if you think proper) and request him to notify the Citizens\n               interested to send an expression of their wishes respecting a new appointment atBeardstown.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter was received by me;4and^a copy of^the body of it sent to the P. O. D.[Post Office Department] Then came the above & accompanying, which you will readily understand"
+      }
+    ],
+    "word_count": 81
+  },
+  "extraction_date": "2025-12-26 20:33:39",
+  "word_count": 83,
+  "processing": {
+    "cleaned": true,
+    "original_length": 551,
+    "cleaned_length": 499,
+    "preserved_originality": true
+  }
+}

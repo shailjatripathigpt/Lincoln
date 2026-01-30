@@ -1,0 +1,97 @@
+{
+  "document_id": "D208375",
+  "url": "https://papersofabrahamlincoln.org/documents/D208375",
+  "metadata": {
+    "date": "1836-05-21",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveying",
+      "Cities and towns--Maps",
+      "Public records",
+      "Real property"
+    ],
+    "type": "Survey",
+    "extracted_date": "1836-05-21",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "public",
+      "map",
+      "huron",
+      "survey",
+      "illinois",
+      "explanation",
+      "stone",
+      "corner",
+      "square",
+      "scale",
+      "feet",
+      "inch",
+      "hereby",
+      "certify",
+      "annexed"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Survey of Huron, Illinois, 21 May 18361 Explanation. Stone at the S. W corner of the Public Square Scale of the map 200 feet to the inch MAP OF HURON. I hereby certify that the annexed is a correct map of the town ofHuron: and that the requisites of the statute, in such cases made ande and provided, have\n\nbeen complied with.",
+    "paragraphs": [
+      "Survey of Huron, Illinois, 21 May 18361 Explanation. Stone at the S. W corner of the Public Square Scale of the map 200 feet to the inch MAP OF HURON. I hereby certify that the annexed is a correct map of the town ofHuron: and that the requisites of the statute, in such cases made ande and provided, have"
+    ],
+    "tables_count": 1,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X7B087ECC-78EF-40C9-8679-A2F86AD8D4C8",
+        "text": "1Abraham Lincoln authored the entirety of the text on page one except for the street\n                  names on the map, which is not transcribed here. Benjamin Talbott authored and signed\n                  his certification on page two; Thomas Moffett wrote the remaining two certifications."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Survey of Huron, Illinois, 21 May 18361"
+      },
+      {
+        "type": "description",
+        "text": "Explanation."
+      },
+      {
+        "type": "description",
+        "text": "Stone at the S. W[Southwest] corner of the Public Square"
+      },
+      {
+        "type": "description",
+        "text": "Scale of the map 200 feet to the inch"
+      },
+      {
+        "type": "description",
+        "text": "MAP OF HURON."
+      },
+      {
+        "type": "paragraph",
+        "text": "I hereby certify that the annexed is a correct map of the town ofHuron: and that the requisites of the statute, in such cases made ande and provided, have\n               been complied with."
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "Width | of | Streets | 70 | feet",
+          "Do[Ditto] | \" | Alleys | 16 | \"",
+          "Depth | of | Lots | 112 | \"",
+          "Front | \" | \" | 60 | \""
+        ]
+      }
+    ],
+    "word_count": 62
+  },
+  "extraction_date": "2025-12-26 20:03:07",
+  "word_count": 64,
+  "processing": {
+    "cleaned": true,
+    "original_length": 361,
+    "cleaned_length": 326,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,79 @@
+{
+  "document_id": "D200515",
+  "url": "https://papersofabrahamlincoln.org/documents/D200515",
+  "metadata": {
+    "date": "1848-07-24",
+    "authors": [],
+    "keywords": [
+      "Debates and debating",
+      "Territorial expansion",
+      "Legislators"
+    ],
+    "type": "Legislative proceeding",
+    "extracted_date": "1848-07-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "country",
+      "message",
+      "not",
+      "report",
+      "legislative",
+      "proceedings",
+      "regarding",
+      "james",
+      "polk",
+      "new",
+      "mexico",
+      "california",
+      "july",
+      "vintonsaid"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Report of Legislative Proceedings regarding James K. Polk’s Message on New Mexico\n\nand California, 24 July 18481 Mr.VINTONsaid he would suggest to thegentleman from Illinoiswhether it would not be as well to postpone this discussion to some other time. For\n\nhimself he desired to say a few words about this message, and not on things in general;\n\nand he trusted before it was disposed of, that the attention of the House and of the\n\ncountry would be called to the positions of this message.",
+    "paragraphs": [
+      "Report of Legislative Proceedings regarding James K. Polk’s Message on New Mexico",
+      "and California, 24 July 18481 Mr.VINTONsaid he would suggest to thegentleman from Illinoiswhether it would not be as well to postpone this discussion to some other time. For",
+      "himself he desired to say a few words about this message, and not on things in general;",
+      "and he trusted before it was disposed of, that the attention of the House and of the",
+      "country would be called to the positions of this message."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1009-12, 1096-1102;Cong. Globe, 30th Cong., 1st Sess., 910-16, 989-90 (1848).",
+      "U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1102-3;Cong. Globe, 30th Cong., 1st Sess., 990-92 (1848)."
+    ],
+    "footnotes": [
+      {
+        "id": "XA03CBD47-31B9-4328-AA50-A1A69EC3797C",
+        "text": "1James K. Polk’s  message came in response to  resolutions introduced in the House of Representatives\n                  byAlexander H. Stephenson July 10 which called on the president, among other things, to inform the body\n                  whether or not civil government had been established inNew MexicoandCalifornia.U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1009-12, 1096-1102;Cong. Globe, 30th Cong., 1st Sess., 910-16, 989-90 (1848)."
+      },
+      {
+        "id": "X8D9A066B-7796-4274-9749-3B8E485D21FF",
+        "text": "2After considerable debate, during which Abraham Lincoln did not speak, the House agreed\n                  to postpone consideration of Polk’s message until July 27 and to make this message\n                  and Polk’s message of July 6 relative to the ratification of theTreaty of Guadalupe-Hidalgothe special order of the day for that date.U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1102-3;Cong. Globe, 30th Cong., 1st Sess., 990-92 (1848)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Legislative Proceedings regarding James K. Polk’s Message on New Mexico\n               and California, 24 July 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr.VINTONsaid he would suggest to thegentleman from Illinoiswhether it would not be as well to postpone this discussion to some other time. For\n               himself he desired to say a few words about this message, and not on things in general;\n               and he trusted before it was disposed of, that the attention of the House and of the\n               country would be called to the positions of this message."
+      }
+    ],
+    "word_count": 84
+  },
+  "extraction_date": "2025-12-26 20:31:13",
+  "word_count": 84,
+  "processing": {
+    "cleaned": true,
+    "original_length": 546,
+    "cleaned_length": 490,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

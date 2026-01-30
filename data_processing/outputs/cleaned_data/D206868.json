@@ -1,0 +1,73 @@
+{
+  "document_id": "D206868",
+  "url": "https://papersofabrahamlincoln.org/documents/D206868",
+  "metadata": {
+    "date": "1849-02-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to David Davis, 12 February 18491 Your letter or the 24thJany is received; and I have more cause to thank you for it, than you would suppose–2Out of more than than three hundred letters received this session, yours is the second one manifesting\n\nthe least interest for me personally– I do not much doubt that I could take theLand officeif I would– It also would make me more money than I can otherwise make– Still, when\n\nI remember that taking the office would be a final surrender of the law, and that\n\nevery man in thestate, who wants it himself, would be snarling at me about it, I shrink from it–3 Bakerhas just looked over my shoulder, and seen that I am writing to you. He says to me\n\nto tell you he has received your letter, and will obey it's requirements as far as he can. I scarcely know where to send this letter; but I suppose it may be best to send it\n\ntoBloomington–",
+    "paragraphs": [
+      "Abraham Lincoln to David Davis, 12 February 18491 Your letter or the 24thJany is received; and I have more cause to thank you for it, than you would suppose–2Out of more than than three hundred letters received this session, yours is the second one manifesting",
+      "the least interest for me personally– I do not much doubt that I could take theLand officeif I would– It also would make me more money than I can otherwise make– Still, when",
+      "I remember that taking the office would be a final surrender of the law, and that",
+      "every man in thestate, who wants it himself, would be snarling at me about it, I shrink from it–3 Bakerhas just looked over my shoulder, and seen that I am writing to you. He says to me",
+      "to tell you he has received your letter, and will obey it's requirements as far as he can. I scarcely know where to send this letter; but I suppose it may be best to send it"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Joshua F. Speed."
+    ],
+    "footnotes": [
+      {
+        "id": "XBA3F25A9-CECB-4740-825E-1E3BCF9041D1",
+        "text": "1Abraham Lincoln wrote the body of the letter in its entirety."
+      },
+      {
+        "id": "XC26C3222-1788-4CBF-AD4C-CF027AD5608A",
+        "text": "2David Davis’ letter of January 24, 1849, has not been located, but hisreplyto Lincoln’s letter apparently offered advice in the same vein as on January 24:\n                  Lincoln should pursue and take the position of commissioner of the U.S. General Land\n                  Office."
+      },
+      {
+        "id": "XD2280E23-1A5B-4D4E-8D77-0A0896B91013",
+        "text": "3Despite his misgivings expressed here and elsewhere, Lincoln would become embroiled\n                  in theGeneral Land Office Affair, a hotly contested race in the spring and summer of 1849 to become commissioner of\n                  the U.S. General Land Office.Abraham Lincoln to Joshua F. Speed."
+      },
+      {
+        "id": "X6DD2721B-C376-4162-A64C-88BBEA63C089",
+        "text": "4Davisrespondedon February 21, 1849."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to David Davis, 12 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter or the 24thJany[January] is received; and I have more cause to thank you for it, than you would suppose–2Out of more than than three hundred letters received this session, yours is the second one manifesting\n               the least interest for me personally– I do not much doubt that I could take theLand officeif I would– It also would make me more money than I can otherwise make– Still, when\n               I remember that taking the office would be a final surrender of the law, and that\n               every man in thestate, who wants it himself, would be snarling at me about it, I shrink from it–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bakerhas just looked over my shoulder, and seen that I am writing to you. He says to me\n               to tell you he has received your letter, and will obey it's requirements as far as he can."
+      },
+      {
+        "type": "paragraph",
+        "text": "I scarcely know where to send this letter; but I suppose it may be best to send it\n               toBloomington–"
+      }
+    ],
+    "word_count": 168
+  },
+  "extraction_date": "2025-12-26 20:34:39",
+  "word_count": 168,
+  "processing": {
+    "cleaned": true,
+    "original_length": 975,
+    "cleaned_length": 896,
+    "preserved_originality": true
+  }
+}

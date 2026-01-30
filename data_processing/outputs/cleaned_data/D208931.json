@@ -1,0 +1,70 @@
+{
+  "document_id": "D208931",
+  "url": "https://papersofabrahamlincoln.org/documents/D208931",
+  "metadata": {
+    "date": "1853-10-07",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Lawyers--Recruiting",
+      "Lawyers--Fees"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt of Abraham Lincoln to Illinois Central Railroad Company, 7 October 18531 Approved,2 of theILLINOIS CENTRAL RAILROAD COMPANY,perM, Brayman Two hundred &fiftyDollars, in full forretainer in legal business of said Company3",
+    "paragraphs": [
+      "Receipt of Abraham Lincoln to Illinois Central Railroad Company, 7 October 18531 Approved,2 of theILLINOIS CENTRAL RAILROAD COMPANY,perM, Brayman Two hundred &fiftyDollars, in full forretainer in legal business of said Company3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Central RR v. McLean County, Illinois & Parke, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136867,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136868; For the act incorporating the railroad, see “An Act to Incorporate the Illinois\n                     Central Railroad Company,” 10 February 1851,Private Laws of Illinois(1851), 61-74;Abraham Lincoln to James F. Joy;Abraham Lincoln to Mason Brayman; For details on Lincoln suing the railroad to collect the fee for his services, see:Lincoln v. Illinois Central RR, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136777."
+    ],
+    "footnotes": [
+      {
+        "id": "X0BFA85A9-45DB-4296-B750-0EBCDC051DC6",
+        "text": "1This receipt is attributed to Abraham Lincoln, but Lincoln neither wrote nor signed\n                  it."
+      },
+      {
+        "id": "DEW564323185310070000_1",
+        "text": "2This text is printed vertically on the left side of the receipt, shown in the first\n                  image."
+      },
+      {
+        "id": "XFD253BC2-2923-47CB-9940-7634F8767172",
+        "text": "3Mason Brayman enclosed a check for $250 in aletterhe wrote to Lincoln on October 7, 1853. It was a general retainer fee for Lincoln’s\n                  service to the Illinois Central Railroad, particularly as it related to the caseIllinois Central RR v. McLean County, Illinois & Parke.The Illinois Central Railroad owned 118 acres of land inMcLean County, Illinois.  The county assessor levied a $428.57 tax on the railroad's property.  The railroad\n                  claimed that theIllinois General Assemblyact incorporating the railroad exempted the railroad from taxes. In September 1853,\n                  the railroad sued McLean County in theMcLean County Circuit Courtfor an injunction to stop the county from selling railroad land to pay taxes. In\n                  late-September 1853, the parties reached an agreement, in which the circuit court\n                  would dismiss the bill, thus ruling for McLean County, and the railroad would appeal\n                  the case to theIllinois Supreme Court, where the only question would be whether the county had a lawful right to tax the\n                  Illinois Central Railroad’s property.Lincoln represented the railroad in its  Illinois Supreme Court case, which began\n                  in December 1853. In December 1855, the  Illinois Supreme Court reversed the judgment\n                  of the McLean County Circuit Court, and  JusticeWalter B. Scatesruled that the Illinois General Assembly could exempt property from taxation.  Therefore,\n                  the Illinois Central Railroad’s charter was constitutional.  Lincoln received $5,000\n                  for his legal services, although he had to sue the railroad in 1857 to collect the\n                  fee.At the request of Brayman, Lincoln declined new cases against the railroad that came\n                  his way between 1853 and 1855, passing at least some on toJohn T. Stuart, and therefore lost opportunities to earn other legal fees as a direct result of\n                  his employment for the railroad.Illinois Central RR v. McLean County, Illinois & Parke, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136867,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136868; For the act incorporating the railroad, see “An Act to Incorporate the Illinois\n                     Central Railroad Company,” 10 February 1851,Private Laws of Illinois(1851), 61-74;Abraham Lincoln to James F. Joy;Abraham Lincoln to Mason Brayman; For details on Lincoln suing the railroad to collect the fee for his services, see:Lincoln v. Illinois Central RR, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136777."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Abraham Lincoln to Illinois Central Railroad Company, 7 October 18531"
+      },
+      {
+        "type": "paragraph",
+        "text": "Approved,2"
+      },
+      {
+        "type": "paragraph",
+        "text": "of theILLINOIS CENTRAL RAILROAD COMPANY,perM, Brayman"
+      },
+      {
+        "type": "paragraph",
+        "text": "[Solr?]  Two hundred &fiftyDollars,"
+      },
+      {
+        "type": "paragraph",
+        "text": "in full forretainer in legal business of said Company3"
+      }
+    ],
+    "word_count": 31
+  },
+  "extraction_date": "2025-12-26 21:27:53",
+  "word_count": 32,
+  "processing": {
+    "cleaned": true,
+    "original_length": 236,
+    "cleaned_length": 227,
+    "preserved_originality": true
+  }
+}

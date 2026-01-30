@@ -1,0 +1,72 @@
+{
+  "document_id": "D201009",
+  "url": "https://papersofabrahamlincoln.org/documents/D201009",
+  "metadata": {
+    "date": "1858-05-04",
+    "authors": [
+      "Lehmann, Julius"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Attorney and client",
+      "Libel and slander"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Julius Lehmann to Abraham Lincoln, 4 May 18581 I have by my Atty MrHolmescommenced an action of Slander vs DrH Schroederofthis place& wish to engage your legal services at the trial & generally in the case with Mr.Dr H.2 Will you write me whether you will\n\naccept of a retaner3 Mark me down on your side–",
+    "paragraphs": [
+      "Julius Lehmann to Abraham Lincoln, 4 May 18581 I have by my Atty MrHolmescommenced an action of Slander vs DrH Schroederofthis place& wish to engage your legal services at the trial & generally in the case with Mr.Dr H.2 Will you write me whether you will",
+      "accept of a retaner3 Mark me down on your side–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lehman v. Schroeder, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=136776."
+    ],
+    "footnotes": [
+      {
+        "id": "X5CA4F65B-06F9-4D5D-88CC-9931068013E8",
+        "text": "1Julius Lehmann wrote and signed this letter."
+      },
+      {
+        "id": "X81E592FC-CACA-4B61-A62C-5F8A2ABAF5E8",
+        "text": "2Abraham Lincoln agreed to serve as one of Lehmann’s lawyers and the case commenced\n                  inMcLean County Circuit Courtin January 1859. Lehmann demanded $5,000 in damages from Dr. Herman Schroeder for\n                  slander. He won the case on January 8, but only kept $50 of the awarded $5,000.Lehman v. Schroeder, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=136776."
+      },
+      {
+        "id": "X6FD76439-AA43-4A18-A765-3AB82817A8C8",
+        "text": "3A return letter from Lincoln to Lehmann has not been found, but Lincoln endorsed the\n                  back of this letter."
+      },
+      {
+        "id": "X241DEA54-F8AC-4627-BA60-B559B687260D",
+        "text": "4Lincoln wrote and signed this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Julius Lehmann to Abraham Lincoln, 4 May 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have by my Atty[Attorney] MrHolmescommenced an action of Slander vs DrH Schroederofthis place& wish to engage your legal services at the trial & generally in the case with Mr.Dr H.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Will you write me whether you will\n               accept of a retaner[retainer]3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mark me down on your side–"
+      }
+    ],
+    "word_count": 56
+  },
+  "extraction_date": "2025-12-26 21:46:58",
+  "word_count": 56,
+  "processing": {
+    "cleaned": true,
+    "original_length": 338,
+    "cleaned_length": 304,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "document_id": "D200511",
+  "url": "https://papersofabrahamlincoln.org/documents/D200511",
+  "metadata": {
+    "date": "1848-07-13",
+    "authors": [],
+    "keywords": [
+      "Humor",
+      "Legislative bodies",
+      "Legislators"
+    ],
+    "type": "Legislative proceeding"
+  },
+  "content": {
+    "full_text": "Report of Legislative Proceedings regarding the Apprehension of Absentees, 13 July\n\n1848 Mr.BOTTSmoved the previous question—in order, he remarked, that they might get to the public\n\nbusiness.1 TheSPEAKER. Thegentleman from Virginiabeing one of the gentlemen in custody of the Sergeant-at-arms, the Chair cannot recognize\n\nhim. (Great laughter.) Mr.LINCOLN, remarking that he believedhewas still a member, moved the previous question.2",
+    "paragraphs": [
+      "Report of Legislative Proceedings regarding the Apprehension of Absentees, 13 July",
+      "1848 Mr.BOTTSmoved the previous question—in order, he remarked, that they might get to the public",
+      "business.1 TheSPEAKER. Thegentleman from Virginiabeing one of the gentlemen in custody of the Sergeant-at-arms, the Chair cannot recognize",
+      "him. (Great laughter.) Mr.LINCOLN, remarking that he believedhewas still a member, moved the previous question.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1034-35;Cong. Globe, 30th Cong., 1st Sess., 926, 928 (1848).",
+      "U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1035-36;Cong. Globe, 30th Cong., 1st Sess., 929 (1848)."
+    ],
+    "footnotes": [
+      {
+        "id": "XDAE273BB-BEDD-4B40-B7C7-584F05E1C007",
+        "text": "1The issue was over an attempted call of the house--a procedure that allowed a legislative\n                  body to compel members to present themselves for a vote on a particular matter.  On\n                  July 12, 1848, RepresentativeWilliam Sawyer, citing the length of time theHouse of Representativeshad been in session--seven hours--without being able to get a quorum because members\n                  were  absent without leave against the rules of the House, moved that the sergeant-at-arms\n                  retain the offending members in custody until the following morning, when they would\n                  be brought in to give their excuses and receive their penalties.  The House approved\n                  this motion, with Abraham Lincoln voting yea.  On the morning of July 13, the sergeant-at-arms,\n                  pursuant to the House order, reported that he had arrested, and had present with him,\n                  fifty-two members who  had been absent without leave.  RepresentativeCharles Hudsonmoved that the vote of the previous evening be re-considered, but Speaker Robert\n                  C. Winthrop ruled that motion out of order, as the sergeant-at-arms had already executed\n                  the order.  Hudson    then moved to dispense with any further proceedings in the call,\n                  and the fines imposed on the absent members be remitted.  After other representatives\n                  commented, Botts moved the previous question.U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1034-35;Cong. Globe, 30th Cong., 1st Sess., 926, 928 (1848)."
+      },
+      {
+        "id": "X9F0765AB-D344-44A1-B2D5-8A7187A84D8B",
+        "text": "2Lincoln’s motion received a second, but the House tabled Hudson’s motion, with Lincoln\n                  voting nay.  Upon the motion of RepresentativeHenry W. Hilliard, the House agreed to admit the members upon the payment of fees.U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1035-36;Cong. Globe, 30th Cong., 1st Sess., 929 (1848)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Legislative Proceedings regarding the Apprehension of Absentees, 13 July\n               1848"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr.BOTTSmoved the previous question—in order, he remarked, that they might get to the public\n               business.1"
+      },
+      {
+        "type": "paragraph",
+        "text": "TheSPEAKER. Thegentleman from Virginiabeing one of the gentlemen in custody of the Sergeant-at-arms, the Chair cannot recognize\n               him. (Great laughter.)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr.LINCOLN, remarking that he believedhewas still a member, moved the previous question.2"
+      }
+    ],
+    "word_count": 59
+  },
+  "extraction_date": "2025-12-26 20:30:54",
+  "word_count": 59,
+  "processing": {
+    "cleaned": true,
+    "original_length": 477,
+    "cleaned_length": 435,
+    "preserved_originality": true
+  }
+}

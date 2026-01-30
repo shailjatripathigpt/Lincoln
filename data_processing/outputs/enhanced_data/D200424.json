@@ -1,0 +1,90 @@
+{
+  "document_id": "D200424",
+  "url": "https://papersofabrahamlincoln.org/documents/D200424",
+  "metadata": {
+    "date": "1847-12-03",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Collecting of accounts",
+      "Debtor and creditor",
+      "Lawyers--Fees"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847-12-03",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "him",
+      "first",
+      "your",
+      "business",
+      "abraham",
+      "lincoln",
+      "david",
+      "smith",
+      "december",
+      "day",
+      "thisplace",
+      "reaching",
+      "here",
+      "found"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to David A. Smith, 3 December 18471 This is my first day at thisplace, & on reaching here I found your letter in relation to your business withDouglass–2I met him afterwards, but disliking to dunn him at the first meeting with him, I let it pass, for the time–3I will attend to it shortly however & write you–4 You intimate there is some danger of my neglecting the business; but if you will get\n\nme as good a fee as you got forJo. Gillespiein the case he tells of, I'll never desert you–",
+    "paragraphs": [
+      "Abraham Lincoln to David A. Smith, 3 December 18471 This is my first day at thisplace, & on reaching here I found your letter in relation to your business withDouglass–2I met him afterwards, but disliking to dunn him at the first meeting with him, I let it pass, for the time–3I will attend to it shortly however & write you–4 You intimate there is some danger of my neglecting the business; but if you will get",
+      "me as good a fee as you got forJo. Gillespiein the case he tells of, I'll never desert you–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“Lincoln collected debt for St. Louis Perpetual Insurance Co.,” Martha L. Benner and\n                     Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org;Abraham Lincoln to Richard Yates;Bank Draft of Stephen A. Douglas to Abraham Lincoln.",
+      "Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 451."
+    ],
+    "footnotes": [
+      {
+        "id": "X1BFAC2DD-B5F6-4ED8-855A-3835707B02E3",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "XE4DEF362-CC92-402C-8629-120675A661BE",
+        "text": "2David A. Smith’s letter to Lincoln has not been located.Stephen A. Douglas owed $337.49 to theSt. Louis Perpetual Insurance Company. David A. Smith, the attorney for the company, asked Lincoln to collect the debt\n                  while in Washington, DC, where both men were serving inCongress. On December 21, 1847, Douglas paid $167 of the debt to Lincoln.“Lincoln collected debt for St. Louis Perpetual Insurance Co.,” Martha L. Benner and\n                     Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org;Abraham Lincoln to Richard Yates;Bank Draft of Stephen A. Douglas to Abraham Lincoln."
+      },
+      {
+        "id": "X7323313E-028C-4F70-A666-38F8F48C8D80",
+        "text": "3To “dun” is to repeatedly demand payment.Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 451."
+      },
+      {
+        "id": "X32F28DCF-F76D-4F28-8F3C-9A54395DCEB2",
+        "text": "4No follow-up letter from Lincoln to Smith has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to David A. Smith, 3 December 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "This is my first day at thisplace, & on reaching here I found your letter in relation to your business withDouglass–2I met him afterwards, but disliking to dunn him at the first meeting with him, I let it pass, for the time–3I will attend to it shortly however & write you–4"
+      },
+      {
+        "type": "paragraph",
+        "text": "You intimate there is some danger of my neglecting the business; but if you will get\n               me as good a fee as you got forJo. Gillespiein the case he tells of, I'll never desert you–"
+      }
+    ],
+    "word_count": 95
+  },
+  "extraction_date": "2025-12-26 20:25:15",
+  "word_count": 95,
+  "processing": {
+    "cleaned": true,
+    "original_length": 518,
+    "cleaned_length": 504,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

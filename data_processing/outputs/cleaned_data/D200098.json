@@ -1,0 +1,72 @@
+{
+  "document_id": "D200098",
+  "url": "https://papersofabrahamlincoln.org/documents/D200098",
+  "metadata": {
+    "date": "1837-02-13",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Bridges",
+      "Public works"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "A Bill Supplemental to \"An Act to Erect Certain Bridges,\" Approved January 22, 1831,\n\n1 No348A. bill for an act supplemental to an act entitled \"An act to erect certain bridges\"\n\napproved Jan. 22— 1831 An act supplemental to an act entitled \"an act to erect certain bridges\" approved\n\nJan, 22. 1831 Be it enacted by the People of the State of Illinois represented in theGeneral Assembly: That the county ofKnox2shall be entitled to all the benefits of the act to which this is supplemental; Provided\n\nthecounty commissioner's courtof said county, shall comply with the requisites of said act, within two years from\n\nthe passage of this act.3",
+    "paragraphs": [
+      "A Bill Supplemental to \"An Act to Erect Certain Bridges,\" Approved January 22, 1831,",
+      "1 No348A. bill for an act supplemental to an act entitled \"An act to erect certain bridges\"",
+      "approved Jan. 22— 1831 An act supplemental to an act entitled \"an act to erect certain bridges\" approved",
+      "Jan, 22. 1831 Be it enacted by the People of the State of Illinois represented in theGeneral Assembly: That the county ofKnox2shall be entitled to all the benefits of the act to which this is supplemental; Provided",
+      "thecounty commissioner's courtof said county, shall comply with the requisites of said act, within two years from",
+      "the passage of this act.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1836. 10th G. A., 1st sess., 580, 651, 804, 808, 837, 846; Illinois SenateJournal. 1836. 10th G. A., 1st sess., 471, 533, 559, 582, 595, 626.",
+      "“An Act to Erect Certain Bridges,” 22 January 1831,Laws of Illinois(1831), 37-38."
+    ],
+    "footnotes": [
+      {
+        "id": "XDAD7C463-FF8C-4D90-9AB1-6FA1352F61A7",
+        "text": "1Abraham Lincoln wrote the text of this bill as well as its title on the back page.On February 13, 1837,William McMurtryfrom the Committee on the Militia introduced in the House of Representatives HB 281,\n                  which was written by Abraham Lincoln.  On February 20, the House passed the bill without\n                  amendment, and referred it to theSenate. On March 2, following the addition of amendments by a select committee, the Senate\n                  passed theamended bill. That same day, the House concurred in the Senate amendments. TheCouncil of Revisionthen approved the bill, and theactbecame law.Illinois HouseJournal. 1836. 10th G. A., 1st sess., 580, 651, 804, 808, 837, 846; Illinois SenateJournal. 1836. 10th G. A., 1st sess., 471, 533, 559, 582, 595, 626."
+      },
+      {
+        "id": "X84EB3C1A-2638-47CD-BF29-BDD728E2A392",
+        "text": "2The finalbillas passed included McDonough County as well."
+      },
+      {
+        "id": "X1C2BB5D4-2C88-44CB-9A40-F38C1CC49504",
+        "text": "3The 1831 Act appropriated $200 to Knox County for a bridge across Spoon River and\n                  $150 to McDonough County for a bridge across Crooked Creek. The Act stipulated that\n                  the county commissioners courts were to choose the bridge sites and control construction.\n                  Upon completion of the bridges, each county’s commissioners court was required to\n                  certify as such to the Auditor of Public Accounts, who at that point would release\n                  to them the  the amounts appropriated to their counties.“An Act to Erect Certain Bridges,” 22 January 1831,Laws of Illinois(1831), 37-38."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "A Bill Supplemental to \"An Act to Erect Certain Bridges,\" Approved January 22, 1831,\n               [13 February 1837]1"
+      },
+      {
+        "type": "description",
+        "text": "No348A. bill for an act supplemental to an act entitled \"An act to erect certain bridges\"\n               approved Jan. 22— 1831"
+      },
+      {
+        "type": "paragraph",
+        "text": "An act supplemental to an act entitled \"an act to erect certain bridges\" approved\n               Jan, 22. 1831"
+      },
+      {
+        "type": "paragraph",
+        "text": "Be it enacted by  the  People of the State of Illinois represented in theGeneral Assembly: That the county ofKnox2shall be entitled to all the benefits of the act to which this is supplemental; Provided\n               thecounty commissioner's courtof said county, shall comply with the requisites of said act, within two years from\n               the passage of this act.3"
+      }
+    ],
+    "word_count": 108
+  },
+  "extraction_date": "2025-12-26 20:05:18",
+  "word_count": 110,
+  "processing": {
+    "cleaned": true,
+    "original_length": 731,
+    "cleaned_length": 641,
+    "preserved_originality": true
+  }
+}

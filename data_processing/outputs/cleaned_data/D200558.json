@@ -1,0 +1,73 @@
+{
+  "document_id": "D200558",
+  "url": "https://papersofabrahamlincoln.org/documents/D200558",
+  "metadata": {
+    "date": "1849-01-01",
+    "authors": [],
+    "keywords": [
+      "Cabinet officers",
+      "Patronage, political"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Illinois Whig Legislators to Zachary Taylor, 1 January 18491 I have such evidence as enables me to say I know the within recommendation was signed\n\nby all the Whig members of the Illinois LegislatureA. Lincoln3 The Undersigned members of theLegislature of the State of Illinois, take great pleasure in tendering to your Excellency, on behalf of near a Million\n\nof free people, our sincere Congratulations on yourElevation to the Presidencyof this great and growing Republic—and to express our confidence in your ability\n\nand determination to give to the Country an administration that shall secure the permanent\n\nwelfare & prosperity of the whole Union. Entertaining the Opinion that in the formation of your Cabinet your Excellency may\n\nfeel disposed to select One from the free States of the North West; we would most\n\nrespectfully direct your attention to our distinguished fellow Citizen Col.E. D. Baker, as a Gentleman every way qualified to render you that assistance in the Administration\n\nof the government, which you have a right to expect from a Cabinet Minister. Should\n\nyour Excellency see proper to confer so great a distinction upon Col. Baker, it would be highly gratifying to your friends in thisState,<Page 2>and in our opinion give very general satisfaction to theWhigsof this section of the Union.",
+    "paragraphs": [
+      "Illinois Whig Legislators to Zachary Taylor, 1 January 18491 I have such evidence as enables me to say I know the within recommendation was signed",
+      "by all the Whig members of the Illinois LegislatureA. Lincoln3 The Undersigned members of theLegislature of the State of Illinois, take great pleasure in tendering to your Excellency, on behalf of near a Million",
+      "of free people, our sincere Congratulations on yourElevation to the Presidencyof this great and growing Republic—and to express our confidence in your ability",
+      "and determination to give to the Country an administration that shall secure the permanent",
+      "welfare & prosperity of the whole Union. Entertaining the Opinion that in the formation of your Cabinet your Excellency may",
+      "feel disposed to select One from the free States of the North West; we would most",
+      "respectfully direct your attention to our distinguished fellow Citizen Col.E. D. Baker, as a Gentleman every way qualified to render you that assistance in the Administration",
+      "of the government, which you have a right to expect from a Cabinet Minister. Should",
+      "your Excellency see proper to confer so great a distinction upon Col. Baker, it would be highly gratifying to your friends in thisState,<Page 2>and in our opinion give very general satisfaction to theWhigsof this section of the Union."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Journal(Springfield), 13 September 1848, 3:2.",
+      "Elbert B. Smith,The Presidencies of Zachary Taylor and Millard Fillmore(Lawrence: University Press of Kansas, 1988), 52-55; Paul H. Bergeron,The Presidency of James K. Polk(Lawrence: University Press of Kansas, 1987), 23-24."
+    ],
+    "footnotes": [
+      {
+        "id": "X1ECAE119-4B43-4CF5-A05A-FE0DAFA0DEB5",
+        "text": "1Abraham Lincoln enclosed this petition in aletterto President Zachary Taylor along with similar petitions from Whig legislators fromIowaandWisconsin."
+      },
+      {
+        "id": "X4617B8E4-0339-4543-B38A-7016281B2ED8",
+        "text": "2There were thirty Whigs in the Illinois General Assembly--eight in theSenate, and twenty-two in theHouse of Representatives.Illinois Journal(Springfield), 13 September 1848, 3:2."
+      },
+      {
+        "id": "XAAC5D388-0591-43B7-BBCC-ABB2357610D2",
+        "text": "3Lincoln wrote and signed this endorsement.President Zachary Taylor did not offer Baker a cabinet position.  Like his predecessorJames K. Polk, Taylor apportioned his cabinet selections geographically.Thomas EwingofOhiorepresented the “Old Northwest” as secretary of the interior.Elbert B. Smith,The Presidencies of Zachary Taylor and Millard Fillmore(Lawrence: University Press of Kansas, 1988), 52-55; Paul H. Bergeron,The Presidency of James K. Polk(Lawrence: University Press of Kansas, 1987), 23-24."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Illinois Whig Legislators to Zachary Taylor, 1 January 18491"
+      },
+      {
+        "type": "description",
+        "text": "I have such evidence as enables me to say I know the within recommendation was signed\n               by all the Whig members of the Illinois LegislatureA. Lincoln3"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Undersigned members of theLegislature of the State of Illinois, take great pleasure in tendering to your Excellency, on behalf of near a Million\n               of free people, our sincere Congratulations on yourElevation to the Presidencyof this great and growing Republic—and to express our confidence in your ability\n               and determination to give to the Country an administration that shall secure the permanent\n               welfare & prosperity of the whole Union."
+      },
+      {
+        "type": "paragraph",
+        "text": "Entertaining the Opinion that in the formation of your Cabinet your Excellency may\n               feel disposed to select One from the free States of the North West; we would most\n               respectfully direct your attention to our distinguished fellow Citizen Col.[Colonel]E. D. Baker, as a Gentleman every way qualified to render you that assistance in the Administration\n               of the government, which you have a right to expect from a Cabinet Minister. Should\n               your Excellency see proper to confer so great a distinction upon Col. Baker, it would be highly gratifying to your friends in thisState,<Page 2>and in our opinion give very general satisfaction to theWhigsof this section of the Union."
+      }
+    ],
+    "word_count": 211
+  },
+  "extraction_date": "2025-12-26 20:32:37",
+  "word_count": 211,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1437,
+    "cleaned_length": 1316,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "document_id": "D200471",
+  "url": "https://papersofabrahamlincoln.org/documents/D200471",
+  "metadata": {
+    "date": "1848-03-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Genealogy",
+      "Lincoln family"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to David Lincoln, 24 March 18481 Your very worthy representative,Gov– McDowellhas given me your name and address;2and, as my myfatherwas born inRockingham, from whence his father,Abraham Lincoln, emigrated toKentuckyabout the year 1782, I have concluded to address you to ascertain whether we are\n\nnot of the same family– I shall be much obliged, if you will write me, telling me,\n\nwhether you, in any way, know any thing of mygrandfather, what relation you are to him, and so on– Also, if you know, where your family came\n\nfrom, when they settled inVirginia, tracing them back as far as your knowledge extends–",
+    "paragraphs": [
+      "Abraham Lincoln to David Lincoln, 24 March 18481 Your very worthy representative,Gov– McDowellhas given me your name and address;2and, as my myfatherwas born inRockingham, from whence his father,Abraham Lincoln, emigrated toKentuckyabout the year 1782, I have concluded to address you to ascertain whether we are",
+      "not of the same family– I shall be much obliged, if you will write me, telling me,",
+      "whether you, in any way, know any thing of mygrandfather, what relation you are to him, and so on– Also, if you know, where your family came",
+      "from, when they settled inVirginia, tracing them back as far as your knowledge extends–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Kenneth C. Martis,The Historical Atlas of United States Congressional Districts, 1789-1983(New York: MacMillan, 1982), 78, 79."
+    ],
+    "footnotes": [
+      {
+        "id": "X28157A6D-2C32-4446-949A-9DE6FD369934",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X7E2703E6-36F6-44A6-98AD-6F78487BFAE6",
+        "text": "2James McDowell represented the Eleventh Congressional District of Virginia.Kenneth C. Martis,The Historical Atlas of United States Congressional Districts, 1789-1983(New York: MacMillan, 1982), 78, 79."
+      },
+      {
+        "id": "X1E45988F-BD8B-4B4A-87EE-7336CDE34813",
+        "text": "3David Lincoln responded to Abraham Lincoln on March 30, and Lincoln responded to his\n                  letter with aletterof his own on April 2.  David Lincoln’s letter of March 30 has not been located.\n                  Abraham had a short correspondence with David, but he did make reference to it in\n                  two later letters,onein 1854, and another in 1860.Lincoln’s interest at this time with his paternal ancestry and genealogy also extended\n                  to Lincolns in Massachusetts.  See his correspondence withSolomon Lincoln:Abraham Lincoln to Solomon Lincoln;Solomon Lincoln to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to David Lincoln, 24 March 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your very worthy representative,Gov– McDowellhas given me your name and address;2and, as my myfatherwas born inRockingham, from whence his father,Abraham Lincoln, emigrated toKentuckyabout the year 1782, I have concluded to address you to ascertain whether we are\n               not of the same family– I shall be much obliged, if you will write me, telling me,\n               whether you, in any way, know any thing of mygrandfather, what relation you are to him, and so on– Also, if you know, where your family came\n               from, when they settled inVirginia, tracing them back as far as your knowledge extends–"
+      }
+    ],
+    "word_count": 103
+  },
+  "extraction_date": "2025-12-26 20:28:03",
+  "word_count": 103,
+  "processing": {
+    "cleaned": true,
+    "original_length": 669,
+    "cleaned_length": 627,
+    "preserved_originality": true
+  }
+}

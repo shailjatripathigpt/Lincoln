@@ -1,0 +1,76 @@
+{
+  "document_id": "D200139",
+  "url": "https://papersofabrahamlincoln.org/documents/D200139",
+  "metadata": {
+    "date": "1838-07-25",
+    "authors": [
+      "Browne, Thomas C.",
+      "Butler, William",
+      "Edwards, Ninian W.",
+      "Elkin, Garret",
+      "Francis, Simeon",
+      "Henry, Anson G.",
+      "Herndon, Archer G.",
+      "Jayne, Gersham (Jane)",
+      "Lincoln, Abraham (President)",
+      "Matheny, Charles R.",
+      "Speed, Joshua F.",
+      "Thomas Jr., Jesse B.",
+      "Wright, James"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Employment references",
+      "Public works--Management"
+    ],
+    "type": "Petition",
+    "extracted_date": "1838-07-25",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "petition",
+      "charles",
+      "matheny",
+      "others",
+      "joseph",
+      "duncan",
+      "july"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Petition of Charles R. Matheny and Others to Joseph Duncan, 25 July 18381",
+    "paragraphs": [
+      "Petition of Charles R. Matheny and Others to Joseph Duncan, 25 July 18381"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John H. Krenkel,Illinois Internal Improvements 1818-1848(Cedar Rapids, IA: Torch, 1958), 99; Illinois HouseJournal.  1838. 11th G. A., 1st sess., 448-49;  Illinois SenateJournal. 1838. 11th G. A., 1st sess., 359."
+    ],
+    "footnotes": [
+      {
+        "id": "X0C2986FF-FDA0-42E0-A433-96CDAA343550",
+        "text": "1Abraham Lincoln only signed his name to this petition."
+      },
+      {
+        "id": "XFA060B9C-93E6-4141-9AC8-8AA25F99FF82",
+        "text": "2James W. Stephenson’s term of office expired on March 1, 1839.  On February 19, theGeneral Assemblymet in joint session and elected John Dixon as Stephenson’s replacement as commissioner\n                  for the sixth judicial district.John H. Krenkel,Illinois Internal Improvements 1818-1848(Cedar Rapids, IA: Torch, 1958), 99; Illinois HouseJournal.  1838. 11th G. A., 1st sess., 448-49;  Illinois SenateJournal. 1838. 11th G. A., 1st sess., 359."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Charles R. Matheny and Others to Joseph Duncan, 25 July 18381"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 20:07:28",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 73,
+    "cleaned_length": 73,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

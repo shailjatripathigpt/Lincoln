@@ -1,0 +1,75 @@
+{
+  "document_id": "D210884",
+  "url": "https://papersofabrahamlincoln.org/documents/D210884",
+  "metadata": {
+    "date": "1858-08-18",
+    "authors": [
+      "Peck, Ebenezer"
+    ],
+    "keywords": [
+      "Elections",
+      "Introductions",
+      "Newspapers--Political aspects",
+      "Political campaigns",
+      "Reporters and reporting",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Ebenezer Peck to Abraham Lincoln, 18 August 18581 Chester Dewey This will be handed you by MrChester DeweyofNew Yorkwho is a cousin of my son in law.2 MrDewey is the correspondant of theNew York Evening Post; is a \"gentleman & scholar\" and entitled to all proper respect and confidence.3Any thing you may see proper to communicate, will be in safe hands",
+    "paragraphs": [
+      "Ebenezer Peck to Abraham Lincoln, 18 August 18581 Chester Dewey This will be handed you by MrChester DeweyofNew Yorkwho is a cousin of my son in law.2 MrDewey is the correspondant of theNew York Evening Post; is a \"gentleman & scholar\" and entitled to all proper respect and confidence.3Any thing you may see proper to communicate, will be in safe hands"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The United States Army and Navy Journal, and Gazette of the Regular and Volunteer\n                        Forces(New York: Army and Navy Journal, 1874), 11: 329;Illinois Statewide Marriage Index,  Cook County, 28 August 1851, Illinois State Archives, Springfield, IL;The Daily Standard(St. Catharines, ON), 23 April 1900, 1:4.",
+      "Gilbert H. Muller,Abraham Lincoln and William Cullen Bryant: Their Civil War(Switzerland: Springer International, 2017), 3; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 547, 557; Allen\n                     C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392."
+    ],
+    "footnotes": [
+      {
+        "id": "X2AD6460E-BCE5-47B9-AA08-BC3FF0B0073E",
+        "text": "1Ebenezer Peck wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "XBD65FAAC-F5FD-44CE-9E1D-A1E16C776E02",
+        "text": "2Edward Wright,  a cousin of Chester P. Dewey, married Sarah Louisa Peck, daughter\n                  of Ebenezer Peck, in 1851.The United States Army and Navy Journal, and Gazette of the Regular and Volunteer\n                        Forces(New York: Army and Navy Journal, 1874), 11: 329;Illinois Statewide Marriage Index,  Cook County, 28 August 1851, Illinois State Archives, Springfield, IL;The Daily Standard(St. Catharines, ON), 23 April 1900, 1:4."
+      },
+      {
+        "id": "X41BB3E8C-84B5-4BF7-8A8C-D6AFE03E9930",
+        "text": "3Dewey covered theLincoln-Douglas Debatesfor theNew York Evening Post.  In his initial reaction to Lincoln, he wrote, “A native ofKentucky, where he belonged to the class of ‘poor whites,’ he came early toIllinois. Poor, unfriended, uneducated, a day-laborer, he has distanced all these disadvantages,\n                  and in the profession of the law has risen steadily to a competence and the position\n                  of an intelligent, shrewd, and well-balanced man.”Lincoln was theRepublicancandidate from Illinois for theU.S. Senate. He ran against, and lost to, DemocratStephen A. Douglas, the incumbent. See1858 Illinois Republican Convention;1858 Federal Election.Gilbert H. Muller,Abraham Lincoln and William Cullen Bryant: Their Civil War(Switzerland: Springer International, 2017), 3; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 547, 557; Allen\n                     C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392."
+      },
+      {
+        "id": "XA241CB62-CEAB-479F-835F-70082A3EA1D0",
+        "text": "4Abraham Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Ebenezer Peck to Abraham Lincoln, 18 August 18581"
+      },
+      {
+        "type": "description",
+        "text": "Chester Dewey"
+      },
+      {
+        "type": "paragraph",
+        "text": "This will be handed you by MrChester DeweyofNew Yorkwho is a cousin of my son in law.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrDewey is the correspondant of theNew York Evening Post; is a \"gentleman & scholar\" and entitled to all proper respect and confidence.3Any thing you may see proper to communicate, will be in safe hands"
+      }
+    ],
+    "word_count": 61
+  },
+  "extraction_date": "2025-12-26 21:58:23",
+  "word_count": 61,
+  "processing": {
+    "cleaned": true,
+    "original_length": 353,
+    "cleaned_length": 353,
+    "preserved_originality": true
+  }
+}

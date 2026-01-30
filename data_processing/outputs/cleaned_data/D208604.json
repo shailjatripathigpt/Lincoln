@@ -1,0 +1,65 @@
+{
+  "document_id": "D208604",
+  "url": "https://papersofabrahamlincoln.org/documents/D208604",
+  "metadata": {
+    "date": "1841-02-09",
+    "authors": [],
+    "keywords": [
+      "Government publications",
+      "Leather bindings (Bookbinding)",
+      "Legal literature",
+      "Legislative journals"
+    ],
+    "type": "Amendment"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill Providing for the Election of a Public Binder,” 1 (Amend by adding the following section)2 Sec:3.rdThat in caseCaleb BirchallandJohn H. Johnson,with whom a contract for Public Binding has been made according to law, shall file\n\nwith the Secretary of State a written acceptance of the provisions of this act^and enter into into bond according to the provisions of this act^within ten daysafter the passage of the same, then their contract shall be vacated and they shall\n\ndo all the Public Bindingfor thestateduring the continuance in office of the present members of theHouse of Representativesunder the election already held, at the prices in this act provided; but if they\n\nfail to file such acceptance, this section is to be of no effect—3",
+    "paragraphs": [
+      "Amendment to “A Bill Providing for the Election of a Public Binder,” 1 (Amend by adding the following section)2 Sec:3.rdThat in caseCaleb BirchallandJohn H. Johnson,with whom a contract for Public Binding has been made according to law, shall file",
+      "with the Secretary of State a written acceptance of the provisions of this act^and enter into into bond according to the provisions of this act^within ten daysafter the passage of the same, then their contract shall be vacated and they shall",
+      "do all the Public Bindingfor thestateduring the continuance in office of the present members of theHouse of Representativesunder the election already held, at the prices in this act provided; but if they",
+      "fail to file such acceptance, this section is to be of no effect—3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1840. 12th G. A., 137, 235, 255, 262, 343, 355, 357-58, 546; Illinois SenateJournal. 1840. 12th G. A., 291, 393, 411;Sangamo Journal(Springfield, IL), 12 February 1841, 2:7."
+    ],
+    "footnotes": [
+      {
+        "id": "XA7E4F907-C559-4FBD-B804-BF929FC228AC",
+        "text": "1Abraham Lincolnwrote this amendment, but used two different inks.  It appears that he wrote the\n                  text in black ink first and added the text in blue ink at a later time."
+      },
+      {
+        "id": "X9CB0606F-C3E8-4C8C-AE95-E18682A035BB",
+        "text": "2Lincoln offered this amendment toHB 121, which was introduced in the House on January 16, 1841.   On December 19, 1840, Lincoln\n                  presented aresolutionon expenditures of public printing.  After muchdebate, the House adopted the resolution, referring it to a three-person select committee\n                  that included Lincoln.  In response to this resolution,Joseph W. Ormsbeeof the select committee introducedHB 121.  On February 6, the House referred the bill to another select committee that included\n                  Lincoln.  Lincoln from the select committee reported back the bill on February 9 with\n                  this amendment.    In the subsequentdebate, Lincoln defended said amendment when the House entertained a motion to table it.\n                  The House had said amendment under consideration when it adjourned.  On February 10,\n                  the House took up the bill and Lincoln’s amendment, amending Lincoln’s amendment by\n                  adopting anamendmentadding an additional section.  The House tabled an additional amendment by a vote\n                  of 48 yeas to 37 nays, with Lincoln voting yea.  The House adopted Lincoln’s amendment\n                  as amended, passing the bill as amended.  On February 24, theSenatereferred the bill to the Committee on Elections. The Committee on Elections reported\n                  back the bill on February 26, recommending its rejection, and the Senate indefinitely\n                  postponed further consideration.Illinois HouseJournal. 1840. 12th G. A., 137, 235, 255, 262, 343, 355, 357-58, 546; Illinois SenateJournal. 1840. 12th G. A., 291, 393, 411;Sangamo Journal(Springfield, IL), 12 February 1841, 2:7."
+      },
+      {
+        "id": "XD98697BC-1421-4B9F-9B60-E47C1B1FDD33",
+        "text": "3Anactapproved on  January 31, 1840 authorized the auditor of public accounts, secretary\n                  of state, and treasurer to contract for public binding in the September before the\n                  meeting of eachGeneral Assembly."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill Providing for the Election of a Public Binder,” [9 February 1841]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "(Amend by adding the following section)2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sec[Section]:3.rdThat in caseCaleb BirchallandJohn H. Johnson,with whom a contract for Public Binding has been made according to law, shall file\n               with the Secretary of State  a written acceptance of the provisions of this act^and enter into into bond according to  the provisions of this act^within ten daysafter the passage of the same, then their contract shall be vacated and they shall\n               do all the Public Bindingfor thestateduring the continuance in office of the present members of theHouse of Representativesunder the election already held, at the prices in this act provided; but if they\n               fail   [...?]  to file such acceptance, this section is to be of no effect—3"
+      }
+    ],
+    "word_count": 125
+  },
+  "extraction_date": "2025-12-26 20:15:09",
+  "word_count": 128,
+  "processing": {
+    "cleaned": true,
+    "original_length": 843,
+    "cleaned_length": 763,
+    "preserved_originality": true
+  }
+}

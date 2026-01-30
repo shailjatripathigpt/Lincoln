@@ -1,0 +1,56 @@
+{
+  "document_id": "D210360",
+  "url": "https://papersofabrahamlincoln.org/documents/D210360",
+  "metadata": {
+    "date": "1849-02-24",
+    "authors": [
+      "Dent, George (of Putnam Co., IL)",
+      "Turner, Oaks"
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Oaks Turner and George Dent to Abraham Lincoln, 24 February 18491 The undersigned residents ofPutnam countytake this method of informing you of^their^interest in the success of MrStephen smithwho is applying for the office of Register in theL. O.atDixon. We have been acquainted^this^with^that Gentleman^through the medium of official transactions and otherwise for some years back, and\n\nthe result of that Knowledge of him leadshisus to the conclusion that he will make a faithful and efficient servant of the people.\n\nBespeaking for him your best services should they not be promised to anotherand falling with but notattemptingwishing to seem as dictating to you your course in the matter.2",
+    "paragraphs": [
+      "Oaks Turner and George Dent to Abraham Lincoln, 24 February 18491 The undersigned residents ofPutnam countytake this method of informing you of^their^interest in the success of MrStephen smithwho is applying for the office of Register in theL. O.atDixon. We have been acquainted^this^with^that Gentleman^through the medium of official transactions and otherwise for some years back, and",
+      "the result of that Knowledge of him leadshisus to the conclusion that he will make a faithful and efficient servant of the people.",
+      "Bespeaking for him your best services should they not be promised to anotherand falling with but notattemptingwishing to seem as dictating to you your course in the matter.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138."
+    ],
+    "footnotes": [
+      {
+        "id": "X8370C55D-99AF-4737-A26F-82886D0E4474",
+        "text": "1The author of the body of the letter is unknown.  George Dent and Oaks Turner signed\n                  their names, respectively."
+      },
+      {
+        "id": "X2302176D-C17C-4826-8D66-92F90C602C16",
+        "text": "2Stephen Smith did not receive the appointment.Silas Noblewas register at Dixon from 1849 to 1853.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Oaks Turner and George Dent to Abraham Lincoln, 24 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "The undersigned residents ofPutnam countytake this method of informing you of^their^interest in the success of MrStephen smithwho is applying for the office of Register in theL. O.atDixon. We have been acquainted^this^with^that Gentleman^through the medium of official transactions and otherwise for some years back, and\n               the result of that Knowledge of him leadshisus to the conclusion that he will make a faithful and efficient servant of the people.\n               Bespeaking for him your best services should they not be promised to anotherand falling with[...?] but notattemptingwishing to seem as dictating to you your course in the matter.2"
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 20:35:55",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 727,
+    "cleaned_length": 693,
+    "preserved_originality": true
+  }
+}

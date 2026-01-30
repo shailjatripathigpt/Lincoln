@@ -1,0 +1,70 @@
+{
+  "document_id": "D200530",
+  "url": "https://papersofabrahamlincoln.org/documents/D200530",
+  "metadata": {
+    "date": "1848-10-27",
+    "authors": [
+      "Jayne, Gershom (Jane)",
+      "Jayne, Sibyl",
+      "Lincoln, Abraham (President)",
+      "Lincoln, Mary"
+    ],
+    "keywords": [
+      "Deeds",
+      "Land titles--Registration and transfer"
+    ],
+    "type": "Deed"
+  },
+  "content": {
+    "full_text": "Deed of Abraham Lincoln et ux. and Gershom Jayne et ex. to Pleasant Armstrong and\n\nJohn Yardley, 27 October 18481",
+    "paragraphs": [
+      "Deed of Abraham Lincoln et ux. and Gershom Jayne et ex. to Pleasant Armstrong and",
+      "John Yardley, 27 October 18481"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Christopher A. Schnell, “Wives, Widows, and Will Makers: Woman and the Law of Property,”In Tender Consideration: Women, Families, and the Law in Abraham Lincoln’s Illinois(Urbana: University of Illinois Press, 2003), 129, 133; Joan R. Gundersen, “Women\n                     and Inheritance in America,”  Robert K. Miller Jr. and Stephen J. McNamee, eds.,Inheritance and Wealth in America(New York: Springer Science and Business Media, 1998), 94."
+    ],
+    "footnotes": [
+      {
+        "id": "X74B457D4-DDC7-4AF8-910F-D58B03CEF062",
+        "text": "1Abraham Lincoln wrote the text of this indenture and signed his name.  Gershom and\n                  Sibyl Jayne and Mary Lincoln signed their names."
+      },
+      {
+        "id": "XBE394EED-6E14-4C70-9BB0-3B81D72057E4",
+        "text": "2The land described here is in southern Mason County, bordering Menard County and theSangamon River.  Lincolnpurchasedthe land, then situated in northern Menard County, fromJohn Taylorin March 1836.      In May 1837, Lincolnsolda half-interest in the land to Gershom Jayne."
+      },
+      {
+        "id": "X94EF529E-FD08-4B5C-9381-6F9F481FEC2F",
+        "text": "3“Dower” is a term that refers to the legally protected lifetime right of a woman to\n                  one-third of her husband’s lands and personal property. Dower was intended to provide\n                  for the support of a widow and her children. Because of this, a husband could not\n                  convey property without the consent of his wife.Christopher A. Schnell, “Wives, Widows, and Will Makers: Woman and the Law of Property,”In Tender Consideration: Women, Families, and the Law in Abraham Lincoln’s Illinois(Urbana: University of Illinois Press, 2003), 129, 133; Joan R. Gundersen, “Women\n                     and Inheritance in America,”  Robert K. Miller Jr. and Stephen J. McNamee, eds.,Inheritance and Wealth in America(New York: Springer Science and Business Media, 1998), 94."
+      },
+      {
+        "id": "X6FADDBAB-8DBB-4EC3-BC09-54660EF418C3",
+        "text": "4Keyes wrote and signed this certification."
+      },
+      {
+        "id": "X1D5CDB9D-0153-494C-9488-68C0DB97FF33",
+        "text": "5Matheny wrote and signed this certification."
+      },
+      {
+        "id": "X7ED13818-784B-49E0-8A6D-D57EEDFFB7E5",
+        "text": "6Marshall wrote and signed this certification on behalf of Jones."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Deed of Abraham Lincoln et ux. and Gershom Jayne et ex. to Pleasant Armstrong and\n               John Yardley, 27 October 18481"
+      }
+    ],
+    "word_count": 20
+  },
+  "extraction_date": "2025-12-26 20:31:33",
+  "word_count": 20,
+  "processing": {
+    "cleaned": true,
+    "original_length": 127,
+    "cleaned_length": 113,
+    "preserved_originality": true
+  }
+}

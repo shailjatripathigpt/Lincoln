@@ -1,0 +1,75 @@
+{
+  "document_id": "D274518",
+  "url": "https://papersofabrahamlincoln.org/documents/D274518",
+  "metadata": {
+    "date": "1849-01-30",
+    "authors": [
+      "Logan, Stephen T."
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-01-30",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "our",
+      "old",
+      "office",
+      "you",
+      "stephen",
+      "logan",
+      "abraham",
+      "lincoln",
+      "january",
+      "friendj",
+      "morrisoninforms",
+      "about",
+      "visitingwashington",
+      "cityas"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Stephen T. Logan to Abraham Lincoln, 30 January 18491 Our old friendJ. H Morrisoninforms me he is about visitingWashington Cityas an applicant for the office of Surveyor General inCalifornia. You know Capt Morrison as well as I do for an old and staunchWhigand should you feel willing to assist him in getting the office I do not doubt it\n\nwill be satisfactory to our friends in this region",
+    "paragraphs": [
+      "Stephen T. Logan to Abraham Lincoln, 30 January 18491 Our old friendJ. H Morrisoninforms me he is about visitingWashington Cityas an applicant for the office of Surveyor General inCalifornia. You know Capt Morrison as well as I do for an old and staunchWhigand should you feel willing to assist him in getting the office I do not doubt it",
+      "will be satisfactory to our friends in this region"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853);Abraham Lincoln to George W. Crawford;Abraham Lincoln to Unknown;Abraham Lincoln to John M. Clayton;John H. Morrison to Abraham Lincoln;John H. Morrison to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "XA0F3423C-19F4-4775-9CF8-3576E06CA265",
+        "text": "1Stephen T. Logan wrote this letter in its entirety."
+      },
+      {
+        "id": "X70684F96-6AFB-4108-B29C-0BA149C5950C",
+        "text": "2On March 11, 1849, Abraham Lincoln wrote letters to Secretary of WarGeorge W. Crawford, Secretary of StateJohn M. Clayton, and others on Morrison’s behalf.  Morrison apparently traveled to Washington, DC,\n                  to press his claim, but in aletterto Lincoln on March 13, he thanked Lincoln for his assistance, and requested his\n                  name be withdrawn from further consideration for a government position.  In June 1849,\n                  however, Morrisonwroteagain asking Lincoln for help in getting the surveyor generalship of California or,\n                  failing that, a clerk position in Washington.  Morrison’s name does not appear in\n                  the official registers of the officers and agents of the government for 1849, 1851,\n                  and 1853, so apparently he did not receive an appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853);Abraham Lincoln to George W. Crawford;Abraham Lincoln to Unknown;Abraham Lincoln to John M. Clayton;John H. Morrison to Abraham Lincoln;John H. Morrison to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Stephen T. Logan to Abraham Lincoln, 30 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Our old friendJ. H Morrisoninforms me he is about visitingWashington Cityas an applicant for the office of Surveyor General inCalifornia. You know Capt[Captain] Morrison as well as I do for an old and staunchWhigand should you feel willing to assist him in getting the office I do not doubt it\n               will be satisfactory to our friends in this region"
+      }
+    ],
+    "word_count": 68
+  },
+  "extraction_date": "2025-12-26 20:34:13",
+  "word_count": 68,
+  "processing": {
+    "cleaned": true,
+    "original_length": 413,
+    "cleaned_length": 390,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

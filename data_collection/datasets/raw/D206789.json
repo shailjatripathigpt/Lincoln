@@ -1,0 +1,38 @@
+{
+  "document_id": "D206789",
+  "url": "https://papersofabrahamlincoln.org/documents/D206789",
+  "metadata": {
+    "date": "1836-09-XX - 1861-02-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Storytelling"
+    ],
+    "type": "Story"
+  },
+  "content": {
+    "full_text": "Bass-Ackwards, [September 1836 - February 1861]1",
+    "paragraphs": [
+      "Bass-Ackwards, [September 1836 - February 1861]1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William B. McGregor,Linguistics: An Introduction, 2nd ed. (London and New York: Bloomsbury, 2015), 428; Emanuel Hertz,The Hidden Lincoln(New York: Blue Ribbon Books, 1940), 400."
+    ],
+    "footnotes": [
+      {
+        "id": "X753F237C-A878-4701-9D1B-F6B4A2468DB4",
+        "text": "1This tale strings together “spoonerisms,” a type of wordplay in which the author transposes\n                  the first letter in two or more words for humorous effect. Spoonerisms and other forms\n                  of wordplay were popular in the early 19th century. Although written inAbraham Lincoln’s handwriting, it is unclear whether the text originated with Lincoln. Jesse Weik,\n                  one of Lincoln’s early biographers, stated that the document had been given by Lincoln\n                  to a Springfield court official. Editors have been unable to determine a more specific\n                  date for the document.William B. McGregor,Linguistics: An Introduction, 2nd ed. (London and New York: Bloomsbury, 2015), 428; Emanuel Hertz,The Hidden Lincoln(New York: Blue Ribbon Books, 1940), 400."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Bass-Ackwards, [September 1836 - February 1861]1"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 22:03:11",
+  "word_count": 6
+}

@@ -1,0 +1,81 @@
+{
+  "document_id": "D200217",
+  "url": "https://papersofabrahamlincoln.org/documents/D200217",
+  "metadata": {
+    "date": "1840-03-18",
+    "authors": [
+      "Canedy, Peleg C.",
+      "Klein, Joseph, Sr.",
+      "Latham, Phillip C.",
+      "Lincoln, Abraham (President)",
+      "Whitney, Jonas"
+    ],
+    "keywords": [
+      "Elections"
+    ],
+    "type": "Public notice",
+    "extracted_date": "1840-03-18",
+    "extracted_type": "public notice",
+    "extracted_keywords": [
+      "public",
+      "notice",
+      "election",
+      "city",
+      "springfield",
+      "march",
+      "simron",
+      "francis",
+      "clerk"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Public Notice of an Election in the City of Springfield, 18 March 18401 Simron Francis, Clerk.",
+    "paragraphs": [
+      "Public Notice of an Election in the City of Springfield, 18 March 18401 Simron Francis, Clerk."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sangamo Journal(Springfield, IL), 10 April 1840, 2:1.",
+      "Proceedings of the Springfield Board of Trustees;History of Sangamon County, Illinois(Chicago: Inter-State, 1881), 566;Sangamo Journal(Springfield, IL), 24 April 1840, 2:5."
+    ],
+    "footnotes": [
+      {
+        "id": "XA85BE694-05C8-45BE-AD48-1ECB7472F75E",
+        "text": "1Abraham Lincoln affixed his signature to this public notice, so the text is attributed\n                  to him, but the extent of his involvement in its composition is unknown."
+      },
+      {
+        "id": "XED3D4FC2-46FF-4368-97E7-3811DD06533F",
+        "text": "2Article four, section one, of the act incorporating the city of Springfield set the\n                  time and procedure for the first election."
+      },
+      {
+        "id": "XB031C733-E463-43BC-935C-43CB54D232B9",
+        "text": "3In a special election of April 6, Springfield voters had approved the city charter\n                  by a vote of 226 to 121.Sangamo Journal(Springfield, IL), 10 April 1840, 2:1."
+      },
+      {
+        "id": "XC7EF3AB9-A095-40F2-BB99-08C388DF579D",
+        "text": "4In the election held on April 20, Springfield voters electedBenjamin S. Clementmayor andJames R. Gray, Joseph Klein,Washington Iles, andWilliam Prentissas aldermen of the first, second, third, and fourth wards, respectively.  The successful\n                  candidates were allWhigs.Proceedings of the Springfield Board of Trustees;History of Sangamon County, Illinois(Chicago: Inter-State, 1881), 566;Sangamo Journal(Springfield, IL), 24 April 1840, 2:5."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Public Notice of an Election in the City of Springfield, 18 March 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "Simron Francis, Clerk."
+      }
+    ],
+    "word_count": 16
+  },
+  "extraction_date": "2025-12-26 20:12:32",
+  "word_count": 16,
+  "processing": {
+    "cleaned": true,
+    "original_length": 94,
+    "cleaned_length": 94,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,80 @@
+{
+  "document_id": "D200482",
+  "url": "https://papersofabrahamlincoln.org/documents/D200482",
+  "metadata": {
+    "date": "1848-04-21",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Patents"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-04-21",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "return",
+      "see",
+      "than",
+      "notes",
+      "them",
+      "abraham",
+      "lincoln",
+      "benjamin",
+      "kellogg",
+      "april",
+      "yourletter",
+      "herewith",
+      "received",
+      "two"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Benjamin Kellogg Jr., 21 April 18481 Yourletter, which I herewith return, was received two days ago– On yesterday I went to thePatent officewith it, made the memorandum on it which you see on the back of it, and left it–2Last night they returned it to me, with no other answer, than the pencil notes at\n\nthe top and bottom of it, which you^see–^I return theletter, because I suppose you will understand their notes better by seeing them, than you^could^by my writing about them–3",
+    "paragraphs": [
+      "Abraham Lincoln to Benjamin Kellogg Jr., 21 April 18481 Yourletter, which I herewith return, was received two days ago– On yesterday I went to thePatent officewith it, made the memorandum on it which you see on the back of it, and left it–2Last night they returned it to me, with no other answer, than the pencil notes at",
+      "the top and bottom of it, which you^see–^I return theletter, because I suppose you will understand their notes better by seeing them, than you^could^by my writing about them–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "W. H. Starr, ed.,The Farmer and Mechanic(New York, 1847), 276.",
+      "Benjamin Kellogg Jr. to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X5F37B75E-3137-409F-BA79-49C27122F493",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XE287D622-43F5-458E-9251-4660ABDBD59C",
+        "text": "2Sometime earlier, Benjamin Kellogg, Jr. had forwarded toEdmund Burke, the commissioner of patents, two deeds from William Wilcox and S. M. Whipple for\n                  the rights to Colburn’s improved iron pump.David G. Colburnwas selling the rights to make or vend his invention in any part of the United States\n                  not otherwise disposed of through previously obtained rights. Kellogg had heard nothing\n                  from the Patent Office, and on April 4, hewroteLincoln asking him to ascertain the deposition of his deeds.  In his memorandum penned\n                  to Kellogg’s letter, Lincoln requested that the Patent Office examine Kellogg’sletterand return it to him with the desired information.W. H. Starr, ed.,The Farmer and Mechanic(New York, 1847), 276."
+      },
+      {
+        "id": "XECBB2D9B-C7E9-410C-98FF-C6EF7409BA50",
+        "text": "3In the pencilled notes Lincoln references, the Patent Office indicated it received\n                  the deeds on March 4, and sent them to Kellogg on April 5.Benjamin Kellogg Jr. to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Benjamin Kellogg Jr., 21 April 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yourletter, which I herewith return, was received two days ago– On yesterday I went to thePatent officewith it, made the memorandum on it which you see on the back of it, and left it–2Last night they returned it to me, with no other answer, than the pencil notes at\n               the top and bottom of it, which you^see–^I return theletter, because I suppose you will understand their notes better by seeing them, than you^could^by my writing about them–3"
+      }
+    ],
+    "word_count": 86
+  },
+  "extraction_date": "2025-12-26 20:29:18",
+  "word_count": 86,
+  "processing": {
+    "cleaned": true,
+    "original_length": 512,
+    "cleaned_length": 498,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

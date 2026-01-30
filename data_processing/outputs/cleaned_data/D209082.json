@@ -1,0 +1,47 @@
+{
+  "document_id": "D209082",
+  "url": "https://papersofabrahamlincoln.org/documents/D209082",
+  "metadata": {
+    "date": "1848-XX-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Envelopes (Stationery)"
+    ],
+    "type": "Envelope"
+  },
+  "content": {
+    "full_text": "Envelope of Abraham Lincoln to Andrew W. Leggat, 1 Free– A. Lincoln, M.C",
+    "paragraphs": [
+      "Envelope of Abraham Lincoln to Andrew W. Leggat, 1 Free– A. Lincoln, M.C"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XEC886224-D591-453B-AC35-FB090086FB02",
+        "text": "1Abraham Lincolnaddressed this envelope.  The letter enclosed has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Envelope of Abraham Lincoln to Andrew W. Leggat, [1848]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Free–  A. Lincoln, M.C[Member Congress]"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 20:32:44",
+  "word_count": 14,
+  "processing": {
+    "cleaned": true,
+    "original_length": 96,
+    "cleaned_length": 72,
+    "preserved_originality": true
+  }
+}

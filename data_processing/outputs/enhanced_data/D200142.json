@@ -1,0 +1,90 @@
+{
+  "document_id": "D200142",
+  "url": "https://papersofabrahamlincoln.org/documents/D200142",
+  "metadata": {
+    "date": "1838-09-13",
+    "authors": [
+      "Baker, Edward D.",
+      "Edwards, Ninian W.",
+      "Hewett, Josephus",
+      "Lincoln, Abraham (President)",
+      "Logan, Stephen T.",
+      "Stuart, John T.",
+      "Treat, Samuel H.",
+      "Walker, Cyrus"
+    ],
+    "keywords": [
+      "Lawyers",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Petition",
+    "extracted_date": "1838-09-13",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "law",
+      "him",
+      "his",
+      "petition",
+      "stephen",
+      "logan",
+      "others",
+      "joseph",
+      "duncan",
+      "undersigned",
+      "hereby",
+      "certify",
+      "thatantrim",
+      "campbellhas",
+      "engaged"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Petition of Stephen T. Logan and Others to Joseph Duncan, 1 We the undersigned do hereby certify thatAntrim Campbellhas been engaged in the practice of the Law inSpringfieldfor eight months last past, and from our knowledge of his character do believe him\n\nin every respect worthy of confidence and esteem, And we do also cheerfully recommend\n\nhim to his ExcellencyJoseph DuncanGovernor of the State ofIllinoisas fully qualified and competent to fulfill the duties of Prosecuting Attorney and\n\nwould be much pleased to see him get the appointment to said office2 ^^",
+    "paragraphs": [
+      "Petition of Stephen T. Logan and Others to Joseph Duncan, 1 We the undersigned do hereby certify thatAntrim Campbellhas been engaged in the practice of the Law inSpringfieldfor eight months last past, and from our knowledge of his character do believe him",
+      "in every respect worthy of confidence and esteem, And we do also cheerfully recommend",
+      "him to his ExcellencyJoseph DuncanGovernor of the State ofIllinoisas fully qualified and competent to fulfill the duties of Prosecuting Attorney and",
+      "would be much pleased to see him get the appointment to said office2 ^^"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois SenateJournal. 1838. 11th G. A., 1st sess., 401-402; Illinois HouseJournal.  1838. 11th G. A., 1st sess., 501-502."
+    ],
+    "footnotes": [
+      {
+        "id": "XBCBE03EA-7125-4C57-B1C3-46346E08131D",
+        "text": "1Abraham Lincoln only signed his name to this petition."
+      },
+      {
+        "id": "XC49DB236-013E-41F5-BB2E-A5B0D2805CB6",
+        "text": "2There is no evidence that Governor Joseph Duncan appointed  Antrim Campbell, even\n                  on an interim basis.  On February 23, 1839, theGeneral AssemblyelectedDavid M. Woodsonas the new state’s attorney for the First Judicial Circuit.  The Senate Journal identified\n                  the successful candidate as William Woodson.Illinois SenateJournal. 1838. 11th G. A., 1st sess., 401-402; Illinois HouseJournal.  1838. 11th G. A., 1st sess., 501-502."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Stephen T. Logan and Others to Joseph Duncan, [13 September 1838]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "We the undersigned do hereby certify thatAntrim Campbellhas been engaged in the practice of the Law inSpringfieldfor eight months last past, and from our knowledge of his character do believe him\n               in every respect worthy of confidence and esteem, And we do also cheerfully recommend\n               him to his ExcellencyJoseph DuncanGovernor of the State ofIllinoisas fully qualified and competent to fulfill the duties of Prosecuting Attorney and\n               would be much pleased to see him get the appointment to said office2"
+      },
+      {
+        "type": "paragraph",
+        "text": "^[Jas?]^"
+      }
+    ],
+    "word_count": 91
+  },
+  "extraction_date": "2025-12-26 20:07:21",
+  "word_count": 93,
+  "processing": {
+    "cleaned": true,
+    "original_length": 632,
+    "cleaned_length": 565,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

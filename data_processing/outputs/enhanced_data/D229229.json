@@ -1,0 +1,111 @@
+{
+  "document_id": "D229229",
+  "url": "https://papersofabrahamlincoln.org/documents/D229229",
+  "metadata": {
+    "date": "1848-05-02",
+    "authors": [
+      "Stuart, John T."
+    ],
+    "keywords": [
+      "Lawyers",
+      "Debtor and creditor",
+      "Civil procedure"
+    ],
+    "type": "Plea, replication",
+    "extracted_date": "1848-05-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "country",
+      "said",
+      "plea",
+      "plaintiff",
+      "says",
+      "defendant",
+      "harrison",
+      "his",
+      "comes",
+      "judgement",
+      "aforesaid",
+      "form",
+      "replication",
+      "inclark",
+      "attorney"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Plea and Replication inClark v. Harrison, 1 And the said Harrison by his attorney comes and defends where &c. and for plea in this behalf says Plaintiff actio non &c–3because he says that after the recovery of said judgement and before the commencement of this Suit Towit on theDay ofTowit at the County and State aforesaid he the said Defendant fully paid and satisfied\n\nto the said Plaintiff the said sum of in form aforesaid recovered and that he is ready to verify wherefore he prays Judgement &c– And the said plaintiff comes, and as to the plea of the said defendant above pleaded\n\nsaysprecludinon,4because he says that said defendant did not pay and satisfy the said judgment in\n\nmanner and form, as in his said plea, he hath alleged; and of this the plaintiff puts\n\nhimself upon the country &c.",
+    "paragraphs": [
+      "Plea and Replication inClark v. Harrison, 1 And the said Harrison by his attorney comes and defends where &c. and for plea in this behalf says Plaintiff actio non &c–3because he says that after the recovery of said judgement and before the commencement of this Suit Towit on theDay ofTowit at the County and State aforesaid he the said Defendant fully paid and satisfied",
+      "to the said Plaintiff the said sum of in form aforesaid recovered and that he is ready to verify wherefore he prays Judgement &c– And the said plaintiff comes, and as to the plea of the said defendant above pleaded",
+      "saysprecludinon,4because he says that said defendant did not pay and satisfy the said judgment in",
+      "manner and form, as in his said plea, he hath alleged; and of this the plaintiff puts",
+      "himself upon the country &c."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Narratio (Document ID: 10014), 14 April 1847; Order (Document ID: 10022), 25 October\n                     1848,Clark v. Harrison, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=135812.",
+      "Henry Campbell Black,Black’s Law Dictionary,  5th ed. (St. Paul, MN: West, 1979), 47.",
+      "Henry Campbell Black,Black’s Law Dictionary, 29.",
+      "Henry Campbell Black,Black’s Law Dictionary, 1060."
+    ],
+    "footnotes": [
+      {
+        "id": "X9443F80F-BEF1-41DB-AA76-09E74B415D57",
+        "text": "1John T. Stuart wrote and signed the main body of this legal document. Abraham Lincoln\n                  wrote the first endorsement, to which he signed David Logan’s name.In May 1847, James Clark retained Lincoln and David Logan to sue Ezekiel Harrison\n                  for payment of a $2,320 judgment obtained in the Christian County, Kentucky Circuit\n                  Court in 1822. On October 25, 1848, the jury found in favor of Harrison.Narratio (Document ID: 10014), 14 April 1847; Order (Document ID: 10022), 25 October\n                     1848,Clark v. Harrison, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://lawpracticeofabrahamlincoln.org/Details.aspx?case=135812."
+      },
+      {
+        "id": "X9883DFCB-E8CB-406D-815D-E9D1B1CAFE2A",
+        "text": "2The Latinad sectamindicates that the name of the defendant is given before that of the plaintiff. In\n                  this case, Harrison was the defendant.Henry Campbell Black,Black’s Law Dictionary,  5th ed. (St. Paul, MN: West, 1979), 47."
+      },
+      {
+        "id": "XB571F31A-53D6-4998-BE89-A3CD21F4D5D0",
+        "text": "3“Actionem non habere debet” is a Latin phrase that declares that the plaintiff in\n                  a common law case “ought not to have or maintain” legal action against the defendant.Henry Campbell Black,Black’s Law Dictionary, 29."
+      },
+      {
+        "id": "X4DAAE28F-5A25-4BB1-B146-F0A8CB1F2ABF",
+        "text": "4“Precludi non” is a Latin phrase used when the plaintiff asserts that he ought not\n                  to be barred from having and maintaining the action against the defendant.Henry Campbell Black,Black’s Law Dictionary, 1060."
+      },
+      {
+        "id": "XF041988D-7C31-49C7-A104-A8B42D3BD333",
+        "text": "5Lincoln wrote this text and signed David Logan’s name."
+      },
+      {
+        "id": "XBB3ACC10-B421-4A6D-A5C7-E7C91BF67D6D",
+        "text": "6Stuart wrote this endorsement."
+      },
+      {
+        "id": "X5BEDDCEB-89E4-482B-8070-EAFDD0A4BCB8",
+        "text": "7Stuart wrote this docketing."
+      },
+      {
+        "id": "X7D7E354B-8CDF-4125-B52B-A823289F23AA",
+        "text": "8Nathan Dresser wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Plea and Replication inClark v. Harrison, [2 May 1848]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "And the said Harrison by his attorney comes and defends [...?] where &c.[etc.] and for plea in this behalf says Plaintiff actio non[actionem non habere debet] &c–3because he says that after the recovery of said judgement and before the commencement of this Suit Towit on theDay ofTowit at the County and State aforesaid he the said Defendant fully paid and satisfied\n               to the said Plaintiff the said sum of [?] in form aforesaid recovered and that he is ready to verify [...?] wherefore he prays Judgement &c–"
+      },
+      {
+        "type": "paragraph",
+        "text": "And the said plaintiff comes, and as to the plea of the said defendant above pleaded\n               saysprecludinon,4because he says that said defendant did not pay and satisfy the said judgment in\n               manner and form, as in his said plea, he hath alleged; and of this the plaintiff puts\n               himself upon the country &c."
+      }
+    ],
+    "word_count": 141
+  },
+  "extraction_date": "2025-12-26 20:29:00",
+  "word_count": 149,
+  "processing": {
+    "cleaned": true,
+    "original_length": 921,
+    "cleaned_length": 802,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

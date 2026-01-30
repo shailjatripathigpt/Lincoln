@@ -1,0 +1,85 @@
+{
+  "document_id": "D250381",
+  "url": "https://papersofabrahamlincoln.org/documents/D250381",
+  "metadata": {
+    "date": "1858-04-19",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Debtor and creditor",
+      "Promissory notes"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-04-19",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "owen",
+      "bro",
+      "abraham",
+      "lincoln",
+      "blatchford",
+      "seward",
+      "griswold",
+      "april",
+      "yours",
+      "copy",
+      "note",
+      "made",
+      "byt",
+      "favor",
+      "ofmiller"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Blatchford, Seward & Griswold, 19 April 18581 Yours of the 14thenclosing copy of note made byT. J. V. Owen & Bro, in favor ofMiller & Holbrook, is received–2I know the firm of T. J. V. Owen & Bro.; and, although they are little pressed, I understand them to be good for all their\n\ndebts–3",
+    "paragraphs": [
+      "Abraham Lincoln to Blatchford, Seward & Griswold, 19 April 18581 Yours of the 14thenclosing copy of note made byT. J. V. Owen & Bro, in favor ofMiller & Holbrook, is received–2I know the firm of T. J. V. Owen & Bro.; and, although they are little pressed, I understand them to be good for all their"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Blatchford, Seward & Griswold to Abraham Lincoln;Abraham Lincoln to Blatchford, Seward & Griswold; Blatchford, Seward & Griswold to Abraham Lincoln; Abraham Lincoln to Blatchford, Seward & Griswold; Blatchford, Seward & Griswold to Abraham Lincoln.",
+      "Blatchford, Seward & Griswold to Abraham Lincoln; Blatchford, Seward & Griswold to Abraham Lincoln; Blatchford, Seward & Griswold to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X128FDC86-9ADF-4BE5-BEF7-5C39BE197B2C",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XD1D86B0D-C16B-488B-8B49-19885BC4A314",
+        "text": "2Blatchford, Seward & Griswold’s letter to Lincoln has not been located, nor has the\n                  copy of the promissory note from T. J. V. Owen & Brother to Miller & Holbrook."
+      },
+      {
+        "id": "XEB6717BB-D29B-45F1-A364-AD28E82F0693",
+        "text": "3Blatchford, Seward & Griswoldrepliedto Lincoln on April 23, enclosing the original promissory note and leaving the details\n                  of scheduling T. J. V. Owen & Brother’s repayment of the debt in Lincoln’s hands.\n                  Lincoln and Blatchford, Seward & Griswold subsequently exchanged at least five more\n                  letters related to the subject of this debt. Lincoln advised Blatchford, Seward &\n                  Griswold against initiating a lawsuit to resolve the matter, but it is unclear from\n                  extant correspondence whether he was able to resolve the debt either in full or in\n                  part.Blatchford, Seward & Griswold to Abraham Lincoln;Abraham Lincoln to Blatchford, Seward & Griswold; Blatchford, Seward & Griswold to Abraham Lincoln; Abraham Lincoln to Blatchford, Seward & Griswold; Blatchford, Seward & Griswold to Abraham Lincoln."
+      },
+      {
+        "id": "X1BF79D91-C9B0-49CC-AAEE-7C008A72244C",
+        "text": "4An unknown person wrote this docketing. The handwriting matches that in other letters\n                  that Blatchford, Seward & Griswold sent to Lincoln.Blatchford, Seward & Griswold to Abraham Lincoln; Blatchford, Seward & Griswold to Abraham Lincoln; Blatchford, Seward & Griswold to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Blatchford, Seward & Griswold, 19 April 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 14thenclosing copy of note made byT. J. V. Owen & Bro, in favor ofMiller & Holbrook, is received–2I know the firm of T. J. V. Owen & Bro.[Brother]; and, although they are little pressed, I understand them to be good for all their\n               debts–3"
+      }
+    ],
+    "word_count": 57
+  },
+  "extraction_date": "2025-12-26 21:47:03",
+  "word_count": 57,
+  "processing": {
+    "cleaned": true,
+    "original_length": 330,
+    "cleaned_length": 307,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

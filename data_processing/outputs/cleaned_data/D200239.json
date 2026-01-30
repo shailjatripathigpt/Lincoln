@@ -1,0 +1,70 @@
+{
+  "document_id": "D200239",
+  "url": "https://papersofabrahamlincoln.org/documents/D200239",
+  "metadata": {
+    "date": "1840-12-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Patronage, Political",
+      "Public officers"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John T. Stuart, 17 December 18401 McRobertswas elected senator yesterday. The vote stood: McRoberts, seventy-seven;Cyrus Edwards, fifty;E. D. Baker, one; absent, three.2This affair of appointment to office is very annoying—more so to you than to me,\n\ndoubtless. I am, as you know, opposed to removals to make places for our friends.\n\nBearing this in mind, I express my preference in a few cases, as follows: For marshal,\n\nfirst,John Dawson; second,Dr. B. F. Edwards.3For postmasterhere,Dr. Henry;Carlinville,Joseph C. Howell.4There is no question of the propriety of removing the postmaster at Carlinville.\n\nI have been told by so many different persons as to preclude all doubt of its truth,\n\nthat he boldly refused to deliver from his office during the canvass all documents\n\nfranked byWhigmembers ofCongress.",
+    "paragraphs": [
+      "Abraham Lincoln to John T. Stuart, 17 December 18401 McRobertswas elected senator yesterday. The vote stood: McRoberts, seventy-seven;Cyrus Edwards, fifty;E. D. Baker, one; absent, three.2This affair of appointment to office is very annoying—more so to you than to me,",
+      "doubtless. I am, as you know, opposed to removals to make places for our friends.",
+      "Bearing this in mind, I express my preference in a few cases, as follows: For marshal,",
+      "first,John Dawson; second,Dr. B. F. Edwards.3For postmasterhere,Dr. Henry;Carlinville,Joseph C. Howell.4There is no question of the propriety of removing the postmaster at Carlinville.",
+      "I have been told by so many different persons as to preclude all doubt of its truth,",
+      "that he boldly refused to deliver from his office during the canvass all documents"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1840. 12th G. A.,  126-27.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, from  the Thirtieth September, 1841, to the Thirtieth September,\n                        1843(Washington, DC: J. & G. S. Gideon, 1843), 257.",
+      "Sangamo Journal(Springfield, IL), 27 August 1841, 2:1;History of Macoupin County, Illinois(Philadelphia: Brink, McDonough, 1879), 106;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, from  the Thirtieth September, 1841, to the Thirtieth September,\n                        1843, 536*."
+    ],
+    "footnotes": [
+      {
+        "id": "XA66E9271-4DCD-4FF4-B4FE-CAB122EF631A",
+        "text": "1Roy P. Basler, John Hay, and John G. Nicolay attributed this text to Abraham Lincoln,\n                  but the manuscript version in Lincoln’s hand has not been found."
+      },
+      {
+        "id": "XB6349D70-9DDD-499A-BB25-0A82D913D6DB",
+        "text": "2Lincolnvoted for Edwards.  McRoberts succeededJohn M. Robinson, and was the first native born Illinoisan elected to theU.S. Senate.Illinois HouseJournal. 1840. 12th G. A.,  126-27."
+      },
+      {
+        "id": "XB630F322-093B-4160-987A-3974CB3CA846",
+        "text": "3Neither Dawson or Edwards would receive the appointment.  PresidentJohn TylerappointedWilliam S. Prentissto the post.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, from  the Thirtieth September, 1841, to the Thirtieth September,\n                        1843(Washington, DC: J. & G. S. Gideon, 1843), 257."
+      },
+      {
+        "id": "XB1E25DD3-E067-4857-8553-95EA792C41B3",
+        "text": "4Henry did not get the appointment.   President  Tyler appointedGeorge W. Spotswoodto the post. Howell did get the appointment, replacingDaniel Andersonin July 1841.Sangamo Journal(Springfield, IL), 27 August 1841, 2:1;History of Macoupin County, Illinois(Philadelphia: Brink, McDonough, 1879), 106;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, from  the Thirtieth September, 1841, to the Thirtieth September,\n                        1843, 536*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John T. Stuart, 17 December 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "McRobertswas elected senator yesterday.  The vote stood: McRoberts, seventy-seven;Cyrus Edwards, fifty;E. D. Baker, one; absent, three.2This affair of appointment to office is very annoying—more so to you than to me,\n               doubtless.  I am, as you know, opposed to removals to make places for our friends.\n               Bearing this in mind, I express my preference in a few cases, as follows: For marshal,\n               first,John Dawson; second,Dr. B. F. Edwards.3For postmasterhere,Dr. Henry;Carlinville,Joseph C. Howell.4There is no question of the propriety of removing the postmaster at Carlinville.\n               I have been told by so many different persons as to preclude all doubt of its truth,\n               that he boldly refused to deliver from his office during the canvass all documents\n               franked byWhigmembers ofCongress."
+      }
+    ],
+    "word_count": 126
+  },
+  "extraction_date": "2025-12-26 20:14:19",
+  "word_count": 126,
+  "processing": {
+    "cleaned": true,
+    "original_length": 916,
+    "cleaned_length": 830,
+    "preserved_originality": true
+  }
+}

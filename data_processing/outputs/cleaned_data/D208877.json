@@ -1,0 +1,67 @@
+{
+  "document_id": "D208877",
+  "url": "https://papersofabrahamlincoln.org/documents/D208877",
+  "metadata": {
+    "date": "1848-04-04",
+    "authors": [
+      "Kellogg Jr., Benjamin"
+    ],
+    "keywords": [
+      "Patents"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Benjamin Kellogg Jr. to Abraham Lincoln, 4 April 18481 Please examine this letter, and give me the desired information; and return this,\n\nto me with your own–A. Lincoln3 Sometime since I forwarded to theComrof Patents2 Deeds from WmWilcox & S M Whipple for the right of Colburns Improved Iron Pump, to several States\n\n& Territories (for which I paid a large amount) with a request to record the Deeds\n\n& return them to me also to informe me if they,^Whipple & Wilcox^had a Deed from Colburn the Patentee & if so to send me a Copy under seal of theOffice, (I wish to dispose of a portion of the right and want to know all is right before\n\nI do so) since that time I have recdno Communication from the Patent Office, myOobject in writing to you is to ascertain whether the deeds have been received and\n\nobtain the information I wrote for to the Office.2Your friends are wellDraG. His here to remove his family toSpringfieldbut is detained on a/c of highWater",
+    "paragraphs": [
+      "Benjamin Kellogg Jr. to Abraham Lincoln, 4 April 18481 Please examine this letter, and give me the desired information; and return this,",
+      "to me with your own–A. Lincoln3 Sometime since I forwarded to theComrof Patents2 Deeds from WmWilcox & S M Whipple for the right of Colburns Improved Iron Pump, to several States",
+      "& Territories (for which I paid a large amount) with a request to record the Deeds",
+      "& return them to me also to informe me if they,^Whipple & Wilcox^had a Deed from Colburn the Patentee & if so to send me a Copy under seal of theOffice, (I wish to dispose of a portion of the right and want to know all is right before",
+      "I do so) since that time I have recdno Communication from the Patent Office, myOobject in writing to you is to ascertain whether the deeds have been received and",
+      "obtain the information I wrote for to the Office.2Your friends are wellDraG. His here to remove his family toSpringfieldbut is detained on a/c of highWater"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Benjamin Kellogg Jr..",
+      "W. H. Starr, ed.,The Farmer and Mechanic(New York, 1847), 276."
+    ],
+    "footnotes": [
+      {
+        "id": "X0C9BB087-86FA-4005-B824-EF13D49A579F",
+        "text": "1Benjamin Kellogg, Jr. wrote the body of the letter, including the address on the last\n                  page, which was folded to make an envelope.  An unknown clerk from the Patent Office\n                  wrote the docketing preceding Kellogg’s letter and endorsement succeeding it.  Abraham\n                  Lincoln wrote the endorsement before the address.Abraham Lincoln to Benjamin Kellogg Jr.."
+      },
+      {
+        "id": "X92D1F2B6-09B7-4194-8921-2EC42D597B78",
+        "text": "2David G. Colburn was selling the rights to make or vend his invention in any part\n                  of the United States not otherwise disposed of through previously obtained rights.William Wilcox and S. M. Whipple could not be positively identified.W. H. Starr, ed.,The Farmer and Mechanic(New York, 1847), 276."
+      },
+      {
+        "id": "XEF582AF2-DD73-4B55-8ED8-E462691729BC",
+        "text": "3Lincolnrespondedto Kellogg on April 21."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Benjamin Kellogg Jr. to Abraham Lincoln, 4 April 18481"
+      },
+      {
+        "type": "description",
+        "text": "Please examine this letter, and give me the desired information; and return this,\n               to me with your own–A. Lincoln3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sometime since I forwarded to theComrof Patents2 Deeds from WmWilcox & S M Whipple for the right of Colburns Improved Iron Pump, to several States\n               & Territories (for which I paid a large amount) with a request to record the Deeds\n               & return them to me also to informe me if they,^Whipple & Wilcox^had a  Deed from Colburn the Patentee & if so to send me a Copy under seal of theOffice, (I wish to dispose of a portion of the right and want to know all is right before\n               I do so) since that time I have recdno Communication from the Patent Office, myOobject in writing to you is to ascertain whether the deeds have been received and\n               obtain the information I wrote for to the Office.2Your friends are wellDraG. His here to remove his family toSpringfieldbut is detained on a/c[account] of highWater"
+      }
+    ],
+    "word_count": 172
+  },
+  "extraction_date": "2025-12-26 20:28:26",
+  "word_count": 172,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1036,
+    "cleaned_length": 956,
+    "preserved_originality": true
+  }
+}

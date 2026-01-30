@@ -1,0 +1,86 @@
+{
+  "document_id": "D200640",
+  "url": "https://papersofabrahamlincoln.org/documents/D200640",
+  "metadata": {
+    "date": "1850-02-09",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Employment references",
+      "United States marshals"
+    ],
+    "type": "Letter",
+    "extracted_date": "1850-02-09",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "people",
+      "you",
+      "appointment",
+      "your",
+      "abraham",
+      "lincoln",
+      "sylvester",
+      "emmons",
+      "february",
+      "yours",
+      "not",
+      "received",
+      "till",
+      "yesterday",
+      "entirely"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Sylvester Emmons, 9 February 18501 Yours of the 2ndwas not received till yesterday–2I shall be entirely satisfied for you to receive the appointment you desire; still\n\nI know, by conversations with theMarshal, that he will look to the wishes of the people of yourcounty, rather than tomine, as to who shall have the appointment–3Therefore as your friend, I advise you to get the recommendation of some of your\n\nprominentwhigs—Dummer,Dick Thomas—Arenz; and such men, and I will most cheerfully present them to the Marshall when he shall be here–4",
+    "paragraphs": [
+      "Abraham Lincoln to Sylvester Emmons, 9 February 18501 Yours of the 2ndwas not received till yesterday–2I shall be entirely satisfied for you to receive the appointment you desire; still",
+      "I know, by conversations with theMarshal, that he will look to the wishes of the people of yourcounty, rather than tomine, as to who shall have the appointment–3Therefore as your friend, I advise you to get the recommendation of some of your",
+      "prominentwhigs—Dummer,Dick Thomas—Arenz; and such men, and I will most cheerfully present them to the Marshall when he shall be here–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *467;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *523."
+    ],
+    "footnotes": [
+      {
+        "id": "XE2C83984-CCE9-4BDA-8CD4-2FE014F5C148",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the last sheet\n                  used to create an envelope."
+      },
+      {
+        "id": "X153A1831-3F6F-4F82-852F-234AC109D385",
+        "text": "2Sylvester Emmons’ February 2, 1850 letter to Lincoln has not been located."
+      },
+      {
+        "id": "XEADE280F-C1B7-48A7-91C4-1A64B0C9B964",
+        "text": "3Since no other correspondence between Emmons and Lincoln on this topic has been located,\n                  some of the context for this letter is missing. However, Emmons most likely requested\n                  a letter of reference from Lincoln for appointment as a deputy U.S. marshal for the\n                  state ofIllinois."
+      },
+      {
+        "id": "X558BA74B-3CFD-496B-AA72-4A20897EF5A5",
+        "text": "4Emmons’ reply, if he wrote one, has not been located. Emmons is listed in the 1849\n                  and 1851 official register of the officers and agents of the government as a postmaster\n                  for Beardstown, Illinois, so apparently he received this appointment instead of an\n                  appointment as a deputy U.S. marshal for Illinois.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *467;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *523."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Sylvester Emmons, 9 February 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 2ndwas not received till yesterday–2I shall be entirely satisfied for you to receive the appointment you desire; still\n               I know, by conversations with theMarshal, that he will look to the wishes of the people of yourcounty, rather than tomine, as to who shall have the appointment–3Therefore as  your friend, I advise you to get the recommendation of some of your\n               prominentwhigs—Dummer,Dick Thomas—Arenz; and such men, and I will most cheerfully present them to the Marshall when he shall be here–4"
+      }
+    ],
+    "word_count": 91
+  },
+  "extraction_date": "2025-12-26 21:21:55",
+  "word_count": 91,
+  "processing": {
+    "cleaned": true,
+    "original_length": 593,
+    "cleaned_length": 564,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

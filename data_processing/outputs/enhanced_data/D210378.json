@@ -1,0 +1,78 @@
+{
+  "document_id": "D210378",
+  "url": "https://papersofabrahamlincoln.org/documents/D210378",
+  "metadata": {
+    "date": "1849-03-20",
+    "authors": [
+      "Edwards, James L."
+    ],
+    "keywords": [
+      "Bounties, Military",
+      "Military pensions",
+      "Bounty Land Claim"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847-02-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "notified",
+      "land",
+      "james",
+      "edwards",
+      "maria",
+      "davis",
+      "care",
+      "abraham",
+      "lincoln",
+      "march",
+      "hereby",
+      "your",
+      "claim",
+      "under"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "James L. Edwards to Maria Davis in Care of Abraham Lincoln, 20 March 1849 You are hereby notified that your claim under the 9th section of the act of February\n\n11, 1847, allowing bounty land or scrip, at the option of the claimant, has been allowed,\n\nand theCommissionerof theGeneral Land Officehas been duly notified thereof.1He will give you further information on the subject in due time.",
+    "paragraphs": [
+      "James L. Edwards to Maria Davis in Care of Abraham Lincoln, 20 March 1849 You are hereby notified that your claim under the 9th section of the act of February",
+      "11, 1847, allowing bounty land or scrip, at the option of the claimant, has been allowed,",
+      "and theCommissionerof theGeneral Land Officehas been duly notified thereof.1He will give you further information on the subject in due time."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Walter Davis;Certification of Abraham Lincoln to Commissioner of Pensions Concerning Thomas Davis;Walter Davis to Abraham Lincoln;Abraham Lincoln to Walter Davis."
+    ],
+    "footnotes": [
+      {
+        "id": "XFBD3F152-1F6D-4C72-9DCF-EE3949A29F55",
+        "text": "1“An Act to Raise for a Limited Time an Additional Military Force, and for Other Purposes,”\n                  11 February 1847,Statutes at Large of the United States9 (1862):125-26."
+      },
+      {
+        "id": "XA42BB413-4074-4210-8958-3F20242941F8",
+        "text": "2While serving in theHouse of Representatives, Abraham Lincoln carried on a correspondence withWalter Davis, son of Maria Davis and brother ofThomas Davis, who died in battle during his service in theMexican War.  Lincoln assisted Walter and Maria in securing the back pay and a warrant for bounty\n                  lands due Thomas.Abraham Lincoln to Walter Davis;Certification of Abraham Lincoln to Commissioner of Pensions Concerning Thomas Davis;Walter Davis to Abraham Lincoln;Abraham Lincoln to Walter Davis."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James L. Edwards to Maria Davis in Care of Abraham Lincoln, 20 March 1849"
+      },
+      {
+        "type": "paragraph",
+        "text": "You are hereby notified that your claim under the 9th section of the act of February\n                  11, 1847, allowing bounty land or scrip, at the option of the claimant, has been allowed,\n                  and theCommissionerof theGeneral Land Officehas been duly notified thereof.1He will give you further information on the subject in due time."
+      }
+    ],
+    "word_count": 66
+  },
+  "extraction_date": "2025-12-26 20:38:44",
+  "word_count": 66,
+  "processing": {
+    "cleaned": true,
+    "original_length": 425,
+    "cleaned_length": 391,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

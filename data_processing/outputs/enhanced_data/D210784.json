@@ -1,0 +1,85 @@
+{
+  "document_id": "D210784",
+  "url": "https://papersofabrahamlincoln.org/documents/D210784",
+  "metadata": {
+    "date": "1858-07-23",
+    "authors": [
+      "Mather, Thomas S."
+    ],
+    "keywords": [
+      "Employment references",
+      "Militia--Officers",
+      "State governments--Officials and employees"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-07-23",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "you",
+      "thomas",
+      "mather",
+      "abraham",
+      "lincoln",
+      "july",
+      "genjohn",
+      "cookhas",
+      "tendered",
+      "his",
+      "resignation",
+      "quartermaster",
+      "thestateand",
+      "some"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Thomas S. Mather to Abraham Lincoln, 23 July 18581 GenJohn Cookhas tendered his resignation as Quartermaster General of theStateand some of my friends have advised me to become an applicant for the office2I should be happy to have you reccommend me to theGovernoras a suitable person for that office and as he may desire to make an appointment\n\nvery soonI would like to have you write him upon the receipt for this3MessrsHatchDuboisMillerButlerHerndonBakerandJaynejoin in the reccommendation",
+    "paragraphs": [
+      "Thomas S. Mather to Abraham Lincoln, 23 July 18581 GenJohn Cookhas tendered his resignation as Quartermaster General of theStateand some of my friends have advised me to become an applicant for the office2I should be happy to have you reccommend me to theGovernoras a suitable person for that office and as he may desire to make an appointment",
+      "very soonI would like to have you write him upon the receipt for this3MessrsHatchDuboisMillerButlerHerndonBakerandJaynejoin in the reccommendation"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 436;Chicago Daily Press and Tribune(IL), 11 September 1858, 1:1;Biennial Report of the Adjutant General of Illinois to the Governor and Commander-in-Chief.\n                        1889 and 1890(Springfield, IL: H. W. Rokker, 1891), 227;The Illinois State Journal(Springfield), 10 November 1858, 1:2;Daily Illinois State Journal(Springfield), 10 December 1857, 2:2."
+    ],
+    "footnotes": [
+      {
+        "id": "X2290EF27-B160-4A99-A5ED-B4B2589308D9",
+        "text": "1Thomas S. Mather wrote and signed this letter, including the name and address on the\n                  envelope."
+      },
+      {
+        "id": "X945AC105-B55D-4A3B-9856-B0DA47066723",
+        "text": "2John Cook resigned his position as Quartermaster General ofIllinoisin 1858 to organize an independent military company called the Springfield Zouave\n                  Grays and to lead it as captain. Mather did not replace Cook;  GovernorWilliam H. BissellselectedJosiah Francisas Quartermaster General in Cook's stead. Bissell appointed Mather as Adjutant General\n                  of the State of Illinois on October 28, 1858, to fill the vacancy caused by the death\n                  ofWilliam C. Kinney.John Carroll Power and S. A. Power,History of the Early Settlers of Sangamon County, Illinois(Springfield, IL: Edwin A. Wilson, 1876), 436;Chicago Daily Press and Tribune(IL), 11 September 1858, 1:1;Biennial Report of the Adjutant General of Illinois to the Governor and Commander-in-Chief.\n                        1889 and 1890(Springfield, IL: H. W. Rokker, 1891), 227;The Illinois State Journal(Springfield), 10 November 1858, 1:2;Daily Illinois State Journal(Springfield), 10 December 1857, 2:2."
+      },
+      {
+        "id": "X9E3D4991-9AA4-4C48-9941-E9615E6D2AA6",
+        "text": "3There is no record that Abraham Lincoln wrote to Governor Bissell regarding Mather’s\n                  interest in the role of quartermaster general."
+      },
+      {
+        "id": "X0503D844-A833-4549-A135-7D04AABF71E8",
+        "text": "4Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Thomas S. Mather to Abraham Lincoln, 23 July 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "GenJohn Cookhas tendered his resignation as Quartermaster General of theStateand some of my friends have advised me to become an applicant for the office2I should be happy to have you reccommend me to theGovernoras a suitable person for that office and as he may desire to make an appointment\n               very soonI would like to have you write him upon the receipt for this3Messrs[Messieurs]HatchDuboisMillerButlerHerndonBakerandJaynejoin in the reccommendation"
+      }
+    ],
+    "word_count": 75
+  },
+  "extraction_date": "2025-12-26 21:52:17",
+  "word_count": 75,
+  "processing": {
+    "cleaned": true,
+    "original_length": 516,
+    "cleaned_length": 491,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

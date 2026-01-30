@@ -1,0 +1,75 @@
+{
+  "document_id": "D200024",
+  "url": "https://papersofabrahamlincoln.org/documents/D200024",
+  "metadata": {
+    "date": "1833-09-28",
+    "authors": [
+      "Estep, James (Estep)"
+    ],
+    "keywords": [
+      "Real property--Registration and transfer"
+    ],
+    "type": "Note",
+    "extracted_date": "1833-09-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "recorded",
+      "you",
+      "not",
+      "james",
+      "estep",
+      "edward",
+      "mitchell",
+      "september",
+      "resold",
+      "land",
+      "tojesse",
+      "bakerfor",
+      "deed",
+      "left",
+      "your"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "James Estep to Edward Mitchell, 28 September 18331 I have resold the land toJesse Bakerfor which a Deed was left in your office to be recorded—2If you have not recorded it— it is my request that you should not but deliver it\n\nup to the bearer Jesse Baker—",
+    "paragraphs": [
+      "James Estep to Edward Mitchell, 28 September 18331 I have resold the land toJesse Bakerfor which a Deed was left in your office to be recorded—2If you have not recorded it— it is my request that you should not but deliver it",
+      "up to the bearer Jesse Baker—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Deed of Jesse Baker to James Estep, 26 July 1833, Sangamon County, Illinois, Deed\n                     Record F, 512-13; Deed of James Estep to Jesse Baker, 16 November 1833, Sangamon County,\n                     Illinois, Deed Record G, 187-88, both in Illinois Regional Archives Depository, University\n                     of Illinois Springfield;Lincoln wrote deed for Baker et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141170;Deed of Jesse Baker and Christiana Baker to James Eastep."
+    ],
+    "footnotes": [
+      {
+        "id": "XC5A5C789-12CB-4F07-80A1-495A1BFFDC3E",
+        "text": "1Abraham Lincoln wrote the entirety of this document, including Eastep’s signature."
+      },
+      {
+        "id": "XA257301B-F75C-4396-A7E0-6D0AEC50EEE1",
+        "text": "2Baker sold this forty acres inSangamon County, Illinois, to Estep in July 1833 for $500; and Estep sold it back to Baker for $500 in November\n                  1833.Lincolnwrote the original deed for the parties.Deed of Jesse Baker to James Estep, 26 July 1833, Sangamon County, Illinois, Deed\n                     Record F, 512-13; Deed of James Estep to Jesse Baker, 16 November 1833, Sangamon County,\n                     Illinois, Deed Record G, 187-88, both in Illinois Regional Archives Depository, University\n                     of Illinois Springfield;Lincoln wrote deed for Baker et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141170;Deed of Jesse Baker and Christiana Baker to James Eastep."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James Estep to Edward Mitchell, 28 September 18331"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have resold the land toJesse Bakerfor which a Deed was left in your office to be recorded—2If you have not recorded it— it is my request that you should not but deliver it\n               up to the bearer Jesse Baker—"
+      }
+    ],
+    "word_count": 48
+  },
+  "extraction_date": "2025-12-26 19:46:08",
+  "word_count": 48,
+  "processing": {
+    "cleaned": true,
+    "original_length": 269,
+    "cleaned_length": 255,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

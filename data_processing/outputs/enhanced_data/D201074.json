@@ -1,0 +1,91 @@
+{
+  "document_id": "D201074",
+  "url": "https://papersofabrahamlincoln.org/documents/D201074",
+  "metadata": {
+    "date": "1858-08-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Advertising, Political",
+      "Campaign speeches",
+      "Elections",
+      "Political campaigns",
+      "Political candidates",
+      "Political oratory",
+      "United States. Congress. Senate."
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-08-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "abraham",
+      "lincoln",
+      "charles",
+      "michael",
+      "william",
+      "proctor",
+      "august",
+      "yoursof",
+      "received",
+      "judge",
+      "douglasconsiders",
+      "presence",
+      "his",
+      "appointments"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Charles W. Michael and William Proctor, 2 August 18581 Yoursof the 29thJuly is received–Judge Douglasconsiders my presence at his appointments as an intrusion; and so I have concluded\n\nto not be present at them– I have writtenJudge Kelloggwhat I now say to you, that if you are pretty confident you can give me a respectable\n\naudience, atLewistown, on the 17thand will so notify me, I will try to be there–2",
+    "paragraphs": [
+      "Abraham Lincoln to Charles W. Michael and William Proctor, 2 August 18581 Yoursof the 29thJuly is received–Judge Douglasconsiders my presence at his appointments as an intrusion; and so I have concluded",
+      "to not be present at them– I have writtenJudge Kelloggwhat I now say to you, that if you are pretty confident you can give me a respectable",
+      "audience, atLewistown, on the 17thand will so notify me, I will try to be there–2"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:458, 482-85, 556-57;Abraham Lincoln to Stephen A. Douglas;Abraham Lincoln to Stephen A. Douglas; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 394, 404-8, 414-16; Report of Speech at Lewistown, Illinois."
+    ],
+    "footnotes": [
+      {
+        "id": "XBCF3F462-11E6-47D1-A076-9F07723A785C",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X9E6E58A1-BFF6-41DA-A8AE-3BF237AFB434",
+        "text": "2At the time of this letter, Stephen A. Douglas was running for reelection to theU.S. Senateand Lincoln was running as theIllinoisRepublican Party’s candidate to replace him.  See the1858 Illinois Republican Convention.In their July 29letterto Lincoln, Charles W. Michael and William Proctor requested that he deliver a campaign\n                  address in Lewistown, Illinois, near August 16—the day Douglas was scheduled to speak\n                  in the town. Judge William Kellogg had alsowrittenLincoln, on July 26, requesting that he speak in Lewistown. Lincoln’s reply to Kellogg’s\n                  letter has not been located.Amos C. BabcockandWilliam P. KelloggwroteLincoln on August 4 on behalf of Judge Kellogg, assuring Lincoln that they would\n                  assemble a good crowd in Lewistown by advertising well. ProctorwroteLincoln a similar letter on August 6, confident that the crowd would be large.During the first part of thecampaign of 1858, Lincoln had often followed Douglas on the trail, delivering speeches either later\n                  in the evening after Douglas finished, or the next day. However, as Lincoln notes\n                  above, Douglas was unhappy with this approach. Douglas and Lincoln eventually appeared\n                  together during theLincoln-Douglas Debates, after Lincoln challenged Douglas to a series of debates in late-July.Douglas delivered his campaign speech in Lewistown on August 16, and Lincoln delivered\n                  an address in Lewistown the next day. Douglas’ audience on August 16 was estimated\n                  at 3,000; Lincoln’s was estimated at 2,000.In the end, in the local elections of 1858, Republicans won a majority of all votes\n                  cast in Illinois, but pro-DouglasDemocratsretained control of theIllinois General Assembly. At the time,  members of the General Assembly voted for and elected the state’s\n                  representatives in the U.S. Senate, and Douglas ultimately won reelection. Through\n                  the campaign, however, and in particular through his participation in the Lincoln-Douglas\n                  Debates, Lincoln gained recognition as well as standing within the national Republican\n                  Party.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:458, 482-85, 556-57;Abraham Lincoln to Stephen A. Douglas;Abraham Lincoln to Stephen A. Douglas; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 394, 404-8, 414-16; Report of Speech at Lewistown, Illinois."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Charles W. Michael and William Proctor, 2 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yoursof the 29thJuly is received–Judge Douglasconsiders my presence at his appointments as an intrusion; and so I have concluded\n               to not be present at them–  I have writtenJudge Kelloggwhat I now say to you, that if you are pretty confident you can give me a respectable\n               audience, atLewistown, on the 17thand will so notify me, I will try to  be there–2"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "C. W. Michael& | }",
+          "Esqr[Esquire]",
+          "W. Proctor"
+        ]
+      }
+    ],
+    "word_count": 73
+  },
+  "extraction_date": "2025-12-26 21:55:07",
+  "word_count": 75,
+  "processing": {
+    "cleaned": true,
+    "original_length": 466,
+    "cleaned_length": 426,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

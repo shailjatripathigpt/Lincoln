@@ -1,0 +1,60 @@
+{
+  "document_id": "D206903",
+  "url": "https://papersofabrahamlincoln.org/documents/D206903",
+  "metadata": {
+    "date": "1858-10-18",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Itineraries",
+      "Political campaigns",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Thomas J. Henderson, 18 October 18581 I have concluded to speak at theplaceyou named (I forget the name of the place) on the 27thand you may give notice accordingly–2",
+    "paragraphs": [
+      "Abraham Lincoln to Thomas J. Henderson, 18 October 18581 I have concluded to speak at theplaceyou named (I forget the name of the place) on the 27thand you may give notice accordingly–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daily Illinois State Journal(Springfield), 18 October 1858, 3:1;Chicago Daily Press and Tribune, 19 October 1858, 1:1; 22 October 1858, 1:1;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 27 October 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-10-27;The Weekly Chicago Times(IL), 21 October 1858, 1:1; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16."
+    ],
+    "footnotes": [
+      {
+        "id": "XE0B06244-A0BA-46D6-A52F-8343017A8924",
+        "text": "1Abraham Lincolnwrote and signed this letter."
+      },
+      {
+        "id": "XC1228CEF-34E3-4A41-BFE2-40866757EEEC",
+        "text": "2Lincoln moved his planned meeting in Vermont, Illinois, from Wednesday, October 27 to Tuesday, October 26 in order to address an audience\n                  inToulonon October 27.Thomas J. Hendersonmet Lincoln in Kewanee, Illinois, on October 27 and escorted him to the Virginia Hotel inToulon. Lincoln spoke in the town square that afternoon. Douglas spoke in Toulon the previous\n                  day.Lincoln was theRepublicancandidate from Illinois for theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. Lincoln campaigned extensively in Illinois\n                  in the summer and fall of 1858, delivering speeches and campaigning on behalf of Republican\n                  candidates for the General Assembly. He and his opponent,DemocratStephen A. Douglas, the incumbent, both focused their campaign efforts on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.\n                  In local elections, Republicans gained a majority of the votes, but Pro-Douglas Democrats\n                  retained control of the General Assembly, and Douglas won reelection. See1858 Illinois Republican Convention;1858 Federal Election.Daily Illinois State Journal(Springfield), 18 October 1858, 3:1;Chicago Daily Press and Tribune, 19 October 1858, 1:1; 22 October 1858, 1:1;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 27 October 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-10-27;The Weekly Chicago Times(IL), 21 October 1858, 1:1; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16."
+      },
+      {
+        "id": "XAD227D53-57FD-4271-BAA1-798D1955C198",
+        "text": "3A letter from Henderson to Lincoln with this information, if one was penned, has not\n                  been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Thomas J. Henderson, 18 October 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have concluded to speak at theplaceyou named (I forget the name of the place) on the 27thand you may give notice accordingly–2"
+      }
+    ],
+    "word_count": 32
+  },
+  "extraction_date": "2025-12-26 22:01:48",
+  "word_count": 32,
+  "processing": {
+    "cleaned": true,
+    "original_length": 185,
+    "cleaned_length": 185,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "D200094",
+  "url": "https://papersofabrahamlincoln.org/documents/D200094",
+  "metadata": {
+    "date": "1837-01-30",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Roads--Location",
+      "Local government"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill to Establish a State Road from Jacksonville to Syracuse and Bloomington,”\n               [30 January 1837]1 Amend the third line of the first section, by striking out the name ofWilliam Montgomeryand inserting that ofJohn Armstrong. Amend the seventh line of the same section, by inserting the words \"by way ofGreensburg\" immediately after the word \"thence\" Amend the fourth line of the second section, by striking out the word \"Bloomington\" and inserting \"intersect the State road leading from Springfield to Bloomington,\n               at or near the farm ofLemuel Foster\"",
+    "paragraphs": [
+      "Amendment to “A Bill to Establish a State Road from Jacksonville to Syracuse and Bloomington,”\n               [30 January 1837]1",
+      "Amend the third line of the first section, by striking out the name ofWilliam Montgomeryand inserting that ofJohn Armstrong.",
+      "Amend the seventh line of the same section, by inserting the words \"by way ofGreensburg\" immediately after the word \"thence\"",
+      "Amend the fourth line of the second section, by striking out the word \"Bloomington\" and inserting \"intersect the State road leading from Springfield to Bloomington,\n               at or near the farm ofLemuel Foster\""
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1836. 10th G. A., 1st sess.,  378, 407, 424, 519, 668, 759, 792, 807; Illinois SenateJournal. 1836. 10th G. A., 1st sess., 377, 391, 447-48, 477, 589."
+    ],
+    "footnotes": [
+      {
+        "id": "X8ED59D39-B613-4E01-8A30-9DFCA9C7BC7C",
+        "text": "1Abraham Lincoln wrote the entirety of the first page of this document.On January 25, 1837,Stephen A. Douglaspresented to theHouse of Representativesthe petition of citizens ofMorganandSangamoncounties, requesting a state road fromJacksonvilleto Bloomington.  The House referred the petition to the Committee on Petitions. \n                  On behalf of the Committee, Douglas introducedHB 151in the House on January 27. On the motion of Abraham Lincoln, the House referred\n                  the bill to a select committee, of which Lincoln was a member. On January 30, Lincoln\n                  of the select committee reported the bill back with these amendments, which the House\n                  concurred in. On February 8, the House passed thebillas amended. On February 10, theSenatereferred the bill to a  select  committee.  The select committee reported back the\n                  bill on February 17 with an amendment, in which the Senate concurred.   On February\n                  21, the Senate passed the bill as amended. On February 28, the House concurred in\n                  the Senate amendment. On March 2, theCouncil of Revisionapproved the bill,  and theactbecame law.Illinois HouseJournal. 1836. 10th G. A., 1st sess.,  378, 407, 424, 519, 668, 759, 792, 807; Illinois SenateJournal. 1836. 10th G. A., 1st sess., 377, 391, 447-48, 477, 589."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill to Establish a State Road from Jacksonville to Syracuse and Bloomington,”\n               [30 January 1837]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Amend the third line of the first section, by striking out the name ofWilliam Montgomeryand inserting that ofJohn Armstrong."
+      },
+      {
+        "type": "paragraph",
+        "text": "Amend the seventh line of the same section, by inserting the words \"by way ofGreensburg\" immediately after the word \"thence\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Amend the fourth line of the second section, by striking out the word \"Bloomington\" and inserting \"intersect the State road leading from Springfield to Bloomington,\n               at or near the farm ofLemuel Foster\""
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:04:33",
+  "word_count": 89
+}

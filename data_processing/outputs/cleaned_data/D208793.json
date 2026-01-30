@@ -1,0 +1,73 @@
+{
+  "document_id": "D208793",
+  "url": "https://papersofabrahamlincoln.org/documents/D208793",
+  "metadata": {
+    "date": "1842-11-04",
+    "authors": [
+      "Dresser, Charles",
+      "Matheny, Noah W."
+    ],
+    "keywords": [
+      "Marriage",
+      "Marriage records"
+    ],
+    "type": "License"
+  },
+  "content": {
+    "full_text": "Marriage License for Abraham Lincoln and Mary Todd, 4 November 18421 THE PEOPLE OF THE STATE OFILLINOIS. To any Minister of the Gospel, or other authorised Person–GREETING. THESE are to License and permit you to join in the holy bands of MatrimonyAbraham2LincolnandMary Toddof the County ofSangamonand State of Illinois, and for so doing, this shall be your sufficient warrant. Given under my hand and seal of office, atSpringfield, in said County this4thday ofNovemb1842.",
+    "paragraphs": [
+      "Marriage License for Abraham Lincoln and Mary Todd, 4 November 18421 THE PEOPLE OF THE STATE OFILLINOIS. To any Minister of the Gospel, or other authorised Person–GREETING. THESE are to License and permit you to join in the holy bands of MatrimonyAbraham2LincolnandMary Toddof the County ofSangamonand State of Illinois, and for so doing, this shall be your sufficient warrant. Given under my hand and seal of office, atSpringfield, in said County this4thday ofNovemb1842."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X36EADECD-2977-4EDC-BAF3-141382E2D3BB",
+        "text": "1Noah W. Matheny filled in the blanks of this partially-printed document and signed\n                  it.  Abraham Lincoln and Mary Todd were married the same day."
+      },
+      {
+        "id": "X4CA993FD-16C7-408D-8162-AF6587BC3DDF",
+        "text": "2Someone, possibly Matheny, changed “Abram” to “Abraham”."
+      },
+      {
+        "id": "XF910662E-2BE8-467E-A19D-6CA5824F0EBC",
+        "text": "3Charles Dresser authored and signed the endorsement."
+      },
+      {
+        "id": "X6BAEA446-2449-4603-9842-C1A8F91C0181",
+        "text": "4Someone, possibly Matheny, changed “Abram” to “Abraham”."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Marriage License for Abraham Lincoln and Mary Todd, 4 November 18421"
+      },
+      {
+        "type": "paragraph",
+        "text": "THE PEOPLE OF THE STATE OFILLINOIS."
+      },
+      {
+        "type": "paragraph",
+        "text": "To any Minister of the Gospel, or other authorised Person–GREETING."
+      },
+      {
+        "type": "paragraph",
+        "text": "THESE are to License and permit you to join in the holy bands of MatrimonyAbraham2LincolnandMary Toddof the County ofSangamonand State of Illinois, and for so doing, this shall be your sufficient warrant."
+      },
+      {
+        "type": "paragraph",
+        "text": "Given under my hand and seal of office, atSpringfield, in said County this4thday ofNovemb[November]1842."
+      }
+    ],
+    "word_count": 73
+  },
+  "extraction_date": "2025-12-26 20:18:14",
+  "word_count": 73,
+  "processing": {
+    "cleaned": true,
+    "original_length": 482,
+    "cleaned_length": 472,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "D210384",
+  "url": "https://papersofabrahamlincoln.org/documents/D210384",
+  "metadata": {
+    "date": "1849-03-22",
+    "authors": [
+      "Warren, Fitz Henry"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-22",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "honor",
+      "fitz",
+      "henry",
+      "warren",
+      "abraham",
+      "lincoln",
+      "march",
+      "inform",
+      "you",
+      "thepostmaster",
+      "generalhas",
+      "appointedpreston",
+      "butlerpostmaster",
+      "atdecaturin",
+      "state"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Fitz Henry Warren to Abraham Lincoln, 22 March 18491 I have the honor to inform you, that thePostmaster Generalhas appointedPreston ButlerPostmaster atDecaturin the State ofIllinois(Macon Co)in place ofAlexander MahoodResigned.2",
+    "paragraphs": [
+      "Fitz Henry Warren to Abraham Lincoln, 22 March 18491 I have the honor to inform you, that thePostmaster Generalhas appointedPreston ButlerPostmaster atDecaturin the State ofIllinois(Macon Co)in place ofAlexander MahoodResigned.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *471;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *528."
+    ],
+    "footnotes": [
+      {
+        "id": "X1BE52B53-2AC2-457F-B3BF-AA14BA892E37",
+        "text": "1Fitz Henry Warren signed his name to this form letter."
+      },
+      {
+        "id": "X54C912A7-CDB9-4EAB-8DBC-1ADBB89C5BF4",
+        "text": "2Alexander Mahood remained postmaster until March 31, when Preston Butler succeeded\n                  him.  Butler remained postmaster until sometime after September 30, 1851.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *471;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *528."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fitz Henry Warren to Abraham Lincoln, 22 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the honor to inform you, that thePostmaster Generalhas appointedPreston ButlerPostmaster atDecaturin the State ofIllinois(Macon Co)in place ofAlexander MahoodResigned.2"
+      }
+    ],
+    "word_count": 29
+  },
+  "extraction_date": "2025-12-26 20:38:13",
+  "word_count": 29,
+  "processing": {
+    "cleaned": true,
+    "original_length": 228,
+    "cleaned_length": 228,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "D234319",
+  "url": "https://papersofabrahamlincoln.org/documents/D234319",
+  "metadata": {
+    "date": "1843-09-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Hotels"
+    ],
+    "type": "Hotel register entry"
+  },
+  "content": {
+    "full_text": "Hotel Register Entry for Delavan House, 12 September 18431 1843Sept[September] 12–A. LincolnSpringfield. Ills.",
+    "paragraphs": [
+      "Hotel Register Entry for Delavan House, 12 September 18431",
+      "1843Sept[September] 12–A. LincolnSpringfield. Ills."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Cassell for use of Crocker v. Robinson, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137044;History of Tazewell County Illinois(Chicago: Chas. C. Chapman, 1879), 434."
+    ],
+    "footnotes": [
+      {
+        "id": "XD8C5D2E9-E4D1-4AF8-8045-54C3B9BB6671",
+        "text": "1Abraham Lincoln wrote the date, his name, and his city of residence in the register\n                  of the Delavan House, a hotel inDelavan, Illinois. Lincoln was likely in route toMetamora, Illinois, where he was present to argue a case in theWoodford County Circuit Courton September 14.Cassell for use of Crocker v. Robinson, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137044;History of Tazewell County Illinois(Chicago: Chas. C. Chapman, 1879), 434."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Hotel Register Entry for Delavan House, 12 September 18431"
+      },
+      {
+        "type": "paragraph",
+        "text": "1843Sept[September] 12–A. LincolnSpringfield. Ills."
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:19:58",
+  "word_count": 13
+}

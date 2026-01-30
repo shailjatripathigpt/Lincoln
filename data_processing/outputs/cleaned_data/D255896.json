@@ -1,0 +1,55 @@
+{
+  "document_id": "D255896",
+  "url": "https://papersofabrahamlincoln.org/documents/D255896",
+  "metadata": {
+    "date": "1858-05-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Debtor and creditor",
+      "Promissory notes"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Blatchford, Seward & Griswold, 2 May 18581 Yours, inclosing note ofT. J. V. Owen & Bro, is received, and shall be attended to–2",
+    "paragraphs": [
+      "Abraham Lincoln to Blatchford, Seward & Griswold, 2 May 18581 Yours, inclosing note ofT. J. V. Owen & Bro, is received, and shall be attended to–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Blatchford, Seward, and Griswold to Abraham Lincoln; Abraham Lincoln to Blatchford, Seward & Griswold; Blatchford, Seward & Griswold to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X64F9B3DE-7461-4C75-9BDC-B8CFEEEE03A9",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XB450B9CF-E7EE-4A5A-B902-F44608479AF2",
+        "text": "2A representative of Blatchford, Seward & GriswoldwroteLincoln a letter on April 23, enclosing a May 1857 promissory note from T. J. V.\n                  Owen & Brother toMiller & Holbrookand leaving the arrangement of T. J. V. Owen & Brother’s debt repayment in Lincoln’s\n                  hands. Lincoln and Blatchford, Seward & Griswold subsequently exchanged at least three\n                  more letters related to this debt. Lincoln advised the firm against initiating a lawsuit\n                  to resolve the matter, but it is unclear from extant correspondence whether he was\n                  able to resolve the debt either in full or in part.Blatchford, Seward, and Griswold to Abraham Lincoln; Abraham Lincoln to Blatchford, Seward & Griswold; Blatchford, Seward & Griswold to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Blatchford, Seward & Griswold, 2 May 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours, inclosing note ofT. J. V. Owen & Bro, is received, and shall be attended to–2"
+      }
+    ],
+    "word_count": 26
+  },
+  "extraction_date": "2025-12-26 21:47:08",
+  "word_count": 26,
+  "processing": {
+    "cleaned": true,
+    "original_length": 146,
+    "cleaned_length": 146,
+    "preserved_originality": true
+  }
+}

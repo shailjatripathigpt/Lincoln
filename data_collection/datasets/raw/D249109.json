@@ -1,0 +1,42 @@
+{
+  "document_id": "D249109",
+  "url": "https://papersofabrahamlincoln.org/documents/D249109",
+  "metadata": {
+    "date": "1842-05-05",
+    "authors": [
+      "Sharp, Thomas C.Warsaw, Illinois"
+    ],
+    "keywords": [
+      "Newspapers",
+      "Payment"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt of Thomas C. Sharp to Abraham Lincoln, 5 May 18421 A LincolnEsq[Esquire]",
+    "paragraphs": [
+      "Receipt of Thomas C. Sharp to Abraham Lincoln, 5 May 18421",
+      "A LincolnEsq[Esquire]"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X1BA68AF6-4EB4-4A5F-AF45-0155AF04AD32",
+        "text": "1The author of this document has not been positively identified."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Thomas C. Sharp to Abraham Lincoln, 5 May 18421"
+      },
+      {
+        "type": "paragraph",
+        "text": "A LincolnEsq[Esquire]"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:17:12",
+  "word_count": 13
+}

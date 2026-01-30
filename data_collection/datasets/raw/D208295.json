@@ -1,0 +1,59 @@
+{
+  "document_id": "D208295",
+  "url": "https://papersofabrahamlincoln.org/documents/D208295",
+  "metadata": {
+    "date": "1844-09-XX",
+    "authors": [
+      "Garland, Nicholas A."
+    ],
+    "keywords": [
+      "Local taxation",
+      "Real property tax",
+      "Taxation of personal property"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt for 1844 City of Springfield Taxes, September 18441 CITY OFSPRINGFIELD,Sep1844. ReceivedofA. LincolnSix56/100Dollars, in full for his City Tax, for the year 1844, on the following described property,\n                  to-wit:",
+    "paragraphs": [
+      "Receipt for 1844 City of Springfield Taxes, September 18441",
+      "CITY OFSPRINGFIELD,Sep1844.",
+      "ReceivedofA. LincolnSix56/100Dollars, in full for his City Tax, for the year 1844, on the following described property,\n                  to-wit:"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Deed of Elijah Iles and Malinda Iles to Abraham Lincoln.",
+      "Deed of Charles Dresser and Louisa W. Dresser to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "XD90AFE36-E105-453A-88AE-02FC7A437FB8",
+        "text": "1Nicholas A. Garland filled in the blanks of this partially-printed document."
+      },
+      {
+        "id": "X52667AB7-29DC-49FD-BB57-1F36F1938C09",
+        "text": "2Abraham Lincoln purchased these two lots from Elijah Iles in 1838 for $300. The lots\n                  were in the middle of the block across Eighth Street from his home.Deed of Elijah Iles and Malinda Iles to Abraham Lincoln."
+      },
+      {
+        "id": "XF8515A1D-A94A-4A69-90E5-04F441116CBC",
+        "text": "3This property was Lincoln’s home at Eighth and Jackson streets in Springfield, which\n                  he purchased fromCharles Dresserin May 1844.Deed of Charles Dresser and Louisa W. Dresser to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt for 1844 City of Springfield Taxes, September 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "CITY OFSPRINGFIELD,Sep1844."
+      },
+      {
+        "type": "paragraph",
+        "text": "ReceivedofA. LincolnSix56/100Dollars, in full for his City Tax, for the year 1844, on the following described property,\n                  to-wit:"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:21:04",
+  "word_count": 29
+}

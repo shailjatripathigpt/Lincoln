@@ -1,0 +1,86 @@
+{
+  "document_id": "D210967",
+  "url": "https://papersofabrahamlincoln.org/documents/D210967",
+  "metadata": {
+    "date": "1858-11-05",
+    "authors": [
+      "Searle, George W."
+    ],
+    "keywords": [
+      "Campaign speeches",
+      "Elections",
+      "Political campaigns",
+      "Political oratory",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-11-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "any",
+      "george",
+      "searle",
+      "abraham",
+      "lincoln",
+      "november",
+      "copies",
+      "speeches",
+      "made",
+      "during",
+      "thelate",
+      "canvas",
+      "favor",
+      "send"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "George W. Searle to Abraham Lincoln, 5 November 18581 If you have any copies of any of the speeches made by you during thelate canvas, will you do me the favor to send me^a copy of^any that you have to spare? My inability to procure them from other sources is my\n\nopology for troubling you.2",
+    "paragraphs": [
+      "George W. Searle to Abraham Lincoln, 5 November 18581 If you have any copies of any of the speeches made by you during thelate canvas, will you do me the favor to send me^a copy of^any that you have to spare? My inability to procure them from other sources is my"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16;Political Debates Between Hon. Abraham Lincoln and Hon. Stephen A. Douglas(Columbus: Follett, Foster, 1860), iii-iv;  Abraham Lincoln to George M. Parsons and Others."
+    ],
+    "footnotes": [
+      {
+        "id": "X6A507FE3-B7BC-4F19-A640-EAEECF4B83D9",
+        "text": "1George W. Searlewrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "X3D8787BA-D42E-4C63-8613-A5164D460B08",
+        "text": "2Lincoln had been  theRepublicancandidate fromIllinoisfor theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. Lincoln campaigned extensively in Illinois\n                  in the summer and fall of 1858, delivering speeches and campaigning on behalf of Republican\n                  candidates for the General Assembly. He and his opponent,DemocratStephen A. Douglas, the incumbent, both focused their campaign efforts on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.\n                  In local elections, Republicans gained a majority of the votes, but Pro-Douglas Democrats\n                  retained control of the General Assembly, and Douglas won reelection. See1858 Illinois Republican Convention;1858 Federal ElectionLincoln and Douglas engaged inseven debatesduring the campaign, and Lincoln’s speeches and accounts of the debates became sought\n                  after by publishers.  Reports of Lincoln’s speeches and the debates appeared in contemporary\n                  newspapers, from which Lincoln compiled a scrapbook that served as the source for the first publication of all the debates in 1860. \n                  Lincoln transmitted the scrapbook to the publisher on December 19, 1859.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16;Political Debates Between Hon. Abraham Lincoln and Hon. Stephen A. Douglas(Columbus: Follett, Foster, 1860), iii-iv;  Abraham Lincoln to George M. Parsons and Others."
+      },
+      {
+        "id": "X3495AB36-5C29-4130-997A-41E75048A5CA",
+        "text": "3Lincoln wrote this docketing. His response letter to Searle has not been located."
+      },
+      {
+        "id": "X2F7192C8-F96C-4B10-B633-12577C08A20C",
+        "text": "4Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "George W. Searle to Abraham Lincoln, 5 November 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you have any copies of any of the speeches made by you during thelate canvas, will you do me the favor to send me^a copy of^any that you have to spare?  My inability to procure them from other sources is my\n               opology for troubling you.2"
+      }
+    ],
+    "word_count": 55
+  },
+  "extraction_date": "2025-12-26 22:02:38",
+  "word_count": 55,
+  "processing": {
+    "cleaned": true,
+    "original_length": 306,
+    "cleaned_length": 291,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,80 @@
+{
+  "document_id": "D200931",
+  "url": "https://papersofabrahamlincoln.org/documents/D200931",
+  "metadata": {
+    "date": "1856-11-13",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "Governors--Election",
+      "Presidents--Election",
+      "Finance, Personal"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Richard Thorne, 13 November 18561 It is now fully settled thatBissell& ourStateticket areelectedby 6000 or 7000 majority–2Buchanangets the state by a majority not quite so large–3 Some little expense bills are on me; and I have concluded to draw on you for $20.\n\nnow4, which is still ten dollars within the authority you kindly gave me–5",
+    "paragraphs": [
+      "Abraham Lincoln to Richard Thorne, 13 November 18561 It is now fully settled thatBissell& ourStateticket areelectedby 6000 or 7000 majority–2Buchanangets the state by a majority not quite so large–3 Some little expense bills are on me; and I have concluded to draw on you for $20.",
+      "now4, which is still ten dollars within the authority you kindly gave me–5"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daily Illinois State Journal(Springfield), 25 September 1856, 2:1; 5 November 1856, 3:1; 20 November 1856, 2:2,\n                     3:4-6.",
+      "Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 135-37;\n                     Michael J. Dubin,United States Presidential Elections, 1788-1860: The Official Results by County and\n                        State(Jefferson, NC: McFarland, 2002), 135.",
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:382.",
+      "Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 104; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33."
+    ],
+    "footnotes": [
+      {
+        "id": "X68F54FC3-A0CB-4884-BE45-033A3316FFE0",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X734E0D2F-BA7F-4D8E-AF19-89A8F8DB3B56",
+        "text": "2TheIllinoisRepublicanstate ticket in the election of 1856 consisted ofWilliam H. Bissellfor governor,John Woodfor lieutenant governor,Ozias M. Hatchfor secretary of state,Jesse K. Duboisfor auditor of public accounts,James Millerfor treasurer, andWilliam H. Powell, Sr. for superintendent of public instruction. The entire ticket won their races in the\n                  election on November 4, 1856, with Bissell winning by a margin of 4,729 votes, Wood\n                  by 4,287, Hatch by 8,928, Dubois by 3,204, Miller by 20,982, and Powell by 3,007.Daily Illinois State Journal(Springfield), 25 September 1856, 2:1; 5 November 1856, 3:1; 20 November 1856, 2:2,\n                     3:4-6."
+      },
+      {
+        "id": "X3C584F50-8B50-4C0A-A8D6-5D7D74F2913D",
+        "text": "3In the1856 presidential race,DemocraticcandidateJames Buchananwon 105,528 votes in Illinois, or 44.1 percent of votes cast in the state. RepublicanJohn C. Fremontplaced second in the state with 96,278 votes or 40.2 percent, andAmerican PartycandidateMillard Fillmorefinished third with 37,531 votes or 15.7 percent. Buchanan won the election, garnering\n                  45.3 percent of the vote nationally.Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 135-37;\n                     Michael J. Dubin,United States Presidential Elections, 1788-1860: The Official Results by County and\n                        State(Jefferson, NC: McFarland, 2002), 135."
+      },
+      {
+        "id": "X77B80B4C-6CAC-459B-80CB-BA0BEA02A84A",
+        "text": "4Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, rendered this word as “more.”Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:382."
+      },
+      {
+        "id": "X4087B365-C083-4793-B21D-DFC041B9D947",
+        "text": "5These expenses may stem from Lincoln’s labors during   thecampaign of 1856. From July 1856 onwards, he gave over fifty speeches across Illinois in support of\n                  Fremont’s presidential campaign and to rally the disparate elements of the emerging\n                  Republican Party.Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 104; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33."
+      },
+      {
+        "id": "X27CCCD7A-1595-4FCF-9C1B-C988E7953AA9",
+        "text": "6No response to this letter has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Richard Thorne, 13 November 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is now fully settled thatBissell& ourStateticket areelectedby 6000 or 7000 majority–2Buchanangets the state by a majority not quite so large–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Some little expense bills are on me; and I have concluded to draw on you for $20.\n               now4, which is still ten dollars within the authority you kindly gave me–5"
+      }
+    ],
+    "word_count": 59
+  },
+  "extraction_date": "2025-12-26 21:42:56",
+  "word_count": 59,
+  "processing": {
+    "cleaned": true,
+    "original_length": 370,
+    "cleaned_length": 356,
+    "preserved_originality": true
+  }
+}

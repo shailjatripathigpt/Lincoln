@@ -1,0 +1,80 @@
+{
+  "document_id": "D200497",
+  "url": "https://papersofabrahamlincoln.org/documents/D200497",
+  "metadata": {
+    "date": "1848-06-19",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Presidential candidates",
+      "Presidents--Election"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-06-19",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "vote",
+      "you",
+      "know",
+      "what",
+      "their",
+      "names",
+      "abraham",
+      "lincoln",
+      "richard",
+      "thomas",
+      "june",
+      "anydemocratswho",
+      "fortaylor",
+      "anywhigswho",
+      "not"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Richard S. Thomas, 19 June 18481 Do you know anydemocratswho will vote forTaylor? and if so, what are their names? Do you know anyWhigswho will not vote for him? and if so, what are their names? and for whom will they\n\nvote?2 Please answer this just as soon as it is received.",
+    "paragraphs": [
+      "Abraham Lincoln to Richard S. Thomas, 19 June 18481 Do you know anydemocratswho will vote forTaylor? and if so, what are their names? Do you know anyWhigswho will not vote for him? and if so, what are their names? and for whom will they",
+      "vote?2 Please answer this just as soon as it is received."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:479."
+    ],
+    "footnotes": [
+      {
+        "id": "XB4AFF45D-057D-4693-A6ED-C329BE5E6DD1",
+        "text": "1Abraham Lincoln did not write or sign this letter, but it is attributed to him.  The\n                  original has not been located.  Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, notes the existence of anenvelopeaddressed by Lincoln to Thomas and postmarked June 20 from Washington, DC, that may\n                  have contained the original letter.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:479."
+      },
+      {
+        "id": "XBFFC7B5D-19A0-45A0-9EAE-CAF71DF2059D",
+        "text": "2Lincoln is  inquiring about Zachary Taylor’s prospects in the1848 federal electioninCass County, Illinois, where Thomas lived."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Richard S. Thomas, 19 June 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Do you know anydemocratswho will vote forTaylor? and if so, what are their names? Do you know anyWhigswho will not vote for him? and if so, what are their names? and for whom will they\n               vote?2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Please answer this just as soon as it is received."
+      }
+    ],
+    "word_count": 55
+  },
+  "extraction_date": "2025-12-26 20:30:11",
+  "word_count": 55,
+  "processing": {
+    "cleaned": true,
+    "original_length": 309,
+    "cleaned_length": 295,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,55 @@
+{
+  "document_id": "D210426",
+  "url": "https://papersofabrahamlincoln.org/documents/D210426",
+  "metadata": {
+    "date": "1849-04-27",
+    "authors": [
+      "Warren, Fitz Henry"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Fitz Henry Warren to Abraham Lincoln, 27 April 18491 I have the honor to inform you, that thePostmaster Generalhas appointedA. L. SturgesPostmaster atWoodburnin the State ofIllinoisin place ofAllen J. CoatesResigned.2",
+    "paragraphs": [
+      "Fitz Henry Warren to Abraham Lincoln, 27 April 18491 I have the honor to inform you, that thePostmaster Generalhas appointedA. L. SturgesPostmaster atWoodburnin the State ofIllinoisin place ofAllen J. CoatesResigned.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841,\n                     145 rolls, Records of the Post Office Department, RG 28, 1845-1855, 18:122, National\n                     Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849),*492;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851),*553;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 522*."
+    ],
+    "footnotes": [
+      {
+        "id": "X66D51684-CC31-4737-B7F3-AB54059B3C87",
+        "text": "1Fitz Henry Warren signed this form letter."
+      },
+      {
+        "id": "X643F51B4-19B3-404E-9F4A-4C0D236026F2",
+        "text": "2Alvin L. Sturges was postmaster of Woodburn, from April 27, 1849  to  January 16,\n                  1854.Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841,\n                     145 rolls, Records of the Post Office Department, RG 28, 1845-1855, 18:122, National\n                     Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849),*492;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851),*553;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 522*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fitz Henry Warren to Abraham Lincoln, 27 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the honor to inform you, that thePostmaster Generalhas appointedA. L. SturgesPostmaster atWoodburnin the State ofIllinoisin place ofAllen J. CoatesResigned.2"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:41:32",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 217,
+    "cleaned_length": 217,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "D200519",
+  "url": "https://papersofabrahamlincoln.org/documents/D200519",
+  "metadata": {
+    "date": "1848-08-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Presidents--Election",
+      "Presidential candidates"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "hon",
+      "lincoln",
+      "smith",
+      "names",
+      "whigs",
+      "also",
+      "abraham",
+      "john",
+      "mcgill",
+      "therefore",
+      "earnestly",
+      "request",
+      "you",
+      "lose"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John D. McGill, 1848.1 I therefore earnestly request that you will lose no time in forwarding lists for yourneighborhoodto Hon.Wm. B. Preston, Hon.Truman Smith, Hon.T. Butler King, or Hon.C. B. Smith, at Washington City, D.C. I would suggest that the names of the Whigs be distinguished from those of the more\n\nmoderate of our opponents, and that the most active and influential Whigs be also\n\ndesignated from the general number. The names of individuals, and theirPost Officeand County, should also be distinctly written. your name has been given us by Mr Griffith ofva3 A Lincoln MC",
+    "paragraphs": [
+      "Abraham Lincoln to John D. McGill, 1848.1 I therefore earnestly request that you will lose no time in forwarding lists for yourneighborhoodto Hon.Wm. B. Preston, Hon.Truman Smith, Hon.T. Butler King, or Hon.C. B. Smith, at Washington City, D.C. I would suggest that the names of the Whigs be distinguished from those of the more",
+      "moderate of our opponents, and that the most active and influential Whigs be also",
+      "designated from the general number. The names of individuals, and theirPost Officeand County, should also be distinctly written. your name has been given us by Mr Griffith ofva3 A Lincoln MC"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Holman Hamilton,Zachary Taylor: Soldier in the White House(Hamden, CT: Archon, 1966), 63-64."
+    ],
+    "footnotes": [
+      {
+        "id": "XC9B7C179-0927-48F6-A8DF-9466C572B6EC",
+        "text": "1This circular letter bears Abraham Lincoln’s signature and frank, but the actual author\n                  is unknown.  The person who wrote the word “neighborhood” in the blank space in the\n                  third paragraph also penned the postscript and addressed the circular."
+      },
+      {
+        "id": "XFC7AE0DA-4EB0-4142-95D8-0813894FA8B6",
+        "text": "2With the backing ofThurlow WeedandJohn J. Crittenden, Truman Smith founded this Whig Executive Committee in the spring of 1847 to provide\n                  the Whig Party with a unified national organization for the imminent presidential\n                  campaign of 1848.  Largely a pro-Taylor group, it included principally but not exclusively\n                  Southern Whigs.  Known as the “Young Indians,” the committee wasAlexander H. Stephens,Robert A. Toombs,John S. Pendleton,Thomas S. Flournoy, William B. Preston,Henry W. Hilliard,Edward C. Cabell, and Abraham Lincoln.Holman Hamilton,Zachary Taylor: Soldier in the White House(Hamden, CT: Archon, 1966), 63-64."
+      },
+      {
+        "id": "X34CBDE07-4DAA-4FC8-A3B9-96A5DFBC7220",
+        "text": "3Mr. Griffith has not been positively identified."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John D. McGill, [17 August] 1848.1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I therefore earnestly request that you will lose no time in forwarding lists for yourneighborhoodto Hon.Wm. B. Preston, Hon.Truman Smith, Hon.T. Butler King, or Hon.C. B. Smith, at Washington City, D.C.[District of Columbia] I would suggest that the names of the Whigs be distinguished from those of the more\n                     moderate of our opponents, and that the most active and influential Whigs be also\n                     designated from the general number. The names of  individuals, and theirPost Officeand County, should also be distinctly written."
+      },
+      {
+        "type": "paragraph",
+        "text": "your name has been given us by Mr Griffith ofva3"
+      },
+      {
+        "type": "paragraph",
+        "text": "A Lincoln MC[Member Congress]"
+      }
+    ],
+    "word_count": 99
+  },
+  "extraction_date": "2025-12-26 20:30:35",
+  "word_count": 104,
+  "processing": {
+    "cleaned": true,
+    "original_length": 695,
+    "cleaned_length": 603,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

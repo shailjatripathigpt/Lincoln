@@ -1,0 +1,89 @@
+{
+  "document_id": "D200955",
+  "url": "https://papersofabrahamlincoln.org/documents/D200955",
+  "metadata": {
+    "date": "1857-05-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Courts",
+      "Actions and defenses"
+    ],
+    "type": "Letter",
+    "extracted_date": "1857-05-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "jonathan",
+      "cooper",
+      "hugh",
+      "reynolds",
+      "your",
+      "letter",
+      "lowry",
+      "handed",
+      "answer",
+      "brought",
+      "suit",
+      "ofeshrick",
+      "black"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Jonathan K. Cooper and Hugh W. Reynolds, 28 May 18571 Your letter of the 25thtoG. W Lowry, has been handed me to answer–2I brought the suit ofEshrick, Black & Co.vsTobias Hittle & Cothe clerk tells me the process has been served in time, and I suppose a judgment\n\nwill be had at the ensuing June Term, unless the defendants appear and make a case\n\nfor a continuance, of the probability of which last, I know nothing3",
+    "paragraphs": [
+      "Abraham Lincoln to Jonathan K. Cooper and Hugh W. Reynolds, 28 May 18571 Your letter of the 25thtoG. W Lowry, has been handed me to answer–2I brought the suit ofEshrick, Black & Co.vsTobias Hittle & Cothe clerk tells me the process has been served in time, and I suppose a judgment",
+      "will be had at the ensuing June Term, unless the defendants appear and make a case",
+      "for a continuance, of the probability of which last, I know nothing3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Complete Record, Document ID: 64957,Eshrick, Black & Co. v. Tobias, Hittle & Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137617."
+    ],
+    "footnotes": [
+      {
+        "id": "X6297DDE3-9869-4F1F-A866-645496D22759",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X029A46FA-3E2B-4A0A-AC67-5E7B88C5A2CC",
+        "text": "2The letter from Jonathan K. Cooper and Hugh W. Reynolds to George W. Lowry has not\n                  been located."
+      },
+      {
+        "id": "X2F69ED41-4090-4218-8B38-717D7DA6875E",
+        "text": "3Tobias, Hittle, & Company, the defendants in the case mentioned by Lincoln, had given\n                  a promissory note for $831.78 to Esherick, Black, & Company. When the former company\n                  failed to pay, the latter retained Lincoln andWilliam H. Herndonand sued in theU.S. Circuit Court, Southern District of Illinoisfor $1,500 in damages. Tobias, Hittle & Co. failed to appear in court in June 1857\n                  and the court ruled for Esherick, Black, & Co. and awarded $867.26.Complete Record, Document ID: 64957,Eshrick, Black & Co. v. Tobias, Hittle & Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137617."
+      },
+      {
+        "id": "X532E88BE-9D32-4786-8DA5-EF1F849E191B",
+        "text": "4An unknown person wrote this docketing."
+      },
+      {
+        "id": "X17207FE3-7C8B-4B42-9260-779E8061FED9",
+        "text": "5An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Jonathan K. Cooper and Hugh W. Reynolds, 28 May 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 25thtoG. W Lowry, has been handed me to answer–2I brought the suit ofEshrick, Black & Co.vsTobias Hittle & Cothe clerk tells me the process has been served in time, and I suppose a judgment\n               will be had at the ensuing June Term, unless the defendants appear and make a case\n               for a continuance, of the probability of which last, I know nothing3"
+      }
+    ],
+    "word_count": 79
+  },
+  "extraction_date": "2025-12-26 21:43:23",
+  "word_count": 79,
+  "processing": {
+    "cleaned": true,
+    "original_length": 463,
+    "cleaned_length": 435,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "D250449",
+  "url": "https://papersofabrahamlincoln.org/documents/D250449",
+  "metadata": {
+    "date": "1847-12-21",
+    "authors": [
+      "Douglas, Stephen A. (Douglass)"
+    ],
+    "keywords": [
+      "Collecting of accounts"
+    ],
+    "type": "Bank draft"
+  },
+  "content": {
+    "full_text": "Bank Draft of Stephen A. Douglas to Abraham Lincoln, 21 December 18471 Pay to HonA Lincolnor order one hundred & sixty seven dollars & charge the same to my account.2",
+    "paragraphs": [
+      "Bank Draft of Stephen A. Douglas to Abraham Lincoln, 21 December 18471 Pay to HonA Lincolnor order one hundred & sixty seven dollars & charge the same to my account.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Richard Yates;Lincoln collected debt for St. Louis Perpetual Insurance Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141520."
+    ],
+    "footnotes": [
+      {
+        "id": "XA978167C-2247-46EC-96C4-7989669450B5",
+        "text": "1Stephen A. Douglas wrote and signed the bank draft. Abraham Lincoln endorsed the draft\n                  on the second page."
+      },
+      {
+        "id": "XB37CBC7A-0011-4F27-99D6-781EE3DBFB0E",
+        "text": "2Douglas owed theSt. Louis Perpetual Insurance Company$337.49. Lincoln collected this part of the debt on behalf ofRichard Yates, who was likely engaged as an attorney for the company.Abraham Lincoln to Richard Yates;Lincoln collected debt for St. Louis Perpetual Insurance Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141520."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Bank Draft of Stephen A. Douglas to Abraham Lincoln, 21 December 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pay to HonA Lincolnor  order one hundred & sixty seven dollars & charge the same to my account.2"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:25:36",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 167,
+    "cleaned_length": 166,
+    "preserved_originality": true
+  }
+}

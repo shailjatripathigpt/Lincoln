@@ -1,0 +1,100 @@
+{
+  "document_id": "D210688",
+  "url": "https://papersofabrahamlincoln.org/documents/D210688",
+  "metadata": {
+    "date": "1858-05-14",
+    "authors": [
+      "Brown, George T."
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Debtor and creditor",
+      "Elections",
+      "Political oratory",
+      "Political parties",
+      "Public meetings"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-05-14",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "george",
+      "brown",
+      "abraham",
+      "lincoln",
+      "come",
+      "down",
+      "speak",
+      "ourcountymeeting",
+      "atedwardsvilleon",
+      "tuesday",
+      "much",
+      "depends",
+      "there",
+      "great"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "George T. Brown to Abraham Lincoln, 14 May 18581 G. T. Brown5 You must come down and speak at ourCountyMeeting atEdwardsvilleon Tuesday (18th)Much depends on it, and there will be great disappointment if you don't come2 Answer3",
+    "paragraphs": [
+      "George T. Brown to Abraham Lincoln, 14 May 18581 G. T. Brown5 You must come down and speak at ourCountyMeeting atEdwardsvilleon Tuesday (18th)Much depends on it, and there will be great disappointment if you don't come2 Answer3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daily Illinois State Journal(Springfield), 10 June 1858, 2:1; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:553-57.",
+      "The Illinois State Journal(Springfield), 26 May 1858, 1:3; Summary of Speech at Edwardsville, Illinois."
+    ],
+    "footnotes": [
+      {
+        "id": "X9400A8CA-113B-43BC-8E6B-AF59E8516A0F",
+        "text": "1George T. Brown wrote and signed this letter."
+      },
+      {
+        "id": "X6D22FD66-08CF-4147-A32F-5E168A113000",
+        "text": "2In May and June 1858, manyIllinoiscounties were holding meetings prior to the1858 Illinois Republican Conventionon June 16 to choose delegates for the event. In 1858, Abraham Lincoln sought a seat\n                  in theU.S. Senateagainst incumbentStephen A. Douglas. Lincoln lost the election but made a name for himself nationally. See the1858 Federal ElectionDaily Illinois State Journal(Springfield), 10 June 1858, 2:1; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:553-57."
+      },
+      {
+        "id": "X114B0319-4302-4ABA-B08E-38F71ED6B71C",
+        "text": "3No letter from Lincoln to Brown in response has been found. Speakers at the Edwardsville\n                  meeting included Lincoln,John M. Palmer,Mark W. Delahay, andJoseph Gillespie.The Illinois State Journal(Springfield), 26 May 1858, 1:3; Summary of Speech at Edwardsville, Illinois."
+      },
+      {
+        "id": "XFCE64C14-BE6D-4EEB-86A0-965B26687E6F",
+        "text": "4It is not known what specifically Brown owed Charles W. Matheny. No letter from Lincoln\n                  to Matheny about the subject has been located."
+      },
+      {
+        "id": "XE0A0C699-5866-4061-8B7C-D6B03966437C",
+        "text": "5Lincoln wrote this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "George T. Brown to Abraham Lincoln, 14 May 18581"
+      },
+      {
+        "type": "description",
+        "text": "G. T. Brown5"
+      },
+      {
+        "type": "paragraph",
+        "text": "You must come down and speak at ourCountyMeeting atEdwardsvilleon Tuesday (18th)Much depends on it, and there will be great disappointment if you don't come2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Answer3"
+      }
+    ],
+    "word_count": 37
+  },
+  "extraction_date": "2025-12-26 21:47:50",
+  "word_count": 37,
+  "processing": {
+    "cleaned": true,
+    "original_length": 227,
+    "cleaned_length": 227,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

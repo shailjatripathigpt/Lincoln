@@ -1,0 +1,41 @@
+{
+  "document_id": "D250233",
+  "url": "https://papersofabrahamlincoln.org/documents/D250233",
+  "metadata": {
+    "date": "1847-12-06 - 1849-03-03",
+    "authors": [],
+    "keywords": [
+      "Legislators"
+    ],
+    "type": "Envelope"
+  },
+  "content": {
+    "full_text": "Envelope of Unknown to James Cobean Jr., 1",
+    "paragraphs": [
+      "Envelope of Unknown to James Cobean Jr., 1"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X09B3A865-70D2-40E5-B8BE-F378E5977A93",
+        "text": "1This envelope contains Abraham Lincoln’s free postage frank, written during his term\n                  in theU.S. House of Representatives. Another person addressed the envelope to James Cobean, Jr."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Envelope of Unknown to James Cobean Jr., [1847-1849]1"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 20:36:40",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 53,
+    "cleaned_length": 42,
+    "preserved_originality": true
+  }
+}

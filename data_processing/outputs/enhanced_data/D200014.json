@@ -1,0 +1,84 @@
+{
+  "document_id": "D200014",
+  "url": "https://papersofabrahamlincoln.org/documents/D200014",
+  "metadata": {
+    "date": "1832-10-30",
+    "authors": [
+      "Alley, Nelson",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Navigable waters",
+      "Inland navigation",
+      "Rivers",
+      "Debtor and creditor",
+      "Actions and defenses"
+    ],
+    "type": "Promissory note",
+    "extracted_date": "1832",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "promissory",
+      "note",
+      "nelson",
+      "alley",
+      "abraham",
+      "lincoln",
+      "james",
+      "henry",
+      "october",
+      "six",
+      "months",
+      "after",
+      "date",
+      "either",
+      "promise"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Promissory Note of Nelson Alley and Abraham Lincoln to James D. Henry, 30 October\n\n18321 $104.87½ SIX MONTHS after date we or either of us, promise to pay toJ. D. HENRYSheriff ofSangamon County, or order, (for the benefit of the creditors ofV. A. Bogue) the sum ofone hundred & fourdollarsEighty Seven1/2cents, value received this the30th Oct., 1832.2",
+    "paragraphs": [
+      "Promissory Note of Nelson Alley and Abraham Lincoln to James D. Henry, 30 October",
+      "18321 $104.87½ SIX MONTHS after date we or either of us, promise to pay toJ. D. HENRYSheriff ofSangamon County, or order, (for the benefit of the creditors ofV. A. Bogue) the sum ofone hundred & fourdollarsEighty Seven1/2cents, value received this the30th Oct., 1832.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Benjamin P. Thomas,Lincoln’s New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 70; Order inHenry for use of McCandless & Emmerson v. Alley & Lincoln, 13 September 1833, Sangamon County Circuit Court, Record B 1831-1835, 225, Illinois\n                     Regional Archives Depository, University of Illinois Springfield;Henry for use of McCandless & Emmerson v. Alley & Lincoln,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139127."
+    ],
+    "footnotes": [
+      {
+        "id": "X45FCC7BA-FB43-479F-A586-14ABA6E0174B",
+        "text": "1This document is partially printed. Nelson Alley filled in the blanks and signed his\n                  name. Abraham Lincoln signed his own name."
+      },
+      {
+        "id": "X5702EFBC-4749-44C0-B4C4-6A19F4830905",
+        "text": "2This note represented Alley and Lincoln’s investment in the speculative ventures of\n                  Bogue, who hoped to make theSangamon Rivernavigable. Henry subsequently assigned the note to his own creditors who, in turn,\n                  sued Alley and Lincoln for payment.Benjamin P. Thomas,Lincoln’s New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 70; Order inHenry for use of McCandless & Emmerson v. Alley & Lincoln, 13 September 1833, Sangamon County Circuit Court, Record B 1831-1835, 225, Illinois\n                     Regional Archives Depository, University of Illinois Springfield;Henry for use of McCandless & Emmerson v. Alley & Lincoln,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139127."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note of Nelson Alley and Abraham  Lincoln to James D. Henry, 30 October\n               18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "$104.87½"
+      },
+      {
+        "type": "paragraph",
+        "text": "SIX MONTHS after date we or either of us, promise to pay toJ. D. HENRYSheriff ofSangamon County, or order, (for the benefit of the creditors ofV. A. Bogue) the sum ofone hundred & fourdollarsEighty Seven1/2cents,  value received this the30th Oct., 1832.2"
+      }
+    ],
+    "word_count": 57
+  },
+  "extraction_date": "2025-12-26 19:45:49",
+  "word_count": 57,
+  "processing": {
+    "cleaned": true,
+    "original_length": 367,
+    "cleaned_length": 351,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,90 @@
+{
+  "document_id": "D200918",
+  "url": "https://papersofabrahamlincoln.org/documents/D200918",
+  "metadata": {
+    "date": "1856-09-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Campaign speeches",
+      "Elections",
+      "Presidents--Election"
+    ],
+    "type": "Letter",
+    "extracted_date": "1856-09-14",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "robert",
+      "boal",
+      "september",
+      "yours",
+      "atlaconon",
+      "received",
+      "feel",
+      "owe",
+      "you",
+      "our",
+      "friends",
+      "ofmarshall",
+      "good"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Robert Boal, 14 September 18561 Yours of the 8thinviting me to be with atLaconon the 30thInstis received–2I feel that I owe you, and our friends ofMarshall, a good deal; and I will come if I can; and if I do not get there, it will be because\n\nI shall think my efforts are more needed further South–3 Present my respects toMrsBoal, and believe, as ever4",
+    "paragraphs": [
+      "Abraham Lincoln to Robert Boal, 14 September 18561 Yours of the 8thinviting me to be with atLaconon the 30thInstis received–2I feel that I owe you, and our friends ofMarshall, a good deal; and I will come if I can; and if I do not get there, it will be because",
+      "I shall think my efforts are more needed further South–3 Present my respects toMrsBoal, and believe, as ever4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:401-2, 425, 428;Lyman Trumbull to Abraham Lincoln;Robert Boal to Abraham Lincoln;Robert Boal to Abraham Lincoln; Illinois SenateJournal. 1855. 19th G. A., 242-55.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 30 September 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-30."
+    ],
+    "footnotes": [
+      {
+        "id": "X3461FD88-0A2E-43B2-BB24-0C345A56BE59",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XC5071878-233B-4AAD-BAC2-0767FEAB928A",
+        "text": "2Robert Boal’s September 8 letter to Lincoln has not been located."
+      },
+      {
+        "id": "XC90D8F20-28EF-4371-8183-4BE888A63D38",
+        "text": "3Lincoln was in high demand as a speaker for theRepublican Partyduring the1856 Federal Electioncampaign. He delivered more than fifty speeches throughoutIllinoisas he stumped on behalf of Republican candidates, including in southern Illinois.\n                  Relatively few Republicans lived in southern Illinois, however, a fact which prompted\n                  concern about the party’s prospects in that region of the state.One reason Lincoln may have felt that he owed Boal was because Boal supported him\n                  during his bid for a seat in theU.S. Senateduring theelection of 1854. Boal cast his vote for Lincoln during the first nine rounds of voting in that contest,\n                  and only switched his vote toLyman Trumbullin the tenth and final round upon Lincoln’s direction.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:401-2, 425, 428;Lyman Trumbull to Abraham Lincoln;Robert Boal to Abraham Lincoln;Robert Boal to Abraham Lincoln; Illinois SenateJournal. 1855. 19th G. A., 242-55."
+      },
+      {
+        "id": "X27358093-D1EE-4874-A4B9-879994E60742",
+        "text": "4No additional correspondence between Lincoln and Boal regarding the election of 1856\n                  has been located.Lincoln delivered an address in Lacon on September 30.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 30 September 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-30."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Robert Boal, 14 September 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 8thinviting me to be with atLaconon the 30thInstis received–2I feel that I owe you, and our friends ofMarshall, a good deal; and I will come if I can; and if I do not get there, it will be because\n               I shall think my efforts are more needed further South–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Present my respects toMrsBoal, and believe, as ever4"
+      }
+    ],
+    "word_count": 68
+  },
+  "extraction_date": "2025-12-26 21:41:48",
+  "word_count": 68,
+  "processing": {
+    "cleaned": true,
+    "original_length": 385,
+    "cleaned_length": 371,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

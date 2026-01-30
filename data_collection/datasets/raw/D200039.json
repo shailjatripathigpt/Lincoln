@@ -1,0 +1,61 @@
+{
+  "document_id": "D200039",
+  "url": "https://papersofabrahamlincoln.org/documents/D200039",
+  "metadata": {
+    "date": "1834-12-09",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Justices of the peace",
+      "Jurisdiction",
+      "Actions and defenses"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "A Bill to Limit Jurisdiction of Justices of the Peace, [9 December 1834]1 [Table 1]",
+    "paragraphs": [
+      "A Bill to Limit Jurisdiction of Justices of the Peace, [9 December 1834]1",
+      "[Table 1: [1?] | Be it enacted by the people of\n                     the State of 2 | Illinoisrepresented in t...]"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Illinois HouseJournal. 1835. 9th G. A., 1st sess., 47, 84, 94, 107, 153-54, 172, 179, 347, 377;  \n                     Illinois SenateJournal. 1835. 9th G. A., 1st sess.,  326, 351, 389, 413; Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 386.",
+      "“An Act concerning Justices of the Peace and Constables,” 1 June 1827,Revised Laws of Illinois(1833), 386-401."
+    ],
+    "footnotes": [
+      {
+        "id": "XBD61F1A6-128F-4DEC-866C-14FD77688DC8",
+        "text": "1Abraham Lincoln wrote the entirety of the text on page one.On December 5, 1834, Abraham Lincoln gavenoticeof his intention to introduce this bill in the House of Representatives, which he\n                  did on December 9.  After much revision in committees, two of which included Lincoln,\n                  the House passed the amended bill on January 24 by a vote of 39 yeas to 7 nays, with\n                  Lincoln voting yea.  On January 31, theSenateindefinitely postponed consideration of the bill.Illinois HouseJournal. 1835. 9th G. A., 1st sess., 47, 84, 94, 107, 153-54, 172, 179, 347, 377;  \n                     Illinois SenateJournal. 1835. 9th G. A., 1st sess.,  326, 351, 389, 413; Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 386."
+      },
+      {
+        "id": "X0B532230-7E06-415B-91B7-2A5DADFD579D",
+        "text": "2The original act did not contain any such restriction and allowed justices to hear\n                  any case within their district, regardless of where the defendant resided.“An Act concerning Justices of the Peace and Constables,” 1 June 1827,Revised Laws of Illinois(1833), 386-401."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "A Bill to Limit Jurisdiction of Justices of the Peace, [9 December 1834]1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "[1?] | Be it enacted by the people of\n                     the State of",
+          "2 | Illinoisrepresented in theGeneral Assembly—",
+          "3 | That hereafter Justices of the Peace shall\n                     not",
+          "4 | etertain jurisdiction of any civil\n                     case whatever—",
+          "5 | unless it be in the precinct in which the\n                     defende[nt]",
+          "6 | resides ormaybefound— or in which the contract",
+          "7 | on which suit is\n                     brought was made and entered",
+          "8 | into, or made payable— any thing\n                     in former laws",
+          "to the contrary notwithstanding—"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 19:46:55",
+  "word_count": 15
+}

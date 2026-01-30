@@ -1,0 +1,73 @@
+{
+  "document_id": "D200212",
+  "url": "https://papersofabrahamlincoln.org/documents/D200212",
+  "metadata": {
+    "date": "1840-01-30",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Promissory notes",
+      "Negotiable instruments",
+      "Personal property--Valuation"
+    ],
+    "type": "Amendment",
+    "extracted_date": "1840-01-30",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "per",
+      "amendment",
+      "bill",
+      "relation",
+      "promissory",
+      "notes",
+      "provided",
+      "nothing",
+      "herein",
+      "construed",
+      "legalize",
+      "taking",
+      "more",
+      "than",
+      "twelve"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill in Relation to Promissory Notes,” 1 Provided that nothing herein shall be construed to legalize the taking of more than\n\ntwelve^per cent interest^per annuminterestin any case whatever—",
+    "paragraphs": [
+      "Amendment to “A Bill in Relation to Promissory Notes,” 1 Provided that nothing herein shall be construed to legalize the taking of more than",
+      "twelve^per cent interest^per annuminterestin any case whatever—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess.,  167, 239, 263, 296; Illinois SenateJournal. 1839. 11th G. A., special sess., 220."
+    ],
+    "footnotes": [
+      {
+        "id": "XA7DB9256-E622-420D-9F66-3B37FEEA8C6F",
+        "text": "1Abraham Lincolnwrote the text of this amendment. The docketing on page two is in another hand.On January 30, 1840, Abraham Lincoln proposed this amendment toHB 128, introduced  byJohn H. Murphyin theHouse of Representativeson January 15.  The House referred the bill to the Committee on the Judiciary. On\n                  January 24, the committee reported back the bill without amendment. On January  30,\n                  the House agreed to Lincoln’s proposedamendment, and  passed thebill as amended. On January 31, the House requested that theSenateconcur in passage of the bill, but the Senate took no action.Illinois HouseJournal. 1839. 11th G. A., special sess.,  167, 239, 263, 296; Illinois SenateJournal. 1839. 11th G. A., special sess., 220."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill in Relation to Promissory Notes,” [30 January 1840]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Provided that nothing herein shall be construed to legalize the taking of more than\n               twelve^per cent interest^per annuminterestin any case whatever—"
+      }
+    ],
+    "word_count": 31
+  },
+  "extraction_date": "2025-12-26 20:11:28",
+  "word_count": 33,
+  "processing": {
+    "cleaned": true,
+    "original_length": 236,
+    "cleaned_length": 205,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

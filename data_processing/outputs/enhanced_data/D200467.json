@@ -1,0 +1,86 @@
+{
+  "document_id": "D200467",
+  "url": "https://papersofabrahamlincoln.org/documents/D200467",
+  "metadata": {
+    "date": "1848-03-04",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Friendship",
+      "Names, Personal",
+      "Treaties--Ratification"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-03-04",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "him",
+      "not",
+      "name",
+      "whether",
+      "abraham",
+      "lincoln",
+      "ignatius",
+      "simms",
+      "march",
+      "whenever",
+      "directing",
+      "documents",
+      "persons",
+      "atjacksonville",
+      "annoyed"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Ignatius R. Simms, 4 March 18481 Whenever I am directing documents to persons atJacksonville, I am annoyed at not being able to remember the Christian name of yoursonwho formerly resided atMetamorainWoodford county–2I esteem him as one of my best friends; and you will oblige me by handing him this\n\nletter, and telling him to write me at once about any thing he pleases, so that I\n\ncan get his name right– It is considered doubtful whether theSenatewill ratify thetreatynow under advisement; but whether they shall or not, all hands seem to agree that\n\nthewaris substantially ended–3",
+    "paragraphs": [
+      "Abraham Lincoln to Ignatius R. Simms, 4 March 18481 Whenever I am directing documents to persons atJacksonville, I am annoyed at not being able to remember the Christian name of yoursonwho formerly resided atMetamorainWoodford county–2I esteem him as one of my best friends; and you will oblige me by handing him this",
+      "letter, and telling him to write me at once about any thing he pleases, so that I",
+      "can get his name right– It is considered doubtful whether theSenatewill ratify thetreatynow under advisement; but whether they shall or not, all hands seem to agree that"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:455; Ignatius Robert Simms\n                     to Chatham Hooe Simms, 10 April 1846, Martin Van Buren Culver Letters,Spared and Shared 4: Saving History One Letter at a Time,https://sparedshared4.wordpress.com/letters/1846-ignatius-robert-simms-to-chatham-hooe-simms/, accessed 3 December 2019."
+    ],
+    "footnotes": [
+      {
+        "id": "X45EA7B54-4AD2-4AEE-B95B-94DEBD13AB79",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X944CBB2B-522A-48B1-B587-C47EE032B7CA",
+        "text": "2The editors concur with Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, that this was most likelyChatham H. Simms, who resided in Metamora two years before Lincoln penned this letter.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:455; Ignatius Robert Simms\n                     to Chatham Hooe Simms, 10 April 1846, Martin Van Buren Culver Letters,Spared and Shared 4: Saving History One Letter at a Time,https://sparedshared4.wordpress.com/letters/1846-ignatius-robert-simms-to-chatham-hooe-simms/, accessed 3 December 2019."
+      },
+      {
+        "id": "X8E8A4DEA-0C6B-420C-8EBE-C8272780A11C",
+        "text": "3The Senate would ratify the treaty ending theMexican Warin mid-March.  For the terms of the treaty and ratification process, see:Treaty of Guadalupe-Hidalgo."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Ignatius R. Simms, 4 March 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whenever I am directing documents to persons atJacksonville, I am annoyed at not being able to remember the Christian name of yoursonwho formerly resided atMetamorainWoodford county–2I esteem him as one of my best friends; and you will oblige me by handing him this\n               letter, and telling him to write me at once about any thing he pleases, so that I\n               can get his name right–"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is considered doubtful whether theSenatewill ratify thetreatynow under advisement; but whether they shall or not, all hands seem to agree that\n               thewaris substantially ended–3"
+      }
+    ],
+    "word_count": 99
+  },
+  "extraction_date": "2025-12-26 20:28:36",
+  "word_count": 99,
+  "processing": {
+    "cleaned": true,
+    "original_length": 645,
+    "cleaned_length": 603,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

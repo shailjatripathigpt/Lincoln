@@ -1,0 +1,89 @@
+{
+  "document_id": "D210758",
+  "url": "https://papersofabrahamlincoln.org/documents/D210758",
+  "metadata": {
+    "date": "1858-07-10",
+    "authors": [
+      "Lloyd, Richard"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Injunctions",
+      "Land titles",
+      "Real property"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-07-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "richard",
+      "lloyd",
+      "abraham",
+      "lincoln",
+      "july",
+      "you",
+      "form",
+      "any",
+      "opinion",
+      "when",
+      "case",
+      "called",
+      "powellvsament",
+      "keep",
+      "advised"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Richard Lloyd to Abraham Lincoln, 10 July 18581 Can you form any opinion as to when my case will be called,PowellvsAment& al?2Please keep me advised.3",
+    "paragraphs": [
+      "Richard Lloyd to Abraham Lincoln, 10 July 18581 Can you form any opinion as to when my case will be called,PowellvsAment& al?2Please keep me advised.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Judge’s Docket, Document ID: 64426; Order, Document ID: 64425; Judgment Docket, Document\n                     ID: 64429,Powell v. Ament & Beer, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=137595; Inventory, Powell Family Papers, Special Collections Research Center, Swem Library,\n                     The College of William and Mary, Williamsburg, VA,http://ead.lib.virginia.edu/vivaead/published/wm/viw00085.frame; Lorraine Janney Kintz,Israel & Elizabeth Janney: Their Ancestors and Descendants([Richland Center, WI]: [L.J. Kintz], [1985]), 147-48;The Quincy Herald-Whig(IL), 7 January 1940, 14:8;Richard Lloyd to Abraham Lincoln; Richard Lloyd to Abraham Lincoln; Richard Lloyd to Abraham Lincoln; Richard Lloyd to Abraham Lincoln; Richard Lloyd to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "4018685",
+        "text": "1Richard Lloyd wrote and signed this letter."
+      },
+      {
+        "id": "4018709",
+        "text": "2The case ofPowell v. Ament & Beerinvolved a dispute over the ownership of land inAdams County, Illinois. The case had commenced in theU.S. Circuit Court for the Southern District of Illinoisin January 1858, with Abraham Lincoln as an attorney for the plaintiff. At issue\n                  in the case was title to property which had originally been military bounty land patented\n                  byJabez Morseand whichJeremiah Evartsclaimed to have purchased from Morse, apparently through land agentsMoore, Morton & Company. Although Lloyd’s nephew,Lloyd Powell, was the plaintiff of record on the case, Lloyd seems to have owned the land in question\n                  at one time. No correspondence between Lincoln and Powell has been located, but Lloyd\n                  wrote Lincoln several letters regarding the case and assisted in gathering documentation\n                  for Powell’s claim.On June 24, 1858, the case had been submitted for trial by judge, withNorman H. Purpleappearing for the plaintiff. After hearing the evidence, JudgeSamuel H. Treatdeclined to rule immediately and instead decided to take time to consider the matter.\n                  Judgment was not issued until January 12, 1859, when the court ruled for the defendants.\n                  The case went through two more trials and was ultimately decided in favor of Powell\n                  in 1863. Lincoln’s involvement in the case ended about 1860.Judge’s Docket, Document ID: 64426; Order, Document ID: 64425; Judgment Docket, Document\n                     ID: 64429,Powell v. Ament & Beer, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://lawpracticeofabrahamlincoln.org/Details.aspx?case=137595; Inventory, Powell Family Papers, Special Collections Research Center, Swem Library,\n                     The College of William and Mary, Williamsburg, VA,http://ead.lib.virginia.edu/vivaead/published/wm/viw00085.frame; Lorraine Janney Kintz,Israel & Elizabeth Janney: Their Ancestors and Descendants([Richland Center, WI]: [L.J. Kintz], [1985]), 147-48;The Quincy Herald-Whig(IL), 7 January 1940, 14:8;Richard Lloyd to Abraham Lincoln; Richard Lloyd to Abraham Lincoln; Richard Lloyd to Abraham Lincoln; Richard Lloyd to Abraham Lincoln; Richard Lloyd to Abraham Lincoln."
+      },
+      {
+        "id": "4018710",
+        "text": "3No response to this letter by Lincoln has been located. Lloydwroteto Lincoln again to inquire about the status ofPowell v. Ament & Beeron August 3, 1858."
+      },
+      {
+        "id": "4018686",
+        "text": "4An unidentified person wrote this address."
+      },
+      {
+        "id": "4018687",
+        "text": "5Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Richard Lloyd to Abraham Lincoln, 10 July 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Can you form any opinion as to when my case will be called,PowellvsAment& al[et al.]?2Please keep me advised.3"
+      }
+    ],
+    "word_count": 25
+  },
+  "extraction_date": "2025-12-26 21:51:17",
+  "word_count": 26,
+  "processing": {
+    "cleaned": true,
+    "original_length": 158,
+    "cleaned_length": 150,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,55 @@
+{
+  "document_id": "D210486",
+  "url": "https://papersofabrahamlincoln.org/documents/D210486",
+  "metadata": {
+    "date": "1849-05-26",
+    "authors": [
+      "Henderson, William H."
+    ],
+    "keywords": [
+      "Federal government--Officials and employee",
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William H. Henderson to Abraham Lincoln, 26 May 18491 They are seen fears advising others say come opponent expected will defeatEdwardsuse your discretion2",
+    "paragraphs": [
+      "William H. Henderson to Abraham Lincoln, 26 May 18491 They are seen fears advising others say come opponent expected will defeatEdwardsuse your discretion2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln.",
+      "William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X06E1B44E-1D9A-44F3-A64C-270386E7B65D",
+        "text": "1This letter is signed “W.  A. Henderson.”  However, the editors believe this letter\n                  is actually from William H. Henderson, who wrote Abraham Lincoln two letters about\n                  theGeneral Land Office Affairearlier in May 1849.William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln."
+      },
+      {
+        "id": "X50E829F3-9A2D-4FD0-AD41-F9EB6D701429",
+        "text": "2Cyrus Edwards,Justin H. Butterfield, andJames L. D. Morrisonwere vying to replaceRichard M. Youngas commissioner of theU.S. General Land Office. Lincoln eventually became a candidate for the position as well. Earlier in May 1849,\n                  Henderson andJosiah M. Lucasboth urged Lincoln to go toWashington, DCas soon as possible to attempt to secure the job.  Ultimately, neither Morrison,\n                  Edwards, nor Lincoln received the appointment; the job went to Butterfield instead.\n                  See theGeneral Land Office Affair.William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William H. Henderson to Abraham Lincoln, 26 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "They are seen fears advising others say come opponent expected will defeatEdwardsuse your discretion2"
+      }
+    ],
+    "word_count": 23
+  },
+  "extraction_date": "2025-12-26 21:15:47",
+  "word_count": 23,
+  "processing": {
+    "cleaned": true,
+    "original_length": 155,
+    "cleaned_length": 155,
+    "preserved_originality": true
+  }
+}

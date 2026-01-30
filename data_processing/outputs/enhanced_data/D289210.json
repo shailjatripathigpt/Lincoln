@@ -1,0 +1,78 @@
+{
+  "document_id": "D289210",
+  "url": "https://papersofabrahamlincoln.org/documents/D289210",
+  "metadata": {
+    "date": "1834-06-02",
+    "authors": [
+      "Rogers, Samuel"
+    ],
+    "keywords": [
+      "County officials and employees",
+      "School lands"
+    ],
+    "type": "Affidavit",
+    "extracted_date": "1834-06-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "duty",
+      "affidavit",
+      "samuel",
+      "rogers",
+      "hereby",
+      "certify",
+      "one",
+      "trustees",
+      "appointed",
+      "court",
+      "superintend",
+      "affairs",
+      "township",
+      "north",
+      "range"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Affidavit of Samuel Rogers, 1 I do hereby certify that I, as one of the trustees appointed by court to: superintend\n\nthe affairs of Township No18 North of Range 6 West, relative to the sixteenth Section of the same, have expended\n\nthe amount of eight days time in attending to that duty—2",
+    "paragraphs": [
+      "Affidavit of Samuel Rogers, 1 I do hereby certify that I, as one of the trustees appointed by court to: superintend",
+      "the affairs of Township No18 North of Range 6 West, relative to the sixteenth Section of the same, have expended",
+      "the amount of eight days time in attending to that duty—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sangamon County Commissioners Court, Record Book D, Manuscripts Division, Abraham\n                     Lincoln Presidential Library and Museum, Springfield IL, 81.",
+      "“An Act to Enable the People of the Illinois Territory to Form a Constitution and\n                     State Government, and for the Admission of Such State into the Union on an Equal Footing\n                     with the Original States,” 18 April 1818,Statutes at Large of the United States3 (1846):428-31; W. L. Pillsbury, “Early Education in Illinois,”Sixteenth Biennial Report of the Superintendent of Public Instruction of the State\n                        of Illinois(Springfield, IL: H. W. Rokker, 1886), 106-7."
+    ],
+    "footnotes": [
+      {
+        "id": "XF3C50DE2-734A-4B02-85A4-33D0C24601AD",
+        "text": "1Abraham Lincoln wrote the entirety of this document, including Rogers’s signature.On Monday, June 2, 1834, the Sangamon County Commissioners Court allowed Rogers $4.50\n                  for acting as trustee.Sangamon County Commissioners Court, Record Book D, Manuscripts Division, Abraham\n                     Lincoln Presidential Library and Museum, Springfield IL, 81."
+      },
+      {
+        "id": "X943FA5F1-C841-4A89-A091-EBDE1D4C8908",
+        "text": "2The land described here is Indian Creek Township, which is located in present-dayMenard County, several miles east ofPetersburg.In 1818, whenCongresspassed the act enabling theIllinois Territoryto become a state, it granted to each  township in the state the proceeds of the\n                  sale of land in that township’s Section 16. This money became known as the common\n                  school fund. Each township appointed a board to supervise the expenditure of the proceeds.“An Act to Enable the People of the Illinois Territory to Form a Constitution and\n                     State Government, and for the Admission of Such State into the Union on an Equal Footing\n                     with the Original States,” 18 April 1818,Statutes at Large of the United States3 (1846):428-31; W. L. Pillsbury, “Early Education in Illinois,”Sixteenth Biennial Report of the Superintendent of Public Instruction of the State\n                        of Illinois(Springfield, IL: H. W. Rokker, 1886), 106-7."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Affidavit of Samuel Rogers, [2 June 1834]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "I do hereby certify that I, as one of the trustees appointed by court to: superintend\n               the affairs of Township No18 North of Range 6 West, relative to the sixteenth Section of the same, have expended\n               the amount of eight days time in attending to that duty—2"
+      }
+    ],
+    "word_count": 52
+  },
+  "extraction_date": "2025-12-26 19:47:04",
+  "word_count": 54,
+  "processing": {
+    "cleaned": true,
+    "original_length": 329,
+    "cleaned_length": 288,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

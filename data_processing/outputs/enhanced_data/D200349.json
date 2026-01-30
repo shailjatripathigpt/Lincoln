@@ -1,0 +1,78 @@
+{
+  "document_id": "D200349",
+  "url": "https://papersofabrahamlincoln.org/documents/D200349",
+  "metadata": {
+    "date": "1844-02-23",
+    "authors": [],
+    "keywords": [
+      "Banks and banking",
+      "Political candidates"
+    ],
+    "type": "Speech",
+    "extracted_date": "1844-02-23",
+    "extracted_type": "speech",
+    "extracted_keywords": [
+      "summary",
+      "speech",
+      "virginia",
+      "illinois",
+      "february",
+      "meeting",
+      "night",
+      "morning",
+      "addresses",
+      "received",
+      "killpatrickand",
+      "lincoln",
+      "portrayed",
+      "absurdities",
+      "ofloco"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Summary of Speech in Virginia, Illinois, 23 February 18441 We had a meeting at night, and on the morning of the 23d, addresses were received\n\nfrom Mr.Killpatrickand Mr.Lincoln.2They portrayed the absurdities ofloco focoism, and the soundness ofwhigprinciples, with great success.3",
+    "paragraphs": [
+      "Summary of Speech in Virginia, Illinois, 23 February 18441 We had a meeting at night, and on the morning of the 23d, addresses were received",
+      "from Mr.Killpatrickand Mr.Lincoln.2They portrayed the absurdities ofloco focoism, and the soundness ofwhigprinciples, with great success.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:224-26."
+    ],
+    "footnotes": [
+      {
+        "id": "X47AD4488-52B7-4172-86B0-E5B2F5EB5304",
+        "text": "1This summary comes at the end of Franklin’ssummaryof the meeting held at Virginia on February 22, 1844."
+      },
+      {
+        "id": "X1C31CD9E-FBC1-4D0A-B6CB-7335DE016ED2",
+        "text": "2TheCass CountyClay Clubheld a meeting at the Cass County Courthouse on February 22 to celebrateGeorge Washington’s birthday.  Abraham Lincoln andJohn Pearsondebated the constitutionality of a national bank.  Editors of the WhigSangamo Journalpublished two summaries of this meeting, a condensedversionon February 29, and a more detailedversionbefore Franklin’s account of this meeting.  The DemocraticIllinois State Registerpublished two summaries on March 15,onecoming from an unknown contributor, andonefrom “A Van Buren Sentinel.”"
+      },
+      {
+        "id": "XA8DC487B-97BE-444C-AE89-EB59C24419C0",
+        "text": "3During the winter of 1843 and 1844, Lincoln stumpedIllinoison behalf ofHenry Clay, the Whig party standard bearer in thepresidential election of 1844.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:224-26."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Summary of Speech in Virginia, Illinois, 23 February 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "We had a meeting at night, and on the morning of the 23d, addresses were received\n               from Mr.Killpatrickand Mr.Lincoln.2They portrayed the absurdities ofloco focoism, and the soundness ofwhigprinciples, with great success.3"
+      }
+    ],
+    "word_count": 40
+  },
+  "extraction_date": "2025-12-26 20:19:37",
+  "word_count": 40,
+  "processing": {
+    "cleaned": true,
+    "original_length": 294,
+    "cleaned_length": 280,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

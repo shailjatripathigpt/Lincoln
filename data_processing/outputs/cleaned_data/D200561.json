@@ -1,0 +1,52 @@
+{
+  "document_id": "D200561",
+  "url": "https://papersofabrahamlincoln.org/documents/D200561",
+  "metadata": {
+    "date": "1849-03-09",
+    "authors": [
+      "Baker, Edward D.",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln and Edward D. Baker to Thomas Ewing, 9 March 18491",
+    "paragraphs": [
+      "Abraham Lincoln and Edward D. Baker to Thomas Ewing, 9 March 18491"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;History of Madison County, Illinois(Edwardsville, IL: W. R. Brink, 1882), 363."
+    ],
+    "footnotes": [
+      {
+        "id": "X5E47A5BA-A1E3-4F47-9A23-1BE94757D499",
+        "text": "1Abraham Lincoln wrote and signed the letter. Edward D. Baker signed his own name."
+      },
+      {
+        "id": "XC64167B0-0F3B-40E1-AF6B-188DFB50DD87",
+        "text": "2PresidentZachary Taylorappointed Matthew Gillespie the register of the General Land Office at Edwardsville,\n                  in which capacity he served until 1853.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135;History of Madison County, Illinois(Edwardsville, IL: W. R. Brink, 1882), 363."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln and Edward D. Baker to Thomas Ewing, 9 March 18491"
+      }
+    ],
+    "word_count": 12
+  },
+  "extraction_date": "2025-12-26 20:37:14",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 66,
+    "cleaned_length": 66,
+    "preserved_originality": true
+  }
+}

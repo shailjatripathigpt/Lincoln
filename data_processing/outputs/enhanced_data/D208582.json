@@ -1,0 +1,80 @@
+{
+  "document_id": "D208582",
+  "url": "https://papersofabrahamlincoln.org/documents/D208582",
+  "metadata": {
+    "date": "1838-12-18",
+    "authors": [
+      "Davis, Levi"
+    ],
+    "keywords": [
+      "Legislators--Salaries, etc.",
+      "State governments--Officials and employees",
+      "Wages"
+    ],
+    "type": "Check",
+    "extracted_date": "1838-12-18",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "check",
+      "levi",
+      "davis",
+      "abraham",
+      "lincoln",
+      "december",
+      "walters",
+      "state",
+      "printer",
+      "countersigned",
+      "registered"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Check of Levi Davis to Abraham Lincoln, 18 December 18381 (WM. WALTERS, STATE PRINTER.) No.1102 (Countersigned and Registered.)",
+    "paragraphs": [
+      "Check of Levi Davis to Abraham Lincoln, 18 December 18381 (WM. WALTERS, STATE PRINTER.) No.1102 (Countersigned and Registered.)"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "An Act Making Appropriations for the Years 1837 and 1838;An Act Making Partial Appropriations."
+    ],
+    "footnotes": [
+      {
+        "id": "X740599D2-DABE-4ECE-AE5A-74715A126B93",
+        "text": "1This partially printed check was filled in by Levi Davis and signed by Davis and John\n                  D. Whiteside. Abraham Lincoln endorsed it on the back side."
+      },
+      {
+        "id": "X5A54734D-4D2B-4416-91E9-583A20C14DE5",
+        "text": "2Members of the General Assembly earned $4 for each day’s attendance at the session,\n                  plus an additional $4 for every twenty miles of necessary travel in coming to and\n                  returning from the statehouse. In addition, members periodically received additional\n                  sums--often $100--through partial appropriation bills.An Act Making Appropriations for the Years 1837 and 1838;An Act Making Partial Appropriations."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Levi Davis to Abraham Lincoln, 18 December 18381"
+      },
+      {
+        "type": "description",
+        "text": "(WM. WALTERS, STATE PRINTER.)"
+      },
+      {
+        "type": "paragraph",
+        "text": "No.1102"
+      },
+      {
+        "type": "paragraph",
+        "text": "(Countersigned and Registered.)"
+      }
+    ],
+    "word_count": 18
+  },
+  "extraction_date": "2025-12-26 20:07:16",
+  "word_count": 18,
+  "processing": {
+    "cleaned": true,
+    "original_length": 127,
+    "cleaned_length": 127,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

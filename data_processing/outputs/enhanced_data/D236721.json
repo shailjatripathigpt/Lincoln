@@ -1,0 +1,78 @@
+{
+  "document_id": "D236721",
+  "url": "https://papersofabrahamlincoln.org/documents/D236721",
+  "metadata": {
+    "date": "1856-01-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Inheritance and succession"
+    ],
+    "type": "Letter",
+    "extracted_date": "1856-01-16",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "mrsbishop",
+      "abraham",
+      "lincoln",
+      "william",
+      "mccullough",
+      "january",
+      "herewith",
+      "return",
+      "copy",
+      "petition",
+      "quite",
+      "certain",
+      "right",
+      "now",
+      "swear"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William McCullough, 16 January 18561 I herewith return the copy of MrsBishop's Petition–2If it\n\nis quite certain that it is right now, have MrsBishop to\n\nswear to it (this is indispensable) and then file it, and proceed upon it anew, just\n\nas ifnonenothing had been done before–",
+    "paragraphs": [
+      "Abraham Lincoln to William McCullough, 16 January 18561 I herewith return the copy of MrsBishop's Petition–2If it",
+      "is quite certain that it is right now, have MrsBishop to",
+      "swear to it (this is indispensable) and then file it, and proceed upon it anew, just",
+      "as ifnonenothing had been done before–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Bishop v. Bishop et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136830."
+    ],
+    "footnotes": [
+      {
+        "id": "XB28B1F23-C441-4E57-BC5D-C0D84F4B233C",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X5BCB07D5-EEE7-4570-B442-D976363F168F",
+        "text": "2Clarissa H. Bishop retained Abraham Lincoln as a lawyer after her husband, Minor Bishop,\n                  died intestate in 1855. In 1856, she petitioned theMcLean County Circuit Courtfor a partition of her husband’s land amongst his heirs and to set aside her dower.\n                  The court decided in her favor and partitioned the land according to her petition.\n                  William McCullough served as the clerk of the McLean County Circuit Court at the time\n                  of this letter.Bishop v. Bishop et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136830."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William McCullough, 16 January 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "I herewith return the copy of MrsBishop's Petition–2If it\n               is quite certain that it is right now, have MrsBishop to\n               swear to it (this is indispensable) and then file it, and proceed upon it anew, just\n               as ifnonenothing had been done before–"
+      }
+    ],
+    "word_count": 50
+  },
+  "extraction_date": "2025-12-26 21:38:47",
+  "word_count": 50,
+  "processing": {
+    "cleaned": true,
+    "original_length": 339,
+    "cleaned_length": 297,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

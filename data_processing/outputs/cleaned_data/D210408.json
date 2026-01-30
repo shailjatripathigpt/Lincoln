@@ -1,0 +1,61 @@
+{
+  "document_id": "D210408",
+  "url": "https://papersofabrahamlincoln.org/documents/D210408",
+  "metadata": {
+    "date": "1849-04-19",
+    "authors": [
+      "Briggs, William D.",
+      "Garth, Littleton T.",
+      "Gill, Richard T.",
+      "Holmes, Palmer",
+      "Ireland, Richard W.",
+      "Saltonstall, Samuel R."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Richard T. Gill and Others to Abraham Lincoln, 1 We the undersigned, citizens ofTremont, would respectfully recommendJohn H. Ball, for Post master of Tremont,2",
+    "paragraphs": [
+      "Petition of Richard T. Gill and Others to Abraham Lincoln, 1 We the undersigned, citizens ofTremont, would respectfully recommendJohn H. Ball, for Post master of Tremont,2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William D. Briggs to Abraham Lincoln;Richard T. Gill and Littleton T. Garth to Abraham Lincoln;Mary L. Perkins to Abraham Lincoln;Abraham Lincoln to William D. Briggs;Fitz Henry Warren to Abraham Lincoln;Benjamin F. James to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *489;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 550*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), *520;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855), 346*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857), 346*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859), 74*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1861(Washington, DC: Government Printing Office, 1862), 376*."
+    ],
+    "footnotes": [
+      {
+        "id": "X848FE8BB-EE99-4E93-9EF6-4129217007E3",
+        "text": "1The author of the text of this petition is unknown.  Each signatory signed his own\n                  name."
+      },
+      {
+        "id": "X29B40599-5BFB-484E-8FF5-BA767CA255B7",
+        "text": "2Abraham Lincoln received numerous letters recommending John H. Ball for postmaster.Alanson StockwellandDavid Robertswere two of the other candidates for the position.      Lincoln preferred Roberts\n                  and recommended him for the position.  Roberts received the appointment in May 1849\n                  and held the job until 1860.William D. Briggs to Abraham Lincoln;Richard T. Gill and Littleton T. Garth to Abraham Lincoln;Mary L. Perkins to Abraham Lincoln;Abraham Lincoln to William D. Briggs;Fitz Henry Warren to Abraham Lincoln;Benjamin F. James to Abraham Lincoln;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *489;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 550*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), *520;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855), 346*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857), 346*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859), 74*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1861(Washington, DC: Government Printing Office, 1862), 376*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Richard T. Gill and Others to Abraham Lincoln, [19 April 1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "We the undersigned, citizens ofTremont, would respectfully recommendJohn H. Ball, for Post master of Tremont,2"
+      }
+    ],
+    "word_count": 26
+  },
+  "extraction_date": "2025-12-26 20:41:17",
+  "word_count": 28,
+  "processing": {
+    "cleaned": true,
+    "original_length": 186,
+    "cleaned_length": 171,
+    "preserved_originality": true
+  }
+}

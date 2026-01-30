@@ -1,0 +1,53 @@
+{
+  "document_id": "D295260",
+  "url": "https://papersofabrahamlincoln.org/documents/D295260",
+  "metadata": {
+    "date": "1847-12-XX - 1848-12-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [],
+    "type": "Envelope",
+    "extracted_date": "1847-12-XX - 1848-12-XX",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "envelope",
+      "abraham",
+      "lincoln",
+      "john",
+      "scott",
+      "december"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Envelope of Abraham Lincoln to John T. Scott, December 1",
+    "paragraphs": [
+      "Envelope of Abraham Lincoln to John T. Scott, December 1"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X657733AF-8750-4E31-97E9-B63CFBF16504",
+        "text": "1Abraham Lincoln addressed this envelope, and he franked it by writing “Free” and signing\n                  his name. The correspondence that this envelope contained has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Envelope of Abraham Lincoln to John T. Scott, December [1847-1848]1"
+      }
+    ],
+    "word_count": 10
+  },
+  "extraction_date": "2025-12-26 20:32:25",
+  "word_count": 10,
+  "processing": {
+    "cleaned": true,
+    "original_length": 67,
+    "cleaned_length": 56,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

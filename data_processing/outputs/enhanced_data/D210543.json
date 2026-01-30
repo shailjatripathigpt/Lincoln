@@ -1,0 +1,88 @@
+{
+  "document_id": "D210543",
+  "url": "https://papersofabrahamlincoln.org/documents/D210543",
+  "metadata": {
+    "date": "1849-06-18",
+    "authors": [
+      "Pollock, James (PA)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-18",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "law",
+      "you",
+      "any",
+      "your",
+      "james",
+      "pollock",
+      "abraham",
+      "lincoln",
+      "june",
+      "leave",
+      "littleleaver",
+      "see",
+      "thegeneral",
+      "land",
+      "office"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "James Pollock to Abraham Lincoln, 18 June 18491 As I \"would as leave\", and a littleleaver, see you in theGeneral Land Office, \"as any other Illinoian\" I send you the enclosed,2I recd. your letter yesterday & answer at once as you say no time is to be lost.3Go it strong! & do not permit any one tocheckmateyou, I hope to hear of your success,4 All well, I am now engaged in the dry details of the law, & expect to continue so,",
+    "paragraphs": [
+      "James Pollock to Abraham Lincoln, 18 June 18491 As I \"would as leave\", and a littleleaver, see you in theGeneral Land Office, \"as any other Illinoian\" I send you the enclosed,2I recd. your letter yesterday & answer at once as you say no time is to be lost.3Go it strong! & do not permit any one tocheckmateyou, I hope to hear of your success,4 All well, I am now engaged in the dry details of the law, & expect to continue so,"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+    ],
+    "footnotes": [
+      {
+        "id": "X99F42A54-6B25-4AAB-8B27-49556636A4E1",
+        "text": "1James Pollock wrote and signed this letter."
+      },
+      {
+        "id": "X9985FAF5-4644-4B6A-A0D5-4ACCBB5FEAC4",
+        "text": "2The enclosed letter Pollock refers to has not been located. Pollock references the\n                  competition over who would replaceRichard M. Youngas commissioner of the U.S. General Land Office. Originally, onlyJustin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner. Abraham Lincoln entered the competition after\n                  learning that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair."
+      },
+      {
+        "id": "X34D19F46-C5A3-421C-8847-DD8733C16FF8",
+        "text": "3Lincoln’s letter to Pollock has not been located. In early June 1849, Lincoln sent\n                  a series of letters to numerous people requesting letters in support of his candidacy\n                  for commissioner of the U.S. General Land Office. Presumably, he made a similar request\n                  of Pollock.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "XFA8FAE76-91F8-4566-8870-E8129888F8EB",
+        "text": "4Ultimately, neither Morrison, Edwards, nor Lincoln received the appointment; the job\n                  went to Butterfield instead.  See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James Pollock to Abraham Lincoln, 18 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "As I \"would as leave\", and a littleleaver, see you in theGeneral Land Office, \"as any other Illinoian\" I send you the enclosed,2I recd.[received] your letter yesterday & answer at once  as you say no time is to be lost.3Go it strong! & do not permit any one  tocheckmateyou, I hope to hear of your success,4"
+      },
+      {
+        "type": "paragraph",
+        "text": "All well, I am now  engaged in the dry details of the law, & expect to continue so,"
+      }
+    ],
+    "word_count": 82
+  },
+  "extraction_date": "2025-12-26 21:18:50",
+  "word_count": 82,
+  "processing": {
+    "cleaned": true,
+    "original_length": 439,
+    "cleaned_length": 426,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

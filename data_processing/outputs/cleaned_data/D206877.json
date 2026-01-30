@@ -1,0 +1,63 @@
+{
+  "document_id": "D206877",
+  "url": "https://papersofabrahamlincoln.org/documents/D206877",
+  "metadata": {
+    "date": "1850-03-06",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Stagecoach lines",
+      "Depositions",
+      "Actions and defenses"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Charles Ballance, 6 March 18501 I took MrKeedy's deposition for you yesterday– The substance of it is that he knows nothing of\n\nthe matter except from what yousaidanddidyourself— that it was last winter one or two years ago— that you were attending court\n\nhere, & were boarding and lodging at his house— that you expressed great desire to\n\nbe at home by a particular day to attend a sale of land, &. said you had paid your\n\nfare to go inFrink, Walker's & Cosline of stages— that in the morning you complained that the stage had left you,\n\nand expressed your determination to get off the next morning; that, to his knowledge\n\nyou got up before day, and went off & returned saying you had been to theAmerican Houseto see about it; that both he & you waited in momentary expectation of seeing the\n\nstage drive up, till after the time, when it was understood the stage had again left\n\nyou, of which you bitterly complained at the time– This is all he knows–2",
+    "paragraphs": [
+      "Abraham Lincoln to Charles Ballance, 6 March 18501 I took MrKeedy's deposition for you yesterday– The substance of it is that he knows nothing of",
+      "the matter except from what yousaidanddidyourself— that it was last winter one or two years ago— that you were attending court",
+      "here, & were boarding and lodging at his house— that you expressed great desire to",
+      "be at home by a particular day to attend a sale of land, &. said you had paid your",
+      "fare to go inFrink, Walker's & Cosline of stages— that in the morning you complained that the stage had left you,",
+      "and expressed your determination to get off the next morning; that, to his knowledge",
+      "you got up before day, and went off & returned saying you had been to theAmerican Houseto see about it; that both he & you waited in momentary expectation of seeing the",
+      "stage drive up, till after the time, when it was understood the stage had again left",
+      "you, of which you bitterly complained at the time– This is all he knows–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln took deposition for Ballance,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141583."
+    ],
+    "footnotes": [
+      {
+        "id": "X2B8AE1AE-9560-460C-9B05-7986A5F4EEAE",
+        "text": "1Abraham Lincoln wrote and signed this letter.  The original letter in Lincoln’s hand\n                  has not been located."
+      },
+      {
+        "id": "XB6DE4365-D8B1-4DF5-A840-53CD51376718",
+        "text": "2Charles Ballance may have been considering  legal action against Frink, Walker & Company,\n                  but ultimately, he filed no suit.Lincoln took deposition for Ballance,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141583."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Charles Ballance, 6 March 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "I took MrKeedy's deposition for you yesterday–  The substance of it is that he knows nothing  of\n               the matter except from what yousaidanddidyourself— that it was last winter one or two years ago— that you were attending court\n               here, & were boarding and lodging at his house— that you expressed great desire to\n               be at home by a particular day to attend a sale of land, &. said you had paid your\n               fare to go inFrink, Walker's & Cosline of stages— that in the morning you complained that the stage had left you,\n               and expressed your determination to get off the next morning; that, to his knowledge\n               you got up before day, and went off & returned saying you had been to theAmerican Houseto see about it; that both he & you waited in momentary expectation of seeing the\n               stage drive up, till after the time, when it was understood the stage had again left\n               you, of which you bitterly complained at the time–  This is all he knows–2"
+      }
+    ],
+    "word_count": 177
+  },
+  "extraction_date": "2025-12-26 21:22:21",
+  "word_count": 177,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1088,
+    "cleaned_length": 973,
+    "preserved_originality": true
+  }
+}

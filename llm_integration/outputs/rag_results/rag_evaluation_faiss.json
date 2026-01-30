@@ -1,0 +1,36 @@
+{
+  "total_queries": 3,
+  "average_relevance": 0.5592104527685379,
+  "average_documents_retrieved": 3.0,
+  "system_type": "FAISS_vector_search",
+  "index_size": 182,
+  "query_results": [
+    {
+      "query": "What was Lincoln's view on slavery?",
+      "relevance_score": 0.5961363911628723,
+      "documents_retrieved": 3,
+      "top_similarity": 0.6364865303039551,
+      "answer_preview": "Based on documents from Abraham Lincoln's collection, the relevant information indicates that From a..."
+    },
+    {
+      "query": "How did Lincoln describe the Union?",
+      "relevance_score": 0.5331483681996664,
+      "documents_retrieved": 3,
+      "top_similarity": 0.541068971157074,
+      "answer_preview": "Based on documents from Abraham Lincoln's collection, the relevant information indicates that From a..."
+    },
+    {
+      "query": "What were Lincoln's thoughts on democracy?",
+      "relevance_score": 0.5483465989430746,
+      "documents_retrieved": 3,
+      "top_similarity": 0.5535075068473816,
+      "answer_preview": "Based on documents from Abraham Lincoln's collection, the relevant information indicates that From a..."
+    }
+  ],
+  "recommendations": [
+    "Try different embedding models for comparison (e.g., 'paraphrase-MiniLM-L6-v2')",
+    "Implement query expansion for better retrieval",
+    "Add document filtering by date or type for specific queries",
+    "Consider fine-tuning the answer generation for different query types"
+  ]
+}

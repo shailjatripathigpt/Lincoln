@@ -1,0 +1,78 @@
+{
+  "document_id": "D239657",
+  "url": "https://papersofabrahamlincoln.org/documents/D239657",
+  "metadata": {
+    "date": "1846-11-10",
+    "authors": [
+      "Moffett, Thomas (Moffitt)"
+    ],
+    "keywords": [
+      "Probate law and practice"
+    ],
+    "type": "Letter",
+    "extracted_date": "1846-11-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "thomas",
+      "moffett",
+      "abraham",
+      "lincoln",
+      "november",
+      "gattonsnote",
+      "againstbridgeswas",
+      "filed",
+      "decr",
+      "first",
+      "only",
+      "pro",
+      "rata",
+      "made",
+      "april"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Thomas Moffett to Abraham Lincoln, 10 November 18461 GattonsNote againstBridgeswas filed Decr 2nd1844 and The first^& only^Pro rata made April 6th18462",
+    "paragraphs": [
+      "Thomas Moffett to Abraham Lincoln, 10 November 18461 GattonsNote againstBridgeswas filed Decr 2nd1844 and The first^& only^Pro rata made April 6th18462"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lockridge v. Bridges et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139832."
+    ],
+    "footnotes": [
+      {
+        "id": "X4DF00807-4C67-455B-8ECA-A7A8A686DFB9",
+        "text": "1Thomas Moffett wrote and signed the letter."
+      },
+      {
+        "id": "XF6612AC0-5B06-41DA-85B9-8A3AB2B59804",
+        "text": "2After James Bridges’ death, Charles Gatton retainedLincoln & Herndonand requested that the estate pay him first for interest he claimed in one tract\n                  of land. The court ordered the administrator to sell the land and pay Gatton.Lockridge v. Bridges et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139832."
+      },
+      {
+        "id": "X71D7F244-F68D-49F1-9AEC-7CA22360D978",
+        "text": "3The editors could not determine what the above abbreviations were meant to designate."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Thomas Moffett to Abraham Lincoln, 10 November 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "GattonsNote againstBridgeswas filed Decr[December] 2nd1844 and The first^& only^Pro rata made April 6th18462"
+      }
+    ],
+    "word_count": 21
+  },
+  "extraction_date": "2025-12-26 20:24:01",
+  "word_count": 21,
+  "processing": {
+    "cleaned": true,
+    "original_length": 161,
+    "cleaned_length": 151,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

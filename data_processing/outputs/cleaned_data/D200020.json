@@ -1,0 +1,97 @@
+{
+  "document_id": "D200020",
+  "url": "https://papersofabrahamlincoln.org/documents/D200020",
+  "metadata": {
+    "date": "1833-02-04",
+    "authors": [
+      "Allen, John (Allin)",
+      "Alley, Nelson",
+      "Armstrong, John (Jack)",
+      "Berry, William F.",
+      "Clark, Henry",
+      "Clark, William (of Sangamon Co., IL)",
+      "Clary, Royal A.",
+      "Clemment, James",
+      "Conyers, Bartlet",
+      "Cox, William",
+      "Crawford, Josiah",
+      "Crawford, William",
+      "Duff, Thomas",
+      "Duncan, Jason",
+      "Elmore, Johnston",
+      "Elmore, Peter",
+      "Graham, Jackson",
+      "Green, Aaron",
+      "Green, Bowling",
+      "Green, Elias",
+      "Guliher, Isaac",
+      "Gum, William",
+      "Hart, David",
+      "Harvel, Peter S.",
+      "Hill, Samuel",
+      "Hohimer, Henry",
+      "Hohimer, Joseph (Hohammer)",
+      "Hohimer, William",
+      "Jones, Elijah (Elij)",
+      "Kelso, John A.",
+      "Kinner, John",
+      "Lincoln, Abraham (President)",
+      "Lukins, Peter",
+      "Marshall, William (of Sangamon County, IL)",
+      "Nance, Eaton",
+      "Planck, Michael",
+      "Radford, Reuben",
+      "Rutledge, James",
+      "Taylor, John (of Springfield, IL)",
+      "Trent, Alexander",
+      "Trent, Henry",
+      "Trent, Martin S.",
+      "Trent, Williamson",
+      "Waddle, Martin",
+      "Wardroop, Sean",
+      "Warnsing, John W.",
+      "Webb, William",
+      "Williams, David",
+      "Wilson, George (Willson)",
+      "Witt, Jesse (Wit)",
+      "Wright, Richard"
+    ],
+    "keywords": [
+      "County officials and employees",
+      "Roads",
+      "Public works"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Bowling Green and Others to the Sangamon County Commissioners’ Court,\n\n4 February 18331",
+    "paragraphs": [
+      "Petition of Bowling Green and Others to the Sangamon County Commissioners’ Court,"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Minutes for 7 March 1833, Sangamon County Commissioners Court, Record Book D, Manuscripts\n                     Division, Abraham Lincoln Presidential Library and Museum, Springfield IL."
+    ],
+    "footnotes": [
+      {
+        "id": "X9E471C14-167C-4551-9C45-6E8E105E0DDF",
+        "text": "1Bowling Green authored this petition. Abraham Lincoln signed his own name.This particular petition may or may not have been presented to the Sangamon County\n                  Commissioners’ Court. On March 7, 1833, a petition very similar to this one was presented\n                  to them; in response, the court appointed Hugh Armstrong, James Watkins, and the county\n                  surveyor to view and locate the road. This petition bears docketing indicating Hugh\n                  Armstrong, William Green, and James Goldsby were appointed to survey the road.Minutes for 7 March 1833, Sangamon County Commissioners Court, Record Book D, Manuscripts\n                     Division, Abraham Lincoln Presidential Library and Museum, Springfield IL."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Bowling Green and Others to the Sangamon County Commissioners’ Court,\n               4 February 18331"
+      }
+    ],
+    "word_count": 15
+  },
+  "extraction_date": "2025-12-26 19:46:34",
+  "word_count": 15,
+  "processing": {
+    "cleaned": true,
+    "original_length": 113,
+    "cleaned_length": 99,
+    "preserved_originality": true
+  }
+}

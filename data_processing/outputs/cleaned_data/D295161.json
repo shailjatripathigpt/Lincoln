@@ -1,0 +1,50 @@
+{
+  "document_id": "D295161",
+  "url": "https://papersofabrahamlincoln.org/documents/D295161",
+  "metadata": {
+    "date": "1848-03-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military cadets",
+      "Military education"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Fragment of Abraham Lincoln to William L. Marcy, 10 March 18481",
+    "paragraphs": [
+      "Fragment of Abraham Lincoln to William L. Marcy, 10 March 18481"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "George W. Cullum,Biographical Register of the Officers and Graduates of the U.S. Military Academy, 3rd ed. (Boston and New York: Houghton, Mifflin, 1891); William Ward,List of Cadets Admitted into the United States Military Academy, West Point, N.Y.,\n                        From its Origin Till September 1, 1886(Washington, DC: Government Printing Office, 1887); Record Group 94, Entry 242, Microfilm\n                     2037, National Archives, Washington, DC; Abraham Lincoln to Simon Cameron."
+    ],
+    "footnotes": [
+      {
+        "id": "XBB553418-4FC1-48FF-863C-3257D65B7195",
+        "text": "1Text of letter is missing.  The editors had not been able to locate its whereabouts."
+      },
+      {
+        "id": "XCCD42EFF-E2EA-476F-A259-2A6CAFCA8461",
+        "text": "2John N. King was applying for an appointment to theU.S. Military Academy.  His application was number 166.  The National Archives lists King’s papers and\n                  application as missing.  The register of applicants listsAbraham Lincolnamong the recommenders for King.  King is not among the list of cadets admitted to\n                  the academy or among the list of academy graduates.George W. Cullum,Biographical Register of the Officers and Graduates of the U.S. Military Academy, 3rd ed. (Boston and New York: Houghton, Mifflin, 1891); William Ward,List of Cadets Admitted into the United States Military Academy, West Point, N.Y.,\n                        From its Origin Till September 1, 1886(Washington, DC: Government Printing Office, 1887); Record Group 94, Entry 242, Microfilm\n                     2037, National Archives, Washington, DC; Abraham Lincoln to Simon Cameron."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fragment of Abraham Lincoln to William L. Marcy, 10 March 18481"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 20:28:06",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 63,
+    "cleaned_length": 63,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "document_id": "D200490",
+  "url": "https://papersofabrahamlincoln.org/documents/D200490",
+  "metadata": {
+    "date": "1848-05-25",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Expenditures, Public",
+      "Legislators",
+      "Presidents--Election"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "war",
+      "you",
+      "your",
+      "send",
+      "when",
+      "hope",
+      "not",
+      "abraham",
+      "lincoln",
+      "silas",
+      "noble",
+      "letter",
+      "just",
+      "received",
+      "place"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Silas Noble, 25 May 1848 Your letter of the 16th is just received.1I will place your name on my book, and send you such documents as you desire, when\n\nI can get them. The entire war correspondence is in course of printing, and will be\n\nthe best electioneering document, when completed. I will then send you a copy of\n\nit. You ask howTurnerstands. I answer, moderate—fair—about an average of new members. I have procured a couple of copies ofStewart’s speech and sent you,2and he and I join cordially in the hope, that your hope ofMcLean’s nomination may be disappointed—not that we wish you disappointedin the abstract, nor that we have anything against Judge McLean; but because we are entirely sure\n\nhe is not “a winning card.”3",
+    "paragraphs": [
+      "Abraham Lincoln to Silas Noble, 25 May 1848 Your letter of the 16th is just received.1I will place your name on my book, and send you such documents as you desire, when",
+      "I can get them. The entire war correspondence is in course of printing, and will be",
+      "the best electioneering document, when completed. I will then send you a copy of",
+      "it. You ask howTurnerstands. I answer, moderate—fair—about an average of new members. I have procured a couple of copies ofStewart’s speech and sent you,2and he and I join cordially in the hope, that your hope ofMcLean’s nomination may be disappointed—not that we wish you disappointedin the abstract, nor that we have anything against Judge McLean; but because we are entirely sure",
+      "he is not “a winning card.”3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“Speech of Mr. Stewart, of Pennsylvania, on the Three Million Appropriation Bill,\n                     and the Mexican War.  Delivered in the House of Representatives of the U.S., Feb.\n                     13, 1847” (Washington, DC: J & G. S. Gideon, 1847);Cong. Globe, 29th Cong., 2nd Sess., Appendix, 371-74 (1847); “An Act Making Further Appropriation\n                     to Bring the Existing War with Mexico to a Speedy and Honorable Conclusion,” 3 March\n                     1847,Statutes at Large of the United States9 (1862):174.",
+      "Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 261; Timothy L. Hall,Supreme Court Justices: A Biographical Dictionary(New York: Facts on File, 2001), 81; Richard L. Aynes, \"McLean, John,\"American National Biography, ed. by John A. Garraty and Mark C. Carnes \n                     (New York: Oxford University Press, 1999), 15:143."
+    ],
+    "footnotes": [
+      {
+        "id": "XB8110254-330C-41D6-9D0C-AE09306A0EF7",
+        "text": "1Silas Noble’s letter of May 16 has not been located."
+      },
+      {
+        "id": "X2A691E6A-2558-47B7-8458-4866065256FA",
+        "text": "2Lincoln was most likely referencing Andrew Stewart’s speech delivered in theU.S. House of Representativeson February 13, 1847, in the midst of debate on the so-called Three Million Dollar\n                  Bill and negotiations to end theMexican War.“Speech of Mr. Stewart, of Pennsylvania, on the Three Million Appropriation Bill,\n                     and the Mexican War.  Delivered in the House of Representatives of the U.S., Feb.\n                     13, 1847” (Washington, DC: J & G. S. Gideon, 1847);Cong. Globe, 29th Cong., 2nd Sess., Appendix, 371-74 (1847); “An Act Making Further Appropriation\n                     to Bring the Existing War with Mexico to a Speedy and Honorable Conclusion,” 3 March\n                     1847,Statutes at Large of the United States9 (1862):174."
+      },
+      {
+        "id": "XA37B949B-E63D-417A-ADDD-C3611151C3D0",
+        "text": "3Lincoln references John McLean’s hopes of receiving theWhig Party’s nomination for president in the1848 federal election.  Movement in favor of McLean began as early as 1845.Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 261; Timothy L. Hall,Supreme Court Justices: A Biographical Dictionary(New York: Facts on File, 2001), 81; Richard L. Aynes, \"McLean, John,\"American National Biography, ed. by John A. Garraty and Mark C. Carnes \n                     (New York: Oxford University Press, 1999), 15:143."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Silas Noble, 25 May 1848"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 16th is just received.1I will place your name on my book, and send you such documents as you desire, when\n               I can get them. The entire war correspondence is in course of printing, and will be\n               the best electioneering document, when completed.  I will then send you a copy of\n               it."
+      },
+      {
+        "type": "paragraph",
+        "text": "You ask howTurnerstands. I answer, moderate—fair—about an average of new members."
+      },
+      {
+        "type": "paragraph",
+        "text": "I have procured a couple of copies ofStewart’s speech and sent you,2and he and I join cordially in the hope, that your hope ofMcLean’s nomination may be disappointed—not that we wish you disappointedin the abstract, nor that we have anything against Judge McLean; but because we are entirely sure\n               he is not “a winning card.”3"
+      }
+    ],
+    "word_count": 129
+  },
+  "extraction_date": "2025-12-26 20:29:35",
+  "word_count": 129,
+  "processing": {
+    "cleaned": true,
+    "original_length": 806,
+    "cleaned_length": 749,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "D229220",
+  "url": "https://papersofabrahamlincoln.org/documents/D229220",
+  "metadata": {
+    "date": "1839-11-13",
+    "authors": [
+      "Rutledge, David H."
+    ],
+    "keywords": [
+      "Divorce",
+      "Adultery",
+      "Elopement"
+    ],
+    "type": "Bill for divorce"
+  },
+  "content": {
+    "full_text": "Bill for Divorce inClary v. Clary, 13 November 18391 [Table 1]",
+    "paragraphs": [
+      "Bill for Divorce inClary v. Clary, 13 November 18391",
+      "[Table 1: State of Illinois | } Menard county | SS[Scilicet]...]"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/Glossary.html.",
+      "“An Act concerning Divorces,” 31 January 1827,Revised Laws of Illinois(1827),  181-83.",
+      "Clary v. Clary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141602."
+    ],
+    "footnotes": [
+      {
+        "id": "X4CFA85D5-291A-4241-A51F-8C3390B4F96A",
+        "text": "1Abraham Lincoln wrote the address and text of the bill of divorce.  Rutledge signed\n                  his own name.  Lincoln also penned the text of the affidavit endorsed by Royal Clary."
+      },
+      {
+        "id": "XE422D59A-08B9-4251-8BC7-325ED132A739",
+        "text": "2Chancery, or equity, was a division of the law devoted to settling issues for which\n                  there was no remedy in the common law. It was the division of law that governed divorce\n                  proceedings.Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/Glossary.html."
+      },
+      {
+        "id": "X583867B1-1F77-4062-B1B0-3189A3E0D0FB",
+        "text": "3In Illinois at this time,  impotence, adultery, willful desertion for two or more\n                  years, extreme and repeated cruelty for two or more years, and habitual drunkenness\n                  for two or more years were the allowable grounds for divorce. Given that Sally had\n                  been gone from home only a couple of months when Royal filed for divorce, the adultery\n                  charge was the legally important ground in this case.“An Act concerning Divorces,” 31 January 1827,Revised Laws of Illinois(1827),  181-83."
+      },
+      {
+        "id": "XF4113B0A-A038-4069-A279-00742D598E5A",
+        "text": "4Royal Clary had retained Abraham Lincoln and David H. Rutledge, two of his friends,\n                  to sue his wife for divorce in Menard County Circuit Court.  Sally did not contest\n                  the case, and the court granted the divorce by default on the grounds of adultery\n                  in June 1840.Clary v. Clary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141602."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Bill for Divorce inClary v. Clary, 13 November 18391"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "State of Illinois | }",
+          "Menard county | SS[Scilicet]"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:09:44",
+  "word_count": 11
+}

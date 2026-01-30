@@ -1,0 +1,75 @@
+{
+  "document_id": "D234263",
+  "url": "https://papersofabrahamlincoln.org/documents/D234263",
+  "metadata": {
+    "date": "1838-06-14",
+    "authors": [
+      "Blankenship, Eli C.",
+      "Canedy, Peleg C.",
+      "Edwards, Ninian W.",
+      "Irwin, William F.",
+      "Pasfield, George",
+      "Rankin, Nathaniel A.",
+      "Spear, David",
+      "Thayer, Joseph",
+      "Tinsley, Seth M.",
+      "Vaughn, Foley",
+      "Williams, John (Springfield, IL)",
+      "Yates, Henry"
+    ],
+    "keywords": [
+      "Roads--Finance",
+      "Local taxation"
+    ],
+    "type": "Petition",
+    "extracted_date": "1838",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "petition",
+      "george",
+      "pasfield",
+      "others",
+      "town",
+      "springfield",
+      "illinois",
+      "june"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Petition of George Pasfield and Others to the Town of Springfield, Illinois, [14 June\n\n1838]1",
+    "paragraphs": [
+      "Petition of George Pasfield and Others to the Town of Springfield, Illinois, [14 June"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Springfield Board of Trustees Minutes, 9 August 1839, 25, Illinois State Archives,\n                     Springfield, IL;An Act to Incorporate the Town of Lawrenceville;An Act to Incorporate the Town of Carlinville;History of Sangamon County, Illinois(Chicago: Inter-State, 1881), 565."
+    ],
+    "footnotes": [
+      {
+        "id": "X7A742236-7BBC-44A9-8001-B1866B878152",
+        "text": "1Abraham Lincoln wrote the petition."
+      },
+      {
+        "id": "X9502C886-8448-46DC-9A84-D991EB743193",
+        "text": "2On August 9, 1839, the Board of Trustees, with Lincoln acting as president pro tem,\n                  approved this petition.TheIllinois Incorporation Act of 1831, under which Springfield residents incorporated the town of Springfield on April\n                  2, 1832, did not have a specific clause dedicated to petitioning for a special tax\n                  upon owners of lots for grading or paving sidewalks and streets, but the charters\n                  forLawrenceville,Carlinville, and other towns included specific sections to that effect.Springfield Board of Trustees Minutes, 9 August 1839, 25, Illinois State Archives,\n                     Springfield, IL;An Act to Incorporate the Town of Lawrenceville;An Act to Incorporate the Town of Carlinville;History of Sangamon County, Illinois(Chicago: Inter-State, 1881), 565."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of George Pasfield and Others to the Town of Springfield, Illinois, [14 June\n               1838]1"
+      }
+    ],
+    "word_count": 15
+  },
+  "extraction_date": "2025-12-26 20:07:44",
+  "word_count": 15,
+  "processing": {
+    "cleaned": true,
+    "original_length": 107,
+    "cleaned_length": 93,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

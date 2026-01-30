@@ -1,0 +1,64 @@
+{
+  "document_id": "D292436",
+  "url": "https://papersofabrahamlincoln.org/documents/D292436",
+  "metadata": {
+    "date": "1856-08-11",
+    "authors": [
+      "Gookins, Samuel B."
+    ],
+    "keywords": [
+      "Political campaigns",
+      "Governors--Election"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Samuel B. Gookins to Abraham Lincoln, 11 August 18561 Our people are exceedingly desirous to have you attend and make a speech on the Political\n\nIssue of the times on the 3rdSept.Judge Mortonour candidate for Governor will be here that day and the afternoon and evening will\n\nbe occupied in speaking. A large crowd is expected. Come if you can possibly do so,\n\nand write me beforehand.2Friends are prepared to pay Expenses, etc. Besides the call made by our fellow citizens I would add my own earnest persuasions\n\ndid I not know that the call which thecountrymakes upon every man, to do his duty, has already presented itself to you with infinitely\n\nmore force than I could do and I cannot doubt it will be available in this instance,\n\nunless circumstances beyond your control shall decide otherwise.",
+    "paragraphs": [
+      "Samuel B. Gookins to Abraham Lincoln, 11 August 18561 Our people are exceedingly desirous to have you attend and make a speech on the Political",
+      "Issue of the times on the 3rdSept.Judge Mortonour candidate for Governor will be here that day and the afternoon and evening will",
+      "be occupied in speaking. A large crowd is expected. Come if you can possibly do so,",
+      "and write me beforehand.2Friends are prepared to pay Expenses, etc. Besides the call made by our fellow citizens I would add my own earnest persuasions",
+      "did I not know that the call which thecountrymakes upon every man, to do his duty, has already presented itself to you with infinitely",
+      "more force than I could do and I cannot doubt it will be available in this instance,",
+      "unless circumstances beyond your control shall decide otherwise."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Ed Runden, “Oliver P. Morton,”The Governors of Indiana, ed. by Linda C. Gugin and James E. St. Clair (Indianapolis: Indiana Historical Society\n                     Press, 2006), 141; William Dudley Foulke,Life of Oliver P. Morton Including his Important Speeches(Indianapolis, IN and Kansas City, MO: Bowen-Merrill, 1899), 1:49-57;The Evansville Daily Journal(IN), 2 September 1856, 3:1;The Wabash Express(Terre Haute, IN), 10 September 1856, 2:5;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, September 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1856&month=9; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33."
+    ],
+    "footnotes": [
+      {
+        "id": "X653EDD3E-6501-4750-93FC-1F53F2BD9A0B",
+        "text": "1This letter is attributed to Samuel B. Gookins, but no manuscript version in his hand\n                  has been located."
+      },
+      {
+        "id": "X28014222-710D-4C5A-A7B7-32D30268DE13",
+        "text": "2No response to this letter by Abraham Lincoln has been located.Oliver P. Morton was running for governor ofIndianaas the candidate of the People’s Party, ananti-Nebraskafusion organization that was the precursor to theRepublican Partyin that state. After some communication and scheduling difficulties,  Morton and\n                  hisDemocraticrival,Ashbel P. Willard, had agreed to a series of debates, including a joint appearance at Terre Haute on\n                  September 3, 1856.  This proposed Terre Haute meeting was one of several such appearances\n                  from which they later mutually withdrew. Morton appeared by himself in Terre Haute\n                  on September 9, with a plan to speak at a mass meeting inVigo Countysoon thereafter. Morton ultimately lost the election to Willard by about six thousand\n                  votes.While Lincoln delivered aspeechinKalamazoo, Michiganin August 1856, he did not visit Indiana or otherwise leave the state ofIllinoisin September 1856, although from July onwards, he gave over fifty speeches across\n                  Illinois in support of thepresidential campaignofJohn C. Fremontand to rally the disparate elements of the emerging Republican Party. See the1856 Federal Election.Ed Runden, “Oliver P. Morton,”The Governors of Indiana, ed. by Linda C. Gugin and James E. St. Clair (Indianapolis: Indiana Historical Society\n                     Press, 2006), 141; William Dudley Foulke,Life of Oliver P. Morton Including his Important Speeches(Indianapolis, IN and Kansas City, MO: Bowen-Merrill, 1899), 1:49-57;The Evansville Daily Journal(IN), 2 September 1856, 3:1;The Wabash Express(Terre Haute, IN), 10 September 1856, 2:5;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, September 1856,http://www.thelincolnlog.org/Results.aspx?type=CalendarMonth&year=1856&month=9; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Samuel B. Gookins to Abraham Lincoln, 11 August 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "Our people are exceedingly desirous to have you attend and make a speech on the Political\n               Issue of the times on the 3rdSept.[September]Judge Mortonour candidate for Governor will be here that day and the afternoon and evening will\n               be occupied in speaking. A large crowd is expected. Come if you can possibly do so,\n               and write me beforehand.2Friends are prepared to pay Expenses, etc."
+      },
+      {
+        "type": "paragraph",
+        "text": "Besides the call made by our fellow citizens I would add my own earnest persuasions\n               did I not know that the call which thecountrymakes upon every man, to do his duty, has already presented itself to you with infinitely\n               more force than I could do and I cannot doubt it will be available in this instance,\n               unless circumstances beyond your control shall decide otherwise."
+      }
+    ],
+    "word_count": 137
+  },
+  "extraction_date": "2025-12-26 21:41:30",
+  "word_count": 137,
+  "processing": {
+    "cleaned": true,
+    "original_length": 895,
+    "cleaned_length": 800,
+    "preserved_originality": true
+  }
+}

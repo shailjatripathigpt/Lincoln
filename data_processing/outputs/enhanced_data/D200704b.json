@@ -1,0 +1,75 @@
+{
+  "document_id": "D200704b",
+  "url": "https://papersofabrahamlincoln.org/documents/D200704b",
+  "metadata": {
+    "date": "1852-01-05",
+    "authors": [
+      "Blackwell, Robert S.",
+      "Edmunds, George Jr.",
+      "Ferguson, William I.",
+      "Harris, Thomas L.",
+      "Herndon, William H.",
+      "Lincoln, Abraham",
+      "Peck, Ebenezer",
+      "Trumbull, Lyman",
+      "Williams, Archibald"
+    ],
+    "keywords": [
+      "Hungarians",
+      "Human rights"
+    ],
+    "type": "Letter",
+    "extracted_date": "1852-01-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "others",
+      "editor",
+      "illinois",
+      "daily",
+      "kossuthmeeting"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln and Others to the Editor of the Illinois Daily Journal1 KossuthMeeting,",
+    "paragraphs": [
+      "Abraham Lincoln and Others to the Editor of the Illinois Daily Journal1 KossuthMeeting,"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sándor Szilassy, “America and the Hungarian Revolution of 1848-49,”The Slavonic and East European Review44 (January 1966), 180; United States Department of State, “America’s Interest in\n                     Hungarian Struggle for Independence,”Documents and State Papers1 (August 1848), 332-33; Elbert B. Smith,The Presidencies of Zachary Taylor and Millard Fillmore(Lawrence: University Press of Kansas, 1988), 231-33; Betsy Erkkila, “Lincoln in\n                     International Memory,”The Cambridge Companion to Abraham Lincoln, ed. by Shirley Samuels (Cambridge: Cambridge University Press, 2012), 158; Proceedings of Public Meeting regarding Hungarian Freedom; Proceedings of Public Meeting regarding Hungarian Freedom."
+    ],
+    "footnotes": [
+      {
+        "id": "XE38FDB1F-EBD1-48EF-B8F6-E8B0AFA98FAC",
+        "text": "1A handwritten version of this call is not extant."
+      },
+      {
+        "id": "X6656A95E-423F-44F7-8D3D-031C7F34B83D",
+        "text": "2TheIllinois State Registerprinted an identicalcallin its issue on January 6, 1852.  The only major variation between the two printings\n                  is that the call was dated January 5 in theRegister.TheHungarian Revolution of 1848-49had received extensive coverage in the American press, and Americans followedHungary’s revolution against the Austrian Hapsburgs with interest.  Americans interpreted\n                  the Hungarian struggle  and other revolutionary uprisings convulsingEuropeas confirmation of America’s own experiment with democracy and conviction  that the\n                  ideals of liberty and democracy would soon transform Europe.  Finding parallels between\n                  the Hungarian and the American revolutions, the American public and press sympathized\n                  withLouis Kossuthand his fellow revolutionaries.  Sympathy for Kossuth and his followers only increased\n                  afterAustria, with Russian military assistance, crushed the Hungarian uprising.  In September\n                  1849, Abraham Lincoln helped draft a series of resolutions adopted by ameetingof Springfield citizens in support of Hungarian freedom. See theHungarian Revolution of 1848-49In December 1851, Kossuth began a tour of the United States, seeking possible U.S.\n                  intervention in the Hungarian revolution.  In the public meeting held on January 8,\n                  Lincoln proposed resolutions declaring America’s position of non-intervention a “sacred\n                  principle of the international law,” while affirming the right of the Hungarians,\n                  Irish, and other subject peoples “to revolutionize” against their existing forms of\n                  government and to seek national independence.On January 26, Lincoln was among the Springfield citizens who signed a letter calling for a meeting to take measures to invite Kossuth to visit Springfield on\n                  his journey fromIndianapolis, IndianatoSt. Louis, Missouri.Sándor Szilassy, “America and the Hungarian Revolution of 1848-49,”The Slavonic and East European Review44 (January 1966), 180; United States Department of State, “America’s Interest in\n                     Hungarian Struggle for Independence,”Documents and State Papers1 (August 1848), 332-33; Elbert B. Smith,The Presidencies of Zachary Taylor and Millard Fillmore(Lawrence: University Press of Kansas, 1988), 231-33; Betsy Erkkila, “Lincoln in\n                     International Memory,”The Cambridge Companion to Abraham Lincoln, ed. by Shirley Samuels (Cambridge: Cambridge University Press, 2012), 158; Proceedings of Public Meeting regarding Hungarian Freedom; Proceedings of Public Meeting regarding Hungarian Freedom."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln and Others to the Editor of the Illinois Daily Journal1"
+      },
+      {
+        "type": "paragraph",
+        "text": "KossuthMeeting,"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 21:25:57",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 87,
+    "cleaned_length": 87,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

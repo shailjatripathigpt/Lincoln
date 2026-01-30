@@ -1,0 +1,98 @@
+{
+  "document_id": "D208924",
+  "url": "https://papersofabrahamlincoln.org/documents/D208924",
+  "metadata": {
+    "date": "1849-02-12",
+    "authors": [],
+    "keywords": [
+      "Finance, Personal"
+    ],
+    "type": "Check",
+    "extracted_date": "1849",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "pay",
+      "order",
+      "check",
+      "unknown",
+      "abraham",
+      "lincoln",
+      "february",
+      "ofjoseph",
+      "berry",
+      "ofwinchester",
+      "ills",
+      "corcoran",
+      "riggs",
+      "tohon",
+      "lincolnor"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Check of Unknown to Abraham Lincoln, 12 February 1849 Pay to the order ofJoseph H. Berry, ofWinchester, Ills– Corcoran & Riggs No9891WashingtonFeb 121849 Pay toHon:A. Lincolnor order One Hundred & Five/100Dollars Bank of the State of MissouriSaint Louis Toppan, Carpenter & CoPhilad",
+    "paragraphs": [
+      "Check of Unknown to Abraham Lincoln, 12 February 1849 Pay to the order ofJoseph H. Berry, ofWinchester, Ills– Corcoran & Riggs No9891WashingtonFeb 121849 Pay toHon:A. Lincolnor order One Hundred & Five/100Dollars Bank of the State of MissouriSaint Louis Toppan, Carpenter & CoPhilad"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X2350BCBE-1F90-4097-87CE-E1158A7613CE",
+        "text": "1Abraham Lincoln wrote and signed this endorsement."
+      },
+      {
+        "id": "XBCB8B59C-9A8A-4316-80EE-103646F59160",
+        "text": "2Joseph H. Berry wrote and signed this endorsement."
+      },
+      {
+        "id": "XC6713DF8-E2B5-4B78-BF2D-7968ABB57946",
+        "text": "3“Loker Renicke Co” and “Ellis & Maton” could not be positively identified."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Unknown to Abraham Lincoln, 12 February 1849"
+      },
+      {
+        "type": "description",
+        "text": "Pay to the order ofJoseph H. Berry, ofWinchester, Ills–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Corcoran & Riggs"
+      },
+      {
+        "type": "paragraph",
+        "text": "No9891WashingtonFeb 121849"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pay toHon:A. Lincolnor order"
+      },
+      {
+        "type": "paragraph",
+        "text": "One Hundred & Five/100Dollars"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bank of the State of MissouriSaint Louis"
+      },
+      {
+        "type": "paragraph",
+        "text": "Toppan, Carpenter & CoPhilad"
+      }
+    ],
+    "word_count": 42
+  },
+  "extraction_date": "2025-12-26 20:34:46",
+  "word_count": 42,
+  "processing": {
+    "cleaned": true,
+    "original_length": 282,
+    "cleaned_length": 282,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

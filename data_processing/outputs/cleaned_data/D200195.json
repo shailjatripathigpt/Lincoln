@@ -1,0 +1,69 @@
+{
+  "document_id": "D200195",
+  "url": "https://papersofabrahamlincoln.org/documents/D200195",
+  "metadata": {
+    "date": "1839-12-27",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Municipal corporations",
+      "Real property"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "A Bill to Vacate Part of the Town Plat of Bennett’s Addition to the Town of Petersburg,\n\n1 A Bill for an act to vacate a part of the town plat oftheBennett's Addition to the town of Petersburg— A Bill for an act to vacate a part of the town plat ofBennett's addition to the town ofthePetersburg:2 Be it enacted by the people of the state ofIllinoisrepresented in theGeneral AssemblythatBlocksnumberthe town plat for Blocks numbered two, three, four, and five\n\nin Bennett's Addition to the town of Petersburg, be vacated;Providedthat this act shall be null and void as against any individual proprietorsor proprietors,of(if any such there be) of the part of said town hereby proposed to be vacated—3",
+    "paragraphs": [
+      "A Bill to Vacate Part of the Town Plat of Bennett’s Addition to the Town of Petersburg,",
+      "1 A Bill for an act to vacate a part of the town plat oftheBennett's Addition to the town of Petersburg— A Bill for an act to vacate a part of the town plat ofBennett's addition to the town ofthePetersburg:2 Be it enacted by the people of the state ofIllinoisrepresented in theGeneral AssemblythatBlocksnumberthe town plat for Blocks numbered two, three, four, and five",
+      "in Bennett's Addition to the town of Petersburg, be vacated;Providedthat this act shall be null and void as against any individual proprietorsor proprietors,of(if any such there be) of the part of said town hereby proposed to be vacated—3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess.,  44, 92, 114, 161, 306; Illinois SenateJournal. 1839. 11th G. A., special sess., 109-10, 216-17.",
+      "An Act to Vacate Town Plats; Alasdair Roberts,America’s First Great Depression: Economic Crisis and Political Disorder after the\n                        Panic of 1837(Ithaca, NY: Cornell University Press, 2012), 19, 33, 38; James E. Davis,Frontier Illinois(Bloomington: Indiana University Press, 1998), 210-12; Robert P. Howard,Illinois: A History of the Prairie State(Grand Rapids, MI: William B. Eerdmans, 1972), 196."
+    ],
+    "footnotes": [
+      {
+        "id": "X62E8E4C8-8BE1-4080-8228-2AFC7A627BD8",
+        "text": "1Abraham Lincoln wrote the body of the bill and the title on page two."
+      },
+      {
+        "id": "X6B4E382C-FF95-4B09-9DEE-C4262A8BE9DA",
+        "text": "2On  December 17, 1839,Abraham Lincolnin the House of Representatives presented thepetitionof John Bennett, requesting vacation of the plat of part of Bennett’s addition in\n                  Petersburg.  The House referred the petition to a three-person select committee that\n                  included Lincoln. In response to this petition,   Lincoln of the aforesaid select\n                  committee introduced HB 58 in the House on December 27.  The House passed theengrossed billon January 13, 1840.  On January 30, theSenateamended the bill by an additional section relating to tax assessment inGreeneandJerseycounties.  The Senate passed the bill as amended, amending the title by adding the\n                  words “and for the assessment and collection of taxes in certain counties.”  The Senate\n                  informed the House of the bill’s passage and amendment, but the House  did not take\n                  up the Senate amendments.Illinois HouseJournal. 1839. 11th G. A., special sess.,  44, 92, 114, 161, 306; Illinois SenateJournal. 1839. 11th G. A., special sess., 109-10, 216-17."
+      },
+      {
+        "id": "XEE941F87-E9A1-4996-ABC0-8D96E685E230",
+        "text": "3Illinois experienced a time of intense land speculation in the 1830s that resulted\n                  in a number of  “paper towns,” settlements that were platted and available for sale\n                  but where few or no people actually lived. Many of the proprietors of these settlements\n                  abandoned them during and after thePanic of 1837. As a result, the General Assembly received a large number of petitions for vacation\n                  during their sessions from 1838 to 1841. In 1841, the legislature passed anactsetting parameters for proprietors to vacate town plats themselves. Vacating a plat\n                  gave owners greater flexibility in the use, fencing, and sale of the property.An Act to Vacate Town Plats; Alasdair Roberts,America’s First Great Depression: Economic Crisis and Political Disorder after the\n                        Panic of 1837(Ithaca, NY: Cornell University Press, 2012), 19, 33, 38; James E. Davis,Frontier Illinois(Bloomington: Indiana University Press, 1998), 210-12; Robert P. Howard,Illinois: A History of the Prairie State(Grand Rapids, MI: William B. Eerdmans, 1972), 196."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "A Bill to Vacate Part of the Town Plat of Bennett’s Addition to the Town of Petersburg,\n               [27 December 1839]1"
+      },
+      {
+        "type": "description",
+        "text": "A Bill for an act to vacate a part of the town plat oftheBennett's Addition to the town of Petersburg—"
+      },
+      {
+        "type": "paragraph",
+        "text": "A Bill for an act to vacate a part of the town plat ofBennett's addition to the town ofthePetersburg:2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Be it enacted by the people of the state ofIllinoisrepresented in theGeneral AssemblythatBlocksnumberthe town plat for Blocks numbered two, three, four, and five\n               in Bennett's Addition to the town of Petersburg, be vacated;Providedthat this act shall be null and void as against any individual proprietorsor proprietors,of(if any such there be) of the part of said town hereby proposed to be vacated—3"
+      }
+    ],
+    "word_count": 118
+  },
+  "extraction_date": "2025-12-26 20:10:45",
+  "word_count": 120,
+  "processing": {
+    "cleaned": true,
+    "original_length": 744,
+    "cleaned_length": 698,
+    "preserved_originality": true
+  }
+}

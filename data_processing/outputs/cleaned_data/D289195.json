@@ -1,0 +1,52 @@
+{
+  "document_id": "D289195",
+  "url": "https://papersofabrahamlincoln.org/documents/D289195",
+  "metadata": {
+    "date": "1840-03-01",
+    "authors": [
+      "Rigdon, Stephen"
+    ],
+    "keywords": [
+      "Presidents--Election",
+      "Newspapers--Political aspects",
+      "Political parties",
+      "Presidential candidates",
+      "Editorials--Political aspects"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Stephen Rigdon to the Editors of The Old Soldier, 1 March 1840 Sometime since I obtained ten subscribers for the Old Soldier, and the postmaster\n\natMariettaforwarded the money and the names; but the papers have not been received. - -\n\n- I am an old, frail man—had determined not to meddle in politics any more; but I\n\nserved underGen. Harrisonin 1812 and '13; marched with the first troops that marched to whereFort Meigswas built, and assisted in erecting the same; and I know the General to be a man\n\nof undoubted bravery and military skill, in whom unlimited confidence was placed,\n\nby both officers and men, and if my life is spared I will exert all the influence\n\nI have to aid the election of the General. I could tell many anecdotes of thelate war, of which I was an eye witness. I reserve them for the proper time.",
+    "paragraphs": [
+      "Stephen Rigdon to the Editors of The Old Soldier, 1 March 1840 Sometime since I obtained ten subscribers for the Old Soldier, and the postmaster",
+      "atMariettaforwarded the money and the names; but the papers have not been received. - -",
+      "- I am an old, frail man—had determined not to meddle in politics any more; but I",
+      "served underGen. Harrisonin 1812 and '13; marched with the first troops that marched to whereFort Meigswas built, and assisted in erecting the same; and I know the General to be a man",
+      "of undoubted bravery and military skill, in whom unlimited confidence was placed,",
+      "by both officers and men, and if my life is spared I will exert all the influence",
+      "I have to aid the election of the General. I could tell many anecdotes of thelate war, of which I was an eye witness. I reserve them for the proper time."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Stephen Rigdon to the Editors of The Old Soldier, 1 March 1840"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sometime since I obtained ten subscribers for the Old Soldier, and the postmaster\n               atMariettaforwarded the money and the names; but the papers have not been received.   -  -\n               -  I am an old, frail man—had determined not to meddle in politics any more; but I\n               served underGen. Harrisonin 1812 and '13[1813]; marched with the first troops that marched to whereFort Meigswas built, and assisted in erecting the same; and I know the General to be a man\n               of undoubted bravery and military skill, in whom unlimited confidence was placed,\n               by both officers and men, and if my life is spared I will exert all the influence\n               I have to aid the election of the General.  I could tell many anecdotes of thelate war, of which I was an eye witness.  I reserve them for the proper time."
+      }
+    ],
+    "word_count": 149
+  },
+  "extraction_date": "2025-12-26 20:12:13",
+  "word_count": 149,
+  "processing": {
+    "cleaned": true,
+    "original_length": 918,
+    "cleaned_length": 822,
+    "preserved_originality": true
+  }
+}

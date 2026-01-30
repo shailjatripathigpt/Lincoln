@@ -1,0 +1,61 @@
+{
+  "document_id": "D200016",
+  "url": "https://papersofabrahamlincoln.org/documents/D200016",
+  "metadata": {
+    "date": "1833-XX-XX",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveying",
+      "Invoices"
+    ],
+    "type": "Bill",
+    "extracted_date": "1833-XX-XX",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "bill",
+      "abraham",
+      "lincoln",
+      "sangamon",
+      "county"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Bill of Abraham Lincoln to Sangamon County, 1",
+    "paragraphs": [
+      "Bill of Abraham Lincoln to Sangamon County, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: Johns Hopkins University Press, 2008), 1:78-79."
+    ],
+    "footnotes": [
+      {
+        "id": "XDECE7BC8-7CBF-44DF-A8FA-85E19044CEBB",
+        "text": "1This document exists only as a transcription taken from a transcription in an auction\n                  catalog from 1914. Abraham Lincoln likely presented the bill to the Sangamon County\n                  Commissioners’ Court for payment."
+      },
+      {
+        "id": "X17CCA819-7A76-4FB7-8B9C-40314510E6A7",
+        "text": "2Lincoln served as an assistant to bothJohn Calhounand thenThomas M. Nealeduring their survey of Sangamon County from 1833 to 1835.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: Johns Hopkins University Press, 2008), 1:78-79."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Bill of Abraham Lincoln to Sangamon County, [1833]1"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 19:46:36",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 51,
+    "cleaned_length": 45,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "D200540",
+  "url": "https://papersofabrahamlincoln.org/documents/D200540",
+  "metadata": {
+    "date": "1849-01-05",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Autographs"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Casper U. Schlater, 5 January 18491 Your note, requesting my \"signature with a sentiment\" was received, and should have\n               been answered long since, but that it was mislaid–3I am not a very sentimental man; and the best sentiment I can think of is, that if\n               you collect thenames^signatures^of all persons who are no less distinguished than I, you will have a very undistinguishing\n               mass of names–",
+    "paragraphs": [
+      "Abraham Lincoln to Casper U. Schlater, 5 January 18491",
+      "Your note, requesting my \"signature with a sentiment\" was received, and should have\n               been answered long since, but that it was mislaid–3I am not a very sentimental man; and the best sentiment I can think of is, that if\n               you collect thenames^signatures^of all persons who are no less distinguished than I, you will have a very undistinguishing\n               mass of names–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:19;McElroy’s Philadelphia Directory, for 1853(Philadephia: Edward C. and John Biddle, 1853), 363;McElroy’s Philadelphia Directory, for 1854(Philadephia: Edward C. and John Biddle, 1854), 463."
+    ],
+    "footnotes": [
+      {
+        "id": "XA0194542-3110-4116-9C46-F964956614F6",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X6872E0C1-5018-4CA0-8FF3-5534C36AEF8B",
+        "text": "2Roy P. Basler, inThe Collected Works of Abraham Lincoln, did not identify Schlater, but did discover a “C. M. Schlater, clerk” listed in\n                  the city directory for Philadelphia, Pennsylvania for 1853, and a “C. W. Schlatter,\n                  clerk,” in the directory for 1854.  He suggested that both Lincoln and the compiler\n                  of the directory were perhaps puzzled over Schlater’s middle initial and last name.\n                  Further research allowed the editors to identify “C. U. Schlater” as Casper U. Schlater.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:19;McElroy’s Philadelphia Directory, for 1853(Philadephia: Edward C. and John Biddle, 1853), 363;McElroy’s Philadelphia Directory, for 1854(Philadephia: Edward C. and John Biddle, 1854), 463."
+      },
+      {
+        "id": "XDB8F0672-8204-4C0D-8944-900693FC4584",
+        "text": "3Schlater’s note has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Casper U. Schlater, 5 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your note, requesting my \"signature with a sentiment\" was received, and should have\n               been answered long since, but that it was mislaid–3I am not a very sentimental man; and the best sentiment I can think of is, that if\n               you collect thenames^signatures^of all persons who are no less distinguished than I, you will have a very undistinguishing\n               mass of names–"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:32:14",
+  "word_count": 69
+}

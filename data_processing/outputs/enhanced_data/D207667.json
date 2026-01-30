@@ -1,0 +1,96 @@
+{
+  "document_id": "D207667",
+  "url": "https://papersofabrahamlincoln.org/documents/D207667",
+  "metadata": {
+    "date": "1848-12-01",
+    "authors": [
+      "Thomas, William"
+    ],
+    "keywords": [
+      "Land grants"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-12-01",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "military",
+      "copy",
+      "you",
+      "patent",
+      "ruble",
+      "north",
+      "land",
+      "send",
+      "william",
+      "thomas",
+      "abraham",
+      "lincoln",
+      "december",
+      "march",
+      "last"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "William Thomas to Abraham Lincoln, 1 December 18481 On the 21 March last you wrote to MrJesse Rubleof thiscounty,2giving information of the issuing a patent to Jesse Ruble as heir ofJacob Rublefor the North East Quarter of Section 9 Town 53 North Range 23 W inMissouri,3on Military Warrant No16.398, and you said theCommissionerof theGenl Land officehad promised to make a copy of the patent which you would Send.– Mr Ruble wants the\n\ncopy. (he has an offer for the Land, but cannot sell until he obtains the copy,) please\n\nobtain and Send the copy without delay.4",
+    "paragraphs": [
+      "William Thomas to Abraham Lincoln, 1 December 18481 On the 21 March last you wrote to MrJesse Rubleof thiscounty,2giving information of the issuing a patent to Jesse Ruble as heir ofJacob Rublefor the North East Quarter of Section 9 Town 53 North Range 23 W inMissouri,3on Military Warrant No16.398, and you said theCommissionerof theGenl Land officehad promised to make a copy of the patent which you would Send.– Mr Ruble wants the",
+      "copy. (he has an offer for the Land, but cannot sell until he obtains the copy,) please",
+      "obtain and Send the copy without delay.4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act to Provide for Designating, Surveying and Granting the Military Bounty Lands,”\n                     6 May 1812,Statutes at Large of the United States2 (1845):728-30; “An Act to Authorize the Survey of Two Millions of Acres of the\n                     Public Lands, in Lieu of that Quantity Heretofore Authorized to the Surveyed, in the\n                     Territory of Michigan, as Military Bounty Lands,” 29 April 1816,Statutes at Large of the United States3 (1846):332."
+    ],
+    "footnotes": [
+      {
+        "id": "X9132D02F-1ADD-42B3-B8F6-23545A78D705",
+        "text": "1William Thomas wrote and signed the letter. Thomas also authored the address on the\n                  back page, which was folded to create an envelope for mailing."
+      },
+      {
+        "id": "X753FD6B6-2BE9-4FAF-9703-8F9EA1CA412F",
+        "text": "2Abraham Lincoln’s letter has not been located."
+      },
+      {
+        "id": "X9058218B-FD92-448D-AC03-3F4E572A74BD",
+        "text": "3Situated in the northern portion of Carroll County, Missouri."
+      },
+      {
+        "id": "X19CCE9F1-BA53-4883-8463-E92A65B3B611",
+        "text": "4Jacob Ruble probably received this land for his service in theWar of 1812.  In May 1812,Congresspassed an act setting aside public lands as payment for citizens volunteering to\n                  fight the British.  Originally, the lands earmarked for distribution were in what\n                  would become the states ofArkansas,Illinois, andMichigan, but in 1816, Congress substituted land inMissourifor that in Michigan.“An Act to Provide for Designating, Surveying and Granting the Military Bounty Lands,”\n                     6 May 1812,Statutes at Large of the United States2 (1845):728-30; “An Act to Authorize the Survey of Two Millions of Acres of the\n                     Public Lands, in Lieu of that Quantity Heretofore Authorized to the Surveyed, in the\n                     Territory of Michigan, as Military Bounty Lands,” 29 April 1816,Statutes at Large of the United States3 (1846):332."
+      },
+      {
+        "id": "X38A74AC8-6C7C-42CA-B4A3-ECAC5B2AF805",
+        "text": "5There is no evidence that Lincoln sent the copy."
+      },
+      {
+        "id": "X7777192D-1369-4E4C-BF30-318630286BFF",
+        "text": "6Lincoln wrote and signed this endorsement.  If Richard M. Young made a copy and sent\n                  it to Lincoln, it has not been located."
+      },
+      {
+        "id": "X025F6EE4-17B7-47C0-811A-80D81CA8CDC7",
+        "text": "7William Nourse wrote and signed this endorsement.  If Nourse made a copy and sent\n                  it to Lincoln, it has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William Thomas to Abraham Lincoln, 1 December 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "On the 21 March last you wrote to MrJesse Rubleof thiscounty,2giving information of the issuing a patent to Jesse Ruble as heir ofJacob Rublefor the North East Quarter of Section 9 Town 53 North Range 23 W[West] inMissouri,3on Military Warrant No16.398, and you said theCommissionerof theGenl Land officehad promised to make a copy of the patent which you would Send.– Mr Ruble wants the\n               copy. (he has an offer for the Land, but cannot sell until he obtains the copy,) please\n               obtain and Send the copy without delay.4"
+      }
+    ],
+    "word_count": 96
+  },
+  "extraction_date": "2025-12-26 20:31:53",
+  "word_count": 96,
+  "processing": {
+    "cleaned": true,
+    "original_length": 598,
+    "cleaned_length": 564,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

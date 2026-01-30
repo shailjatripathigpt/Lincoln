@@ -1,0 +1,91 @@
+{
+  "document_id": "D200127",
+  "url": "https://papersofabrahamlincoln.org/documents/D200127",
+  "metadata": {
+    "date": "1837-10-19",
+    "authors": [
+      "Butler, William",
+      "Elkin, Garret",
+      "Latham, Phillip C.",
+      "Lincoln, Abraham (President)",
+      "Stuart, John T."
+    ],
+    "keywords": [
+      "Bonds",
+      "County officials and employees--Salaries, etc.",
+      "Circuit courts"
+    ],
+    "type": "Bond",
+    "extracted_date": "1837-10-19",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "people",
+      "law",
+      "states",
+      "united",
+      "butler",
+      "william",
+      "clerk",
+      "county",
+      "october",
+      "these",
+      "presents",
+      "firmly",
+      "his",
+      "office",
+      "state"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Bond of William Butler as Clerk of the Circuit Court of Sangamon County, 19 October\n\n18371 Know all men by these presents that weWilliam Butler,Philip, C, LathamGarrett ElkinA. Lincoln&John T Stuart.are held and firmly bound untoJoseph DuncanGovernor of theState of Illinoisand his successors in office, for the use of the People of the State of Illinois\n\nin the penal sum of Two Thousand Dollars, lawfull money of the United States, the payment of which, well and truly to be made, and\n\nperformed, we and each of us, bind ourselves, our heirs, Executors, and administrators,\n\nJointly & severally firmly by these presents, witness our hands and seals this19thday of October 18372 The condition of this obligation is such that if the above bounded William Butler\n\nshall faithfully discharge the duties of his office as Clerk of theCircuit Courtin and for the County ofSangamon, and State of Illinois according to law, and shall deliver up, when lawfully required\n\nso to do, the Papers, Books, Records, and Proceedings appertaining thereto whole,\n\nsafe, and undefaced, then the above obligation to be void, otherwise, to remain in\n\nfull force and virtue",
+    "paragraphs": [
+      "Bond of William Butler as Clerk of the Circuit Court of Sangamon County, 19 October",
+      "18371 Know all men by these presents that weWilliam Butler,Philip, C, LathamGarrett ElkinA. Lincoln&John T Stuart.are held and firmly bound untoJoseph DuncanGovernor of theState of Illinoisand his successors in office, for the use of the People of the State of Illinois",
+      "in the penal sum of Two Thousand Dollars, lawfull money of the United States, the payment of which, well and truly to be made, and",
+      "performed, we and each of us, bind ourselves, our heirs, Executors, and administrators,",
+      "Jointly & severally firmly by these presents, witness our hands and seals this19thday of October 18372 The condition of this obligation is such that if the above bounded William Butler",
+      "shall faithfully discharge the duties of his office as Clerk of theCircuit Courtin and for the County ofSangamon, and State of Illinois according to law, and shall deliver up, when lawfully required",
+      "so to do, the Papers, Books, Records, and Proceedings appertaining thereto whole,",
+      "safe, and undefaced, then the above obligation to be void, otherwise, to remain in"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act regulating the Supreme and Circuit Courts,” 19 January 1829,Revised Laws of Illinois(1829), 44-45."
+    ],
+    "footnotes": [
+      {
+        "id": "X75A36E13-1AEF-436A-A377-1F76AB36A11F",
+        "text": "1Abraham Lincoln supplied his name among the list of bond guarantors and signed his\n                  name."
+      },
+      {
+        "id": "X765A74D3-8719-40FA-B38F-B08FA9324634",
+        "text": "2Section twenty-four of the law regulating circuit courts required clerks at the first\n                  term of their respective courts, after appointment, to enter into bond to the governor\n                  of the state, with one or more securities, in the sum of $2,000 to ensure faithful\n                  performance of their duties.“An Act regulating the Supreme and Circuit Courts,” 19 January 1829,Revised Laws of Illinois(1829), 44-45."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Bond of William Butler as Clerk of the Circuit Court of Sangamon County, 19 October\n               18371"
+      },
+      {
+        "type": "paragraph",
+        "text": "Know all men by these presents that weWilliam Butler,Philip, C, Latham[,]Garrett Elkin[,]A. Lincoln&John T Stuart.are held and firmly bound untoJoseph DuncanGovernor of theState of Illinoisand his successors in office, for the use of the People of the State of Illinois\n               in the penal sum of Two Thousand Dollars, lawfull money of the United States, the payment of which, well and truly to be made, and\n               performed, we and each of us, bind ourselves, our heirs, Executors, and administrators,\n               Jointly & severally firmly by these presents, witness our hands and seals this19thday of October 18372"
+      },
+      {
+        "type": "paragraph",
+        "text": "The condition of this obligation is such that if the above bounded William Butler\n               shall faithfully discharge the duties of his office as Clerk of theCircuit Courtin and for the County ofSangamon, and State of Illinois according to law, and shall deliver up, when lawfully required\n               so to do, the Papers, Books, Records, and Proceedings appertaining thereto whole,\n               safe, and undefaced, then the above obligation to be void, otherwise, to remain in\n               full force and virtue"
+      }
+    ],
+    "word_count": 186
+  },
+  "extraction_date": "2025-12-26 20:06:24",
+  "word_count": 186,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1269,
+    "cleaned_length": 1151,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

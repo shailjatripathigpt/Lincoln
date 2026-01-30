@@ -1,0 +1,72 @@
+{
+  "document_id": "D200301",
+  "url": "https://papersofabrahamlincoln.org/documents/D200301",
+  "metadata": {
+    "date": "1842-04-18",
+    "authors": [],
+    "keywords": [
+      "Lawyers--Fees",
+      "Attorney and client",
+      "Bankruptcy",
+      "Costs (Law)"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Logan & Lincoln to George W. Hawley, 18 April 18421",
+    "paragraphs": [
+      "Logan & Lincoln to George W. Hawley, 18 April 18421"
+    ],
+    "tables_count": 2,
+    "citations": [
+      "“An Act to Establish a Uniform System of Bankruptcy throughout the United States,”\n                     19 August 1841,Statutes at Large of the United States5 (1856):440-49;Sangamo Journal(Springfield, IL), 20 May 1842, 1:4; 15 July 1842, 3:5; Daniel W. Stowell et al.,\n                     eds.,Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 1:99-100;In re Hawley, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137812."
+    ],
+    "footnotes": [
+      {
+        "id": "X52A69850-5727-48C0-9471-4B62DDE02EE6",
+        "text": "1Abraham Lincoln wrote and signed this letter. He also authored the address on the\n                  back page, which was folded to create an envelope."
+      },
+      {
+        "id": "X5A995046-21C8-4539-9851-70F6EA0948F2",
+        "text": "2In 1841, theU.S. Congressresponded to thePanic of 1837by passing the first bankruptcy legislation in American history. Beginning on  February\n                  1, 1842, Illinoisans could apply for bankruptcy relief in the U.S. District Court\n                  in Springfield. Logan & Lincoln participated in at least 72 bankruptcy cases during\n                  1842 and 1843. They filed bankruptcy petitions for debtors and their lawyers from\n                  throughout the state, including for Hawley, who resided in Dixon, Illinois. The court\n                  declared Hawley bankrupt, but it is unknown whether he was discharged of his debts.“An Act to Establish a Uniform System of Bankruptcy throughout the United States,”\n                     19 August 1841,Statutes at Large of the United States5 (1856):440-49;Sangamo Journal(Springfield, IL), 20 May 1842, 1:4; 15 July 1842, 3:5; Daniel W. Stowell et al.,\n                     eds.,Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 1:99-100;In re Hawley, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137812."
+      },
+      {
+        "id": "XFE15BEC4-3DB7-4E28-8185-B7E88D0824E8",
+        "text": "3“State Bank” and “Shawnee” refers to paper money printed by the State Bank of Illinois\n                  and the Bank of Illinois, respectively."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Logan & Lincoln to George W. Hawley, 18 April 18421"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "To your credit. | State Bank | $ | 10—00",
+          "\" | Shawneetown | 10—00",
+          "20—00"
+        ]
+      },
+      {
+        "type": "table",
+        "table_number": 2,
+        "rows": [
+          "2.62",
+          "4.00",
+          "6.62"
+        ]
+      }
+    ],
+    "word_count": 10
+  },
+  "extraction_date": "2025-12-26 20:17:19",
+  "word_count": 14,
+  "processing": {
+    "cleaned": true,
+    "original_length": 71,
+    "cleaned_length": 51,
+    "preserved_originality": true
+  }
+}

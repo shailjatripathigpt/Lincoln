@@ -1,0 +1,57 @@
+{
+  "document_id": "D229765",
+  "url": "https://papersofabrahamlincoln.org/documents/D229765",
+  "metadata": {
+    "date": "1848-06-20",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Envelopes (Stationery)"
+    ],
+    "type": "Envelope",
+    "extracted_date": "1848-06-20",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "envelope",
+      "abraham",
+      "lincoln",
+      "richard",
+      "thomas",
+      "june"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Envelope of Abraham Lincoln to Richard S. Thomas, 20 June 1",
+    "paragraphs": [
+      "Envelope of Abraham Lincoln to Richard S. Thomas, 20 June 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:479."
+    ],
+    "footnotes": [
+      {
+        "id": "XD8771051-7A79-4E02-B6E0-6E853C7FAA67",
+        "text": "1Abraham Lincoln addressed this envelope.  Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, notes that this envelope may have been associated with aletterfrom Lincoln to Thomas dated June 19 from Washington, DC.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:479."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Envelope of Abraham Lincoln to Richard S. Thomas, 20 June [1848]1"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 20:30:06",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 65,
+    "cleaned_length": 59,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "D210379",
+  "url": "https://papersofabrahamlincoln.org/documents/D210379",
+  "metadata": {
+    "date": "1849-03-20",
+    "authors": [
+      "Warren, Fitz Henry"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-20",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "honor",
+      "fitz",
+      "henry",
+      "warren",
+      "abraham",
+      "lincoln",
+      "march",
+      "inform",
+      "you",
+      "thepostmaster",
+      "generalhas",
+      "appointedhaza",
+      "parsonspostmaster",
+      "atbloomingtonin",
+      "state"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Fitz Henry Warren to Abraham Lincoln, 20 March 18491 I have the honor to inform you, that thePostmaster Generalhas appointedHaza ParsonsPostmaster atBloomingtonin the State ofIllinoisin place ofA. H. LuceRemoved.2",
+    "paragraphs": [
+      "Fitz Henry Warren to Abraham Lincoln, 20 March 18491 I have the honor to inform you, that thePostmaster Generalhas appointedHaza ParsonsPostmaster atBloomingtonin the State ofIllinoisin place ofA. H. LuceRemoved.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 468; Edward Tremayne,Tremayne’s Table of Post Offices in the United States(New York: W. F. Burgess, 1850), 38;Table of Post Offices in the United States on the First Day of January, 1851(Washington, DC: W. & J. C. Greer, 1851), 24;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 497."
+    ],
+    "footnotes": [
+      {
+        "id": "XF76CC186-59BA-41F3-A493-3E5D30BAC8CD",
+        "text": "1Fitz Henry Warren signed his name to this form letter."
+      },
+      {
+        "id": "X3089DA84-A0A4-41AA-820E-A8963F977A18",
+        "text": "2On March 1, 1849, Isaac Funk hadwrittenAbraham Lincoln andEdward D. Bakerrequesting that Hazo (Haza) Parsons receive the appointment.  Parsons held the position\n                  until 1853.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 468; Edward Tremayne,Tremayne’s Table of Post Offices in the United States(New York: W. F. Burgess, 1850), 38;Table of Post Offices in the United States on the First Day of January, 1851(Washington, DC: W. & J. C. Greer, 1851), 24;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 497."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fitz Henry Warren to Abraham Lincoln, 20 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the honor to inform you, that thePostmaster Generalhas appointedHaza ParsonsPostmaster atBloomingtonin the State ofIllinoisin place ofA. H. LuceRemoved.2"
+      }
+    ],
+    "word_count": 29
+  },
+  "extraction_date": "2025-12-26 20:38:27",
+  "word_count": 29,
+  "processing": {
+    "cleaned": true,
+    "original_length": 213,
+    "cleaned_length": 213,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,116 @@
+{
+  "document_id": "D200844",
+  "url": "https://papersofabrahamlincoln.org/documents/D200844",
+  "metadata": {
+    "date": "1855-04-26",
+    "authors": [
+      "Asbury, Henry",
+      "Browning, Orville Hickman",
+      "Bryant, Henry L.",
+      "Buckley, E. H.",
+      "Bushnell, Nehemiah H.",
+      "Conkling, James C.",
+      "Dilworth, C. J.",
+      "Evans, Henry B.",
+      "Gilpin, Joseph B.",
+      "Goodwin, Philo A.",
+      "Herndon, William H.",
+      "Humphrey, George",
+      "Jonas, Abraham",
+      "Lamaster, Hugh",
+      "Lawrence, Charles B.",
+      "Lincoln, Abraham",
+      "Marsh, William",
+      "Matheny, James H. (Matheany, Matheney)",
+      "Morton, John T.",
+      "Prince, Edward",
+      "Proctor, John W.",
+      "Ross, Leonard F.",
+      "Shaw, J. B.",
+      "Shaw, J. Henry",
+      "Stuart, John T.",
+      "Taylor, Thomas G.",
+      "VanVleck, Carter",
+      "Warren, Calvin A.",
+      "Williams, John H."
+    ],
+    "keywords": [
+      "Employment references"
+    ],
+    "type": "Petition",
+    "extracted_date": "1855-04-26",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "public",
+      "members",
+      "bar",
+      "petition",
+      "charles",
+      "lawrence",
+      "others",
+      "illinois",
+      "april",
+      "undersigned",
+      "knowledge",
+      "ofs",
+      "corneau",
+      "having",
+      "confience"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Petition of Charles B. Lawrence and Others to Members of the Illinois Bar and Public,\n\n26 April 18551 The undersigned, from knowledge ofS. A.Corneau, and having confience in his ability to perform the duties of clerk of thesupreme court, of the second grand division ofIllinois, do recommend him, to the members of the bar and public, as a competent person to\n\nfill said office.2",
+    "paragraphs": [
+      "Petition of Charles B. Lawrence and Others to Members of the Illinois Bar and Public,",
+      "26 April 18551 The undersigned, from knowledge ofS. A.Corneau, and having confience in his ability to perform the duties of clerk of thesupreme court, of the second grand division ofIllinois, do recommend him, to the members of the bar and public, as a competent person to"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Daily Journal(Springfield), 27 April 1855, 3:2; 28 April 1855, 3:2; 30 April 1855, 3:2; 1 May\n                     1855, 3:2; 2 May 1855, 3:2.",
+      "“Illinois Supreme Court, Second Grand Division, 1849-1865,” Martha L. Benner and Cullom\n                     Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/reference/reference%20html%20files/Maps--ISC%202nd.html;Daily Illinois State Register(Springfield), 21 June 1855, 2:4."
+    ],
+    "footnotes": [
+      {
+        "id": "X1EACA46F-37B5-4267-8343-7A7BE476F6B1",
+        "text": "1This document was printed in the April 26, 1855 edition of theIllinois Daily Journal, as well as several other editions of the same newspaper.Illinois Daily Journal(Springfield), 27 April 1855, 3:2; 28 April 1855, 3:2; 30 April 1855, 3:2; 1 May\n                     1855, 3:2; 2 May 1855, 3:2."
+      },
+      {
+        "id": "X057E7814-A869-4690-B63A-B690AFEC2B9E",
+        "text": "2The second grand division of Illinois consisted of the central counties of the state\n                  surrounding the capital ofSpringfield.The election, held in June 1855, resulted inWilliam A. Turneydefeating Stephen A. Corneau for the office of clerk of the Supreme Court.“Illinois Supreme Court, Second Grand Division, 1849-1865,” Martha L. Benner and Cullom\n                     Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/reference/reference%20html%20files/Maps--ISC%202nd.html;Daily Illinois State Register(Springfield), 21 June 1855, 2:4."
+      },
+      {
+        "id": "X3C9218D9-C22F-4290-9B68-4FD3A9F91066",
+        "text": "3John A. Piersool could not be positively identified."
+      },
+      {
+        "id": "X5A708D35-6769-4782-859C-CD49EC316A41",
+        "text": "4Robert Paul could not be positively identified."
+      },
+      {
+        "id": "X56BD39D8-9AEE-415A-85DC-0593DB2CCF2F",
+        "text": "5James T. Slack could not be positively identified."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Charles B. Lawrence and Others to Members of the Illinois Bar and Public,\n               26 April 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "The undersigned, from knowledge ofS. A.Corneau, and having confience in his ability to perform the duties of clerk of thesupreme court, of the second grand division ofIllinois, do recommend him, to the members of the bar and public, as a competent person to\n                  fill said office.2"
+      }
+    ],
+    "word_count": 64
+  },
+  "extraction_date": "2025-12-26 21:36:41",
+  "word_count": 64,
+  "processing": {
+    "cleaned": true,
+    "original_length": 410,
+    "cleaned_length": 379,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

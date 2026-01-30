@@ -1,0 +1,68 @@
+{
+  "document_id": "D200461",
+  "url": "https://papersofabrahamlincoln.org/documents/D200461",
+  "metadata": {
+    "date": "1848-02-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Bounties, Military",
+      "Military pensions",
+      "Military service, Voluntary",
+      "Public lands",
+      "Soldiers"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Young, 17 February 18481 Your letter in relation to various claims for bounty lands, has been received, and\n\nlaid before theCommissioner of Pensions,– So soon as he shall examine them and give me an answer, I will write you, enclosing\n\nit–2 Hurra forGen: Taylor–3",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Young, 17 February 18481 Your letter in relation to various claims for bounty lands, has been received, and",
+      "laid before theCommissioner of Pensions,– So soon as he shall examine them and give me an answer, I will write you, enclosing"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:453.",
+      "“An Act to Raise for a Limited Time an Additional Military Force, and for Other Purposes,”\n                     11 February 1847,Statutes at Large of the United States9 (1862):125-26.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:275-76; Holman Hamilton,Zachary Taylor: Soldier in the White House(Hamden, CT: Archon, 1966), 63-64; Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 309-30, 333-39; K. Jack Bauer,Zachary Taylor: Soldier, Planter, Statesman of the Old Southwest(Baton Rouge: Louisiana State University Press, 1985), 233-34."
+    ],
+    "footnotes": [
+      {
+        "id": "X9C6D8E83-802E-49E1-A6DB-71E7DE94B377",
+        "text": "1Abraham Lincoln wrote and signed this letter.  The original letter has not been located.\n                  Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, claims this is a pencil tracing of the original made by Herbert W. Fay.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:453."
+      },
+      {
+        "id": "XF4163E1F-B9AF-4871-A720-09D8BB441A54",
+        "text": "2William H. Young’s letter to Lincoln has not been located.Young was seeking bounty lands as remuneration for his service in theMexican War.  Young’s claims for bounty land came under provisions of section nine of an act\n                  passed byCongresson February 11, 1847.LincolnwroteYoung in August 1848 regarding the disposition of his land claims and his request\n                  for three months extra pay.“An Act to Raise for a Limited Time an Additional Military Force, and for Other Purposes,”\n                     11 February 1847,Statutes at Large of the United States9 (1862):125-26."
+      },
+      {
+        "id": "X1F7B3486-FAB4-4599-BF67-9A7732A6D8D7",
+        "text": "3Lincoln references the movement to draft Zachary Taylor as theWhig Party’s candidate in thepresidential election of 1848.Lincoln had been actively working to advance Taylor’s candidacy as a member of the\n                  so-called “Young Indians,” a Whig Executive Committee founded byTruman Smithin the spring of 1847 to provide the Whig Party with a unified national organization\n                  for the imminent presidential campaign.  Including principally but not exclusively\n                  Southern Whigs, the Young Indians made it their goal to nominate Zachary Taylor as\n                  the Whig Party standard bearer in 1848.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:275-76; Holman Hamilton,Zachary Taylor: Soldier in the White House(Hamden, CT: Archon, 1966), 63-64; Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 309-30, 333-39; K. Jack Bauer,Zachary Taylor: Soldier, Planter, Statesman of the Old Southwest(Baton Rouge: Louisiana State University Press, 1985), 233-34."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Young, 17 February 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter in relation to various  claims for bounty lands, has been received, and\n               laid before theCommissioner of Pensions,–  So soon as he shall examine them and give me an answer, I will write you, enclosing\n               it–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hurra forGen: Taylor–3"
+      }
+    ],
+    "word_count": 49
+  },
+  "extraction_date": "2025-12-26 20:27:29",
+  "word_count": 49,
+  "processing": {
+    "cleaned": true,
+    "original_length": 323,
+    "cleaned_length": 293,
+    "preserved_originality": true
+  }
+}

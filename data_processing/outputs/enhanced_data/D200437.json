@@ -1,0 +1,96 @@
+{
+  "document_id": "D200437",
+  "url": "https://papersofabrahamlincoln.org/documents/D200437",
+  "metadata": {
+    "date": "1848-01-01",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Armies--Officers",
+      "Elections",
+      "Military appointments",
+      "Political parties",
+      "Legislators"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-01-01",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "president",
+      "you",
+      "him",
+      "not",
+      "think",
+      "give",
+      "know",
+      "abraham",
+      "lincoln",
+      "richard",
+      "thomas",
+      "january",
+      "your",
+      "letter",
+      "received"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Richard S. Thomas, 1 January 18481 Your letter of the 23rdDecr is received, as also the Petition you mention–2When documents become plenty, which they have not yet, I will send them to you– There\n\nis a good deal of diversity among thewhigshere, as to who shall be their Candidate for thePresidency; but I think it will result in favor ofGenlTaylor–3 As to MrGraham's application for a Lieutenancy, I have already submitted it to thePresident, in the best way I could think of to give it chance of success–4I wrote him about it; and do not know any thing more that I can do for him– You know\n\nI can have no intimacy with the President, which might give me personal influence\n\nwith him–5",
+    "paragraphs": [
+      "Abraham Lincoln to Richard S. Thomas, 1 January 18481 Your letter of the 23rdDecr is received, as also the Petition you mention–2When documents become plenty, which they have not yet, I will send them to you– There",
+      "is a good deal of diversity among thewhigshere, as to who shall be their Candidate for thePresidency; but I think it will result in favor ofGenlTaylor–3 As to MrGraham's application for a Lieutenancy, I have already submitted it to thePresident, in the best way I could think of to give it chance of success–4I wrote him about it; and do not know any thing more that I can do for him– You know",
+      "I can have no intimacy with the President, which might give me personal influence"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 329."
+    ],
+    "footnotes": [
+      {
+        "id": "XC71F289D-A905-40A0-A499-C147D5280929",
+        "text": "1Abraham  Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "XD9D1D61A-4129-4D82-8707-047DA911EBE6",
+        "text": "2Richard S. Thomas’ December 23, 1847 letter to Lincoln has not been located."
+      },
+      {
+        "id": "X06C37558-180E-4ECF-B842-5D2F4262E12A",
+        "text": "3In June 1848, Zachary Taylor received the Whig nomination as the party’s candidate\n                  in thepresidential election of 1848.Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 329."
+      },
+      {
+        "id": "X627F75A0-BCB8-4F09-9418-4913C16365F0",
+        "text": "4On December 8, 1847, Abraham Lincoln submitted to PresidentJames K. Polkarecommendation and paperssupporting Thomas Graham, Jr.’s application for a lieutenancy in theU.S. Army."
+      },
+      {
+        "id": "X535E6C52-6202-4013-8810-DE22FF6C6DC0",
+        "text": "5Lincoln was a Whig, while President Polk was aDemocrat.  There is no evidence that Graham received a commission."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Richard S. Thomas, 1 January 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 23rdDecr[December] is received, as also the Petition you mention–2When documents become plenty, which they have not yet, I will send them to you– There\n               is a good deal of diversity among thewhigshere, as to who shall be their Candidate for thePresidency; but I think it will result in favor ofGenlTaylor–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "As to MrGraham's application for a Lieutenancy, I have already submitted it to thePresident, in the best way I could think of to give it chance of success–4I wrote him about it; and do not know any thing more that I can do for him– You know\n               I can have no intimacy with the President, which might give me personal influence\n               with him–5"
+      }
+    ],
+    "word_count": 126
+  },
+  "extraction_date": "2025-12-26 20:26:08",
+  "word_count": 126,
+  "processing": {
+    "cleaned": true,
+    "original_length": 756,
+    "cleaned_length": 704,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

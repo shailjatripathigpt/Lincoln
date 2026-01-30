@@ -1,0 +1,61 @@
+{
+  "document_id": "D200551",
+  "url": "https://papersofabrahamlincoln.org/documents/D200551",
+  "metadata": {
+    "date": "1849-02-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debtor and creditor"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William A. Crafts, 6 February 18491 Yours of the 31stof Jany was received two or three days since–2I know MrAsahel Thayer, and have the impression that he is not able to pay any thing– Besides his brotherMartin Thayer, ofPhiladelphia, he has a brother,Joseph Thayer, atSpringfield, Illinois, who is, pecuniarily, in good circumstances– Still, my impression of Asahel is as\n\nI have stated; but, lest I be mistaken, I send your letter to a friend in Springfield,\n\nwith the request that he will ascertain the material facts and write you–3",
+    "paragraphs": [
+      "Abraham Lincoln to William A. Crafts, 6 February 18491 Yours of the 31stof Jany was received two or three days since–2I know MrAsahel Thayer, and have the impression that he is not able to pay any thing– Besides his brotherMartin Thayer, ofPhiladelphia, he has a brother,Joseph Thayer, atSpringfield, Illinois, who is, pecuniarily, in good circumstances– Still, my impression of Asahel is as",
+      "I have stated; but, lest I be mistaken, I send your letter to a friend in Springfield,",
+      "with the request that he will ascertain the material facts and write you–3"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X560AFB45-02A3-44D8-B772-6FDEF29B10ED",
+        "text": "1Abraham Lincoln wrote the letter in its entirety."
+      },
+      {
+        "id": "XD1F06FE5-A7BF-440A-B6B6-BC5E769C6ED6",
+        "text": "2William A. Crafts’ letter of January 31 has not been located, so the subject of Crafts’\n                  communication to Lincoln is unknown. But the nature of Lincoln’s response suggests\n                  that Crafts asked Lincoln for an opinion regarding Asahel Thayer's financial situation."
+      },
+      {
+        "id": "XBDD0493D-AB0F-41C4-98B6-5FF916B19440",
+        "text": "3Thayer was no doubt indebted to Crafts for an undisclosed amount.  It is unknown to\n                  whom Lincoln referred the matter."
+      },
+      {
+        "id": "X22C9312B-6F47-4D6A-B4D9-49F1B99214A7",
+        "text": "4It is not known if “F. D. Crafts” is a different person than William A. Crafts, or\n                  an error in notation."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William A. Crafts, 6 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 31stof Jany[January] was received two or three days since–2I know MrAsahel Thayer, and have the impression that he is not able to pay any thing–  Besides his brotherMartin Thayer, ofPhiladelphia, he has a brother,Joseph Thayer, atSpringfield, Illinois, who is, pecuniarily, in good circumstances–  Still, my impression of Asahel is as\n               I have stated; but, lest I be mistaken, I send your letter to a friend in Springfield,\n               with the request that he will ascertain the material facts and write you–3"
+      }
+    ],
+    "word_count": 92
+  },
+  "extraction_date": "2025-12-26 20:34:27",
+  "word_count": 92,
+  "processing": {
+    "cleaned": true,
+    "original_length": 594,
+    "cleaned_length": 555,
+    "preserved_originality": true
+  }
+}

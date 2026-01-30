@@ -1,0 +1,41 @@
+{
+  "document_id": "D200443",
+  "url": "https://papersofabrahamlincoln.org/documents/D200443",
+  "metadata": {
+    "date": "1848-01-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislative documents"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Blair & Rives, 11 January 18481 Messrs[Messieurs]Blair & Riveswill greatly oblige me by sending my[me] by the bearer, the volume containing the Debates of the 2ndsession of the 28thCongress; which volume, if sent, I shall be careful to return uninjured, or pay for, at their\n               option–",
+    "paragraphs": [
+      "Abraham Lincoln to Blair & Rives, 11 January 18481",
+      "Messrs[Messieurs]Blair & Riveswill greatly oblige me by sending my[me] by the bearer, the volume containing the Debates of the 2ndsession of the 28thCongress; which volume, if sent, I shall be careful to return uninjured, or pay for, at their\n               option–"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X52D1CDE3-9A8A-4E79-946E-1A8239CDCDF9",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Blair & Rives, 11 January 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Messrs[Messieurs]Blair & Riveswill greatly oblige me by sending my[me] by the bearer, the volume containing the Debates of the 2ndsession of the 28thCongress; which volume, if sent, I shall be careful to return uninjured, or pay for, at their\n               option–"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:26:56",
+  "word_count": 49
+}

@@ -1,0 +1,90 @@
+{
+  "document_id": "D210851",
+  "url": "https://papersofabrahamlincoln.org/documents/D210851",
+  "metadata": {
+    "date": "1858-08-09",
+    "authors": [
+      "Arenz, John A."
+    ],
+    "keywords": [
+      "Elections",
+      "Political campaigns",
+      "Political oratory",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-08-09",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "here",
+      "john",
+      "arenz",
+      "abraham",
+      "lincoln",
+      "august",
+      "announced",
+      "handbills",
+      "speak",
+      "reply",
+      "tosenator",
+      "douglas",
+      "large",
+      "crowd"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "John A. Arenz to Abraham Lincoln, 9 August 18581 It is announced by handbills, that you will speak here on the 12thinst. at 2oClock P.M. in reply toSenator Douglas, and a large crowd is expected to hear you. Preparations for the occasion are in progress and in order to complete arrangements,\n\nwe would desire to know,whenyou will arrive here and by what route?2 During your stay here you will be welcomed at my house, if you will accept its hospitality.",
+    "paragraphs": [
+      "John A. Arenz to Abraham Lincoln, 9 August 18581 It is announced by handbills, that you will speak here on the 12thinst. at 2oClock P.M. in reply toSenator Douglas, and a large crowd is expected to hear you. Preparations for the occasion are in progress and in order to complete arrangements,",
+      "we would desire to know,whenyou will arrive here and by what route?2 During your stay here you will be welcomed at my house, if you will accept its hospitality."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Daily Illinois State Journal(Springfield), 17 June 1858, 2:1-6; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas,\n                     and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 404; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77, 513-14;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 12 August 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-12;Report of Speech at Beardstown, Illinois;Summary of Speech at Beardstown, Illinois."
+    ],
+    "footnotes": [
+      {
+        "id": "X5828F1BB-BAD1-4293-8368-B3F4C92D81BD",
+        "text": "1John A. Arenz wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "X8EF943AF-042A-4B95-9BD2-414F72F4B612",
+        "text": "2TheRepublican PartyofIllinoishad commenced their efforts in theelectioncampaign of 1858 with their statewideconventionon June 16, at whichAbraham Lincolnwas nominated to run against incumbentStephen A. Douglasto represent Illinois in theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. Lincoln and Douglas both campaigned extensively\n                  and focused their campaign efforts on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.\n                  Douglas had spoken in Beardstown on August 11.Lincoln arrived in Beardstown on the morning of August 12 on a steamboat fromNaples. Greeted by several hundred citizens, Lincoln traveled by carriage to the National Hotel.Francis A. Arenz, John’s brother,welcomedLincoln to the town before Lincoln commenced his speech after 2 p.m. He spoke for\n                  two hours to an audience of as many as 3,000, directly addressing a charge against\n                  Douglas that theKansas-Nebraska Act—passed in 1854 and establishing popular sovereignty as a means of deciding slave\n                  status for southwestern territories—was part of a larger conspiracy to make slavery\n                  perpetual and national.The Daily Illinois State Journal(Springfield), 17 June 1858, 2:1-6; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas,\n                     and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 404; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77, 513-14;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 12 August 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-08-12;Report of Speech at Beardstown, Illinois;Summary of Speech at Beardstown, Illinois."
+      },
+      {
+        "id": "X633CBA3F-1BA9-4A96-A4E5-F32742703E16",
+        "text": "3Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John A. Arenz to Abraham Lincoln, 9 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is announced by handbills, that you will speak here on the 12thinst. at 2oClock P.M. in reply toSenator Douglas, and a large crowd is expected to hear you."
+      },
+      {
+        "type": "paragraph",
+        "text": "Preparations for the occasion are in progress and in order to complete arrangements,\n               we would desire to know,whenyou will arrive here and by what route?2"
+      },
+      {
+        "type": "paragraph",
+        "text": "During your stay here you will be welcomed at my house, if you will accept its hospitality."
+      }
+    ],
+    "word_count": 80
+  },
+  "extraction_date": "2025-12-26 21:56:34",
+  "word_count": 80,
+  "processing": {
+    "cleaned": true,
+    "original_length": 468,
+    "cleaned_length": 454,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

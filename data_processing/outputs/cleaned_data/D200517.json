@@ -1,0 +1,60 @@
+{
+  "document_id": "D200517",
+  "url": "https://papersofabrahamlincoln.org/documents/D200517",
+  "metadata": {
+    "date": "1848-08-08",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Presidential candidates",
+      "Presidents--Election"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William Schouler, August 18481 I am remaining here for two weeks to frank documents— Now that the Presidential candidates\n\nare all set, I will thank you for your undisguised opinion as to whatNew Englandgenerally, andMassachusettsparticularly will do—2Your opinion as to the nomination ofTaylorheld so good, that I have some confidence in your predictions—3",
+    "paragraphs": [
+      "Abraham Lincoln to William Schouler, August 18481 I am remaining here for two weeks to frank documents— Now that the Presidential candidates",
+      "are all set, I will thank you for your undisguised opinion as to whatNew Englandgenerally, andMassachusettsparticularly will do—2Your opinion as to the nomination ofTaylorheld so good, that I have some confidence in your predictions—3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 319, 329, 339.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:280-84;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 September 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-09-09; 12 September 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-09-12; William F. Hanna,Abraham Among the Yankees: Abraham Lincoln’s 1848 Visit to Massachusetts(Taunton, MA: The Old Colony Historical Society, 1983); John L. Moore, Jon P. Preimesberger,\n                     and David R. Tarr, eds.,Congressional Quarterly’s Guide to U.S. Elections, 4th ed. (Washington, DC: CQ Press, 2001), 1:650."
+    ],
+    "footnotes": [
+      {
+        "id": "X7696BC06-44D5-4AF3-B79D-FD0BAB99924E",
+        "text": "1Abraham Lincoln wrote and signed this letter.  He also addressed the envelope."
+      },
+      {
+        "id": "X4303679B-6303-4B71-9775-358B18C06BDF",
+        "text": "2Lincoln makes reference to the candidates for the1848 presidential election: Zachary Taylor for theWhig Party,Lewis Cassfor theDemocratic Party, andMartin Van Burenfor the nascentFree Soil Party.Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 319, 329, 339."
+      },
+      {
+        "id": "X15E9B058-F156-42E0-BDBF-0347126C87CF",
+        "text": "3William Schouler’s response to Lincoln’s plea for his opinion, if he penned one, has\n                  not been located.In September, Lincoln spent eleven days in Massachusetts stumping for Zachary Taylor.\n                  Lincoln left Washington on Saturday, September 9 and arrived inWorcester, Massachusetts, on September 12.In the voting on November 7, Massachusetts went for Taylor, but he failed to get an\n                  absolute majority, garnering 45.3 percent of the vote.  Van Buren received 28.4 percent,\n                  running ahead of Cass, who got 26.2 percent.In New England as a whole, Taylor won inConnecticut,Rhode Island, andVermont, with Cass winning inMaineandNew Hampshire.  Taylor only received an absolute majority, however, in Rhode Island, and Cass only\n                  in New Hampshire.  The Free Soil Party made significant inroads in their respective\n                  majorities, indicating the growing influence of anti-slavery rhetoric in the region.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:280-84;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 September 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-09-09; 12 September 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-09-12; William F. Hanna,Abraham Among the Yankees: Abraham Lincoln’s 1848 Visit to Massachusetts(Taunton, MA: The Old Colony Historical Society, 1983); John L. Moore, Jon P. Preimesberger,\n                     and David R. Tarr, eds.,Congressional Quarterly’s Guide to U.S. Elections, 4th ed. (Washington, DC: CQ Press, 2001), 1:650."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William Schouler, [8] August 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am remaining here for two weeks to frank documents— Now that the Presidential candidates\n               are all set, I will thank you for your undisguised opinion as to whatNew Englandgenerally, andMassachusettsparticularly will do—2Your opinion as to the nomination ofTaylorheld so good, that I have some confidence in your predictions—3"
+      }
+    ],
+    "word_count": 56
+  },
+  "extraction_date": "2025-12-26 20:31:08",
+  "word_count": 57,
+  "processing": {
+    "cleaned": true,
+    "original_length": 394,
+    "cleaned_length": 376,
+    "preserved_originality": true
+  }
+}

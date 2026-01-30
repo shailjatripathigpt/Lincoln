@@ -1,0 +1,70 @@
+{
+  "document_id": "D200401",
+  "url": "https://papersofabrahamlincoln.org/documents/D200401",
+  "metadata": {
+    "date": "1846-05-29",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military campaigns",
+      "Military appointments",
+      "Patronage, Political",
+      "Political parties"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John J. Hardin, 29 May 18461 DrF A. McNeil, is desirous of going thecampaign to Mexico, as a surgeon, and he thinks that you, more probably than any one else, may have\n\nthe power to give him the place– If it shall turn out that you hold the power, and\n\ncan consistently with the claims of others, give him the appointment, it would very\n\nmuch gratify many of us here, and dissatisfy none– We regard him as a very sensible,\n\nand very clever man; and an excellent physician & surgeon–2 GenlCovellhas just arrived here direct fromWashington– I infer from some things he says, that someLoco focorascality is in contemplation in relation^to^officering the army– He says thatShields, as well asSemple, is coming on, anddoubless^doubtless^he came on himself with his eye upon a milatary office– He says, moreover, that a supplemental bill, to the army bill, had been introduced\n\ninto one branch ofcongress, authorizing thePresidentto appoint two Majors general, and four Brigadiers–3This, in connection, with his expressions of doubt, as to whetherGenlScott, will proceed to the seat of war, induces me to think they^even^contemplate placing these new made heroes over the heads of Scott,Gaines,Taylor& others–Y0uwill understand, whileIdo not, whether, by the organization of thearmy, this is possible– If it ispossible, it is, in my opinion, decidedlyprobable– Let these conjectures of mine be confidential–",
+    "paragraphs": [
+      "Abraham Lincoln to John J. Hardin, 29 May 18461 DrF A. McNeil, is desirous of going thecampaign to Mexico, as a surgeon, and he thinks that you, more probably than any one else, may have",
+      "the power to give him the place– If it shall turn out that you hold the power, and",
+      "can consistently with the claims of others, give him the appointment, it would very",
+      "much gratify many of us here, and dissatisfy none– We regard him as a very sensible,",
+      "and very clever man; and an excellent physician & surgeon–2 GenlCovellhas just arrived here direct fromWashington– I infer from some things he says, that someLoco focorascality is in contemplation in relation^to^officering the army– He says thatShields, as well asSemple, is coming on, anddoubless^doubtless^he came on himself with his eye upon a milatary office– He says, moreover, that a supplemental bill, to the army bill, had been introduced",
+      "into one branch ofcongress, authorizing thePresidentto appoint two Majors general, and four Brigadiers–3This, in connection, with his expressions of doubt, as to whetherGenlScott, will proceed to the seat of war, induces me to think they^even^contemplate placing these new made heroes over the heads of Scott,Gaines,Taylor& others–Y0uwill understand, whileIdo not, whether, by the organization of thearmy, this is possible– If it ispossible, it is, in my opinion, decidedlyprobable– Let these conjectures of mine be confidential–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Mexican War Veterans Database, Illinois State Archives, Springfield, IL.",
+      "“An Act Supplemental to An Act Entitled, ‘An Act Providing for the Prosecution of\n                     the Existing War between the United States and the Republic of Mexico,’ and for Other\n                     Purposes,” 18 June 1846,Statutes at Large of the United States9 (1862):17."
+    ],
+    "footnotes": [
+      {
+        "id": "X4EE57A24-0413-45F8-8F80-5DFBD0EBCD2A",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also authored the address on the back\n                  page, which was folded to create an envelope for mailing."
+      },
+      {
+        "id": "XFCC2DD45-9BC6-44B6-8945-DBB3F0070356",
+        "text": "2It does not appear that Francis A. McNeil enlisted for service in theMexican War.Illinois Mexican War Veterans Database, Illinois State Archives, Springfield, IL."
+      },
+      {
+        "id": "X78383D30-9229-42A0-A76F-8A057DCA2336",
+        "text": "3When it passed, the supplemental bill Lincoln mentions authorized the president to\n                  appoint one major-general and two brigadier-generals.“An Act Supplemental to An Act Entitled, ‘An Act Providing for the Prosecution of\n                     the Existing War between the United States and the Republic of Mexico,’ and for Other\n                     Purposes,” 18 June 1846,Statutes at Large of the United States9 (1862):17."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John J. Hardin, 29 May 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "DrF A. McNeil, is desirous of going thecampaign to Mexico, as a surgeon, and he thinks that you, more probably than any one else, may have\n               the power to give him the place– If it shall turn out that you hold the power, and\n               can consistently with the claims of others, give him the appointment, it would very\n               much gratify many of us here, and dissatisfy none– We regard him as a very sensible,\n               and very clever man; and an excellent physician & surgeon–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "GenlCovellhas just arrived here direct fromWashington– I infer from some things he says, that someLoco focorascality is in contemplation in relation^to^officering the army– He says thatShields, as well asSemple, is coming on, anddoubless^doubtless^he came on himself with his eye upon a milatary office– He says, moreover, that a supplemental bill, to the army bill, had been introduced\n               into one branch ofcongress, authorizing thePresidentto appoint two Majors general, and four Brigadiers–3This, in connection, with his expressions of doubt, as to whetherGenlScott, will proceed to the seat of war, induces me to think they^even^contemplate placing these new made heroes over the heads of Scott,Gaines,Taylor& others–Y0uwill understand, whileIdo not, whether, by the organization of thearmy, this is possible– If it ispossible, it is, in my opinion, decidedlyprobable– Let these conjectures of mine be confidential–"
+      }
+    ],
+    "word_count": 224
+  },
+  "extraction_date": "2025-12-26 20:22:56",
+  "word_count": 224,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1490,
+    "cleaned_length": 1420,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "document_id": "D200081",
+  "url": "https://papersofabrahamlincoln.org/documents/D200081",
+  "metadata": {
+    "date": "1836-09-04",
+    "authors": [
+      "Bowling, Absalom",
+      "Conkey, A.",
+      "Dick, Henry",
+      "Edwards, William",
+      "Hutches, M. L.",
+      "Hutches, Morris",
+      "Kilborne, B.",
+      "Lincoln, Abraham (President)",
+      "Lounsberry, Jonathan (Lownsberry)",
+      "Ogden, Amos",
+      "Robinson, Daniel",
+      "Simmons, Charles",
+      "Simmons, Julius",
+      "Simmons, R.",
+      "Winton, Burr"
+    ],
+    "keywords": [
+      "Roads--Location",
+      "Surveying"
+    ],
+    "type": "Petition",
+    "extracted_date": "1836-09-04",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "petition",
+      "abraham",
+      "lincoln",
+      "others",
+      "sangamon",
+      "county",
+      "commissioners",
+      "court"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Petition of Abraham Lincoln and Others to the Sangamon County Commissioners' Court,\n\n1",
+    "paragraphs": [
+      "Petition of Abraham Lincoln and Others to the Sangamon County Commissioners' Court,"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X51E88506-C7E9-48FB-AD23-206CADB87E2D",
+        "text": "1Abraham Lincoln wrote the text of the petition and his own signature."
+      },
+      {
+        "id": "X793DC289-7556-41BD-9FA7-52DD00256B7F",
+        "text": "2In June 1836, Lincoln located andsurveyedthis road for theSangamon County Commissioner’s Court."
+      },
+      {
+        "id": "X548796C2-A519-40F8-AF7A-3085D1E837E2",
+        "text": "3It does not seem that Asa D. Wright presented the petition to the County Commissioners’\n                  Court."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Abraham Lincoln and Others to the Sangamon County Commissioners' Court,\n               [4 September 1836]1"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 20:03:50",
+  "word_count": 15,
+  "processing": {
+    "cleaned": true,
+    "original_length": 118,
+    "cleaned_length": 86,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

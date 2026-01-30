@@ -1,0 +1,77 @@
+{
+  "document_id": "D200825",
+  "url": "https://papersofabrahamlincoln.org/documents/D200825",
+  "metadata": {
+    "date": "1854-01-17",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Legal literature",
+      "Clergy"
+    ],
+    "type": "Letter",
+    "extracted_date": "1854-01-17",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "leonard",
+      "swett"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Leonard Swett, 17 18541",
+    "paragraphs": [
+      "Abraham Lincoln to Leonard Swett, 17 18541"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Revised Statutes of Illinois(1845);Statutory Revision in Illinois(Springfield: Schnepp & Barnes, 1918), 21-23.",
+      "Barger v. Illinois Central RR, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135426;Barger v. Illinois Central RR, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135428;Abraham Lincoln to Mason Brayman;Mason Brayman to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X9C08EA34-222C-42C7-912B-F9B86C60FE1A",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the last sheet,\n                  which was folded to create an envelope."
+      },
+      {
+        "id": "XA94C6BC1-AAA1-4470-B725-D08A0B73F165",
+        "text": "2Evidence suggests that Lincoln may have misdated this letter, mistakenly repeating\n                  December instead of writing January in a new year, as he did in alettertoElihu B. Washburneof January 6, 1855 to which he gave a date of December 6, 1855. No letters to or\n                  from Leonard Swett in this precise chain of correspondence or on the subjects covered\n                  herein have been located to provide definitive proof, however. There are three other\n                  extant letters between Swett and Lincoln with dates in December 1854; all are from\n                  Swett, and all concern Swett’s efforts to help Lincoln secure support for his campaign\n                  to be chosenIllinois’ next U.S. Senator by theIllinois General Assemblyin their vote on February 8, 1855. Despite the urgency of that effort, this letter\n                  from Lincoln does not discuss the pressing political situation of December 1854 or\n                  respond to any of the other subjects introduced by Swett in his letters of December12,19, and22, 1854. The stamped postmark of January 18 would suggest that a day of composition\n                  for this letter of January 17 was more likely than one of December 17. If, as on his\n                  misdated letter to Washburne, Lincoln wrote the day and year correctly, but not the\n                  month, that would suggest a possible date for this letter of January 17, 1854. See1854 Federal Election."
+      },
+      {
+        "id": "XEF2D5003-71F0-4E49-91BC-5650145A3528",
+        "text": "3The most recent edition of revised Illinois laws was that published in 1845.Revised Statutes of Illinois(1845);Statutory Revision in Illinois(Springfield: Schnepp & Barnes, 1918), 21-23."
+      },
+      {
+        "id": "XD75D7028-A3AA-4AF2-B4F1-46863CEAF15D",
+        "text": "4In 1853, Lincoln and Swett had represented John S. Barger in legal action against\n                  theIllinois Central Railroad. At the railroad’s behest, the DeWitt County Court had appointed commissioners to\n                  assess damages on land belonging to Barger. Barger successfully appealed the award\n                  amount in theDewitt County Circuit Court. In May 1854, Barger again sued the Illinois Central in DeWitt County Circuit Court,\n                  this time for damages to his crops. Swett appeared for him as plaintiff’s attorney,\n                  but in the time since the previous lawsuit Lincoln had begun to work for the railroad\n                  and served as defense attorney instead. This case was apparently settled, as Barger\n                  dismissed the case.Barger v. Illinois Central RR, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135426;Barger v. Illinois Central RR, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135428;Abraham Lincoln to Mason Brayman;Mason Brayman to Abraham Lincoln."
+      },
+      {
+        "id": "XB749DA1D-AE9E-4318-9C53-C459A5E5906C",
+        "text": "5An unknown person wrote this docketing."
+      },
+      {
+        "id": "X290B7820-928A-444F-AD3F-3A51E8F81CAE",
+        "text": "6A second unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Leonard Swett, 17 [January] 18541"
+      }
+    ],
+    "word_count": 7
+  },
+  "extraction_date": "2025-12-26 21:28:40",
+  "word_count": 8,
+  "processing": {
+    "cleaned": true,
+    "original_length": 52,
+    "cleaned_length": 42,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

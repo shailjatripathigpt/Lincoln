@@ -1,0 +1,69 @@
+{
+  "document_id": "D200699",
+  "url": "https://papersofabrahamlincoln.org/documents/D200699",
+  "metadata": {
+    "date": "1851-11-14",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Debtor and creditor",
+      "Promissory notes"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Joseph S. McIntyre, 14 November 18511 I am here now atcourt, andShoaffhas spoken to me about that suit of his againstThompson–2In order for you to get a trial at the next term, you must get a copy of Thompson's\n\nBill for Discovery, and send it to Shoaff at once, so that he can answer it– Dont neglect this a single day, but get the copy at once, and send it to Shoaff at this\n\nplace by mail–3",
+    "paragraphs": [
+      "Abraham Lincoln to Joseph S. McIntyre, 14 November 18511 I am here now atcourt, andShoaffhas spoken to me about that suit of his againstThompson–2In order for you to get a trial at the next term, you must get a copy of Thompson's",
+      "Bill for Discovery, and send it to Shoaff at once, so that he can answer it– Dont neglect this a single day, but get the copy at once, and send it to Shoaff at this"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 14 November 1851,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1851-11-14.",
+      "Franklin William Scott,Newspapers and Periodicals of Illinois, 1814-1879, vol. 6 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1910), 28, 276;History of Tazewell County Illinois(Chicago: Chas. C. Chapman, 1879), 721; Praecipe, Document ID: 44117; Articles of\n                     Agreement, Document ID: 44121; Bill for Injunction, Document ID: 44133; Order, Document\n                     ID: 44125; Decree, Document ID: 138959,Shoaff v. Thompson, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136311."
+    ],
+    "footnotes": [
+      {
+        "id": "XF67B0780-DFA8-45B2-8CF8-47CC5F3260AC",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the last sheet,\n                  which was folded to create an envelope."
+      },
+      {
+        "id": "X6CD6EE1B-2B3B-4C98-8F05-32E3C1CC4F69",
+        "text": "2Lincoln was in Decatur, Illinois, attending the fall session of theMacon County Circuit Court.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 14 November 1851,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1851-11-14."
+      },
+      {
+        "id": "X9885BD48-BFDA-4937-ACDA-B4E93C756627",
+        "text": "3Lincoln references James Shoaff’s lawsuit against Jackson C. Thompson.  In April 1851,\n                  Shoaff and E. S. Rogers sold Thompson theIllinois Reveille, aDemocraticnewspaper inPekin Illinois, for $1,000, and Thompson gave them promissory notes for the purchase price.  Thompson\n                  failed to pay a $225 note to Shoaff, and Shoaff retained Lincoln and Joseph S. McIntyre\n                  and sued Thompson in an action of assumpsit in theTazewell County Circuit Court, seeking $300 in damages.  Thompson argued that he paid off the note in question\n                  and filed a bill for discovery and injunction.  Thompson wanted the assumpsit suit\n                  dismissed.  Shoaff argued that the money that Thompson paid was actually for subscriptions\n                  and that Thompson never fulfilled the obligation of the note.  In April 1852, the\n                  parties agreed to dismiss the bill of discovery, and the court ruled for Shoaff in\n                  the assumpsit case and awarded him $184.48.Franklin William Scott,Newspapers and Periodicals of Illinois, 1814-1879, vol. 6 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1910), 28, 276;History of Tazewell County Illinois(Chicago: Chas. C. Chapman, 1879), 721; Praecipe, Document ID: 44117; Articles of\n                     Agreement, Document ID: 44121; Bill for Injunction, Document ID: 44133; Order, Document\n                     ID: 44125; Decree, Document ID: 138959,Shoaff v. Thompson, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136311."
+      },
+      {
+        "id": "SPM975981185111140000_1",
+        "text": "4\"4\" written over the printed \"2\"."
+      },
+      {
+        "id": "X6F5F4674-922D-4E0F-A210-10DF1DA24D9C",
+        "text": "5McIntyre wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Joseph S. McIntyre, 14 November 18511"
+      },
+      {
+        "type": "paragraph",
+        "text": "I am here now atcourt, andShoaffhas spoken to me about that suit of his againstThompson–2In order for you to get a trial at the next term, you must get a copy of Thompson's\n               Bill for Discovery, and send it to Shoaff at once, so that he can answer it– Dont neglect this a single day, but get the copy at once, and send it to Shoaff at this\n               place by mail–3"
+      }
+    ],
+    "word_count": 80
+  },
+  "extraction_date": "2025-12-26 21:25:48",
+  "word_count": 80,
+  "processing": {
+    "cleaned": true,
+    "original_length": 440,
+    "cleaned_length": 412,
+    "preserved_originality": true
+  }
+}

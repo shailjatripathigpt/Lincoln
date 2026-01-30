@@ -1,0 +1,52 @@
+{
+  "document_id": "D210915",
+  "url": "https://papersofabrahamlincoln.org/documents/D210915",
+  "metadata": {
+    "date": "1858-08-31",
+    "authors": [
+      "Scott Jr., Matthew T."
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Attorney and client",
+      "Breach of contract",
+      "Death",
+      "Grief in children",
+      "Railroads"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Matthew T. Scott, Jr. to Abraham Lincoln, 31 August 18581 I write to remind you of my suits against the two Railroads.3I do not know whether you will be able to look after them personally if not please\n\ngive the benefit of your views to some one suitable in your judgment to bring the suits– I would like them to come off thiscourt. I have very recently been afflicted in the death of^my^dearly lovedFatherand am now with my brothers & sisters doing what I can to comfort them–4He was old in years but never seemed so to us, as his mind was not in the slightest\n\nimpaired by age– I leave the business above to you & hope to find a letter atChenoafrom you when I reach there Saturday or Wednesday week5",
+    "paragraphs": [
+      "Matthew T. Scott, Jr. to Abraham Lincoln, 31 August 18581 I write to remind you of my suits against the two Railroads.3I do not know whether you will be able to look after them personally if not please",
+      "give the benefit of your views to some one suitable in your judgment to bring the suits– I would like them to come off thiscourt. I have very recently been afflicted in the death of^my^dearly lovedFatherand am now with my brothers & sisters doing what I can to comfort them–4He was old in years but never seemed so to us, as his mind was not in the slightest",
+      "impaired by age– I leave the business above to you & hope to find a letter atChenoafrom you when I reach there Saturday or Wednesday week5"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Certificate of Purchase, Document ID: 65560; Order, Document ID: 53460; Order, Document\n                     ID: 53462;Scott v. St. Louis, Alton, & Chicago RR, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136810; “Assumpsit,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html; Edward Callary,Place Names of Illinois(Urbana and Chicago: University of Illinois Press, 2009), 67.",
+      "Gravestone, The Lexington Cemetery, Lexington, KY."
+    ],
+    "footnotes": [],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Matthew T. Scott, Jr. to Abraham Lincoln, 31 August 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "I write to remind you of my suits against the two Railroads.3I do not know whether you will be able to look after them personally if not please\n               give the benefit of your views to some one suitable in your judgment to bring the suits– I would like them to come off thiscourt. I have very recently been afflicted in the death of^my^dearly lovedFatherand am now with my brothers & sisters doing what I can to comfort them–4He was old in years but never seemed so to us, as his mind was not in the slightest\n               impaired by age– I leave the business above to you & hope to find a letter atChenoafrom you when I reach there Saturday or Wednesday week5"
+      }
+    ],
+    "word_count": 132
+  },
+  "extraction_date": "2025-12-26 21:59:54",
+  "word_count": 132,
+  "processing": {
+    "cleaned": true,
+    "original_length": 729,
+    "cleaned_length": 701,
+    "preserved_originality": true
+  }
+}

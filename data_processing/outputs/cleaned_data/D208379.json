@@ -1,0 +1,78 @@
+{
+  "document_id": "D208379",
+  "url": "https://papersofabrahamlincoln.org/documents/D208379",
+  "metadata": {
+    "date": "1857-03-19",
+    "authors": [
+      "Bissell, William H."
+    ],
+    "keywords": [
+      "Politics and government",
+      "Public administration",
+      "Civil service"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William H. Bissell to Abraham Lincoln, 19 March 18571 It will give me pleasure to appoint Mr. Moffitt3Public Administrator4whenever I have the power— that is, whenever the presentincumbentremoves from thecounty, or, goes out of office by reason of expiration of his term.5 I do not suppose that I possess the power of removal in the case. Do you?6",
+    "paragraphs": [
+      "William H. Bissell to Abraham Lincoln, 19 March 18571 It will give me pleasure to appoint Mr. Moffitt3Public Administrator4whenever I have the power— that is, whenever the presentincumbentremoves from thecounty, or, goes out of office by reason of expiration of his term.5 I do not suppose that I possess the power of removal in the case. Do you?6"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Ann Liberman,Governors’ Mansions of the Midwest(Columbia, MO: University of Missouri Press, 2003), 5-6.",
+      "“An Act to Fix the Tenure of Certain Officers,” 21 February 1843,Laws of Illinois(1843), 10; “Chapter CIX: Wills,” 3 March 1845,Revised Laws of Illinois(1845), 547-48.",
+      "Illinois SenateJournal. 1857. 20th G. A., 55;Illinois State Register(Springfield), 13 March 1856, 1:1.",
+      "Illinois Daily State Journal(Springfield), 20 September 1864, 2:4."
+    ],
+    "footnotes": [
+      {
+        "id": "XF76A1CCF-2C6F-47A1-85B1-57452C57D002",
+        "text": "1William H. Bissell wrote and signed this letter."
+      },
+      {
+        "id": "X4DAD3590-EAD5-4B43-B8B1-B3CB69822E82",
+        "text": "2The Executive Mansion of the governor ofIllinoisis located in Springfield.Ann Liberman,Governors’ Mansions of the Midwest(Columbia, MO: University of Missouri Press, 2003), 5-6."
+      },
+      {
+        "id": "XBDD2C835-D380-42E6-B95F-C8A28CC5648C",
+        "text": "3This is most likelyJames W. Moffett."
+      },
+      {
+        "id": "XD069CE44-4E68-4499-9927-EEE052680419",
+        "text": "4Illinois law authorized the governor to appoint a public administrator for each county.\n                  When a person died intestate, or when a non-resident died intestate, leaving either\n                  goods or chattels, or rights and credits in the state, and with no widow, or next\n                  of kin,   or creditors living in the state, the public administrator of the county\n                  where the person died administered the decedent’s estate.  The term of office was\n                  four years.“An Act to Fix the Tenure of Certain Officers,” 21 February 1843,Laws of Illinois(1843), 10; “Chapter CIX: Wills,” 3 March 1845,Revised Laws of Illinois(1845), 547-48."
+      },
+      {
+        "id": "XA8894DDB-D711-4F00-9D61-730249071651",
+        "text": "5Thomas Lewiswas the public administrator forSangamon Countyin 1856.Illinois SenateJournal. 1857. 20th G. A., 55;Illinois State Register(Springfield), 13 March 1856, 1:1."
+      },
+      {
+        "id": "X9016C405-9C0F-4531-BA89-3E9DCA6CCB2F",
+        "text": "6No response from Abraham Lincoln to Bissell has been found. Bissell did not appoint\n                  a new public administrator for Sangamon County in 1857, and there is no evidence that\n                  Moffett received appointment as a public administrator before his death in 1864.Illinois Daily State Journal(Springfield), 20 September 1864, 2:4."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William H. Bissell to Abraham Lincoln, 19 March 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "It will give me pleasure to appoint Mr. Moffitt3Public Administrator4whenever I have the power— that is, whenever the presentincumbentremoves from thecounty, or, goes out of office by reason of expiration of his term.5"
+      },
+      {
+        "type": "paragraph",
+        "text": "I do not suppose that I possess the power of removal in the case. Do you?6"
+      }
+    ],
+    "word_count": 58
+  },
+  "extraction_date": "2025-12-26 21:43:34",
+  "word_count": 58,
+  "processing": {
+    "cleaned": true,
+    "original_length": 347,
+    "cleaned_length": 347,
+    "preserved_originality": true
+  }
+}

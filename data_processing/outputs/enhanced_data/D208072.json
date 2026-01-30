@@ -1,0 +1,69 @@
+{
+  "document_id": "D208072",
+  "url": "https://papersofabrahamlincoln.org/documents/D208072",
+  "metadata": {
+    "date": "1831-10-20",
+    "authors": [
+      "Richerson, James A."
+    ],
+    "keywords": [
+      "Ferries",
+      "Business enterprises"
+    ],
+    "type": "Bill of sale",
+    "extracted_date": "1831",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "october",
+      "bill",
+      "sale",
+      "james",
+      "richerson",
+      "john",
+      "ferguson",
+      "certify",
+      "soald",
+      "all",
+      "rite",
+      "title",
+      "thenew",
+      "salem",
+      "ferrytojohn"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Bill of Sale from James A. Richerson to John Ferguson, 20 October 18311 This is to certify that I have soald all my Rite and title to thenew Salem ferrytoJohn fergusonthis20thof October 1831",
+    "paragraphs": [
+      "Bill of Sale from James A. Richerson to John Ferguson, 20 October 18311 This is to certify that I have soald all my Rite and title to thenew Salem ferrytoJohn fergusonthis20thof October 1831"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XE74AF226-6401-4D5A-9A49-182F175E2D48",
+        "text": "1Abraham Lincoln only signed his name to this document."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Bill of Sale from James A. Richerson to John Ferguson, 20 October 18311"
+      },
+      {
+        "type": "paragraph",
+        "text": "This is to certify that I have soald all my Rite and title to thenew Salem ferrytoJohn fergusonthis20thof October 1831"
+      }
+    ],
+    "word_count": 33
+  },
+  "extraction_date": "2025-12-26 19:45:06",
+  "word_count": 33,
+  "processing": {
+    "cleaned": true,
+    "original_length": 190,
+    "cleaned_length": 190,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

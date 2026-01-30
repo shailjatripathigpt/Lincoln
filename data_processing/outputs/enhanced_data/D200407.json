@@ -1,0 +1,74 @@
+{
+  "document_id": "D200407",
+  "url": "https://papersofabrahamlincoln.org/documents/D200407",
+  "metadata": {
+    "date": "1846-10-22",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Money",
+      "Lawyers--Fees"
+    ],
+    "type": "Letter",
+    "extracted_date": "1846-10-22",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "note",
+      "abraham",
+      "lincoln",
+      "william",
+      "brown",
+      "october",
+      "just",
+      "returned",
+      "fromcoles",
+      "where",
+      "sawficklin",
+      "who",
+      "handed",
+      "onanthony",
+      "thorntonand"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William Brown, 22 October 18461 I have just returned fromColes, where I sawFicklin, who handed me a note onAnthony Thorntonand somebody else, with $25– in money, which he directed me to pass over to you,\n\nupon presentation of his receipt (for the note I suppose)– I want to get the matter off of my hands– What shall be done about it?",
+    "paragraphs": [
+      "Abraham Lincoln to William Brown, 22 October 18461 I have just returned fromColes, where I sawFicklin, who handed me a note onAnthony Thorntonand somebody else, with $25– in money, which he directed me to pass over to you,",
+      "upon presentation of his receipt (for the note I suppose)– I want to get the matter off of my hands– What shall be done about it?"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XFC57C9CE-D55E-439B-B71C-A74B58851D37",
+        "text": "1Abraham  Lincoln wrote and signed the letter."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William Brown, 22 October 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have just returned fromColes, where I sawFicklin, who handed me a note onAnthony Thorntonand somebody else, with $25– in money, which he directed me to pass over to you,\n               upon presentation of his receipt (for the note I suppose)–"
+      },
+      {
+        "type": "paragraph",
+        "text": "I want to get the matter off of my hands–  What shall be done about it?"
+      }
+    ],
+    "word_count": 64
+  },
+  "extraction_date": "2025-12-26 20:23:54",
+  "word_count": 64,
+  "processing": {
+    "cleaned": true,
+    "original_length": 368,
+    "cleaned_length": 353,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,73 @@
+{
+  "document_id": "D201031",
+  "url": "https://papersofabrahamlincoln.org/documents/D201031",
+  "metadata": {
+    "date": "1858-06-19",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Attorney and client--Fees",
+      "Debtor and creditor",
+      "Political conventions",
+      "Promissory notes"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James W. Somers, 19 June 18581 Yours of the 10thin relation to the suit ofThompson, White & PryorvsWilson & Park, was received some days ago–2There was no ground upon which to stave the case off– Judgment is entered for $555–33,\n               besides costs not yet made up– If you send me the $200 I will apply it on the judgment\n               any day; but I think you need be in no great hurry about it– I charge no fee in the\n               case–3 Please tell your uncleWilliamthat judgment also went againstMiller&Jaquith, there being no ground upon which to stave off–4 Why were you not here to theconvention? We had a great time–5",
+    "paragraphs": [
+      "Abraham Lincoln to James W. Somers, 19 June 18581",
+      "Yours of the 10thin relation to the suit ofThompson, White & PryorvsWilson & Park, was received some days ago–2There was no ground upon which to stave the case off– Judgment is entered for $555–33,\n               besides costs not yet made up– If you send me the $200 I will apply it on the judgment\n               any day; but I think you need be in no great hurry about it– I charge no fee in the\n               case–3",
+      "Please tell your uncleWilliamthat judgment also went againstMiller&Jaquith, there being no ground upon which to stave off–4",
+      "Why were you not here to theconvention? We had a great time–5"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Declaration, Praecipe, Document ID: 67371; Execution Docket, Document ID: 67379,Thompson, White, & Pryor v. Wilson & Parks, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137692.",
+      "Complete Record, Document ID: 65854,John M. Maris & Co. v. Jaquith & Miller, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137572."
+    ],
+    "footnotes": [
+      {
+        "id": "4019023",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "4019024",
+        "text": "2James W. Somers’ June 10 letter to Lincoln has not been located."
+      },
+      {
+        "id": "4019025",
+        "text": "3In the fall of 1857, the firm Wilson and Parks gave the firm Thomson, White and Pryor\n                  two promissory notes totaling $541.34. After Wilson and Parks failed to pay, Thomson,\n                  White and Pryor sued in an action of assumpsit in theU.S. Circuit Court, Southern District of Illinoisand requested $800 in damages. Lincoln and Somers represented Wilson and Parks;Major W. PackardandRobert E. Williamsrepresented Thomson, White and Pryor. After Wilson and Parks failed to appear, JudgeSamuel H. Treatruled for Thomson, White and Pryor, awarding $555.33 plus court costs.Declaration, Praecipe, Document ID: 67371; Execution Docket, Document ID: 67379,Thompson, White, & Pryor v. Wilson & Parks, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137692."
+      },
+      {
+        "id": "4019026",
+        "text": "4In September 1857, the firmJaquith and Millergave John M. Maris & Company a promissory note for $987.68. After Jaquith and Miller\n                  failed to pay, John M. Maris and Co. sued in the U.S. Circuit Court, Southern District\n                  of Illinois in an action of assumpsit and requested $2,000 in damages. Jaquith and\n                  Miller retained Lincoln andWilliam H. Herndon, but ultimately failed to appear. In June 1858, Judge Treat ruled for John M. Maris\n                  and Co. and awarded $1,013.83.Complete Record, Document ID: 65854,John M. Maris & Co. v. Jaquith & Miller, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137572."
+      },
+      {
+        "id": "4019027",
+        "text": "5Somersrepliedto this letter on June 22. Lincoln wrote Somers at least one moreletterrelated to the caseThompson, White & Pryor v. Wilson & Parks."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James W. Somers, 19 June 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 10thin relation to the suit ofThompson, White & PryorvsWilson & Park, was received some days ago–2There was no ground upon which to stave the case off– Judgment is entered for $555–33,\n               besides costs not yet made up– If you send me the $200 I will apply it on the judgment\n               any day; but I think you need be in no great hurry about it– I charge no fee in the\n               case–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Please tell your uncleWilliamthat judgment also went againstMiller&Jaquith, there being no ground upon which to stave off–4"
+      },
+      {
+        "type": "paragraph",
+        "text": "Why were you not here to theconvention? We had a great time–5"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:49:52",
+  "word_count": 112
+}

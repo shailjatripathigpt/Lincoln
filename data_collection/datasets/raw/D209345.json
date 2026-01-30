@@ -1,0 +1,96 @@
+{
+  "document_id": "D209345",
+  "url": "https://papersofabrahamlincoln.org/documents/D209345",
+  "metadata": {
+    "date": "1834-01-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveying",
+      "Real property"
+    ],
+    "type": "Survey"
+  },
+  "content": {
+    "full_text": "Survey for Reason Shipley, 6 January 18341 The above tract of land was Surveyed forReason Shipley— being composed of the North half the West half of the South East quarter & the East\n               half of the South West quarter of Section 26 the entire Section 23 and the East half\n               of the North East quarter of Section 22— all of Township 19 North of Rang[e]7 West—3 Chainmen4 Richard Soward AlexrLatimer [Table 1]",
+    "paragraphs": [
+      "Survey for Reason Shipley, 6 January 18341",
+      "The above tract of land was Surveyed forReason Shipley— being composed of the North half the West half of the South East quarter & the East\n               half of the South West quarter of Section 26 the entire Section 23 and the East half\n               of the North East quarter of Section 22— all of Township 19 North of Rang[e]7 West—3",
+      "Chainmen4",
+      "Richard Soward",
+      "AlexrLatimer",
+      "[Table 1: No | Bearing trees2 | Inches diam[diameter] | course | Links dist[distance] 1 | Rock | in[inches] | ...]"
+    ],
+    "tables_count": 1,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X84C47EA6-A144-4A58-A6B2-64AA477BA49A",
+        "text": "1Abraham Lincoln wrote the entirety of this document, including Calhoun’s signature,\n                  as well as the survey map, which has not been transcribed."
+      },
+      {
+        "id": "X6B134242-AD4E-462A-8FA6-A963CFD0EF02",
+        "text": "2In surveying, bearing trees are important in marking the corners of property."
+      },
+      {
+        "id": "XFDB5A78F-7ECD-4B7D-82FB-4EE894F2127A",
+        "text": "3This  1,120 acres of land was in a part ofSangamon County, Illinoisthat is now a part ofMenard County."
+      },
+      {
+        "id": "X5DE00AC3-0889-4C79-8E35-E096DB740995",
+        "text": "4Two chainmen held the measuring chain for the surveyor."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Survey for Reason Shipley, 6 January 18341"
+      },
+      {
+        "type": "paragraph",
+        "text": "The above tract of land was Surveyed forReason Shipley— being composed of the North half the West half of the South East quarter & the East\n               half of the South West quarter of Section 26 the entire Section 23 and the East half\n               of the North East quarter of Section 22— all of Township 19 North of Rang[e]7 West—3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chainmen4"
+      },
+      {
+        "type": "paragraph",
+        "text": "Richard Soward"
+      },
+      {
+        "type": "paragraph",
+        "text": "AlexrLatimer"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "No | Bearing trees2 | Inches diam[diameter] | course | Links dist[distance]",
+          "1 | Rock | in[inches] | Mound",
+          "2 | Do[Ditto] | Do",
+          "3 | \" | \"",
+          "4 | \" | \"",
+          "5 | \" | \"",
+          "6 | \" | \"",
+          "7 | W.[White] Oak | 45 | N[North] 17 E[East] | 31",
+          "8 | B.[Black] Oak | 14 | S[South] 13  E. | 83",
+          "9 | W.[White] Oak | 13 | N 32W[West] | 33",
+          "10 | Hick.[Hickory] | 9 | S 45 W. | 36",
+          "11 | Elm | 18. | N 12 E | 566",
+          "12 | B. Oak | 7 | N 86W | 149",
+          "13 | Ash | 14 | S 52 W. | 25",
+          "14 | W. Oak | 18 | S 23 E | 41",
+          "15 | O. Cup[Overcup Oak]W. Oak | 1620 | S 22 WS 19 E. | 5640",
+          "16 | W. OakDo | 929 | S 65 EN 57 W | 3128",
+          "17 | Rock | in | Mou | nd",
+          "18 | Hick | 14 | S 67 W. | 25",
+          "19 | S. OakW Oak | 1516 | N 46 WN 27 E. | 1637."
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 19:46:19",
+  "word_count": 72
+}

@@ -1,0 +1,81 @@
+{
+  "document_id": "D200055",
+  "url": "https://papersofabrahamlincoln.org/documents/D200055",
+  "metadata": {
+    "date": "1835-03-24",
+    "authors": [
+      "Calhoun, John"
+    ],
+    "keywords": [
+      "Surveying"
+    ],
+    "type": "Survey",
+    "extracted_date": "1835-03-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "links",
+      "oak",
+      "thence",
+      "chains",
+      "south",
+      "east",
+      "white",
+      "inchess",
+      "north",
+      "inchesn",
+      "west",
+      "quarter",
+      "section",
+      "corner",
+      "same"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Certificate of Survey for John K. Kincaid, 24 March 18351 Surveyed forJohn K. Kincaidthe following tracts of land1stThe South East fourth of the South West quarter of Section 28— 2ndA part of the East half of the South East quarter of Section 23— both in Township\n\n18 North of Range 6 West—21stBegining at the South East corner of the same— at a White Oak 12 inches in diameter\n\nbearing N 85 E. 17 LinksWhite Oak 13 inches— S 66 W— 58 Links— Thence N 89 W 20 chains to a Burr Oak 11 inchesN 59 W— 19 Links Thence North 20 chains to a White Oak 12 inchesS 27 W 55 Links— Thence S 89 E 20 chains to a White Oak 22 inchesS 4 W— 51 Links— Thence South 20 chains to the begining— 2ndBegining at the North East corner of the same at a White Oak 14 inchesS 16 W. 78 LinksWhite Oak 10 inchesN 1 E. 66 Links— Thence N 88 W 10 chains & 17 Links to a White Oak 24 inchesS 76 E. 91 Links— Thence South 29 chains & 49 Links to a Lynn 14 inchesS 51 E. 46 Links Thence S 88 E. 10 chains & 17 Links to a Black Walnut 16 inchesN 88 W— 32– Links— Thence North 29 chains & 49 Links to the begining—",
+    "paragraphs": [
+      "Certificate of Survey for John K. Kincaid, 24 March 18351 Surveyed forJohn K. Kincaidthe following tracts of land1stThe South East fourth of the South West quarter of Section 28— 2ndA part of the East half of the South East quarter of Section 23— both in Township",
+      "18 North of Range 6 West—21stBegining at the South East corner of the same— at a White Oak 12 inches in diameter",
+      "bearing N 85 E.",
+      "17 LinksWhite Oak 13 inches— S 66 W— 58 Links— Thence N 89 W 20 chains to a Burr Oak 11 inchesN 59 W— 19 Links Thence North 20 chains to a White Oak 12 inchesS 27 W 55 Links— Thence S 89 E 20 chains to a White Oak 22 inchesS 4 W— 51 Links— Thence South 20 chains to the begining— 2ndBegining at the North East corner of the same at a White Oak 14 inchesS 16 W.",
+      "78 LinksWhite Oak 10 inchesN 1 E. 66 Links— Thence N 88 W 10 chains & 17 Links to a White Oak 24 inchesS 76 E. 91 Links— Thence South 29 chains & 49 Links to a Lynn 14 inchesS 51 E. 46 Links Thence S 88 E.",
+      "10 chains & 17 Links to a Black Walnut 16 inchesN 88 W— 32– Links— Thence North 29 chains & 49 Links to the begining—"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X4DEDBDB6-027D-472D-A8F1-31D37D9F3C38",
+        "text": "1Abraham  Lincoln wrote all the text on page one, including Calhoun’s signature."
+      },
+      {
+        "id": "X9106280B-301C-4D18-A4B6-079A8775A661",
+        "text": "2The two parcels of land described here are located northwest ofAthensin Menard County."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Survey for John K. Kincaid, 24 March 18351"
+      },
+      {
+        "type": "paragraph",
+        "text": "Surveyed forJohn K. Kincaidthe following tracts of land1stThe South East fourth of the South West quarter of Section 28—  2ndA part of the East half of the South East quarter of Section 23— both in Township\n               18 North of Range 6 West—21stBegining at the South East corner of the same— at a White Oak 12 inches in diameter\n               bearing N[North] 85 E.[East] 17 Links[to a]White Oak 13 inches[in diameter]—  S[South] 66 W—[West] 58 Links— Thence N 89 W 20 chains to a Burr Oak 11 inches[in diameter]N 59 W— 19 Links Thence North 20 chains to a White Oak 12 inches[in diameter]S 27 W 55 Links— Thence S 89 E 20 chains to a White Oak 22 inches[in diameter]S 4 W— 51 Links—  Thence South 20 chains to the begining—"
+      },
+      {
+        "type": "paragraph",
+        "text": "2ndBegining at the North East corner of the same at a White Oak 14 inches[in diameter]S 16 W. 78 Links[to a]White Oak 10 inches[in diameter]N 1 E. 66 Links—  Thence N 88 W 10 chains & 17 Links to a White Oak 24 inches[in diameter]S 76 E. 91 Links—   Thence South 29 chains & 49 Links to a Lynn 14 inches[in diameter]S 51 E. 46 Links Thence S 88 E. 10 chains & 17 Links to a Black Walnut 16 inches[in diameter]N 88 W— 32– Links—  Thence North 29 chains & 49 Links to the begining—"
+      }
+    ],
+    "word_count": 225
+  },
+  "extraction_date": "2025-12-26 20:02:43",
+  "word_count": 236,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1269,
+    "cleaned_length": 1079,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

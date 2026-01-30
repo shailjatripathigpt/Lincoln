@@ -1,0 +1,55 @@
+{
+  "document_id": "D275716",
+  "url": "https://papersofabrahamlincoln.org/documents/D275716",
+  "metadata": {
+    "date": "1848-12-08",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Boatbuilding",
+      "Soldiers--Salaries, etc."
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-12-08",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "thomas",
+      "jesup",
+      "december"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Thomas S. Jesup, 8 December 18481",
+    "paragraphs": [
+      "Abraham Lincoln to Thomas S. Jesup, 8 December 18481"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X9F701C84-5844-418F-B091-3978EDBFAEFE",
+        "text": "1The body of this letter is not in Abraham Lincoln’s hand; Lincoln only signed his\n                  name."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Thomas S. Jesup, 8 December 18481"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:31:37",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 52,
+    "cleaned_length": 52,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

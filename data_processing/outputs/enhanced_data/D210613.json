@@ -1,0 +1,94 @@
+{
+  "document_id": "D210613",
+  "url": "https://papersofabrahamlincoln.org/documents/D210613",
+  "metadata": {
+    "date": "1854-12-13",
+    "authors": [
+      "Riblet, Henry"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "United States. Congress. Senate",
+      "Political parties",
+      "Elections"
+    ],
+    "type": "Letter",
+    "extracted_date": "1854-12-13",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "not",
+      "name",
+      "henry",
+      "riblet",
+      "abraham",
+      "lincoln",
+      "december",
+      "yours",
+      "last",
+      "week",
+      "came",
+      "duly",
+      "only",
+      "apology",
+      "attending"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Henry Riblet to Abraham Lincoln, 13 December 18541 Yours of Last week came duly to hand2& my only apology for not attending^to answering it^sooner is that I am pressed with Business in closig so that I can leave home In answer would say that I have not heard any other name^except your name^spoken of in connixion with the Office & I shall try and do my part towards Electing aWhigas I now & always have been with that Party3",
+    "paragraphs": [
+      "Henry Riblet to Abraham Lincoln, 13 December 18541 Yours of Last week came duly to hand2& my only apology for not attending^to answering it^sooner is that I am pressed with Business in closig so that I can leave home In answer would say that I have not heard any other name^except your name^spoken of in connixion with the Office & I shall try and do my part towards Electing aWhigas I now & always have been with that Party3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73;William H. Randolph to Abraham Lincoln; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Hugh Lamaster;Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Horace W. Fay;Illinois Daily Journal(Springfield), 10 November 1854, 2:5.",
+      "Illinois SenateJournal. 1855. 19th G. A., 242-55."
+    ],
+    "footnotes": [
+      {
+        "id": "X48C0FBD8-E9DC-4156-99E5-CD40D410E781",
+        "text": "1Henry Riblet wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "XAF7BFFB1-3FEF-4CA5-A476-CEBAF13C67A8",
+        "text": "2Abraham Lincoln’s note to Riblet has not been found. However, he was undoubtedly writing\n                  to gain support for hisU.S. Senaterun. Passage of theKansas-Nebraska Actand its effective repeal of theMissouri Compromisereawakened Lincoln’s passion for politics, and he threw himself into thecongressional election campaignin the fall of 1854, crisscrossingIllinoisto deliver speeches against the Kansas-Nebraska Act and in support ofanti-Nebraskacandidates. He even allowed himself to become a candidate for theIllinois General Assembly(albeit unwillingly at first). As the election campaign reached its climax, Lincoln’s\n                  name began to circulate as a possible nominee for one of the state’s U.S. Senate seats.\n                  In November and December 1854, Lincoln wrote confidential letters to political allies\n                  seeking support for his candidacy and information about his prospects.\n                  Lincoln won election to theIllinois House of Representativesin the 1854 election, butdeclinedthe seat in late November in order to run for U.S. Senate.David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73;William H. Randolph to Abraham Lincoln; Autobiography of Abraham Lincoln Written for John L. Scripps;Abraham Lincoln to Hugh Lamaster;Abraham Lincoln to Joseph Gillespie;Abraham Lincoln to Horace W. Fay;Illinois Daily Journal(Springfield), 10 November 1854, 2:5."
+      },
+      {
+        "id": "X1C96F0E0-F560-4461-BE52-F9518683B68F",
+        "text": "3When the General Assembly met in a joint session on February 8, 1855, ten rounds of\n                  voting were needed to finally determineLyman Trumbullas the victor. Riblet cast his vote for Lincoln  on nine ballots before switching\n                  to Trumbull on the final ballot. See1854 Federal Election.Illinois SenateJournal. 1855. 19th G. A., 242-55."
+      },
+      {
+        "id": "X4998DB41-45A1-4EA8-B0F4-9B75BBA7033F",
+        "text": "4Lincoln wrote this docketing."
+      },
+      {
+        "id": "XFC118E11-CFD8-4139-8850-D1DD853C8ADB",
+        "text": "5An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Henry Riblet to Abraham Lincoln, 13 December 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of Last week came duly to hand2& my only apology for not attending^to answering it^sooner is that I am pressed with Business in closig so that I can leave home"
+      },
+      {
+        "type": "paragraph",
+        "text": "In answer would say that I have not heard any other name^except your name^spoken of in connixion with the Office & I shall try and do my part towards Electing aWhigas I now & always have been with that Party3"
+      }
+    ],
+    "word_count": 79
+  },
+  "extraction_date": "2025-12-26 21:32:55",
+  "word_count": 79,
+  "processing": {
+    "cleaned": true,
+    "original_length": 425,
+    "cleaned_length": 425,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

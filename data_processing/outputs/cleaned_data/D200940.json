@@ -1,0 +1,55 @@
+{
+  "document_id": "D200940",
+  "url": "https://papersofabrahamlincoln.org/documents/D200940",
+  "metadata": {
+    "date": "1857-02-05",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Lincoln, Mary"
+    ],
+    "keywords": [
+      "Entertaining"
+    ],
+    "type": "Note"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln and Mary Lincoln to Adolph F. C. Mueller, 1 Mr&MrsLincolnwill be pleased to see you Thursday evening Feb. 5. at 8. o,clock2",
+    "paragraphs": [
+      "Abraham Lincoln and Mary Lincoln to Adolph F. C. Mueller, 1 Mr&MrsLincolnwill be pleased to see you Thursday evening Feb. 5. at 8. o,clock2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 February 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1857-02-05; Theodore Calvin Pease and James G. Randall, eds.,The Diary of Orville Hickman Browning: Volume I, 1850-1864, vol. 20 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1925), 274.",
+      "Katherine Helm,The True Story of Mary, Wife of Lincoln(New York: Harper & Brothers, 1928), 120-21."
+    ],
+    "footnotes": [
+      {
+        "id": "X404629E9-C442-4554-AAB0-ACA7FC672E94",
+        "text": "1Abraham Lincoln wrote this undated invitation, including the address on the envelope.\n                  The date of composition is conjectured from the  proposed day of Thursday, February\n                  5, for the event in the invitation, and  fromOrville H. Browning’s diary entry  of February 5, 1857, stating that he was a guest at a “large & pleasant\n                  party” at the Lincolns’ home inSpringfieldthat evening.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 February 1857,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1857-02-05; Theodore Calvin Pease and James G. Randall, eds.,The Diary of Orville Hickman Browning: Volume I, 1850-1864, vol. 20 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1925), 274."
+      },
+      {
+        "id": "XABB1A9C2-CA6C-4B74-860A-EA240F7A5D94",
+        "text": "2No response to this invitation by Adolph F. C. Mueller has been located. For an additional\n                  invitation to this party in Abraham Lincoln’s hand, seeAbraham Lincoln and Mary Lincoln to Edward R. Thayer.Mary Lincoln described this party as a “very large” and “very handsome entertainment”.\n                  She reported that three hundred of the five hundred invited guests attended, with\n                  rain and a conflicting wedding party inJacksonvillepreventing some guests from attending.Katherine Helm,The True Story of Mary, Wife of Lincoln(New York: Harper & Brothers, 1928), 120-21."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln and Mary Lincoln to Adolph F. C. Mueller, [5 February 1857]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr&MrsLincolnwill be pleased to see you Thursday evening Feb.[February] 5. at 8. o,clock2"
+      }
+    ],
+    "word_count": 24
+  },
+  "extraction_date": "2025-12-26 21:43:13",
+  "word_count": 26,
+  "processing": {
+    "cleaned": true,
+    "original_length": 166,
+    "cleaned_length": 139,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "document_id": "D201051",
+  "url": "https://papersofabrahamlincoln.org/documents/D201051",
+  "metadata": {
+    "date": "1858-07-16",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Campaign speeches",
+      "Elections",
+      "Political campaigns",
+      "Political oratory",
+      "United States. Congress. Senate"
+    ],
+    "type": "Remarks"
+  },
+  "content": {
+    "full_text": "Report of Remarks at Bloomington, Illinois, 16 July 18581 As soon asJudgeDouglasretired, loud calls were made for Hon.Abraham Lincoln. Mr.L. held back for a little while, but the crowd finally succeeded in inducing him to\n\ncome upon the stand. He was received with three rousing cheers— much louder than\n\nthose given to JudgeDouglas. He remarked that he appeared before the audience for the purpose of saying that\n\nhe would take an early opportunity to give his views to the citizens ofthis placeregarding the matters spoken of in JudgeDouglas’ speech. “This meeting,” said Mr.Lincoln, “was called by the friends of JudgeDouglas, and it would be improper for me to address it.” Mr. L. then retired, amid loud cheering.2",
+    "paragraphs": [
+      "Report of Remarks at Bloomington, Illinois, 16 July 18581 As soon asJudgeDouglasretired, loud calls were made for Hon.Abraham Lincoln. Mr.L. held back for a little while, but the crowd finally succeeded in inducing him to",
+      "come upon the stand. He was received with three rousing cheers— much louder than",
+      "those given to JudgeDouglas. He remarked that he appeared before the audience for the purpose of saying that",
+      "he would take an early opportunity to give his views to the citizens ofthis placeregarding the matters spoken of in JudgeDouglas’ speech. “This meeting,” said Mr.Lincoln, “was called by the friends of JudgeDouglas, and it would be improper for me to address it.” Mr. L. then retired, amid loud cheering.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77; Allen C.\n                     Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392-94, 400-401;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 16 July 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-16; 17 July 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-17;Summary of Remarks at Atlanta, Illinois;Summary of Remarks at Atlanta, Illinois; Speech at Springfield, Illinois; Report of Speech at Springfield, Illinois; Report of Speech at Springfield, Illinois.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 4 September 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-04; Report of Speech at Bloomington, Illinois; Michael Burlingame,Abraham Lincoln: A Life, 1:509."
+    ],
+    "footnotes": [
+      {
+        "id": "4018827",
+        "text": "1TheBloomington Pantagraphpublished this report of remarks by Abraham Lincoln beneath a description of Stephen\n                  A. Douglas’ July 16, 1858 arrival and speech inBloomington, following which Lincoln made these comments. No manuscript version of Lincoln’s\n                  remarks has been located. TheIllinois State Journalreprintedthis report on July 21, 1858.Lincoln had recently been nominated at the1858 Illinois Republican Conventionto run against incumbent Douglas to representIllinoisin theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. Lincoln and Douglas both focused their\n                  efforts in the1858 election campaignon the formerWhigstronghold of central Illinois, where the state legislative races were the closest.Lincoln arrived in Bloomington fromSpringfieldon this date and listened to Douglas’ speech in the evening. On the following morning\n                  he attended another speech by Douglas inAtlanta, at which he similarly declined to speak when pressed. Later in the day on July 17\n                  he returned to Springfield, where he delivered a speech of his own in the evening.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-58, 476-77; Allen C.\n                     Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392-94, 400-401;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 16 July 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-16; 17 July 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-17;Summary of Remarks at Atlanta, Illinois;Summary of Remarks at Atlanta, Illinois; Speech at Springfield, Illinois; Report of Speech at Springfield, Illinois; Report of Speech at Springfield, Illinois."
+      },
+      {
+        "id": "4018828",
+        "text": "2Lincoln gave a campaign speech in  Bloomington on September 4, 1858.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 4 September 1858,https://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-09-04; Report of Speech at Bloomington, Illinois; Michael Burlingame,Abraham Lincoln: A Life, 1:509."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Remarks at Bloomington, Illinois, 16 July 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "As soon asJudgeDouglasretired, loud calls were made for Hon.Abraham Lincoln. Mr.L. held back for a little while, but the crowd finally succeeded in inducing him to\n               come upon the stand.  He was received with three rousing cheers— much louder than\n               those given to JudgeDouglas. He remarked that he appeared before the audience for the purpose of saying that\n               he would take an early opportunity to give his views to the citizens ofthis placeregarding the matters spoken of in JudgeDouglas’ speech.  “This meeting,” said Mr.Lincoln, “was called by the friends of JudgeDouglas, and it would be improper for me to address it.”  Mr. L. then retired, amid loud cheering.2"
+      }
+    ],
+    "word_count": 117
+  },
+  "extraction_date": "2025-12-26 21:51:28",
+  "word_count": 117,
+  "processing": {
+    "cleaned": true,
+    "original_length": 764,
+    "cleaned_length": 719,
+    "preserved_originality": true
+  }
+}

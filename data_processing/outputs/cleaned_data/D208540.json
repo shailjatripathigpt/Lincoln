@@ -1,0 +1,57 @@
+{
+  "document_id": "D208540",
+  "url": "https://papersofabrahamlincoln.org/documents/D208540",
+  "metadata": {
+    "date": "1846-01-21",
+    "authors": [
+      "Wiley, James"
+    ],
+    "keywords": [
+      "Attorney and client",
+      "Debtor and creditor",
+      "Collecting of accounts"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "James Wiley to Jesse B. Thomas or Abraham Lincoln, 21 January 18461 Will please to deliver toD DavisEsqr. the mortgage agtLevi Knott, which I left withJudge Thomas2for collection–3",
+    "paragraphs": [
+      "James Wiley to Jesse B. Thomas or Abraham Lincoln, 21 January 18461 Will please to deliver toD DavisEsqr. the mortgage agtLevi Knott, which I left withJudge Thomas2for collection–3"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X3737CAFD-6734-444B-B498-41D8DC632C49",
+        "text": "1James Wiley wrote and signed the letter. David Davis authored the docketing on the\n                  back page."
+      },
+      {
+        "id": "XAA0F17FE-FE67-4A47-B2FA-6EE840427661",
+        "text": "2“Judge” written over “hi”."
+      },
+      {
+        "id": "X992DAA16-B348-4928-9EBE-7E4B872AD1E9",
+        "text": "3Davis and Wiley both lived inMcLean County, Illinois, which may be why Davis was tasked with delivering the document to Wiley."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James Wiley to Jesse B. Thomas or Abraham Lincoln, 21 January 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "Will please to deliver toD DavisEsqr. the mortgage agt[against]Levi Knott, which I left withJudge  Thomas2for collection–3"
+      }
+    ],
+    "word_count": 28
+  },
+  "extraction_date": "2025-12-26 20:22:23",
+  "word_count": 28,
+  "processing": {
+    "cleaned": true,
+    "original_length": 190,
+    "cleaned_length": 180,
+    "preserved_originality": true
+  }
+}

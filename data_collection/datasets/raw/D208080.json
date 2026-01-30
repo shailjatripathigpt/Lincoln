@@ -1,0 +1,66 @@
+{
+  "document_id": "D208080",
+  "url": "https://papersofabrahamlincoln.org/documents/D208080",
+  "metadata": {
+    "date": "1837-XX-XX - 1838-XX-XX",
+    "authors": [
+      "Klein, Joseph, Sr."
+    ],
+    "keywords": [
+      "Lawyers--Fees",
+      "Attorney and client"
+    ],
+    "type": "Account"
+  },
+  "content": {
+    "full_text": "Account of Joseph Klein to Stuart & Lincoln, [1837-1838]1 [Table 1]",
+    "paragraphs": [
+      "Account of Joseph Klein to Stuart & Lincoln, [1837-1838]1",
+      "[Table 1: Joseph Klein ToStuart & Lincoln | Dr 1837-8– | To | writing lease to Merryman | $2.502 \" | Attachmen...]"
+    ],
+    "tables_count": 1,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XAC0CB9FA-4141-4957-AE43-83B0FCDF458A",
+        "text": "1Abraham Lincoln wrote the entire account."
+      },
+      {
+        "id": "CAS68242518371838XXXX0000_1",
+        "text": "2\"$2.50\" written over \"$5.00\"."
+      },
+      {
+        "id": "X99DB0BC2-7F7C-465F-B5F0-26794D236573",
+        "text": "3Klein v. Smith, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139472."
+      },
+      {
+        "id": "X9BE206B2-6650-4F75-85E2-4D81FDD25649",
+        "text": "4Klein v. Webb,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139526."
+      },
+      {
+        "id": "CAS54412218371838XXXX0000_2",
+        "text": "5\"18.50\" written over \"20.00\".  The total should be $17.50."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Account of Joseph Klein to Stuart & Lincoln, [1837-1838]1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "Joseph Klein",
+          "ToStuart & Lincoln | Dr",
+          "1837-8– | To | writing lease to Merryman | $2.502",
+          "\" | Attachment case vsSmith–3 | \" 5–00.",
+          "\" | Obtaining Judgement vsWebb–4 | 10–00",
+          "18.50.5"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:07:49",
+  "word_count": 11
+}

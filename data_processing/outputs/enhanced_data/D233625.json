@@ -1,0 +1,77 @@
+{
+  "document_id": "D233625",
+  "url": "https://papersofabrahamlincoln.org/documents/D233625",
+  "metadata": {
+    "date": "1849-02-24",
+    "authors": [
+      "Edwards, Nelson G."
+    ],
+    "keywords": [
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-02-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "his",
+      "friend",
+      "lincoln",
+      "one",
+      "who",
+      "him",
+      "place",
+      "most",
+      "confidence",
+      "nelson",
+      "edwards",
+      "abraham",
+      "february",
+      "handed"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Nelson G. Edwards to Abraham Lincoln, 24 February 18491 This will be handed you by CaptJohn W TwichellofSt Louiswho visitsWashingtonwith a view of obtaining an appointment to one of the offices in the City— CaptTis a gentleman in whose integrity, those who know & have known him long & well place\n\nthe highest & most perfect confidence and in his hands (let me say) that thePresidentcan safely place the most responsible trustAgain I am glad to claim CaptT as my own friend and I with confidence ask of you—another friend—in his behalf\n\nsuch assistance as you may be enabled to render him. By so doing, you will confer\n\na lasting obligation upon one who need not assure of his friendship for his friend\n\nLincoln",
+    "paragraphs": [
+      "Nelson G. Edwards to Abraham Lincoln, 24 February 18491 This will be handed you by CaptJohn W TwichellofSt Louiswho visitsWashingtonwith a view of obtaining an appointment to one of the offices in the City— CaptTis a gentleman in whose integrity, those who know & have known him long & well place",
+      "the highest & most perfect confidence and in his hands (let me say) that thePresidentcan safely place the most responsible trustAgain I am glad to claim CaptT as my own friend and I with confidence ask of you—another friend—in his behalf",
+      "such assistance as you may be enabled to render him. By so doing, you will confer",
+      "a lasting obligation upon one who need not assure of his friendship for his friend"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Niles' National Register(Philadelphia, PA), 13 June 1849, 1:1;American Almanac and Repository of Useful Knowledge, for the Year 1850(Boston: Charles C. Little and James Brown, 1849), 123;American Almanac and Repository of Useful Knowledge, for the Year 1853(Boston: Little, Brown, 1853), 127."
+    ],
+    "footnotes": [
+      {
+        "id": "X6906100D-5309-47CE-B6D0-87714485D399",
+        "text": "1Nelson G. Edwards wrote the entire body of the letter, including the address on the\n                  last sheet, which was folded to make an envelope."
+      },
+      {
+        "id": "X2407E5BE-3AC0-4DC6-B361-6C4A08EEEB10",
+        "text": "2John W. Twichell received appointment as U.S. marshal of the U.S. Eighth Circuit Court\n                  in St. Louis.  He held that post until at least 1853.Niles' National Register(Philadelphia, PA), 13 June 1849, 1:1;American Almanac and Repository of Useful Knowledge, for the Year 1850(Boston: Charles C. Little and James Brown, 1849), 123;American Almanac and Repository of Useful Knowledge, for the Year 1853(Boston: Little, Brown, 1853), 127."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Nelson G. Edwards to Abraham Lincoln, 24 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "This will be handed you by Capt[Captain]John W TwichellofSt Louiswho visitsWashingtonwith a view of obtaining an appointment to one of the offices in the [former?] City— CaptTis a gentleman in whose integrity, those who know & have known him long & well place\n               the highest & most perfect confidence and in his hands (let me say) that thePresidentcan safely place the most responsible trustAgain I am glad to claim CaptT as my own friend and I with confidence ask of you—another friend—in his behalf\n               such assistance as you may be enabled to render him. By so doing, you will confer\n               a lasting obligation upon one who need not assure of his friendship for his friend\n               Lincoln"
+      }
+    ],
+    "word_count": 124
+  },
+  "extraction_date": "2025-12-26 20:36:00",
+  "word_count": 125,
+  "processing": {
+    "cleaned": true,
+    "original_length": 786,
+    "cleaned_length": 711,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

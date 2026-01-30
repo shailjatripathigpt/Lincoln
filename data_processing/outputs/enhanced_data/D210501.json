@@ -1,0 +1,84 @@
+{
+  "document_id": "D210501",
+  "url": "https://papersofabrahamlincoln.org/documents/D210501",
+  "metadata": {
+    "date": "1849-06-08",
+    "authors": [
+      "Baker, Edward D."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-08",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "edward",
+      "baker",
+      "abraham",
+      "lincoln",
+      "june",
+      "drperkinswishes",
+      "some",
+      "aid",
+      "friend",
+      "his",
+      "explain",
+      "not",
+      "present",
+      "moment"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Edward D. Baker to Abraham Lincoln, 8 June 18491 DrPerkinswishes some aid for a friend of his which he will explain to you.2I can not at the present moment ask anything fromWashington. You may be more fortunate. The Dris one the best fellows in the world, and your very good friendserve him if you can",
+    "paragraphs": [
+      "Edward D. Baker to Abraham Lincoln, 8 June 18491 DrPerkinswishes some aid for a friend of his which he will explain to you.2I can not at the present moment ask anything fromWashington. You may be more fortunate. The Dris one the best fellows in the world, and your very good friendserve him if you can"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Tarrant A. Perkins to Abraham Lincoln;Tarrant A. Perkins to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X245EEEF1-8F4C-4995-A2DA-8E681F80143A",
+        "text": "1Edward D. Baker wrote and signed this letter."
+      },
+      {
+        "id": "X69F6E38F-B86F-4E14-AE1D-BE5946BB7F4F",
+        "text": "2Tarrant A. Perkins wrote Abraham Lincoln at least twice earlier in 1849 requesting\n                  Lincoln’s endorsement of his friendJohn LowryofSt. Louis, Missourifor an appointment. It is possible Lowry is the same friend of Perkins which Baker\n                  refers to in this letter to Lincoln.Tarrant A. Perkins to Abraham Lincoln;Tarrant A. Perkins to Abraham Lincoln."
+      },
+      {
+        "id": "XAE299C23-DBA0-4879-8349-87ADFB730425",
+        "text": "3Benjamin F. James wrote and signed this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Edward D. Baker to Abraham Lincoln, 8 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "DrPerkinswishes some aid for a friend of his which he will explain to you.2I can not at the present moment ask anything fromWashington. You may be more fortunate."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Dris one the best fellows in the world,  and your very good friendserve him if you can"
+      }
+    ],
+    "word_count": 55
+  },
+  "extraction_date": "2025-12-26 21:16:26",
+  "word_count": 55,
+  "processing": {
+    "cleaned": true,
+    "original_length": 302,
+    "cleaned_length": 301,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

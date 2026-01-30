@@ -1,0 +1,89 @@
+{
+  "document_id": "D200366",
+  "url": "https://papersofabrahamlincoln.org/documents/D200366",
+  "metadata": {
+    "date": "1845-01-25",
+    "authors": [
+      "Dougherty, John",
+      "Lamborn, Josiah (Lambourn)",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Temperance",
+      "Legislative bodies--Lower chambers",
+      "Public speaking"
+    ],
+    "type": "Letter",
+    "extracted_date": "1845-01-25",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "evening",
+      "hall",
+      "honorable",
+      "body",
+      "temperance",
+      "your",
+      "josiah",
+      "lamborn",
+      "abraham",
+      "lincoln",
+      "john",
+      "dougherty",
+      "illinois",
+      "house",
+      "representatives"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Josiah Lamborn, Abraham Lincoln and John Dougherty to the Illinois House of Representatives,\n\n25 January 18451 At a very large and respectable meeting of ladies and gentlemen, held in this City\n\non yesterday evening, it was resolved that the undersigned be appointed a committee\n\nto request of2your Honorable body that Mr.Fairchildbe permitted to deliver an address on Temperance this evening and also on monday\n\nevening next in the Representative Hall. Mr. Fairchild is a talented and eloquent\n\nyoung gentleman, eminently qualified to advance the cause of virtue and temperance\n\n& to promote the best interests of society– By permitting<Page 2>your Hall thus to be used your Honorable body will confer a great favor upon the whole\n\ncommunity–^All expences for keeping up fires, cleaning the Hall &c. shall be paid by private contribution–^3",
+    "paragraphs": [
+      "Josiah Lamborn, Abraham Lincoln and John Dougherty to the Illinois House of Representatives,",
+      "25 January 18451 At a very large and respectable meeting of ladies and gentlemen, held in this City",
+      "on yesterday evening, it was resolved that the undersigned be appointed a committee",
+      "to request of2your Honorable body that Mr.Fairchildbe permitted to deliver an address on Temperance this evening and also on monday",
+      "evening next in the Representative Hall. Mr. Fairchild is a talented and eloquent",
+      "young gentleman, eminently qualified to advance the cause of virtue and temperance",
+      "& to promote the best interests of society– By permitting<Page 2>your Hall thus to be used your Honorable body will confer a great favor upon the whole",
+      "community–^All expences for keeping up fires, cleaning the Hall &c. shall be paid by private contribution–^3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1844. 14th G. A., 280-81."
+    ],
+    "footnotes": [
+      {
+        "id": "XE8FF71E6-254F-4FAB-927D-E459B936F11D",
+        "text": "1Josiah Lamborn wrote the letter and signed his, Lincoln’s, and Doughtery’s names.\n                  Lamborn also authored the address on the back page."
+      },
+      {
+        "id": "X858DB729-67E8-4B79-939C-A2C59F49B91F",
+        "text": "2“of” written over “the”."
+      },
+      {
+        "id": "X824EE39A-69D3-48DA-86CD-7B01BDC4C097",
+        "text": "3On January 25, 1845, a resolution was proposed in the House of Representatives stating,\n                  “Resolved, That the use of this Hall, this evening and Monday evening, be granted\n                  to Mr. Fairchild, for the purpose of delivering lectures on the subject of virtue\n                  and temperance.” The House amended the resolution to read “Resolved, That all applications\n                  for the use of this Hall in future, be made to the Speaker, who is hereby authorized\n                  to grant it on any evening that he may think proper.” The House adopted the resolution\n                  as amended.Illinois HouseJournal. 1844. 14th G. A., 280-81."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Josiah Lamborn, Abraham Lincoln and John Dougherty to the Illinois House of Representatives,\n               25 January 18451"
+      },
+      {
+        "type": "paragraph",
+        "text": "At a very large and respectable meeting of ladies and gentlemen, held in this City\n               on yesterday evening, it was resolved that the undersigned be appointed a committee\n               to request of2your Honorable body that Mr.Fairchildbe permitted to deliver an address on Temperance this evening and also on monday\n               evening next in the Representative Hall. Mr. Fairchild is a talented and eloquent\n               young gentleman, eminently qualified to advance the cause of virtue and temperance\n               & to promote the best interests of society– By permitting<Page 2>your Hall thus to be used your Honorable body will confer a great favor upon the whole\n               community–^All expences for keeping up fires, cleaning the Hall &c.[etc.] shall be paid by private contribution–^3"
+      }
+    ],
+    "word_count": 132
+  },
+  "extraction_date": "2025-12-26 20:21:28",
+  "word_count": 132,
+  "processing": {
+    "cleaned": true,
+    "original_length": 945,
+    "cleaned_length": 841,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,66 @@
+{
+  "document_id": "D229218",
+  "url": "https://papersofabrahamlincoln.org/documents/D229218",
+  "metadata": {
+    "date": "1839-05-29",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Trespass",
+      "Theft"
+    ],
+    "type": "Narratio"
+  },
+  "content": {
+    "full_text": "Narratio inCannan v. Kenney, 29 May 18391 Manly F. Cannanvs[versus] Narr.[Narratio]4Matthew P. Kenney [Table 1]",
+    "paragraphs": [
+      "Narratio inCannan v. Kenney, 29 May 18391",
+      "Manly F. Cannanvs[versus] Narr.[Narratio]4Matthew P. Kenney",
+      "[Table 1: State ofIllinois | } | Of this July term of the Sangamon county& | Circuit Courtfor said Circuit— | ...]"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Cannan v. Kenney, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138449; Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 1:27-40."
+    ],
+    "footnotes": [
+      {
+        "id": "X3336826B-0963-41F3-BC4E-90C20AAF1A23",
+        "text": "1Abraham Lincoln wrote the body of the narratio and case title on page three.  William\n                  Butler penned the filing docketing on page three.InThe Law Practice of Abraham Lincoln: Complete Documentary Edition(LPAL), this document is listed as being located at the Beineke Library at Yale University,\n                  but the editors do not have images from Yale. LPAL could be in error, or  it is possible\n                  that Yale had it but does not have it any more,  they failed to scanned it for us,\n                  or the editors never saw it when they visited Beineke."
+      },
+      {
+        "id": "X4537030B-9A36-4AAA-B813-7F7CDF051DEA",
+        "text": "2See “Trespass,” Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/Glossary.html."
+      },
+      {
+        "id": "XB28C8FCE-19EE-4E0F-84D1-3AF2CED6C583",
+        "text": "3Lincolnrepresented Kenney in his lawsuit against Cannan to regain possession of his horse.Cannan v. Kenney, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138449; Daniel W. Stowell et al., eds.,The Papers of Abraham Lincoln: Legal Documents and Cases(Charlottesville: University of Virginia Press, 2008), 1:27-40."
+      },
+      {
+        "id": "XB487BB4C-2808-472F-9B03-C6FD8D500C14",
+        "text": "4See “Narratio,” Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/Glossary.html."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Narratio inCannan v. Kenney, 29 May 18391"
+      },
+      {
+        "type": "description",
+        "text": "Manly F. Cannanvs[versus] Narr.[Narratio]4Matthew P. Kenney"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "State ofIllinois | } | Of this July term of the",
+          "Sangamon county& | Circuit Courtfor said",
+          "Circuit— | County in the year 1839—"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:10:05",
+  "word_count": 15
+}

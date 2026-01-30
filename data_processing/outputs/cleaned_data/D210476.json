@@ -1,0 +1,59 @@
+{
+  "document_id": "D210476",
+  "url": "https://papersofabrahamlincoln.org/documents/D210476",
+  "metadata": {
+    "date": "1849-05-15",
+    "authors": [
+      "Warren, Fitz Henry"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Fitz Henry Warren to Abraham Lincoln, 15 May 18491 POST OFFICE DEPARTMENT.Appointment Office, I have the honor to inform you, that thePostmaster Generalhas appointedJohn GridleyPostmaster atPekinin the State ofIllinoisin place ofDaniel M. Bailey– Removed2",
+    "paragraphs": [
+      "Fitz Henry Warren to Abraham Lincoln, 15 May 18491 POST OFFICE DEPARTMENT.Appointment Office, I have the honor to inform you, that thePostmaster Generalhas appointedJohn GridleyPostmaster atPekinin the State ofIllinoisin place ofDaniel M. Bailey– Removed2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls, Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:186, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *485;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 544*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 514*."
+    ],
+    "footnotes": [
+      {
+        "id": "X8DBBE1CA-58F8-4D13-9E96-3FC48F46011C",
+        "text": "1Fitz Henry Warren signed this form letter."
+      },
+      {
+        "id": "XBB0D2A00-8912-47C5-B0EE-FAACF0C7CF4F",
+        "text": "2Philo H. ThompsonwroteAbraham Lincoln urging him to ask Postmaster General Jacob Collamer to remove Daniel\n                  M. Bailey and replace him with John Gridley. Lincoln responded to this letter sometime\n                  before April 23. Lincoln’s letter has not been located, but he apparently advised\n                  Thompson to circulate a petition on Gridley’s behalf. ThompsonwroteLincoln on April 23 that a petition supporting Gridley, addressed to Collamer, was\n                  in circulation in Pekin. Gridley would remain postmaster until  April 1853.Record of Appointment of Postmasters, 1832-1971, NARA Microfilm Publication, M841, 145 rolls, Records of the Post Office Department,\n                     RG 28, 1845-1855, 18:186, National Archives Building, Washington, DC;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *485;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 544*;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 514*."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fitz Henry Warren to Abraham Lincoln, 15 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "POST OFFICE DEPARTMENT.Appointment Office,"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the honor to inform you, that thePostmaster Generalhas appointedJohn GridleyPostmaster atPekinin the State ofIllinoisin place ofDaniel M. Bailey– Removed2"
+      }
+    ],
+    "word_count": 34
+  },
+  "extraction_date": "2025-12-26 21:15:04",
+  "word_count": 34,
+  "processing": {
+    "cleaned": true,
+    "original_length": 255,
+    "cleaned_length": 255,
+    "preserved_originality": true
+  }
+}

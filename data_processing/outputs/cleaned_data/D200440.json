@@ -1,0 +1,58 @@
+{
+  "document_id": "D200440",
+  "url": "https://papersofabrahamlincoln.org/documents/D200440",
+  "metadata": {
+    "date": "1848-01-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislators",
+      "Military pensions",
+      "Military service, Voluntary"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Peter Hagner, 6 January 18481 Enclosed are some papers pertaining to a claim of DrArgyle W. Furr,– Supposing it might do good, and could do no harm, I have added my certificates\n\nof the genuineness ofColBaker's signatures– Will you please examine them, and address me at theHouse of Representatives?2",
+    "paragraphs": [
+      "Abraham Lincoln to Peter Hagner, 6 January 18481 Enclosed are some papers pertaining to a claim of DrArgyle W. Furr,– Supposing it might do good, and could do no harm, I have added my certificates",
+      "of the genuineness ofColBaker's signatures– Will you please examine them, and address me at theHouse of Representatives?2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X32BFDB8C-2B3F-49FA-B412-2C52C012EB30",
+        "text": "1Abraham Lincoln wrote and signed the letter. Two unknown persons authored the docketing\n                  on the back page. Originally, this document likely enclosedEndorsement of Abraham Lincoln to Unknown, although the two documents have become separated and are now located in different\n                  repositories."
+      },
+      {
+        "id": "X19FF93A7-B5F0-45CA-B8F9-9105A2E64B3D",
+        "text": "2Peter Hagner’s response, if he wrote one, has not been located."
+      },
+      {
+        "id": "X81FC2EA4-248B-4D73-BB55-60E9DB15E123",
+        "text": "3\"Three\" changed to \"Two”."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Peter Hagner, 6 January 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enclosed are some papers pertaining to a claim of DrArgyle W. Furr,–  Supposing it might do good, and could do no harm, I have added my certificates\n               of the genuineness ofColBaker's signatures– Will you please examine them, and address me at theHouse of Representatives?2"
+      }
+    ],
+    "word_count": 52
+  },
+  "extraction_date": "2025-12-26 20:25:39",
+  "word_count": 52,
+  "processing": {
+    "cleaned": true,
+    "original_length": 334,
+    "cleaned_length": 319,
+    "preserved_originality": true
+  }
+}

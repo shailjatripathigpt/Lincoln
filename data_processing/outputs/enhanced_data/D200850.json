@@ -1,0 +1,84 @@
+{
+  "document_id": "D200850",
+  "url": "https://papersofabrahamlincoln.org/documents/D200850",
+  "metadata": {
+    "date": "1855-07-05",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Banks and banking",
+      "Fourth of July"
+    ],
+    "type": "Letter",
+    "extracted_date": "1855-07-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "deposite",
+      "banking",
+      "certificate",
+      "abraham",
+      "lincoln",
+      "aaron",
+      "chapin",
+      "july",
+      "evening",
+      "after",
+      "hours",
+      "judged",
+      "davisleft",
+      "currency",
+      "request"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Aaron L. Chapin, 5 July 18551 On the evening of the 3rd, after Banking hours, JudgeD. Davisleft with me $480 in currency, with the request that I would deposite it, to your credit, in the Banking house ofGeo,, Smith & Co, and send you the certificate of deposite– Yesterday, beingthe 4th, theBankwas closed– This morning I made the deposite, and herewith is the certificate–3",
+    "paragraphs": [
+      "Abraham Lincoln to Aaron L. Chapin, 5 July 18551 On the evening of the 3rd, after Banking hours, JudgeD. Davisleft with me $480 in currency, with the request that I would deposite it, to your credit, in the Banking house ofGeo,, Smith & Co, and send you the certificate of deposite– Yesterday, beingthe 4th, theBankwas closed– This morning I made the deposite, and herewith is the certificate–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 2 July 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-07-02; 18 July 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-07-18.",
+      "Willard L. King,Lincoln’s Manager: David Davis(Cambridge, MA: Harvard University Press, 1960), 66-67, 335."
+    ],
+    "footnotes": [
+      {
+        "id": "XFCB578F4-2274-45AD-AB7E-4E66EE882CF3",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XBC906225-ED3D-49A9-82C8-322A3F7F6C4A",
+        "text": "2Lincoln was in Chicago to attend the session of theU.S. Circuitand District Courts for the Northern District of Illinois which convened on July\n                  2, 1855. He returned toSpringfieldby July 18, 1855.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 2 July 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-07-02; 18 July 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-07-18."
+      },
+      {
+        "id": "XB9CD9F0F-470E-4C5C-AD96-92AB35F7673D",
+        "text": "3Neither the enclosed certificate of deposit nor any further correspondence between\n                  Lincoln and either Aaron L. Chapin or David Davis on this subject have been located.\n                  This transaction may have been related to Davis’ administration of the estate of his\n                  former law partner,Wells Colton, who was the brother of Chapin’s first wife, Martha Colton Chapin.Willard L. King,Lincoln’s Manager: David Davis(Cambridge, MA: Harvard University Press, 1960), 66-67, 335."
+      },
+      {
+        "id": "XEA0B5722-1CC4-419B-A860-BACE61E525E1",
+        "text": "4Chapin wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Aaron L. Chapin, 5 July 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "On the evening of the 3rd, after Banking hours, JudgeD. Davisleft with me $480 in currency, with the request that I would deposite it, to your credit, in the Banking house ofGeo,, Smith & Co, and send you the certificate of deposite– Yesterday, beingthe 4th, theBankwas closed– This morning I made the deposite, and herewith is the certificate–3"
+      }
+    ],
+    "word_count": 67
+  },
+  "extraction_date": "2025-12-26 21:36:14",
+  "word_count": 67,
+  "processing": {
+    "cleaned": true,
+    "original_length": 394,
+    "cleaned_length": 394,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

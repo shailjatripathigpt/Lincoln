@@ -1,0 +1,68 @@
+{
+  "document_id": "D200902",
+  "url": "https://papersofabrahamlincoln.org/documents/D200902",
+  "metadata": {
+    "date": "1856-07-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Politics and government",
+      "Elections",
+      "Presidents--Election"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Benjamin C. Lundy and Others, 28 July 18561 On reaching home day before yesterday, I found your letter of the 15th.2I regret to say I can not be with you on the 4thof Sept. I am under prior obligation to attend a meeting of our friends atGalesburgon that day, if I can possibly leave our courts, which will then be in session.3 Stand by thecause, and the cause will carry you through.4",
+    "paragraphs": [
+      "Abraham Lincoln to Benjamin C. Lundy and Others, 28 July 18561 On reaching home day before yesterday, I found your letter of the 15th.2I regret to say I can not be with you on the 4thof Sept. I am under prior obligation to attend a meeting of our friends atGalesburgon that day, if I can possibly leave our courts, which will then be in session.3 Stand by thecause, and the cause will carry you through.4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 1 September 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-01; 4 September  1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-04; 9 September 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-09.",
+      "Michael Burlingame,Abraham Lincoln: A Life, 1:433; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10."
+    ],
+    "footnotes": [
+      {
+        "id": "X97EF5E90-5D55-4176-A8BD-4B60A150ECF3",
+        "text": "1This letter is attributed to Abraham Lincoln.  The original letter in Lincoln’s handwriting\n                  is not extant."
+      },
+      {
+        "id": "XE5EE685C-6707-4149-94C6-6F6688E7A063",
+        "text": "2A letter from Benjamin C. Lundy to Lincoln dated June 15, 1856, has not been located."
+      },
+      {
+        "id": "X4DBCD936-CDAA-4BDE-A908-7C6B87B21424",
+        "text": "3Lincoln gave a speech inAtlanta, Illinois, on September 4, 1856. He also appeared inLogan County Circuit CourtandMcLean County Circuit Courtin September, but the majority of his time was spent that month stumpingIllinoison behalf ofRepublican Partycandidates for office in the upcoming state andfederal elections.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425-33;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 1 September 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-01; 4 September  1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-04; 9 September 1856,http://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1856-09-09."
+      },
+      {
+        "id": "X6F661BC1-A6A4-49B4-AE5B-02BC809457E8",
+        "text": "4Lincoln is undoubtedly referencing the upcomingpresidential election. The Republican candidate,John C. Fremont, opposedDemocraticcandidateJames BuchananandAmericancandidateMillard Fillmore. Despite Lincoln’s optimism, Buchanan won the presidency. In Illinois, Buchanan won\n                  44.1 percent of the vote to  Fremont’s 40.2 percent and  Fillmore’s 15.7 percent.\n                  See1856 Federal Election.Michael Burlingame,Abraham Lincoln: A Life, 1:433; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Benjamin C. Lundy and Others, 28 July 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "On reaching home day before yesterday, I found your letter of the 15th.2I regret to say I can not be with you on the 4thof Sept.[September]  I am under prior obligation to attend a meeting of our friends atGalesburgon that day, if I can possibly leave our courts, which will then be in session.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Stand by thecause, and the cause will carry you through.4"
+      }
+    ],
+    "word_count": 75
+  },
+  "extraction_date": "2025-12-26 21:40:43",
+  "word_count": 75,
+  "processing": {
+    "cleaned": true,
+    "original_length": 416,
+    "cleaned_length": 404,
+    "preserved_originality": true
+  }
+}

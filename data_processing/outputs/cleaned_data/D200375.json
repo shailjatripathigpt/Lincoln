@@ -1,0 +1,76 @@
+{
+  "document_id": "D200375",
+  "url": "https://papersofabrahamlincoln.org/documents/D200375",
+  "metadata": {
+    "date": "1845-11-XX",
+    "authors": [
+      "Allen, Waterman P.",
+      "Ball, Japhet A.",
+      "Bryan, Nicholas",
+      "Bunn, Jacob",
+      "Canfield, James L.",
+      "Clayton, John S.",
+      "Cutter, Seth R.",
+      "Darling, Ephraim",
+      "Douglass, James",
+      "Hermon, David H.",
+      "Herndon, Richard",
+      "Herndon, William H.",
+      "Lincoln, Abraham (President)",
+      "Logan, Stephen T.",
+      "Meriwether, John H.",
+      "Mitts, Lenard",
+      "Pope, William",
+      "Proctor, Richardson H.",
+      "Strawbridge, Thomas Jr.",
+      "Treat, Samuel H."
+    ],
+    "keywords": [
+      "Assault and battery",
+      "Criminal law",
+      "Pardon",
+      "Prison sentences"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of William H. Herndon and Others to Thomas Ford, 1",
+    "paragraphs": [
+      "Petition of William H. Herndon and Others to Thomas Ford, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "People v. Smith,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140106.",
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:349."
+    ],
+    "footnotes": [
+      {
+        "id": "XB37456FD-28DC-4E04-AB98-D5F474421CB8",
+        "text": "1William H. Herndon wrote the petition. Abraham Lincoln signed his own name only."
+      },
+      {
+        "id": "X0DE462C9-8164-4D8F-BA3A-AE86D0BA2395",
+        "text": "2On November 14, 1845, Samuel Smith was indicted for assault with intent to commit\n                  bodily injury. He retainedLincoln & Herndonand pleaded not guilty. On November 21, 1845, the jury found him guilty, fined him\n                  $10, and sentenced him to three days in jail, to remain in jail until the fine was\n                  paid.People v. Smith,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140106."
+      },
+      {
+        "id": "X182531D3-6DCD-4D5D-86E2-EF07564E6209",
+        "text": "3Governor Thomas Ford pardoned Smith on December 2, 1845.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:349."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of William H. Herndon and Others to Thomas Ford, [November 1845]1"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 20:22:16",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 74,
+    "cleaned_length": 59,
+    "preserved_originality": true
+  }
+}

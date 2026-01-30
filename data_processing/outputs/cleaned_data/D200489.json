@@ -1,0 +1,60 @@
+{
+  "document_id": "D200489",
+  "url": "https://papersofabrahamlincoln.org/documents/D200489",
+  "metadata": {
+    "date": "1848-05-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Finance, Personal",
+      "Husband and wife"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Mary Lincoln, 24 May 18481 Enclosed is the draft as I promised you in my letter of sunday–2It is drawn in favor of yourfather, and I doubt not, he will give you the money for it at once– I write this letter\n\nin thepost-office, surrounded by men and noise, which, together with the fact that there is nothing\n\nnew, makes me write so short a letter3",
+    "paragraphs": [
+      "Abraham Lincoln to Mary Lincoln, 24 May 18481 Enclosed is the draft as I promised you in my letter of sunday–2It is drawn in favor of yourfather, and I doubt not, he will give you the money for it at once– I write this letter",
+      "in thepost-office, surrounded by men and noise, which, together with the fact that there is nothing",
+      "new, makes me write so short a letter3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:257, 262."
+    ],
+    "footnotes": [
+      {
+        "id": "XF52223DB-9EA5-4E09-99D3-E068A259E84E",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XEA616A95-B666-422D-A7D0-7124B1DCF59B",
+        "text": "2Neither the enclosed draft nor Lincoln’s letter of Sunday has been located."
+      },
+      {
+        "id": "XCB4C2138-E7C4-4194-B2B9-9BEDBE97464D",
+        "text": "3Mary Lincoln accompanied her husband to Washington, DC when he assumed his seat in\n                  theU.S. House of Representativesin December 1847, but by April 1848, she and the children had returned to her father’s\n                  house inLexington, Kentucky.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:257, 262."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Mary Lincoln, 24 May 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enclosed is the draft as I promised you in my letter of sunday–2It is drawn in favor of yourfather, and I doubt not, he will give you the money for it at once– I write this letter\n               in thepost-office, surrounded by men and noise, which, together with the fact that there is nothing\n               new, makes me write so short a letter3"
+      }
+    ],
+    "word_count": 69
+  },
+  "extraction_date": "2025-12-26 20:29:25",
+  "word_count": 69,
+  "processing": {
+    "cleaned": true,
+    "original_length": 394,
+    "cleaned_length": 366,
+    "preserved_originality": true
+  }
+}

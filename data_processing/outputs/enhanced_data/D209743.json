@@ -1,0 +1,60 @@
+{
+  "document_id": "D209743",
+  "url": "https://papersofabrahamlincoln.org/documents/D209743",
+  "metadata": {
+    "date": "1841-02-05",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Costs (Law)",
+      "Payment",
+      "Money"
+    ],
+    "type": "Letter",
+    "extracted_date": "1841-02-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "thomas",
+      "gantt",
+      "february"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Thomas T. Gantt, 5 February 18411",
+    "paragraphs": [
+      "Abraham Lincoln to Thomas T. Gantt, 5 February 18411"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X62AF87E8-BE22-4E48-AAAB-69BB504B67E4",
+        "text": "1Abraham Lincoln wrote the letter and the address on page two."
+      },
+      {
+        "id": "X5D7E742D-98B9-4E78-ADB4-18CD2EF94B7A",
+        "text": "2Thomas T. Gantt’s note of January 30, 1841, is not extant.  Lincoln’s payment was\n                  presumably for legal services, but the exact nature of the transaction remains unknown."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Thomas T. Gantt, 5 February 18411"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:15:14",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 52,
+    "cleaned_length": 52,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

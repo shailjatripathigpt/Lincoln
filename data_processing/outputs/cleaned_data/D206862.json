@@ -1,0 +1,79 @@
+{
+  "document_id": "D206862",
+  "url": "https://papersofabrahamlincoln.org/documents/D206862",
+  "metadata": {
+    "date": "1848-09-03",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Presidents--Election",
+      "Public speaking"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Junius Hall, 3 September 18481 Your letter of the 31stultwas received yesterday; and you may be sure I am a good deal flattered by it–2I expect to leave here on tuesday morning, and to leaveNew YorkforBostonon Saturday morning– If any thing happens to break in upon this, I will write you\n\nagain–3As to speech-making, I have the elements of one speech in my mind, which I should\n\nlike to deliver to a community politically affected as I understand yours to be;providedalways a tolerable proportion of that community should intimate a willingness to\n\nhear me–4About going toWorcesterI can not say;5I am somewhat impatient to go home now, although it is not very probableIllinoiswill go forTaylor–6Please accept my thanks for your kindness, and believe Free A. Lincoln, M.C",
+    "paragraphs": [
+      "Abraham Lincoln to Junius Hall, 3 September 18481 Your letter of the 31stultwas received yesterday; and you may be sure I am a good deal flattered by it–2I expect to leave here on tuesday morning, and to leaveNew YorkforBostonon Saturday morning– If any thing happens to break in upon this, I will write you",
+      "again–3As to speech-making, I have the elements of one speech in my mind, which I should",
+      "like to deliver to a community politically affected as I understand yours to be;providedalways a tolerable proportion of that community should intimate a willingness to",
+      "hear me–4About going toWorcesterI can not say;5I am somewhat impatient to go home now, although it is not very probableIllinoiswill go forTaylor–6Please accept my thanks for your kindness, and believe Free A. Lincoln, M.C"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame, Abraham Lincoln: A Life (Baltimore: The Johns Hopkins University\n                     Press, 2008), 1:280-84;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 September 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-09-09; 15 September 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-09-15.",
+      "Summary of Speech at Boston, Massachusetts;Summary of Speech at Boston, Massachusetts.",
+      "John L. Moore, Jon P. Preimesberger, and David R. Tarr, eds.,Congressional Quarterly’s Guide to U.S. Elections, 4th ed. (Washington, DC: CQ Press, 2001), 1:650."
+    ],
+    "footnotes": [
+      {
+        "id": "X85BD6A34-4738-4D3A-BFE2-4014F7B82A24",
+        "text": "1Abraham Lincoln wrote and signed the letter. He also authored the address on the back\n                  page, which was folded to create an envelope."
+      },
+      {
+        "id": "XFC3BB22A-6B39-450F-AACC-8947A8D451EA",
+        "text": "2Hall’s letter has not been located."
+      },
+      {
+        "id": "XAFD2D18D-07F8-4A99-A5CB-407C5E42A981",
+        "text": "3Lincoln references his upcoming tour of Massachusetts, where he spent eleven days\n                  stumping for Zachary Taylor to win thepresidential election of 1848.  Lincoln actually  left Washington on Saturday, September 9 and arrived in Boston\n                  on September 15.Michael Burlingame, Abraham Lincoln: A Life (Baltimore: The Johns Hopkins University\n                     Press, 2008), 1:280-84;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 9 September 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-09-09; 15 September 1848,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1848-09-15."
+      },
+      {
+        "id": "XE6071430-120A-4DF3-AD75-35A30C6D8E17",
+        "text": "4Lincoln delivered a speech in Boston on September 15.Summary of Speech at Boston, Massachusetts;Summary of Speech at Boston, Massachusetts."
+      },
+      {
+        "id": "X1DDDC611-E7FF-406C-9761-C758A148BB7E",
+        "text": "5Lincoln did travel to Worcester, delivering aspeechat City Hall on September 12."
+      },
+      {
+        "id": "X21BD6193-E996-44A1-9DA7-E316BBD529DC",
+        "text": "6Lincoln predicated correctly; Illinois went forLewis Casswith 44.9 percent of the vote.  Taylor received 42.4 percent andMartin Van Buren12.6 percent.John L. Moore, Jon P. Preimesberger, and David R. Tarr, eds.,Congressional Quarterly’s Guide to U.S. Elections, 4th ed. (Washington, DC: CQ Press, 2001), 1:650."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Junius Hall, 3 September 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 31stultwas received yesterday; and you may be sure I am a good deal flattered by it–2I expect to leave here on tuesday morning, and to leaveNew YorkforBostonon Saturday morning– If any thing happens to break in upon this, I will write you\n               again–3As to speech-making, I have the elements of one speech in my mind, which I should\n               like to deliver to a community politically affected as I understand yours to be;providedalways a tolerable proportion of that community should intimate a willingness to\n               hear me–4About going toWorcesterI can not say;5I am somewhat impatient to go home now, although it is not very probableIllinoiswill go forTaylor–6Please accept my thanks for your kindness, and believe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Free A. Lincoln, M.C[Member Congress]"
+      }
+    ],
+    "word_count": 129
+  },
+  "extraction_date": "2025-12-26 20:30:49",
+  "word_count": 130,
+  "processing": {
+    "cleaned": true,
+    "original_length": 849,
+    "cleaned_length": 790,
+    "preserved_originality": true
+  }
+}

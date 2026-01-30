@@ -1,0 +1,70 @@
+{
+  "document_id": "D208929",
+  "url": "https://papersofabrahamlincoln.org/documents/D208929",
+  "metadata": {
+    "date": "1850-07-22",
+    "authors": [
+      "Dole, George W.",
+      "Kercheval, Lewis C.",
+      "Kinzie, John H.",
+      "Morris, Buckner S.",
+      "Newberry, Walter L."
+    ],
+    "keywords": [
+      "Speeches, addresses, etc.",
+      "Eulogies"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Lewis C. Kercheval and Others to Abraham Lincoln, July 22, 18501 We, the undersigned committee, appointed at a meeting of our fellow-citizens, to act in conjunction with the committee appointed by the Common Council of thiscity, to select a suitable person to deliver an address to our citizens at the City Hall\n\nupon the life ofZ. Taylor, deceased, late President of the U.S. of America.2 We have, with great unanimity of feeling and sentiment of both committees, selected\n\nyourself for the purpose named— and desire that you will be kind enough to accept\n\nthereof and to name the time when you will perform that duty, of addressing your fellow-citizens ofChicago, at the place named.3",
+    "paragraphs": [
+      "Lewis C. Kercheval and Others to Abraham Lincoln, July 22, 18501 We, the undersigned committee, appointed at a meeting of our fellow-citizens, to act in conjunction with the committee appointed by the Common Council of thiscity, to select a suitable person to deliver an address to our citizens at the City Hall",
+      "upon the life ofZ. Taylor, deceased, late President of the U.S. of America.2 We have, with great unanimity of feeling and sentiment of both committees, selected",
+      "yourself for the purpose named— and desire that you will be kind enough to accept",
+      "thereof and to name the time when you will perform that duty, of addressing your fellow-citizens ofChicago, at the place named.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William E. Barton,The Life and Public Service of General Zachary Taylor: An Address by Abraham Lincoln(Boston: Houghton Mifflin, 1922), 5, 8.",
+      "Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 2: 1849-1860, by William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     36."
+    ],
+    "footnotes": [
+      {
+        "id": "XD221062B-0B3E-4442-AB13-EED65B52DBD5",
+        "text": "1This letter is attributed to Lewis C. Kercheval, Buckner S. Morris, George W. Dole,\n                  John H. Kinzie, and Walter L. Newberry, but the original letter with their signatures\n                  is not extant. Although the printed transcription of this letter does not include\n                  its full date, Abraham Lincoln’sreplyreveals it was written July 22, 1850."
+      },
+      {
+        "id": "XC387B603-9E3B-4E94-82B2-77E59EB02C7B",
+        "text": "2On July 9, 1850, the Common Council of Chicago met to make arrangements for President\n                  Zachary Taylor’s memorial service. It appears the Council created a Committee of Arrangements\n                  to execute much of the work.William E. Barton,The Life and Public Service of General Zachary Taylor: An Address by Abraham Lincoln(Boston: Houghton Mifflin, 1922), 5, 8."
+      },
+      {
+        "id": "X61F53865-2AF9-4CF9-8FFB-BDA42DCF0E99",
+        "text": "3When the Council met on July 9,  they  immediately selected Lincoln to deliver the\n                  eulogy, and he informally accepted the invitation the next day. However, it was not\n                  until herepliedto this letter on July 24, 1850, that Lincoln formally accepted the invitation to\n                  eulogize Taylor.Earl Schenck Miers, ed.,Lincoln Day by Day: A Chronology, 1809-1865, Volume 2: 1849-1860, by William E. Baringer (Washington, DC: Lincoln Sesquicentennial Commission, 1960),\n                     36."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Lewis C. Kercheval and Others to Abraham Lincoln, July 22, 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "We, the undersigned committee, appointed at a meeting of our fellow-citizens, to act in conjunction with the committee appointed by the Common Council of thiscity, to select a suitable person to deliver an address to our citizens at the City Hall\n               upon the life ofZ. Taylor, deceased, late President of the U.S. of America.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "We have, with great unanimity of feeling and sentiment of both committees, selected\n               yourself for the purpose named— and desire that you will be kind enough to accept\n               thereof and to name the time when you will perform that duty, of addressing your fellow-citizens ofChicago, at the place named.3"
+      }
+    ],
+    "word_count": 114
+  },
+  "extraction_date": "2025-12-26 21:22:59",
+  "word_count": 114,
+  "processing": {
+    "cleaned": true,
+    "original_length": 728,
+    "cleaned_length": 686,
+    "preserved_originality": true
+  }
+}

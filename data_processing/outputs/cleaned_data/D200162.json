@@ -1,0 +1,57 @@
+{
+  "document_id": "D200162",
+  "url": "https://papersofabrahamlincoln.org/documents/D200162",
+  "metadata": {
+    "date": "1839-02-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Promissory notes"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John T. Stuart, 14 February 18391 I have a note in Bank which falls due some time between the 20th& last of this month—Butlerstands as principal, and I as security; but I am in reality the principal— It will\n\ntake between 50 & 55 dollars to renew it— Butler has more than that much money in\n\nhis hands which he collected on a debt of mine since I came away— I wish you to call\n\nat the Bank, have a note filled over my name signed below, get Butler to sign it,\n\nand also to let you have the money to renew it—2Ewingwont do anything— He is not worth a damn—",
+    "paragraphs": [
+      "Abraham Lincoln to John T. Stuart, 14 February 18391 I have a note in Bank which falls due some time between the 20th& last of this month—Butlerstands as principal, and I as security; but I am in reality the principal— It will",
+      "take between 50 & 55 dollars to renew it— Butler has more than that much money in",
+      "his hands which he collected on a debt of mine since I came away— I wish you to call",
+      "at the Bank, have a note filled over my name signed below, get Butler to sign it,",
+      "and also to let you have the money to renew it—2Ewingwont do anything— He is not worth a damn—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to William Butler."
+    ],
+    "footnotes": [
+      {
+        "id": "X2655B02C-CE62-4F51-BE3C-4951EF548BD1",
+        "text": "1Abraham Lincoln wrote the text of this letter and his signature."
+      },
+      {
+        "id": "X2050D133-DA21-4524-8C28-F445D34B951F",
+        "text": "2Lincoln corresponded with Butler on February 23.Abraham Lincoln to William Butler."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John T. Stuart, 14 February 18391"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have a note in Bank which falls due some time between the 20th& last of this month—Butlerstands as principal, and I as security; but I am in reality the principal—  It will\n               take between 50 & 55 dollars to renew it—  Butler has more than that much money in\n               his hands which he collected on a debt of mine since I came away—  I wish you to call\n               at the Bank, have a note filled over my name signed below, get Butler to sign it,\n               and also to let you have the money to renew it—2Ewingwont do anything—  He is not worth a damn—"
+      }
+    ],
+    "word_count": 114
+  },
+  "extraction_date": "2025-12-26 20:08:59",
+  "word_count": 114,
+  "processing": {
+    "cleaned": true,
+    "original_length": 634,
+    "cleaned_length": 574,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "D295469",
+  "url": "https://papersofabrahamlincoln.org/documents/D295469",
+  "metadata": {
+    "date": "1857-09-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Finance, Personal"
+    ],
+    "type": "Check",
+    "extracted_date": "1857-09-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "bunn",
+      "check",
+      "abraham",
+      "lincoln",
+      "jacob",
+      "september",
+      "springfield",
+      "marine",
+      "fire",
+      "insurance",
+      "company",
+      "richards",
+      "smith",
+      "printers",
+      "pay"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Check of Abraham Lincoln to Jacob Bunn, 28 September 18571 Springfield Marine & Fire Insurance Company, Richards & Smith, Printers. Pay toJ. Bunn,or Bearer,Sixteen dollars,68/100Dollars, IN CURRENT BANK NOTES.",
+    "paragraphs": [
+      "Check of Abraham Lincoln to Jacob Bunn, 28 September 18571 Springfield Marine & Fire Insurance Company, Richards & Smith, Printers. Pay toJ. Bunn,or Bearer,Sixteen dollars,68/100Dollars, IN CURRENT BANK NOTES."
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X7E193071-84FF-4C4A-B7A2-5AD576DEB686",
+        "text": "1Abraham Lincoln filled in the blanks of this partially printed check and signed it."
+      },
+      {
+        "id": "X3D7F3138-67B5-45EC-89A7-A33A8DF7146C",
+        "text": "2It is unknown for what Lincoln made this payment to Jacob Bunn."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Abraham Lincoln to Jacob Bunn, 28 September 18571"
+      },
+      {
+        "type": "description",
+        "text": "Springfield Marine & Fire Insurance Company,"
+      },
+      {
+        "type": "description",
+        "text": "Richards & Smith, Printers."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pay toJ. Bunn,or Bearer,Sixteen dollars,68/100Dollars,"
+      },
+      {
+        "type": "paragraph",
+        "text": "IN CURRENT BANK NOTES."
+      }
+    ],
+    "word_count": 29
+  },
+  "extraction_date": "2025-12-26 21:44:23",
+  "word_count": 29,
+  "processing": {
+    "cleaned": true,
+    "original_length": 209,
+    "cleaned_length": 209,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

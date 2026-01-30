@@ -1,0 +1,59 @@
+{
+  "document_id": "D200074",
+  "url": "https://papersofabrahamlincoln.org/documents/D200074",
+  "metadata": {
+    "date": "1836-03-26",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Horses",
+      "Advertising, Newspaper--Awards"
+    ],
+    "type": "Public notice"
+  },
+  "content": {
+    "full_text": "Public Notice of Lost Horse, 26 March 1836 STRAYED OR STOLEN, FROM a stable inSpringfield, on Wednesday, 18th inst.1a large bay horse, star in his forehead, plainly marked with harness, supposed to\n\nbe eight years old; had been shod all round, but is believed to have lost some of\n\nhis shoes, and trots and paces. Any person who will take up said horse, and leave\n\ninformation at theJournaloffice, or with the subscriber atNew-salem, shall be liberally paid for their trouble.2",
+    "paragraphs": [
+      "Public Notice of Lost Horse, 26 March 1836 STRAYED OR STOLEN, FROM a stable inSpringfield, on Wednesday, 18th inst.1a large bay horse, star in his forehead, plainly marked with harness, supposed to",
+      "be eight years old; had been shod all round, but is believed to have lost some of",
+      "his shoes, and trots and paces. Any person who will take up said horse, and leave",
+      "information at theJournaloffice, or with the subscriber atNew-salem, shall be liberally paid for their trouble.2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X2B8184AB-D527-4C06-986B-1081CC52352D",
+        "text": "1March 18, 1836, was, in fact, a Friday."
+      },
+      {
+        "id": "X045E2A8E-561A-4241-A249-EAF6217EC374",
+        "text": "2Missing horses were a common problem in the antebellum Midwest due to poor fencing\n                  and theft. It is unknown whether Lincoln reclaimed this lost horse."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Public Notice of Lost Horse, 26 March 1836"
+      },
+      {
+        "type": "paragraph",
+        "text": "STRAYED OR STOLEN,"
+      },
+      {
+        "type": "paragraph",
+        "text": "FROM a stable inSpringfield, on Wednesday, 18th inst.1a large bay horse, star in his forehead, plainly marked with harness, supposed to\n               be eight years old; had been shod all round, but is believed to have lost some of\n               his shoes, and trots and paces.  Any person who will take up said horse, and leave\n               information at theJournaloffice, or with the subscriber atNew-salem, shall be liberally paid for their trouble.2"
+      }
+    ],
+    "word_count": 80
+  },
+  "extraction_date": "2025-12-26 20:03:23",
+  "word_count": 80,
+  "processing": {
+    "cleaned": true,
+    "original_length": 520,
+    "cleaned_length": 477,
+    "preserved_originality": true
+  }
+}

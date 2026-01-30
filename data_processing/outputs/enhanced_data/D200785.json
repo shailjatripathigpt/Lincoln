@@ -1,0 +1,87 @@
+{
+  "document_id": "D200785",
+  "url": "https://papersofabrahamlincoln.org/documents/D200785",
+  "metadata": {
+    "date": "1854-07-01",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Slavery"
+    ],
+    "type": "Notes",
+    "extracted_date": "1854-07-01",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "slavery",
+      "you",
+      "enslave",
+      "right",
+      "prove",
+      "not",
+      "say",
+      "take",
+      "care",
+      "rule",
+      "slave",
+      "first",
+      "man",
+      "meet",
+      "your"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Notes Regarding Slavery, 1 If A. can prove, however conclusively, that he may, of right, enslave B– why may not\n\nB. snatch the same argument, and prove equally, that he may enslave A?– You say A. is white, and B. is black– It iscolor, then; the lighter, having the right to enslave the darker? Take care– By this rule,\n\nyou are to be slave to the first man you meet, with a fairer skin thanyourself–^your own–^ You do not meancolorexactly?– You mean the whites areintellectuallythe superiors of the blacks; and, therefore have the right to enslave them? Take\n\ncare again– By this rule, you are to be slave to the first man you meet, with an intellect\n\nsuperior to your own– But, say you, it is a question ofinterest; and, if you can make it yourinterest, you have the right to enslave another– Very well– And if he can make it his interest,\n\nhe has the right to enslave you–",
+    "paragraphs": [
+      "Notes Regarding Slavery, 1 If A. can prove, however conclusively, that he may, of right, enslave B– why may not",
+      "B. snatch the same argument, and prove equally, that he may enslave A?– You say A. is white, and B. is black– It iscolor, then; the lighter, having the right to enslave the darker? Take care– By this rule,",
+      "you are to be slave to the first man you meet, with a fairer skin thanyourself–^your own–^ You do not meancolorexactly?– You mean the whites areintellectuallythe superiors of the blacks; and, therefore have the right to enslave them? Take",
+      "care again– By this rule, you are to be slave to the first man you meet, with an intellect",
+      "superior to your own– But, say you, it is a question ofinterest; and, if you can make it yourinterest, you have the right to enslave another– Very well– And if he can make it his interest,",
+      "he has the right to enslave you–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John G. Nicolay and John Hay, eds.,Complete Works of Abraham Lincoln, new and enlarged ed. (New York: Francis D. Tandy, 1905), 2:183-84; Roy P. Basler,\n                     ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:222, 3:438-62; Autobiography of Abraham Lincoln Written for John L. Scripps."
+    ],
+    "footnotes": [
+      {
+        "id": "X4DEC272F-2585-42F8-B55A-DC3F4E9090DA",
+        "text": "1Abraham Lincoln wrote this document. The date, however, is uncertain. Lincoln biographersJohn G. NicolayandJohn Haytentatively dated the document andanother fragment on slaveryJuly 1, 1854.  Roy P. Basler, editor ofThe Collected Works of Abraham Lincoln, maintained this date, despite offering no evidence to support it.  The editors have\n                  retained this date in the absence of any evidence to the contrary.  These notes almost\n                  certainly postdate the passage of theKansas Nebraska Actand repeal of theMissouri Compromisewhich reawakened Lincoln’s interest in politics and spurred him to campaign forWhigcongressional candidateRichard Yatesin the autumn of 1854.John G. Nicolay and John Hay, eds.,Complete Works of Abraham Lincoln, new and enlarged ed. (New York: Francis D. Tandy, 1905), 2:183-84; Roy P. Basler,\n                     ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:222, 3:438-62; Autobiography of Abraham Lincoln Written for John L. Scripps."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Notes Regarding Slavery, [1 July 1854]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "If A. can prove, however conclusively, that he may, of right, enslave B– why may not\n               B. snatch the same argument, and prove equally, that he may enslave A?–"
+      },
+      {
+        "type": "paragraph",
+        "text": "You say A. is white, and B. is black– It iscolor, then; the lighter, having the right to enslave the darker? Take care– By this rule,\n               you are to be slave to the first man you meet, with a fairer skin thanyourself–^your own–^"
+      },
+      {
+        "type": "paragraph",
+        "text": "You do not meancolorexactly?– You mean the whites areintellectuallythe superiors of the blacks; and, therefore have the right to enslave them? Take\n               care again– By this rule, you are to be slave to the first man you meet, with an intellect\n               superior to your own–"
+      },
+      {
+        "type": "paragraph",
+        "text": "But, say you, it is a question ofinterest; and, if you can make it yourinterest, you have the right to enslave another– Very well– And if he can make it his interest,\n               he has the right to enslave you–"
+      }
+    ],
+    "word_count": 160
+  },
+  "extraction_date": "2025-12-26 21:29:47",
+  "word_count": 162,
+  "processing": {
+    "cleaned": true,
+    "original_length": 957,
+    "cleaned_length": 874,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

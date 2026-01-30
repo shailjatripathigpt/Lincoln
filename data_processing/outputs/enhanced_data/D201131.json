@@ -1,0 +1,79 @@
+{
+  "document_id": "D201131",
+  "url": "https://papersofabrahamlincoln.org/documents/D201131",
+  "metadata": {
+    "date": "1858-10-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Political campaigns",
+      "Strategy--Political aspects",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-10-24",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "your",
+      "abraham",
+      "lincoln",
+      "john",
+      "moses",
+      "october",
+      "throw",
+      "all",
+      "weight",
+      "some",
+      "things",
+      "heard",
+      "make",
+      "think",
+      "case"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John Moses, 24 October 18581 Throw on all your weight– Some things I have heard make me think your case is not\n\nso desperate as you thought when I was inWinchester,– Put in your best licks–2",
+    "paragraphs": [
+      "Abraham Lincoln to John Moses, 24 October 18581 Throw on all your weight– Some things I have heard make me think your case is not",
+      "so desperate as you thought when I was inWinchester,– Put in your best licks–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John Moses to William H. Herndon, 19 September 1866,The Herndon-Weik Collection of Lincolniana: Group IV: Papers of William Henry Herndon,\n                        -1891; 1866, Aug. 11-1866, Nov. 16., Manuscript/Mixed Material,https://www.loc.gov/resource/mss25791.mss25791-008_0332_0574/?sp=109&st=image, accessed 26 November 2024; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 3:332.",
+      "John Clayton, comp.,The Illinois Fact Book and Historical Almanac 1673-1968(Carbondale: Southern Illinois University Press, 1970), 219, 222;History of Pike County Illinois(Chicago: Chas. C. Chapman, 1880), 882;Daily Illinois State Journal(Springfield), 3 November 1858, 2:3; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16."
+    ],
+    "footnotes": [
+      {
+        "id": "X89E7F211-5AFB-4888-96EC-F6267E8D6FEB",
+        "text": "1This letter is attributed to Abraham Lincoln, but the original in Lincoln’s handwriting\n                  is not extant.  John Moses added this transcription to a letter he sentWilliam H. Herndonon September 19, 1866.John Moses to William H. Herndon, 19 September 1866,The Herndon-Weik Collection of Lincolniana: Group IV: Papers of William Henry Herndon,\n                        -1891; 1866, Aug. 11-1866, Nov. 16., Manuscript/Mixed Material,https://www.loc.gov/resource/mss25791.mss25791-008_0332_0574/?sp=109&st=image, accessed 26 November 2024; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 3:332."
+      },
+      {
+        "id": "X77C9827A-1920-4934-9F7A-71D26B267E2B",
+        "text": "2In the state elections of 1858, John Moses ran as aRepublicanfor anIllinois Senateseat in the Thirteenth Senate District that includedScott,Pike, andCalhouncounties. Moses earned 653 votes, losing toDemocratChauncey L. Higbee, who amassed 1,000 votes.Abraham Lincolnwas the Republican candidate fromIllinoisfor theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of Representativesand Illinois Senate were of importance to Lincoln’s campaign. Lincoln campaigned\n                  extensively in Illinois in the summer and fall of 1858, delivering speeches and campaigning\n                  on behalf of Republican candidates for the General Assembly. He and his opponent,\n                  DemocratStephen A. Douglas, the incumbent, both focused their campaign efforts on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.\n                  In local elections, Republicans gained a majority of the votes, but Pro-Douglas Democrats\n                  retained control of the General Assembly, and Douglas won reelection. See1858 Illinois Republican Convention;1858 Federal Election.John Clayton, comp.,The Illinois Fact Book and Historical Almanac 1673-1968(Carbondale: Southern Illinois University Press, 1970), 219, 222;History of Pike County Illinois(Chicago: Chas. C. Chapman, 1880), 882;Daily Illinois State Journal(Springfield), 3 November 1858, 2:3; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John Moses, 24 October 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Throw on all your weight–  Some things I have heard make me think your case is not\n               so desperate as you thought when I was inWinchester,– Put in your best licks–2"
+      }
+    ],
+    "word_count": 39
+  },
+  "extraction_date": "2025-12-26 22:01:50",
+  "word_count": 39,
+  "processing": {
+    "cleaned": true,
+    "original_length": 224,
+    "cleaned_length": 209,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

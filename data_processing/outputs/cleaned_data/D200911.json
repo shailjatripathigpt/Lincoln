@@ -1,0 +1,56 @@
+{
+  "document_id": "D200911",
+  "url": "https://papersofabrahamlincoln.org/documents/D200911",
+  "metadata": {
+    "date": "1856-08-21",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political oratory",
+      "Campaign speeches",
+      "Elections",
+      "Presidents--Election"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Hezekiah G. Wells, 21 August 18561 At last I am able to say, no accident preventing, I will be with you on the 27thI suppose I can reach in time, leavingChicagothe same morning– I shall go to theMatteson House, Chicago, on the evening of the 26th2",
+    "paragraphs": [
+      "Abraham Lincoln to Hezekiah G. Wells, 21 August 18561 At last I am able to say, no accident preventing, I will be with you on the 27thI suppose I can reach in time, leavingChicagothe same morning– I shall go to theMatteson House, Chicago, on the evening of the 26th2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Hezekiah G. Wells;Abraham Lincoln to James W. Grimes;Abraham Lincoln to Joel B. McFarland; Tom M. George, “'Mechem’ or ‘Mack’: How a One-Word Correction in theCollected Works of Abraham LincolnReveals the Truth about an 1856 Political Event,”Journal of the Abraham Lincoln Association33 (Summer 2012): 21; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425."
+    ],
+    "footnotes": [
+      {
+        "id": "X61101FF5-7388-41D5-A49A-66D1F9F0ED1C",
+        "text": "1Abraham Lincoln wrote and signed this letter. He also wrote the name and address on\n                  the envelope shown in the second image."
+      },
+      {
+        "id": "X7B71604B-CE4C-4021-B571-5495E382FDC8",
+        "text": "2Lincoln is discussing plans to deliver a stump speech in Kalamazoo, Michigan on August\n                  27, 1856. In July, Hezekiah G. Wells had invited him to speak at a mass meeting in\n                  Kalamazoo in support of theRepublican Party’s presidential candidate,John C. Fremont. During the1856 Federal Electioncampaign, Lincoln delivered more than fifty speeches throughoutIllinoisas he canvassed on behalf of Republican candidates. Although he had declined other\n                  requests to speak beyond Illinois’ border during the campaign, he delivered hisspeechin Kalamazoo on August 27. Lincoln was the only person from outsideMichiganto speak at the event.Ultimately,DemocratJames Buchananwon the presidency. See the1856 Federal Election.Abraham Lincoln to Hezekiah G. Wells;Abraham Lincoln to James W. Grimes;Abraham Lincoln to Joel B. McFarland; Tom M. George, “'Mechem’ or ‘Mack’: How a One-Word Correction in theCollected Works of Abraham LincolnReveals the Truth about an 1856 Political Event,”Journal of the Abraham Lincoln Association33 (Summer 2012): 21; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:425."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Hezekiah G. Wells, 21 August 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "At last I am able to say, no accident preventing, I will be with you on the 27thI suppose I can reach in time, leavingChicagothe same morning– I shall go to theMatteson House, Chicago, on the evening of the 26th2"
+      }
+    ],
+    "word_count": 49
+  },
+  "extraction_date": "2025-12-26 21:41:08",
+  "word_count": 49,
+  "processing": {
+    "cleaned": true,
+    "original_length": 266,
+    "cleaned_length": 266,
+    "preserved_originality": true
+  }
+}

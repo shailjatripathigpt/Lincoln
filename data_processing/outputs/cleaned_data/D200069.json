@@ -1,0 +1,52 @@
+{
+  "document_id": "D200069",
+  "url": "https://papersofabrahamlincoln.org/documents/D200069",
+  "metadata": {
+    "date": "1835-12-26",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Expenditures, Public",
+      "Newspapers"
+    ],
+    "type": "Resolution"
+  },
+  "content": {
+    "full_text": "Resolution regarding Publishing the State Laws in Newspapers, 1 Resolved, that the committee on public accounts and expenditures, be instructed to\n\nenquire into the expediency of authorizeing the publishing of the State laws, of a\n\ngeneral nature, in the public Newspapers, and, that they report by bill or otherwise.",
+    "paragraphs": [
+      "Resolution regarding Publishing the State Laws in Newspapers, 1 Resolved, that the committee on public accounts and expenditures, be instructed to",
+      "enquire into the expediency of authorizeing the publishing of the State laws, of a",
+      "general nature, in the public Newspapers, and, that they report by bill or otherwise."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 158-59, 186."
+    ],
+    "footnotes": [
+      {
+        "id": "XA519E033-5690-4FDA-9E16-A6EB48159138",
+        "text": "1Abraham Lincolnwrote and introduced this resolution in theHouse of Representativeson December 26, 1835, and the House adopted it.  On December 31, the Committee on\n                  Public Accounts and Expenditures, of which Lincoln was a member,  issued areportrecommending against legislation on the subject.Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 158-59, 186."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Resolution regarding Publishing the State Laws in Newspapers, [26 December 1835]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Resolved, that the committee on public accounts and expenditures, be instructed to\n               enquire into the expediency of authorizeing the publishing of the State laws, of a\n               general nature, in the public Newspapers, and, that they report by bill or otherwise."
+      }
+    ],
+    "word_count": 49
+  },
+  "extraction_date": "2025-12-26 20:02:58",
+  "word_count": 51,
+  "processing": {
+    "cleaned": true,
+    "original_length": 363,
+    "cleaned_length": 317,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "D200284",
+  "url": "https://papersofabrahamlincoln.org/documents/D200284",
+  "metadata": {
+    "date": "1841-10-25",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Land titles--Registration and transfer"
+    ],
+    "type": "Bond",
+    "extracted_date": "1841",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "survivor",
+      "said",
+      "lincoln",
+      "east",
+      "them",
+      "after",
+      "death",
+      "october",
+      "north",
+      "paid",
+      "sum",
+      "two",
+      "hundred",
+      "dollars",
+      "same"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Title Bond of Abraham Lincoln, 25 October 18411 Whereas I have purchased ofThomas Lincolnand hiswife, the North East fourth of the South East quarter of Section Twetyin Township Eleven North of Range Nine East, for which I have paid them the sum of\n\ntwo hundred dollars and have taken their deed of conveyance for the same, with a reservation\n\nof a life estate therein to them and the survivor of them—2andNow I bind myself, my heirs and assigns, to convey said tract of land toJohn D. Johnston, or hiheirs, at any time after the death of the survivor of the said Thomas Lincoln & wife\n\nprovided he shall pay me, my heirs or assigns, the said sum of two hundred dollars,\n\nat any timeafterwithin one year after the death of the survivor of the said Thomas Lincoln & wife;\n\nand the same may be paid without interest except after the death of the survivor as\n\naforesaid— Witness my hand and seal this 25thof October A.D. 1841—",
+    "paragraphs": [
+      "Title Bond of Abraham Lincoln, 25 October 18411 Whereas I have purchased ofThomas Lincolnand hiswife, the North East fourth of the South East quarter of Section Twetyin Township Eleven North of Range Nine East, for which I have paid them the sum of",
+      "two hundred dollars and have taken their deed of conveyance for the same, with a reservation",
+      "of a life estate therein to them and the survivor of them—2andNow I bind myself, my heirs and assigns, to convey said tract of land toJohn D. Johnston, or hiheirs, at any time after the death of the survivor of the said Thomas Lincoln & wife",
+      "provided he shall pay me, my heirs or assigns, the said sum of two hundred dollars,",
+      "at any timeafterwithin one year after the death of the survivor of the said Thomas Lincoln & wife;",
+      "and the same may be paid without interest except after the death of the survivor as",
+      "aforesaid— Witness my hand and seal this 25thof October A.D. 1841—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 60-63;Abraham Lincoln to John D. Johnston and Sarah Lincoln;Abraham Lincoln to John D. Johnston."
+    ],
+    "footnotes": [
+      {
+        "id": "X92F1C8B9-9E0C-47CB-9F50-CB71A05AA957",
+        "text": "1Abraham Lincoln wrote and signed the body of this document. John D. Johnston wrote\n                  and signed the endorsement on page two."
+      },
+      {
+        "id": "X9BC7E357-0A50-479E-9463-B8BDB577E06C",
+        "text": "2The land described here comprised the east third of Thomas Lincoln’s 120-acre farmstead\n                  in southernColes County, Illinois. He had purchased  the parcel from his stepson John D. Johnston for $50 on  December\n                  31, 1840. On October 25, 1841, Abraham Lincolnpurchasedthe parcel for $200. The conditions of the purchase  made it amount to a cash gift\n                  to his father and stepmother, who retained the use of the land throughout their lives.\n                  After the death of Thomas Lincoln in 1851, John D. Johnston requested that Lincoln\n                  sell his 40 acres, all that remained of his stepmother’s farm, to a local farmer.\n                  Lincoln refused, and legally retained the title to the land throughout his life. John\n                  J. Hall, who had purchased the west 80 acres, cultivated this tract along with his\n                  own, and he acquired legal title to it in 1888.Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 60-63;Abraham Lincoln to John D. Johnston and Sarah Lincoln;Abraham Lincoln to John D. Johnston."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Title Bond of Abraham Lincoln, 25 October 18411"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whereas I have purchased ofThomas Lincolnand hiswife, the North East fourth of the South East quarter of Section Twe[n]ty[one]in Township Eleven North of Range Nine East, for which I have paid them the sum of\n               two hundred dollars and have taken their deed of conveyance for the same, with a reservation\n               of a life estate therein to them and the survivor of them—2andNow I bind myself, my heirs and assigns, to convey said tract of land toJohn D. Johnston, or hi[s]heirs, at any time after the death of the survivor of the said Thomas Lincoln & wife\n               provided he shall pay me, my heirs or assigns, the said sum of two hundred dollars,\n               at any timeafterwithin one year after the death of the survivor of the said Thomas Lincoln & wife;\n               and the same may be paid without interest except after the death of the survivor as\n               aforesaid—"
+      },
+      {
+        "type": "paragraph",
+        "text": "Witness my hand and seal this 25thof October A.D. 1841—"
+      }
+    ],
+    "word_count": 166
+  },
+  "extraction_date": "2025-12-26 20:16:16",
+  "word_count": 166,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1018,
+    "cleaned_length": 923,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

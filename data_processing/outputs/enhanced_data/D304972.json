@@ -1,0 +1,85 @@
+{
+  "document_id": "D304972",
+  "url": "https://papersofabrahamlincoln.org/documents/D304972",
+  "metadata": {
+    "date": "1855-07-09",
+    "authors": [
+      "Robertson, George"
+    ],
+    "keywords": [
+      "Inscriptions"
+    ],
+    "type": "Inscription",
+    "extracted_date": "1855",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "law",
+      "robertson",
+      "scrap",
+      "politics",
+      "men",
+      "times",
+      "non",
+      "inscription",
+      "george",
+      "abraham",
+      "lincoln",
+      "book",
+      "july",
+      "mrlincolnwill",
+      "favor"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Inscription of George Robertson to Abraham Lincoln in Scrap Book on Law and Politics,\n\nMen and Times, 9 July 18551 MrLincolnwill favor the Author by the acceptance of this poor volume as a testimony of the\n\nhigh regard of his friend SCRAP BOOKONLAW AND POLITICS, MEN AND TIMES.BYGEORGE ROBERTSON, L.L.D.MINIMA PARS SUI.“Non Sibe Sed Pratriæ.”“Non ego ventosæ venor suffragia Plebis.”LEXINGTON, KY:A. W. ELDER, PRINTER AND PUBLISHER.1855.3",
+    "paragraphs": [
+      "Inscription of George Robertson to Abraham Lincoln in Scrap Book on Law and Politics,",
+      "Men and Times, 9 July 18551 MrLincolnwill favor the Author by the acceptance of this poor volume as a testimony of the",
+      "high regard of his friend SCRAP BOOKONLAW AND POLITICS, MEN AND TIMES.BYGEORGE ROBERTSON, L.L.D.MINIMA PARS SUI.“Non Sibe Sed Pratriæ.”“Non ego ventosæ venor suffragia Plebis.”LEXINGTON, KY:A. W. ELDER, PRINTER AND PUBLISHER.1855.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Todd et al. v. Wickliffe, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141847;Todd et al. v. Wickliffe, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141848;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 2 July 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-07-02; 18 July 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-07-18; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:317-19.",
+      "Jon R. Stone,The Routledge Dictionary of Latin Quotations(New York and London: Routledge, 2005), 187, 192, 288."
+    ],
+    "footnotes": [
+      {
+        "id": "X5A757FEF-53B4-4E4E-9933-615D2998EC21",
+        "text": "1George Robertson wrote this inscription, which is tipped in the back of this copy\n                  of his book."
+      },
+      {
+        "id": "XE87A69A0-EEA0-485D-BD47-94A5DC52660D",
+        "text": "2Robertson had represented Abraham andMary Lincolnand other Illinois heirs ofRobert S. Toddin a lawsuit againstRobert Wickliffe.  Robertson had visitedSpringfield, Illinois, in Abraham Lincoln’s absence, leaving behind this inscribed copy of his book.  Lincoln\n                  was inChicagoattending sessions of  theU.S. Circuit Court, Northern District of Illinois.  He returned to Springfield on July 18.  Lincoln acknowledgedreceiptof the volume on August 15, 1855.Todd et al. v. Wickliffe, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141847;Todd et al. v. Wickliffe, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141848;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 2 July 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-07-02; 18 July 1855,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1855-07-18; Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:317-19."
+      },
+      {
+        "id": "XEF557049-A8C6-4F79-A2D9-CC591E0CF6FE",
+        "text": "3“Minima Pars Sui” or “Pars Minima Sui”  is translated as “the smallest part of itself.”\n                  “Non Sibe Sed Pratriæ” is most likely a variant of “Non Sibi Sed Patriæ,” which is\n                  translated as “not for himself but for his country.” Credited to Horace, “Non ego\n                  ventosæ venor suffragia Plebis” is translated as “I do not hunt after the votes of\n                  the fickle multitude.”Jon R. Stone,The Routledge Dictionary of Latin Quotations(New York and London: Routledge, 2005), 187, 192, 288."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Inscription of George Robertson to Abraham Lincoln in Scrap Book on Law and Politics,\n               Men and Times, 9 July 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrLincolnwill favor the Author by the acceptance of this poor volume as a testimony of the\n               high regard of his friend"
+      },
+      {
+        "type": "paragraph",
+        "text": "SCRAP BOOKONLAW AND POLITICS, MEN AND TIMES.BYGEORGE ROBERTSON, L.L.D.MINIMA PARS SUI.“Non Sibe Sed Pratriæ.”“Non ego ventosæ venor suffragia Plebis.”LEXINGTON, KY:A. W. ELDER, PRINTER AND PUBLISHER.1855.3"
+      }
+    ],
+    "word_count": 66
+  },
+  "extraction_date": "2025-12-26 21:36:07",
+  "word_count": 66,
+  "processing": {
+    "cleaned": true,
+    "original_length": 466,
+    "cleaned_length": 438,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

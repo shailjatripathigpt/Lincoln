@@ -1,0 +1,57 @@
+{
+  "document_id": "D210370",
+  "url": "https://papersofabrahamlincoln.org/documents/D210370",
+  "metadata": {
+    "date": "1849-03-07",
+    "authors": [
+      "Davis, John (of Macon Co., IL)"
+    ],
+    "keywords": [
+      "Legislators",
+      "Government publications"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "John Davis to Abraham Lincoln, 7 March 18491 Sir if you will send to my addressFremont's report with the map,3Mr.Corwin's Great Speech on^the^Mexican,^war^4and some of thelatestinteresting speeches that have been delivered you will very much oblige your humble\n               servt.[servant].",
+    "paragraphs": [
+      "John Davis to Abraham Lincoln, 7 March 18491",
+      "Sir if you will send to my addressFremont's report with the map,3Mr.Corwin's Great Speech on^the^Mexican,^war^4and some of thelatestinteresting speeches that have been delivered you will very much oblige your humble\n               servt.[servant]."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "J. C. Fremont,Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to\n                        Oregon and North California in the Years 1843-’44(Washington, DC: Blair and Rives, 1845).",
+      "Speech of Mr. Corwin, of Ohio, on the Mexican War(Washington, DC: Towers, [1847]);Cong. Globe, 29th Cong., 2nd Sess., Appendix, 211-18."
+    ],
+    "footnotes": [
+      {
+        "id": "XC0F9E150-B8B5-47F1-A9E4-A7EB1B55185B",
+        "text": "1John Davis wrote and signed the letter."
+      },
+      {
+        "id": "X07EB7C60-93E0-4A8A-966D-CFF33C77E0E4",
+        "text": "2Davis was likely a student atIllinois Collegewhen he wrote this letter."
+      },
+      {
+        "id": "XBC1EDB46-4AB2-4924-AC01-C83273FD4541",
+        "text": "3In 1845, the U.S. government published explorerJohn C. Fremont’s report of his 1842-1844 expeditions west of theMissouri River.J. C. Fremont,Report of the Exploring Expedition to the Rocky Mountains in the Year 1842, and to\n                        Oregon and North California in the Years 1843-’44(Washington, DC: Blair and Rives, 1845)."
+      },
+      {
+        "id": "XC0E2CA1B-D195-4B42-8721-F92119AFAA7A",
+        "text": "4On February 11, 1847,WhigCongressman Thomas Corwin delivered a long speech in theU.S. Senatedenouncing theMexican War. The full text of the speech was printed in theCongressional Globe Appendixas well as in pamphlet form.Speech of Mr. Corwin, of Ohio, on the Mexican War(Washington, DC: Towers, [1847]);Cong. Globe, 29th Cong., 2nd Sess., Appendix, 211-18."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John Davis to Abraham Lincoln, 7 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sir if you will send to my addressFremont's report with the map,3Mr.Corwin's Great Speech on^the^Mexican,^war^4and some of thelatestinteresting speeches that have been delivered you will very much oblige your humble\n               servt.[servant]."
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:37:21",
+  "word_count": 39
+}

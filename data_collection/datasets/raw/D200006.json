@@ -1,0 +1,53 @@
+{
+  "document_id": "D200006",
+  "url": "https://papersofabrahamlincoln.org/documents/D200006",
+  "metadata": {
+    "date": "1832-01-25",
+    "authors": [
+      "Ferguson, John"
+    ],
+    "keywords": [
+      "Ferries",
+      "Business enterprises"
+    ],
+    "type": "Bill of sale"
+  },
+  "content": {
+    "full_text": "Bill of Sale from John Ferguson to Alexander Trent, 25 January 18321 Know all men by these presents that IJohn Fergusonfor and in considderation of the Sum of thirty five dollars have given granted bargained\n               and Sold all my right and title in and to theNew Salem ferryin Sangamon County untoAlexander Trent2 In testimony whereof I have hereunto Set my hand this25thJanuary 1832",
+    "paragraphs": [
+      "Bill of Sale from John Ferguson to Alexander Trent, 25 January 18321",
+      "Know all men by these presents that IJohn Fergusonfor and in considderation of the Sum of thirty five dollars have given granted bargained\n               and Sold all my right and title in and to theNew Salem ferryin Sangamon County untoAlexander Trent2",
+      "In testimony whereof I have hereunto Set my hand this25thJanuary 1832"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Minutes, 5 March 1832, Sangamon County Commissioners’ Court Record Book C, 265, Manuscripts\n                     Collection, Abraham Lincoln Presidential Library, Springfield IL."
+    ],
+    "footnotes": [
+      {
+        "id": "XC09A308D-ACE3-4DA3-9E03-616EFCE11CFD",
+        "text": "1Abraham Lincoln wrote the entirety of the text on page one, including John Ferguson’s\n                  signature."
+      },
+      {
+        "id": "XF752FA12-674B-4868-877F-603B66932091",
+        "text": "2On March 5, 1832, theSangamon County Commissioners’ Courtapproved the sale and authorized Trent to operate the ferry at New Salem at the same\n                  rates charged by previous ownerJames A. Richerson.Minutes, 5 March 1832, Sangamon County Commissioners’ Court Record Book C, 265, Manuscripts\n                     Collection, Abraham Lincoln Presidential Library, Springfield IL."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Bill of Sale from John Ferguson to Alexander Trent, 25 January 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "Know all men by these presents that IJohn Fergusonfor and in considderation of the Sum of thirty five dollars have given granted bargained\n               and Sold all my right and title in and to theNew Salem ferryin Sangamon County untoAlexander Trent2"
+      },
+      {
+        "type": "paragraph",
+        "text": "In testimony whereof I have hereunto Set my hand this25thJanuary 1832"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 19:44:47",
+  "word_count": 63
+}

@@ -1,0 +1,81 @@
+{
+  "document_id": "D210522",
+  "url": "https://papersofabrahamlincoln.org/documents/D210522",
+  "metadata": {
+    "date": "1849-06-12",
+    "authors": [
+      "Francis, Allen"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-12",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "your",
+      "allen",
+      "francis",
+      "abraham",
+      "lincoln",
+      "june",
+      "enclosed",
+      "please",
+      "find",
+      "application",
+      "recommendation",
+      "about",
+      "talk",
+      "hope"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Allen Francis to Abraham Lincoln, 12 June 18491 Enclosed please find the application and recommendation about which we had a talk.2I hope you will personally present my case toOld Zack. I have great faith that if you do that I shall succeed. I rest my hopes in your\n\nhand. Secure it for me and I will be grateful to you forever– and mywifewill pray that no cloud may ever darken the sunshine of your prosperity.3",
+    "paragraphs": [
+      "Allen Francis to Abraham Lincoln, 12 June 18491 Enclosed please find the application and recommendation about which we had a talk.2I hope you will personally present my case toOld Zack. I have great faith that if you do that I shall succeed. I rest my hopes in your",
+      "hand. Secure it for me and I will be grateful to you forever– and mywifewill pray that no cloud may ever darken the sunshine of your prosperity.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1863(Washington, DC: Government Printing Office, 1864), 3;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1865(Washington, DC: Government Printing Office, 1866), 4."
+    ],
+    "footnotes": [
+      {
+        "id": "X09B13C0E-7A81-4FE1-96EA-0C125FB2DF66",
+        "text": "1Allen Francis wrote and signed this letter."
+      },
+      {
+        "id": "X67034291-3C97-41E4-831A-4E59EE0A3056",
+        "text": "2The enclosed materials Francis refers to have not been located."
+      },
+      {
+        "id": "XC0783983-94ED-4498-9299-CC0CC59ADFE1",
+        "text": "3No letter on this topic from Abraham Lincoln to PresidentZachary Taylorhas been located. However, aletterLincoln wrote  Secretary of StateJohn M. Claytonin August 1849 reveals he discussed the application of Francis for U.S. Consul atGlasgow, Scotland. Francis’ name does not appear in the official registers of the officers and agents\n                  of the government for 1849, 1851, 1853, 1855, 1857, or  1859, so apparently, he did\n                  not receive an appointment. Once he was president, Lincoln appointed Francis to the\n                  consulate in Victoria, British Columbia,Canada.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1857(Washington, DC: A. O. P. Nicholson, 1857);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1859(Washington, DC: William A. Harris, 1859);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1863(Washington, DC: Government Printing Office, 1864), 3;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1865(Washington, DC: Government Printing Office, 1866), 4."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Allen Francis to Abraham Lincoln, 12 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Enclosed please find the application and recommendation about which we had  a talk.2I hope you will personally present my case toOld Zack.  I have great faith that  if you do that I shall succeed.  I rest my hopes in your\n               hand.  Secure it for me and I will be grateful to you forever– and mywifewill pray that no cloud  may ever darken the sunshine of your  prosperity.3"
+      }
+    ],
+    "word_count": 75
+  },
+  "extraction_date": "2025-12-26 21:18:00",
+  "word_count": 75,
+  "processing": {
+    "cleaned": true,
+    "original_length": 433,
+    "cleaned_length": 412,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

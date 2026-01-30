@@ -1,0 +1,99 @@
+{
+  "document_id": "D200501",
+  "url": "https://papersofabrahamlincoln.org/documents/D200501",
+  "metadata": {
+    "date": "1848-06-16",
+    "authors": [
+      "Davis, Walter"
+    ],
+    "keywords": [
+      "Soldiers",
+      "Real property",
+      "Military pensions",
+      "Military service, Voluntary",
+      "Debtor and creditor",
+      "Legislative bodies--U.S. states--Constituent communications"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "his",
+      "you",
+      "all",
+      "mounted",
+      "regiment",
+      "supose",
+      "like",
+      "account",
+      "papers",
+      "claim",
+      "walter",
+      "davis",
+      "abraham",
+      "lincoln",
+      "june"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Walter Davis to Abraham Lincoln, 16 June 18481 Yesterday I received a letter from theTreasurey departmentcontaining a draft for Fifty three dollars &87/100being the ballance dueThomas Davisdeseased, from the First unto the Eighteenth of April 1847 as 2ndLieut in the Mounted Rifle Regiment, that I supose Is all correct. But I would like to have an examination made into his account while he was a mounted\n\nvollunteer in theTexasRegiment underCol Hays, I shall be perfectly sattisfied with what the proper papers shows to matters of fact, if there is any thing due him\n\non that account be it ever so little, it is all needed to pay his debts2 I supose that his claim to land as a private in the Texas Regiment has not yet been settledI would like if you would bring back with you the papers that I sent you proving up\n\nhis claim, providing you think It will be best to do so. It is the only proof that\n\nI have at all concerning his milatary sevices, but use your own judgement in the whole matter.",
+    "paragraphs": [
+      "Walter Davis to Abraham Lincoln, 16 June 18481 Yesterday I received a letter from theTreasurey departmentcontaining a draft for Fifty three dollars &87/100being the ballance dueThomas Davisdeseased, from the First unto the Eighteenth of April 1847 as 2ndLieut in the Mounted Rifle Regiment, that I supose Is all correct. But I would like to have an examination made into his account while he was a mounted",
+      "vollunteer in theTexasRegiment underCol Hays, I shall be perfectly sattisfied with what the proper papers shows to matters of fact, if there is any thing due him",
+      "on that account be it ever so little, it is all needed to pay his debts2 I supose that his claim to land as a private in the Texas Regiment has not yet been settledI would like if you would bring back with you the papers that I sent you proving up",
+      "his claim, providing you think It will be best to do so. It is the only proof that",
+      "I have at all concerning his milatary sevices, but use your own judgement in the whole matter."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Wm. Hugh Robarts,Mexican War Veterans: A Complete Roster of the Regular and Volunteer Troops in the\n                        War Between the United States and Mexico, from 1846 to 1848(Washington, DC: Brentano's, 1887), 74."
+    ],
+    "footnotes": [
+      {
+        "id": "X48D3311A-E2B2-4BB5-B5CE-96832C501373",
+        "text": "1Walter Davis wrote and signed the letter. Abraham Lincoln wrote and signed the endorsement.\n                  Lincolnrespondedto  Davis on June 26."
+      },
+      {
+        "id": "X801B061A-7F80-43E1-AC23-9468B188A440",
+        "text": "2The 1st regiment of Texas Mounted Rifle Volunteers under Colonel John C. Hays served\n                  from June to October 1846.Wm. Hugh Robarts,Mexican War Veterans: A Complete Roster of the Regular and Volunteer Troops in the\n                        War Between the United States and Mexico, from 1846 to 1848(Washington, DC: Brentano's, 1887), 74."
+      },
+      {
+        "id": "X952724EC-8AF0-4161-8C6B-B9904AE79043",
+        "text": "3The author of this endorsement probably meant Thomas Davis."
+      },
+      {
+        "id": "X3E9C9988-76F3-4328-B3C9-06C527DEC548",
+        "text": "4Mr. Farquher could not be positively identified."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Walter Davis to Abraham Lincoln, 16 June 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yesterday I received a letter from theTreasurey departmentcontaining a draft for Fifty three dollars &87/100being the ballance dueThomas Davisdeseased, from the First unto the Eighteenth of April 1847 as 2ndLieut[Lieutenant] in the Mounted Rifle Regiment, that I supose Is all correct."
+      },
+      {
+        "type": "paragraph",
+        "text": "But I would like to have an examination made into his account while he was a mounted\n               vollunteer in theTexasRegiment underCol Hays, I shall  be perfectly sattisfied with what the proper papers shows to matters of fact, if there is any thing due him\n               on that account be it ever so little, it is all needed to pay his debts2"
+      },
+      {
+        "type": "paragraph",
+        "text": "I supose that his claim to land as a private in the Texas Regiment has not yet been settledI would like if you would bring back with you the papers that I sent you proving up\n               his claim, providing you think It will be best to do so. It is the only proof that\n               I have at all concerning his milatary sevices, but use your own judgement in the whole matter."
+      }
+    ],
+    "word_count": 180
+  },
+  "extraction_date": "2025-12-26 20:30:22",
+  "word_count": 180,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1066,
+    "cleaned_length": 997,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

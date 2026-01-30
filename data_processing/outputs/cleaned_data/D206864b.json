@@ -1,0 +1,69 @@
+{
+  "document_id": "D206864b",
+  "url": "https://papersofabrahamlincoln.org/documents/D206864b",
+  "metadata": {
+    "date": "1848-11-07 - 1849-03-05",
+    "authors": [],
+    "keywords": [
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Orville H. Browning and Others to Zachary Taylor, [7 November 1848 - 5\n\nMarch 1849]1 (Copy.) The undersigned, citizens of the State ofIllinois, beg leave to recommend one of their fellow-citizens, Col. N. Green Wilcox, to the favorable consideration of the President and Heads of Departments, should\n\nhe make application for office, and receive an appointment, we doubt not that the\n\nduties of any station which he would accept, will be discharged with honesty and fidelity.2 (Over.) We cheerfully concur with the above gentlemen in their expression in favor of Mr.\n\nWilcox, and bear willing testimony to his fine capacity and character.",
+    "paragraphs": [
+      "Petition of Orville H. Browning and Others to Zachary Taylor, [7 November 1848 - 5",
+      "March 1849]1 (Copy.) The undersigned, citizens of the State ofIllinois, beg leave to recommend one of their fellow-citizens, Col. N. Green Wilcox, to the favorable consideration of the President and Heads of Departments, should",
+      "he make application for office, and receive an appointment, we doubt not that the",
+      "duties of any station which he would accept, will be discharged with honesty and fidelity.2 (Over.) We cheerfully concur with the above gentlemen in their expression in favor of Mr.",
+      "Wilcox, and bear willing testimony to his fine capacity and character."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 368, 415.",
+      "Augustus B. Easton,History of the Saint Croix Valley(Chicago: H. C. Cooper, Jr., 1909), 1:356;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 138;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 142; Nathaniel Wilcox to Abraham Lincoln;  Richard Yates to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X5D58F01F-AE38-4457-BCAC-A818D1FE35BD",
+        "text": "1Abraham Lincoln endorsed theoriginalversion of this letter of recommendation sometime between Zachary Taylor’s election\n                  on November 7, 1848, and his inauguration on March 5, 1849.Michael F. Holt,The Rise and Fall of the American Whig Party: Jacksonian Politics and the Onset of\n                        the Civil War(New York: Oxford University Press, 1999), 368, 415."
+      },
+      {
+        "id": "X886E413C-50A5-41A2-B368-B79178795221",
+        "text": "2In June 1849, Lincoln repeated his recommendation of Nathaniel G. Wilcox for the General\n                  Land Office in aletterto the Secretary of the InteriorThomas Ewing. Wilcox received the appointment of receiver atStillwater, Minnesota, and he served until 1852. This copy of the original was made on February 23, 1861,\n                  likely to be used as part of Wilcox’s applications to the Lincoln administration for\n                  an appointment in the West.Augustus B. Easton,History of the Saint Croix Valley(Chicago: H. C. Cooper, Jr., 1909), 1:356;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 138;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 142; Nathaniel Wilcox to Abraham Lincoln;  Richard Yates to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Orville H. Browning and Others to Zachary Taylor, [7 November 1848 - 5\n               March 1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "(Copy.)"
+      },
+      {
+        "type": "paragraph",
+        "text": "The undersigned, citizens of the State ofIllinois, beg leave to recommend one of their fellow-citizens, Col.[Colonel] N. Green Wilcox, to the favorable consideration of the President and Heads of Departments, should\n               he make application for office, and receive an appointment, we doubt not that the\n               duties of any station which he would accept, will be discharged with honesty and fidelity.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "(Over.)"
+      },
+      {
+        "type": "paragraph",
+        "text": "We cheerfully concur with the above gentlemen in their expression in favor of Mr.\n               Wilcox, and bear willing testimony to his fine capacity and character."
+      }
+    ],
+    "word_count": 104
+  },
+  "extraction_date": "2025-12-26 20:37:37",
+  "word_count": 104,
+  "processing": {
+    "cleaned": true,
+    "original_length": 714,
+    "cleaned_length": 649,
+    "preserved_originality": true
+  }
+}

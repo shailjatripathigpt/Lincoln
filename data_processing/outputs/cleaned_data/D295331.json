@@ -1,0 +1,98 @@
+{
+  "document_id": "D295331",
+  "url": "https://papersofabrahamlincoln.org/documents/D295331",
+  "metadata": {
+    "date": "1855-08-28",
+    "authors": [
+      "Lindsay, Isaac"
+    ],
+    "keywords": [
+      "Promissory notes",
+      "Debtor and creditor"
+    ],
+    "type": "Promissory note"
+  },
+  "content": {
+    "full_text": "Promissory Note of Isaac Lindsay to Abraham Lincoln, 28 August 18551 Credit within sixty dollars, being first years interest4 Augt 29. 1857. Received sixty dollars, second years interest on within– Sept 1. 1858–Credit the within sixty dollars, being third year’s interest Sep. 7. 1859. Received Sixty dollars fourth year’s interest August 29. 1860. Credit within Sixty dollars, fifth years interest–",
+    "paragraphs": [
+      "Promissory Note of Isaac Lindsay to Abraham Lincoln, 28 August 18551 Credit within sixty dollars, being first years interest4 Augt 29. 1857. Received sixty dollars, second years interest on within– Sept 1. 1858–Credit the within sixty dollars, being third year’s interest Sep. 7. 1859. Received Sixty dollars fourth year’s interest August 29. 1860. Credit within Sixty dollars, fifth years interest–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Isaac Lindsay to Abraham Lincoln; Receipt for Notes Left with Robert Irwin for Collection; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 76, 80, 164, 165, 166."
+    ],
+    "footnotes": [
+      {
+        "id": "X7AA51652-E62D-4E54-A348-58DB77AE9216",
+        "text": "1This partially printed note appears to be filled out by Abraham Lincoln."
+      },
+      {
+        "id": "XDF03C90C-7001-4ABF-9171-ADB94E4B1577",
+        "text": "2Isaac Lindsayexecuted a mortgage in Springfield to Lincoln on September 1, 1855 to secure the\n                  payment of this note.  The mortgage was on the east half of the north forty-three\n                  feet of lot four in block one of the old town plat for Springfield, Illinois.  The\n                  Lindsay note was among those that Lincoln left with Robert Irwin for collection when\n                  the former left Springfield forWashington, DCin February 1861.Isaac Lindsay to Abraham Lincoln; Receipt for Notes Left with Robert Irwin for Collection; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 76, 80, 164, 165, 166."
+      },
+      {
+        "id": "XBA8D781D-57A0-4729-964A-050A80C7187C",
+        "text": "3Robert Irwin wrote this docketing diagonally over the note."
+      },
+      {
+        "id": "X415066B3-FD4E-45A0-8040-E67073F8FA28",
+        "text": "4Lincoln wrote this and the following endorsements through August 29, 1860."
+      },
+      {
+        "id": "XF9FD9333-86B2-4050-A1B4-BAECD9696B90",
+        "text": "5An unknown person wrote this endorsement."
+      },
+      {
+        "id": "X2C3FC6EA-0318-4270-A085-E603DC5EB070",
+        "text": "6An unknown person wrote this endorsement."
+      },
+      {
+        "id": "X1165B9A2-136F-492A-A36A-098AE578149F",
+        "text": "7“6” written over “4”."
+      },
+      {
+        "id": "X7255C8CC-321F-49A3-A75C-1DF5C62D0253",
+        "text": "8Irwin wrote and signed this endorsement, including Lincoln’s signature."
+      },
+      {
+        "id": "X00FEEE17-AF80-4388-8457-A6BDF899A492",
+        "text": "9An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Promissory Note of Isaac Lindsay to Abraham Lincoln, 28 August 18551"
+      },
+      {
+        "type": "description",
+        "text": "Credit within sixty dollars, being first years interest4"
+      },
+      {
+        "type": "description",
+        "text": "Augt[August] 29. 1857. Received sixty dollars, second years interest on within–"
+      },
+      {
+        "type": "description",
+        "text": "Sept[September] 1. 1858–Credit the within sixty dollars, being third year’s interest"
+      },
+      {
+        "type": "description",
+        "text": "Sep[September]. 7. 1859. Received Sixty dollars fourth year’s interest"
+      },
+      {
+        "type": "description",
+        "text": "August 29. 1860. Credit within Sixty dollars, fifth years interest–"
+      }
+    ],
+    "word_count": 60
+  },
+  "extraction_date": "2025-12-26 21:37:26",
+  "word_count": 60,
+  "processing": {
+    "cleaned": true,
+    "original_length": 429,
+    "cleaned_length": 399,
+    "preserved_originality": true
+  }
+}

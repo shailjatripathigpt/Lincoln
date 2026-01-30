@@ -1,0 +1,8 @@
+{
+  "project_name": "Abraham Lincoln LLM Project",
+  "run_date": "2025-12-31T11:35:16.375546",
+  "packages_installed": [
+    "sentence-transformers",
+    "chromadb"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "D210480",
+  "url": "https://papersofabrahamlincoln.org/documents/D210480",
+  "metadata": {
+    "date": "1849-05-22",
+    "authors": [
+      "Chumasero, William C."
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Lawyers--Fees",
+      "Shipwrecks",
+      "Shipping--Accidents"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William C. Chumasero to Abraham Lincoln, 22 May 18491 I have been retained by theColumbus Ins coto commence suit vsPeoria Bridge co. for loss sustained by canal Boat Troy in striking pier of bridge while in Tow from\n\nthis place toSt Louis2If you have not been consulted by the Bridge co. I would like to have you with me in the case Please inform me whether you are engaged\n\nor not & if not what feecertain– or conditional you would charge to assist– Please answer immediately & If not engaged\n\nalready I will send you Statement of case & what can be proved3",
+    "paragraphs": [
+      "William C. Chumasero to Abraham Lincoln, 22 May 18491 I have been retained by theColumbus Ins coto commence suit vsPeoria Bridge co. for loss sustained by canal Boat Troy in striking pier of bridge while in Tow from",
+      "this place toSt Louis2If you have not been consulted by the Bridge co. I would like to have you with me in the case Please inform me whether you are engaged",
+      "or not & if not what feecertain– or conditional you would charge to assist– Please answer immediately & If not engaged",
+      "already I will send you Statement of case & what can be proved3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Columbus Insurance Co. v. Peoria Bridge Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009), Document\n                     ID: 129720,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140936;William Chumasero to Abraham Lincoln.",
+      "Columbus Insurance Co. v. Peoria Bridge Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, Document ID: 129719,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140936."
+    ],
+    "footnotes": [
+      {
+        "id": "X092AC7FE-4088-4EF9-A153-46A8F57831F8",
+        "text": "1William C. Chumasero wrote and signed this letter."
+      },
+      {
+        "id": "XF2D1689E-E41D-47C9-AF1A-E4F318F67A1F",
+        "text": "2On March 22, 1849, the steamer Falcon was towing several boats, including the Troy,\n                  along theIllinois Riverfrom Peru, Illinois, to St. Louis, Missouri.  During transit, the Troy collided with\n                  some of the piers of the Peoria Bridge.  The Troy sank into the river, which destroyed\n                  its cargo of wheat, valued at approximately $5,000.  The Columbus Insurance Company\n                  insured the cargo and ship and paid the claim for damages.Columbus Insurance Co. v. Peoria Bridge Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009), Document\n                     ID: 129720,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140936;William Chumasero to Abraham Lincoln."
+      },
+      {
+        "id": "X3303F1B4-BFA3-45FD-B553-C2CEDF1EE1A2",
+        "text": "3Abraham Lincoln responded to Chumasero on May 26.  Lincoln’s letter is not extant,\n                  but he apparently expressed interest in the case, because Chumaserowrotehim on May 29 and gave him the particulars of the case.The insurance company  retained Lincoln and Chumasero and suedAlfred G. Curteniusand other stockholders of the Peoria Bridge Company/Association in theUnited States Circuit Court, District of Illinois.  Lincoln and Chumasero apparently brought an action of trespass against the Peoria\n                  Bridge Company/Association to recover damages.  Arguments began in late 1851.  Arguing\n                  on behalf of the plaintiffs, Lincoln and Chumasero claimed that the piers were an\n                  obstruction to river navigation.  Lawyers for Curtenius and others pled that theIllinois General Assemblyauthorized the construction of the bridge, therefore protecting them from liability.\n                  The insurance company demurred to the plea, arguing that the General Assembly, in\n                  enacting thelawcreating the Peoria Bridge Company, did not possess authority to create obstructions\n                  to the navigation of the Illinois River.  The court sustained the demurrer, ruling\n                  that  Curtenius and others should have claimed that the bridge was not an obstruction.\n                  The parties agreed to substitute the Peoria Bridge Company/Association as defendants\n                  for Curtenius and others.  The bridge company/association pleaded again.  The jury\n                  was unable to agree on a verdict.  The parties reached an agreement, and the court\n                  dismissed the case in July 1854.Columbus Insurance Co. v. Peoria Bridge Co., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, Document ID: 129719,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140936."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William C. Chumasero to Abraham Lincoln, 22 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have been retained by theColumbus Ins coto commence suit vsPeoria Bridge co. for loss sustained by canal Boat Troy in striking pier of bridge while in Tow from\n               this place toSt Louis2If you have not been consulted by the Bridge co.[company] I would like to have you with me in the case Please inform me whether you are engaged\n               or not &  if not what feecertain– or conditional you would charge to assist– Please answer immediately & If not engaged\n               already I will send you Statement of case & what can be proved3"
+      }
+    ],
+    "word_count": 103
+  },
+  "extraction_date": "2025-12-26 21:15:56",
+  "word_count": 103,
+  "processing": {
+    "cleaned": true,
+    "original_length": 610,
+    "cleaned_length": 558,
+    "preserved_originality": true
+  }
+}

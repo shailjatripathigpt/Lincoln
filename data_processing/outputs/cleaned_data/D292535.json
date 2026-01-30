@@ -1,0 +1,55 @@
+{
+  "document_id": "D292535",
+  "url": "https://papersofabrahamlincoln.org/documents/D292535",
+  "metadata": {
+    "date": "1848-12-11 - 1849-03-02",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Wages",
+      "Per diem allowances",
+      "Legislators--Salaries, etc."
+    ],
+    "type": "Account"
+  },
+  "content": {
+    "full_text": "Pay and Mileage Account of Abraham Lincoln, 1",
+    "paragraphs": [
+      "Pay and Mileage Account of Abraham Lincoln, 1"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act Allowing Compensation to the Members of the Senate, Members of the House of\n                     Representatives of the United States, and to the Delegates of the Territories, and\n                     Repealing all Other Laws on that Subject,” 22 January 1818,Statutes at Large of the United States3 (1846):404-5."
+    ],
+    "footnotes": [
+      {
+        "id": "XF972D66A-097D-45F9-A531-3DC3A7ED3DF8",
+        "text": "1Abraham Lincoln’s pay and mileage from the second session of the30th Congress.  Lincoln signed the ledger."
+      },
+      {
+        "id": "X9AB883DD-075D-4251-B4B7-AA64F92C35AC",
+        "text": "2“Dr” comes from the Latin word “debere” meaning to debit."
+      },
+      {
+        "id": "X20CA84EB-D374-4528-A26A-2DF2C40DCBA1",
+        "text": "3Under the provision of a law enacted in 1818, members of the House of Representatives\n                  received eight dollars for every day they attended the House and eight dollars for\n                  every twenty miles of the estimated distance traveled from the members’ place of residence\n                  toWashington, D.C.“An Act Allowing Compensation to the Members of the Senate, Members of the House of\n                     Representatives of the United States, and to the Delegates of the Territories, and\n                     Repealing all Other Laws on that Subject,” 22 January 1818,Statutes at Large of the United States3 (1846):404-5."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Pay and Mileage Account of Abraham Lincoln, [11 December 1848 - 2 March 1849]1"
+      }
+    ],
+    "word_count": 8
+  },
+  "extraction_date": "2025-12-26 20:37:01",
+  "word_count": 14,
+  "processing": {
+    "cleaned": true,
+    "original_length": 78,
+    "cleaned_length": 45,
+    "preserved_originality": true
+  }
+}

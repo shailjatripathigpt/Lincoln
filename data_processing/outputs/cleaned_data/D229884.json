@@ -1,0 +1,64 @@
+{
+  "document_id": "D229884",
+  "url": "https://papersofabrahamlincoln.org/documents/D229884",
+  "metadata": {
+    "date": "1847-12-29",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Legislators",
+      "Legislative bodies",
+      "Real property"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Jean B. Beaubien, 29 December 18471 Your letter of the 16thwas received–2I went at once to seejudge Breesein relation to your business, he being on the Committee on Public Lands– He says\n\nMrWebsterdid not introduce the matter last session; and so the\n\npapers are still in his hands– He, MrWebster is now very\n\nmuch engaged in theSupreme court; but Judge Breese & I have agreed that when he gets a little\n\nleisure, we will stir him up, and make him present the papers– Judge Breese says he\n\nknows your claim is\n\njust–3He told to say to you that he received your letter–",
+    "paragraphs": [
+      "Abraham Lincoln to Jean B. Beaubien, 29 December 18471 Your letter of the 16thwas received–2I went at once to seejudge Breesein relation to your business, he being on the Committee on Public Lands– He says",
+      "MrWebsterdid not introduce the matter last session; and so the",
+      "papers are still in his hands– He, MrWebster is now very",
+      "much engaged in theSupreme court; but Judge Breese & I have agreed that when he gets a little",
+      "leisure, we will stir him up, and make him present the papers– Judge Breese says he",
+      "just–3He told to say to you that he received your letter–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "A. T. Andreas,History of Chicago(Chicago: A. T. Andreas, 1886), 3:190."
+    ],
+    "footnotes": [
+      {
+        "id": "X84CE7D69-09E2-4647-B779-C50A30657E9F",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "X15F440F4-5574-4704-83E6-924329FFFE81",
+        "text": "2Jean B. Beaubien’s December 16, 1847 letter to Lincoln has not been located."
+      },
+      {
+        "id": "XBC4ABECF-BF86-40BF-B9BF-EB32A482822A",
+        "text": "3Beaubien claimed a pre-emption right on a fractional quarter-section of land along\n                  theChicagolakefront. In 1835, he purchased the nearly seventy acres from the government, but\n                  later that year Ethan A. Brown,  commissioner of theGeneral Land Office, cancelled the conveyance on the grounds that the land was not subject to sale as\n                  other federal lands, due to the fact that it was a military reservation. Beaubien\n                  disputed the claim, but in 1840, theU.S. Circuit Court for the District of Illinoisvoided the certificate of sale to Beaubien on the grounds that the land in question\n                  was indeed a military reservation.A. T. Andreas,History of Chicago(Chicago: A. T. Andreas, 1886), 3:190."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Jean B. Beaubien, 29 December 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 16thwas received–2I went at once to seejudge Breesein relation to your business, he being on the Committee on Public Lands– He says\n               MrWebsterdid not introduce the matter last session; and so the\n               papers are still in his hands– He, MrWebster is now very\n               much engaged in theSupreme court; but Judge Breese & I have agreed that when he gets a little\n               leisure, we will stir him up, and make him present the papers– Judge Breese says he\n               knows your claim is\n               just–3He told to say to you that he received your letter–"
+      }
+    ],
+    "word_count": 105
+  },
+  "extraction_date": "2025-12-26 20:25:34",
+  "word_count": 105,
+  "processing": {
+    "cleaned": true,
+    "original_length": 671,
+    "cleaned_length": 587,
+    "preserved_originality": true
+  }
+}

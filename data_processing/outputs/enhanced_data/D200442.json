@@ -1,0 +1,80 @@
+{
+  "document_id": "D200442",
+  "url": "https://papersofabrahamlincoln.org/documents/D200442",
+  "metadata": {
+    "date": "1848-01-08",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Elections",
+      "Political campaigns",
+      "Speeches"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-01-08",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "william",
+      "herndon",
+      "january"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Herndon, 8 January 18482",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Herndon, 8 January 18482"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Cong. Globe, 30th Cong., 1st Sess., 19, 107-8, 108-9 (1847-48).",
+      "Henry Clay to Stephen Miller, 1 July 1844,   Melba Porter Hay and Carol Reardon, eds.,The Papers of Henry Clay(Lexington: The University Press of Kentucky, 1991), 10:79.",
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:271; Howard W. Allen and\n                     Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 8, 126."
+    ],
+    "footnotes": [
+      {
+        "id": "XE7781B80-5CE1-47F5-A0EC-108668570299",
+        "text": "1William H. Herndon wrote and signed this endorsement."
+      },
+      {
+        "id": "X617EE998-2DA3-40EF-BF6F-622454FA9D0B",
+        "text": "2Abraham Lincoln wrote and signed this letter.  The address in the bottom left hand\n                  corner is in Herndon’s hand."
+      },
+      {
+        "id": "XFB76EF79-6AB6-48BD-B885-79199B74D30C",
+        "text": "3Herndon’s letter of December 27, 1847, has not been located."
+      },
+      {
+        "id": "XD1390B5C-F002-43E1-B1A2-D37ABCA1374A",
+        "text": "4Lincoln made theseremarkson January 5, 1848, while the House of Representatives, sitting as the Committee\n                  of the Whole, debated aproposed resolutiondirecting Postmaster GeneralCave Johnsonto renew arrangements with the Richmond, Fredericksburg, and Potomac Railroad for\n                  transporting the mail betweenWashington, DCandRichmond.   Lincoln was a member of the Committee on the Post Office and Post Roads.Cong. Globe, 30th Cong., 1st Sess., 19, 107-8, 108-9 (1847-48)."
+      },
+      {
+        "id": "XED794187-A79E-4236-8A4B-AD039EC2D44C",
+        "text": "5Lincoln alludes, in a slight paraphrase, to a remark made by Henry Clay in a letter\n                  to Stephen Miller on July 1, 1844, where he gave his views on the annexation question\n                  leading up the1844 presidential election.Henry Clay to Stephen Miller, 1 July 1844,   Melba Porter Hay and Carol Reardon, eds.,The Papers of Henry Clay(Lexington: The University Press of Kentucky, 1991), 10:79."
+      },
+      {
+        "id": "X4EAAB2E0-644F-43DB-B589-A0816B1B19F5",
+        "text": "6Lincoln represented the Seventh Congressional District, which included the counties\n                  ofCass,Logan,Marshall,Mason,Menard,Morgan,Putnam,Sangamon,Scott,Tazewell, andWoodford. He had pledged to serve only one term, but many Whigs in the district favored his\n                  renomination. As this letter indicates, Lincoln was not averse to running again, butStephen T. Loganreceived the nomination. In August 1848, Logan would lose the normally  safe seat\n                  for theWhigstoDemocratThomas L. Harrisin a close race.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:271; Howard W. Allen and\n                     Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 8, 126."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Herndon, 8 January 18482"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:26:03",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 54,
+    "cleaned_length": 54,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

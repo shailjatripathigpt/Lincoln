@@ -1,0 +1,40 @@
+Lincoln Writing Style Analysis Report
+==========================================
+Analysis Date: 2026-01-02 20:04:20
+Documents Analyzed: 42
+Total Files Checked: 50
+Failed Analyses: 8
+
+BASIC STATISTICS:
+-----------------
+Average Sentence Length: 37.6 words
+Average Word Length: 5.0 characters
+Lexical Diversity: 0.663
+
+READABILITY:
+------------
+Flesch Reading Ease: 31.0
+Flesch-Kincaid Grade Level: 18.2
+
+LINCOLN PATTERNS:
+-----------------
+biblical_allusions: 0.19 (range: 0-4)
+legal_terms: 1.64 (range: 0-17)
+metaphors: 2.83 (range: 0-36)
+parallel_structure: 32.07 (range: 1-331)
+repetition: 26.95 (range: 0-312)
+humble_tone: 0.81 (range: 0-8)
+firm_conviction: 5.07 (range: 0-62)
+
+DOCUMENT TYPE DISTRIBUTION:
+---------------------------
+Letter: 27 (64.3%)
+Deed: 3 (7.1%)
+Bill: 1 (2.4%)
+Speech: 1 (2.4%)
+Certificate: 2 (4.8%)
+Legislative debate: 1 (2.4%)
+Proceedings: 3 (7.1%)
+List: 2 (4.8%)
+Receipt: 1 (2.4%)
+Note: 1 (2.4%)

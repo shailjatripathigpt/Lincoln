@@ -1,0 +1,46 @@
+{
+  "document_id": "D295136",
+  "url": "https://papersofabrahamlincoln.org/documents/D295136",
+  "metadata": {
+    "date": "1837-04-15 - 1861-02-11",
+    "authors": [],
+    "keywords": [
+      "Letter writing"
+    ],
+    "type": "Envelope",
+    "extracted_date": "1837-04-15 - 1861-02-11",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "envelope",
+      "unknown",
+      "abraham",
+      "lincoln"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Envelope of Unknown to Abraham Lincoln,",
+    "paragraphs": [
+      "Envelope of Unknown to Abraham Lincoln,"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Envelope of Unknown to Abraham Lincoln, [15 April 1837 - 11 February 1861]"
+      }
+    ],
+    "word_count": 6
+  },
+  "extraction_date": "2025-12-26 22:03:19",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 74,
+    "cleaned_length": 39,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

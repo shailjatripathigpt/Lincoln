@@ -1,0 +1,59 @@
+{
+  "document_id": "D200565",
+  "url": "https://papersofabrahamlincoln.org/documents/D200565",
+  "metadata": {
+    "date": "1849-03-14",
+    "authors": [
+      "Baker, Edward D."
+    ],
+    "keywords": [
+      "Employment references",
+      "Federal government--Officials and employees",
+      "Military service, Voluntary",
+      "Patronage, Political"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Edward D. Baker to Nathaniel G. Wilcox, 14 March 18491 We desire this to stand as our recommendation of2your appointment to a Pursership in theNavy, If MrWilcox can receive the appointment above indicated, I shall be truly, and heartily\n               gratified– From at least one severe test I have seem him subjected to, I consider\n               him, a gentleman of the highest sense of honor; besides possessing all the other requisite\n               qualifications–",
+    "paragraphs": [
+      "Edward D. Baker to Nathaniel G. Wilcox, 14 March 18491",
+      "We desire this to stand as our recommendation of2your appointment to a Pursership in theNavy,",
+      "If MrWilcox can receive the appointment above indicated, I shall be truly, and heartily\n               gratified– From at least one severe test I have seem him subjected to, I consider\n               him, a gentleman of the highest sense of honor; besides possessing all the other requisite\n               qualifications–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 138."
+    ],
+    "footnotes": [
+      {
+        "id": "X20DDA6EE-E9D0-40F6-899B-64ADF6E23D1E",
+        "text": "1Edward D. Baker wrote and signed the letter. Abraham Lincoln wrote and signed an endorsement\n                  following the main text."
+      },
+      {
+        "id": "KBC668314184903140000_1",
+        "text": "2\"to\" changed to \"of\"."
+      },
+      {
+        "id": "X0FE473DC-6716-4094-8B8D-575AF63DDB14",
+        "text": "3Although Baker and Lincoln recommended Nathaniel G. Wilcox for a naval position, he\n                  was actually appointed receiver of the General Land Office at Stillwater,Minnesota Territory.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 138."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Edward D. Baker to Nathaniel G. Wilcox, 14 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "We desire this to stand as our recommendation of2your appointment to a Pursership in theNavy,"
+      },
+      {
+        "type": "paragraph",
+        "text": "If MrWilcox can receive the appointment above indicated, I shall be truly, and heartily\n               gratified– From at least one severe test I have seem him subjected to, I consider\n               him, a gentleman of the highest sense of honor; besides possessing all the other requisite\n               qualifications–"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:38:08",
+  "word_count": 70
+}

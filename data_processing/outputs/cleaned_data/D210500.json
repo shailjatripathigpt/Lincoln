@@ -1,0 +1,69 @@
+{
+  "document_id": "D210500",
+  "url": "https://papersofabrahamlincoln.org/documents/D210500",
+  "metadata": {
+    "date": "1849-06-07",
+    "authors": [
+      "Boal, Robert"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Robert Boal to Abraham Lincoln, 7 June 18491 Yours of the 3dinst was received on yesterday,Ienclosed you will find what I hope will meet your wishes–2MrFordhas expressed his views in an editorial which he will send you,–3I took the liberty of sharing yours of the 3dto me, toI I. FennEsqe– Having some personal acquaintance withSecty Ewing, he has written to him upon the subject of your appointment, We all feel anxious that you should get the appointment, and would do any thing in our power to effect it, with my best wishes for your success4",
+    "paragraphs": [
+      "Robert Boal to Abraham Lincoln, 7 June 18491 Yours of the 3dinst was received on yesterday,Ienclosed you will find what I hope will meet your wishes–2MrFordhas expressed his views in an editorial which he will send you,–3I took the liberty of sharing yours of the 3dto me, toI I.",
+      "FennEsqe– Having some personal acquaintance withSecty Ewing, he has written to him upon the subject of your appointment, We all feel anxious that you should get the appointment, and would do any thing in our power to effect it, with my best wishes for your success4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Illinois Gazette(Lacon), 9 June 1849, 2:1.",
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson."
+    ],
+    "footnotes": [
+      {
+        "id": "X9AB7294C-FF7B-4082-B984-933F7719C75C",
+        "text": "1Robert Boal wrote and signed this letter."
+      },
+      {
+        "id": "XA40B33B3-8B16-4E33-ABA6-EB79693F8279",
+        "text": "2Abraham Lincoln’s letter of June 3 has not been located.  The enclosed correspondence\n                  that Boal references was not found with this letter, and it has not been located."
+      },
+      {
+        "id": "XEFABD521-F97F-4BE7-B226-AE75A1063F02",
+        "text": "3Allen N. Ford’s editorial appeared in theIllinois Gazette, June 9, 1849.  If Ford sent Lincoln a copy, it has not been located.The Illinois Gazette(Lacon), 9 June 1849, 2:1."
+      },
+      {
+        "id": "XDFAD7764-85F1-473D-89C8-97480C099568",
+        "text": "4Boal references the contest to see who would replaceRichard M. Youngas commissioner of theU.S. General Land Office.Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere among the early contestants. Lincoln entered the competition after learning\n                  that Butterfield was favored over Morrison and Edwards.In early June, Lincoln asked supporters of his candidacy to send him letters to that\n                  effect.  Presumably, he made the same request of Boal. Ultimately, neither Morrison,\n                  Edwards, nor Lincoln received the appointment; the job went to Butterfield instead.\n                  See theGeneral Land Office Affair.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Robert Boal to Abraham Lincoln, 7 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of  the 3dinst was received on yesterday,Ienclosed you will find what I hope will meet your wishes–2MrFordhas expressed his views in an editorial which he will send you,–3I took the liberty of  sharing yours of the 3dto me, toI I. FennEsqe[Esquire]–  Having some personal acquaintance withSecty Ewing, he has written to him upon the subject of your appointment,"
+      },
+      {
+        "type": "paragraph",
+        "text": "We all feel anxious that you should get the appointment, and would do any thing in our power to effect it, with my best wishes for your  success4"
+      }
+    ],
+    "word_count": 95
+  },
+  "extraction_date": "2025-12-26 21:16:04",
+  "word_count": 95,
+  "processing": {
+    "cleaned": true,
+    "original_length": 558,
+    "cleaned_length": 545,
+    "preserved_originality": true
+  }
+}

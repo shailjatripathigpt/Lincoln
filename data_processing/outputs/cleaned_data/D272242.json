@@ -1,0 +1,58 @@
+{
+  "document_id": "D272242",
+  "url": "https://papersofabrahamlincoln.org/documents/D272242",
+  "metadata": {
+    "date": "1858-10-20",
+    "authors": [],
+    "keywords": [
+      "Campaign speeches",
+      "Elections",
+      "Political campaigns",
+      "Political oratory",
+      "Salutations",
+      "United States. Congress. Senate"
+    ],
+    "type": "Remarks"
+  },
+  "content": {
+    "full_text": "Summary of Remarks to Salutation at Rushville, Illinois, 20 October 18581 The wagons and carriages now dispersed while the horsemen moved down to Mr.Ray’s residence, where Mr.Lincolnwas stopping, and saluted him with a round of hearty cheers. Mr. Lincoln then came\n\nforward, and in a few appropriate remarks, expressed his thanks for the honor conferred.2",
+    "paragraphs": [
+      "Summary of Remarks to Salutation at Rushville, Illinois, 20 October 18581 The wagons and carriages now dispersed while the horsemen moved down to Mr.Ray’s residence, where Mr.Lincolnwas stopping, and saluted him with a round of hearty cheers. Mr. Lincoln then came",
+      "forward, and in a few appropriate remarks, expressed his thanks for the honor conferred.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Schuyler Citizen(Rushville, IL), 27 October 1858, 2:1.",
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 20 October 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-10-20; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16."
+    ],
+    "footnotes": [
+      {
+        "id": "XD2A5117B-1CA4-4524-804D-6B69BC183D3F",
+        "text": "1This summary of remarks appeared in the October 27, 1858 edition ofRushville’sSchuyler Citizen.Schuyler Citizen(Rushville, IL), 27 October 1858, 2:1."
+      },
+      {
+        "id": "X8A32B578-374D-496A-B047-C8D9703CDA00",
+        "text": "2Abraham Lincolnspokeat 2 PM in Rushville, Illinois, on October 20, 1858 to an audience of between 2,000\n                  and 3,000. He discussed his views on slavery and defended his “House Divided” speech.\n                  At one point, hecklers forced Lincoln to pause his talk and ask for quiet.Abraham Lincoln was theRepublicancandidate fromIllinoisfor theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. Lincoln campaigned extensively in Illinois\n                  in the summer and fall of 1858, delivering speeches and campaigning on behalf of Republican\n                  candidates for the General Assembly. He and his opponent,DemocratStephen A. Douglas, the incumbent, both focused their campaign efforts on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.\n                  In local elections, Republicans gained a majority of the votes, but pro-Douglas Democrats\n                  retained control of the General Assembly, and Douglas won re-election. See1858 Illinois Republican Convention;1858 Federal Election.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 20 October 1858,https://thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-10-20; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Summary of Remarks to Salutation at Rushville, Illinois, 20 October 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "The wagons and carriages now dispersed while the horsemen moved down to Mr.Ray’s residence, where Mr.Lincolnwas stopping, and saluted him with a round of hearty cheers.  Mr. Lincoln then came\n               forward, and in a few appropriate remarks, expressed his thanks for the honor conferred.2"
+      }
+    ],
+    "word_count": 55
+  },
+  "extraction_date": "2025-12-26 22:01:27",
+  "word_count": 55,
+  "processing": {
+    "cleaned": true,
+    "original_length": 370,
+    "cleaned_length": 355,
+    "preserved_originality": true
+  }
+}

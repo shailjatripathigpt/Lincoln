@@ -1,0 +1,79 @@
+{
+  "document_id": "D303451",
+  "url": "https://papersofabrahamlincoln.org/documents/D303451",
+  "metadata": {
+    "date": "1840-12-08",
+    "authors": [],
+    "keywords": [
+      "Debts, Public",
+      "Government securities",
+      "Finance, Public",
+      "Interest"
+    ],
+    "type": "Amendment",
+    "extracted_date": "1840",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "public",
+      "power",
+      "interest",
+      "not",
+      "bonds",
+      "amendment",
+      "bill",
+      "payment",
+      "debt",
+      "december",
+      "provided",
+      "further",
+      "fund",
+      "commissioner",
+      "authorized"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill for the Payment of Interest on the Public Debt,” [8 December\n\n1840] “And provided further, That the Fund Commissioner shall not be authorized to pay interest upon any bonds\n\nsold for which a consideration has not been received by theStatewhenever such bonds shall be found in the hands, custody, power or possession of\n\nthe original purchasers or contracting powers.”2",
+    "paragraphs": [
+      "Amendment to “A Bill for the Payment of Interest on the Public Debt,” [8 December",
+      "1840] “And provided further, That the Fund Commissioner shall not be authorized to pay interest upon any bonds",
+      "sold for which a consideration has not been received by theStatewhenever such bonds shall be found in the hands, custody, power or possession of",
+      "the original purchasers or contracting powers.”2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1840. 12th G. A., 90, 98-99, 100.",
+      "Illinois State Register(Springfield), 18 December 1840, 2:1;Sangamo Journal(Springfield, IL), 15 December 1840, 2:7."
+    ],
+    "footnotes": [
+      {
+        "id": "X87DA58F7-10A6-43E9-9803-E1795A0D5685",
+        "text": "1On December 8, 1840,Abraham Lincolnin theHouse of Representativesproposed this amendment to abill.  In the morning session on December 10, the House apparently adopted this amendment\n                  by a vote of 43 yeas to 42 nays, with Lincoln voting yea, but in the afternoon session,\n                  Speaker of the HouseWilliam L. D. Ewingreported that the Journal had incorrectly recorded the vote, and the actual tally\n                  was 45 yeas to 42 nays.  Legislators did not include any of the language of this amendment\n                  in thebillthat passed theGeneral Assemblyand theactthat became law.Illinois HouseJournal. 1840. 12th G. A., 90, 98-99, 100."
+      },
+      {
+        "id": "X8EC4F656-72D5-4240-85A5-6C38D5D777A2",
+        "text": "2The HouseJournalindicated that the House passed this amendment, but theIllinois State RegisterandSangamo Journalreported otherwise.  The State Register reported  the amendment failed by a  the\n                  vote of 44 yeas to 44 nays, and the Sangamo Journal recorded that it failed by a vote\n                  of 40 yeas to 44 nays.Illinois State Register(Springfield), 18 December 1840, 2:1;Sangamo Journal(Springfield, IL), 15 December 1840, 2:7."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill for the Payment of Interest on the Public Debt,” [8 December\n               1840]"
+      },
+      {
+        "type": "paragraph",
+        "text": "“And provided further, That the Fund Commissioner shall not be authorized to pay interest upon any bonds\n               sold for which a consideration has not been received by theStatewhenever such bonds shall be found in the hands, custody, power or possession of\n               the original purchasers or contracting powers.”2"
+      }
+    ],
+    "word_count": 63
+  },
+  "extraction_date": "2025-12-26 20:13:26",
+  "word_count": 63,
+  "processing": {
+    "cleaned": true,
+    "original_length": 431,
+    "cleaned_length": 389,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

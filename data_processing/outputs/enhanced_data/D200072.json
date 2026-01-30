@@ -1,0 +1,93 @@
+{
+  "document_id": "D200072",
+  "url": "https://papersofabrahamlincoln.org/documents/D200072",
+  "metadata": {
+    "date": "1836-01-09",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Public works",
+      "Roads--Design and construction",
+      "Roads--Location"
+    ],
+    "type": "Bill",
+    "extracted_date": "1836-01-09",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "public",
+      "peoria",
+      "said",
+      "commissioners",
+      "them",
+      "road",
+      "sec",
+      "county",
+      "bill",
+      "state",
+      "pekin",
+      "thence",
+      "intersect",
+      "leading",
+      "springfield"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "A Bill for a State Road from Peoria to Pekin, thence to Intersect the Road Leading\n\nfrom Peoria to Springfield, and for Other Purposes, 1 Sec. 2 The said commissioners or a majority of them shall meet at the town of Peoria\n\non the second monday ofMay^Aprile^2next, or as soon thereafter as practicable, and after being duly sworn, shall proceed^to perform^the duties required of them by this act, avoiding, as much the public good will permit,\n\nthe injury of private property. Sec. 4 The county commissioners courts of the said counties of Peoria and Tazewell^May^4shallallow to said commissioners, out of their county Treasuries respectively, such compensation\n\nas to them shall seem just and reasonable.",
+    "paragraphs": [
+      "A Bill for a State Road from Peoria to Pekin, thence to Intersect the Road Leading",
+      "from Peoria to Springfield, and for Other Purposes, 1 Sec. 2 The said commissioners or a majority of them shall meet at the town of Peoria",
+      "on the second monday ofMay^Aprile^2next, or as soon thereafter as practicable, and after being duly sworn, shall proceed^to perform^the duties required of them by this act, avoiding, as much the public good will permit,",
+      "the injury of private property. Sec. 4 The county commissioners courts of the said counties of Peoria and Tazewell^May^4shallallow to said commissioners, out of their county Treasuries respectively, such compensation",
+      "as to them shall seem just and reasonable."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 42, 260, 275, 355, 370, 372; Illinois SenateJournal. 1835. 9th G. A., 2nd sess., 219, 274, 287, 289.",
+      "An Act concerning Public Roads, sec. 9;An Act Authorizing Commissioners’ Courts to Alter, Change, and Relocate State Roads;An Act concerning Public Roads."
+    ],
+    "footnotes": [
+      {
+        "id": "X27C546CD-7971-44EA-9CFC-61BF89FD5EA9",
+        "text": "1Abraham Lincoln wrote the entire text of this bill, including the additions, except\n                  where noted.On December 14, 1835,William Brownpresented to the House of Representatives  a petition from citizens ofTazewell County.  The House referred the petition to a select committee, which included Abraham Lincoln.\n                  Lincoln wrote this draft of the bill, to which the select committee added anamendment.   Another member of the select committee introducedthe billin the House on January 9, 1836. The House passed the bill on January 11. TheSenatepassed the bill on January 16 . On January 18, theCouncil of Revisionapproved the bill and theactbecame law.Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 42, 260, 275, 355, 370, 372; Illinois SenateJournal. 1835. 9th G. A., 2nd sess., 219, 274, 287, 289."
+      },
+      {
+        "id": "X4CE5C7C1-7BA2-43F9-9E63-FD2FC612D357",
+        "text": "2John T. Stuartwrote the addition “Aprile”."
+      },
+      {
+        "id": "XD05A0966-EB3D-4326-9DD3-4149C98FB6AB",
+        "text": "3State roads were those public roads established or designated by the General Assembly\n                  and usually crossed county lines.  Only the General Assembly could establish, alter,\n                  or abandon state roads, until 1840 and 1841, when the General Assembly gave counties\n                  the authority to alter or to abandon state roads upon petition by a majority of voters\n                  in the area of the change.An Act concerning Public Roads, sec. 9;An Act Authorizing Commissioners’ Courts to Alter, Change, and Relocate State Roads;An Act concerning Public Roads."
+      },
+      {
+        "id": "X785B8F71-FCB1-487A-AF65-2FF1640DDFDF",
+        "text": "4John T. Stuartwrote the addition “May”."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "A Bill for a State Road from Peoria to Pekin, thence to Intersect the Road Leading\n               from Peoria to Springfield, and for Other Purposes, [9 January 1836]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sec. 2 The said commissioners or a majority of them shall meet at the town of Peoria\n                  on the second monday ofMay^Aprile^2next, or as soon thereafter as practicable, and after being duly sworn, shall proceed^to perform^the duties required of them by this act, avoiding, as much the public good will permit,\n                  the injury of private property."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sec. 4 The county commissioners courts of the said counties of Peoria and Tazewell^May^4shallallow to said commissioners, out of their county Treasuries respectively, such compensation\n                  as to them shall seem just and reasonable."
+      }
+    ],
+    "word_count": 114
+  },
+  "extraction_date": "2025-12-26 20:03:19",
+  "word_count": 116,
+  "processing": {
+    "cleaned": true,
+    "original_length": 786,
+    "cleaned_length": 705,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

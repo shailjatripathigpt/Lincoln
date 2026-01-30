@@ -1,0 +1,48 @@
+{
+  "document_id": "D295378",
+  "url": "https://papersofabrahamlincoln.org/documents/D295378",
+  "metadata": {
+    "date": "1846-09-26",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Courts--Officials and employees",
+      "Wages"
+    ],
+    "type": "Pay warrant"
+  },
+  "content": {
+    "full_text": "Pay Warrant for William P. Millard, 26 September 18461 Received of the AUDITOR WARRANT on the TREASURER of theState ofIllinoisforTwo hundred Eightydollars and–cents, infullforConveying 3 Convicts fromJo Daviess Countyto thePenetentiory",
+    "paragraphs": [
+      "Pay Warrant for William P. Millard, 26 September 18461 Received of the AUDITOR WARRANT on the TREASURER of theState ofIllinoisforTwo hundred Eightydollars and–cents, infullforConveying 3 Convicts fromJo Daviess Countyto thePenetentiory"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X498C2F35-7C2E-4F03-8E17-86ACDE24B3D7",
+        "text": "1Abraham Lincoln signed his own name and William P. Millard’s name only. An unknown\n                  person filled in the blanks of this partially-printed document."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Pay Warrant for William P. Millard, 26 September 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received of the AUDITOR WARRANT on the TREASURER of theState ofIllinoisforTwo hundred Eightydollars and–cents, infullforConveying 3 Convicts fromJo Daviess Countyto thePenetentiory"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 20:23:51",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 235,
+    "cleaned_length": 235,
+    "preserved_originality": true
+  }
+}

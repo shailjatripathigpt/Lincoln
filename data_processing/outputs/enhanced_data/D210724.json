@@ -1,0 +1,109 @@
+{
+  "document_id": "D210724",
+  "url": "https://papersofabrahamlincoln.org/documents/D210724",
+  "metadata": {
+    "date": "1858-06-12",
+    "authors": [
+      "McCallen, Andrew"
+    ],
+    "keywords": [
+      "Election districts",
+      "Local elections",
+      "Political candidates",
+      "Political conventions",
+      "United States. Congress. House"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-06-12",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "our",
+      "over",
+      "friend",
+      "anxious",
+      "republican",
+      "friends",
+      "also",
+      "district",
+      "track",
+      "hope",
+      "andrew",
+      "mccallen",
+      "abraham",
+      "lincoln"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Andrew McCallen to Abraham Lincoln, 12 June 18581 Circumstances over which I have no control will prevent my visitigSpringfield, at the sitting of theRepublican Convention2 My young friend MrEdwardsthe bearer of this is one of our delegatesHe has resumed the publication of theSouthern Illinoisanas aRepublicanpaper, and is anxious to give it a wide circulation. Any favours that can be extend to the Enterprise by our Republican friends, will be duly appreciated, and I trust\n\namply Repaid– Our Friend MrOlneywill also be in attendance as a delegate. We are anxious for him to run forCongressin this district and he has given his consent to the arangement provided there is no other Republican CandidateWe have a rumor here<Page 2>that MrWileyofJonesborois also upon the track. I hope that our friends at springfield will arrange this mattar and sette it between them. MrOlney is popular a good speaker, and he proposes to make a general Canvass over the\n\ndistrict. These are considerations of much weight, and I hope that he may have the\n\ntrack without opposition3",
+    "paragraphs": [
+      "Andrew McCallen to Abraham Lincoln, 12 June 18581 Circumstances over which I have no control will prevent my visitigSpringfield, at the sitting of theRepublican Convention2 My young friend MrEdwardsthe bearer of this is one of our delegatesHe has resumed the publication of theSouthern Illinoisanas aRepublicanpaper, and is anxious to give it a wide circulation. Any favours that can be extend to the Enterprise by our Republican friends, will be duly appreciated, and I trust",
+      "amply Repaid– Our Friend MrOlneywill also be in attendance as a delegate. We are anxious for him to run forCongressin this district and he has given his consent to the arangement provided there is no other Republican CandidateWe have a rumor here<Page 2>that MrWileyofJonesborois also upon the track. I hope that our friends at springfield will arrange this mattar and sette it between them. MrOlney is popular a good speaker, and he proposes to make a general Canvass over the",
+      "district. These are considerations of much weight, and I hope that he may have the"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Daily Illinois State Journal(Springfield), 15 June 1858, 2:2; 17 June 1858, 2:3-4.",
+      "Daily Illinois State Journal(Springfield), 15 June 1858, 2:2; 7 September 1858, 2:3; 21 September 1858, 3:1;The Weekly Pantagraph(Bloomington, IL), 26 May 1858, 1:1; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 11, 143."
+    ],
+    "footnotes": [
+      {
+        "id": "X3D4C7DD0-A436-42AA-A481-60768D72D501",
+        "text": "1Andrew McCallen wrote and signed this letter, including the address and delivery information\n                  on the envelope."
+      },
+      {
+        "id": "X559A4961-7F91-409F-BDDA-4A0D7A4CBF41",
+        "text": "2McCallen had been selected at the June 5, 1858,Gallatin CountyRepublican convention as a delegate to the 1858 Illinois Republican Convention along\n                  with John Olney, Sr. and John W. Edwards. Although McCallen was listed as having attended\n                  the convention in Springfield on June 16, 1858, he apparently was not present. Lincoln\n                  was a delegate fromSangamon County.Daily Illinois State Journal(Springfield), 15 June 1858, 2:2; 17 June 1858, 2:3-4."
+      },
+      {
+        "id": "XCF72AEA1-9A88-4AE0-8FF0-F7BA3318AFAF",
+        "text": "3The Republicans of Gallatin County had passed a resolution at their county convention\n                  requesting that Olney be named the candidate for theU.S. House of Representativesin the Illinois Ninth Congressional District in theelection of 1858. Other counties in the district endorsed Benjamin L. Wiley for the office. Wiley\n                  was  selected to run, but dropped out of the race in September 1858 citing business\n                  obligations that prevented him from canvassing.David L. Phillipswas chosen to replace him as candidate. Phillips lost the election toDemocratJohn A. Loganin a resounding defeat, earning only 14.8% of the vote compared to Logan’s 84.2%.Daily Illinois State Journal(Springfield), 15 June 1858, 2:2; 7 September 1858, 2:3; 21 September 1858, 3:1;The Weekly Pantagraph(Bloomington, IL), 26 May 1858, 1:1; Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 11, 143."
+      },
+      {
+        "id": "XD74F9815-EF2D-49F1-BBEF-480FCDB96C92",
+        "text": "4Lincolnrespondedto this letter on June 19, 1858."
+      },
+      {
+        "id": "X1A799623-69FC-4C04-A684-EFF511AB5A20",
+        "text": "5Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Andrew McCallen to Abraham Lincoln, 12 June 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Circumstances over which I have no control will prevent my visitigSpringfield, at the sitting of theRepublican Convention2"
+      },
+      {
+        "type": "paragraph",
+        "text": "My young friend MrEdwardsthe bearer of this is one of our delegatesHe has resumed the publication of theSouthern Illinoisanas aRepublicanpaper, and is anxious to give it a wide circulation.  Any favours that can be extend to the Enterprise by our Republican friends, will be duly appreciated, and I trust\n               amply Repaid–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Our Friend MrOlneywill also be in attendance as a delegate.  We are anxious for him  to run forCongressin this district and he has given his consent to the arangement provided there is no other Republican CandidateWe have a rumor here<Page 2>that MrWileyofJonesborois also upon the track."
+      },
+      {
+        "type": "paragraph",
+        "text": "I hope that our friends at springfield will arrange this mattar and sette it between them."
+      },
+      {
+        "type": "paragraph",
+        "text": "MrOlney is popular a good speaker, and he proposes to make a general Canvass over the\n               district.  These are considerations of much weight, and I hope that he may have the\n               track without opposition3"
+      }
+    ],
+    "word_count": 172
+  },
+  "extraction_date": "2025-12-26 21:49:01",
+  "word_count": 172,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1112,
+    "cleaned_length": 1066,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

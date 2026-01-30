@@ -1,0 +1,61 @@
+{
+  "document_id": "D200225",
+  "url": "https://papersofabrahamlincoln.org/documents/D200225",
+  "metadata": {
+    "date": "1840-10-31",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Regret",
+      "Apologizing",
+      "Presidents--election",
+      "Political campaigns"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William G. Anderson, 31 October 18401 Yournoteof yesterday is received— In the difficulty between us, of which you speak, you say\n\nyou think I was the aggressor— I do not think I was— You say my \"words imported insult\"—\n\nI meant them as a fair set-off to your own statements, and not otherwise; and in that\n\nlight alone I now wish you to understand them— You ask for my \"present\" feelings on\n\nthe subject—\" I entertain no unkind feeling to you, and none of any sort upon the\n\nsubject, except a sincere regret that I permitted myself to get into such an altercation—2",
+    "paragraphs": [
+      "Abraham Lincoln to William G. Anderson, 31 October 18401 Yournoteof yesterday is received— In the difficulty between us, of which you speak, you say",
+      "you think I was the aggressor— I do not think I was— You say my \"words imported insult\"—",
+      "I meant them as a fair set-off to your own statements, and not otherwise; and in that",
+      "light alone I now wish you to understand them— You ask for my \"present\" feelings on",
+      "the subject—\" I entertain no unkind feeling to you, and none of any sort upon the",
+      "subject, except a sincere regret that I permitted myself to get into such an altercation—2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame, Abraham Lincoln: A Life (Baltimore, MD: The Johns Hopkins University\n                     Press, 2008), 1:158-59; Illinois State Historical Society, Historical Marker: Lincoln\n                     in Lawrenceville, accessed 7 July 2020,https://www.historyillinois.org/FindAMarker/MarkerDetails.aspx?MarkerID=144."
+    ],
+    "footnotes": [
+      {
+        "id": "XE8291411-4387-4F45-9000-C6F39BBC69DC",
+        "text": "1Abraham Lincoln wrote the text of the letter and his signature."
+      },
+      {
+        "id": "X1B4E0B7A-EB2B-42C2-96BA-35DCE36235EA",
+        "text": "2The”difficulty” betweenLincolnandAndersonoccurred during the final, last hectic days of  thepresidential campaign of 1840.  Lincoln was canvassing the southern counties ofIllinoison behalf ofWilliam Henry Harrisonand theWhig Party. On October 28, Lincoln gave a speech atLawrenceville.  Anderson “repeatedly interrupted” Lincoln, contending that the orator was “falsifying\n                  the acts and record of theDemocratic party.” Lincoln’s retort was apparently testy enough to prompt Anderson to write a sharply-wordedletteron October 30.  Lincoln diffused the situation with this conciliatory letter. In\n                  1970, the Lawrence County Historical Society and the Illinois State Historical Society\n                  erected a marker  on the north side of courthouse square in Lawrenceville commemorating\n                  the Lincoln/Anderson dispute.Michael Burlingame, Abraham Lincoln: A Life (Baltimore, MD: The Johns Hopkins University\n                     Press, 2008), 1:158-59; Illinois State Historical Society, Historical Marker: Lincoln\n                     in Lawrenceville, accessed 7 July 2020,https://www.historyillinois.org/FindAMarker/MarkerDetails.aspx?MarkerID=144."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William G. Anderson, 31 October 18401"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yournoteof yesterday is received— In the difficulty between us, of which you speak, you say\n               you think I was the aggressor— I do not think I was— You say my \"words imported insult\"—\n               I meant them as a fair set-off to your own statements, and not otherwise; and in that\n               light alone I now wish you to understand them— You ask for my \"present\" feelings on\n               the subject—\" I entertain no unkind feeling to you, and none of any sort upon the\n               subject, except a sincere regret that I permitted myself to get into such an altercation—2"
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 20:13:28",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 655,
+    "cleaned_length": 585,
+    "preserved_originality": true
+  }
+}

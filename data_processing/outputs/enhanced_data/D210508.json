@@ -1,0 +1,87 @@
+{
+  "document_id": "D210508",
+  "url": "https://papersofabrahamlincoln.org/documents/D210508",
+  "metadata": {
+    "date": "1849-06-10",
+    "authors": [
+      "Davis, James M."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "morning",
+      "city",
+      "your",
+      "james",
+      "davis",
+      "abraham",
+      "lincoln",
+      "june",
+      "learn",
+      "mrb",
+      "left",
+      "forchicago",
+      "thence",
+      "towashington",
+      "doubt"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "James M. Davis to Abraham Lincoln, 10 June 18491 I learn that MrB– has left this morning– forChicago– & from thence toWashington– City– I have no doubt of– your success–2still the true plan is to leave no stone unturnedlet me then advise you– not to delay any time on your way– reach the City as soon\n\nas possible– I have written several letters to my friends in the south requesting\n\nthem to forward lettersdirecttoOld Zach3they were put in the office this morning. I was told this morning– thatButterfieldis very much alarmed– it isthoughtby news he has recd fromWashington–Nil desperandumis the motto of physicians in desperate cases of disease & I presume it will be MrBsin this case4",
+    "paragraphs": [
+      "James M. Davis to Abraham Lincoln, 10 June 18491 I learn that MrB– has left this morning– forChicago– & from thence toWashington– City– I have no doubt of– your success–2still the true plan is to leave no stone unturnedlet me then advise you– not to delay any time on your way– reach the City as soon",
+      "as possible– I have written several letters to my friends in the south requesting",
+      "them to forward lettersdirecttoOld Zach3they were put in the office this morning. I was told this morning– thatButterfieldis very much alarmed– it isthoughtby news he has recd fromWashington–Nil desperandumis the motto of physicians in desperate cases of disease & I presume it will be MrBsin this case4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 10 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-10; 19 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-19.",
+      "Jon R. Stone,The Routledge Dictionary of Latin Quotations(New York and London: Routledge, 2005), 185."
+    ],
+    "footnotes": [
+      {
+        "id": "X16EFF9FA-487A-4D19-A0AC-3E5B35DD95EA",
+        "text": "1James M. Davis wrote and signed this letter. Davis wrote anotherletterto Abraham Lincoln the same day."
+      },
+      {
+        "id": "X8CE07C7E-4C76-4DDF-A98C-B1B9C0948E8D",
+        "text": "2Justin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner of theU.S. General Land Office. Lincoln entered the competition after learning that Butterfield was favored over\n                  Morrison and Edwards.As competition for the job intensified,William H. HendersonandJosiah M. Lucas, Lincoln supporters living in Washington, DC, urged Lincoln to come to the nation’s\n                  capital to personally lobby for the position.  On June 9, ButterfieldwroteLincoln suggesting that neither go to Washington.  Lincoln did not respond to this\n                  suggestion, and on June 10, both set out for the capital.  Lincoln arrived on or before\n                  June 19. See theGeneral Land Office Affair.William H. Henderson to Abraham Lincoln;William H. Henderson to Abraham Lincoln;Josiah M. Lucas to Abraham Lincoln;The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 10 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-10; 19 June 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-06-19."
+      },
+      {
+        "id": "X2B8585B3-E479-436C-86D4-0F362920C308",
+        "text": "3This is a reference to people from southern Illinois sending letters in support of\n                  Lincoln to President Zachary Taylor.Thomas Ewingwas the secretary of theU.S. Department of the Interior, but Taylor was ultimately responsible for appointing the commissioner of the U.S.\n                  General Land Office."
+      },
+      {
+        "id": "X1E6A1F7F-D93D-4C41-8923-5C03A5B1F100",
+        "text": "4Nil desperandum means nothing must be despaired of or despair of nothing.Ultimately, neither Morrison, Edwards, nor Lincoln received the appointment; the job\n                  went to Butterfield instead. See theGeneral Land Office Affair.Jon R. Stone,The Routledge Dictionary of Latin Quotations(New York and London: Routledge, 2005), 185."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James M. Davis to Abraham Lincoln, 10 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I learn that  MrB– has left this morning– forChicago– & from thence toWashington– City–  I have no doubt of– your success–2still the true plan is to leave no stone unturnedlet me then advise you– not to delay any time on your way– reach the City as soon\n               as possible–  I have written several letters to my friends in the south requesting\n               them to forward lettersdirecttoOld Zach3they were put in the office this morning.  I was told this morning–  thatButterfieldis very much alarmed– it isthoughtby news he has recd[received] fromWashington–Nil desperandumis the motto of physicians in desperate cases of disease & I presume it will be MrBsin this case4"
+      }
+    ],
+    "word_count": 117
+  },
+  "extraction_date": "2025-12-26 21:17:13",
+  "word_count": 117,
+  "processing": {
+    "cleaned": true,
+    "original_length": 731,
+    "cleaned_length": 688,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "D272094",
+  "url": "https://papersofabrahamlincoln.org/documents/D272094",
+  "metadata": {
+    "date": "1858-08-19",
+    "authors": [],
+    "keywords": [
+      "Elections",
+      "Political campaigns",
+      "Political conventions",
+      "Political oratory",
+      "Speeches",
+      "United States. Congress. Senate"
+    ],
+    "type": "Speech"
+  },
+  "content": {
+    "full_text": "Summary of Speech at the Congressional Convention of the Fourth District, Peoria,\n\nIllinois, 19 August 18581 SPEECHES OFLINCOLNANDKELLOGG.2 At 2 o’clock this afternoon, Mr. Lincoln took the stand, in the public square, and\n\naddressed an immense crowd, estimated at fully 3,000 men, for over two hours, in one\n\nof the most cool, candid and able arguments I have ever listened to. A drizzling\n\nrain continued throughout the speech; but the crowd, composed of men from ten or a\n\ndozen counties, stood out in it, a large number of them with umbrellas hoisted. Many\n\nhonest, fair-mindedDemocratswho heard him, say their votes will be with Lincoln in November.",
+    "paragraphs": [
+      "Summary of Speech at the Congressional Convention of the Fourth District, Peoria,",
+      "Illinois, 19 August 18581 SPEECHES OFLINCOLNANDKELLOGG.2 At 2 o’clock this afternoon, Mr. Lincoln took the stand, in the public square, and",
+      "addressed an immense crowd, estimated at fully 3,000 men, for over two hours, in one",
+      "of the most cool, candid and able arguments I have ever listened to. A drizzling",
+      "rain continued throughout the speech; but the crowd, composed of men from ten or a",
+      "dozen counties, stood out in it, a large number of them with umbrellas hoisted. Many",
+      "honest, fair-mindedDemocratswho heard him, say their votes will be with Lincoln in November."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Chicago Daily Press and Tribune(IL), 21 August 1858, 2:5.",
+      "Chicago Daily Press and Tribune(IL), 21 August 1858, 2:5; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008),  1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16; Louis L. Emmerson, ed.,Blue Book of the State of Illinois, 1923-1924(Springfield: Illinois State Journal, 1923), 642; Howard W. Allen and Vincent A.\n                     Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10, 11."
+    ],
+    "footnotes": [
+      {
+        "id": "X0A73C8D5-64B6-43C3-BE19-F3C243946D29",
+        "text": "1This summary appeared in the August 21, 1858 edition of theChicago Daily Press and Tribune.The Fourth Congressional District ofIllinoiscomprised the following counties:Peoria,Fulton,Henry,Knox,Marshall,Mercer,Mason,Stark,Tazewell,Warren, andWoodford.Chicago Daily Press and Tribune(IL), 21 August 1858, 2:5."
+      },
+      {
+        "id": "X1B3CDA30-85E2-4AE6-A041-A67B6C480402",
+        "text": "2On August 19, approximately ninety delegates gathered atPeoria’s courthouse to endorse the nomination ofAbraham Lincolnfor aU.S. Senateseat at the1858 Illinois Republican Convention. The delegation also nominatedWilliam Kelloggfor theU.S. House of Representatives. Kellogg delivered a nomination speech before Lincoln spoke, and he also addressed\n                  the crowd for several hours after Lincoln delivered his speech.Lincoln was theRepublicancandidate from Illinois for theU.S. Senate. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatewere of importance to Lincoln’s campaign. Lincoln campaigned extensively in Illinois\n                  in the summer and fall of 1858, delivering speeches and campaigning on behalf of Republican\n                  candidates for the General Assembly. He and his opponent, DemocratStephen A. Douglas, the incumbent, both focused their campaign efforts on the formerWhigstronghold of central Illinois, where the state legislative races were the closest.\n                  In local elections, Republicans gained a majority of the votes, but Pro-Douglas Democrats\n                  retained control of the General Assembly, and Douglas won reelection. See1858 Illinois Republican Convention;1858 Federal Election.Kellogg, the incumbent, retained his seat, defeatingJames W. Davidson, his Democratic challenger, with 52.8 percent of the voted compared to Davidson’s\n                  45.7 percent.Chicago Daily Press and Tribune(IL), 21 August 1858, 2:5; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008),  1:457-61, 476-77, 513-14,\n                     546-47; Allen C. Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape\n                     of 1858,”The Journal of American History94 (September 2007), 392-99, 400-401, 414-16; Louis L. Emmerson, ed.,Blue Book of the State of Illinois, 1923-1924(Springfield: Illinois State Journal, 1923), 642; Howard W. Allen and Vincent A.\n                     Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10, 11."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Summary of Speech at the Congressional Convention of the Fourth District, Peoria,\n               Illinois, 19 August 18581"
+      },
+      {
+        "type": "description",
+        "text": "SPEECHES OFLINCOLNANDKELLOGG.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "At 2 o’clock this afternoon, Mr. Lincoln took the stand, in the public square, and\n               addressed an immense crowd, estimated at fully 3,000 men, for over two hours, in one\n               of the most cool, candid and able arguments I have ever listened to.  A drizzling\n               rain continued throughout the speech; but the crowd, composed of men from ten or a\n               dozen counties, stood out in it, a large number of them with umbrellas hoisted.  Many\n               honest, fair-mindedDemocratswho heard him, say their votes will be with Lincoln in November."
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 21:58:08",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 740,
+    "cleaned_length": 654,
+    "preserved_originality": true
+  }
+}

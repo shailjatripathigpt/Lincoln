@@ -1,0 +1,95 @@
+{
+  "document_id": "D292443",
+  "url": "https://papersofabrahamlincoln.org/documents/D292443",
+  "metadata": {
+    "date": "1856-06-30",
+    "authors": [
+      "Sherwood, Luman"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "Presidents--Election"
+    ],
+    "type": "Letter",
+    "extracted_date": "1856-06-30",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "liberty",
+      "your",
+      "you",
+      "respective",
+      "candidates",
+      "central",
+      "give",
+      "luman",
+      "sherwood",
+      "abraham",
+      "lincoln",
+      "june",
+      "take",
+      "writing",
+      "ascertain"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Luman Sherwood to Abraham Lincoln, 30 June 18561 I take the liberty of writing You to ascertain Your views as to the respective strength\n\nof the different Presidential Candidates inIll. in theensuing canvas2– From Your central position & being at theseat of GovernmentI suppose You will be able to give information more reliable perhaps than those with\n\nwhom I happen to be personally acquainted in the northern part of YourState– I desire to obtain the result of Your best Judgment as to the probable vote for the\n\nrespective candidates– Please also give me the name of the chairman of Your<Page 2>State central Republican Committeeif You have such a committee3",
+    "paragraphs": [
+      "Luman Sherwood to Abraham Lincoln, 30 June 18561 I take the liberty of writing You to ascertain Your views as to the respective strength",
+      "of the different Presidential Candidates inIll. in theensuing canvas2– From Your central position & being at theseat of GovernmentI suppose You will be able to give information more reliable perhaps than those with",
+      "whom I happen to be personally acquainted in the northern part of YourState– I desire to obtain the result of Your best Judgment as to the probable vote for the",
+      "respective candidates– Please also give me the name of the chairman of Your<Page 2>State central Republican Committeeif You have such a committee3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10, 134-37.",
+      "Michael Vorenberg, \"Judd, Norman Buel,\"American National Biography(New York: Oxford University Press, 1999), 12:301; Norman B. Judd to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "XA42751C5-16BD-41C1-8D40-0731DC13E396",
+        "text": "1Luman Sherwood wrote and signed this letter."
+      },
+      {
+        "id": "XEE1D5A5D-0B98-46B4-A890-F59ADC3C27A9",
+        "text": "2The candidates for the1856 Federal ElectionincludedDemocratJames Buchanan,RepublicanJohn C. Fremont, andAmerican PartycandidateMillard Filmore. Buchanan defeated Fremont to become fifteenth president of the United States. He\n                  captured Illinois with 44.1 percent of the vote to 40.2 percent for Fremont and 15.7\n                  for Fillmore. Voters in the four northern congressional districts sent Republicans\n                  to theU.S. House of Representatives. In southern Illinois, voters in the five congressional districts in that part of\n                  the state sent Democrats to the U.S. House. Illinoisans from southern Illinois also\n                  went overwhelmingly for Buchanan. Voters in the eighteen counties in the Ninth Illinois\n                  Congressional District, which encompassed most of southern Illinois, gave Buchanan\n                  71 percent of the votes to 25 percent for Fillmore and only 4 percent for Fremont.\n                  See the1856 Federal Election.Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10, 134-37."
+      },
+      {
+        "id": "XB7C01D72-68D7-45AD-9A3A-7010283B2B4E",
+        "text": "3No response from Abraham Lincoln to Sherwood has been found.Norman P. Juddserved as the first chairman of the Illinois State Central Republican Committee.Michael Vorenberg, \"Judd, Norman Buel,\"American National Biography(New York: Oxford University Press, 1999), 12:301; Norman B. Judd to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Luman Sherwood to Abraham Lincoln, 30 June 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "I take the liberty of writing You to ascertain Your views as to the respective strength\n               of the different Presidential Candidates inIll. in theensuing canvas2–"
+      },
+      {
+        "type": "paragraph",
+        "text": "From Your central position & being at theseat of GovernmentI suppose You will be able to give information more reliable perhaps than those with\n               whom I happen to be personally acquainted in the northern part of YourState–"
+      },
+      {
+        "type": "paragraph",
+        "text": "I desire to obtain the result of Your best Judgment as to the probable vote for the\n               respective candidates–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Please also give me the name of the chairman of Your<Page 2>State central Republican Committeeif You have such a committee3"
+      }
+    ],
+    "word_count": 109
+  },
+  "extraction_date": "2025-12-26 21:39:09",
+  "word_count": 109,
+  "processing": {
+    "cleaned": true,
+    "original_length": 704,
+    "cleaned_length": 662,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

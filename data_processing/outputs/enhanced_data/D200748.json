@@ -1,0 +1,84 @@
+{
+  "document_id": "D200748",
+  "url": "https://papersofabrahamlincoln.org/documents/D200748",
+  "metadata": {
+    "date": "1853-06-23",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Adverse possession",
+      "Ejectment",
+      "Land titles",
+      "Real property"
+    ],
+    "type": "Letter",
+    "extracted_date": "1853-06-23",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "you",
+      "wish",
+      "your",
+      "case",
+      "before",
+      "best",
+      "shape",
+      "theregister",
+      "scertificate",
+      "land",
+      "thedateof",
+      "entry",
+      "abraham",
+      "lincoln",
+      "adam"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Adam Adams, 23 June 18531 The summer term of theU.S. courtis close upon us, and I wish to be ready to put your case before the court in the\n\nbest possible shape– I suppose you and your witness will be down; and I wish you to\n\ncall at theLand OfficeatDixon, and procure & bring with you theRegister'scertificate, showingwhoentered the land, and thedateof the entry– Mind, theRegister'scertificate—notthe Receiver's receipt– ThePatent, which I have, showswhoentered the land, but does not show thedateof the entry– I am trying to be prepared before-hand to get the case in the best\n\nshape I can–2",
+    "paragraphs": [
+      "Abraham Lincoln to Adam Adams, 23 June 18531 The summer term of theU.S. courtis close upon us, and I wish to be ready to put your case before the court in the",
+      "best possible shape– I suppose you and your witness will be down; and I wish you to",
+      "call at theLand OfficeatDixon, and procure & bring with you theRegister'scertificate, showingwhoentered the land, and thedateof the entry– Mind, theRegister'scertificate—notthe Receiver's receipt– ThePatent, which I have, showswhoentered the land, but does not show thedateof the entry– I am trying to be prepared before-hand to get the case in the best"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "For the letters related to this case, seeKemper v. Adams & Bovey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,  2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140935."
+    ],
+    "footnotes": [
+      {
+        "id": "XA2B0943D-F917-4258-9BC3-F3052FAD5CE1",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the second\n                  sheet, which was folded to make an envelope."
+      },
+      {
+        "id": "X8B40387A-F66C-41DB-BB79-B71F7A412D9E",
+        "text": "2This letter is related to a lawsuit involvingJohn H. Kemper, Adam Adams, andJohn Bovey.  Kemper recovered a judgment againstWilliam F. Bradshaw, and the U.S. marshal sold Bradshaw's land inOgle County, Illinois, to satisfy the judgment.  Bradshaw conveyed the land to Adams and Bovey.  Adams\n                  and Bovey had possession of the land that Kemper claimed to own by virtue of the judgment.\n                  Kemper sued Adams and Bovey in an action of ejectment in theU.S. Circuit Court, District of Illinois, to remove them from the property.  Adams and Bovey retained Lincoln,Thomas J. Turner, andSolon Cumins; Kemper retainedStephen T. Logan. Lincoln and his fellow attorneys for the defense argued that the time during which\n                  Kemper could sue had expired.  The Circuit Court found for Kemper.  By virtue of anactpromulgated in March 1839, the  losing party in an ejectment case was entitled to\n                  one new trial simply by paying the court costs, and Adams and Bovey  paid the costs\n                  and motioned for a new trial.  The court granted the motion, and the jury found for\n                  Kemper.  Adams and Bovey apparently sued Kemper for an injunction to stop the execution\n                  of the judgment, and in March 1858, theU.S. Circuit Court, Northern District of Illinois, ruled for Adams and Bovey.  Lincoln received $100 for his legal services.As indicated in aletterto Turner, Lincoln first became involved in the lawsuit in December 1849.  He wrote\n                  multiple letters to Turner, Adams, Bovey, and Cumins regarding this case before its\n                  conclusion in 1858.For the letters related to this case, seeKemper v. Adams & Bovey, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,  2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140935."
+      },
+      {
+        "id": "X31E2F878-72A7-4A4D-BABC-937A470C76B3",
+        "text": "3Adams’ reply, if he sent one, has not been located. However, since the case stretched\n                  well beyond the summer of 1853, Adams apparently agreed to Logan’s proposal. As noted\n                  in aletterto Turner on June 27, Lincoln would have preferred to try the case in the summer\n                  of 1853 so that it was still fresh in his mind."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Adam Adams, 23 June 18531"
+      },
+      {
+        "type": "paragraph",
+        "text": "The summer term of theU.S. courtis close upon us, and I wish to be ready to put your case before the court in the\n               best possible shape– I suppose you and your witness will be down; and I wish you to\n               call at theLand OfficeatDixon, and procure & bring with you theRegister'scertificate, showingwhoentered the land, and thedateof the entry– Mind, theRegister'scertificate—notthe Receiver's receipt– ThePatent, which I have, showswhoentered the land, but does not show thedateof the entry– I am trying to be prepared before-hand to get the case in the best\n               shape I can–2"
+      }
+    ],
+    "word_count": 102
+  },
+  "extraction_date": "2025-12-26 21:28:34",
+  "word_count": 102,
+  "processing": {
+    "cleaned": true,
+    "original_length": 655,
+    "cleaned_length": 613,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

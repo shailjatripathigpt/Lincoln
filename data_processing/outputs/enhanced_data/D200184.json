@@ -1,0 +1,84 @@
+{
+  "document_id": "D200184",
+  "url": "https://papersofabrahamlincoln.org/documents/D200184",
+  "metadata": {
+    "date": "1839-11-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "Elections"
+    ],
+    "type": "Letter",
+    "extracted_date": "1839-11-14",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "john",
+      "stuart",
+      "november"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John T. Stuart, 14 November 18391",
+    "paragraphs": [
+      "Abraham Lincoln to John T. Stuart, 14 November 18391"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Sangamo Journal(Springfield, IL), 29 November 1839, 2:3.",
+      "Sangamo Journal(Springfield, IL), 22 November 1839, 2:5.",
+      "Sangamo Journal(Springfield, IL), 8 November 1839, 2:1; 22 November 1839, 2:1; 7 August 1840, 2:2;\n                     Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 344.",
+      "Illinois State Register(Springfield), 16 November 1839, 2:6; 23 November 1839, 2:1;Sangamo Journal(Springfield, IL), 22 November 1839, 2:1."
+    ],
+    "footnotes": [
+      {
+        "id": "X49F41FAC-A6EE-4F10-A526-4A5FAE6A8F74",
+        "text": "1Abraham Lincoln wrote the body of the letter, his signature, and part of address on\n                  page two."
+      },
+      {
+        "id": "X28195043-38E8-46B8-A023-D2469C7D9C8C",
+        "text": "2Lincoln is referencing Douglas’s decision not to contest Stuart’s seat in theU.S. House of Representatives.Sangamo Journal(Springfield, IL), 29 November 1839, 2:3."
+      },
+      {
+        "id": "X5A21B1EE-194F-467A-B6E6-D70254CE371A",
+        "text": "3Noah W. Matheny,Whigcandidate to succeed his deceased fatherCharles R. Mathenyas county commissioners’ clerk, defeatedEdmond D. Taylor, theDemocratcandidate,  966 to 653.Sangamo Journal(Springfield, IL), 22 November 1839, 2:5."
+      },
+      {
+        "id": "X820DFB5C-1235-4079-9479-1D314FBAA041",
+        "text": "4Dr. Moses L. Knapp was an early contender  for theMenard Countyseat in theHouse of Representativesvacated whenJohn Calhounresigned.John Bennetteventually became theWhigcandidate, and in thestate election, he defeatedThomas J. Nance, theDemocratcandidate by twenty-one votes.Sangamo Journal(Springfield, IL), 8 November 1839, 2:1; 22 November 1839, 2:1; 7 August 1840, 2:2;\n                     Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 344."
+      },
+      {
+        "id": "X21E7CE58-E0CB-4418-91EF-CACDAF356032",
+        "text": "5TheIllinois State Registerannounced Samuel Wycoff‘s candidacy as a Whig for the Menard County seat in the House\n                  of Representatives in a notice supposedly written and signed by Wycoff on November\n                  11.  TheSangamo Journaldisputed this, and refused to announce Wycoff’s candidacy until he contacted the\n                  paper personally.  On November 19, Wycoff announced that he was not a candidate in\n                  notice in the Register.Illinois State Register(Springfield), 16 November 1839, 2:6; 23 November 1839, 2:1;Sangamo Journal(Springfield, IL), 22 November 1839, 2:1."
+      },
+      {
+        "id": "X74562650-389B-4816-A656-F664DE1242EA",
+        "text": "6Robert. M. T. Hunterwould be elected speaker on December 16, 1839."
+      },
+      {
+        "id": "X3E1190DD-F38E-4F02-8F11-464CDD08171F",
+        "text": "7This addition is not in Lincoln’s hand."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John T. Stuart, 14 November 18391"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:10:01",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 52,
+    "cleaned_length": 52,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

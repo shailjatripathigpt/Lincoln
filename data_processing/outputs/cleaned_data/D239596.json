@@ -1,0 +1,79 @@
+{
+  "document_id": "D239596",
+  "url": "https://papersofabrahamlincoln.org/documents/D239596",
+  "metadata": {
+    "date": "1858-01-29",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Decedents' estates",
+      "Executors and administrators",
+      "Real property"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John Olney, 29 January 18581 I have had your case under consideration for two days; and I really fear you can not maintain the suit–Douphas the legaltitletitle, and who but theState, can question it? IfGalatin countyhas the right to question it by suit, can it do so without making the State a party?\n\nand how can you make the State a party?2 The case, depending upon new and peculiar statutes, I can not give an opinion with entire confidence– It may be worth the trial, after all– I\n\nsubmitted the case toLogan, and his off-hand opinion is that you can not maintain it–3 Can you not make the question in Ejectment as well as otherwise?4Prove your truth, and when they present theirs prove that it was obtained in fraud\n\nof the law– Sorry I can not write a more encouraging letter– I charge nothing for this–",
+    "paragraphs": [
+      "Abraham Lincoln to John Olney, 29 January 18581 I have had your case under consideration for two days; and I really fear you can not maintain the suit–Douphas the legaltitletitle, and who but theState, can question it? IfGalatin countyhas the right to question it by suit, can it do so without making the State a party?",
+      "and how can you make the State a party?2 The case, depending upon new and peculiar statutes, I can not give an opinion with entire confidence– It may be worth the trial, after all– I",
+      "submitted the case toLogan, and his off-hand opinion is that you can not maintain it–3 Can you not make the question in Ejectment as well as otherwise?4Prove your truth, and when they present theirs prove that it was obtained in fraud",
+      "of the law– Sorry I can not write a more encouraging letter– I charge nothing for this–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Bench and Bar of Chicago: Biographical Sketches(Chicago: American Biographical, [1883]), 621-22;Doup v. Gibson et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138895.",
+      "“Ejectment,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+    ],
+    "footnotes": [
+      {
+        "id": "XA93D4F62-1A00-4FD4-9DF0-315CF016E9D0",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X12E7743D-9566-4F27-9192-0840FB149AFC",
+        "text": "2John Olney, a lawyer, appears to be considering a lawsuit stemming from another case\n                  on the docket for April 1858 in theSangamon County Circuit Court,Doup v. Gibson et al. In that case, Samuel C. Gibson and Ninian E. Primm partnered with Daniel Doup to\n                  buy land inIllinois, including one thousand acres in Gallatin andPulaskicounties. They agreed to divide taxes and profit based on respective interests. However,\n                  Primm died and Doup bought out Gibson, while also claiming that Primm still owed him\n                  $1,387. Doup hired Lincoln andWilliam H. Herndonas his attorneys and sued Primm’s heirs, requesting the court to sell Primm’s land\n                  to pay him back. Olney is likely referencing the land that Doup owned in Gallatin\n                  County.Doup v. Gibson et al.continued until February 1860; Primm’s heirs failed to appear, and the court ruled\n                  in favor of Doup.The Bench and Bar of Chicago: Biographical Sketches(Chicago: American Biographical, [1883]), 621-22;Doup v. Gibson et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=138895."
+      },
+      {
+        "id": "XF20A233F-6B4B-4BBF-A3E2-2831AEE02AEF",
+        "text": "3It is not known if Olney ever proceeded with the lawsuit. If he did, there is no evidence\n                  that Lincoln participated in it."
+      },
+      {
+        "id": "X2A2A5B02-9580-4E30-A8BD-DB228F691031",
+        "text": "4The legal term Ejectment refers to an action to recover land or other real property\n                  and to collect damages.“Ejectment,” Reference, Glossary, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference%20html%20files/Glossary.html."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John Olney, 29 January 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have had your case under consideration for two days; and I really fear you can not maintain the suit–Douphas the legaltitletitle, and who but theState, can question it?  IfGalatin countyhas the right to question it by suit, can it do so without making the State a party?\n               and how can you make the State a party?2"
+      },
+      {
+        "type": "paragraph",
+        "text": "The case, depending upon new and peculiar statutes, I can not give an opinion with entire confidence–  It may be worth the trial, after all–  I\n               submitted the case toLogan, and his off-hand opinion is that you can not maintain it–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Can you not make the question in Ejectment as well as otherwise?4Prove your truth, and when they present theirs prove that it was obtained in fraud\n               of the law–"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sorry I can not write a more encouraging letter–  I charge nothing for this–"
+      }
+    ],
+    "word_count": 149
+  },
+  "extraction_date": "2025-12-26 21:46:01",
+  "word_count": 149,
+  "processing": {
+    "cleaned": true,
+    "original_length": 874,
+    "cleaned_length": 828,
+    "preserved_originality": true
+  }
+}

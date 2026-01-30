@@ -1,0 +1,60 @@
+{
+  "document_id": "D229222",
+  "url": "https://papersofabrahamlincoln.org/documents/D229222",
+  "metadata": {
+    "date": "1841-11-XX",
+    "authors": [
+      "Elmore, Johnson",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Breach of contract",
+      "Manual work"
+    ],
+    "type": "Account"
+  },
+  "content": {
+    "full_text": "Account inElmore v. Bale, [November 1841]1 [Table 1]",
+    "paragraphs": [
+      "Account inElmore v. Bale, [November 1841]1",
+      "[Table 1: ToJacob Bale | Dr2 1841– | To failure to cultivate ten acres of land according to contract– | $20–00...]"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Order (Document ID: 10476), 10 November 1841,Elmore v. Bale, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135104."
+    ],
+    "footnotes": [
+      {
+        "id": "XC3E16391-8664-4719-A873-0DB529360263",
+        "text": "1Abraham Lincolnwrote the body of the document."
+      },
+      {
+        "id": "X0BAF328A-3AA1-495B-B9CB-6BD87A184C3D",
+        "text": "2From the Latin word “debere,” meaning to debit."
+      },
+      {
+        "id": "X58A8E809-5802-410F-B165-E8E56D5438AE",
+        "text": "3In October 1841, Johnson Elmore sued Jacob Bale in theMenard CountyJustice of the Peace Courtto collect a $97 debt. Bale did not dispute the amount, but claimed that Elmore owed\n                  him for farm labor. The justice of the peace ruled for Elmore and awarded him $8.58.\n                  Bale retained Abraham Lincoln and appealed the judgment to theMenard County Circuit Court, where he claimed Elmore owed him $124.70. The circuit court ruled for Bale, awarding\n                  him $27.80.Order (Document ID: 10476), 10 November 1841,Elmore v. Bale, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135104."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Account inElmore v. Bale, [November 1841]1"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "ToJacob Bale | Dr2",
+          "1841– | To failure to cultivate ten acres of land according to contract– | $20–00",
+          "March– | Cash toWest | 1–00",
+          "\" | Work done byJames Thomas. | 1–50",
+          "\" | 18 bushels of oats. @ 20 cents. | 3–603"
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:16:45",
+  "word_count": 8
+}

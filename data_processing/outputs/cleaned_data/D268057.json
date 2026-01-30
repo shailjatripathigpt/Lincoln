@@ -1,0 +1,47 @@
+{
+  "document_id": "D268057",
+  "url": "https://papersofabrahamlincoln.org/documents/D268057",
+  "metadata": {
+    "date": "1848-XX-XX",
+    "authors": [],
+    "keywords": [
+      "Newspapers"
+    ],
+    "type": "Account"
+  },
+  "content": {
+    "full_text": "Newspaper Subscription Account of Abraham Lincoln, 1 Abraham Lincoln√",
+    "paragraphs": [
+      "Newspaper Subscription Account of Abraham Lincoln, 1 Abraham Lincoln√"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "H.R. Misc. Doc. No. 15, 31st Cong., 1st Sess. (1849)."
+    ],
+    "footnotes": [
+      {
+        "id": "XD53FC57A-EBFC-46E2-B3A0-152609526C0D",
+        "text": "1Congressappropriated funds to provide its members with newspapers, journals, stationary,\n                  and other items.H.R. Misc. Doc. No. 15, 31st Cong., 1st Sess. (1849)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Newspaper Subscription Account of Abraham Lincoln, [1848]1"
+      },
+      {
+        "type": "description",
+        "text": "Abraham Lincoln√"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 20:32:09",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 75,
+    "cleaned_length": 69,
+    "preserved_originality": true
+  }
+}

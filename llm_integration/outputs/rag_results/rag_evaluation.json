@@ -1,0 +1,30 @@
+{
+  "total_queries": 3,
+  "average_relevance": 0.11999999999999998,
+  "query_results": [
+    {
+      "query": "What was Lincoln's view on slavery?",
+      "relevance_score": 0.12,
+      "documents_retrieved": 3,
+      "answer_length": 1463
+    },
+    {
+      "query": "How did Lincoln describe the Union?",
+      "relevance_score": 0.14333333333333334,
+      "documents_retrieved": 3,
+      "answer_length": 1463
+    },
+    {
+      "query": "What were Lincoln's thoughts on democracy?",
+      "relevance_score": 0.09666666666666664,
+      "documents_retrieved": 3,
+      "answer_length": 1463
+    }
+  ],
+  "system_type": "keyword_search",
+  "recommendations": [
+    "Improve indexing for queries with low relevance (3 queries)",
+    "Install sentence-transformers and chromadb for better semantic search: pip install sentence-transformers chromadb",
+    "Add more diverse document sources for better coverage"
+  ]
+}

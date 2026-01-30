@@ -1,0 +1,88 @@
+{
+  "document_id": "D200638",
+  "url": "https://papersofabrahamlincoln.org/documents/D200638",
+  "metadata": {
+    "date": "1850-01-29",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Employment references",
+      "Judges--Selection and appointment"
+    ],
+    "type": "Letter",
+    "extracted_date": "1850-01-29",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "liberty",
+      "you",
+      "say",
+      "already",
+      "more",
+      "consistently",
+      "abraham",
+      "lincoln",
+      "orville",
+      "browning",
+      "january",
+      "yours",
+      "received",
+      "last",
+      "night"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Orville H. Browning, 29 January 18501 Yours of the 26thwas received last night–2As you anticipate, I had already recommendedJudge Loganfor District^Judge;^and more, I had already said all I could, consistently with this, in favor ofJudge Lockwood–3I certainly esteem MrBushnellas being every way worthy of such an office– In moral character, and legal attainments,\n\nhe is entirely sound and sufficient– If you think this letter can be used to any advantage,\n\nyou are at liberty to so use it– What I here say, I say most cheerfully; and more\n\nI could not now say consistently–4",
+    "paragraphs": [
+      "Abraham Lincoln to Orville H. Browning, 29 January 18501 Yours of the 26thwas received last night–2As you anticipate, I had already recommendedJudge Loganfor District^Judge;^and more, I had already said all I could, consistently with this, in favor ofJudge Lockwood–3I certainly esteem MrBushnellas being every way worthy of such an office– In moral character, and legal attainments,",
+      "he is entirely sound and sufficient– If you think this letter can be used to any advantage,",
+      "you are at liberty to so use it– What I here say, I say most cheerfully; and more",
+      "I could not now say consistently–4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Robert M. Sutton, \"Pope, Nathaniel,\"American National Biography, ed. by John A. Garraty and Mark C. Carnes (New York: Oxford University Press, 1999),\n                     17:678.",
+      "Illinois Daily Journal(Springfield), 7 February 1850, 2:1."
+    ],
+    "footnotes": [
+      {
+        "id": "X15692929-D5E4-417F-900C-66E735CEE78D",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the last sheet,\n                  which was folded to create an envelope."
+      },
+      {
+        "id": "XF24E6414-B452-4446-9038-FE6F232BF9B0",
+        "text": "2Orville H. Browning’s January 26, 1850 letter to Lincoln has not been located."
+      },
+      {
+        "id": "X76C2B9A5-2F49-4795-BD4C-9CB6DBBE697C",
+        "text": "3Since 1819,Nathaniel Popehad been  judge of theU.S. Circuit Court, District of Illinois. His death on January 22, 1850 created a vacancy which PresidentZachary Taylorhad to fill.On January 25, 1850, Lincoln wrote aletterto Taylor recommending Stephen T. Logan for a judgeship with the U.S. Circuit Court,\n                  District of Illinois. Lincoln also spoke highly of Samuel D. Lockwood in this letter.Robert M. Sutton, \"Pope, Nathaniel,\"American National Biography, ed. by John A. Garraty and Mark C. Carnes (New York: Oxford University Press, 1999),\n                     17:678."
+      },
+      {
+        "id": "X2FA9594F-9E42-453D-94AA-2CC4CCA312D5",
+        "text": "4Neither Logan nor Lockwood received the appointment. President Taylor awarded the\n                  U.S. Circuit Court, District of Illinois judgeship toThomas Drummondinstead.Illinois Daily Journal(Springfield), 7 February 1850, 2:1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Orville H. Browning, 29 January 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yours of the 26thwas received last night–2As you anticipate, I had already recommendedJudge Loganfor District^Judge;^and more, I had already said all I could, consistently with this, in favor ofJudge Lockwood–3I certainly esteem MrBushnellas being every way worthy of such an office– In moral character, and legal attainments,\n               he is entirely sound and sufficient– If you think this letter can be used to any advantage,\n               you are at liberty to so use it– What I here say, I say most cheerfully; and more\n               I could not now say consistently–4"
+      }
+    ],
+    "word_count": 97
+  },
+  "extraction_date": "2025-12-26 21:22:05",
+  "word_count": 97,
+  "processing": {
+    "cleaned": true,
+    "original_length": 637,
+    "cleaned_length": 595,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

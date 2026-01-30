@@ -1,0 +1,59 @@
+{
+  "document_id": "D272115",
+  "url": "https://papersofabrahamlincoln.org/documents/D272115",
+  "metadata": {
+    "date": "1849-02-28",
+    "authors": [],
+    "keywords": [
+      "Slavery"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of A. L. Harrington and Others to U.S. Congress, 1 Petition. The subscribers, inhabitants ofMorgan County Illinoisrespectfully askCongressto pass a law to prohibit and suppress the trade in human beings, now carried on\n\nin theDistrict of Columbia,",
+    "paragraphs": [
+      "Petition of A. L. Harrington and Others to U.S. Congress, 1 Petition. The subscribers, inhabitants ofMorgan County Illinoisrespectfully askCongressto pass a law to prohibit and suppress the trade in human beings, now carried on"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1849. 30th Cong., 2nd sess., 567; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:284; “An Act for the Release\n                     of certain Persons held to Service or Labor in the\n                     District of Columbia,” 16 April 1862,Statutes at Large of the United States12 (1863):376-78."
+    ],
+    "footnotes": [
+      {
+        "id": "X7EA37463-7261-406F-94D5-1726AEA4E930",
+        "text": "1A. L. Harrington wrote and signed the petition. Abraham Lincoln penned two instances\n                  of docketing on the back page, and signed one. Lincoln presented the petition in the\n                  House of Representatives on February 28, 1849, and the House referred it to the Committee\n                  for the District of Columbia. Slavery was a frequent contentious topic of debate in\n                  the Thirtieth Congress, although the debate did not result in any major legislation.\n                  In January 1849, Lincoln himself entered the debate, introducing anamendmentto a resolution on  slavery in the District which would have abolished slavery with\n                  compensation to the owners.  Slavery remained legal until 1862, when Congress passed\n                  an act emancipating slaves in the District. President Lincoln signed the bill into\n                  law on April 16, 1862.U.S. HouseJournal. 1849. 30th Cong., 2nd sess., 567; Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:284; “An Act for the Release\n                     of certain Persons held to Service or Labor in the\n                     District of Columbia,” 16 April 1862,Statutes at Large of the United States12 (1863):376-78."
+      },
+      {
+        "id": "XCC286442-82E8-4AB4-BC33-74174B9C73D9",
+        "text": "2Lincoln wrote this docketing."
+      },
+      {
+        "id": "XC9037AC6-976A-488B-AEB7-5DB036BFB359",
+        "text": "3Lincoln wrote the stricken docketing and signed his name."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of A. L. Harrington and Others to U.S. Congress, [28 February 1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Petition."
+      },
+      {
+        "type": "paragraph",
+        "text": "The subscribers, inhabitants ofMorgan County Illinoisrespectfully askCongressto pass a law to prohibit and suppress the trade in human beings, now carried on\n               in theDistrict of Columbia,"
+      }
+    ],
+    "word_count": 38
+  },
+  "extraction_date": "2025-12-26 20:36:38",
+  "word_count": 40,
+  "processing": {
+    "cleaned": true,
+    "original_length": 288,
+    "cleaned_length": 256,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "document_id": "D200847",
+  "url": "https://papersofabrahamlincoln.org/documents/D200847",
+  "metadata": {
+    "date": "1855-05-16",
+    "authors": [
+      "Sandford, Daniel R.",
+      "Sandford, Sylvanus S."
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Lawyers—Fees",
+      "Attorney and client"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Daniel R. Sandford and Sylvanus S. Sandford to Abraham Lincoln, 16 May 18551 The note left with us onSizemoreof five dollars has been paid herewith find inclosed the amt–2 We have repetedly calledJohn Hendersons attention to his note for $5— & he has as often made some objection to paying3 The note is stil here— what shal we do with it",
+    "paragraphs": [
+      "Daniel R. Sandford and Sylvanus S. Sandford to Abraham Lincoln, 16 May 18551 The note left with us onSizemoreof five dollars has been paid herewith find inclosed the amt–2 We have repetedly calledJohn Hendersons attention to his note for $5— & he has as often made some objection to paying3 The note is stil here— what shal we do with it"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Order, Document ID: 37702; Declaration, Document ID: 37709,Sizemore v. Moke, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135730.",
+      "Henderson v. Reed, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135775."
+    ],
+    "footnotes": [
+      {
+        "id": "XD688ACB8-72BE-43CA-B91E-21CF03E673E3",
+        "text": "1Either Daniel R. Sandford or Sylvanus S. Sandford wrote and signed this letter."
+      },
+      {
+        "id": "XD5B5F9EC-C0F9-48C2-B68F-676555F16ED8",
+        "text": "2It is possible that John Sizemore, Sr. incurred this debt in relation to a legal case\n                  in which Abraham Lincoln served as one of his attorneys. In 1846, Sizemore had theEdgar County Circuit Courtdeclare his thirty-year-old son, Joshua Sizemore, insane.  In November 1850, the\n                  court appointedGeorge W. Mokeas Joshua’s conservator and charged him with the management of Joshua’s real and\n                  personal property, which was valued at $400.  In April 1851, John Sizemore, Sr. retained\n                  Lincoln,Usher F. Linder, andMilton M. Dilland sued Moke in an action of assumpsit. John was suing to recover $300, for expenses\n                  he incurred caring for Joshua between the time he was declared insane and Moke was\n                  appointed conservator.  In May 1852, the jury found for John Sizemore, Sr. and awarded\n                  $260 from Joshua’s estate.Order, Document ID: 37702; Declaration, Document ID: 37709,Sizemore v. Moke, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135730."
+      },
+      {
+        "id": "XFE3155E8-C2EF-45E7-8947-3BCAAF72009F",
+        "text": "3It is also possible that John Henderson’s debt to Lincoln related to a legal case\n                  in which Lincoln served as  one of his attorneys. In 1849, Henderson sold William\n                  Reed a stallion for $175.  Reed paid $25 and gave Henderson a promissory note for\n                  $150.  After Reed failed to pay the note, Henderson retained Lincoln andKirby Benedict, and, in October 1851, sued Reed in an action of assumpsit in the Edgar County Circuit\n                  Court for $300 in damages.  Reed claimed that Henderson promised the stallion was\n                  a “good covering horse and foal getter,” but it proved to be “entirely worthless”\n                  as a stud.  In April 1853, JudgeJustin Harlanruled for Henderson and awarded $100.Henderson v. Reed, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135775."
+      },
+      {
+        "id": "XA19A1B32-EA89-4466-8810-623811B194E1",
+        "text": "4LincolnwroteJacob Harding a letter on May 25, 1855, in which he briefly discussed the Sizemore\n                  and Henderson debts."
+      },
+      {
+        "id": "XB58BB609-88A8-4F5C-8FA6-101651FFC65E",
+        "text": "5Lincoln wrote and signed this endorsement."
+      },
+      {
+        "id": "X23B874AD-1052-4CCC-B40D-5E5FDB0D5A4D",
+        "text": "6Either Daniel R.  or Sylvanus S. Sandford wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Daniel R. Sandford and Sylvanus S. Sandford to Abraham Lincoln, 16 May 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "The note left with us onSizemoreof five dollars has been paid herewith find inclosed the amt[amount]–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "We have repetedly calledJohn Hendersons attention to his note for $5— & he has as often made some objection to paying3"
+      },
+      {
+        "type": "paragraph",
+        "text": "The note is  stil here— what shal we do with it"
+      }
+    ],
+    "word_count": 61
+  },
+  "extraction_date": "2025-12-26 21:36:43",
+  "word_count": 61,
+  "processing": {
+    "cleaned": true,
+    "original_length": 346,
+    "cleaned_length": 337,
+    "preserved_originality": true
+  }
+}

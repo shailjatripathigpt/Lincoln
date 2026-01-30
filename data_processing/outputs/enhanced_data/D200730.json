@@ -1,0 +1,67 @@
+{
+  "document_id": "D200730",
+  "url": "https://papersofabrahamlincoln.org/documents/D200730",
+  "metadata": {
+    "date": "1853-01-10",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Trials (Manslaughter)",
+      "Prisoners",
+      "Pardon"
+    ],
+    "type": "Letter",
+    "extracted_date": "1853-01-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "joel",
+      "matteson",
+      "january"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Joel A. Matteson, 10 January 18531",
+    "paragraphs": [
+      "Abraham Lincoln to Joel A. Matteson, 10 January 18531"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Writ of Scire, Document ID: 38889; Order, Document ID: 38885;  Writ of Capias ad Respondendum,\n                     Document ID: 38887; Judge’s Docket, Document ID: 38888; Petition for Pardon, Document\n                     ID: 54728,People v. Davis, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135871; Charles H. Coleman,Abraham Lincoln and Coles County, Illinois(New Brunswick, NJ: Scarecrow Press, 1955), 95."
+    ],
+    "footnotes": [
+      {
+        "id": "X79FA3536-A18C-48FD-93A8-FE134BF3B4C7",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the second\n                  sheet, which was folded to create an envelope."
+      },
+      {
+        "id": "X30623ECB-530D-4709-BDCC-EA643AC0901D",
+        "text": "2In the casePeople v. Davis, William D. Davis was arrested in November 1849 for the murder of Henry W. Louthan\n                  in Coles County, but released on the condition that he appear in court when summoned.\n                  After failing to appear several times, theColes County Circuit Courtrevoked his conditional release, and ordered him taken into custody. On May 1, 1850,\n                  a Coles County grand jury indicted him for murder, and Davis retainedOrlando B. Ficklin,Alexander P. Dunbar,Albert G. Jones, and Lincoln for his defense. They motioned for a change of venue, and, on July 1,\n                  1850, JusticeJustin Harlanmoved the case to the Clark County Circuit Court.  The court eventually found Davis\n                  guilty of manslaughter and sentenced him to three years in theIllinois State Penitentiary.  Lincoln was one of many people to petition  GovernorJoel A. Mattesonfor Davis’s release. There is no evidence that Davis was released early.Writ of Scire, Document ID: 38889; Order, Document ID: 38885;  Writ of Capias ad Respondendum,\n                     Document ID: 38887; Judge’s Docket, Document ID: 38888; Petition for Pardon, Document\n                     ID: 54728,People v. Davis, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135871; Charles H. Coleman,Abraham Lincoln and Coles County, Illinois(New Brunswick, NJ: Scarecrow Press, 1955), 95."
+      },
+      {
+        "id": "X77FB949C-403A-43F4-9173-8888FC35D312",
+        "text": "3It is unclear who wrote this script."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Joel A. Matteson, 10 January 18531"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 21:26:41",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 53,
+    "cleaned_length": 53,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

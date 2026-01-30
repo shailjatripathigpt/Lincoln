@@ -1,0 +1,92 @@
+{
+  "document_id": "D200865",
+  "url": "https://papersofabrahamlincoln.org/documents/D200865",
+  "metadata": {
+    "date": "1855-10-10",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Real property",
+      "Land titles"
+    ],
+    "type": "Letter",
+    "extracted_date": "1855-10-10",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "quarter",
+      "section",
+      "abraham",
+      "lincoln",
+      "john",
+      "loughborough",
+      "october",
+      "you",
+      "please",
+      "send",
+      "statement",
+      "each",
+      "fractional",
+      "upon",
+      "bybrown"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John L. Loughborough, 10 October 18551 Will you please send me a statement of each quarter Section, and fractional quarter\n\nSection, upon which, byBrown's survey, anyPeoriaFrench claim is laid?2Your reasonable charge for the same shall be promptly paid–",
+    "paragraphs": [
+      "Abraham Lincoln to John L. Loughborough, 10 October 18551 Will you please send me a statement of each quarter Section, and fractional quarter",
+      "Section, upon which, byBrown's survey, anyPeoriaFrench claim is laid?2Your reasonable charge for the same shall be promptly paid–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Newspaper Report, Document ID: 132934; Newspaper Report, Document ID: 132935,Papin v. Hall, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition(Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137735;Hall v. Papin, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137736; “An Act for the Relief of the Inhabitants of the Village of Peoria, in the State\n                     of Illinois,” 15 May 1820,Statutes at Large of the United States, 3 (1846):605;  “An Act to Confirm Certain Claims to Lotts [Lots] in the Village\n                     of Peoria, in the State of Illinois,” 3 March 1823,Statutes at Large of the United States3 (1846):786-87; C. Ballance,The History of Peoria, Illinois(Peoria: N. C. Nason, 1870), 193-95."
+    ],
+    "footnotes": [
+      {
+        "id": "X5CBD9D2D-BC92-4743-A13D-3DC39AB940AC",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X3B1ED1D6-6E44-4325-9E47-561F0F3A69BE",
+        "text": "2French immigrants settled inIllinoisearly in its history. During theWar of 1812, American forces burned Peoria and displaced its French settlers. In 1820 and again\n                  in 1823,Congressoffered the French settlers claims to their former property. The land at the time\n                  had very little value, and many immigrants had moved away and did not accept the offer.\n                  However, land prices eventually increased, and by the 1830s and 1840s, surveyors made\n                  plats based on the French claims, resulting in disputes between original settlers\n                  and the current owners. One such case wasPapin v. Hall, for which Lincoln served as a co-attorney withOrville H. Browningon behalf ofWilliam A. Hallagainst Joseph L. Papin, an original claimant.  In July 1858,  theU.S. Circuit Court, Northern District of Illinoisdecided for Papin. Hall appealed the judgment to theU.S. Supreme Court. In December 1860, the Supreme Court reversed the judgment of the circuit court.Joseph C. Brown, a deputy from the Surveyor General’s office at St. Louis, created\n                  a survey that included these French claims.Newspaper Report, Document ID: 132934; Newspaper Report, Document ID: 132935,Papin v. Hall, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition(Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137735;Hall v. Papin, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137736; “An Act for the Relief of the Inhabitants of the Village of Peoria, in the State\n                     of Illinois,” 15 May 1820,Statutes at Large of the United States, 3 (1846):605;  “An Act to Confirm Certain Claims to Lotts [Lots] in the Village\n                     of Peoria, in the State of Illinois,” 3 March 1823,Statutes at Large of the United States3 (1846):786-87; C. Ballance,The History of Peoria, Illinois(Peoria: N. C. Nason, 1870), 193-95."
+      },
+      {
+        "id": "XEFA65E98-F7BF-4333-899B-E64424A26A25",
+        "text": "3An unknown person wrote this docketing."
+      },
+      {
+        "id": "X0C3C086A-22AB-4AE4-BE83-EBB632B27A8B",
+        "text": "4SeeJohn L. Loughborough to Abraham Lincoln."
+      },
+      {
+        "id": "XC5235E40-D2DA-4E37-A321-A239398740EE",
+        "text": "5John L. Loughborough wrote this endorsement. Smith could not be positively identified."
+      },
+      {
+        "id": "XD3AD3259-8E81-48AE-8725-12023D10893C",
+        "text": "6Loughborough wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John L. Loughborough, 10 October 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "Will you please send me a statement of each quarter Section, and fractional quarter\n               Section, upon which, byBrown's survey, anyPeoriaFrench claim is laid?2Your reasonable charge for the same shall be promptly paid–"
+      }
+    ],
+    "word_count": 41
+  },
+  "extraction_date": "2025-12-26 21:37:05",
+  "word_count": 41,
+  "processing": {
+    "cleaned": true,
+    "original_length": 286,
+    "cleaned_length": 272,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

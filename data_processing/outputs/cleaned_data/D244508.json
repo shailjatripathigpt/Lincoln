@@ -1,0 +1,54 @@
+{
+  "document_id": "D244508",
+  "url": "https://papersofabrahamlincoln.org/documents/D244508",
+  "metadata": {
+    "date": "1839-05-17",
+    "authors": [
+      "Morse, James M."
+    ],
+    "keywords": [
+      "Circuit courts",
+      "Clerks"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "James M. Morse to Abraham Lincoln, 17 May 18391 Yourshas been duly rec'dThe saidbillwas laid on the table of theCouncil of Revision.2",
+    "paragraphs": [
+      "James M. Morse to Abraham Lincoln, 17 May 18391 Yourshas been duly rec'dThe saidbillwas laid on the table of theCouncil of Revision.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     353, 410, 435, 492, 595, 597; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 407, 485, 491-92, 498, 507; “An Act for the Relief\n                     of the Clerks of the Circuit Courts of Sangamon, Clinton, Fayette and Franklin counties,”\n                     9 December 1839,Laws of Illinois(1840), 156."
+    ],
+    "footnotes": [
+      {
+        "id": "XB05A07D8-7D5C-48BE-AE89-2285EC195A7B",
+        "text": "1James M. Morse wrote the text of the letter and the address and “DeptState 1 Sheet.”"
+      },
+      {
+        "id": "XF9DD6787-BD28-4CDF-A102-EDC2276B4825",
+        "text": "2Abraham Lincoln had introducedHB 272in theHouse of Representativeson February 6, and the House andSenatepassed it and laid it before Council of Revision on March 2. The Council did not\n                  have time to act on the bill before the session ended in March 4, so it did not appear\n                  in the laws for first session of the Eleventh General Assembly.    Lincoln queriedAlexander P. Field, the secretary of state, about the disposition of the bill in aletteron May 11.  By law, ten days not having intervened before the adjournment of the\n                  1st session, and the Council having no objections, theactbecame law on December 9, the first day of the special session.Illinois HouseJournal.  1838. 11th G. A., 1st sess., \n                     353, 410, 435, 492, 595, 597; Illinois SenateJournal. 1838. 11th G. A., 1st sess., 407, 485, 491-92, 498, 507; “An Act for the Relief\n                     of the Clerks of the Circuit Courts of Sangamon, Clinton, Fayette and Franklin counties,”\n                     9 December 1839,Laws of Illinois(1840), 156."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James M. Morse to Abraham Lincoln, 17 May 18391"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yourshas been duly rec'd[received]The saidbillwas laid on the table of theCouncil of Revision.2"
+      }
+    ],
+    "word_count": 22
+  },
+  "extraction_date": "2025-12-26 20:08:57",
+  "word_count": 22,
+  "processing": {
+    "cleaned": true,
+    "original_length": 143,
+    "cleaned_length": 133,
+    "preserved_originality": true
+  }
+}

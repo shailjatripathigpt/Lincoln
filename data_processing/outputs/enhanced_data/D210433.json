@@ -1,0 +1,80 @@
+{
+  "document_id": "D210433",
+  "url": "https://papersofabrahamlincoln.org/documents/D210433",
+  "metadata": {
+    "date": "1849-04-12",
+    "authors": [
+      "Bennett, William W."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-04-12",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "any",
+      "william",
+      "bennett",
+      "abraham",
+      "lincoln",
+      "april",
+      "see",
+      "thejournal",
+      "home",
+      "course",
+      "very",
+      "anxious",
+      "hear",
+      "good"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "William W. Bennett to Abraham Lincoln, 12 April 18491 As I see from theJournal, You are at Home and I am of course very anxious to hear fromWashington2will you be so good as to write me what you thinkofmy prospects are for Registrar atShawneetownor if I have any prospect for any thingPlease answer me by return mail and oblige",
+    "paragraphs": [
+      "William W. Bennett to Abraham Lincoln, 12 April 18491 As I see from theJournal, You are at Home and I am of course very anxious to hear fromWashington2will you be so good as to write me what you thinkofmy prospects are for Registrar atShawneetownor if I have any prospect for any thingPlease answer me by return mail and oblige"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois Daily Journal(Springfield), 2 April 1849, 2:2.",
+      "Niles’ National Register(Philadelphia, PA), 6 June 1849, 1:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135, 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 139, 141;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138, 139;John W. Norton to Abraham Lincoln; Arthur Charles Cole, ed.,The Constitutional Debates of 1847vol. 14 ofCollections of the Illinois State Historical Library, Constitutional Series(Springfield: Illinois State Historical Library, 1919), 2:969."
+    ],
+    "footnotes": [
+      {
+        "id": "X86AAE145-39C1-48EB-AA01-DF34CED3450A",
+        "text": "1William W. Bennett wrote and signed this letter."
+      },
+      {
+        "id": "XEF79A5C0-C3E7-4CEC-85CF-CAC3C0621222",
+        "text": "2Abraham Lincoln arrived inSpringfieldon March 31.  TheIllinois Daily Journalreported his return on April 2.Illinois Daily Journal(Springfield), 2 April 1849, 2:2."
+      },
+      {
+        "id": "X08A19214-E93B-4B48-81E9-BA2564095EC0",
+        "text": "3This endorsement is attributed to Lincoln, but does not appear to be in his hand.\n                  Lincoln’s reply has not been located.Bennett did not get the appointment as register; Lincoln andEdward D. Bakerinstead endorsedAndrew McCallenfor the position.  McCallen received the appointment and held the job from June 1849\n                  to May 1853.John W. Nortonreceived the appointment as receiver, holding that position from June 1849 to 1853.\n                  Bennett’s name does not appear in the official registers of the officers and agents\n                  of the government for 1849, 1851, and 1853, so apparently he did not receive an appointment.Niles’ National Register(Philadelphia, PA), 6 June 1849, 1:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135, 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 139, 141;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138, 139;John W. Norton to Abraham Lincoln; Arthur Charles Cole, ed.,The Constitutional Debates of 1847vol. 14 ofCollections of the Illinois State Historical Library, Constitutional Series(Springfield: Illinois State Historical Library, 1919), 2:969."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William W. Bennett to Abraham Lincoln, 12 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "As I see from theJournal, You are at Home and I am of course very anxious to hear fromWashington2will you be so good as to write me what you thinkofmy prospects are for Registrar[Register] atShawneetownor if I have any prospect for any thingPlease answer me by return mail and oblige"
+      }
+    ],
+    "word_count": 59
+  },
+  "extraction_date": "2025-12-26 20:40:14",
+  "word_count": 59,
+  "processing": {
+    "cleaned": true,
+    "original_length": 337,
+    "cleaned_length": 327,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

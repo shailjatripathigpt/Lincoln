@@ -1,0 +1,55 @@
+{
+  "document_id": "D200711",
+  "url": "https://papersofabrahamlincoln.org/documents/D200711",
+  "metadata": {
+    "date": "1852-03-14",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Business transactions",
+      "House furnishings",
+      "Carpet"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to J. C. Louderman and Company, 14 March 18521",
+    "paragraphs": [
+      "Abraham Lincoln to J. C. Louderman and Company, 14 March 18521"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "J. C. Louderman & Company to Abraham Lincoln."
+    ],
+    "footnotes": [
+      {
+        "id": "X01DABE03-8243-4D84-9EFB-2E509B872068",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X278EFCCA-72D6-4C3C-A96F-D97B98154BE8",
+        "text": "2The letter from J. C. Louderman and Company that Lincoln references, with his memorandum\n                  included at the bottom of it, has not been located."
+      },
+      {
+        "id": "X1A6FE075-1287-4155-B787-903AD03A9741",
+        "text": "3No other correspondence between Lincoln and J. C. Louderman and Company in 1852 has\n                  been located. However, Lincoln previously purchased 7.25 yards of carpet from the\n                  company in the spring of 1849.J. C. Louderman & Company to Abraham Lincoln."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to J. C. Louderman and Company, 14 March 18521"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 21:25:46",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 62,
+    "cleaned_length": 62,
+    "preserved_originality": true
+  }
+}

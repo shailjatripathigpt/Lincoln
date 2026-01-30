@@ -1,0 +1,85 @@
+{
+  "document_id": "D210380",
+  "url": "https://papersofabrahamlincoln.org/documents/D210380",
+  "metadata": {
+    "date": "1849-03-21",
+    "authors": [
+      "Warren, Fitz Henry"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-21",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "fitz",
+      "henry",
+      "warren",
+      "abraham",
+      "lincoln",
+      "march",
+      "jacob",
+      "friendthe",
+      "postmaster",
+      "atnewcastlecounty",
+      "ofloganstate",
+      "ofkentucky",
+      "resigned",
+      "recommends"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Fitz Henry Warren to Abraham Lincoln, 21 March 18491 Jacob Friendthe Postmaster atNewCastleCounty ofLoganState ofKentucky,2has resigned, and recommends the appointment of MrsMary Hulseyas his successor.3 Before submitting this Case to thePostmaster General, I have to request the favor of any information you may possess, or be able conveniently\n\nto obtain, respecting it.",
+    "paragraphs": [
+      "Fitz Henry Warren to Abraham Lincoln, 21 March 18491 Jacob Friendthe Postmaster atNewCastleCounty ofLoganState ofKentucky,2has resigned, and recommends the appointment of MrsMary Hulseyas his successor.3 Before submitting this Case to thePostmaster General, I have to request the favor of any information you may possess, or be able conveniently"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *483.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849, *483;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *542;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853),*512;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855),*327."
+    ],
+    "footnotes": [
+      {
+        "id": "X0224486A-4A0F-491F-9765-805A66E0A46B",
+        "text": "1Fitz Henry Warren signed his name to this form letter."
+      },
+      {
+        "id": "X77C5229E-FDD5-4E44-B2BF-A2258EA37C15",
+        "text": "2The clerk who filled out this form wrote “Kentucky,” when it should have been “Illinois.”\n                  There is no Newcastle in Logan County, Kentucky.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), *483."
+      },
+      {
+        "id": "X29662E7A-8BD8-4861-8F3B-2D421A95FD8F",
+        "text": "3Mary Hulsey received the appointment and held the position until her death in 1854.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849, *483;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), *542;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853),*512;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on   the Thirtieth September, 1855(Washington, DC: A. O. P. Nicholson, 1855),*327."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Fitz Henry Warren to Abraham Lincoln, 21 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jacob Friendthe Postmaster atNewCastleCounty ofLoganState ofKentucky,2has resigned, and recommends the appointment of MrsMary Hulseyas his successor.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before submitting this Case to thePostmaster General, I have to request the favor of any information you may possess, or be able conveniently\n                        to obtain, respecting it."
+      }
+    ],
+    "word_count": 52
+  },
+  "extraction_date": "2025-12-26 20:38:35",
+  "word_count": 52,
+  "processing": {
+    "cleaned": true,
+    "original_length": 395,
+    "cleaned_length": 372,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

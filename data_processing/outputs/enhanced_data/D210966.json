@@ -1,0 +1,83 @@
+{
+  "document_id": "D210966",
+  "url": "https://papersofabrahamlincoln.org/documents/D210966",
+  "metadata": {
+    "date": "1858-11-05",
+    "authors": [
+      "Hanna, William H.",
+      "Wickizer, John H. (Wickhisor)"
+    ],
+    "keywords": [
+      "Elections",
+      "Political campaigns",
+      "United States.  Congress. Senate"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-11-05",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "william",
+      "hanna",
+      "john",
+      "wickizer",
+      "abraham",
+      "lincoln",
+      "november"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "William H. Hanna and John H. Wickizer to Abraham Lincoln, 5 November 18581",
+    "paragraphs": [
+      "William H. Hanna and John H. Wickizer to Abraham Lincoln, 5 November 18581"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 546-47;  Allen C.\n                     Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392, 394, 414-16.",
+      "John Clayton, comp.,The Illinois Fact Book and Historical Almanac 1673-1968(Carbondale: Southern Illinois University Press, 1970), 219, 220, 221, 222;Daily State Illinois Journal(Springfield), 17 September 1858, 2:3; 3 November 1858, 2:2;Chicago Daily Press and Tribune(IL), 5 November 1858, 1:3;  Illinois SenateJournal. 1859. 21th G. A., 30; \n                     Illinois HouseJournal. 1859. 21th G. A., 32.",
+      "Michael Burlingame,Abraham Lincoln: A Life, 1:553-57."
+    ],
+    "footnotes": [
+      {
+        "id": "4020105",
+        "text": "1William H. Hanna wrote this letter. Hanna and John H. Wickizer signed their own names.\n                  Hanna also wrote Abraham Lincoln’s name on the second page which was folded to form\n                  an envelope."
+      },
+      {
+        "id": "4020106",
+        "text": "2Abraham Lincoln was the Republican candidate fromIllinoisfor theU.S. Senatein 1858. He ran againstDemocratStephen A. Douglas, the incumbent. At this time theIllinois General Assemblyelected the state’s representatives in the U.S. Senate, thus the outcome of races\n                  for theIllinois House of RepresentativesandIllinois Senatein the election of 1858 would determine the outcome of the senatorial race.  Ultimately,\n                  in the local elections of 1858, Republicans won a majority of all votes cast in Illinois,\n                  but pro-Douglas Democrats retained control of the Illinois General Assembly, and Douglas\n                  won reelection.  See1858 Illinois Republican Convention;1858 Federal Election.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:457-85, 546-47;  Allen C.\n                     Guelzo, “Houses Divided: Lincoln, Douglas, and the Political Landscape of 1858,”The Journal of American History94 (September 2007), 392, 394, 414-16."
+      },
+      {
+        "id": "4020671",
+        "text": "3McLean County was in the Sixteenth Illinois Senate District and Thirty-Eighth Illinois\n                  House District. In the Sixteenth Senate District, DemocratJoel S. Post, elected in 1856, held over in 1858.  In the Thirty-Eighth House District, RepublicanLeonard Swettwon over DemocratJohn Gregory.  Post voted for Douglas and Swett for Lincoln in the senatorial election.John Clayton, comp.,The Illinois Fact Book and Historical Almanac 1673-1968(Carbondale: Southern Illinois University Press, 1970), 219, 220, 221, 222;Daily State Illinois Journal(Springfield), 17 September 1858, 2:3; 3 November 1858, 2:2;Chicago Daily Press and Tribune(IL), 5 November 1858, 1:3;  Illinois SenateJournal. 1859. 21th G. A., 30; \n                     Illinois HouseJournal. 1859. 21th G. A., 32."
+      },
+      {
+        "id": "4020107",
+        "text": "4Despite Lincoln’s defeat, his campaign - especially hisseries of debateswith Douglas - enhanced his standing in the national Republican Party. Meanwhile,\n                  Douglas’s national reputation in the Democratic Party somewhat suffered. Earlier in\n                  1858, Douglas’s criticism of PresidentJames Buchanan’s support for theLecompton Constitutioncaused a rift in the Democratic Party. During Douglas’s debates with Lincoln, the\n                  former’s  defense of popular sovereignty as a means of determining whether to allow\n                  slavery in U.S. territories further alienated Southern Democrats.Michael Burlingame,Abraham Lincoln: A Life, 1:553-57."
+      },
+      {
+        "id": "4020108",
+        "text": "5Lincoln wrote this docketing."
+      },
+      {
+        "id": "4020109",
+        "text": "6Lincoln also wrote this docketing. His reply to Hanna and Wickizer, if he wrote one,\n                  has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William H. Hanna and John H. Wickizer to Abraham Lincoln, 5 November 18581"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 22:02:24",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 74,
+    "cleaned_length": 74,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

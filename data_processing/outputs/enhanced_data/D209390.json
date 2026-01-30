@@ -1,0 +1,72 @@
+{
+  "document_id": "D209390",
+  "url": "https://papersofabrahamlincoln.org/documents/D209390",
+  "metadata": {
+    "date": "1850-05-18",
+    "authors": [
+      "Baker, Edward D."
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Liens",
+      "Mortgages"
+    ],
+    "type": "Letter",
+    "extracted_date": "1850-05-18",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "amount",
+      "them",
+      "edward",
+      "baker",
+      "abraham",
+      "lincoln",
+      "judge",
+      "youngandgeneral",
+      "shieldshave",
+      "signed",
+      "note",
+      "order",
+      "you",
+      "pay",
+      "out"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Edward D. Baker to Abraham Lincoln, 18 May 18501 Judge YoungandGeneral Shieldshave signed a note with me for $500. This is an order to you to pay that amount out\n\nof My Moffett notes and mortgage at the request of either of them and it is intended\n\nas a specific lien on them for that amount",
+    "paragraphs": [
+      "Edward D. Baker to Abraham Lincoln, 18 May 18501 Judge YoungandGeneral Shieldshave signed a note with me for $500. This is an order to you to pay that amount out",
+      "of My Moffett notes and mortgage at the request of either of them and it is intended",
+      "as a specific lien on them for that amount"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X232BE380-C397-4350-953E-3A22AEABBAE1",
+        "text": "1Edward D. Baker wrote and signed this letter."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Edward D. Baker to Abraham Lincoln, 18 May 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "Judge YoungandGeneral Shieldshave signed a note with me for $500. This is an order to you to pay that amount out\n               of My Moffett notes and mortgage at the request of either of them and it is intended\n               as a specific lien  on them for that amount"
+      }
+    ],
+    "word_count": 56
+  },
+  "extraction_date": "2025-12-26 21:22:52",
+  "word_count": 56,
+  "processing": {
+    "cleaned": true,
+    "original_length": 320,
+    "cleaned_length": 291,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

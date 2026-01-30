@@ -1,0 +1,79 @@
+{
+  "document_id": "D200547",
+  "url": "https://papersofabrahamlincoln.org/documents/D200547",
+  "metadata": {
+    "date": "1849-01-22",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Collecting of accounts"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-01-22",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "abraham",
+      "lincoln",
+      "joseph",
+      "gales",
+      "william",
+      "seaton",
+      "january",
+      "two",
+      "drafts",
+      "one",
+      "other",
+      "drawn",
+      "bythomas",
+      "french"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Joseph Gales and William W. Seaton, 22 January 18491 Two drafts, one for $74337/100the other for $73333/100, drawn byThomas French, and accepted by you, have been sent to me for collection–2Please let me hear from you on the subject.3",
+    "paragraphs": [
+      "Abraham Lincoln to Joseph Gales and William W. Seaton, 22 January 18491 Two drafts, one for $74337/100the other for $73333/100, drawn byThomas French, and accepted by you, have been sent to me for collection–2Please let me hear from you on the subject.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Howard Barclay French, comp.,Genealogy of the Descendants of Thomas French(Philadelphia: Howard Barclay French, 1913), 2:219-20."
+    ],
+    "footnotes": [
+      {
+        "id": "X87862DE4-8056-4A53-B479-A56AAEB52E3A",
+        "text": "1Abraham Lincoln wrote this letter in its entirety."
+      },
+      {
+        "id": "XA1B952E0-B90A-4EA1-BE5C-37779D980026",
+        "text": "2Thomas French worked for Joseph Gales and William W. Seaton operating a ferry which\n                  the two owned that crossed theMississippi RiverbetweenBurlington, IowaandIllinois.  He also served as a general agent for their interests in Burlington and the surrounding\n                  vicinity.Howard Barclay French, comp.,Genealogy of the Descendants of Thomas French(Philadelphia: Howard Barclay French, 1913), 2:219-20."
+      },
+      {
+        "id": "X15F5DBC2-4917-43B1-ABEB-32AF738D1B29",
+        "text": "3Gales’ and Seaton’s reply to Lincoln, if they wrote one, has not been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Joseph Gales and William W. Seaton, 22 January 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Two drafts, one for $74337/100the other for $73333/100, drawn byThomas French, and accepted by you, have been sent to me for collection–2Please let me hear from you on the subject.3"
+      }
+    ],
+    "word_count": 42
+  },
+  "extraction_date": "2025-12-26 20:33:13",
+  "word_count": 42,
+  "processing": {
+    "cleaned": true,
+    "original_length": 253,
+    "cleaned_length": 253,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

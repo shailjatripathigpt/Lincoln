@@ -1,0 +1,62 @@
+{
+  "document_id": "D200486",
+  "url": "https://papersofabrahamlincoln.org/documents/D200486",
+  "metadata": {
+    "date": "1848-05-04",
+    "authors": [],
+    "keywords": [
+      "Military service, Voluntary"
+    ],
+    "type": "Legislative proceeding"
+  },
+  "content": {
+    "full_text": "Report of Legislative Proceedings regarding the Payment of Texas Volunteers, 4 May\n\n18481 . . .3",
+    "paragraphs": [
+      "Report of Legislative Proceedings regarding the Payment of Texas Volunteers, 4 May"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1848. 30th Cong., 1st sess., 321.",
+      "Cong. Globe, 30th Cong., 1st Sess., 726 (1848).",
+      "Cong. Globe, 30th Cong., 1st Sess., 727 (1848); U.S. HouseJournal. 1848. 30th Cong., 1st sess., 463.",
+      "Cong. Globe, 30th Cong., 1st Sess., 742, 840, 841 (1848); U.S. SenateJournal. 1848. 30th Cong., 1st sess., 329, 388, 390, 391."
+    ],
+    "footnotes": [
+      {
+        "id": "X41D66240-85AC-4691-B886-97C4EB4C4EB6",
+        "text": "1Abraham Lincoln made these remarks in theU.S. House of Representativeson May 4, 1848, during debate over a proposedjoint resolution, whichDavid S. Kaufmanhad introduced in the House on January 31.  Theresolutionallowed pay to a regiment of Texas volunteers who were called into service for theMexican War, and who travelled toSan Antonio, but were never mustered into service. Additionally, the resolution allowed compensation\n                  to the volunteers who lost their personal horses due to lack of forage provided by\n                  the government.U.S. HouseJournal. 1848. 30th Cong., 1st sess., 321."
+      },
+      {
+        "id": "X768E735A-ECEE-4BBF-B978-D52A9F6A9683",
+        "text": "2Willard P. Hall objected that theresolutionallowed compensation to these particular  Texas volunteers whose horses perished\n                  due to lack of feed, while other soldiers were only granted compensation if their\n                  horses were killed in battle.Cong. Globe, 30th Cong., 1st Sess., 726 (1848)."
+      },
+      {
+        "id": "XFFA5C1B3-A713-49D6-95B9-AA399A6F4C85",
+        "text": "3At this point, RepresentativeArmistead Burt, who had moved for the adoption of theresolution, explained that the Committee on Military Affairs had reported abillto pay for all horses lost during service in Mexico; but that bill would not cover\n                  these particular soldiers, who had been called into service but were never  mustered\n                  in. Thisbillactually came from the Committee on Claims.Cong. Globe, 30th Cong., 1st Sess., 727 (1848); U.S. HouseJournal. 1848. 30th Cong., 1st sess., 463."
+      },
+      {
+        "id": "XB76AF9C6-0414-4024-A509-E3EBAF93501D",
+        "text": "4The House of Representatives passed theresolutionon May 9, 1848. The next day, theSenatereferred theresolutionto the Committee on Military Affairs.   The committee reported back theresolutionon June 14 withamendments, in which the Senate concurred.  The Senate passed theresolution as amended.   On June 15 the House concurred in the Senate’s amendments, and on June 16, PresidentJames K. Polkapproved theresolutionand it became law.Cong. Globe, 30th Cong., 1st Sess., 742, 840, 841 (1848); U.S. SenateJournal. 1848. 30th Cong., 1st sess., 329, 388, 390, 391."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of Legislative Proceedings regarding the Payment of Texas Volunteers, 4 May\n               18481"
+      },
+      {
+        "type": "paragraph",
+        "text": ". . .3"
+      }
+    ],
+    "word_count": 16
+  },
+  "extraction_date": "2025-12-26 20:29:23",
+  "word_count": 16,
+  "processing": {
+    "cleaned": true,
+    "original_length": 110,
+    "cleaned_length": 96,
+    "preserved_originality": true
+  }
+}

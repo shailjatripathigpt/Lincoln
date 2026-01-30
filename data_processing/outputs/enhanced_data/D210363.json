@@ -1,0 +1,83 @@
+{
+  "document_id": "D210363",
+  "url": "https://papersofabrahamlincoln.org/documents/D210363",
+  "metadata": {
+    "date": "1849-02-25",
+    "authors": [
+      "Cross, Robert J."
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Postmasters"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-02-25",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "people",
+      "truth",
+      "petition",
+      "post",
+      "take",
+      "you",
+      "master",
+      "appointment",
+      "wilson",
+      "robert",
+      "cross",
+      "abraham",
+      "lincoln",
+      "february"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Robert J. Cross to Abraham Lincoln, 25 February 18491 I have forwarded toCol. Bakera petition for a change of Post Masters in thisplaceI will take it as a personal favor to me if you will use your influence with theDepartmentto give us a new Post Master as speedily as circumstances will admitthe people of this place have been so long imposed upon in the appointment of P.\n\nMaster by favoritism atWashingtonthat we are quite anxious to have one of our choice appointed. Mr Wilson for whom\n\nwe ask the appointment has been acting as deputy for some three years past and has\n\ngiven general satisfaction whilst theP. Masterhas done nothing except to take the pay for the duties Mr Wilson has done2I have said to Col. Baker that I believe3/4of theWhigshave signed his petition I believe9/10would be nearer the truth for a history of the management of the appointments in\n\nthe office in this placeI refer you to my letter to theCol.3",
+    "paragraphs": [
+      "Robert J. Cross to Abraham Lincoln, 25 February 18491 I have forwarded toCol. Bakera petition for a change of Post Masters in thisplaceI will take it as a personal favor to me if you will use your influence with theDepartmentto give us a new Post Master as speedily as circumstances will admitthe people of this place have been so long imposed upon in the appointment of P.",
+      "Master by favoritism atWashingtonthat we are quite anxious to have one of our choice appointed. Mr Wilson for whom",
+      "we ask the appointment has been acting as deputy for some three years past and has",
+      "given general satisfaction whilst theP. Masterhas done nothing except to take the pay for the duties Mr Wilson has done2I have said to Col. Baker that I believe3/4of theWhigshave signed his petition I believe9/10would be nearer the truth for a history of the management of the appointments in",
+      "the office in this placeI refer you to my letter to theCol.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 487;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 547;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 517."
+    ],
+    "footnotes": [
+      {
+        "id": "X56FF212D-5855-4EA0-82E6-BA25978D8CE4",
+        "text": "1Robert J. Cross wrote this letter in its entirety."
+      },
+      {
+        "id": "X78ECB611-DAB0-4203-852A-8E6883CE8A66",
+        "text": "2Wilson could not be positively identified."
+      },
+      {
+        "id": "X682DE558-5CCA-4AE3-8479-233AD4F1B1ED",
+        "text": "3Wilson did not receive the appointment; it went to Henry Peers, who held the position\n                  until 1851.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 487;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 547;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 517."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Robert J. Cross to Abraham Lincoln, 25 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have forwarded toCol. Bakera petition for a change of Post Masters in thisplaceI will take it as a personal favor to me if you will use your influence with theDepartmentto give us a new Post Master as speedily as circumstances will admitthe people of this place have been so long imposed upon in the appointment of P.\n               Master by favoritism atWashingtonthat we are quite anxious to have one of our choice appointed. Mr Wilson for whom\n               we ask the appointment has been acting as deputy for some three years past and has\n               given general satisfaction whilst theP. Masterhas done nothing except to take the pay for the duties Mr Wilson has done2I have said to Col. Baker that I believe3/4of theWhigshave signed his petition I believe9/10would be nearer the truth for a history of the management of the appointments in\n               the office in this placeI refer you to my letter to theCol.3"
+      }
+    ],
+    "word_count": 162
+  },
+  "extraction_date": "2025-12-26 20:35:30",
+  "word_count": 162,
+  "processing": {
+    "cleaned": true,
+    "original_length": 985,
+    "cleaned_length": 929,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

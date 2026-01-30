@@ -1,0 +1,71 @@
+{
+  "document_id": "D200063",
+  "url": "https://papersofabrahamlincoln.org/documents/D200063",
+  "metadata": {
+    "date": "1835-12-12",
+    "authors": [
+      "Abraham Lincoln"
+    ],
+    "keywords": [
+      "Bankruptcy",
+      "Debtor and creditor",
+      "Justices of the peace",
+      "Judges"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "A Bill Supplemental to \"An Act for the Relief of Insolvent Debtors,\" [12 December\n\n1835]1 A bill for an act suplemental to an act entitled an act for the relief of insolvent debtors approved January 12th18292 Sec. 1 Be it enacted by the people of the State ofIllinois, represented in theGeneral Assembly: That during the absence of the Judge of Probate from the county: and during the\n\nvacancy of the office of Judge of Probate, by death, resignation, or otherwise, in\n\nany county or counties of this State it shall be the duty of any Justice of the Peace\n\nof such county or counties, on application made to him, to perform all duties required\n\nof the Judges of Probate, by the act to which this is suplemental Sec. 2 It shall be the duty of any Sheriff or other officer having the custody of\n\nany person, to convey such person before some Justice of the Peace of the proper county,\n\nupon application made for that purpose: provided suchpurpperson would have the right under the third section of the act to which this is suplemental, to demand his conveyance before the Judge of Probate",
+    "paragraphs": [
+      "A Bill Supplemental to \"An Act for the Relief of Insolvent Debtors,\" [12 December",
+      "1835]1 A bill for an act suplemental to an act entitled an act for the relief of insolvent debtors approved January 12th18292 Sec. 1 Be it enacted by the people of the State ofIllinois, represented in theGeneral Assembly: That during the absence of the Judge of Probate from the county: and during the",
+      "vacancy of the office of Judge of Probate, by death, resignation, or otherwise, in",
+      "any county or counties of this State it shall be the duty of any Justice of the Peace",
+      "of such county or counties, on application made to him, to perform all duties required",
+      "of the Judges of Probate, by the act to which this is suplemental Sec. 2 It shall be the duty of any Sheriff or other officer having the custody of",
+      "any person, to convey such person before some Justice of the Peace of the proper county,",
+      "upon application made for that purpose: provided suchpurpperson would have the right under the third section of the act to which this is suplemental, to demand his conveyance before the Judge of Probate"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 32, 41, 68, 77, 122; Illinois SenateJournal. 1835. 9th G. A., 2nd sess., 95, 210, 224-25."
+    ],
+    "footnotes": [
+      {
+        "id": "X42E5A4FC-F850-429F-A075-741922A20AD9",
+        "text": "1Abraham  Lincoln wrote the entirety of the text on page one.On December 9, 1835, Abraham Lincoln gavenoticein theHouse of Representativesof his intention to introduce this bill, which he did on December 12.  The House\n                  passed the bill on December 22.    On January 12, 1836, theSenatereferred the bill to the Committee on the Judiciary.  The Committee on the Judiciary\n                  did not report back the bill, and the Senate took no further action.Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 32, 41, 68, 77, 122; Illinois SenateJournal. 1835. 9th G. A., 2nd sess., 95, 210, 224-25."
+      },
+      {
+        "id": "XB05F3B66-A187-49D9-81CF-AC7D5BC1FB7C",
+        "text": "2This act would have supplemented “An Act for the Relief of Insolvent Debtors,” 12\n                  January 1829,Revised Laws of Illinois(1829), 78-84."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "A Bill Supplemental to \"An Act for the Relief of Insolvent Debtors,\" [12 December\n               1835]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "A bill for an act  suplemental to an act entitled an act for the relief of insolvent debtors approved January 12th18292"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sec. 1 Be it enacted by the people of the State ofIllinois, represented in theGeneral Assembly: That during the absence of the Judge of Probate from the county: and during the\n               vacancy of the office of Judge of Probate, by death, resignation, or otherwise, in\n               any county or counties of this State it shall be the duty of any Justice of the Peace\n               of such county or counties, on application made to him, to perform all duties required\n               of the Judges of Probate, by the act to which this is suplemental"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sec. 2 It shall be the duty of any Sheriff or other officer having the custody of\n               any person, to convey such person before some Justice of the Peace of the proper county,\n               upon application made for that purpose: provided suchpurpperson would have the right under the third section of the act to which this is suplemental, to demand his conveyance before the Judge of Probate"
+      }
+    ],
+    "word_count": 193
+  },
+  "extraction_date": "2025-12-26 20:03:30",
+  "word_count": 193,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1185,
+    "cleaned_length": 1086,
+    "preserved_originality": true
+  }
+}

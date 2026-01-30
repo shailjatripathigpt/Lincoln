@@ -1,0 +1,67 @@
+{
+  "document_id": "D200200",
+  "url": "https://papersofabrahamlincoln.org/documents/D200200",
+  "metadata": {
+    "date": "1840-01-15",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Municipal corporations",
+      "Real property",
+      "Counties",
+      "Surveying"
+    ],
+    "type": "Bill"
+  },
+  "content": {
+    "full_text": "A Bill Legalizing the Survey and Plat of the Town of Mount Auburn in the County of\n\nDane, 1 A bill for an act legalizing the Survey andtownplat of the town ofMount Auburnin the county ofDane—2 Be it enacted by the People of the state ofIllinoisrepresented in theGeneral Assembly: That the Survey\n\nand Town Plat of the town of Mount Auburn, in the county of Dane, as certified byT. R. Skinner,\n\nSurveyorLogan county, are hereby made as legal as if they had been made by the Surveyor of Dane county—",
+    "paragraphs": [
+      "A Bill Legalizing the Survey and Plat of the Town of Mount Auburn in the County of",
+      "Dane, 1 A bill for an act legalizing the Survey andtownplat of the town ofMount Auburnin the county ofDane—2 Be it enacted by the People of the state ofIllinoisrepresented in theGeneral Assembly: That the Survey",
+      "and Town Plat of the town of Mount Auburn, in the county of Dane, as certified byT. R. Skinner,",
+      "SurveyorLogan county, are hereby made as legal as if they had been made by the Surveyor of Dane county—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1839. 11th G. A., special sess., 178, 200, 260; Illinois SenateJournal. 1839. 11th G. A., special sess., 189."
+    ],
+    "footnotes": [
+      {
+        "id": "XD98C51B4-2ABF-4D97-865A-4954D774EBAC",
+        "text": "1Abraham Lincolnwrote the text of this bill.  The docketing on page two is in another hand."
+      },
+      {
+        "id": "X7033E3A9-D895-4B9F-9490-F860E0473605",
+        "text": "2Edward D. Bakerintroduced HB 136 in theHouse of Representativeson January 15, 1840.  The House passed the bill on January 27. The House informed\n                  theSenateof the bill’s passage, but the latter took no action.Illinois HouseJournal. 1839. 11th G. A., special sess., 178, 200, 260; Illinois SenateJournal. 1839. 11th G. A., special sess., 189."
+      },
+      {
+        "id": "X9082D9D3-0C87-4A66-ADBC-E4A1C6A86D3F",
+        "text": "3“28” changed to “27”."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "A Bill Legalizing the Survey and Plat of the Town of Mount Auburn in the County of\n               Dane, [15 January 1840]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "A bill for an act legalizing the Survey andtownplat of the town ofMount Auburnin the county ofDane—2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Be it enacted by the People of the state ofIllinoisrepresented in theGeneral Assembly: That the Survey\n               and Town Plat of the town of Mount Auburn, in the county of Dane, as certified byT. R. Skinner,\n               SurveyorLogan county, are hereby made as legal as if they had been made by the Surveyor of Dane county—"
+      }
+    ],
+    "word_count": 90
+  },
+  "extraction_date": "2025-12-26 20:11:01",
+  "word_count": 92,
+  "processing": {
+    "cleaned": true,
+    "original_length": 556,
+    "cleaned_length": 497,
+    "preserved_originality": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "D209979",
+  "url": "https://papersofabrahamlincoln.org/documents/D209979",
+  "metadata": {
+    "date": "1857-09-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Finance, Personal",
+      "Banks and banking",
+      "Newspapers"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of Abraham Lincoln to Bailhache & Baker, 28 September 18571 Springfield Marine & Fire Insurance Company, Pay toBailhache & Bakeror Bearer Ten/100Dollars, IN CURRENT BANK NOTES. $10–002 Richards & Smith,printers.",
+    "paragraphs": [
+      "Check of Abraham Lincoln to Bailhache & Baker, 28 September 18571",
+      "Springfield Marine & Fire Insurance Company,",
+      "Pay toBailhache & Bakeror Bearer",
+      "Ten/100Dollars,",
+      "IN CURRENT BANK NOTES.",
+      "$10–002",
+      "Richards & Smith,printers."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Franklin William Scott,Newspapers and Periodicals of Illinois, 1814-1879, vol. 6 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1910), 321, 324; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 166."
+    ],
+    "footnotes": [
+      {
+        "id": "X7BC15CDC-EB05-4A67-A9CD-69E7818065AD",
+        "text": "1Abraham Lincoln filled in the blanks of this partially printed check and signed it."
+      },
+      {
+        "id": "X4F835669-8C9B-4CA2-AE06-26E798761BEB",
+        "text": "2Lincoln’s payment of $10 to the publishing firm of Bailhache & Baker was for subscription\n                  to theIllinois State Journal. The funds were withdrawn from his account at the Springfield Marine & Fire Insurance\n                  Company on September 30, 1857.Franklin William Scott,Newspapers and Periodicals of Illinois, 1814-1879, vol. 6 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1910), 321, 324; Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 166."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Abraham Lincoln to Bailhache & Baker, 28 September 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "Springfield Marine & Fire Insurance Company,"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pay toBailhache & Bakeror Bearer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ten/100Dollars,"
+      },
+      {
+        "type": "paragraph",
+        "text": "IN CURRENT BANK NOTES."
+      },
+      {
+        "type": "paragraph",
+        "text": "$10–002"
+      },
+      {
+        "type": "paragraph",
+        "text": "Richards & Smith,printers."
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:44:44",
+  "word_count": 31
+}

@@ -1,0 +1,56 @@
+{
+  "document_id": "D200388",
+  "url": "https://papersofabrahamlincoln.org/documents/D200388",
+  "metadata": {
+    "date": "1846-01-21",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Political candidates",
+      "Nominations for office",
+      "Elections"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Northcup J. Rockwell, 21 January 18461 You perhaps know thatGeneral Hardinand I have a contest for theWhignomination forCongressfor this district.2He has had a turn and my argument is \"Turn about is fair play.\" I shall be pleased\n\nif this strikes you as a sufficient argument.",
+    "paragraphs": [
+      "Abraham Lincoln to Northcup J. Rockwell, 21 January 18461 You perhaps know thatGeneral Hardinand I have a contest for theWhignomination forCongressfor this district.2He has had a turn and my argument is \"Turn about is fair play.\" I shall be pleased",
+      "if this strikes you as a sufficient argument."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:218, 231, 233;Sangamo Journal(Springfield, IL), 26 February 1846, 2:1-2; Howard W. Allen and Vincent A. Lacey,\n                     eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126."
+    ],
+    "footnotes": [
+      {
+        "id": "XFA996EEC-D5AE-45CB-9781-FDDC5B2C6B1D",
+        "text": "1This document is not extant and no image of the document has been located. This transcription\n                  is taken from the earliest published transcription of the document, in Ida Tarbell’s,The Life of Abraham Lincoln(New York: Doubleday & McClure, 1900), 2:295. Tarbell presumably had access to the\n                  original, and presumably it was written and signed by Abraham Lincoln."
+      },
+      {
+        "id": "X7CC3A276-9517-477B-A78A-38F61CE14289",
+        "text": "2At a Whig convention inPekinin May 1843, an agreement was made between Lincoln,Edward D. Baker, and John J. Hardin that seemed to establish a one-term limit on the prospective\n                  Whig congressmen. Hardin and Baker having already served, Lincoln believed that the\n                  1846 nomination should have been his. While Hardin delayed officially announcing his\n                  candidacy, Lincoln set out to solidify his own support. In response, Hardin proposed\n                  that the convention system for the nomination be thrown out in favor of a primary\n                  election between himself and Lincoln. On January 19, Lincolnrefusedto agree to the change, and on  February 16, Hardin announced he would not seek the\n                  nomination.Lincoln and Hardin were vying to represent the Seventh Congressional District, which\n                  included the counties ofCass,Logan,Marshall,Mason,Menard,Morgan,Putnam,Sangamon,Scott,Tazewell, andWoodford.Michael Burlingame,Abraham Lincoln: A Life(Baltimore: The Johns Hopkins University Press, 2008), 1:218, 231, 233;Sangamo Journal(Springfield, IL), 26 February 1846, 2:1-2; Howard W. Allen and Vincent A. Lacey,\n                     eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 126."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Northcup J. Rockwell, 21 January 18461"
+      },
+      {
+        "type": "paragraph",
+        "text": "You perhaps know thatGeneral Hardinand I have a contest for theWhignomination forCongressfor this district.2He has had a turn and my argument is \"Turn about is fair play.\" I shall be pleased\n               if this strikes you as a sufficient argument."
+      }
+    ],
+    "word_count": 48
+  },
+  "extraction_date": "2025-12-26 20:22:09",
+  "word_count": 48,
+  "processing": {
+    "cleaned": true,
+    "original_length": 309,
+    "cleaned_length": 295,
+    "preserved_originality": true
+  }
+}

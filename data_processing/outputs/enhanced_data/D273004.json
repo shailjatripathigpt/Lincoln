@@ -1,0 +1,64 @@
+{
+  "document_id": "D273004",
+  "url": "https://papersofabrahamlincoln.org/documents/D273004",
+  "metadata": {
+    "date": "1847-12-06 - 1849-03-03",
+    "authors": [
+      "Burns, D. P."
+    ],
+    "keywords": [
+      "Post roads",
+      "Postal service"
+    ],
+    "type": "Petition",
+    "extracted_date": "1847",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "petition",
+      "burns",
+      "others",
+      "orlando",
+      "ficklin",
+      "abraham",
+      "lincoln",
+      "december",
+      "march"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Petition of D. P. Burns and Others to Orlando B. Ficklin and Abraham Lincoln, [6 December\n\n1847 - 3 March 1849]1",
+    "paragraphs": [
+      "Petition of D. P. Burns and Others to Orlando B. Ficklin and Abraham Lincoln, [6 December",
+      "1847 - 3 March 1849]1"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XDFBAE206-D830-46D9-A085-39C28C1C5545",
+        "text": "1D. P. Burns wrote this petition and signed his name.  The other signatories signed\n                  their own names.  The petitioners sent this petition to either Orlando B. Ficklin\n                  or Abraham Lincoln sometime during the 30th Congress. Although the petition is located\n                  in a collection of petitions presented to the U.S. House of Representatives that were\n                  committed to committees, editors could find no evidence of it having been introduced\n                  or referred to the Committee on the Post Office and Post Roads, of which Lincoln was\n                  a member."
+      },
+      {
+        "id": "X3C97159F-BF26-4DDB-8454-1F6E8BC27E88",
+        "text": "2As the docketing on this page clearly does not match the content of this petition,\n                  it is possible that a clerk in the House of Representatives simply wrote the docketing\n                  intended for a different document on this petition."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of D. P. Burns and Others to Orlando B. Ficklin and Abraham Lincoln, [6 December\n               1847 - 3 March 1849]1"
+      }
+    ],
+    "word_count": 21
+  },
+  "extraction_date": "2025-12-26 20:36:50",
+  "word_count": 21,
+  "processing": {
+    "cleaned": true,
+    "original_length": 126,
+    "cleaned_length": 112,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

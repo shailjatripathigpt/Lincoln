@@ -1,0 +1,63 @@
+{
+  "document_id": "D210533",
+  "url": "https://papersofabrahamlincoln.org/documents/D210533",
+  "metadata": {
+    "date": "1849-06-15",
+    "authors": [
+      "Duer, William"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William Duer to Abraham Lincoln, 15 June 18491 I received last night your letter of the 5thinst–2Not being quite sure whether what you desired was a letter to the Sec of the proper department–3have I got the right one?– or to yourself I send one of each4",
+    "paragraphs": [
+      "William Duer to Abraham Lincoln, 15 June 18491 I received last night your letter of the 5thinst–2Not being quite sure whether what you desired was a letter to the Sec of the proper department–3have I got the right one?– or to yourself I send one of each4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+    ],
+    "footnotes": [
+      {
+        "id": "X58380557-8895-43C6-9628-7300AF5828F7",
+        "text": "1William Duer wrote and signed this letter."
+      },
+      {
+        "id": "X2DCB72BF-86A6-4E72-AA1A-23E3B52AB576",
+        "text": "2Abraham Lincoln’s June 5, 1849 letter to Duer has not been located. In early June 1849, Lincoln sent\n                  a series of letters to numerous people requesting letters in support of his candidacy\n                  for commissioner of theU.S. General Land Office. Presumably, he made a similar request of Duer.Originally, onlyJustin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner. Lincoln entered the competition after learning\n                  that Butterfield was favored over Morrison and Edwards. See theGeneral Land Office Affair.Abraham Lincoln to Josiah B. Herrick;Abraham Lincoln to James M. McLean;Abraham Lincoln to Robert C. Schenck;Abraham Lincoln to Joseph R. Underwood;Abraham Lincoln to William A. Minshall and Robert S. Blackwell;Abraham Lincoln to Willie P. Mangum;Abraham Lincoln to William H. Seward;Abraham Lincoln to Duff Green;Abraham Lincoln to Unknown;Abraham Lincoln to David Rumsey;Abraham Lincoln to William Nelson;Abraham Lincoln to Nathaniel Pope."
+      },
+      {
+        "id": "XAB623518-8AA0-48F2-AB5D-F4D23C86F32C",
+        "text": "3This is a reference toThomas Ewing, who was secretary of theU.S. Department of the Interior, the department which oversaw the U.S. General Land Office. PresidentZachary Taylor, however, was ultimately responsible for appointing the commissioner of the U.S.\n                  General Land Office."
+      },
+      {
+        "id": "X18851047-6E66-4D21-9C13-E9165A0B8DA2",
+        "text": "4The enclosed letters Duer refers to have not been located. Ultimately, neither Morrison,\n                  Edwards, nor Lincoln received the appointment; the job went to Butterfield instead.\n                  See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William Duer to Abraham Lincoln, 15 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I received last night your letter of the 5thinst–2Not being quite sure whether what you desired was a letter to the Sec[Secretary] of the proper department–3have I got the right one?– or to yourself I send one of each4"
+      }
+    ],
+    "word_count": 47
+  },
+  "extraction_date": "2025-12-26 21:18:11",
+  "word_count": 47,
+  "processing": {
+    "cleaned": true,
+    "original_length": 265,
+    "cleaned_length": 254,
+    "preserved_originality": true
+  }
+}

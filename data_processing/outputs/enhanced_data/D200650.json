@@ -1,0 +1,82 @@
+{
+  "document_id": "D200650",
+  "url": "https://papersofabrahamlincoln.org/documents/D200650",
+  "metadata": {
+    "date": "1850-03-22",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Employment references",
+      "Indian agents"
+    ],
+    "type": "Letter",
+    "extracted_date": "1850-03-22",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "thomas",
+      "ewing",
+      "march",
+      "understand",
+      "you",
+      "under",
+      "consideration",
+      "question",
+      "appointing",
+      "dra",
+      "henryto",
+      "some",
+      "indian"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Thomas Ewing, 22 March 18501 I understand you have under consideration the question of appointing DrA. G. Henryto some Indian AgencyorSub-Agency– I wish now merely to say that of all those whom I have desired should receive appointments\n\nfrom this Administration, DrHenry was at first, has always been, and still is, N0One with me–2I believe, nay, Iknow, he has done more disinterested labor in theWhigcause, than any other one, two, or three men in thestate–3",
+    "paragraphs": [
+      "Abraham Lincoln to Thomas Ewing, 22 March 18501 I understand you have under consideration the question of appointing DrA. G. Henryto some Indian AgencyorSub-Agency– I wish now merely to say that of all those whom I have desired should receive appointments",
+      "from this Administration, DrHenry was at first, has always been, and still is, N0One with me–2I believe, nay, Iknow, he has done more disinterested labor in theWhigcause, than any other one, two, or three men in thestate–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Abraham Lincoln to Thomas Ewing;Abraham Lincoln to William B. Preston;Abraham Lincoln to John M. Clayton.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 250;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 271;  Edward D. Neill,History of the Minnesota Valley(Minneapolis: North Star, 1882),  123-24; Elbert F. Floyd, “Insights into the Personal\n                     Friendship and Patronage of Abraham Lincoln and Anson Gordon Henry, M.D.: Letters\n                     for Dr. Henry to His Wife, Eliza,”Journal of the Illinois State Historical Society98 (Winter 2005/2006), 220, 223."
+    ],
+    "footnotes": [
+      {
+        "id": "X8FF3A92F-3EAD-42A5-88D8-526F2CF3F157",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XBD4DAB92-344B-4AA2-AD8F-FE2A5E83A21E",
+        "text": "2During the spring and fall of 1849, Lincoln wrote several other letters of recommendation\n                  to officials in PresidentZachary Taylor’s administration supporting Anson G. Henry for several different patronage appointments,\n                  none of which Henry received.Abraham Lincoln to John M. Clayton;Abraham Lincoln to Thomas Ewing;Abraham Lincoln to William B. Preston;Abraham Lincoln to John M. Clayton."
+      },
+      {
+        "id": "X8061BC18-8AD9-4747-A28F-8CD7D2F5BD18",
+        "text": "3Secretary of the Interior Thomas Ewingrepliedto this letter on April 3, 1850. On June 24, 1850, Henry received appointment as\n                  Indian agent in theOregon Territory. He accepted this position and started for Oregon, but never assumed the job, returning\n                  to Springfield before reaching the territory.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 250;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 271;  Edward D. Neill,History of the Minnesota Valley(Minneapolis: North Star, 1882),  123-24; Elbert F. Floyd, “Insights into the Personal\n                     Friendship and Patronage of Abraham Lincoln and Anson Gordon Henry, M.D.: Letters\n                     for Dr. Henry to His Wife, Eliza,”Journal of the Illinois State Historical Society98 (Winter 2005/2006), 220, 223."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Thomas Ewing, 22 March 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "I understand you have under consideration the question of appointing DrA. G. Henryto some Indian AgencyorSub-Agency–  I wish now merely to say that of all those whom I have desired should receive appointments\n               from this Administration, DrHenry was at first, has always been, and still is, N0One with me–2I believe, nay, Iknow, he has done more disinterested labor in theWhigcause, than any other one, two, or three men in thestate–3"
+      }
+    ],
+    "word_count": 78
+  },
+  "extraction_date": "2025-12-26 21:22:19",
+  "word_count": 78,
+  "processing": {
+    "cleaned": true,
+    "original_length": 494,
+    "cleaned_length": 479,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

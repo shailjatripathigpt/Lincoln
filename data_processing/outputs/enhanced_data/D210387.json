@@ -1,0 +1,77 @@
+{
+  "document_id": "D210387",
+  "url": "https://papersofabrahamlincoln.org/documents/D210387",
+  "metadata": {
+    "date": "1849-03-28",
+    "authors": [
+      "Edwards, James L."
+    ],
+    "keywords": [
+      "Military pensions",
+      "Survivors' benefits",
+      "War widows"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "honor",
+      "james",
+      "edwards",
+      "abraham",
+      "lincoln",
+      "march",
+      "reply",
+      "your",
+      "letter",
+      "inform",
+      "you",
+      "claims",
+      "ofelizabeth",
+      "rice",
+      "polly"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "James L. Edwards to Abraham Lincoln, 28 March 18491 In reply to your letter of the 6thinst. I have the honor to inform you, that the claims ofElizabeth M. Rice,Polly, Crawford, andAletha R. Clem, will be acted upon immediately, and notifications of their allowance will be sent\n\ntoRobert E. Yost,Benton, Franklin County, Illinois.2",
+    "paragraphs": [
+      "James L. Edwards to Abraham Lincoln, 28 March 18491 In reply to your letter of the 6thinst. I have the honor to inform you, that the claims ofElizabeth M. Rice,Polly, Crawford, andAletha R. Clem, will be acted upon immediately, and notifications of their allowance will be sent",
+      "toRobert E. Yost,Benton, Franklin County, Illinois.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Isaac H. Elliott,Record of the Services of Illinois Soldiers in the Black Hawk War, 1831-32, and in\n                        the Mexican War, 1846-8(Springfield, IL: H. W. Rokker, 1882), 244, 264-65."
+    ],
+    "footnotes": [
+      {
+        "id": "X6972808D-018E-4002-966B-17628885396D",
+        "text": "1James L. Edwards signed his name to this letter."
+      },
+      {
+        "id": "X27EF3954-2C38-48BF-84F5-F74E0EB615A8",
+        "text": "2Abraham Lincoln’s letter has not been located.Elizabeth M. Rice, Polly Crawford, and Aletha R. Clem were the widows of James Rice,\n                  Joel S. Crawford, and Jessie R. Clem, who all served as privates in Company K, Second\n                  Illinois Foot Volunteers, during theMexican War.  Each man died atTampico, Mexico, while on active duty.Isaac H. Elliott,Record of the Services of Illinois Soldiers in the Black Hawk War, 1831-32, and in\n                        the Mexican War, 1846-8(Springfield, IL: H. W. Rokker, 1882), 244, 264-65."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "James L. Edwards to Abraham Lincoln, 28 March 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "In reply to your letter of the 6thinst. I have the honor to inform you, that the claims ofElizabeth M. Rice,Polly, Crawford, andAletha R. Clem, will be acted upon immediately, and notifications of their allowance will be sent\n               toRobert E. Yost,Benton, Franklin County, Illinois.2"
+      }
+    ],
+    "word_count": 53
+  },
+  "extraction_date": "2025-12-26 20:38:41",
+  "word_count": 53,
+  "processing": {
+    "cleaned": true,
+    "original_length": 345,
+    "cleaned_length": 331,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "D201033",
+  "url": "https://papersofabrahamlincoln.org/documents/D201033",
+  "metadata": {
+    "date": "1858-06-22",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Negligence",
+      "Pedestrians",
+      "Personal injuries"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-06-22",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "here",
+      "term",
+      "again",
+      "not",
+      "abraham",
+      "lincoln",
+      "orville",
+      "browning",
+      "june",
+      "mrs",
+      "macreadyhas",
+      "appeared",
+      "morning",
+      "now"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Orville H. Browning, 22 June 18581 Mrs Macreadyhas appeared here again this morning; and it now occurs to me as strange that I did\n\nnot think to ask you whether you can surely be on hand at the next term, if we continue\n\nthe case till then– Can you? Answer as soon as possible, after receiving–^this–^If you can possibly be here at this term say so, and about what day; but I understood\n\nyou that probably you can not be here again at this term–2",
+    "paragraphs": [
+      "Abraham Lincoln to Orville H. Browning, 22 June 18581 Mrs Macreadyhas appeared here again this morning; and it now occurs to me as strange that I did",
+      "not think to ask you whether you can surely be on hand at the next term, if we continue",
+      "the case till then– Can you? Answer as soon as possible, after receiving–^this–^If you can possibly be here at this term say so, and about what day; but I understood",
+      "you that probably you can not be here again at this term–2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Macready v. Alton, Illinois, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137571."
+    ],
+    "footnotes": [
+      {
+        "id": "X2624C040-8B24-4FA8-ACC1-6C14C535E0DC",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X18320419-52D8-497E-AD74-963BAF4748FA",
+        "text": "2Docketing on the verso of this letter, shown in the second image, reveals that Orville\n                  H. Browning replied to Lincoln on June 25, but his reply has not been located. However,\n                  the case outcome reveals that Lincoln and Browning did not delay the case.In March 1857, Mrs. Mary Macready fell into a hole while walking on a public sidewalk\n                  inAlton, Illinois, injuring her ankle, leg, and back. Incapacitated after the fall, she missed a business\n                  engagement and spent $500 on medical expenses. She retainedLincoln & Herndonand Browning & Bushnell, who sued the city of Alton in theU.S. Circuit Court, Southern District of Illinoisin April 1858 in an action of trespass and requested $20,000 in damages for the city’s\n                  negligence in maintaining the sidewalks and failure to properly warn members of the\n                  public of ongoing repairs and hazards. In June 1858, the jury found for Macready and\n                  awarded $300 in damages.Macready v. Alton, Illinois, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),https://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137571."
+      },
+      {
+        "id": "XCD092102-F460-4CE5-9264-8A169B05BBF2",
+        "text": "3Browning wrote this docketing, shown in the second image."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Orville H. Browning, 22 June 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mrs Macreadyhas appeared here again this morning; and it now occurs to me as strange that I did\n               not think to ask you whether you can surely be on hand at the next term, if we continue\n               the case till then– Can you? Answer as soon as possible, after receiving–^this–^If you can possibly be here at this term say so, and about what day; but I understood\n               you that probably you can not be here again at this term–2"
+      }
+    ],
+    "word_count": 88
+  },
+  "extraction_date": "2025-12-26 21:50:08",
+  "word_count": 88,
+  "processing": {
+    "cleaned": true,
+    "original_length": 507,
+    "cleaned_length": 465,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

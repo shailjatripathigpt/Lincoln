@@ -1,0 +1,59 @@
+{
+  "document_id": "D200521",
+  "url": "https://papersofabrahamlincoln.org/documents/D200521",
+  "metadata": {
+    "date": "1848-08-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military pensions",
+      "Military service, Voluntary",
+      "Soldiers",
+      "Wages"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to William H. Young, 28 August 18481 Your letter enquiring after land warrants has been received, and I have left it with\n               theCommissioner of Pensions, with a special request, in writing that he attend to it, and write you–2You will hear from him before long– As to the three months extra pay; Pay-masters are to go round and pay it to the volunteers\n               in their respective vicinities–  Advertisements will go in advance of them, and no\n               forms are necessary, as I understand it–3",
+    "paragraphs": [
+      "Abraham Lincoln to William H. Young, 28 August 18481",
+      "Your letter enquiring after land warrants has been received, and I have left it with\n               theCommissioner of Pensions, with a special request, in writing that he attend to it, and write you–2You will hear from him before long–",
+      "As to the three months extra pay; Pay-masters are to go round and pay it to the volunteers\n               in their respective vicinities–  Advertisements will go in advance of them, and no\n               forms are necessary, as I understand it–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "“An Act to Amend an Act Entitled ‘An Act Supplemental to an Act Entitled, ‘An Act\n                     providing for the Prosecution of the Existing War Between the United States and the\n                     Republic of Mexico,’’ and for Other Purposes,”Statutes at Large of the United States9 (1862):248."
+    ],
+    "footnotes": [
+      {
+        "id": "XA9736977-B20E-49D6-9DFB-93C8BB3020F4",
+        "text": "1Abraham Lincoln wrote and signed this letter.  The original letter has not been located."
+      },
+      {
+        "id": "X60607F10-D10A-40E3-832E-C172D455069A",
+        "text": "2William H. Young’s letter to Lincoln has not been located. Lincoln’s letter to Commissioner\n                  of PensionsJames L. Edwardshas not been located."
+      },
+      {
+        "id": "X1FCE270D-AC13-4109-87E8-ED981B1F0ACF",
+        "text": "3Section five of an act passed byCongresson July 19, 1848 gave three-months extra pay to all soldiers who engaged in military\n                  service during theMexican Warwho completed their term of enlistment or had been honorably discharged.   For those\n                  who had died in battle or died subsequent to service, the money would go to their\n                  relatives.“An Act to Amend an Act Entitled ‘An Act Supplemental to an Act Entitled, ‘An Act\n                     providing for the Prosecution of the Existing War Between the United States and the\n                     Republic of Mexico,’’ and for Other Purposes,”Statutes at Large of the United States9 (1862):248."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to William H. Young, 28 August 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter enquiring after land warrants has been received, and I have left it with\n               theCommissioner of Pensions, with a special request, in writing that he attend to it, and write you–2You will hear from him before long–"
+      },
+      {
+        "type": "paragraph",
+        "text": "As to the three months extra pay; Pay-masters are to go round and pay it to the volunteers\n               in their respective vicinities–  Advertisements will go in advance of them, and no\n               forms are necessary, as I understand it–3"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 20:30:40",
+  "word_count": 85
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "D206844",
+  "url": "https://papersofabrahamlincoln.org/documents/D206844",
+  "metadata": {
+    "date": "1832-07-24",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military discharge",
+      "Indians of North America--Wars",
+      "Militia",
+      "Soldiers--Salaries, etc."
+    ],
+    "type": "Certificate"
+  },
+  "content": {
+    "full_text": "Certificate of Discharge for Nathan Drake, 24 July 18321 I do hereby certify thatNathan Drakevolunteered and served as a private in the Company which I commanded— in theregimentcommanded by. ColonelSamuel M. Thompson— of the Brigade commanded by Brigadier GeneralSamuel Whitesides— in an expedition directed against theSac&FoxIndians—and that he was enrolled on the 29thday of April & discharged on the 9th2day of June 1832— having served forty and two thirds-days— given under my hand this24thJuly 1832—",
+    "paragraphs": [
+      "Certificate of Discharge for Nathan Drake, 24 July 18321 I do hereby certify thatNathan Drakevolunteered and served as a private in the Company which I commanded— in theregimentcommanded by. ColonelSamuel M.",
+      "Thompson— of the Brigade commanded by Brigadier GeneralSamuel Whitesides— in an expedition directed against theSac&FoxIndians—and that he was enrolled on the 29thday of April & discharged on the 9th2day of June 1832— having served forty and two thirds-days— given under my hand this24thJuly 1832—"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Muster Roll of Abraham Lincoln’s Company of Mounted Volunteers;Muster Roll of Captain Elijah Iles’ Company of Mounted Volunteers;Muster Roll of Captain Jacob M. Early’s Company of Mounted Volunteers; Ellen M. Whitney, comp.,The Black Hawk War, 1831-1832: Illinois Volunteers, vol. 35 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1970), 1:176-78, 227-30, 544-46."
+    ],
+    "footnotes": [],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Discharge for Nathan Drake, 24 July 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "I do hereby certify thatNathan Drakevolunteered and served as a private in the Company which I commanded— in theregimentcommanded by. ColonelSamuel M. Thompson— of the Brigade commanded by Brigadier GeneralSamuel Whitesides— in an expedition directed against theSac&FoxIndians—and that he was enrolled on the 29thday of April & discharged on the 9th2day of June 1832— having served forty and two thirds-days— given under my hand this24thJuly 1832—"
+      }
+    ],
+    "word_count": 75
+  },
+  "extraction_date": "2025-12-26 19:44:53",
+  "word_count": 75,
+  "processing": {
+    "cleaned": true,
+    "original_length": 504,
+    "cleaned_length": 504,
+    "preserved_originality": true
+  }
+}

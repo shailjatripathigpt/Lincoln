@@ -1,0 +1,67 @@
+{
+  "document_id": "D200772",
+  "url": "https://papersofabrahamlincoln.org/documents/D200772",
+  "metadata": {
+    "date": "1854-02-08",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Booksellers and bookselling",
+      "Reading"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John Marshall, 8 February 18541 Your letter of the 1stInstwas received yesterday–2I went at once to the Express Office, got the books, placed twentythree of them at one Book-Store;^&^twenty four at another, for sale, at a commission of ten per cent, and took their receipts–3Of the other three books, I took one to theRegister, one to theJournal, and took one home with me– I found that the editors and booksellers had all previously\n\nseen favorable notices of the work; and one of the booksellers had sent an order toCincinnatifor some copies of it– I am not much of a reader of this sort of literature; but\n\nmywifegot hold of the volume I took home, read it half through last night, and is greatly\n\ninterested in it– When the papers here shall have noticed it, I will send you copies–\n\nThe charge at the Express office was only $1–50; I return herewith one dollar, & hold\n\nfifty cents subject to your order– My attention to this matter has been rather a pleasure than a trouble–",
+    "paragraphs": [
+      "Abraham Lincoln to John Marshall, 8 February 18541 Your letter of the 1stInstwas received yesterday–2I went at once to the Express Office, got the books, placed twentythree of them at one Book-Store;^&^twenty four at another, for sale, at a commission of ten per cent, and took their receipts–3Of the other three books, I took one to theRegister, one to theJournal, and took one home with me– I found that the editors and booksellers had all previously",
+      "seen favorable notices of the work; and one of the booksellers had sent an order toCincinnatifor some copies of it– I am not much of a reader of this sort of literature; but",
+      "mywifegot hold of the volume I took home, read it half through last night, and is greatly",
+      "interested in it– When the papers here shall have noticed it, I will send you copies–",
+      "The charge at the Express office was only $1–50; I return herewith one dollar, & hold",
+      "fifty cents subject to your order– My attention to this matter has been rather a pleasure than a trouble–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:211; Mary Frazaer,Early Engagements: and Florence, (a Sequel.)(Cincinnati: Moore, Anderson, Wilstach & Keys, 1854)."
+    ],
+    "footnotes": [
+      {
+        "id": "X72214D72-B321-443B-B52F-3EB77E418139",
+        "text": "1Abraham Lincoln wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "X9BF02B5A-A6C2-4B2E-B592-784DF8B708DF",
+        "text": "2John Marshall’s letter has not been located."
+      },
+      {
+        "id": "X1AEAA793-BB3A-40E6-916D-F02E42AC2294",
+        "text": "3Marshall’s daughter, Sarah Marshall Hayden, wrote the bookEarly Engagements: and Florence, (a Sequel.)under the pseudonym Mary Frazaer.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 2:211; Mary Frazaer,Early Engagements: and Florence, (a Sequel.)(Cincinnati: Moore, Anderson, Wilstach & Keys, 1854)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John Marshall, 8 February 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 1stInstwas received yesterday–2I went at once to the Express Office, got the books, placed twentythree of them at one Book-Store;^&^twenty four at another, for sale, at a commission of ten per cent, and took their receipts–3Of the other three books, I took one to theRegister, one to theJournal, and took one home with me– I found that the editors and booksellers had all previously\n               seen favorable notices of the work; and one of the booksellers had sent an order toCincinnatifor some copies of it– I am not much of a reader of this sort of literature; but\n               mywifegot hold of the volume I took home, read it half through last night, and is greatly\n               interested in it– When the papers here shall have noticed it, I will send you copies–\n               The charge at the Express office was only $1–50; I return herewith one dollar, & hold\n               fifty cents subject to your order–"
+      },
+      {
+        "type": "paragraph",
+        "text": "My attention to this matter has been rather a pleasure than a trouble–"
+      }
+    ],
+    "word_count": 177
+  },
+  "extraction_date": "2025-12-26 21:29:16",
+  "word_count": 177,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1069,
+    "cleaned_length": 999,
+    "preserved_originality": true
+  }
+}

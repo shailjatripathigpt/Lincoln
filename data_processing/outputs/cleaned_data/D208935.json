@@ -1,0 +1,65 @@
+{
+  "document_id": "D208935",
+  "url": "https://papersofabrahamlincoln.org/documents/D208935",
+  "metadata": {
+    "date": "1855-12-19",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Consumer goods"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of Abraham Lincoln to W. W. Watson and Son, 19 December 18551 Springfield Marine and Fire Insurance Co., Pay toW. W. Watson & Sonor Bearer,Fortyone &72/100Dollars In Current Bank Bills. $4172/1002",
+    "paragraphs": [
+      "Check of Abraham Lincoln to W. W. Watson and Son, 19 December 18551 Springfield Marine and Fire Insurance Co., Pay toW. W. Watson & Sonor Bearer,Fortyone &72/100Dollars In Current Bank Bills. $4172/1002"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: The Abraham Lincoln Association, 1943), 92."
+    ],
+    "footnotes": [
+      {
+        "id": "XE19ECCF7-D992-4D59-96DD-D3C4C6868792",
+        "text": "1Abraham Lincoln filled out this partially printed document."
+      },
+      {
+        "id": "X4016BCE1-57D6-465D-A981-3447AA805C80",
+        "text": "2Although it is uncertain what Lincoln purchased, such a large amount of money to W.\n                  W. Watson & Son, a confectionery, suggests a large gathering or party.Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: The Abraham Lincoln Association, 1943), 92."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Abraham Lincoln to W. W. Watson and Son, 19 December 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "Springfield Marine and Fire Insurance Co.,"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pay toW. W. Watson & Sonor Bearer,Fortyone &72/100Dollars"
+      },
+      {
+        "type": "paragraph",
+        "text": "In Current Bank Bills."
+      },
+      {
+        "type": "paragraph",
+        "text": "$4172/1002"
+      }
+    ],
+    "word_count": 32
+  },
+  "extraction_date": "2025-12-26 21:37:30",
+  "word_count": 32,
+  "processing": {
+    "cleaned": true,
+    "original_length": 202,
+    "cleaned_length": 202,
+    "preserved_originality": true
+  }
+}

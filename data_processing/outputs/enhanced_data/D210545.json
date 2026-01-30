@@ -1,0 +1,67 @@
+{
+  "document_id": "D210545",
+  "url": "https://papersofabrahamlincoln.org/documents/D210545",
+  "metadata": {
+    "date": "1849-06-18",
+    "authors": [
+      "Rumsey, David"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-06-18",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "david",
+      "rumsey",
+      "abraham",
+      "lincoln",
+      "june",
+      "providence",
+      "thepresidentspeed",
+      "you"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "David Rumsey to Abraham Lincoln, 18 June 18491 Providence and thePresidentspeed you–2",
+    "paragraphs": [
+      "David Rumsey to Abraham Lincoln, 18 June 18491 Providence and thePresidentspeed you–2"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X778F6B7C-A8A8-4D3C-9C74-38E9A1A57927",
+        "text": "1David Rumsey wrote and signed this letter."
+      },
+      {
+        "id": "X2CEA35CD-142C-4CD7-8DE2-63FE5F68742A",
+        "text": "2This letter is a response to a request Abraham Lincoln made of Rumsey in aletterhe wrote June 5, 1849, requesting Rumsey’s support of his candidacy for commissioner\n                  of theU.S. General Land Office. Originally, onlyJustin H. Butterfield,James L. D. Morrison, andCyrus Edwardswere vying to become commissioner. Lincoln entered the competition after learning\n                  that Butterfield was favored over Morrison and Edwards. Ultimately, neither Morrison,\n                  Edwards, nor Lincoln received the appointment; the job went to Butterfield instead.\n                  See theGeneral Land Office Affair."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "David Rumsey to Abraham Lincoln, 18 June 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Providence and thePresidentspeed you–2"
+      }
+    ],
+    "word_count": 12
+  },
+  "extraction_date": "2025-12-26 21:19:20",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 85,
+    "cleaned_length": 85,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

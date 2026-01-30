@@ -1,0 +1,82 @@
+{
+  "document_id": "D210462",
+  "url": "https://papersofabrahamlincoln.org/documents/D210462",
+  "metadata": {
+    "date": "1849-05-08",
+    "authors": [
+      "Oliphant, Ethelbert P."
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political",
+      "Diplomatic and consular service, American"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-05-08",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "liberty",
+      "you",
+      "pleasure",
+      "your",
+      "aid",
+      "matter",
+      "place",
+      "ethelbert",
+      "oliphant",
+      "abraham",
+      "lincoln",
+      "informed",
+      "letter",
+      "jany",
+      "afford"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Ethelbert P. Oliphant to Abraham Lincoln, 8 May 18491 I have the pleasure to be informed by your letter of Jany 24thult. that \"it will afford you great pleasure to aid me with the matter I have in\n\nview, to wit the charge toDenmark.2That aid would come very seasonably at this time, as I am about to visitWashington City, to see something in relation to that matter. If you and MrStuartcould feel at liberty to do me the favour to write toGenl. Taylor& forward it to him or theSecy of Statedirect from, your place, you will place me under lasting obligations.3",
+    "paragraphs": [
+      "Ethelbert P. Oliphant to Abraham Lincoln, 8 May 18491 I have the pleasure to be informed by your letter of Jany 24thult. that \"it will afford you great pleasure to aid me with the matter I have in",
+      "view, to wit the charge toDenmark.2That aid would come very seasonably at this time, as I am about to visitWashington City, to see something in relation to that matter. If you and MrStuartcould feel at liberty to do me the favour to write toGenl. Taylor& forward it to him or theSecy of Statedirect from, your place, you will place me under lasting obligations.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 7;Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 1049;The American Almanac and Repository of Useful Knowledge,  for the Year 1853(Boston: Little, Brown, 1853), 130."
+    ],
+    "footnotes": [
+      {
+        "id": "XCC986836-2472-4B00-A257-3BDC0AC6D82D",
+        "text": "1Ethelbert P. Oliphant wrote and signed this letter."
+      },
+      {
+        "id": "X2AE3A0A5-1A40-41AB-A1E9-BC9F72EF1382",
+        "text": "2Abraham Lincoln’s letter has not been located."
+      },
+      {
+        "id": "X504CDC82-4822-417E-84A0-0BF492C6CB87",
+        "text": "3On May 16, LincolnwroteSecretary of State John M. Clayton endorsing Oliphant for the position.  Oliphant\n                  did not get the appointment; in November, President Zachary Taylor gave the post to\n                  Walter Forward, who held the job until October 1851. Miller Grieve would succeed Forward.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 7;Biographical Directory of the American Congress 1774-1996(Alexandria, VA: CQ Staff Directories, 1997), 1049;The American Almanac and Repository of Useful Knowledge,  for the Year 1853(Boston: Little, Brown, 1853), 130."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Ethelbert P. Oliphant to Abraham Lincoln, 8 May 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have the pleasure to be informed by your letter of Jany[January] 24thult. that \"it will afford you great pleasure to aid me with the matter I have in\n               view, to wit the charge  toDenmark.2That aid would come very seasonably at this time, as I am about to visitWashington City, to see something in relation to that matter. If you and MrStuartcould feel at liberty to do me the favour to write toGenl. Taylor& forward it to him or theSecy of Statedirect from, your place, you will place me under lasting obligations.3"
+      }
+    ],
+    "word_count": 101
+  },
+  "extraction_date": "2025-12-26 20:42:39",
+  "word_count": 101,
+  "processing": {
+    "cleaned": true,
+    "original_length": 584,
+    "cleaned_length": 560,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

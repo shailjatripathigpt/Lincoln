@@ -1,0 +1,79 @@
+{
+  "document_id": "D283649",
+  "url": "https://papersofabrahamlincoln.org/documents/D283649",
+  "metadata": {
+    "date": "1849-02-19",
+    "authors": [
+      "Casey, Zadok",
+      "McMurtry, William"
+    ],
+    "keywords": [
+      "Pre-emption rights (United States)",
+      "Public works--Finance"
+    ],
+    "type": "Resolution",
+    "extracted_date": "1849-02-19",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "general",
+      "rights",
+      "public",
+      "illinois",
+      "representatives",
+      "our",
+      "granted",
+      "joint",
+      "resolution",
+      "assembly",
+      "abraham",
+      "lincoln",
+      "february",
+      "resolved",
+      "thehouse"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Joint Resolution of Illinois General Assembly to Abraham Lincoln, 19 February 18491 Resolved by theHouse of Representatives of the State of Illinois, theSenateconcurring herein that our Senators inCongressbe instructed and our Representatives requested to use their influence in favor of\n\npre-emption rights being granted to persons now actual settlers on the Public Domain\n\nthat may be granted to thisStatefor building rail roads or other internal improvements.2",
+    "paragraphs": [
+      "Joint Resolution of Illinois General Assembly to Abraham Lincoln, 19 February 18491 Resolved by theHouse of Representatives of the State of Illinois, theSenateconcurring herein that our Senators inCongressbe instructed and our Representatives requested to use their influence in favor of",
+      "pre-emption rights being granted to persons now actual settlers on the Public Domain",
+      "that may be granted to thisStatefor building rail roads or other internal improvements.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1849.  16th G. A., 62, 116; Illinois SenateJournal. 1849. 16th G. A., 60, 64.",
+      "U.S. SenateJournal. 1849. 30th Congress, 2nd sess., 168; U.S. HouseJournal. 1849. 30th Congress 2nd sess., 474."
+    ],
+    "footnotes": [
+      {
+        "id": "X37825441-384A-4607-BEE8-1A505E35D3FB",
+        "text": "1Richard A. Bradleyintroduced this resolution in the Illinois House of Representatives on January 11,\n                  1849, and the House adopted it.  The Senate concurred on or before January 17.Illinois HouseJournal. 1849.  16th G. A., 62, 116; Illinois SenateJournal. 1849. 16th G. A., 60, 64."
+      },
+      {
+        "id": "X6298FAF5-611A-4946-9366-7DE7B3B62038",
+        "text": "2Stephen A. Douglasintroduced this resolution in theU.S. Senateon January 31, 1849.  The Senate tabled the resolution and ordered it printed. On\n                  February 19,Abraham Lincolnintroduced the resolution in theU.S. House, and the House tabled it and ordered it printed.U.S. SenateJournal. 1849. 30th Congress, 2nd sess., 168; U.S. HouseJournal. 1849. 30th Congress 2nd sess., 474."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Joint Resolution of Illinois General Assembly to Abraham Lincoln, 19 February 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Resolved by theHouse of Representatives of the State of Illinois, theSenateconcurring herein that our Senators inCongressbe instructed and our Representatives requested to use their influence in favor of\n               pre-emption rights being granted to persons now actual settlers on the Public Domain\n               that may be granted to thisStatefor building rail roads or other internal improvements.2"
+      }
+    ],
+    "word_count": 66
+  },
+  "extraction_date": "2025-12-26 20:34:58",
+  "word_count": 66,
+  "processing": {
+    "cleaned": true,
+    "original_length": 491,
+    "cleaned_length": 463,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,75 @@
+{
+  "document_id": "D200027",
+  "url": "https://papersofabrahamlincoln.org/documents/D200027",
+  "metadata": {
+    "date": "1834-01-14",
+    "authors": [
+      "Calhoun, John",
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Surveying",
+      "Real property"
+    ],
+    "type": "Survey",
+    "extracted_date": "1834-01-14",
+    "extracted_type": "survey",
+    "extracted_keywords": [
+      "certificate",
+      "survey",
+      "russell",
+      "godbey",
+      "january"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Certificate of Survey for Russell Godbey, 14 January 18341",
+    "paragraphs": [
+      "Certificate of Survey for Russell Godbey, 14 January 18341"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/LandMeasurement.html.",
+      "Lincoln conducted legal research for Demmon, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141185."
+    ],
+    "footnotes": [
+      {
+        "id": "X1EEF475C-E6F7-484D-A970-E5D0EF6BB6D9",
+        "text": "1Abraham Lincoln wrote the entirety of this document, including Calhoun's signature.\n                  In 1887, William H. Herndon wrote and signed the endorsement on page two."
+      },
+      {
+        "id": "X8708CC40-144E-4B5C-91D4-D4520B903555",
+        "text": "2This land contained eighty acres in the northern section of Sangamon County, Illinois,\n                  which  became a part Menard County in 1839.Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Reference.aspx?ref=Reference html files/LandMeasurement.html."
+      },
+      {
+        "id": "XD8BC5949-D2AC-4AEA-832D-644EB10E4AE4",
+        "text": "3This chainman may have beenArchelaus Demmon, who lived in Menard County, Illinois, and whom Lincoln assisted with a legal question\n                  in 1837.Lincoln conducted legal research for Demmon, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141185."
+      },
+      {
+        "id": "XB67279D0-2BF6-4E86-BE30-5934C59D3371",
+        "text": "4“1878” changed to “1887”."
+      },
+      {
+        "id": "XF967268C-3B2E-44B3-A6BB-8244D09F5809",
+        "text": "5“187” changed to “1887”."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Certificate of Survey for Russell Godbey, 14 January 18341"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 19:46:13",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 58,
+    "cleaned_length": 58,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

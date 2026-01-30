@@ -1,0 +1,74 @@
+{
+  "document_id": "D200435",
+  "url": "https://papersofabrahamlincoln.org/documents/D200435",
+  "metadata": {
+    "date": "1847-12-26",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Military pensions",
+      "Military service, Voluntary",
+      "Legislators"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847-12-26",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "james",
+      "edwards",
+      "december",
+      "you",
+      "please",
+      "inform",
+      "soon",
+      "convenient",
+      "whether",
+      "claims",
+      "ofjohn",
+      "huckleberryandthomas",
+      "collins"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to James L. Edwards, 26 December 18471 Will you please inform me, as soon as convenient, whether the claims ofJohn HuckleberryandThomas Collins, ofIllinois, for Land warrants, have been presented at your office; and if they have, what is\n\ntheir condition–2",
+    "paragraphs": [
+      "Abraham Lincoln to James L. Edwards, 26 December 18471 Will you please inform me, as soon as convenient, whether the claims ofJohn HuckleberryandThomas Collins, ofIllinois, for Land warrants, have been presented at your office; and if they have, what is"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XB5A1650C-C90C-4752-91B7-98389EB9393A",
+        "text": "1Abraham Lincoln wrote and signed the letter."
+      },
+      {
+        "id": "X82C439C6-041A-4931-8465-2E8B2502500E",
+        "text": "2No response to this letter has been located."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to James L. Edwards, 26 December 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "Will you please inform me, as soon as convenient, whether the claims ofJohn HuckleberryandThomas Collins, ofIllinois, for Land warrants, have been presented at your office; and if they have, what is\n               their condition–2"
+      }
+    ],
+    "word_count": 42
+  },
+  "extraction_date": "2025-12-26 20:25:51",
+  "word_count": 42,
+  "processing": {
+    "cleaned": true,
+    "original_length": 286,
+    "cleaned_length": 272,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

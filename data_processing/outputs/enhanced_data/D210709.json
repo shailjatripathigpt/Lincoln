@@ -1,0 +1,99 @@
+{
+  "document_id": "D210709",
+  "url": "https://papersofabrahamlincoln.org/documents/D210709",
+  "metadata": {
+    "date": "1858-06-02",
+    "authors": [
+      "Killpatrick, Thomas M."
+    ],
+    "keywords": [
+      "Local elections",
+      "Political candidates",
+      "Political conventions",
+      "State governments--Officials and employees"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-06-02",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "convention",
+      "you",
+      "favor",
+      "thomas",
+      "killpatrick",
+      "abraham",
+      "lincoln",
+      "june",
+      "montazama",
+      "illjune",
+      "see",
+      "there",
+      "astate",
+      "conventionon",
+      "nominate"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Thomas M. Killpatrick to Abraham Lincoln, 2 June 18581 Montazama IllJune 3d3 I see there is to be astate conventionon the 16thInstto nominate candidates for the Offices of Treasurer and Superintendant of Publick Instruction. I have some thought of presenting my name to that convention as a candidate\n\nfor the latter Office. If you can consistantley favor my pretentions, either as a delegate, or among your numerous friends in attendance on the convention\n\nyou will place me under lasting obligations The friendship, and intimacy that has hither to existed between us has induced me to solicit this favor.2",
+    "paragraphs": [
+      "Thomas M. Killpatrick to Abraham Lincoln, 2 June 18581 Montazama IllJune 3d3 I see there is to be astate conventionon the 16thInstto nominate candidates for the Offices of Treasurer and Superintendant of Publick Instruction. I have some thought of presenting my name to that convention as a candidate",
+      "for the latter Office. If you can consistantley favor my pretentions, either as a delegate, or among your numerous friends in attendance on the convention",
+      "you will place me under lasting obligations The friendship, and intimacy that has hither to existed between us has induced me to solicit this favor.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Louis L. Emmerson, ed.,Blue Book of the State of Illinois, 1919-1920(Springfield: Illinois State Journal, 1919), 501, 529-30, 532-36;Portrait and Biographical Album of Morgan and Scott Counites, Ills.(Chicago: Chapman Brothers, 1889), 546;Daily Illinois State Journal(Springfield), 17 June 1858, 2:2-5;Illinois State Journal(Springfield), 10 November 1858, 2:3;Daily Illinois State Register(Springfield), 27 November 1858, 2:3;The History of McLean County, Illinois(Chicago: Wm. Le Baron, Jr., 1879), 807."
+    ],
+    "footnotes": [
+      {
+        "id": "4018997",
+        "text": "1Thomas M. Killpatrick wrote and signed this letter. He also wrote Abraham Lincoln’s\n                  name and address on the envelope shown in the second image."
+      },
+      {
+        "id": "4018998",
+        "text": "2Killpatrick and Lincoln were both active in theWhigandRepublicanparties and both served terms in theIllinois General Assembly.Lincoln did, in fact, attend the 1858 Illinois Republican Convention as a delegate\n                  forSangamon County. However, neither he nor any of the convention’s other delegates nominated Killpatrick\n                  for either state treasurer or state superintendent of public instruction. The delegates\n                  instead electedNewton Batemanas the party’s candidate for state superintendent of public instruction and incumbent\n                  state treasurerJames Millerfor reelection as state treasurer. In the end, Illinois voters reelected Miller state\n                  treasurer and elected Bateman state superintendent of public instruction.Louis L. Emmerson, ed.,Blue Book of the State of Illinois, 1919-1920(Springfield: Illinois State Journal, 1919), 501, 529-30, 532-36;Portrait and Biographical Album of Morgan and Scott Counites, Ills.(Chicago: Chapman Brothers, 1889), 546;Daily Illinois State Journal(Springfield), 17 June 1858, 2:2-5;Illinois State Journal(Springfield), 10 November 1858, 2:3;Daily Illinois State Register(Springfield), 27 November 1858, 2:3;The History of McLean County, Illinois(Chicago: Wm. Le Baron, Jr., 1879), 807."
+      },
+      {
+        "id": "4018999",
+        "text": "3An unknown person wrote this postmark."
+      },
+      {
+        "id": "4019000",
+        "text": "4Lincoln wrote this docketing in pencil on the envelope shown in the second image."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Thomas M. Killpatrick to Abraham Lincoln, 2 June 18581"
+      },
+      {
+        "type": "description",
+        "text": "Montazama IllJune 3d3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I see there is to be astate conventionon the 16thInstto nominate candidates for the Offices of Treasurer and Superintendant of Publick Instruction.  I have some thought of presenting my name to that convention as a candidate\n               for the latter Office."
+      },
+      {
+        "type": "paragraph",
+        "text": "If you can consistantley favor my pretentions, either as a delegate, or among your numerous friends in attendance on the convention\n               you will place me under lasting obligations"
+      },
+      {
+        "type": "paragraph",
+        "text": "The friendship, and intimacy that has hither to existed between us has induced me to solicit this favor.2"
+      }
+    ],
+    "word_count": 98
+  },
+  "extraction_date": "2025-12-26 21:48:33",
+  "word_count": 98,
+  "processing": {
+    "cleaned": true,
+    "original_length": 636,
+    "cleaned_length": 607,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

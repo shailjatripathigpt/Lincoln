@@ -1,0 +1,92 @@
+{
+  "document_id": "D200177",
+  "url": "https://papersofabrahamlincoln.org/documents/D200177",
+  "metadata": {
+    "date": "1839-06-11",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Sheriffs"
+    ],
+    "type": "Letter",
+    "extracted_date": "1839-06-11",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "people",
+      "you",
+      "told",
+      "him",
+      "sheriff",
+      "asked",
+      "said",
+      "constable",
+      "never",
+      "deputy",
+      "left",
+      "your",
+      "securities",
+      "suffer",
+      "did"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John R. Herndon, 11 June 18391 MrRedman3informs me that you wish me to write you the particulars of a conversation between\n\nDrFelix& myself relative to you— The Drovertook me betweenRushvilleandBeardstown— He, after learning that I lived at Springfield, asked if I wasaacquainted with you— I told him I was— He said you had lately been elected constable\n\ninAdams, but that you never would be again— I asked him why?— He said the people there, had\n\nfound out, that you had been Sheriff or Deputy Sheriff inSangamon county, and that you came off and left your securities to suffer— He then asked me if I\n\ndid not know such to be the fact— I told him I did not think you had ever been Sheriff\n\nor Deputy Sheriff in Sangamon; but that I thought you had been constable— I further\n\ntold him that if you had left your securities to suffer in that or any other case,\n\nI had never heard of it, and that if it had been so, I thought I would have heard\n\nit— If the Dris telling that I told himanything against you whatever, I authorize you to contradict it flatly— We have no\n\nnews here—",
+    "paragraphs": [
+      "Abraham Lincoln to John R. Herndon, 11 June 18391 MrRedman3informs me that you wish me to write you the particulars of a conversation between",
+      "DrFelix& myself relative to you— The Drovertook me betweenRushvilleandBeardstown— He, after learning that I lived at Springfield, asked if I wasaacquainted with you— I told him I was— He said you had lately been elected constable",
+      "inAdams, but that you never would be again— I asked him why?— He said the people there, had",
+      "found out, that you had been Sheriff or Deputy Sheriff inSangamon county, and that you came off and left your securities to suffer— He then asked me if I",
+      "did not know such to be the fact— I told him I did not think you had ever been Sheriff",
+      "or Deputy Sheriff in Sangamon; but that I thought you had been constable— I further",
+      "told him that if you had left your securities to suffer in that or any other case,",
+      "I had never heard of it, and that if it had been so, I thought I would have heard",
+      "it— If the Dris telling that I told himanything against you whatever, I authorize you to contradict it flatly— We have no"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X22643BB3-AC08-4138-BF31-8F166C180241",
+        "text": "1Abraham Lincoln wrote the text of the letter and his signature."
+      },
+      {
+        "id": "XD848539A-E19E-4DFF-BEFF-E0186D20A120",
+        "text": "2Herndon was known by his middle name Rowan."
+      },
+      {
+        "id": "XD6E2A92D-B339-45C4-8CEE-BADB066E02FC",
+        "text": "3In theThe Collected Works of Abraham Lincoln, Roy P. Basler identified this person as “probably George Redman,” but we could discover\n                  no evidence of a George Redman living in Sangamon County in 1839. “Mr. Redman” remains\n                  unidentified."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John R. Herndon, 11 June 18391"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrRedman3informs me that you wish me to write you the particulars of a conversation between\n               DrFelix& myself relative to you—"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Drovertook me betweenRushvilleandBeardstown— He, after learning that I lived at Springfield, asked if I wasaacquainted with you— I told him I was— He said you had lately been elected constable\n               inAdams, but that you never would be again— I asked him why?— He said the people there, had\n               found out, that you had been Sheriff or Deputy Sheriff inSangamon county, and that you came off and left your securities to suffer— He then asked me if I\n               did not know such to be the fact— I told him I did not think you had ever been Sheriff\n               or Deputy Sheriff in Sangamon; but that I thought you had been constable— I further\n               told him that if you  had left your securities to suffer in that or any other case,\n               I had never heard of it, and that if it had been so, I thought I would have heard\n               it—"
+      },
+      {
+        "type": "paragraph",
+        "text": "If the Dris telling that I told himanything against you whatever, I authorize you to  contradict it flatly— We have no\n               news here—"
+      }
+    ],
+    "word_count": 202
+  },
+  "extraction_date": "2025-12-26 20:09:47",
+  "word_count": 202,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1223,
+    "cleaned_length": 1095,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

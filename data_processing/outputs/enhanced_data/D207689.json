@@ -1,0 +1,84 @@
+{
+  "document_id": "D207689",
+  "url": "https://papersofabrahamlincoln.org/documents/D207689",
+  "metadata": {
+    "date": "1858-05-27",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Law--Study and teaching",
+      "Mentoring"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-05-27",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "law",
+      "office",
+      "you",
+      "study",
+      "time",
+      "perhaps",
+      "not",
+      "than",
+      "abraham",
+      "lincoln",
+      "samuel",
+      "caldwell",
+      "your",
+      "letter",
+      "march"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Samuel Caldwell, 27 May 18581 Your letter of the 17thof March, asking an opportunity to study law in my office, I^have^had a long time–2It would afford me pleasure to oblige you; but you perhaps are not aware that I\n\ndo not keep office in a way that is most suitable for a young man to study law in–\n\nI am from home perhaps more than half my time, so that as a preceptor, I should be\n\nof no value– You will find many better opportunities here than in my office–3",
+    "paragraphs": [
+      "Abraham Lincoln to Samuel Caldwell, 27 May 18581 Your letter of the 17thof March, asking an opportunity to study law in my office, I^have^had a long time–2It would afford me pleasure to oblige you; but you perhaps are not aware that I",
+      "do not keep office in a way that is most suitable for a young man to study law in–",
+      "I am from home perhaps more than half my time, so that as a preceptor, I should be",
+      "of no value– You will find many better opportunities here than in my office–3"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XAFA46A5E-4AF7-435F-B951-2F5626011C4F",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X2BC6DAAB-6A18-4536-A925-C143A3B14C7B",
+        "text": "2Samuel Caldwell’s March 17th letter to Lincoln has not been located."
+      },
+      {
+        "id": "X3CD6D839-9F67-4888-932A-4B5913CB2341",
+        "text": "3There is no evidence that Caldwell ever studied in Lincoln’s law office."
+      },
+      {
+        "id": "X2F80FE42-1AE8-4806-BFC5-76D82CA8CD2E",
+        "text": "4An unknown person wrote this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Samuel Caldwell, 27 May 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter of the 17thof March, asking an opportunity to study law in my office, I^have^had a long time–2It would afford me pleasure to oblige you; but you perhaps are not aware that I\n               do not keep office in a way that is most suitable for a young man to study law in–\n               I am from home perhaps more than half my time, so that as a preceptor,  I should be\n               of no value–  You will find many better  opportunities  here than in my office–3"
+      }
+    ],
+    "word_count": 93
+  },
+  "extraction_date": "2025-12-26 21:48:40",
+  "word_count": 93,
+  "processing": {
+    "cleaned": true,
+    "original_length": 527,
+    "cleaned_length": 481,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

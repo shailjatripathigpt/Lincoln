@@ -1,0 +1,76 @@
+{
+  "document_id": "D210582",
+  "url": "https://papersofabrahamlincoln.org/documents/D210582",
+  "metadata": {
+    "date": "1854-11-20",
+    "authors": [
+      "Fithian, William"
+    ],
+    "keywords": [
+      "Political campaigns",
+      "United States. Congress. Senate"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "William Fithian to Abraham Lincoln, 20 November 18541 Your letter was not necessary.2DrCourtney’s promise to go for you, was made a condition precedent to his election– Otherwise\n\nhe should not have been elected.3 I have been sick for two months Paid 3",
+    "paragraphs": [
+      "William Fithian to Abraham Lincoln, 20 November 18541 Your letter was not necessary.2DrCourtney’s promise to go for you, was made a condition precedent to his election– Otherwise",
+      "he should not have been elected.3 I have been sick for two months Paid 3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Charles Hoyt;Abraham Lincoln to J. Young Scammon;Abraham Lincoln to Jacob Harding; David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps;William H. Randolph to Abraham Lincoln; U.S. Const. art. I, § 3.",
+      "Stephen Hansen and Paul Nygard, “Stephen A. Douglas, the Know-Nothings, and the Democratic\n                     Party in Illinois, 1854-1858,”Illinois Historical Journal87 (Summer 1994), 114; Illinois SenateJournal. 1855. 19th G. A., 242-55;Abraham Lincoln to Elihu B. Washburne."
+    ],
+    "footnotes": [
+      {
+        "id": "XB8F9AA8D-5F12-4400-BD09-6F4C5FBDFFB5",
+        "text": "1William Fithian wrote and signed this letter, including the address on the second\n                  sheet, which was folded to make an envelope."
+      },
+      {
+        "id": "X40B37E48-CD00-4DDF-AFEF-182C398DEBC2",
+        "text": "2Abraham Lincoln’s letter to Fithian has not been located, but was likely similar to\n                  others Lincoln wrote in November 1854 requesting his allies’ help in canvassing their\n                  localIllinois General Assemblymembers for support of his potential candidacy for a seat inU.S. Senate.Passage of theKansas-Nebraska Actand its effective repeal of theMissouri Compromisehad reawakened Lincoln’s passion for politics, and he threw himself into thecongressional election campaignin the fall of 1854, crisscrossingIllinoisto deliver speeches against the Kansas-Nebraska Act and in support ofanti-Nebraskacandidates. He even allowed himself to become a candidate for the Illinois General\n                  Assembly (albeit reluctantly at first). As the election campaign reached its climax,\n                  Lincoln’s name began to circulate as a possible nominee for one of the state’s U.S.\n                  Senate seats. U.S. senators were chosen at this time by the Illinois General Assembly,\n                  thus Lincoln’s interest in gauging the members’ political leanings.Abraham Lincoln to Charles Hoyt;Abraham Lincoln to J. Young Scammon;Abraham Lincoln to Jacob Harding; David Herbert Donald,Lincoln(New York: Touchstone, 1995), 167-73; Autobiography of Abraham Lincoln Written for John L. Scripps;William H. Randolph to Abraham Lincoln; U.S. Const. art. I, § 3."
+      },
+      {
+        "id": "XE08FBC38-FFF4-4D05-A8BC-4BCFBD05D3FC",
+        "text": "3Party control of theIllinois House of RepresentativesandSenateafter the 1854 election was significant in the imminent election for U.S. Senate.\n                  The result of the election was an anti-Nebraska majority in the Illinois General Assembly,\n                  which was promising for Lincoln’s potential candidacy. Lincoln himself won election\n                  to the Illinois House of Representatives in the 1854 election, butdeclinedthe seat in late November in order to run for U.S. Senate.Newly-elected state representative forVermilion CountyJames Courtney did indeed support Lincoln’s bid for the U.S. Senate when the Illinois\n                  General Assembly met in a joint session on February 8, 1855 to vote on the matter.\n                  Courtney voted for Lincoln through the first nine rounds of voting. For the tenth\n                  vote, Lincoln withdrew and urged his supporters to vote for anti-NebraskaDemocratLyman Trumbullin order to ensure that an anti-Nebraska politician filled the seat. Courtney cast\n                  his vote for Trumbull  in the tenth and final round of voting in which the latter\n                  emerged victorious.Stephen Hansen and Paul Nygard, “Stephen A. Douglas, the Know-Nothings, and the Democratic\n                     Party in Illinois, 1854-1858,”Illinois Historical Journal87 (Summer 1994), 114; Illinois SenateJournal. 1855. 19th G. A., 242-55;Abraham Lincoln to Elihu B. Washburne."
+      },
+      {
+        "id": "X73C5C0D8-A9A0-497C-9064-5C2193F6724D",
+        "text": "4Lincoln wrote this docketing."
+      },
+      {
+        "id": "XAB861F2C-DE6B-4003-A7CD-18BCB5C35AA4",
+        "text": "5An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William Fithian to Abraham Lincoln, 20 November 18541"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your letter was not necessary.2DrCourtney’s promise to go for you, was made a condition precedent to his election–  Otherwise\n               he should not have been elected.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have been sick for two months"
+      },
+      {
+        "type": "paragraph",
+        "text": "Paid 3"
+      }
+    ],
+    "word_count": 42
+  },
+  "extraction_date": "2025-12-26 21:31:36",
+  "word_count": 42,
+  "processing": {
+    "cleaned": true,
+    "original_length": 267,
+    "cleaned_length": 252,
+    "preserved_originality": true
+  }
+}

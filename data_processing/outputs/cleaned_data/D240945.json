@@ -1,0 +1,60 @@
+{
+  "document_id": "D240945",
+  "url": "https://papersofabrahamlincoln.org/documents/D240945",
+  "metadata": {
+    "date": "1845-11-15",
+    "authors": [],
+    "keywords": [
+      "Actions and defenses",
+      "Lawyers--Fees"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Lincoln & Herndon to Elihu N. Powell and William F. Bryan, 15 November 18451 We have attended to your case and have succeeded in gaining the point. We had it\n\nthrown out of court or our motion to quash the sci fi was sustained by the Court.2The opposite attorney for the Bank fought well, but was unsuccessful in his attempts\n\nto sustain his grounds. for sci fi. Before getting your last letter we had concluded upon the general grounds, but\n\nwhen that came we were at once Satisfied that we were right &c.3Any business you may have in our line will be promptly attended to.",
+    "paragraphs": [
+      "Lincoln & Herndon to Elihu N. Powell and William F. Bryan, 15 November 18451 We have attended to your case and have succeeded in gaining the point. We had it",
+      "thrown out of court or our motion to quash the sci fi was sustained by the Court.2The opposite attorney for the Bank fought well, but was unsuccessful in his attempts",
+      "to sustain his grounds. for sci fi. Before getting your last letter we had concluded upon the general grounds, but",
+      "when that came we were at once Satisfied that we were right &c.3Any business you may have in our line will be promptly attended to."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 1208.",
+      "State Bank of Illinois v. Henderson et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+    ],
+    "footnotes": [
+      {
+        "id": "XCE010444-6E33-46ED-B94D-11E5F1D22FBF",
+        "text": "1William H. Herndonwrote and signed the letter on behalf of himself and his law partner,Abraham Lincoln."
+      },
+      {
+        "id": "X9454125F-B6F1-4CC7-9A73-D567A3BAA0C4",
+        "text": "2A writ ofscire faciaswas used to request the enforcement of a previous court order, commonly an order\n                  over a year old.Henry Campbell Black,Black’s Law Dictionary, 5th ed. (St. Paul, MN: West, 1979), 1208."
+      },
+      {
+        "id": "XE203AB31-0363-4BDC-9205-7B30CBE4A227",
+        "text": "3This letter may concern the case ofState Bank of Illinois v. Henderson et al., in which William H. Henderson and Moses Harlan gave a promissory note to theState Bank of Illinoisbut failed to pay. The Bank sued, theSangamon County Circuit Courtawarded the Bank $486.40 in damages, and the court then revived the case against\n                  the administrators of Harlan’s estate. Harlan’s heirs retained Lincoln & Herndon to\n                  quash the writ of scire facias that made them party to the suit. The court granted\n                  the motion and quashed the writ.State Bank of Illinois v. Henderson et al., Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Lincoln & Herndon to Elihu N. Powell and William F. Bryan, 15 November 18451"
+      },
+      {
+        "type": "paragraph",
+        "text": "We have attended to your case and have succeeded in gaining the point.  We had it\n               thrown out of court or our motion to quash the sci  fi[scire facias] was sustained by the Court.2The opposite attorney for the Bank fought well, but was unsuccessful in his attempts\n               to sustain his grounds. for  sci fi.  Before getting your last letter we had concluded upon the general  grounds, but\n               when that came we were at once Satisfied that we were right &c.[etc.]3Any business you may have in our line will be   promptly attended to."
+      }
+    ],
+    "word_count": 105
+  },
+  "extraction_date": "2025-12-26 20:21:56",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 643,
+    "cleaned_length": 574,
+    "preserved_originality": true
+  }
+}

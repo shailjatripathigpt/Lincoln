@@ -1,0 +1,56 @@
+{
+  "document_id": "D200036",
+  "url": "https://papersofabrahamlincoln.org/documents/D200036",
+  "metadata": {
+    "date": "1834-11-04",
+    "authors": [
+      "Cantrall, Levi (Cantrill)",
+      "Lincoln, Abraham (President)",
+      "Strawbridge, James"
+    ],
+    "keywords": [
+      "Roads--Design and construction",
+      "Roads--Surveying",
+      "County government"
+    ],
+    "type": "Report"
+  },
+  "content": {
+    "full_text": "Report of James Strawbridge, Levi Cantrall, and Abraham Lincoln to the Sangamon County\n               Commissioners' Court, 4 November 18341 [Table 1]",
+    "paragraphs": [
+      "Report of James Strawbridge, Levi Cantrall, and Abraham Lincoln to the Sangamon County\n               Commissioners' Court, 4 November 18341",
+      "[Table 1: 1 day’s labour as  surveyor— | $3.00 Making map— | 50 $3.50....]"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Sangamon County Commissioners Court Record Book D (1833-1840), 101-102, Manuscripts\n                     Division, Abraham Lincoln Presidential Library and Museum, Springfield IL."
+    ],
+    "footnotes": [
+      {
+        "id": "X7867E441-3E63-40AD-8209-9C3D9D4E53E6",
+        "text": "1Abraham Lincoln wrote the entirety of the text on page one, except for Strawbridge\n                  and Cantrall’s signatures."
+      },
+      {
+        "id": "XD7AE282B-EA88-45C4-ABC7-1202B04ACFA7",
+        "text": "2Lincoln’s survey map  depicts the section of road with Athens to the south and the\n                  boundary line of Township 17 North at the north end. That notation was an error, as\n                  Township 17 North is south of Athens, rather than north as Lincoln’s map indicates.\n                  Lincoln’s map actually shows the location of the road from Athens northward to the\n                  boundary line of Township 18 North, rather than 17 North.On December 1, the Sangamon County Commissioners’ Court accepted the report and survey,\n                  ordered the road to be opened, and allowed Lincoln $3.50 for his services as surveyor.Sangamon County Commissioners Court Record Book D (1833-1840), 101-102, Manuscripts\n                     Division, Abraham Lincoln Presidential Library and Museum, Springfield IL."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Report of James Strawbridge, Levi Cantrall, and Abraham Lincoln to the Sangamon County\n               Commissioners' Court, 4 November 18341"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "1 day’s labour as  surveyor— | $3.00",
+          "Making map— | 50",
+          "$3.50."
+        ]
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 19:46:44",
+  "word_count": 20
+}

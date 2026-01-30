@@ -1,0 +1,66 @@
+{
+  "document_id": "D200903",
+  "url": "https://papersofabrahamlincoln.org/documents/D200903",
+  "metadata": {
+    "date": "1856-08-01",
+    "authors": [
+      "Herndon, William H.",
+      "Jayne, William",
+      "Lincoln, Abraham (President)",
+      "Yates, Richard"
+    ],
+    "keywords": [
+      "Politics and government",
+      "Elections",
+      "United States. Congress"
+    ],
+    "type": "Letter",
+    "extracted_date": "1856-08-01",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "others",
+      "john",
+      "palmer",
+      "august"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln and Others to John M. Palmer, 1 August 18561",
+    "paragraphs": [
+      "Abraham Lincoln and Others to John M. Palmer, 1 August 18561"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10-11;Daily Illinois State Journal(Springfield), 16 July 1856, 2:2; 12 August 1856, 2:1; 4 September 1856. 2:1."
+    ],
+    "footnotes": [
+      {
+        "id": "X75B45390-91D6-4C3A-9D6B-9D3539681B5A",
+        "text": "1Abraham Lincoln wrote the text of this letter and signed his name.  Richard Yates,\n                  William H. Herndon, and William Jayne signed their respective names."
+      },
+      {
+        "id": "X0172734F-6E9E-4047-9F42-7A2E2B1AB243",
+        "text": "2John M. Palmer’s response to this letter, if he penned one, has not been located.On July 15, 1856, delegates to anAnti-Nebraskameeting at Springfield nominated Palmer as a candidate for theU.S. House of Representativesrepresenting the Illinois Sixth Congressional District.  A public announcement of\n                  Palmer’s declination of  the nomination for Congress appeared in the August 12, 1856\n                  issue of theIllinois State Journal.John Williamsreplaced Palmer, losing the congressional contest toThomas L. Harris.Howard W. Allen and Vincent A. Lacey, eds.,Illinois Elections, 1818-1990(Carbondale and Edwardsville: Southern Illinois University Press, 1992), 10-11;Daily Illinois State Journal(Springfield), 16 July 1856, 2:2; 12 August 1856, 2:1; 4 September 1856. 2:1."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln and Others to John M. Palmer, 1 August 18561"
+      }
+    ],
+    "word_count": 11
+  },
+  "extraction_date": "2025-12-26 21:40:32",
+  "word_count": 11,
+  "processing": {
+    "cleaned": true,
+    "original_length": 60,
+    "cleaned_length": 60,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,61 @@
+{
+  "document_id": "D209806",
+  "url": "https://papersofabrahamlincoln.org/documents/D209806",
+  "metadata": {
+    "date": "1850-04-03",
+    "authors": [
+      "Ewing, Thomas"
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "Employment references",
+      "Indian agents"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Thomas Ewing to Abraham Lincoln, 3 April 18501 I have yours of the 22dult in aid of the application of DrA. G.\n\nHenry,2and will give to the same due attention;3",
+    "paragraphs": [
+      "Thomas Ewing to Abraham Lincoln, 3 April 18501 I have yours of the 22dult in aid of the application of DrA. G.",
+      "Henry,2and will give to the same due attention;3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Abraham Lincoln to Thomas Ewing;Abraham Lincoln to William B. Preston;Abraham Lincoln to John M. Clayton.",
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 250;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 271;  Edward D. Neill,History of the Minnesota Valley(Minneapolis: North Star, 1882),  123-24; Elbert F. Floyd, “Insights into the Personal\n                     Friendship and Patronage of Abraham Lincoln and Anson Gordon Henry, M.D.: Letters\n                     for Dr. Henry to His Wife, Eliza,”Journal of the Illinois State Historical Society98 (Winter 2005/2006), 220, 223."
+    ],
+    "footnotes": [
+      {
+        "id": "XD87D8D57-9DA8-45A9-B046-F8A1092F2498",
+        "text": "1This letter is attributed to Secretary of the Interior Thomas Ewing but is not in\n                  Ewing’s hand."
+      },
+      {
+        "id": "X1AF71F22-1D45-40CB-BDFD-4DB72F598CF0",
+        "text": "2This is a reference to aletterAbraham Lincoln wrote Ewing recommending Anson G. Henry for appointment to an Indian\n                  agency.During the spring and fall of 1849, Lincoln wrote several other letters of recommendation\n                  to officials in PresidentZachary Taylor’s administration supporting Henry for several different patronage appointments, none\n                  of which Henry received.Abraham Lincoln to John M. Clayton;Abraham Lincoln to Thomas Ewing;Abraham Lincoln to William B. Preston;Abraham Lincoln to John M. Clayton."
+      },
+      {
+        "id": "X8061BC18-8AD9-4747-A28F-8CD7D2F5BD18",
+        "text": "3On June 24, 1850, Henry received appointment as Indian agent in theOregon Territory. He accepted this position and started for Oregon, but never assumed the job, returning\n                  to Springfield before reaching the territory.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on   the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 250;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 271;  Edward D. Neill,History of the Minnesota Valley(Minneapolis: North Star, 1882),  123-24; Elbert F. Floyd, “Insights into the Personal\n                     Friendship and Patronage of Abraham Lincoln and Anson Gordon Henry, M.D.: Letters\n                     for Dr. Henry to His Wife, Eliza,”Journal of the Illinois State Historical Society98 (Winter 2005/2006), 220, 223."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Thomas Ewing to Abraham Lincoln, 3 April 18501"
+      },
+      {
+        "type": "paragraph",
+        "text": "I have yours of the 22dult in aid of the application of DrA. G.\n                  Henry,2and will give to the same due attention;3"
+      }
+    ],
+    "word_count": 30
+  },
+  "extraction_date": "2025-12-26 21:22:14",
+  "word_count": 30,
+  "processing": {
+    "cleaned": true,
+    "original_length": 177,
+    "cleaned_length": 160,
+    "preserved_originality": true
+  }
+}

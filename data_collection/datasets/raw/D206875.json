@@ -1,0 +1,53 @@
+{
+  "document_id": "D206875",
+  "url": "https://papersofabrahamlincoln.org/documents/D206875",
+  "metadata": {
+    "date": "1849-11-17",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Patronage, Political",
+      "Employment references"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John W. Henderson, 17 November 18491 I understand you desire a clerk-ship in some of the Departments atWashington,2and I write this to say, to whom it may concern, that I most willingly stand as one\n               of your endorsers for such a post.3",
+    "paragraphs": [
+      "Abraham Lincoln to John W. Henderson, 17 November 18491",
+      "I understand you desire a clerk-ship in some of the Departments atWashington,2and I write this to say, to whom it may concern, that I most willingly stand as one\n               of your endorsers for such a post.3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+    ],
+    "footnotes": [
+      {
+        "id": "X86CBAF5B-704F-44E2-AE24-1F185A29B64B",
+        "text": "1This letter is attributed to Abraham Lincoln, but the original letter in Lincoln’s\n                  hand is not extant."
+      },
+      {
+        "id": "X147BA623-6F03-4AA6-8E83-60A3D62CFFAD",
+        "text": "2No incoming correspondence to Lincoln on this topic has been located."
+      },
+      {
+        "id": "XE86742AA-C112-453F-BF54-4E4F26AC4FC7",
+        "text": "3John W. Henderson’s name does not appear in the official registers of the officers\n                  and agents of the federal government for 1849, 1851, and 1853, so apparently he did\n                  not receive an appointment.Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849);Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851);Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John W. Henderson, 17 November 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "I understand you desire a clerk-ship in some of the Departments atWashington,2and I write this to say, to whom it may concern, that I most willingly stand as one\n               of your endorsers for such a post.3"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:21:31",
+  "word_count": 45
+}

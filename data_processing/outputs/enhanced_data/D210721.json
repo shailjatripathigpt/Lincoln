@@ -1,0 +1,98 @@
+{
+  "document_id": "D210721",
+  "url": "https://papersofabrahamlincoln.org/documents/D210721",
+  "metadata": {
+    "date": "1858-06-09",
+    "authors": [
+      "Peckham, Charles J."
+    ],
+    "keywords": [
+      "Fourth of July celebrations",
+      "Political oratory",
+      "Public speaking"
+    ],
+    "type": "Letter",
+    "extracted_date": "1858-06-09",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "address",
+      "your",
+      "charles",
+      "peckham",
+      "abraham",
+      "lincoln",
+      "june",
+      "determined",
+      "citizens",
+      "place",
+      "celebrate",
+      "coming",
+      "july",
+      "behalf"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Charles J. Peckham to Abraham Lincoln, 9 June 18581 It has been determined by the citizens of this place to celebrate the coming 4thof July, and on behalf of the Com. of Arrangments I am instructed to invite you to attend & address us upon that occasion.– If not otherwise engaged for that day and it will suit your pleasure and convenience\n\nto be with us, please answer by telegraph, with your terms.–2Also if you cannot come inform us at once by same medium.– R. S. BlackwellEsq. ofChicagohas also been invited to address us.–3 Hoping that you may be able to accept our invitation, I remain",
+    "paragraphs": [
+      "Charles J. Peckham to Abraham Lincoln, 9 June 18581 It has been determined by the citizens of this place to celebrate the coming 4thof July, and on behalf of the Com. of Arrangments I am instructed to invite you to attend & address us upon that occasion.– If not otherwise engaged for that day and it will suit your pleasure and convenience",
+      "to be with us, please answer by telegraph, with your terms.–2Also if you cannot come inform us at once by same medium.– R. S. BlackwellEsq. ofChicagohas also been invited to address us.–3 Hoping that you may be able to accept our invitation, I remain"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 July 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-05;Chicago Daily Press and Tribune(IL), 7 July 1858, 2:5.",
+      "Chicago Daily Press and Tribune(IL), 7 July 1858, 2:5-6."
+    ],
+    "footnotes": [
+      {
+        "id": "X193713EC-1F32-47D8-A6B7-4BFAD7F8D8B7",
+        "text": "1Charles J. Peckham wrote and signed this letter, including the address on the envelope."
+      },
+      {
+        "id": "XAA2586E3-369D-459D-AE10-C0E32FEF623A",
+        "text": "2Abraham Lincoln's response to this invitation, if he wrote one, has not been located.\n                  Lincoln did not attend the Princeton Independence Day celebration, spending  the day\n                  in Springfield instead. TheChicago Daily Press and Tribunereported on the festivities in Princeton and the disappointment at the absence of\n                  Lincoln: “The first inquiry made by the farmers as they flocked in was, ‘Has Lincoln\n                  come?’\t The rumor had spread the day previous, that his coming was doubtful, and every\n                  Illinoisian was anxious to hear the man who, in addition to his long-sustained character\n                  for ability and eloquence, just now occupies so commanding a position as the standard-bearer\n                  of theRepublicanarmy ofIllinois. For once rumor was true. Lincoln did not come.”  Lincoln alsodeclinedaninvitationto attend Independence Day celebrations held on July 5 inChicago.  He attended an afternoon dinner in Springfield honoring theSpringfield Pioneer Fire Company.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 5 July 1858,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1858-07-05;Chicago Daily Press and Tribune(IL), 7 July 1858, 2:5."
+      },
+      {
+        "id": "XABCF78BA-A6E7-4488-82FA-366D259B7288",
+        "text": "3Robert S. Blackwell did address the crowd at the celebration. Other speakers includedOwen LovejoyandGeorge W. Stipp.Chicago Daily Press and Tribune(IL), 7 July 1858, 2:5-6."
+      },
+      {
+        "id": "X43A906EF-1827-426A-B6CC-81B526D165FA",
+        "text": "4Lincoln wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Charles J. Peckham to Abraham Lincoln, 9 June 18581"
+      },
+      {
+        "type": "paragraph",
+        "text": "It has been determined by the citizens of this place to celebrate the coming 4thof July, and on behalf of the Com.[Committee] of Arrangments I am instructed to invite you to attend & address us upon that occasion.–"
+      },
+      {
+        "type": "paragraph",
+        "text": "If not otherwise engaged for that day and it will suit your pleasure and convenience\n               to be with us, please answer by telegraph, with your terms.–2Also if you cannot come inform us at once by same medium.–"
+      },
+      {
+        "type": "paragraph",
+        "text": "R. S. BlackwellEsq.[Esquire] ofChicagohas also been invited to address us.–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hoping that you may be able to accept our invitation, I remain"
+      }
+    ],
+    "word_count": 106
+  },
+  "extraction_date": "2025-12-26 21:49:10",
+  "word_count": 106,
+  "processing": {
+    "cleaned": true,
+    "original_length": 626,
+    "cleaned_length": 592,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

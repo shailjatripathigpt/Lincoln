@@ -1,0 +1,72 @@
+{
+  "document_id": "D200180",
+  "url": "https://papersofabrahamlincoln.org/documents/D200180",
+  "metadata": {
+    "date": "1839-08-06",
+    "authors": [],
+    "keywords": [
+      "Judgments"
+    ],
+    "type": "Receipt",
+    "extracted_date": "1839",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "prickett",
+      "receipt",
+      "john",
+      "stuart",
+      "abraham",
+      "lincoln",
+      "david",
+      "august",
+      "received",
+      "springfield",
+      "aug",
+      "ofdavid",
+      "two",
+      "hundred",
+      "fifty"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Receipt of John T. Stuart and Abraham Lincoln to David Prickett, 6 August 18391 Received,Springfield, Aug: 6. 1839 ofDavid Prickett, two hundred and fifty dollars, to be applied to the discharging of a judgement in theSangamon Circuit courtagainst said Prickett, & in favour of the surviving partners of the firm ofA. & G. W. Kerr & Co.2",
+    "paragraphs": [
+      "Receipt of John T. Stuart and Abraham Lincoln to David Prickett, 6 August 18391 Received,Springfield, Aug: 6. 1839 ofDavid Prickett, two hundred and fifty dollars, to be applied to the discharging of a judgement in theSangamon Circuit courtagainst said Prickett, & in favour of the surviving partners of the firm ofA. & G. W. Kerr & Co.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John & Augustus Kerr & Co. v. Prickett,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139556."
+    ],
+    "footnotes": [
+      {
+        "id": "X251CE6C6-AAF6-486F-9719-B9D2E0422BA6",
+        "text": "1Abraham Lincoln wrote the receipt in its entirety and signed for Stuart & Lincoln."
+      },
+      {
+        "id": "X07D459FC-8882-408B-9A4C-6A41E74E7BD2",
+        "text": "2Prickett gaveJohn and Augustus Kerr and Companya promissory note for $2,661.77.  Prickett paid part of the debt but not the entire\n                  amount.  John and Augustus Kerr and Co. retained Stuart and Lincoln and sued Prickett\n                  in an action of assumpsit to recover the debt.  Prickett failed to appear, and the\n                  court ruled for John and Augustus Kerr and Co. and awarded $513.49 in damages.John & Augustus Kerr & Co. v. Prickett,  Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=139556."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of John T. Stuart and Abraham Lincoln to David Prickett, 6 August 18391"
+      },
+      {
+        "type": "paragraph",
+        "text": "Received,Springfield, Aug:[August] 6. 1839 ofDavid Prickett, two hundred and fifty dollars, to be applied to the discharging of a judgement in theSangamon Circuit courtagainst said Prickett,  & in favour of the surviving partners of the firm ofA. & G. W. Kerr & Co.2"
+      }
+    ],
+    "word_count": 57
+  },
+  "extraction_date": "2025-12-26 20:10:10",
+  "word_count": 57,
+  "processing": {
+    "cleaned": true,
+    "original_length": 346,
+    "cleaned_length": 337,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,66 @@
+{
+  "document_id": "D236195",
+  "url": "https://papersofabrahamlincoln.org/documents/D236195",
+  "metadata": {
+    "date": "1856-01-18",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Finance, Personal",
+      "Banks and banking"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of Abraham Lincoln to Self, 18 January 18561 Springfield Marine and Fire Insurance Co., Pay toSelfor Bearer, fifty three64/100Dollars In Current Bank Bills.2",
+    "paragraphs": [
+      "Check of Abraham Lincoln to Self, 18 January 18561 Springfield Marine and Fire Insurance Co., Pay toSelfor Bearer, fifty three64/100Dollars In Current Bank Bills.2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 166."
+    ],
+    "footnotes": [
+      {
+        "id": "XEBC8F894-1913-4805-86C7-76846AF0150C",
+        "text": "1Abraham Lincoln filled in the blanks of this partially printed check and signed it."
+      },
+      {
+        "id": "X1E27E565-FDE2-4FF0-8A20-731BADE760BA",
+        "text": "2Lincoln’s intent for these funds, withdrawn from his account at the Springfield Marine\n                  and Fire Insurance Company, is unknown.Harry E. Pratt,The Personal Finances of Abraham Lincoln(Springfield, IL: Abraham Lincoln Association, 1943), 166."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Abraham Lincoln to Self, 18 January 18561"
+      },
+      {
+        "type": "paragraph",
+        "text": "Springfield Marine and Fire Insurance Co.,"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pay toSelfor Bearer,"
+      },
+      {
+        "type": "paragraph",
+        "text": "fifty three64/100Dollars"
+      },
+      {
+        "type": "paragraph",
+        "text": "In Current Bank Bills.2"
+      }
+    ],
+    "word_count": 24
+  },
+  "extraction_date": "2025-12-26 21:37:57",
+  "word_count": 24,
+  "processing": {
+    "cleaned": true,
+    "original_length": 163,
+    "cleaned_length": 163,
+    "preserved_originality": true
+  }
+}

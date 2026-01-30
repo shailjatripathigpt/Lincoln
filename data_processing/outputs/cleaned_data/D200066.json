@@ -1,0 +1,54 @@
+{
+  "document_id": "D200066",
+  "url": "https://papersofabrahamlincoln.org/documents/D200066",
+  "metadata": {
+    "date": "1835-12-21",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Canals",
+      "Incorporation",
+      "Public works",
+      "Public officers"
+    ],
+    "type": "Amendment"
+  },
+  "content": {
+    "full_text": "Amendment to “A Bill for the Construction of the Illinois and Michigan Canal,” [21\n\nDecember 1835]1 The Governorshall, during the recess of theGeneral Assembly, for any good cause,^shall have power to^remove any or all of the said commissioners from office, and to suply vacancies accasioned by such removals; which appointments shall continue until other appointments are\n\nmade by the General Assembly.",
+    "paragraphs": [
+      "Amendment to “A Bill for the Construction of the Illinois and Michigan Canal,” [21",
+      "December 1835]1 The Governorshall, during the recess of theGeneral Assembly, for any good cause,^shall have power to^remove any or all of the said commissioners from office, and to suply vacancies accasioned by such removals; which appointments shall continue until other appointments are",
+      "made by the General Assembly."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 119."
+    ],
+    "footnotes": [
+      {
+        "id": "XDB4A5087-ECB0-4C57-B4CC-C5A2EECED873",
+        "text": "1On December 21, 1835, Abraham Lincoln presented to theIllinois House of Representativesthis document, written in his handwriting, proposing an amendment to the eighth section\n                  of thecanal bill. The House rejected Lincoln’s amendment by a vote of 26 yeas to 28 nays, with Lincoln\n                  voting yea.Illinois HouseJournal. 1835.  9th G. A., 2nd sess., 119."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Amendment to “A Bill for the Construction of the Illinois and Michigan Canal,” [21\n               December 1835]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Governorshall, during the recess of theGeneral Assembly, for any good cause,^shall have power to^remove any or all of the said commissioners from office, and to suply vacancies accasioned by such removals; which appointments shall continue until other appointments are\n               made by the General Assembly."
+      }
+    ],
+    "word_count": 61
+  },
+  "extraction_date": "2025-12-26 20:03:14",
+  "word_count": 61,
+  "processing": {
+    "cleaned": true,
+    "original_length": 431,
+    "cleaned_length": 403,
+    "preserved_originality": true
+  }
+}

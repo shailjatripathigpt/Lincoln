@@ -1,0 +1,84 @@
+{
+  "document_id": "D200229",
+  "url": "https://papersofabrahamlincoln.org/documents/D200229",
+  "metadata": {
+    "date": "1840-11-28",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Governors",
+      "Fraud",
+      "Elections",
+      "Legislative bodies--U.S. states--Committees",
+      "Speeches, addresses, etc."
+    ],
+    "type": "Resolution",
+    "extracted_date": "1840-11-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "frauds",
+      "fraudulent",
+      "elections",
+      "committee",
+      "all",
+      "resolution",
+      "regarding",
+      "election",
+      "resolved",
+      "much",
+      "thegovernorsmessageas",
+      "relates",
+      "voting",
+      "other",
+      "practices"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Resolution regarding Election Frauds, 1 Resolved, that so much of theGovernorsMessageas relates to fraudulent voting, and other fraudulent practices at elections,2be refered to the committee on elections, with instructions to said committee to prepare and\n\nreport to thisHouse, a Bill for^such^an act^as^whichmay, in their judgement, afford the greatest possible protection of the elective franchise, against all frauds\n\nof all sorts whatever—3",
+    "paragraphs": [
+      "Resolution regarding Election Frauds, 1 Resolved, that so much of theGovernorsMessageas relates to fraudulent voting, and other fraudulent practices at elections,2be refered to the committee on elections, with instructions to said committee to prepare and",
+      "report to thisHouse, a Bill for^such^an act^as^whichmay, in their judgement, afford the greatest possible protection of the elective franchise, against all frauds"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Illinois HouseJournal. 1840. 12th G. A.,  34-35, 43; Illinois SenateJournal. 1840. 12th G. A., 26, 29-30.",
+      "Illinois State Register(Springfield), 4 December 1840, 2:2-3;An Act to Amend and Explain the Election Law, Approved January 10, 1829."
+    ],
+    "footnotes": [
+      {
+        "id": "X7F12F6D7-F7C8-4293-A02B-1905399EEE18",
+        "text": "1Abraham Lincoln wrote the resolution in its entiretyOn November 28, 1840, Lincoln  introduced the resolution in the House of Representatives.\n                  The same day,John A. McClernandproposed to amend the resolution by striking out  everything after “Resolved” and\n                  inserting text in lieu thereof. McClernand’s amended text referred those portions\n                  of the Governor’s message related to election fraud to a joint select committee, consisting\n                  of three members of theSenateand five members of the House. In the subsequentdebate,  Lincoln questioned McClernand’s motives in offering the amendment.  The House approved\n                  the amendment by a vote of 48 yeas to 40 nays, with Lincoln voting nay. The House\n                  then passed the resolution as amended by a vote of 51 yeas to 33 nays, with Lincoln\n                  voting nay. The Senate adopted the resolution on November 30, by a vote of 34 yeas\n                  to 3 nays.Illinois HouseJournal. 1840. 12th G. A.,  34-35, 43; Illinois SenateJournal. 1840. 12th G. A., 26, 29-30."
+      },
+      {
+        "id": "X0251FA62-87E0-4F23-9E35-5D7A452A1542",
+        "text": "2GovernorThomas Carlinclaimed in his message that, while he had no direct knowledge of election fraud,\n                  he had been “informed from sources in which I place the utmost reliance,” that citizens\n                  from another state had come into Illinois to cast ballots in the1840 presidential election.  Citing instances of voter fraud inNew Yorkand other states, Carlin called for a law punishing offenders of the election law."
+      },
+      {
+        "id": "X312FE46D-A9D8-494A-9776-E2B0C5841408",
+        "text": "3Lincoln and otherWhigsin theGeneral Assemblylabeled the resolution as amended by McClernand and consequent investigation a “party”\n                  measure concocted by theDemocratsto cast a shadow over Whig victory in the 1840 federal  election.The General Assembly addressed some of Carlin’s concerns by passing anactamending and explaining the general election act of 1829.Illinois State Register(Springfield), 4 December 1840, 2:2-3;An Act to Amend and Explain the Election Law, Approved January 10, 1829."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Resolution regarding Election Frauds, [28 November 1840]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "Resolved, that so much of theGovernorsMessageas relates to fraudulent voting, and other fraudulent practices at elections,2be refered to the committee on elections, with instructions to said committee to prepare and\n               report to thisHouse, a Bill for^such^an act^as^whichmay, in their judgement, afford the greatest possible protection of the elective franchise, against all frauds\n               of all sorts whatever—3"
+      }
+    ],
+    "word_count": 61
+  },
+  "extraction_date": "2025-12-26 20:13:38",
+  "word_count": 63,
+  "processing": {
+    "cleaned": true,
+    "original_length": 490,
+    "cleaned_length": 444,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

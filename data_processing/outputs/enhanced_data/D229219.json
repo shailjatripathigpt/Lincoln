@@ -1,0 +1,74 @@
+{
+  "document_id": "D229219",
+  "url": "https://papersofabrahamlincoln.org/documents/D229219",
+  "metadata": {
+    "date": "1839-11-12",
+    "authors": [
+      "Bowles, Thomas"
+    ],
+    "keywords": [
+      "Travel"
+    ],
+    "type": "Affidavit",
+    "extracted_date": "1839-11-12",
+    "extracted_type": "legal",
+    "extracted_keywords": [
+      "bowles",
+      "affidavit",
+      "thomas",
+      "incasey",
+      "november"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Affidavit of Thomas Bowles inCasey v. Bowles, 12 November 18391",
+    "paragraphs": [
+      "Affidavit of Thomas Bowles inCasey v. Bowles, 12 November 18391"
+    ],
+    "tables_count": 1,
+    "citations": [
+      "Casey v. Bowles, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135173.",
+      "Promissory Note, 3 July 1838; Declaration, 12 October 1839, both inCasey v. Bowles, case file, box 1; Docket Book 1st, all in  Menard County Circuit Court, Menard County\n                     Courthouse, Petersburg, IL;Casey v. Bowles, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135173.",
+      "Record I & J, 26, 39; Writ of Fieri Facias, 12 June 1840; Writ of Fieri Facias, 26\n                     November 1840, both in box 1; all in Menard County Circuit Court, Menard County Courthouse,\n                     Petersburg, IL;Casey v. Bowles, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135173."
+    ],
+    "footnotes": [
+      {
+        "id": "X6EE713F3-B0B2-449F-A5BB-CAA4F4B18A21",
+        "text": "1Abraham Lincoln wrote the body of the affidavit.  Bowles signed his own name.Lincoln represented Bowles in the case.Casey v. Bowles, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135173."
+      },
+      {
+        "id": "X75C1D30A-4263-4DD7-B05C-7B026F8F071D",
+        "text": "2On July 3, 1838, Bowles gave a $125 promissory note to Prince; and when Prince died,\n                  the note remained unpaid. In October 1839, Casey filed suit to collect payment of\n                  the debt. On October 31, the court entered a default judgment when Bowles failed to\n                  appear.Promissory Note, 3 July 1838; Declaration, 12 October 1839, both inCasey v. Bowles, case file, box 1; Docket Book 1st, all in  Menard County Circuit Court, Menard County\n                     Courthouse, Petersburg, IL;Casey v. Bowles, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135173."
+      },
+      {
+        "id": "X5E98D10A-10AD-47E4-841B-E47592A43802",
+        "text": "3On November 12, the court set aside the default judgment, and then on June 8, 1840,\n                  a jury found for Casey and awarded $135.79 for the debt and interest. Some of the\n                  personal property of Bowles was sold, but the entire debt was never paid in full.Record I & J, 26, 39; Writ of Fieri Facias, 12 June 1840; Writ of Fieri Facias, 26\n                     November 1840, both in box 1; all in Menard County Circuit Court, Menard County Courthouse,\n                     Petersburg, IL;Casey v. Bowles, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135173."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Affidavit of Thomas Bowles inCasey v. Bowles, 12 November 18391"
+      },
+      {
+        "type": "table",
+        "table_number": 1,
+        "rows": [
+          "State ofIllinois | }",
+          "Menard County | SS[sciliet]"
+        ]
+      }
+    ],
+    "word_count": 10
+  },
+  "extraction_date": "2025-12-26 20:10:15",
+  "word_count": 12,
+  "processing": {
+    "cleaned": true,
+    "original_length": 73,
+    "cleaned_length": 63,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,105 @@
+{
+  "document_id": "D200281",
+  "url": "https://papersofabrahamlincoln.org/documents/D200281",
+  "metadata": {
+    "date": "1841-10-20",
+    "authors": [
+      "Baker, Edward D.",
+      "Henry, Anson G.",
+      "Lincoln, Abraham (President)",
+      "May, William L.",
+      "Speed, Joshua F."
+    ],
+    "keywords": [
+      "Elections",
+      "Political conventions",
+      "Political parties",
+      "Nominations for office"
+    ],
+    "type": "Letter",
+    "extracted_date": "1841-10-20",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "people",
+      "convention",
+      "whig",
+      "counties",
+      "state",
+      "candidates",
+      "governor",
+      "election",
+      "number",
+      "delegates",
+      "entitled",
+      "anson",
+      "henry",
+      "others",
+      "editor"
+    ],
+    "length_category": "medium"
+  },
+  "content": {
+    "full_text": "Anson G. Henry and Others to the Editor of the Sangamo Journal, 20 October 18411 WHIGSTATE CONVENTION. The undersigned, acting as is believed, in accordance with the wishes of the whig\n\nparty, and in compliance with their duties as the Whig Central Committee of thisState, appoint the third Monday of December next, for the meeting of a Whig State Convention,\n\natSpringfield, for the purpose of nominating candidates for the offices of Governor and Lieutenant\n\nGovernor of this State for the coming election.2 It is recommended that the number of Delegates to the Convention shall conform to\n\nthe number of Representatives to which the Counties are respectively entitled under\n\nthe new apportionment; but that in all cases every County shall be entitled to one\n\nDelegate. We would urge upon our political friends in the different Counties to call meetings\n\nimmediately for the election of Delegates. It is ardently hoped that the Counties will be fully represented, in order that the\n\nwill of the people may be expressed in the selection of candidates.",
+    "paragraphs": [
+      "Anson G. Henry and Others to the Editor of the Sangamo Journal, 20 October 18411 WHIGSTATE CONVENTION. The undersigned, acting as is believed, in accordance with the wishes of the whig",
+      "party, and in compliance with their duties as the Whig Central Committee of thisState, appoint the third Monday of December next, for the meeting of a Whig State Convention,",
+      "atSpringfield, for the purpose of nominating candidates for the offices of Governor and Lieutenant",
+      "Governor of this State for the coming election.2 It is recommended that the number of Delegates to the Convention shall conform to",
+      "the number of Representatives to which the Counties are respectively entitled under",
+      "the new apportionment; but that in all cases every County shall be entitled to one",
+      "Delegate. We would urge upon our political friends in the different Counties to call meetings",
+      "immediately for the election of Delegates. It is ardently hoped that the Counties will be fully represented, in order that the",
+      "will of the people may be expressed in the selection of candidates."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "John Moses,Illinois Historical and Statistical(Chicago: Fergus, 1895), 1:550;Sangamo Journal(Springfield, IL), 26 November 1841, 2:1;Proceedings of Whig Meeting regarding Candidates for Governor and Lieutenant Governor; Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 126, 129."
+    ],
+    "footnotes": [
+      {
+        "id": "X68CAD820-6C77-4387-B207-142CD19FE521",
+        "text": "1The only version of this letter that is extant is that which was printed in theSangamo Journal."
+      },
+      {
+        "id": "X16C7A058-30D4-4009-A073-BC34497C18D4",
+        "text": "2Upon the resignation of the Lieutenant GovernorAlexander Jenkinsin December 1836, theIllinois Senatehad electedWilliam H. Davidsonas acting lieutenant governor and acting president of the Senate. He served as such\n                  from December 1836 to December 1838. In 1838, state voters electedStinson H. Andersonover Davidson for lieutenant governor. By November 1841, Davidson had declined the\n                  Whig nomination for governor; soon after, he moved toLouisville, KY, where he became a wealthy banker. Whigs then sawJoseph Duncanas their only viable choice and determined a full convention was unnecessary. At\n                  ameetingheld in Springfield in November, Whig delegates suggestedJustin Harlanas a suitable candidate for lieutenant governor, butWilliam H. Hendersonwould eventually get the nomination.  In the gubernatorial election of 1842, Duncan\n                  and Henderson would lose toThomas Fordand his running mateJohn Moore.John Moses,Illinois Historical and Statistical(Chicago: Fergus, 1895), 1:550;Sangamo Journal(Springfield, IL), 26 November 1841, 2:1;Proceedings of Whig Meeting regarding Candidates for Governor and Lieutenant Governor; Theodore C. Pease, ed.,Illinois Election Returns, 1818-1848, vol. 18 ofCollections of the Illinois State Historical Library(Springfield: Illinois State Historical Library, 1923), 126, 129."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Anson G. Henry and Others to the Editor of the Sangamo Journal, 20 October 18411"
+      },
+      {
+        "type": "paragraph",
+        "text": "WHIGSTATE CONVENTION."
+      },
+      {
+        "type": "paragraph",
+        "text": "The undersigned, acting as is believed, in accordance with the wishes of the whig\n               party, and in compliance with their duties as the Whig Central Committee of thisState, appoint the third Monday of December next, for the meeting of a Whig State Convention,\n               atSpringfield, for the purpose of nominating candidates for the offices of Governor and Lieutenant\n               Governor of this State for the coming election.2"
+      },
+      {
+        "type": "paragraph",
+        "text": "It is recommended that the number of Delegates to the Convention shall conform to\n               the number of Representatives to which the Counties are respectively entitled under\n               the new apportionment; but that in all cases every County shall be entitled to one\n               Delegate."
+      },
+      {
+        "type": "paragraph",
+        "text": "We would urge upon our political friends in the different Counties to call meetings\n               immediately for the election of Delegates."
+      },
+      {
+        "type": "paragraph",
+        "text": "It is ardently hoped that the Counties will be fully represented, in order that the\n               will of the people may be expressed in the selection of candidates."
+      }
+    ],
+    "word_count": 171
+  },
+  "extraction_date": "2025-12-26 20:16:59",
+  "word_count": 171,
+  "processing": {
+    "cleaned": true,
+    "original_length": 1164,
+    "cleaned_length": 1052,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

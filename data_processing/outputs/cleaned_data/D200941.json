@@ -1,0 +1,72 @@
+{
+  "document_id": "D200941",
+  "url": "https://papersofabrahamlincoln.org/documents/D200941",
+  "metadata": {
+    "date": "1857-02-11",
+    "authors": [
+      "Moore, Clifton H.",
+      "Weldon, Lawrence"
+    ],
+    "keywords": [
+      "Notice (Law)",
+      "Depositions",
+      "Witnesses",
+      "Evidence (Law)",
+      "Trials, litigation, etc."
+    ],
+    "type": "Notice"
+  },
+  "content": {
+    "full_text": "Notice to Take Depositions in Phares v. Jennings and Oatman, 1 The within notice was handed me to-day by MrMoore; and I did not notice at the time that your first names are not in it– You\n\nsee what the object is; and you better attend at the time andplaceof taking the depositions– I direct to Jennings and Oatman because I can not remember your christian names; and toEureka, because I rather think that is your nearest office. Keep this–3",
+    "paragraphs": [
+      "Notice to Take Depositions in Phares v. Jennings and Oatman, 1 The within notice was handed me to-day by MrMoore; and I did not notice at the time that your first names are not in it– You",
+      "see what the object is; and you better attend at the time andplaceof taking the depositions– I direct to Jennings and Oatman because I can not remember your christian names; and toEureka, because I rather think that is your nearest office. Keep this–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Henry Campbell Black,A Dictionary of Law(St. Paul, MN: West, 1891), 944.",
+      "Phares v. Jennings & Oatman, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135535."
+    ],
+    "footnotes": [
+      {
+        "id": "X90E310E1-8D87-4B49-A0A4-0108EF5C5E15",
+        "text": "1Lawrence Weldon wrote this notice.Although this notice is undated, the editors infer from context in Abraham Lincoln’s\n                  endorsement (shown in the second image) that the notice was most likely created the\n                  same day as Lincoln’s endorsement:  February 11, 1857."
+      },
+      {
+        "id": "XBEC50954-DC70-455E-A5AF-FDF8C8F3C361",
+        "text": "2“Pq” is an abbreviation for Pro querente.  Pro querente is a Latin phrase that means\n                  “for the plaintiff.”Clifton H. Moore wrote the script on the final line of the sheet shown in the first\n                  image, including his own surname.Henry Campbell Black,A Dictionary of Law(St. Paul, MN: West, 1891), 944."
+      },
+      {
+        "id": "X70BA5B0E-CA2D-4126-AD43-911D383A05D2",
+        "text": "3The above notice and Lincoln’s note are related to the casePhares v. Jennings & Oatman. Both Sidney Darrow and Roswell Keeler were indeed deposed in the case.In the case, Allen W. Phares sued William A. Jennings and James R. Oatman in September\n                  1856 in the DeWitt County Circuit Court for $6,000 in damages. Phares claimed that\n                  Jennings and Oatman failed to pay him for shelled corn and corn sacks that he shipped\n                  to them between March and May of 1856. Lincoln,Asahel Gridley,  andJohn H. Wickizerrepresented Jennings and Oatman; Weldon, Moore, andJames Strainrepresented Phares. The case came before the DeWitt County Circuit Court in October\n                  1856, but was continued at least twice. In March 1857, the parties reached a settlement\n                  in which Jennings and Oatman agreed to pay Phares $2,450.Phares v. Jennings & Oatman, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135535."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Notice to Take Depositions in Phares v. Jennings and Oatman, [11 February 1857]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "The within notice was handed me to-day by MrMoore; and I did not notice at the time that your  first names are not in it–  You\n               see what the object is; and you better attend at the time andplaceof taking the depositions–"
+      },
+      {
+        "type": "paragraph",
+        "text": "I direct to Jennings and Oatman because  I can not remember your christian names; and toEureka, because I rather think that is your nearest office."
+      },
+      {
+        "type": "paragraph",
+        "text": "Keep this–3"
+      }
+    ],
+    "word_count": 80
+  },
+  "extraction_date": "2025-12-26 21:42:45",
+  "word_count": 82,
+  "processing": {
+    "cleaned": true,
+    "original_length": 475,
+    "cleaned_length": 440,
+    "preserved_originality": true
+  }
+}

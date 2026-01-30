@@ -1,0 +1,91 @@
+{
+  "document_id": "D200426",
+  "url": "https://papersofabrahamlincoln.org/documents/D200426",
+  "metadata": {
+    "date": "1847-12-07",
+    "authors": [
+      "Butler, Chester P."
+    ],
+    "keywords": [
+      "Civil service",
+      "Employment references"
+    ],
+    "type": "Letter",
+    "extracted_date": "1847-12-07",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "his",
+      "you",
+      "chester",
+      "butler",
+      "robert",
+      "horner",
+      "december",
+      "bearer",
+      "mrraubhas",
+      "employed",
+      "under",
+      "your",
+      "predecessor",
+      "labourer",
+      "wishes"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Chester Butler to Robert E. Horner, 7 December 18471 The bearer MrRaubhas been employed under your predecessor, as a labourer and wishes to retain his situation. I wacquainted with his father who formerly resided in my District, but is now dead\n\nleaving his widow dependent upon this sonMrR. is a worthy young man and has been I am informed very obliging and attentive in\n\nthe discharge of his duties. If you can with propriety, you would oblige me by retaining\n\nhim in his present position",
+    "paragraphs": [
+      "Chester Butler to Robert E. Horner, 7 December 18471 The bearer MrRaubhas been employed under your predecessor, as a labourer and wishes to retain his situation. I wacquainted with his father who formerly resided in my District, but is now dead",
+      "leaving his widow dependent upon this sonMrR. is a worthy young man and has been I am informed very obliging and attentive in",
+      "the discharge of his duties. If you can with propriety, you would oblige me by retaining",
+      "him in his present position"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:417.",
+      "H.R. Misc. Doc. No. 4, 30th Cong., 2nd Sess. (1848); H.R. Misc. Doc. No. 5, 31st Cong.,\n                     2nd Sess. (1851)."
+    ],
+    "footnotes": [
+      {
+        "id": "XF98D1508-C894-42DA-AF74-FBAA4A719379",
+        "text": "1Chester P. Butler wrote and signed the letter.  Roy P. Basler, editor of The Collected\n                  Works of Abraham Lincoln, found the original in the Oliver R. Barrett Collection.\n                  The first page was found at the Keya Gallery in 2010.  The second page has not been\n                  located.Roy P. Basler, ed.,The Collected Works of Abraham Lincoln(New Brunswick, NJ: Rutgers University Press, 1953), 1:417."
+      },
+      {
+        "id": "X43D9B3D2-C1D5-47A4-A435-4444F4FEBFD9",
+        "text": "2John W. Farrelly wrote and signed this endorsement.  The others signed their own names."
+      },
+      {
+        "id": "X3A53A89F-6206-4130-B40A-7A23AE9FC2D7",
+        "text": "3Daniel M. Barringer wrote and signed this endorsement."
+      },
+      {
+        "id": "XF6F82186-3FB9-4CBC-A2C7-A7D9AC3A3864",
+        "text": "4Caleb B. Smith wrote this text and signed his name.  Abraham Lincoln and Alexander\n                  H. Stephens wrote and signed their respective endorsements.  The remainder of the\n                  signatories signed their own names."
+      },
+      {
+        "id": "X462130D2-4F12-4907-84E0-FF425220CCB8",
+        "text": "5Raub did not retain his job as laborer, but he died become a messenger to the doorkeeper\n                  of theHouse of Representatives.H.R. Misc. Doc. No. 4, 30th Cong., 2nd Sess. (1848); H.R. Misc. Doc. No. 5, 31st Cong.,\n                     2nd Sess. (1851)."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Chester Butler to Robert E. Horner, 7 December 18471"
+      },
+      {
+        "type": "paragraph",
+        "text": "The bearer MrRaubhas been employed under your predecessor, as a labourer and wishes to retain his situation. I w[as]acquainted with his father who formerly resided in my District, but is now dead\n               leaving his widow dependent upon this sonMrR. is a worthy young man and has been I am informed very obliging and attentive in\n               the discharge of his duties.  If you can with propriety,  you would oblige me by retaining\n               him in his present position"
+      }
+    ],
+    "word_count": 85
+  },
+  "extraction_date": "2025-12-26 20:25:17",
+  "word_count": 85,
+  "processing": {
+    "cleaned": true,
+    "original_length": 538,
+    "cleaned_length": 490,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "D289208",
+  "url": "https://papersofabrahamlincoln.org/documents/D289208",
+  "metadata": {
+    "date": "1833-01-12",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Collecting of accounts",
+      "Debtor and creditor"
+    ],
+    "type": "Account"
+  },
+  "content": {
+    "full_text": "Account of James Odham to James Rutledge, 12 January 18331 James OdhamToJames RutledgeDr[Debtor]2",
+    "paragraphs": [
+      "Account of James Odham to James Rutledge, 12 January 18331",
+      "James OdhamToJames RutledgeDr[Debtor]2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Benjamin P. Thomas,Lincoln’s New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 7, 12."
+    ],
+    "footnotes": [
+      {
+        "id": "XAA9E29E7-5F15-4E91-9190-007C6C8C9FCD",
+        "text": "1Abraham Lincoln wrote the body of the document, aside from Rutledge’s signature. Lincoln\n                  also wrote Bowling Green’s endorsement; Green wrote the dateline and his own signature."
+      },
+      {
+        "id": "XE6E8A6A9-3BC6-419D-A40C-3F4DC9771374",
+        "text": "2Lincoln was known to write various documents for his friends and neighbors while he\n                  lived inNew Salem. This account was likely related to the time when Rutledge turned his home into a\n                  tavern for boarders.Benjamin P. Thomas,Lincoln’s New Salem(Springfield, IL: Abraham Lincoln Association, 1934), 7, 12."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Account of James Odham to James Rutledge, 12 January 18331"
+      },
+      {
+        "type": "description",
+        "text": "James OdhamToJames RutledgeDr[Debtor]2"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 19:45:29",
+  "word_count": 13
+}

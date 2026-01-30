@@ -1,0 +1,91 @@
+{
+  "document_id": "D229226",
+  "url": "https://papersofabrahamlincoln.org/documents/D229226",
+  "metadata": {
+    "date": "1843-11-06",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Citizen suits (Civil procedure)",
+      "Actions and defenses",
+      "Manufacturing industries"
+    ],
+    "type": "Account"
+  },
+  "content": {
+    "full_text": "Account inWhite & Williams v. Baxter, 1 G George Baxter To WmH White a/c White & Williams To Geo Baxter To labor in moulding brick– $10.00",
+    "paragraphs": [
+      "Account inWhite & Williams v. Baxter, 1 G George Baxter To WmH White a/c White & Williams To Geo Baxter To labor in moulding brick– $10.00"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "White & Williams v. Baxter, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135018."
+    ],
+    "footnotes": [
+      {
+        "id": "X4FAB4A27-6288-4CA9-B31A-2EF9D61188E7",
+        "text": "1Abraham Lincolnwrote the first section of the document.In 1843, William H. White and Josiah Williams sued George H. Baxter for breach of\n                  contract, alleging that Baxter failed to deliver a load of bricks on time. TheJustice of the Peace Courtfound for Baxter, and subsequently White and Williams retained Lincoln and appealed\n                  to theMenard County Circuit Court. The jury found for White and Williams, awarding $33.70.White & Williams v. Baxter, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135018."
+      },
+      {
+        "id": "X45682F11-CA9A-4CD3-B216-D21A98E72D1E",
+        "text": "2George Baxter could not be identified."
+      },
+      {
+        "id": "XA766A6E7-76CC-4454-8957-97F4A38E15D5",
+        "text": "3Josiah Williams could not be identified."
+      },
+      {
+        "id": "XC9BD7F4F-9446-4B0D-8BE1-6FCB7DB69603",
+        "text": "4From the Latin word “debere,” meaning to debit."
+      },
+      {
+        "id": "X356D6174-EAF3-4320-9127-FD2EAE962A84",
+        "text": "5Lincoln’s handwriting ends here."
+      },
+      {
+        "id": "X85C69AAC-5135-46E8-A36A-E4EACE91AA51",
+        "text": "6Nathan Dresser wrote and signed his certification."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Account inWhite & Williams v. Baxter, [6 November 1843]1"
+      },
+      {
+        "type": "description",
+        "text": "G George Baxter"
+      },
+      {
+        "type": "description",
+        "text": "To WmH White"
+      },
+      {
+        "type": "description",
+        "text": "[Defts?] a/c[account]"
+      },
+      {
+        "type": "description",
+        "text": "White & Williams"
+      },
+      {
+        "type": "description",
+        "text": "To Geo Baxter"
+      },
+      {
+        "type": "description",
+        "text": "To labor in moulding brick– $10.00"
+      }
+    ],
+    "word_count": 26
+  },
+  "extraction_date": "2025-12-26 20:19:54",
+  "word_count": 29,
+  "processing": {
+    "cleaned": true,
+    "original_length": 173,
+    "cleaned_length": 138,
+    "preserved_originality": true
+  }
+}

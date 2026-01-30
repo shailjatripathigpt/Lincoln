@@ -1,0 +1,79 @@
+{
+  "document_id": "D200568",
+  "url": "https://papersofabrahamlincoln.org/documents/D200568",
+  "metadata": {
+    "date": "1849-03-26",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political",
+      "United States marshals"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-03-26",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "him",
+      "addressed",
+      "your",
+      "abraham",
+      "lincoln",
+      "john",
+      "johnson",
+      "bearer",
+      "benjamin",
+      "bond",
+      "esq",
+      "supposes",
+      "some",
+      "letters",
+      "mebyandcolbaker"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to John M. Johnson, 1 The bearer of this,Benjamin Bond, Esq, supposes that some letters addressed to mebyandColBaker, or to me alone,^by him,^may now be in your office– I therefore request you will permit him to look over allsuchletters in your hands, to me or to me & Baker, and deliver to him all such as he\n\nmay say are addressed in his hand writing–",
+    "paragraphs": [
+      "Abraham Lincoln to John M. Johnson, 1 The bearer of this,Benjamin Bond, Esq, supposes that some letters addressed to mebyandColBaker, or to me alone,^by him,^may now be in your office– I therefore request you will permit him to look over allsuchletters in your hands, to me or to me & Baker, and deliver to him all such as he",
+      "may say are addressed in his hand writing–"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 20 March 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-03-20; 26 March 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-03-26; 31 March 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-03-31.",
+      "Abraham Lincoln to John M. Clayton;Memorandum concerning Benjamin Bond;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+    ],
+    "footnotes": [
+      {
+        "id": "X47E10DDD-054B-470A-A09A-F822355C0EF5",
+        "text": "1Abraham Lincoln wrote and signed this letter.Lincoln penned this letter while en route toSpringfield, Illinois, having left Washington, DC, on March 20.  He would make his way home via St. Louis\n                  by railroad, steamer, and stagecoach, arriving in Springfield on March 31.Lincoln mostly likely wrote this letter on March 26.  He met Benjamin Bond on that\n                  date in St. Louis.  Bond was on his way toWashington, DC, to lobby for an appointment as U.S. Marshal forIllinois.The Lincoln Log: A Daily Chronology of the Life of Abraham Lincoln, 20 March 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-03-20; 26 March 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-03-26; 31 March 1849,http://www.thelincolnlog.org/Results.aspx?type=CalendarDay&day=1849-03-31."
+      },
+      {
+        "id": "X26B15E89-CE8B-4FBD-8CC1-338008959660",
+        "text": "2In March 1849, Lincoln wrote several letters soliciting government officials on\n                  Bond’s behalf, though he preferred that the appointment go toCharles G. Thomas.  Bond received the appointment and held the job until 1853.Abraham Lincoln to John M. Clayton;Memorandum concerning Benjamin Bond;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to John M. Johnson, [26 March 1849]1"
+      },
+      {
+        "type": "paragraph",
+        "text": "The bearer of this,Benjamin Bond, Esq[Esquire], supposes that some letters addressed to mebyandColBaker, or to me alone,^by him,^may now be in your office– I therefore request you will permit him to look over allsuchletters in your hands, to me or to me & Baker, and deliver to him all such as he\n               may say are addressed in his hand writing–"
+      }
+    ],
+    "word_count": 67
+  },
+  "extraction_date": "2025-12-26 20:38:46",
+  "word_count": 69,
+  "processing": {
+    "cleaned": true,
+    "original_length": 407,
+    "cleaned_length": 369,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

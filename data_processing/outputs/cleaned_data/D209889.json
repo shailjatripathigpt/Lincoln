@@ -1,0 +1,59 @@
+{
+  "document_id": "D209889",
+  "url": "https://papersofabrahamlincoln.org/documents/D209889",
+  "metadata": {
+    "date": "1855-10-12",
+    "authors": [
+      "Loughborough, John L."
+    ],
+    "keywords": [
+      "Land titles",
+      "Real property"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "John L. Loughborough to Abraham Lincoln, 12 October 18551 In compliance with yourrequestof the 10thinstant I herewith send you a diagram \"of each quarter section, and fractional quarter\n\nsection, upon which byBrown's survey anyPeoriaFrench claim is located\".2 The fee due to the clerks who made the work is $4.00, which I will thank you to remit.",
+    "paragraphs": [
+      "John L. Loughborough to Abraham Lincoln, 12 October 18551 In compliance with yourrequestof the 10thinstant I herewith send you a diagram \"of each quarter section, and fractional quarter",
+      "section, upon which byBrown's survey anyPeoriaFrench claim is located\".2 The fee due to the clerks who made the work is $4.00, which I will thank you to remit."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Newspaper Report, Document ID: 132934; Newspaper Report, Document ID: 132935,Papin v. Hall, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition(Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137735;Hall v. Papin, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137736; “An Act for the Relief of the Inhabitants of the Village of Peoria, in the State\n                     of Illinois,” 15 May 1820,Statutes at Large of the United States, 3 (1846):605; “An Act to Confirm Certain Claims to Lotts [Lots] in the Village of\n                     Peoria, in the State of Illinois,” 3 March 1823,Statutes at Large of the United States3 (1846):786-87; C. Ballance,The History of Peoria, Illinois(Peoria: N. C. Nason, 1870), 193-95."
+    ],
+    "footnotes": [
+      {
+        "id": "XAA81B457-C312-4DD5-B31C-861F4FB1FEEB",
+        "text": "1John L. Loughborough wrote this document."
+      },
+      {
+        "id": "XABE82997-C58E-4270-AA39-3E9038AB6F6C",
+        "text": "2This diagram has not been located.French immigrants settled inIllinoisearly in its history. During theWar of 1812, American forces burned Peoria and displaced its French settlers. In 1820 and again\n                  in 1823,Congressoffered the French settlers claims to their former property. The land at the time\n                  had very little value, and many immigrants had moved away and did not accept the offer.\n                  However, land prices eventually increased, and by the 1830s and 1840s, surveyors made\n                  plats based on the French claims, resulting in disputes between original settlers\n                  and the current owners. One such case wasPapin v. Hall, for which Abraham Lincoln served as a co-attorney withOrville H. Browningon behalf ofWilliam A. Hallagainst Joseph L. Papin, an original claimant.  In July 1858,  theU.S. Circuit Court, Northern District of Illinoisdecided for Papin. Hall appealed the judgment to theU. S. Supreme Court. In December 1860, the Supreme Court reversed the judgment of the circuit court.Joseph C. Brown, a deputy from the Surveyor General’s office at St. Louis, created\n                  a survey that included these French claims.Newspaper Report, Document ID: 132934; Newspaper Report, Document ID: 132935,Papin v. Hall, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition(Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137735;Hall v. Papin, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=137736; “An Act for the Relief of the Inhabitants of the Village of Peoria, in the State\n                     of Illinois,” 15 May 1820,Statutes at Large of the United States, 3 (1846):605; “An Act to Confirm Certain Claims to Lotts [Lots] in the Village of\n                     Peoria, in the State of Illinois,” 3 March 1823,Statutes at Large of the United States3 (1846):786-87; C. Ballance,The History of Peoria, Illinois(Peoria: N. C. Nason, 1870), 193-95."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "John L. Loughborough to Abraham Lincoln, 12 October 18551"
+      },
+      {
+        "type": "paragraph",
+        "text": "In compliance with yourrequestof the 10thinstant I herewith send you a diagram \"of each quarter section, and fractional quarter\n               section, upon which byBrown's survey anyPeoriaFrench claim is located\".2"
+      },
+      {
+        "type": "paragraph",
+        "text": "The fee due to the clerks who made the work is $4.00, which I will thank you to remit."
+      }
+    ],
+    "word_count": 56
+  },
+  "extraction_date": "2025-12-26 21:36:58",
+  "word_count": 56,
+  "processing": {
+    "cleaned": true,
+    "original_length": 360,
+    "cleaned_length": 346,
+    "preserved_originality": true
+  }
+}

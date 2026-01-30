@@ -1,0 +1,81 @@
+{
+  "document_id": "D200576",
+  "url": "https://papersofabrahamlincoln.org/documents/D200576",
+  "metadata": {
+    "date": "1849-04-13",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Federal government--Officials and employees",
+      "Employment references",
+      "Patronage, Political"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-04-13",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "recommendations",
+      "abraham",
+      "lincoln",
+      "thomas",
+      "ewing",
+      "april",
+      "under",
+      "date",
+      "forwarded",
+      "you",
+      "separate",
+      "letters",
+      "thatwalter",
+      "davisbereceiver",
+      "andturner"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Thomas Ewing, 13 April 18491 Under date of the 7thInstI forwarded to you, in separate letters, recommendations thatWalter DavisbeReceiver, andTurner R. KingRegister, of theLand Officeat thisplace–2For a personal reason, of no consequence to theDepartment, I now wish to transpose those recommendations; so thatDavismay stand forRegister, andKingforReceiver.",
+    "paragraphs": [
+      "Abraham Lincoln to Thomas Ewing, 13 April 18491 Under date of the 7thInstI forwarded to you, in separate letters, recommendations thatWalter DavisbeReceiver, andTurner R. KingRegister, of theLand Officeat thisplace–2For a personal reason, of no consequence to theDepartment, I now wish to transpose those recommendations; so thatDavismay stand forRegister, andKingforReceiver."
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to Thomas Ewing;Abraham Lincoln to Thomas Ewing;Philo H. Thompson to Abraham Lincoln;Samuel R. Baker to Abraham Lincoln;William B. Doolittle to Abraham Lincoln;Richard T. Gill to Abraham Lincoln;Abraham Lincoln to Jacob Collamer;John W. Smith to Abraham Lincoln.",
+      "Niles’ National Register(Philadelphia, PA), 23 May 1849, 1:2;Illinois Journal(Springfield), 6 June 1849, 2:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135, 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140, 141;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138, 139."
+    ],
+    "footnotes": [
+      {
+        "id": "X0568DE18-8C78-4429-9D28-C5432EB343A6",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X70324BD9-AA8F-49B7-BDF8-305C49C00EC2",
+        "text": "2From December 1848 to February 1849, Lincoln received several letters urging him to\n                  help Turner R. King secure a job at the U.S. General Land Office.  Walter Davis was\n                  also an early candidate for the job of postmaster of Springfield.Abraham Lincoln to Thomas Ewing;Abraham Lincoln to Thomas Ewing;Philo H. Thompson to Abraham Lincoln;Samuel R. Baker to Abraham Lincoln;William B. Doolittle to Abraham Lincoln;Richard T. Gill to Abraham Lincoln;Abraham Lincoln to Jacob Collamer;John W. Smith to Abraham Lincoln."
+      },
+      {
+        "id": "X1A264B09-A753-46B5-8C5D-89F3741A01D5",
+        "text": "3On May 10, Lincoln reversed himself again, penning aletterrecommending King for register and Davis for receiver. In late May, King received\n                  the appointment as register, holding the job until 1853. In June, Davis became receiver\n                  and would hold the position until 1853.Niles’ National Register(Philadelphia, PA), 23 May 1849, 1:2;Illinois Journal(Springfield), 6 June 1849, 2:1;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 135, 137;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 140, 141;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 138, 139."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Thomas Ewing, 13 April 18491"
+      },
+      {
+        "type": "paragraph",
+        "text": "Under date of the 7thInstI forwarded to you, in separate letters, recommendations thatWalter DavisbeReceiver, andTurner R. KingRegister, of theLand Officeat thisplace–2For a personal reason, of no consequence to theDepartment, I now wish to transpose those recommendations; so thatDavismay stand forRegister, andKingforReceiver."
+      }
+    ],
+    "word_count": 49
+  },
+  "extraction_date": "2025-12-26 20:40:12",
+  "word_count": 49,
+  "processing": {
+    "cleaned": true,
+    "original_length": 376,
+    "cleaned_length": 376,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

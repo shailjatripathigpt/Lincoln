@@ -1,0 +1,75 @@
+{
+  "document_id": "D233610",
+  "url": "https://papersofabrahamlincoln.org/documents/D233610",
+  "metadata": {
+    "date": "1848-01-16",
+    "authors": [
+      "Smith, Edward O."
+    ],
+    "keywords": [
+      "Patronage, Political",
+      "United States. Marshals Service"
+    ],
+    "type": "Letter",
+    "extracted_date": "1848-01-16",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "you",
+      "confur",
+      "your",
+      "edward",
+      "smith",
+      "abraham",
+      "lincoln",
+      "efforts",
+      "making",
+      "obtain",
+      "office",
+      "marshall",
+      "state",
+      "several",
+      "gent"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Edward O. Smith to Abraham Lincoln, 16 18481 Efforts are making to confur or obtain the office of marshall of this state for several Gent–I would just say to you from my personal knowledge thatBenj Bondis the Chois of A very large majority of theWhigsassembled in and About Springfield, & You would confur A favour on A Great number of your friends if you would your in fluence to help MrBond to that office2",
+    "paragraphs": [
+      "Edward O. Smith to Abraham Lincoln, 16 18481 Efforts are making to confur or obtain the office of marshall of this state for several Gent–I would just say to you from my personal knowledge thatBenj Bondis the Chois of A very large majority of theWhigsassembled in and About Springfield, & You would confur A favour on A Great number of your friends if you would your in fluence to help MrBond to that office2"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+    ],
+    "footnotes": [
+      {
+        "id": "X3C3EFE85-4C07-48F1-A35C-BF60806426D3",
+        "text": "1Edward O. Smith wrote and signed this letter.  The date of this letter is uncertain.\n                  Lincoln received numerous letters in the winter of 1848-49 supporting Benjamin Bond\n                  for the position of marshal; this letter, if written in January 1848, would have been\n                  the first of its kind while Lincoln was serving in theHouse of Representatives."
+      },
+      {
+        "id": "X5AD293F8-50EE-4BA0-B8A5-BE7D6F8356FD",
+        "text": "2Bond received the appointment and held the job until 1853.  In March 1849, Lincoln\n                  wrote several letters soliciting government officials on Bond’s behalf, though he\n                  preferred that the appointment go to another.Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Clayton;Abraham Lincoln to John M. Johnson;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1849(Washington, DC: Gideon, 1849), 247;Register of all Officers and Agents, Civil, Military, and Naval, in the Service of\n                        the United States, on the Thirtieth September, 1851(Washington, DC: Gideon, 1851), 267;Register of Officers and Agents, Civil, Military, and Naval, in the Service of the\n                        United States, on the Thirtieth September, 1853(Washington, DC: Robert Armstrong, 1853), 259."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Edward O. Smith to Abraham Lincoln, 16 [January] 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "Efforts are making to confur or obtain the office of marshall of this state for several Gent[Gentlemen]–I would just say to you from my personal knowledge thatBenj Bondis the Chois of A very large majority of theWhigsassembled in and About Springfield, & You would confur A favour on A Great number of your friends if you would [lend?] your in fluence to help MrBond to that office2"
+      }
+    ],
+    "word_count": 74
+  },
+  "extraction_date": "2025-12-26 20:26:25",
+  "word_count": 76,
+  "processing": {
+    "cleaned": true,
+    "original_length": 437,
+    "cleaned_length": 408,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

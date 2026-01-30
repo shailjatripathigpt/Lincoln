@@ -1,0 +1,70 @@
+{
+  "document_id": "D208093",
+  "url": "https://papersofabrahamlincoln.org/documents/D208093",
+  "metadata": {
+    "date": "1857-03-14",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Finance, Personal"
+    ],
+    "type": "Check"
+  },
+  "content": {
+    "full_text": "Check of Abraham Lincoln to Robert Irwin, 14 March 18571 SPRINGFIELD MARINE & FIRE INSURANCE CO. For Value Received, and charge to account of ToMss.[Messieurs]Page & Bacon2StLouis RICHARDS & SMITH, PR.[Printers]",
+    "paragraphs": [
+      "Check of Abraham Lincoln to Robert Irwin, 14 March 18571",
+      "SPRINGFIELD MARINE & FIRE INSURANCE CO.",
+      "For Value Received, and charge to account of",
+      "ToMss.[Messieurs]Page & Bacon2StLouis",
+      "RICHARDS & SMITH, PR.[Printers]"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Lincoln served as agent for Page & Bacon, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141530."
+    ],
+    "footnotes": [
+      {
+        "id": "X141AA808-1987-40B6-91AD-7A8345CF7CA7",
+        "text": "1Abraham Lincoln filled out and signed this partially printed document."
+      },
+      {
+        "id": "X3A61EC5C-88A8-495E-800B-FF387D5A38DD",
+        "text": "2The details of this check from Abraham Lincoln to Robert Irwin payable from Page &\n                  Bacon’s account are unknown.Lincoln served as agent for Page & Bacon, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141530."
+      },
+      {
+        "id": "X9C46598F-F423-45F8-AC5F-FDB3AB791727",
+        "text": "3This text is written vertically across the body of the check."
+      },
+      {
+        "id": "X5D110825-9F4B-4E0F-96DE-CEB8F129DE2D",
+        "text": "4An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Check of Abraham Lincoln to Robert Irwin, 14 March 18571"
+      },
+      {
+        "type": "paragraph",
+        "text": "SPRINGFIELD MARINE & FIRE INSURANCE CO."
+      },
+      {
+        "type": "paragraph",
+        "text": "For Value Received, and charge to account of"
+      },
+      {
+        "type": "paragraph",
+        "text": "ToMss.[Messieurs]Page & Bacon2StLouis"
+      },
+      {
+        "type": "paragraph",
+        "text": "RICHARDS & SMITH, PR.[Printers]"
+      }
+    ]
+  },
+  "extraction_date": "2025-12-26 21:44:00",
+  "word_count": 31
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "D200738",
+  "url": "https://papersofabrahamlincoln.org/documents/D200738",
+  "metadata": {
+    "date": "1853-03-28",
+    "authors": [
+      "Lincoln, Abraham"
+    ],
+    "keywords": [
+      "Debtor and creditor",
+      "Payment",
+      "Credit"
+    ],
+    "type": "Letter",
+    "extracted_date": "1853-03-28",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "abraham",
+      "lincoln",
+      "henry",
+      "dummer",
+      "march"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Henry E. Dummer, 28 March 18531",
+    "paragraphs": [
+      "Abraham Lincoln to Henry E. Dummer, 28 March 18531"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X480E30D4-69A0-4316-8DC7-9A67C83BC304",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "XDB1E26FB-A164-4DA5-9EB5-D09D995BC377",
+        "text": "2No additional correspondence between Lincoln and Henry E. Dummer related to this loan\n                  has been located. It is unclear, therefore, when and why Dummer loaned Lincoln the\n                  $2.50 that Lincoln repaid with the $3.00  he enclosed in this letter."
+      },
+      {
+        "id": "X96C8F4A1-6F5E-4AD8-896F-C2DD1A077CFC",
+        "text": "3An unknown person wrote this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Henry E. Dummer, 28 March 18531"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 21:27:22",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 50,
+    "cleaned_length": 50,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

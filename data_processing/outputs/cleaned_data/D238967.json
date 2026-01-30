@@ -1,0 +1,63 @@
+{
+  "document_id": "D238967",
+  "url": "https://papersofabrahamlincoln.org/documents/D238967",
+  "metadata": {
+    "date": "1844-08-12",
+    "authors": [],
+    "keywords": [
+      "Actions and defenses",
+      "Attorney and client",
+      "Costs (Law)"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Logan & Lincoln to Benjamin Briggs, 12 August 18441 At the fall term of yourcourt, we as attornies, took two judgements againstL. T. Garth, one in favour ofG M &. G. R. Justice,\n\n& the other plaintiff’s name we have forgotten–2 The Messrs Justice have written us to force the collection of their debt if we can– See MrGarth, and if he can not pay, take out executions and levy upon property, if you can\n\nfind any clean & unencumbered–3",
+    "paragraphs": [
+      "Logan & Lincoln to Benjamin Briggs, 12 August 18441 At the fall term of yourcourt, we as attornies, took two judgements againstL. T. Garth, one in favour ofG M &. G. R. Justice,",
+      "& the other plaintiff’s name we have forgotten–2 The Messrs Justice have written us to force the collection of their debt if we can– See MrGarth, and if he can not pay, take out executions and levy upon property, if you can",
+      "find any clean & unencumbered–3"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Justice & Justice v. Garth, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136178;Logan v. Garth, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136237."
+    ],
+    "footnotes": [
+      {
+        "id": "X88B4961B-1A11-4AFB-BA9C-2074FB4A2222",
+        "text": "1Abraham Lincolnwrote the letter and signed his andStephen T. Logan’s names.  The editors based attribution of recipient toBenjamin Briggsbased on two facts: (1) this letter was in a collection with anotherletterto Briggs, and (2) Briggs served as the sheriff ofTazewell County, Illinoisfrom 1840 to 1844."
+      },
+      {
+        "id": "X83D3B508-D68E-420F-9672-472FF2938A98",
+        "text": "2In the fall of 1842, the Tazewell County Circuit Court awarded to G. M. & G. R. Justice\n                  $277.35 in damages from Littleton T. Garth. The plaintiff in the second case mentioned\n                  by Lincoln was actually his law partner Stephen T. Logan, who had recovered $254.70\n                  from Garth at the fall 1842 term of the court.Justice & Justice v. Garth, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136178;Logan v. Garth, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition,http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136237."
+      },
+      {
+        "id": "XE3BE8316-2C3D-4D7C-99BB-2423990F2A49",
+        "text": "3It is unknown whether or in what manner G. M. & G. R. Justice collected their debt\n                  from Garth."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Logan & Lincoln to Benjamin Briggs, 12 August 18441"
+      },
+      {
+        "type": "paragraph",
+        "text": "At the fall term of yourcourt, we as attornies, took two judgements againstL. T. Garth, one in favour ofG M &. G. R. Justice,\n               & the other plaintiff’s name we have forgotten–2"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Messrs[Messieurs] Justice have written us to force the collection of their debt if we can– See MrGarth, and if he can not pay, take out executions and levy upon property, if you can\n               find any clean & unencumbered–3"
+      }
+    ],
+    "word_count": 80
+  },
+  "extraction_date": "2025-12-26 20:20:25",
+  "word_count": 80,
+  "processing": {
+    "cleaned": true,
+    "original_length": 474,
+    "cleaned_length": 435,
+    "preserved_originality": true
+  }
+}

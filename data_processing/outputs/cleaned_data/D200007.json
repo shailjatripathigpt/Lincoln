@@ -1,0 +1,53 @@
+{
+  "document_id": "D200007",
+  "url": "https://papersofabrahamlincoln.org/documents/D200007",
+  "metadata": {
+    "date": "1832-03-08",
+    "authors": [
+      "Lincoln, Abraham (President)",
+      "Offutt, Denton"
+    ],
+    "keywords": [
+      "Payment",
+      "Debtor and creditor"
+    ],
+    "type": "Receipt"
+  },
+  "content": {
+    "full_text": "Receipt of Denton Offutt to James Rutledge, 8 March 18321 MrJames Rutledgeplease to pay the bearerDavid P Nelsonthirty dollars and this shall be your receipt for the same",
+    "paragraphs": [
+      "Receipt of Denton Offutt to James Rutledge, 8 March 18321 MrJames Rutledgeplease to pay the bearerDavid P Nelsonthirty dollars and this shall be your receipt for the same"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "X27880E1C-0996-43DA-AB35-56E942B8A2AA",
+        "text": "1Abraham Lincoln wrote the entirely of the text on page one.This document is tipped into Samuel Kirkham,English Grammar in Familiar Lectures(Cincinnati: N. & G. Guilford, 1828)."
+      },
+      {
+        "id": "X58C2BA04-EBF2-4A12-BE28-3099C2284250",
+        "text": "2Lincoln wrote this note while working as a clerk in Denton Offutt’s store inNew Salem, Illinois. This payment to David P. Nelson likely satisfied debts that Offutt owed\n                  Nelson and that James Rutledge owed Offutt for goods at the store."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Receipt of Denton Offutt to James Rutledge, 8 March 18321"
+      },
+      {
+        "type": "paragraph",
+        "text": "MrJames Rutledgeplease to pay the bearerDavid P Nelsonthirty dollars and this shall be your receipt for the same"
+      }
+    ],
+    "word_count": 28
+  },
+  "extraction_date": "2025-12-26 19:44:51",
+  "word_count": 28,
+  "processing": {
+    "cleaned": true,
+    "original_length": 170,
+    "cleaned_length": 170,
+    "preserved_originality": true
+  }
+}

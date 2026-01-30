@@ -1,0 +1,97 @@
+{
+  "document_id": "D200004",
+  "url": "https://papersofabrahamlincoln.org/documents/D200004",
+  "metadata": {
+    "date": "1831-03-11",
+    "authors": [
+      "Allsberry, Charles",
+      "Brady, John",
+      "Brady, Joseph",
+      "Cabaness, Charles P.",
+      "Clark, Daniel",
+      "Crowder, Abram",
+      "Crowder, Horatio",
+      "Darden, John J.",
+      "Dillard, Ben F.",
+      "Dillard, William",
+      "Donner, Jacob",
+      "Duncan, Moses",
+      "Foster, Thomas",
+      "Graham, Joseph",
+      "Hanks, John",
+      "Howard, Benjamin",
+      "Jack, Robert",
+      "Johnston, John D.",
+      "Lincoln, Abraham (President)",
+      "Mason, James",
+      "McKinney, Andrew",
+      "Millage, Samuel",
+      "Rice, William B.",
+      "Robertson, John H.",
+      "Watson, Hiram",
+      "Watson, James",
+      "Willian, Thomas"
+    ],
+    "keywords": [
+      "Counties",
+      "Constables"
+    ],
+    "type": "Petition"
+  },
+  "content": {
+    "full_text": "Petition of Hiram Watson and Others to the Sangamon County Commissioners' Court,\n\nMarch 18311 We the undersign’dpetitioners would represent to your Honlbody, that whereas it represented to us that there is a vacancy in the office of\n\nconstable in theSpringfielddistrict, and whereas the Statute in such cases made and provided, authorises your\n\nHonlCourt to fill such vacancy upon petition.3 We therefore request you to fill sd vacancy with some suitable person4",
+    "paragraphs": [
+      "Petition of Hiram Watson and Others to the Sangamon County Commissioners' Court,",
+      "March 18311 We the undersign’dpetitioners would represent to your Honlbody, that whereas it represented to us that there is a vacancy in the office of",
+      "constable in theSpringfielddistrict, and whereas the Statute in such cases made and provided, authorises your",
+      "HonlCourt to fill such vacancy upon petition.3 We therefore request you to fill sd vacancy with some suitable person4"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Minutes, 8, 11 March 1831, Sangamon County Commissioners’ Court Record Book C, 162,\n                     191, Illinois Regional Archives Depository, University of Illinois Springfield, Springfield,\n                     IL.",
+      "History of Sangamon County, Illinois(Chicago: Inter-State, 1881), 50.",
+      "“An Act to Provide for the Election of Justices of the Peace and Constables,” 30 December\n                     1826,Revised Laws of Illinois(1827), 255-59."
+    ],
+    "footnotes": [
+      {
+        "id": "XB07E49E6-A0A1-4151-94BC-45A8155CF501",
+        "text": "1Hiram Watson authored the petition. Abraham Lincoln signed his own name as well as\n                  those of  John Hanks and John D. Johnston.At their March 1831 term, the Sangamon County Commissioners’ Court received a petition\n                  signed by 304 citizens of the Springfield district, of which this petition was  a\n                  part, requesting the court to fill the vacancy caused by the resignation ofAdam Smith.  Smith may have resigned because he had been found guilty of assault and battery\n                  on Absalom Burnett and fined $4.  Although the General Assembly had changed the procedure\n                  in 1827, the Sangamon County Commissioners’ Court, satisfied that “a majority of the\n                  voters of this district” had signed the petition, granted the request and appointedWilliam Constantas constable.Minutes, 8, 11 March 1831, Sangamon County Commissioners’ Court Record Book C, 162,\n                     191, Illinois Regional Archives Depository, University of Illinois Springfield, Springfield,\n                     IL."
+      },
+      {
+        "id": "XF6806FEC-2088-4D84-B1E9-7294D291ECEA",
+        "text": "2Zachariah Peter,Josiah B. Smith, andGarret Elkincomposed theSangamon County Commissioners’ Courtin 1831.History of Sangamon County, Illinois(Chicago: Inter-State, 1881), 50."
+      },
+      {
+        "id": "XC32E9BAA-F6AD-44AF-A3CA-D2DC31BEFD8F",
+        "text": "3Beginning in 1827, Illinois law required the clerk of the county commissioners’ court\n                  to order judges of election in the appropriate district to hold an election for constable\n                  within twenty days to fill the vacancy.“An Act to Provide for the Election of Justices of the Peace and Constables,” 30 December\n                     1826,Revised Laws of Illinois(1827), 255-59."
+      },
+      {
+        "id": "XDFD476F4-A181-4344-B251-3DAFB953C596",
+        "text": "4This last sentence was written in a different handwriting from the preceding text."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Hiram Watson and Others to the Sangamon County Commissioners' Court, [11]\n               March 18311"
+      },
+      {
+        "type": "paragraph",
+        "text": "We the undersign’dpetitioners would represent to your Honlbody, that whereas it represented to us that there is a vacancy in the office of\n               constable in theSpringfielddistrict, and whereas the Statute in such cases made and provided, authorises your\n               HonlCourt to fill such vacancy upon petition.3"
+      },
+      {
+        "type": "paragraph",
+        "text": "We therefore request you to fill sd[said] vacancy with some suitable person4"
+      }
+    ],
+    "word_count": 71
+  },
+  "extraction_date": "2025-12-26 19:45:21",
+  "word_count": 72,
+  "processing": {
+    "cleaned": true,
+    "original_length": 515,
+    "cleaned_length": 462,
+    "preserved_originality": true
+  }
+}

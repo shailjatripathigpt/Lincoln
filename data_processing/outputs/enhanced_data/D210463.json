@@ -1,0 +1,88 @@
+{
+  "document_id": "D210463",
+  "url": "https://papersofabrahamlincoln.org/documents/D210463",
+  "metadata": {
+    "date": "1849-05-09",
+    "authors": [
+      "Grimshaw, William A."
+    ],
+    "keywords": [
+      "Soldiers--Salaries, etc.",
+      "Military pensions",
+      "Military service, Voluntary"
+    ],
+    "type": "Letter",
+    "extracted_date": "1849-05-09",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "authority",
+      "draft",
+      "endorse",
+      "you",
+      "william",
+      "grimshaw",
+      "abraham",
+      "lincoln",
+      "datedfeby",
+      "grimshawauthorized",
+      "received",
+      "ofcorcoran",
+      "riggsonbank",
+      "america",
+      "new"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "William A. Grimshaw to Abraham Lincoln, 9 May 18491 Draft datedFeby 24. 1849No 4232 Grimshawauthorized to endorse–3 We have received draft ofCorcoran & RiggsonBank of America, New York,for Twenty four dollars, payl toL I. Beall& endorsed specially to you. Please send^written authority^ to endorse the same & oblige us. This arises from extra pay ofJ. H. NeelyTexasVol (altho a citizen ofPike) We are much obliged to you for your attention to this business",
+    "paragraphs": [
+      "William A. Grimshaw to Abraham Lincoln, 9 May 18491 Draft datedFeby 24. 1849No 4232 Grimshawauthorized to endorse–3 We have received draft ofCorcoran & RiggsonBank of America, New York,for Twenty four dollars, payl toL I. Beall& endorsed specially to you. Please send^written authority^ to endorse the same & oblige us. This arises from extra pay ofJ. H. NeelyTexasVol (altho a citizen ofPike) We are much obliged to you for your attention to this business"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Compiled Service Records of Volunteer Soldiers Who Served During the Mexican War in\n                        Organizations from the State of Texas, Records of the Adjutant General's Office, 1762-1984, RG 94, Series M278, Microfilm\n                     Roll 5, National Archives and Records Administration, Washington, DC."
+    ],
+    "footnotes": [
+      {
+        "id": "X9F687731-F6AC-479A-A3A1-8CC7EC1588BF",
+        "text": "1William A. Grimshaw wrote and signed this letter."
+      },
+      {
+        "id": "XFCAECCCD-2619-4C5C-851B-7436B85B0998",
+        "text": "2J. H. Neely was due pay from the U.S. government for a rifle, canteen, and other equipment\n                  he provided during his time as a private in the First Texas Mounted Volunteers.Compiled Service Records of Volunteer Soldiers Who Served During the Mexican War in\n                        Organizations from the State of Texas, Records of the Adjutant General's Office, 1762-1984, RG 94, Series M278, Microfilm\n                     Roll 5, National Archives and Records Administration, Washington, DC."
+      },
+      {
+        "id": "XAA3D1990-5B73-459C-943E-AC80F3A310CC",
+        "text": "3Abraham Lincoln wrote this endorsement."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "William A. Grimshaw to Abraham Lincoln, 9 May 18491"
+      },
+      {
+        "type": "description",
+        "text": "Draft datedFeby[February] 24. 1849No 4232"
+      },
+      {
+        "type": "description",
+        "text": "Grimshawauthorized to endorse–3"
+      },
+      {
+        "type": "paragraph",
+        "text": "We have received draft ofCorcoran & RiggsonBank of America, New York,for Twenty four dollars, payl[payable] toL I. Beall& endorsed specially to you. Please send^written authority^[...?] to endorse the same & oblige us. This arises from extra pay ofJ. H. NeelyTexasVol[Volunteer] (altho[although] a citizen ofPike) We are much obliged to you for your attention to this business"
+      }
+    ],
+    "word_count": 73
+  },
+  "extraction_date": "2025-12-26 20:43:03",
+  "word_count": 73,
+  "processing": {
+    "cleaned": true,
+    "original_length": 502,
+    "cleaned_length": 456,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

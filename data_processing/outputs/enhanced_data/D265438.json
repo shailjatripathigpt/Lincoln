@@ -1,0 +1,60 @@
+{
+  "document_id": "D265438",
+  "url": "https://papersofabrahamlincoln.org/documents/D265438",
+  "metadata": {
+    "date": "1852-02-03",
+    "authors": [
+      "Merriman, Amos Lee",
+      "Merriman, Halsey O."
+    ],
+    "keywords": [
+      "Actions and defenses"
+    ],
+    "type": "Telegram",
+    "extracted_date": "1852-02-03",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "merriman",
+      "halsey",
+      "amos",
+      "abraham",
+      "lincoln",
+      "february"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Halsey O. Merriman and Amos L. Merriman to Abraham Lincoln, 3 February 18521",
+    "paragraphs": [
+      "Halsey O. Merriman and Amos L. Merriman to Abraham Lincoln, 3 February 18521"
+    ],
+    "tables_count": 0,
+    "citations": [],
+    "footnotes": [
+      {
+        "id": "XFF565559-D20B-4D02-A5D8-A54AB2914346",
+        "text": "1Halsey O. Merriman wrote and signed this telegram."
+      },
+      {
+        "id": "XFC434859-A98D-4CDA-BD2F-76F337CF3089",
+        "text": "2No additional correspondence between either Abraham Lincoln and Halsey O. Merriman\n                  or Lincoln and Amos L. Merriman has been located. Lincoln was not working with either\n                  of the Merrimans on any legal cases at the time of this telegram, so it is unclear\n                  what requisition the Merrimans were referencing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Halsey O. Merriman and Amos L. Merriman to Abraham Lincoln, 3 February 18521"
+      }
+    ],
+    "word_count": 13
+  },
+  "extraction_date": "2025-12-26 21:25:50",
+  "word_count": 13,
+  "processing": {
+    "cleaned": true,
+    "original_length": 76,
+    "cleaned_length": 76,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

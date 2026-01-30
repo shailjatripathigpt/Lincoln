@@ -1,0 +1,76 @@
+{
+  "document_id": "D200507",
+  "url": "https://papersofabrahamlincoln.org/documents/D200507",
+  "metadata": {
+    "date": "1848-07-08",
+    "authors": [],
+    "keywords": [
+      "Employment references"
+    ],
+    "type": "Petition",
+    "extracted_date": "1848-07-08",
+    "extracted_type": "letter",
+    "extracted_keywords": [
+      "petition",
+      "alexander",
+      "evans",
+      "others",
+      "robert",
+      "horner",
+      "july",
+      "undersigned",
+      "members",
+      "thehouse",
+      "repsdo",
+      "request",
+      "thata",
+      "matlackbe",
+      "retained"
+    ],
+    "length_category": "short"
+  },
+  "content": {
+    "full_text": "Petition of Alexander Evans and Others to Robert E. Horner, 8 July 18481 We the undersigned members of theHouse of Repsdo request thatA, G, Matlackbe retained in his present situation as messenger",
+    "paragraphs": [
+      "Petition of Alexander Evans and Others to Robert E. Horner, 8 July 18481 We the undersigned members of theHouse of Repsdo request thatA, G, Matlackbe retained in his present situation as messenger"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1294."
+    ],
+    "footnotes": [
+      {
+        "id": "X7E2EF583-3AA3-423D-A483-225C2D2A1871",
+        "text": "1The author of this petition is unknown. Abraham Lincoln  and the other signatories\n                  signed their own names."
+      },
+      {
+        "id": "XC5A989D9-F85C-4AB6-BC7A-D15FEC1D48AB",
+        "text": "2The first session of the ThirtiethCongressended on August 14, 1848.U.S. HouseJournal. 1848. 30th Cong., 1st sess., 1294."
+      },
+      {
+        "id": "XE982068F-E9AA-4750-AF31-C461D7CBF02B",
+        "text": "3Robert E. Horner wrote and signed this docketing."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Petition of Alexander Evans and Others to Robert E. Horner, 8 July 18481"
+      },
+      {
+        "type": "paragraph",
+        "text": "We the undersigned members of theHouse of Repsdo request thatA, G, Matlackbe retained in his present situation as messenger"
+      }
+    ],
+    "word_count": 32
+  },
+  "extraction_date": "2025-12-26 20:30:20",
+  "word_count": 32,
+  "processing": {
+    "cleaned": true,
+    "original_length": 196,
+    "cleaned_length": 196,
+    "preserved_originality": true
+  },
+  "source": "papers_of_abraham_lincoln"
+}

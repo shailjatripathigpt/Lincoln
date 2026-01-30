@@ -1,0 +1,54 @@
+{
+  "document_id": "D200722",
+  "url": "https://papersofabrahamlincoln.org/documents/D200722",
+  "metadata": {
+    "date": "1852-10-27",
+    "authors": [
+      "Lincoln, Abraham (President)"
+    ],
+    "keywords": [
+      "Actions and defenses",
+      "Kindness"
+    ],
+    "type": "Letter"
+  },
+  "content": {
+    "full_text": "Abraham Lincoln to Lewis M. Hays, 27 October 18521",
+    "paragraphs": [
+      "Abraham Lincoln to Lewis M. Hays, 27 October 18521"
+    ],
+    "tables_count": 0,
+    "citations": [
+      "Receipt, Document ID: 83371,Hays v. Turley, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136157;Abraham Lincoln to Lewis M. Hays;Abraham Lincoln to Lewis M. Hays; Thomas P. Taylor, Gravestone, Alexander Cemetery, Owen County, IN."
+    ],
+    "footnotes": [
+      {
+        "id": "X1E06D2A1-9323-4563-B917-907FAA2A1891",
+        "text": "1Abraham Lincoln wrote and signed this letter."
+      },
+      {
+        "id": "X2A1D349F-385C-4EF1-811B-E849C927A751",
+        "text": "2Lewis M. Hays’ September 30, 1852 letter to Lincoln has not been located."
+      },
+      {
+        "id": "XDD550B6B-27EE-4321-86D4-4D767592E411",
+        "text": "3This letter is related to the caseHays v. Turley, which was tried in theLogan County Circuit Courtbetween April 1851 and September 1853. In July 1836,George W. TurleygaveThomas P. Taylora promissory note for $100, but failed to pay.  After Taylor died in August 1842,\n                  Hays became the administrator of his estate. He retained Lincoln as his attorney,\n                  and sued Turley to collect the debt.In September 1853, Turley produced two  witnesses to support his claim that he had\n                  once offered Taylor the money, but Taylor refused it. In the end, on September 7,\n                  1853, the court ruled that Turley pay the estate $116.90, awarding only $16.90 in\n                  interest since that was the interest accrued “between the offer to pay and the bringing\n                  of the suit.” Lincoln kept this $16.90 as a fee for his legal services.Receipt, Document ID: 83371,Hays v. Turley, Martha L. Benner and Cullom Davis et al., eds.,The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009),http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=136157;Abraham Lincoln to Lewis M. Hays;Abraham Lincoln to Lewis M. Hays; Thomas P. Taylor, Gravestone, Alexander Cemetery, Owen County, IN."
+      }
+    ],
+    "structured_content": [
+      {
+        "type": "heading",
+        "text": "Abraham Lincoln to Lewis M. Hays, 27 October 18521"
+      }
+    ],
+    "word_count": 9
+  },
+  "extraction_date": "2025-12-26 21:26:52",
+  "word_count": 9,
+  "processing": {
+    "cleaned": true,
+    "original_length": 50,
+    "cleaned_length": 50,
+    "preserved_originality": true
+  }
+}
