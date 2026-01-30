@@ -1,0 +1,4 @@
+lincoln/
+__pycache__/
+.env
+*.pyc
