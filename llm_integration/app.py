@@ -492,7 +492,7 @@ def render_sidebar():
         
         with col1:
             if st.button(
-                "  Load Lincoln",
+                "  Load Fine_Tuned",
                 use_container_width=True,
                 disabled=st.session_state.finetuned_loaded,
                 key="load_finetuned_main",
