@@ -276,3 +276,201 @@
 2026-01-31 13:10:57,726 - INFO - Created FAISS index: FlatL2 (no training needed)
 2026-01-31 13:10:57,726 - INFO - ✅ All components initialized successfully
 2026-01-31 13:10:58,010 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:14:28,659 - INFO - Use pytorch device_name: mps
+2026-01-31 14:14:28,659 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:14:34,103 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:14:34,105 - INFO - Loading faiss.
+2026-01-31 14:14:34,130 - INFO - Successfully loaded faiss.
+2026-01-31 14:14:34,137 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:14:58,089 - INFO - Use pytorch device_name: mps
+2026-01-31 14:14:58,090 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:15:03,779 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:15:03,780 - INFO - TokenBasedChunker initialized: chunk_size=3276, overlap=327
+2026-01-31 14:15:03,780 - INFO - CrossEncoderReranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:15:03,780 - INFO - EnhancedFAISSIndex initialized with dimension: 384
+2026-01-31 14:15:03,780 - INFO - RAGEvaluator initialized
+2026-01-31 14:15:03,781 - INFO - RAGEvaluator initialized
+2026-01-31 14:15:03,782 - INFO - EnhancedLincolnRAGSystem initialized with all features
+2026-01-31 14:15:03,784 - INFO - Use pytorch device_name: mps
+2026-01-31 14:15:03,784 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:15:13,836 - INFO - Use pytorch device: mps
+2026-01-31 14:15:14,674 - INFO - ✅ Cross-encoder model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:15:14,676 - INFO - Created FAISS index: FlatL2 (no training needed)
+2026-01-31 14:15:14,676 - INFO - ✅ All components initialized successfully
+2026-01-31 14:15:14,871 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:22:25,115 - INFO - Use pytorch device_name: mps
+2026-01-31 14:22:25,115 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:22:29,959 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:22:29,963 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:22:35,732 - INFO - Use pytorch device_name: mps
+2026-01-31 14:22:35,732 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:22:40,253 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:22:40,254 - INFO - TokenBasedChunker initialized: chunk_size=3276, overlap=327
+2026-01-31 14:22:40,254 - INFO - CrossEncoderReranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:22:40,254 - INFO - EnhancedFAISSIndex initialized with dimension: 384
+2026-01-31 14:22:40,254 - INFO - RAGEvaluator initialized
+2026-01-31 14:22:40,255 - INFO - RAGEvaluator initialized
+2026-01-31 14:22:40,256 - INFO - EnhancedLincolnRAGSystem initialized with all features
+2026-01-31 14:22:40,258 - INFO - Use pytorch device_name: mps
+2026-01-31 14:22:40,258 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:22:48,056 - INFO - Use pytorch device: mps
+2026-01-31 14:22:48,773 - INFO - ✅ Cross-encoder model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:22:48,774 - INFO - Created FAISS index: FlatL2 (no training needed)
+2026-01-31 14:22:48,774 - INFO - ✅ All components initialized successfully
+2026-01-31 14:22:48,973 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:24:40,420 - INFO - Use pytorch device_name: mps
+2026-01-31 14:24:40,420 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:24:45,491 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:24:45,494 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:26:58,610 - INFO - Use pytorch device_name: mps
+2026-01-31 14:26:58,611 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:27:03,841 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:27:03,843 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:27:10,668 - INFO - Use pytorch device_name: mps
+2026-01-31 14:27:10,669 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:27:15,797 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:27:15,797 - INFO - TokenBasedChunker initialized: chunk_size=3276, overlap=327
+2026-01-31 14:27:15,797 - INFO - CrossEncoderReranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:27:15,797 - INFO - EnhancedFAISSIndex initialized with dimension: 384
+2026-01-31 14:27:15,797 - INFO - RAGEvaluator initialized
+2026-01-31 14:27:15,799 - INFO - RAGEvaluator initialized
+2026-01-31 14:27:15,799 - INFO - EnhancedLincolnRAGSystem initialized with all features
+2026-01-31 14:27:15,801 - INFO - Use pytorch device_name: mps
+2026-01-31 14:27:15,801 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:27:24,159 - INFO - Use pytorch device: mps
+2026-01-31 14:27:25,014 - INFO - ✅ Cross-encoder model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:27:25,014 - INFO - Created FAISS index: FlatL2 (no training needed)
+2026-01-31 14:27:25,015 - INFO - ✅ All components initialized successfully
+2026-01-31 14:27:25,211 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:27:59,832 - INFO - Use pytorch device_name: mps
+2026-01-31 14:27:59,832 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:28:05,748 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:28:05,749 - INFO - Loading faiss.
+2026-01-31 14:28:05,764 - INFO - Successfully loaded faiss.
+2026-01-31 14:28:05,769 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:28:58,664 - INFO - Use pytorch device_name: mps
+2026-01-31 14:28:58,664 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:29:03,652 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:29:03,652 - INFO - TokenBasedChunker initialized: chunk_size=3276, overlap=327
+2026-01-31 14:29:03,652 - INFO - CrossEncoderReranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:29:03,652 - INFO - EnhancedFAISSIndex initialized with dimension: 384
+2026-01-31 14:29:03,652 - INFO - RAGEvaluator initialized
+2026-01-31 14:29:03,654 - INFO - RAGEvaluator initialized
+2026-01-31 14:29:03,654 - INFO - EnhancedLincolnRAGSystem initialized with all features
+2026-01-31 14:29:03,657 - INFO - Use pytorch device_name: mps
+2026-01-31 14:29:03,657 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:29:12,170 - INFO - Use pytorch device: mps
+2026-01-31 14:29:12,929 - INFO - ✅ Cross-encoder model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:29:12,929 - INFO - Created FAISS index: FlatL2 (no training needed)
+2026-01-31 14:29:12,930 - INFO - ✅ All components initialized successfully
+2026-01-31 14:29:13,124 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:29:22,277 - INFO - Re-ranked 20 documents, top score: -3.2205
+2026-01-31 14:29:32,267 - INFO - Use pytorch device_name: mps
+2026-01-31 14:29:32,267 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:29:36,793 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:29:36,797 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:30:55,756 - INFO - Use pytorch device_name: mps
+2026-01-31 14:30:55,757 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:31:01,556 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:31:01,559 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:31:13,388 - INFO - Use pytorch device_name: mps
+2026-01-31 14:31:13,388 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:31:18,276 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:31:18,276 - INFO - TokenBasedChunker initialized: chunk_size=3276, overlap=327
+2026-01-31 14:31:18,277 - INFO - CrossEncoderReranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:31:18,277 - INFO - EnhancedFAISSIndex initialized with dimension: 384
+2026-01-31 14:31:18,277 - INFO - RAGEvaluator initialized
+2026-01-31 14:31:18,278 - INFO - RAGEvaluator initialized
+2026-01-31 14:31:18,278 - INFO - EnhancedLincolnRAGSystem initialized with all features
+2026-01-31 14:31:18,281 - INFO - Use pytorch device_name: mps
+2026-01-31 14:31:18,281 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:31:26,614 - INFO - Use pytorch device: mps
+2026-01-31 14:31:27,380 - INFO - ✅ Cross-encoder model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:31:27,380 - INFO - Created FAISS index: FlatL2 (no training needed)
+2026-01-31 14:31:27,381 - INFO - ✅ All components initialized successfully
+2026-01-31 14:31:27,579 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:31:38,515 - INFO - Re-ranked 20 documents, top score: -2.9819
+2026-01-31 14:33:41,597 - INFO - Use pytorch device_name: mps
+2026-01-31 14:33:41,598 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:33:47,309 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:33:47,312 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:34:10,664 - INFO - Use pytorch device_name: mps
+2026-01-31 14:34:10,664 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:34:15,440 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:34:15,441 - INFO - TokenBasedChunker initialized: chunk_size=3276, overlap=327
+2026-01-31 14:34:15,441 - INFO - CrossEncoderReranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:34:15,441 - INFO - EnhancedFAISSIndex initialized with dimension: 384
+2026-01-31 14:34:15,441 - INFO - RAGEvaluator initialized
+2026-01-31 14:34:15,442 - INFO - RAGEvaluator initialized
+2026-01-31 14:34:15,442 - INFO - EnhancedLincolnRAGSystem initialized with all features
+2026-01-31 14:34:15,444 - INFO - Use pytorch device_name: mps
+2026-01-31 14:34:15,444 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:34:23,290 - INFO - Use pytorch device: mps
+2026-01-31 14:34:24,042 - INFO - ✅ Cross-encoder model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:34:24,043 - INFO - Created FAISS index: FlatL2 (no training needed)
+2026-01-31 14:34:24,043 - INFO - ✅ All components initialized successfully
+2026-01-31 14:34:24,274 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:35:09,283 - INFO - Use pytorch device_name: mps
+2026-01-31 14:35:09,284 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:35:15,184 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:35:15,189 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:35:57,916 - INFO - Use pytorch device_name: mps
+2026-01-31 14:35:57,917 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:36:02,767 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:36:02,767 - INFO - TokenBasedChunker initialized: chunk_size=3276, overlap=327
+2026-01-31 14:36:02,767 - INFO - CrossEncoderReranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:36:02,767 - INFO - EnhancedFAISSIndex initialized with dimension: 384
+2026-01-31 14:36:02,767 - INFO - RAGEvaluator initialized
+2026-01-31 14:36:02,768 - INFO - RAGEvaluator initialized
+2026-01-31 14:36:02,768 - INFO - EnhancedLincolnRAGSystem initialized with all features
+2026-01-31 14:36:02,771 - INFO - Use pytorch device_name: mps
+2026-01-31 14:36:02,771 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:36:11,285 - INFO - Use pytorch device: mps
+2026-01-31 14:36:12,077 - INFO - ✅ Cross-encoder model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:36:12,078 - INFO - Created FAISS index: FlatL2 (no training needed)
+2026-01-31 14:36:12,078 - INFO - ✅ All components initialized successfully
+2026-01-31 14:36:12,270 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:36:17,116 - INFO - Re-ranked 20 documents, top score: -8.0041
+2026-01-31 14:36:24,495 - INFO - Re-ranked 20 documents, top score: -8.0041
+2026-01-31 14:42:40,398 - INFO - Use pytorch device_name: mps
+2026-01-31 14:42:40,398 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:42:45,821 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:42:45,824 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:42:51,326 - INFO - Use pytorch device_name: mps
+2026-01-31 14:42:51,327 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:42:57,007 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:42:57,007 - INFO - TokenBasedChunker initialized: chunk_size=3276, overlap=327
+2026-01-31 14:42:57,007 - INFO - CrossEncoderReranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:42:57,007 - INFO - EnhancedFAISSIndex initialized with dimension: 384
+2026-01-31 14:42:57,007 - INFO - RAGEvaluator initialized
+2026-01-31 14:42:57,009 - INFO - RAGEvaluator initialized
+2026-01-31 14:42:57,009 - INFO - EnhancedLincolnRAGSystem initialized with all features
+2026-01-31 14:42:57,012 - INFO - Use pytorch device_name: mps
+2026-01-31 14:42:57,012 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:43:05,397 - INFO - Use pytorch device: mps
+2026-01-31 14:43:06,222 - INFO - ✅ Cross-encoder model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:43:06,223 - INFO - Created FAISS index: FlatL2 (no training needed)
+2026-01-31 14:43:06,223 - INFO - ✅ All components initialized successfully
+2026-01-31 14:43:06,416 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:43:22,702 - INFO - Re-ranked 20 documents, top score: 1.6411
+2026-01-31 14:50:04,983 - INFO - Use pytorch device_name: mps
+2026-01-31 14:50:04,983 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:50:11,199 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:50:11,201 - INFO - ✅ Loaded FAISS index with 182 vectors
+2026-01-31 14:50:23,911 - INFO - Use pytorch device_name: mps
+2026-01-31 14:50:23,911 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:50:29,187 - INFO - ✅ Embedding model loaded: all-MiniLM-L6-v2
+2026-01-31 14:50:29,188 - INFO - TokenBasedChunker initialized: chunk_size=3276, overlap=327
+2026-01-31 14:50:29,188 - INFO - CrossEncoderReranker initialized with model: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:50:29,188 - INFO - EnhancedFAISSIndex initialized with dimension: 384
+2026-01-31 14:50:29,188 - INFO - RAGEvaluator initialized
+2026-01-31 14:50:29,189 - INFO - RAGEvaluator initialized
+2026-01-31 14:50:29,190 - INFO - EnhancedLincolnRAGSystem initialized with all features
+2026-01-31 14:50:29,193 - INFO - Use pytorch device_name: mps
+2026-01-31 14:50:29,193 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 14:50:51,013 - INFO - Use pytorch device: mps
+2026-01-31 14:50:52,057 - INFO - ✅ Cross-encoder model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+2026-01-31 14:50:52,057 - INFO - Created FAISS index: FlatL2 (no training needed)
+2026-01-31 14:50:52,057 - INFO - ✅ All components initialized successfully
+2026-01-31 14:50:52,233 - INFO - ✅ Index loaded from ./outputs/rag_results_enhanced
+2026-01-31 14:50:56,803 - INFO - Re-ranked 20 documents, top score: 1.6411
