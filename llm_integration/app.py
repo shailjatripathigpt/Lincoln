@@ -56,7 +56,7 @@ sys.path.insert(0, str(current_dir))
 
 st.set_page_config(
     page_title="Abraham Lincoln AI Assistant",
-    page_icon="🏛️",
+    page_icon=" ",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -261,7 +261,7 @@ def load_finetuned_model_simple():
         try:
             from chat_lora import LincolnChatSystem
         except ImportError as e:
-            st.sidebar.error(f"❌ Could not import chat_lora: {str(e)}")
+            st.sidebar.error(f"  Could not import chat_lora: {str(e)}")
             return None
         
         # Initialize
@@ -278,15 +278,15 @@ def load_finetuned_model_simple():
             if success:
                 return chat_system
             else:
-                st.sidebar.error("❌ Model loading failed")
+                st.sidebar.error("  Model loading failed")
                 return None
                 
         except Exception as e:
-            st.sidebar.error(f"❌ Model initialization error: {str(e)}")
+            st.sidebar.error(f"  Model initialization error: {str(e)}")
             return None
 
     except Exception as e:
-        st.sidebar.error(f"❌ Fine-tuned model error: {str(e)}")
+        st.sidebar.error(f"  Fine-tuned model error: {str(e)}")
         return None
 
 def load_rag_system_simple():
@@ -298,7 +298,7 @@ def load_rag_system_simple():
         try:
             from rag_pipeline import LincolnRAGSystem
         except ImportError as e:
-            st.sidebar.error(f"❌ Could not import rag_pipeline: {str(e)}")
+            st.sidebar.error(f"  Could not import rag_pipeline: {str(e)}")
             return None
         
         # Initialize
@@ -327,16 +327,16 @@ def load_rag_system_simple():
                         pass
             
             if not index_found:
-                st.sidebar.warning("⚠️ No FAISS index found - using text-only RAG")
+                st.sidebar.warning("  No FAISS index found - using text-only RAG")
                 
             return rag_system
             
         except Exception as e:
-            st.sidebar.error(f"❌ RAG system initialization error: {str(e)}")
+            st.sidebar.error(f"  RAG system initialization error: {str(e)}")
             return None
 
     except Exception as e:
-        st.sidebar.error(f"❌ RAG loading error: {str(e)}")
+        st.sidebar.error(f"  RAG loading error: {str(e)}")
         return None
 
 def load_enhanced_rag_system():
@@ -358,7 +358,7 @@ def load_enhanced_rag_system():
             # Initialize components
             with st.spinner("Initializing enhanced components..."):
                 if not rag_system.initialize_components():
-                    st.sidebar.warning("⚠️ Some enhanced components failed to initialize")
+                    st.sidebar.warning("  Some enhanced components failed to initialize")
             
             # Check for enhanced index files
             index_found = False
@@ -381,7 +381,7 @@ def load_enhanced_rag_system():
                         pass
             
             if not index_found:
-                st.sidebar.warning("⚠️ No enhanced FAISS index found")
+                st.sidebar.warning("  No enhanced FAISS index found")
                 
             return rag_system
             
@@ -422,7 +422,7 @@ def init_session_state():
 
 def generate_finetuned_response(prompt: str):
     if not st.session_state.finetuned_loaded:
-        return "❌ Fine-tuned model not loaded. Please load it from sidebar."
+        return "  Fine-tuned model not loaded. Please load it from sidebar."
     
     try:
         # Check if chat method exists
@@ -433,21 +433,21 @@ def generate_finetuned_response(prompt: str):
             else:
                 return str(response)
         else:
-            return "❌ Model does not have a chat method."
+            return "  Model does not have a chat method."
     except Exception as e:
-        return f"❌ Error generating response: {str(e)[:100]}"
+        return f"  Error generating response: {str(e)[:100]}"
 
 def generate_rag_response(prompt: str, enhanced: bool = False):
     """Generate response from RAG system"""
     if enhanced:
         if not st.session_state.enhanced_rag_loaded:
-            return "❌ Enhanced RAG system not loaded. Please load Enhanced RAG from sidebar.", []
+            return "  Enhanced RAG system not loaded. Please load Enhanced RAG from sidebar.", []
         
         rag_system = st.session_state.enhanced_rag_system
         query_method = "query_enhanced"
     else:
         if not st.session_state.rag_loaded:
-            return "❌ RAG system not loaded. Please load RAG from sidebar.", []
+            return "  RAG system not loaded. Please load RAG from sidebar.", []
         
         rag_system = st.session_state.rag_system
         query_method = "query"
@@ -464,7 +464,7 @@ def generate_rag_response(prompt: str, enhanced: bool = False):
             
             if isinstance(response, dict):
                 if "error" in response:
-                    return f"❌ RAG Error: {response['error']}", []
+                    return f"  RAG Error: {response['error']}", []
                 
                 answer = response.get("answer", "No answer generated.")
                 sources = response.get("retrieved_documents", [])
@@ -477,10 +477,10 @@ def generate_rag_response(prompt: str, enhanced: bool = False):
             
             return str(response), []
         
-        return "❌ RAG system does not have query method.", []
+        return "  RAG system does not have query method.", []
         
     except Exception as e:
-        return f"❌ RAG query error: {str(e)[:100]}", []
+        return f"  RAG query error: {str(e)[:100]}", []
 
 def get_similarity_color(similarity: float):
     """Get CSS class for similarity score"""
@@ -501,23 +501,23 @@ def render_sidebar():
         
         # Model Loading
         st.markdown("<div class='model-card'>", unsafe_allow_html=True)
-        st.markdown("### 🚀 Load Models")
+        st.markdown("###   Load Models")
 
         col1, col2 = st.columns(2)
         
         with col1:
             # Fine-tuned button - DISABLED
             st.button(
-                "🎩 Load Lincoln",
+                "  Load Lincoln",
                 use_container_width=True,
                 disabled=True,  # DISABLED
                 key="load_finetuned_main",
                 help="Fine-tuned model is temporarily disabled"
             )
-            st.caption("⏸️ Temporarily disabled")
+            st.caption("  Temporarily disabled")
 
         with col2:
-            rag_button_text = "📚 Load RAG"
+            rag_button_text = "  Load RAG"
             
             if st.button(
                 rag_button_text,
@@ -530,9 +530,9 @@ def render_sidebar():
                     if rag:
                         st.session_state.rag_system = rag
                         st.session_state.rag_loaded = True
-                        st.success("✅ RAG loaded!")
+                        st.success("  RAG loaded!")
                     else:
-                        st.error("❌ Failed to load RAG")
+                        st.error("  Failed to load RAG")
                 st.rerun()
 
         st.markdown("</div>", unsafe_allow_html=True)
@@ -542,14 +542,14 @@ def render_sidebar():
         st.markdown("### 🔍 Model Status")
 
         if st.session_state.finetuned_loaded:
-            st.markdown('<p class="status-loaded">✅ Fine-tuned Model: LOADED</p>', unsafe_allow_html=True)
+            st.markdown('<p class="status-loaded">  Fine-tuned Model: LOADED</p>', unsafe_allow_html=True)
         else:
-            st.markdown('<p class="status-not-loaded">⏸️ Fine-tuned Model: DISABLED</p>', unsafe_allow_html=True)
+            st.markdown('<p class="status-not-loaded">  Fine-tuned Model: DISABLED</p>', unsafe_allow_html=True)
 
         if st.session_state.rag_loaded:
-            st.markdown('<p class="status-loaded">✅ RAG System: LOADED</p>', unsafe_allow_html=True)
+            st.markdown('<p class="status-loaded">  RAG System: LOADED</p>', unsafe_allow_html=True)
         else:
-            st.markdown('<p class="status-not-loaded">❌ RAG System: NOT LOADED</p>', unsafe_allow_html=True)
+            st.markdown('<p class="status-not-loaded">  RAG System: NOT LOADED</p>', unsafe_allow_html=True)
 
         st.markdown("</div>", unsafe_allow_html=True)
 
@@ -572,21 +572,21 @@ def render_sidebar():
                        "finetuned_loaded", "rag_loaded", "enhanced_rag_loaded"]:
                 if key in st.session_state:
                     st.session_state[key] = False if "loaded" in key else None
-            st.success("✅ Models reset")
+            st.success("  Models reset")
             st.rerun()
 
         st.markdown("</div>", unsafe_allow_html=True)
 
         # Info Section
         st.markdown("<div class='model-card'>", unsafe_allow_html=True)
-        st.markdown("### ℹ️ About")
+        st.markdown("###   About")
         
         st.markdown("""
         **Features:**
-        - ⏸️ Fine-tuned Lincoln (temporarily disabled)
-        - 📚 Document-based research
-        - 🚀 Enhanced RAG with re-ranking
-        - 🏛️ Historical accuracy
+        -   Fine-tuned Lincoln (temporarily disabled)
+        -   Document-based research
+        -   Enhanced RAG with re-ranking
+        -   Historical accuracy
         """)
         
         st.markdown("---")
@@ -602,26 +602,26 @@ def render_sidebar():
 
 def render_finetuned_chat():
     """Render the fine-tuned chat interface - DISABLED VERSION"""
-    st.markdown("### 🎩 Conversing with President Lincoln")
+    st.markdown("###   Conversing with President Lincoln")
     
     # Disabled message
     st.markdown("""
     <div class="disabled-tab">
-        <h3>⏸️ Temporarily Unavailable</h3>
+        <h3>  Temporarily Unavailable</h3>
         <p>The fine-tuned Lincoln model is currently disabled for maintenance and optimization.</p>
-        <p>Please use the <strong>📚 RAG Document Assistant</strong> tab for document-based research.</p>
+        <p>Please use the <strong>  RAG Document Assistant</strong> tab for document-based research.</p>
     </div>
     """, unsafe_allow_html=True)
     
     # Show example of what would be available
-    with st.expander("ℹ️ About Fine-tuned Lincoln (Coming Soon)"):
+    with st.expander("  About Fine-tuned Lincoln (Coming Soon)"):
         st.markdown("""
         **When available, this feature will include:**
         
-        - 🎩 Conversational AI trained on Lincoln's writings
-        - 🏛️ Historical personality simulation
-        - 💭 Philosophical discussions
-        - 🗣️ Speech pattern emulation
+        -   Conversational AI trained on Lincoln's writings
+        -   Historical personality simulation
+        -   Philosophical discussions
+        -   Speech pattern emulation
         
         **Example questions that will be supported:**
         - What were your views on democracy?
@@ -644,8 +644,8 @@ def render_finetuned_chat():
                 st.markdown(
                     f'''
                     <div class="finetuned-message">
-                        <span class="badge-finetuned">🎩 FINE-TUNED LINCOLN</span><br>
-                        <strong>🏛️ President Lincoln:</strong><br>
+                        <span class="badge-finetuned">  FINE-TUNED LINCOLN</span><br>
+                        <strong>  President Lincoln:</strong><br>
                         {chat["response"]}
                     </div>
                     ''',
@@ -654,7 +654,7 @@ def render_finetuned_chat():
     
     # Disabled input section
     st.markdown("---")
-    st.markdown("### 💬 Chat Input (Disabled)")
+    st.markdown("###   Chat Input (Disabled)")
     
     col1, col2 = st.columns([4, 1])
     
@@ -678,7 +678,7 @@ def render_finetuned_chat():
         )
 
 def render_rag_chat():
-    st.markdown("### 📚 Document-Based Research Assistant")
+    st.markdown("###   Document-Based Research Assistant")
     
     # RAG Mode Selector - Moved here from sidebar
     st.markdown("---")
@@ -688,7 +688,7 @@ def render_rag_chat():
     
     with col1:
         if st.button(
-            "📚 **Standard RAG**",
+            "  **Standard RAG**",
             use_container_width=True,
             type="primary" if st.session_state.rag_mode == "standard" else "secondary",
             help="Document-level retrieval with basic similarity search"
@@ -698,7 +698,7 @@ def render_rag_chat():
     
     with col2:
         if st.button(
-            "🚀 **Enhanced RAG**",
+            "  **Enhanced RAG**",
             use_container_width=True,
             type="primary" if st.session_state.rag_mode == "enhanced" else "secondary",
             help="Token-based chunking with cross-encoder re-ranking"
@@ -710,7 +710,7 @@ def render_rag_chat():
     if st.session_state.rag_mode == "enhanced":
         st.markdown("""
         <div class="info-box">
-        🚀 **Enhanced RAG Mode Active**
+          **Enhanced RAG Mode Active**
         - Token-based chunking for better context
         - Cross-encoder re-ranking for improved relevance
         - Comprehensive retrieval metrics
@@ -719,7 +719,7 @@ def render_rag_chat():
     else:
         st.markdown("""
         <div class="info-box">
-        📚 **Standard RAG Mode Active**
+          **Standard RAG Mode Active**
         - Document-level retrieval
         - Basic similarity search
         - Fast response times
@@ -731,18 +731,18 @@ def render_rag_chat():
     # Check if correct system is loaded
     if st.session_state.rag_mode == "enhanced":
         if not st.session_state.enhanced_rag_loaded:
-            st.warning("⚠️ Enhanced RAG system not loaded. Click below to load it.")
+            st.warning("  Enhanced RAG system not loaded. Click below to load it.")
             
-            if st.button("🚀 Load Enhanced RAG System", type="primary"):
+            if st.button("  Load Enhanced RAG System", type="primary"):
                 with st.spinner("Loading Enhanced RAG system..."):
                     rag = load_enhanced_rag_system()
                     if rag:
                         st.session_state.enhanced_rag_system = rag
                         st.session_state.enhanced_rag_loaded = True
-                        st.success("✅ Enhanced RAG loaded!")
+                        st.success("  Enhanced RAG loaded!")
                         st.rerun()
                     else:
-                        st.error("❌ Failed to load Enhanced RAG")
+                        st.error("  Failed to load Enhanced RAG")
             return
         
         rag_loaded = st.session_state.enhanced_rag_loaded
@@ -751,7 +751,7 @@ def render_rag_chat():
         message_class = "rag-enhanced-message"
     else:
         if not st.session_state.rag_loaded:
-            st.warning("⚠️ RAG system not loaded. Click **Load RAG** in sidebar.")
+            st.warning("  RAG system not loaded. Click **Load RAG** in sidebar.")
             return
         
         rag_loaded = st.session_state.rag_loaded
@@ -776,7 +776,7 @@ def render_rag_chat():
                     unsafe_allow_html=True
                 )
             else:
-                badge_text = "🚀 ENHANCED RAG RESPONSE" if st.session_state.rag_mode == "enhanced" else "📚 DOCUMENT-BASED RESPONSE"
+                badge_text = "  ENHANCED RAG RESPONSE" if st.session_state.rag_mode == "enhanced" else "  DOCUMENT-BASED RESPONSE"
                 
                 st.markdown(
                     f'''
@@ -791,7 +791,7 @@ def render_rag_chat():
                 
                 # Sources
                 if "sources" in chat and chat["sources"]:
-                    with st.expander(f"📄 View {len(chat['sources'])} source documents"):
+                    with st.expander(f"  View {len(chat['sources'])} source documents"):
                         for i, source in enumerate(chat["sources"], 1):
                             if isinstance(source, dict):
                                 source_text = source.get("document", "")
@@ -800,7 +800,7 @@ def render_rag_chat():
                                 similarity = source.get("similarity_score", None)
                                 
                                 # Display source
-                                st.markdown(f"### 📄 {source_name}")
+                                st.markdown(f"###   {source_name}")
                                 
                                 # Metadata row
                                 meta_cols = st.columns([1, 1])
@@ -849,7 +849,7 @@ def render_rag_chat():
     
     with col2:
         st.markdown("<br>", unsafe_allow_html=True)
-        button_text = "🚀 Analyze" if st.session_state.rag_mode == "enhanced" else "📚 Search"
+        button_text = "  Analyze" if st.session_state.rag_mode == "enhanced" else "  Search"
         button_key = f"send_{st.session_state.rag_mode}_rag"
         
         if st.button(f"**{button_text}**", use_container_width=True, key=button_key):
@@ -857,10 +857,10 @@ def render_rag_chat():
                 # Determine which chat history to use
                 if st.session_state.rag_mode == "enhanced":
                     target_history = st.session_state.chat_history_enhanced_rag
-                    spinner_text = "🚀 Analyzing with enhanced retrieval..."
+                    spinner_text = "  Analyzing with enhanced retrieval..."
                 else:
                     target_history = st.session_state.chat_history_rag
-                    spinner_text = "📚 Searching documents..."
+                    spinner_text = "  Searching documents..."
                 
                 # Add user message
                 target_history.append({
@@ -893,7 +893,7 @@ def main():
     # Header
     st.markdown("""
     <div class="lincoln-header">
-        <h1>🏛️ Abraham Lincoln AI Assistant</h1>
+        <h1>  Abraham Lincoln AI Assistant</h1>
         <p>Document Research System with Enhanced RAG</p>
         <p><small>Streamlit Cloud • Memory Optimized</small></p>
     </div>
@@ -903,16 +903,16 @@ def main():
     st.markdown("""
     <div class="info-box">
     🔍 **System Features**
-    - ⏸️ <strong>Fine-tuned Lincoln</strong>: Temporarily disabled for optimization
-    - 📚 <strong>RAG Document Assistant</strong>: Search through historical documents
-    - 🚀 <strong>Enhanced Mode</strong>: Token-based chunking & cross-encoder re-ranking
+    -   <strong>Fine-tuned Lincoln</strong>: Temporarily disabled for optimization
+    -   <strong>RAG Document Assistant</strong>: Search through historical documents
+    -   <strong>Enhanced Mode</strong>: Token-based chunking & cross-encoder re-ranking
     </div>
     """, unsafe_allow_html=True)
     
     # Create tabs - Note: Fine-tuned tab is still available but disabled
     tab1, tab2 = st.tabs([
-        "⏸️ **Fine-tuned Lincoln**", 
-        "📚 **RAG Document Assistant**"
+        "  **Fine-tuned Lincoln**", 
+        "  **RAG Document Assistant**"
     ])
     
     with tab1:
