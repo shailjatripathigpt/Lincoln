@@ -1,7 +1,7 @@
 {
-  "total_queries": 107,
-  "last_query_time": "2026-01-13 13:36:02",
-  "average_similarity": 0.5452501694001096,
+  "total_queries": 122,
+  "last_query_time": "2026-01-31 12:56:59",
+  "average_similarity": 0.5411363931311244,
   "query_frequency": {
     "2025-12-31 14": 10,
     "2026-01-02 16": 10,
@@ -9,16 +9,17 @@
     "2026-01-03 18": 10,
     "2026-01-04 22": 58,
     "2026-01-06 00": 1,
-    "2026-01-13 13": 9
+    "2026-01-13 13": 9,
+    "2026-01-31 12": 15
   },
   "top_queries": [
     [
       "What was Lincoln's view on slavery?",
-      21
+      22
     ],
     [
       "How did Lincoln describe the Union?",
-      20
+      21
     ],
     [
       "What were Lincoln's thoughts on democracy?",
@@ -29,11 +30,11 @@
       8
     ],
     [
-      "Tell me about the Gettysburg Address",
-      7
+      "Write in the tone of an 1860s presidential proclamation",
+      8
     ],
     [
-      "Write in the tone of an 1860s presidential proclamation",
+      "Tell me about the Gettysburg Address",
       7
     ],
     [
@@ -42,7 +43,7 @@
     ],
     [
       "Compose a speech about preserving the Union",
-      4
+      5
     ],
     [
       "Draft a letter about democratic principles",

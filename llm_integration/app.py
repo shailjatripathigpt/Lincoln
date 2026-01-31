@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-app.py - Abraham Lincoln AI Assistant (Fine-tuned + RAG)
-Streamlit Cloud Safe Version
+app.py - Abraham Lincoln AI Assistant (Fine-tuned + Enhanced RAG)
+Streamlit Cloud Safe Version with HF Token Support
+Now supports Enhanced RAG system with token-based chunking and re-ranking
 """
 
 import streamlit as st
@@ -11,6 +12,7 @@ from pathlib import Path
 import time
 from datetime import datetime
 import traceback
+import numpy as np
 
 # =====================================================
 # STREAMLIT CLOUD COMPATIBILITY SETTINGS
@@ -19,6 +21,29 @@ import traceback
 # Set environment variables to optimize for Streamlit Cloud
 os.environ['TOKENIZERS_PARALLELISM'] = 'false'
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Reduce TensorFlow logging
+os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'max_split_size_mb:128'
+
+# Check for Hugging Face Token in Streamlit Secrets
+try:
+    if 'HUGGINGFACE_TOKEN' in st.secrets:
+        os.environ['HF_TOKEN'] = st.secrets['HUGGINGFACE_TOKEN']
+        os.environ['HF_HUB_DISABLE_TELEMETRY'] = '1'
+except Exception:
+    pass
+
+# Check for HF_TOKEN environment variable as fallback
+if 'HF_TOKEN' not in os.environ:
+    # Try to get from .env file locally
+    env_file = Path(__file__).parent / '.env'
+    if env_file.exists():
+        try:
+            with open(env_file, 'r') as f:
+                for line in f:
+                    if line.startswith('HF_TOKEN='):
+                        os.environ['HF_TOKEN'] = line.split('=', 1)[1].strip()
+                        break
+        except Exception:
+            pass
 
 # Add current directory to path
 current_dir = Path(__file__).parent
@@ -30,7 +55,7 @@ sys.path.insert(0, str(current_dir))
 
 st.set_page_config(
     page_title="Abraham Lincoln AI Assistant",
-    page_icon="🏛️",
+    page_icon=" ",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -54,14 +79,14 @@ def load_css():
     
     .lincoln-header h1 {
         color: white;
-        font-size: 3rem;
+        font-size: 2.8rem;
         margin-bottom: 0.5rem;
         font-weight: 800;
     }
     
     .lincoln-header p {
         color: #e8eaf6;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         margin-bottom: 0.5rem;
     }
     
@@ -89,6 +114,14 @@ def load_css():
         border-left: 5px solid #1565c0;
     }
     
+    .rag-enhanced-message {
+        background-color: #e8f5e9;
+        padding: 1.5rem;
+        border-radius: 12px;
+        margin: 1rem 0;
+        border-left: 5px solid #2e7d32;
+    }
+    
     .badge-finetuned {
         background-color: #7b1fa2;
         color: white;
@@ -102,6 +135,17 @@ def load_css():
     
     .badge-rag {
         background-color: #1565c0;
+        color: white;
+        padding: 0.4rem 1.2rem;
+        border-radius: 20px;
+        font-size: 0.9rem;
+        font-weight: 700;
+        display: inline-block;
+        margin-bottom: 0.8rem;
+    }
+    
+    .badge-rag-enhanced {
+        background-color: #2e7d32;
         color: white;
         padding: 0.4rem 1.2rem;
         border-radius: 20px;
@@ -130,28 +174,82 @@ def load_css():
         font-weight: bold;
     }
     
-    /* Streamlit Cloud specific optimizations */
-    .stButton > button {
+    .info-box {
+        background-color: #d1ecf1;
+        border: 1px solid #bee5eb;
+        border-radius: 8px;
+        padding: 1rem;
+        margin: 1rem 0;
+        color: #0c5460;
+    }
+    
+    .rag-mode-selector {
+        background-color: #f8f9fa;
+        padding: 1rem;
+        border-radius: 10px;
+        margin: 1rem 0;
+        border: 2px solid #dee2e6;
+    }
+    
+    .metric-badge {
+        display: inline-block;
+        background: #f0f0f0;
+        padding: 0.3rem 0.8rem;
+        border-radius: 15px;
+        font-size: 0.85rem;
+        margin-right: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .similarity-high { color: #2e7d32; font-weight: bold; }
+    .similarity-medium { color: #f57c00; font-weight: bold; }
+    .similarity-low { color: #d32f2f; font-weight: bold; }
+    
+    .mode-button {
         width: 100%;
+        padding: 0.75rem;
+        text-align: center;
+        border-radius: 8px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        border: 2px solid transparent;
+    }
+    
+    .mode-button.active {
+        background-color: #4CAF50;
+        color: white;
+        border-color: #388E3C;
+    }
+    
+    .mode-button.inactive {
+        background-color: #f5f5f5;
+        color: #666;
+        border-color: #ddd;
+    }
+    
+    .mode-button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
     </style>
     """, unsafe_allow_html=True)
 
 # =====================================================
-# MODEL LOADING (STREAMLIT CLOUD SAFE)
+# MODEL LOADING WITH HF TOKEN SUPPORT
 # =====================================================
 
 def load_finetuned_model_simple():
-    """Simplified fine-tuned model loading with Streamlit Cloud compatibility"""
+    """Simplified fine-tuned model loading with HF token support"""
     try:
-        # Try to import with error handling
+        # Import with error handling
         try:
             from chat_lora import LincolnChatSystem
         except ImportError as e:
-            st.sidebar.error(f"❌ Could not import chat_lora: {str(e)}")
+            st.sidebar.error(f"Could not import chat_lora: {str(e)}")
             return None
         
-        # Initialize with minimal memory footprint
+        # Initialize
         try:
             chat_system = LincolnChatSystem()
             
@@ -165,81 +263,120 @@ def load_finetuned_model_simple():
             if success:
                 return chat_system
             else:
-                st.sidebar.error("❌ Model loading failed")
+                st.sidebar.error(" Model loading failed")
                 return None
                 
         except Exception as e:
-            st.sidebar.error(f"❌ Model initialization error: {str(e)}")
-            # Provide fallback or simplified version
+            st.sidebar.error(f" Model initialization error: {str(e)}")
             return None
 
     except Exception as e:
-        st.sidebar.error(f"❌ Fine-tuned model error: {str(e)}")
+        st.sidebar.error(f" Fine-tuned model error: {str(e)}")
         return None
-
 
 def load_rag_system_simple():
     """
-    Load RAG system from rag_pipeline.py with Streamlit Cloud compatibility
+    Load standard RAG system from rag_pipeline.py
     """
     try:
         # Try to import
         try:
             from rag_pipeline import LincolnRAGSystem
         except ImportError as e:
-            st.sidebar.error(f"❌ Could not import rag_pipeline: {str(e)}")
+            st.sidebar.error(f" Could not import rag_pipeline: {str(e)}")
             return None
         
         # Initialize
         try:
             rag_system = LincolnRAGSystem()
-            st.sidebar.info("📚 Loaded LincolnRAGSystem from rag_pipeline.py")
-
-            # For Streamlit Cloud, look for index in expected locations
-            index_found = False
             
-            # Check multiple possible locations
+            # Check for index files
+            index_found = False
             possible_paths = [
                 os.path.join(current_dir, "faiss_index.bin"),
                 os.path.join(current_dir, "data", "faiss_index.bin"),
                 os.path.join(current_dir, "rag_index", "faiss_index.bin"),
-                os.path.join(current_dir.parent, "outputs", "rag_results", "faiss_index.bin"),
-                "/tmp/faiss_index.bin"  # Fallback location
+                os.path.join(current_dir, "outputs", "rag_results", "faiss_index.bin"),
             ]
             
             for index_path in possible_paths:
                 meta_path = index_path.replace("faiss_index.bin", "documents_metadata.json")
                 if os.path.exists(index_path) and os.path.exists(meta_path):
-                    # Try to load index
                     try:
-                        # Check if _load_index method exists
                         if hasattr(rag_system, '_load_index'):
                             loaded = rag_system._load_index(os.path.dirname(index_path))
                             if loaded:
-                                st.sidebar.success(f"✅ FAISS index loaded from: {index_path}")
                                 index_found = True
                                 break
-                    except Exception as e:
-                        st.sidebar.warning(f"⚠️ Could not load index from {index_path}: {str(e)}")
+                    except Exception:
+                        pass
             
             if not index_found:
-                st.sidebar.warning("""
-                ⚠️ FAISS index not found. RAG will run without document retrieval.
-                To enable document search, place faiss_index.bin and documents_metadata.json in:
-                - /app/ (root directory) OR
-                - /app/data/ OR
-                - /app/rag_index/
-                """)
+                st.sidebar.warning("  No FAISS index found - using text-only RAG")
                 
             return rag_system
             
         except Exception as e:
-            st.sidebar.error(f"❌ RAG system initialization error: {str(e)}")
+            st.sidebar.error(f" RAG system initialization error: {str(e)}")
             return None
 
     except Exception as e:
-        st.sidebar.error(f"❌ RAG loading error: {str(e)}")
+        st.sidebar.error(f" RAG loading error: {str(e)}")
         return None
+
+def load_enhanced_rag_system():
+    """
+    Load enhanced RAG system from rag_pipeline.py
+    """
+    try:
+        # Try to import
+        try:
+            from rag_pipeline import EnhancedLincolnRAGSystem
+        except ImportError as e:
+            # Fall back to standard RAG
+            return load_rag_system_simple()
+        
+        # Initialize enhanced system
+        try:
+            rag_system = EnhancedLincolnRAGSystem()
+            
+            # Initialize components
+            with st.spinner("Initializing enhanced components..."):
+                if not rag_system.initialize_components():
+                    st.sidebar.warning("  Some enhanced components failed to initialize")
+            
+            # Check for enhanced index files
+            index_found = False
+            possible_paths = [
+                os.path.join(current_dir, "outputs", "rag_results_enhanced", "faiss_index.bin"),
+                os.path.join(current_dir, "rag_index_enhanced", "faiss_index.bin"),
+                os.path.join(current_dir, "faiss_index.bin"),  # Fallback
+            ]
+            
+            for index_path in possible_paths:
+                meta_path = index_path.replace("faiss_index.bin", "chunks_data.json")
+                if os.path.exists(index_path):
+                    try:
+                        if hasattr(rag_system.enhanced_index, 'load'):
+                            loaded = rag_system.enhanced_index.load(os.path.dirname(index_path))
+                            if loaded:
+                                index_found = True
+                                break
+                    except Exception:
+                        pass
+            
+            if not index_found:
+                st.sidebar.warning("  No enhanced FAISS index found")
+                
+            return rag_system
+            
+        except Exception as e:
+            # Fall back to standard RAG
+            return load_rag_system_simple()
+
+    except Exception as e:
+        # Fall back to standard RAG
+        return load_rag_system_simple()
 
 # =====================================================
 # SESSION STATE
@@ -249,12 +386,15 @@ def init_session_state():
     defaults = {
         "finetuned_model": None,
         "rag_system": None,
+        "enhanced_rag_system": None,
         "finetuned_loaded": False,
         "rag_loaded": False,
+        "enhanced_rag_loaded": False,
         "chat_history_finetuned": [],
         "chat_history_rag": [],
+        "chat_history_enhanced_rag": [],
         "current_tab": "Fine-tuned Lincoln",
-        "models_initialized": False,
+        "rag_mode": "standard",  # "standard" or "enhanced"
     }
 
     for k, v in defaults.items():
@@ -262,64 +402,207 @@ def init_session_state():
             st.session_state[k] = v
 
 # =====================================================
-# RESPONSE GENERATION (WITH ERROR HANDLING)
+# RESPONSE GENERATION FUNCTIONS
 # =====================================================
 
 def generate_finetuned_response(prompt: str):
     if not st.session_state.finetuned_loaded:
-        return "❌ Fine-tuned model not loaded. Please load it from sidebar."
-
+        return " Fine-tuned model not loaded. Please load it from sidebar."
+    
     try:
         # Check if chat method exists
         if hasattr(st.session_state.finetuned_model, "chat"):
-            response, model_used, analysis = st.session_state.finetuned_model.chat(prompt)
-            return response
+            response = st.session_state.finetuned_model.chat(prompt)
+            if isinstance(response, tuple):
+                return response[0]  # Return just the answer text
+            else:
+                return str(response)
         else:
-            return "❌ Model does not have a chat method."
+            return " Model does not have a chat method."
     except Exception as e:
-        return f"❌ Error generating response: {str(e)}"
+        return f" Error generating response: {str(e)[:100]}"
 
-
-def generate_rag_response(prompt: str):
-    if not st.session_state.rag_loaded:
-        return "❌ RAG system not loaded. Please load it from sidebar.", []
-
-    try:
+def generate_rag_response(prompt: str, enhanced: bool = False):
+    """Generate response from RAG system"""
+    if enhanced:
+        if not st.session_state.enhanced_rag_loaded:
+            return " Enhanced RAG system not loaded. Please load Enhanced RAG from sidebar.", []
+        
+        rag_system = st.session_state.enhanced_rag_system
+        query_method = "query_enhanced"
+    else:
+        if not st.session_state.rag_loaded:
+            return " RAG system not loaded. Please load RAG from sidebar.", []
+        
         rag_system = st.session_state.rag_system
-        
+        query_method = "query"
+    
+    try:
         # Check if query method exists
-        if not hasattr(rag_system, "query"):
-            return "❌ RAG system does not have query method.", []
+        if hasattr(rag_system, query_method):
+            if query_method == "query_enhanced":
+                # Enhanced query with re-ranking
+                response = rag_system.query_enhanced(prompt, k=10, rerank_top_k=5, save_to_storage=True)
+            else:
+                # Standard query
+                response = rag_system.query(prompt, k=5, save_to_storage=True)
+            
+            if isinstance(response, dict):
+                if "error" in response:
+                    return f" RAG Error: {response['error']}", []
+                
+                answer = response.get("answer", "No answer generated.")
+                sources = response.get("retrieved_documents", [])
+                
+                # Add additional metadata for enhanced mode
+                if enhanced and "response_time" in response:
+                    answer = f"{answer}\n\n Response time: {response['response_time']:.2f}s"
+                
+                return answer, sources
+            
+            return str(response), []
         
-        # Call query method with safe parameters
-        result = rag_system.query(prompt, k=3, save_to_storage=False)
-
-        if isinstance(result, dict):
-            answer = result.get("answer", "No answer generated.")
-            sources = result.get("retrieved_documents", [])
-            return answer, sources
-        elif isinstance(result, str):
-            return result, []
-        else:
-            return str(result), []
-
+        return " RAG system does not have query method.", []
+        
     except Exception as e:
-        return f"❌ RAG query error: {str(e)}", []
+        return f" RAG query error: {str(e)[:100]}", []
+
+def get_similarity_color(similarity: float):
+    """Get CSS class for similarity score"""
+    if similarity >= 0.7:
+        return "similarity-high"
+    elif similarity >= 0.4:
+        return "similarity-medium"
+    else:
+        return "similarity-low"
 
 # =====================================================
-# UI COMPONENTS (OPTIMIZED FOR STREAMLIT CLOUD)
+# UI COMPONENTS
+# =====================================================
+
+def render_sidebar():
+    with st.sidebar:
+        st.markdown("##  Model Management")
+        
+        # Model Loading
+        st.markdown("<div class='model-card'>", unsafe_allow_html=True)
+        st.markdown("###   Load Models")
+
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            if st.button(
+                "  Load Lincoln",
+                use_container_width=True,
+                disabled=st.session_state.finetuned_loaded,
+                key="load_finetuned_main",
+            ):
+                with st.spinner("Loading fine-tuned model..."):
+                    model = load_finetuned_model_simple()
+                    if model:
+                        st.session_state.finetuned_model = model
+                        st.session_state.finetuned_loaded = True
+                        st.success("  Model loaded!")
+                    else:
+                        st.error(" Failed to load model")
+                st.rerun()
+
+        with col2:
+            rag_button_text = "  Load RAG"
+            
+            if st.button(
+                rag_button_text,
+                use_container_width=True,
+                disabled=st.session_state.rag_loaded,
+                key="load_rag_main",
+            ):
+                with st.spinner(f"Loading RAG system..."):
+                    rag = load_rag_system_simple()
+                    if rag:
+                        st.session_state.rag_system = rag
+                        st.session_state.rag_loaded = True
+                        st.success("  RAG loaded!")
+                    else:
+                        st.error(" Failed to load RAG")
+                st.rerun()
+
+        st.markdown("</div>", unsafe_allow_html=True)
+
+        # Status
+        st.markdown("<div class='model-card'>", unsafe_allow_html=True)
+        st.markdown("### 🔍 Model Status")
+
+        if st.session_state.finetuned_loaded:
+            st.markdown('<p class="status-loaded">  Fine-tuned Model: LOADED</p>', unsafe_allow_html=True)
+        else:
+            st.markdown('<p class="status-not-loaded"> Fine-tuned Model: NOT LOADED</p>', unsafe_allow_html=True)
+
+        if st.session_state.rag_loaded:
+            st.markdown('<p class="status-loaded">  RAG System: LOADED</p>', unsafe_allow_html=True)
+        else:
+            st.markdown('<p class="status-not-loaded"> RAG System: NOT LOADED</p>', unsafe_allow_html=True)
+
+        st.markdown("</div>", unsafe_allow_html=True)
+
+        # Actions
+        st.markdown("<div class='model-card'>", unsafe_allow_html=True)
+        st.markdown("### ⚡ Actions")
+
+        if st.button("🗑️ Clear Current Chat", use_container_width=True):
+            if st.session_state.current_tab == "Fine-tuned Lincoln":
+                st.session_state.chat_history_finetuned = []
+            elif st.session_state.current_tab == "RAG Document Assistant":
+                if st.session_state.rag_mode == "enhanced":
+                    st.session_state.chat_history_enhanced_rag = []
+                else:
+                    st.session_state.chat_history_rag = []
+            st.rerun()
+
+        if st.button("  Reset All Models", use_container_width=True):
+            for key in ["finetuned_model", "rag_system", "enhanced_rag_system", 
+                       "finetuned_loaded", "rag_loaded", "enhanced_rag_loaded"]:
+                if key in st.session_state:
+                    st.session_state[key] = False if "loaded" in key else None
+            st.success("  Models reset")
+            st.rerun()
+
+        st.markdown("</div>", unsafe_allow_html=True)
+
+        # Info Section
+        st.markdown("<div class='model-card'>", unsafe_allow_html=True)
+        st.markdown("### ℹ️ About")
+        
+        st.markdown("""
+        **Features:**
+        -   Fine-tuned Lincoln conversations
+        -   Document-based research
+        -   Enhanced RAG with re-ranking
+        -   Historical accuracy
+        """)
+        
+        st.markdown("---")
+        st.markdown("**Streamlit Cloud Optimized**")
+        st.markdown("Models load on-demand to save memory")
+        st.markdown("</div>", unsafe_allow_html=True)
+
+# =====================================================
+# CHAT RENDERING FUNCTIONS
 # =====================================================
 
 def render_finetuned_chat():
-    st.markdown("### 🎩 Conversing with President Lincoln")
-
+    st.markdown("###   Conversing with President Lincoln")
+    
     if not st.session_state.finetuned_loaded:
-        st.warning("⚠️ Fine-tuned model not loaded. Click **Load Fine-tuned** in sidebar.")
+        st.warning("  Fine-tuned model not loaded. Click **Load Lincoln** in sidebar.")
         return
-
+    
     # Chat history
     if not st.session_state.chat_history_finetuned:
-        st.info("💡 Start a conversation by asking a question below.")
+        st.info(" Start a conversation by asking a question below.")
+        st.markdown("**Example questions:**")
+        st.markdown("- What were your views on democracy?")
+        st.markdown("- How did you approach the issue of slavery?")
+        st.markdown("- What was your leadership philosophy?")
     else:
         for chat in st.session_state.chat_history_finetuned:
             if chat["role"] == "user":
@@ -331,231 +614,260 @@ def render_finetuned_chat():
                 st.markdown(
                     f'''
                     <div class="finetuned-message">
-                        <span class="badge-finetuned">🎩 FINE-TUNED LINCOLN</span><br>
-                        <strong>🏛️ President Lincoln:</strong><br>
+                        <span class="badge-finetuned">  FINE-TUNED LINCOLN</span><br>
+                        <strong>  President Lincoln:</strong><br>
                         {chat["response"]}
                     </div>
                     ''',
                     unsafe_allow_html=True
                 )
-
+    
     # Input
     st.markdown("---")
     col1, col2 = st.columns([4, 1])
-
+    
     with col1:
         user_input = st.text_input(
             "Type your question:",
             placeholder="Ask President Lincoln about his life, views, or historical context...",
-            key=f"finetuned_input_{len(st.session_state.chat_history_finetuned)}",
+            key=f"finetuned_input_{len(st.session_state.chat_history_finetuned)}_{int(time.time())}",
             label_visibility="collapsed"
         )
-
+    
     with col2:
         st.markdown("<br>", unsafe_allow_html=True)
-        send_button = st.button("**Send**", use_container_width=True, key="send_finetuned")
-        
-        if send_button and user_input and user_input.strip():
-            # Add user message
-            st.session_state.chat_history_finetuned.append({
-                "role": "user",
-                "content": user_input.strip(),
-                "timestamp": datetime.now().isoformat()
-            })
-
-            # Generate response
-            with st.spinner("🎩 President Lincoln is thinking..."):
-                response = generate_finetuned_response(user_input.strip())
-
-            # Add assistant response
-            st.session_state.chat_history_finetuned.append({
-                "role": "assistant",
-                "response": response,
-                "timestamp": datetime.now().isoformat()
-            })
-            st.rerun()
-
+        send_key = f"send_finetuned_{int(time.time())}"
+        if st.button("**Send**", use_container_width=True, key=send_key):
+            if user_input and user_input.strip():
+                # Add user message
+                st.session_state.chat_history_finetuned.append({
+                    "role": "user",
+                    "content": user_input.strip(),
+                    "timestamp": datetime.now().isoformat()
+                })
+                
+                # Generate response
+                with st.spinner("  President Lincoln is thinking..."):
+                    response = generate_finetuned_response(user_input.strip())
+                
+                # Add assistant message
+                st.session_state.chat_history_finetuned.append({
+                    "role": "assistant",
+                    "response": response,
+                    "timestamp": datetime.now().isoformat()
+                })
+                st.rerun()
 
 def render_rag_chat():
-    st.markdown("### 📚 Document-Based Research Assistant")
-
-    if not st.session_state.rag_loaded:
-        st.warning("⚠️ RAG system not loaded. Click **Load RAG** in sidebar.")
-        return
-
-    # Chat history
-    if not st.session_state.chat_history_rag:
-        st.info("📖 Ask a question to search through Lincoln's historical documents.")
+    st.markdown("###   Document-Based Research Assistant")
+    
+    # RAG Mode Selector - Moved here from sidebar
+    st.markdown("---")
+    st.markdown("###   Select RAG Mode")
+    
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        if st.button(
+            "  **Standard RAG**",
+            use_container_width=True,
+            type="primary" if st.session_state.rag_mode == "standard" else "secondary",
+            help="Document-level retrieval with basic similarity search"
+        ):
+            st.session_state.rag_mode = "standard"
+            st.rerun()
+    
+    with col2:
+        if st.button(
+            "  **Enhanced RAG**",
+            use_container_width=True,
+            type="primary" if st.session_state.rag_mode == "enhanced" else "secondary",
+            help="Token-based chunking with cross-encoder re-ranking"
+        ):
+            st.session_state.rag_mode = "enhanced"
+            st.rerun()
+    
+    # Show current mode info
+    if st.session_state.rag_mode == "enhanced":
+        st.markdown("""
+        <div class="info-box">
+          **Enhanced RAG Mode Active**
+        - Token-based chunking for better context
+        - Cross-encoder re-ranking for improved relevance
+        - Comprehensive retrieval metrics
+        </div>
+        """, unsafe_allow_html=True)
     else:
-        for chat in st.session_state.chat_history_rag:
+        st.markdown("""
+        <div class="info-box">
+         **Standard RAG Mode Active**
+        - Document-level retrieval
+        - Basic similarity search
+        - Fast response times
+        </div>
+        """, unsafe_allow_html=True)
+    
+    st.markdown("---")
+    
+    # Check if correct system is loaded
+    if st.session_state.rag_mode == "enhanced":
+        if not st.session_state.enhanced_rag_loaded:
+            st.warning("  Enhanced RAG system not loaded. Click below to load it.")
+            
+            if st.button("  Load Enhanced RAG System", type="primary"):
+                with st.spinner("Loading Enhanced RAG system..."):
+                    rag = load_enhanced_rag_system()
+                    if rag:
+                        st.session_state.enhanced_rag_system = rag
+                        st.session_state.enhanced_rag_loaded = True
+                        st.success("  Enhanced RAG loaded!")
+                        st.rerun()
+                    else:
+                        st.error(" Failed to load Enhanced RAG")
+            return
+        
+        rag_loaded = st.session_state.enhanced_rag_loaded
+        chat_history = st.session_state.chat_history_enhanced_rag
+        badge_class = "badge-rag-enhanced"
+        message_class = "rag-enhanced-message"
+    else:
+        if not st.session_state.rag_loaded:
+            st.warning("  RAG system not loaded. Click **Load RAG** in sidebar.")
+            return
+        
+        rag_loaded = st.session_state.rag_loaded
+        chat_history = st.session_state.chat_history_rag
+        badge_class = "badge-rag"
+        message_class = "rag-message"
+    
+    # Chat history
+    if not chat_history:
+        st.info("📖 Ask a question to search through Lincoln's historical documents.")
+        st.markdown("**Example questions:**")
+        st.markdown("- What did Lincoln say about the Union in 1862?")
+        st.markdown("- Find speeches about emancipation")
+        st.markdown("- Search for letters about military strategy")
+    else:
+        for chat_idx, chat in enumerate(chat_history):
             if chat["role"] == "user":
                 st.markdown(
                     f'<div class="user-message"><strong>👤 You:</strong><br>{chat["content"]}</div>',
                     unsafe_allow_html=True
                 )
             else:
+                badge_text = "  ENHANCED RAG RESPONSE" if st.session_state.rag_mode == "enhanced" else "  DOCUMENT-BASED RESPONSE"
+                
                 st.markdown(
                     f'''
-                    <div class="rag-message">
-                        <span class="badge-rag">📚 DOCUMENT-BASED RESPONSE</span><br>
+                    <div class="{message_class}">
+                        <span class="{badge_class}">{badge_text}</span><br>
                         <strong>📖 Research findings:</strong><br>
                         {chat["response"]}
                     </div>
                     ''',
                     unsafe_allow_html=True
                 )
-
+                
                 # Sources
                 if "sources" in chat and chat["sources"]:
-                    with st.expander(f"📚 View {len(chat['sources'])} source documents"):
+                    with st.expander(f"📄 View {len(chat['sources'])} source documents"):
                         for i, source in enumerate(chat["sources"], 1):
                             if isinstance(source, dict):
                                 source_text = source.get("document", "")
                                 source_name = source.get("metadata", {}).get("type", f"Document {i}")
-                                sim = source.get("similarity_score", None)
+                                date = source.get("metadata", {}).get("date", "")
+                                similarity = source.get("similarity_score", None)
+                                
+                                # Display source
+                                st.markdown(f"###  {source_name}")
+                                
+                                # Metadata row
+                                meta_cols = st.columns([1, 1])
+                                with meta_cols[0]:
+                                    if date:
+                                        st.caption(f" **Date:** {date}")
+                                    if st.session_state.rag_mode == "enhanced" and 'chunk_index' in source:
+                                        st.caption(f" **Chunk:** {source['chunk_index']}")
+                                
+                                with meta_cols[1]:
+                                    if similarity is not None:
+                                        color_class = get_similarity_color(similarity)
+                                        st.markdown(f'<span class="{color_class}">🔍 Similarity: {similarity:.4f}</span>', unsafe_allow_html=True)
+                                    
+                                    if st.session_state.rag_mode == "enhanced" and 'cross_encoder_score' in source:
+                                        ce_score = source.get('cross_encoder_score')
+                                        if ce_score is not None:
+                                            ce_color = "similarity-high" if ce_score > 0.5 else "similarity-medium"
+                                            st.markdown(f'<span class="{ce_color}">🎯 Cross-encoder: {ce_score:.4f}</span>', unsafe_allow_html=True)
+                                
+                                # Show preview - FIXED: Using truly unique keys
+                                preview_length = 500 if st.session_state.rag_mode == "enhanced" else 400
+                                preview = source_text[:preview_length] + ("..." if len(source_text) > preview_length else "")
+                                
+                                # Create a truly unique key with timestamp and chat index
+                                timestamp = int(time.time() * 1000)
+                                unique_key = f"preview_{st.session_state.rag_mode}_{chat_idx}_{i}_{timestamp}"
+                                
+                                st.text_area(
+                                    f"Content preview:", 
+                                    preview, 
+                                    height=150, 
+                                    key=unique_key
+                                )
                             else:
-                                source_text = str(source)
-                                source_name = f"Document {i}"
-                                sim = None
-
-                            st.markdown(f"### 📄 {source_name}")
-                            if sim is not None:
-                                st.caption(f"Similarity: {sim:.4f}")
-                            st.text(source_text[:500] + ("..." if len(source_text) > 500 else ""))
+                                st.text(f"Source {i}: {str(source)[:300]}...")
                             st.markdown("---")
-
+    
     # Input
     st.markdown("---")
     col1, col2 = st.columns([4, 1])
-
+    
     with col1:
+        # Create a unique input key
+        input_key = f"rag_input_{st.session_state.rag_mode}_{len(chat_history)}_{int(time.time())}"
+        placeholder = "Ask complex questions about Lincoln's documents..." if st.session_state.rag_mode == "enhanced" else "Search through Lincoln's historical documents..."
+        
         user_input = st.text_input(
             "Type your question:",
-            placeholder="Search through Lincoln's historical documents...",
-            key=f"rag_input_{len(st.session_state.chat_history_rag)}",
+            placeholder=placeholder,
+            key=input_key,
             label_visibility="collapsed"
         )
-
+    
     with col2:
         st.markdown("<br>", unsafe_allow_html=True)
-        send_button = st.button("**Send**", use_container_width=True, key="send_rag")
+        button_text = "  Analyze" if st.session_state.rag_mode == "enhanced" else "  Search"
+        button_key = f"send_rag_{st.session_state.rag_mode}_{len(chat_history)}_{int(time.time())}"
         
-        if send_button and user_input and user_input.strip():
-            # Add user message
-            st.session_state.chat_history_rag.append({
-                "role": "user",
-                "content": user_input.strip(),
-                "timestamp": datetime.now().isoformat()
-            })
-
-            # Generate response
-            with st.spinner("📚 Searching documents..."):
-                response, sources = generate_rag_response(user_input.strip())
-
-            # Add assistant response
-            st.session_state.chat_history_rag.append({
-                "role": "assistant",
-                "response": response,
-                "sources": sources,
-                "timestamp": datetime.now().isoformat()
-            })
-            st.rerun()
-
-# =====================================================
-# SIDEBAR (STREAMLIT CLOUD OPTIMIZED)
-# =====================================================
-
-def render_sidebar():
-    with st.sidebar:
-        st.markdown("## ⚙️ Model Management")
-        
-        st.markdown("<div class='model-card'>", unsafe_allow_html=True)
-        st.markdown("### 🚀 Load Models")
-
-        col1, col2 = st.columns(2)
-        
-        with col1:
-            if st.button(
-                "🎩 Load Fine-tuned",
-                use_container_width=True,
-                disabled=st.session_state.finetuned_loaded,
-                key="load_finetuned_main",
-            ):
-                with st.spinner("Loading fine-tuned model..."):
-                    model = load_finetuned_model_simple()
-                    if model:
-                        st.session_state.finetuned_model = model
-                        st.session_state.finetuned_loaded = True
-                        st.success("✅ Fine-tuned model loaded!")
-                    else:
-                        st.error("❌ Failed to load fine-tuned model")
+        if st.button(f"**{button_text}**", use_container_width=True, key=button_key):
+            if user_input and user_input.strip():
+                # Determine which chat history to use
+                if st.session_state.rag_mode == "enhanced":
+                    target_history = st.session_state.chat_history_enhanced_rag
+                    spinner_text = "  Analyzing with enhanced retrieval..."
+                else:
+                    target_history = st.session_state.chat_history_rag
+                    spinner_text = "  Searching documents..."
+                
+                # Add user message
+                target_history.append({
+                    "role": "user",
+                    "content": user_input.strip(),
+                    "timestamp": datetime.now().isoformat()
+                })
+                
+                # Generate response
+                with st.spinner(spinner_text):
+                    response, sources = generate_rag_response(user_input.strip(), enhanced=(st.session_state.rag_mode == "enhanced"))
+                
+                # Add assistant message
+                target_history.append({
+                    "role": "assistant",
+                    "response": response,
+                    "sources": sources,
+                    "timestamp": datetime.now().isoformat()
+                })
                 st.rerun()
-
-        with col2:
-            if st.button(
-                "📚 Load RAG",
-                use_container_width=True,
-                disabled=st.session_state.rag_loaded,
-                key="load_rag_main",
-            ):
-                with st.spinner("Loading RAG system..."):
-                    rag = load_rag_system_simple()
-                    if rag:
-                        st.session_state.rag_system = rag
-                        st.session_state.rag_loaded = True
-                        st.success("✅ RAG system loaded!")
-                    else:
-                        st.error("❌ Failed to load RAG system")
-                st.rerun()
-
-        st.markdown("</div>", unsafe_allow_html=True)
-
-        # Status
-        st.markdown("<div class='model-card'>", unsafe_allow_html=True)
-        st.markdown("### 🔍 Model Status")
-
-        if st.session_state.finetuned_loaded:
-            st.markdown('<p class="status-loaded">✅ Fine-tuned Model: LOADED</p>', unsafe_allow_html=True)
-        else:
-            st.markdown('<p class="status-not-loaded">❌ Fine-tuned Model: NOT LOADED</p>', unsafe_allow_html=True)
-
-        if st.session_state.rag_loaded:
-            st.markdown('<p class="status-loaded">✅ RAG System: LOADED</p>', unsafe_allow_html=True)
-        else:
-            st.markdown('<p class="status-not-loaded">❌ RAG System: NOT LOADED</p>', unsafe_allow_html=True)
-
-        st.markdown("</div>", unsafe_allow_html=True)
-
-        # Actions
-        st.markdown("<div class='model-card'>", unsafe_allow_html=True)
-        st.markdown("### ⚡ Actions")
-
-        if st.button("🗑️ Clear Current Chat", use_container_width=True):
-            if st.session_state.current_tab == "Fine-tuned Lincoln":
-                st.session_state.chat_history_finetuned = []
-            else:
-                st.session_state.chat_history_rag = []
-            st.rerun()
-
-        if st.button("🔄 Reset All Models", use_container_width=True):
-            st.session_state.finetuned_model = None
-            st.session_state.rag_system = None
-            st.session_state.finetuned_loaded = False
-            st.session_state.rag_loaded = False
-            st.success("✅ Models reset. Reload to use again.")
-            st.rerun()
-
-        st.markdown("</div>", unsafe_allow_html=True)
-        
-        # Streamlit Cloud Info
-        st.markdown("<div class='model-card'>", unsafe_allow_html=True)
-        st.markdown("### ☁️ Streamlit Cloud Info")
-        st.markdown("""
-        - **Memory**: Models load on-demand
-        - **Storage**: Check for FAISS index files
-        - **Performance**: Responses may be slower
-        """)
-        st.markdown("</div>", unsafe_allow_html=True)
 
 # =====================================================
 # MAIN APP
@@ -564,32 +876,49 @@ def render_sidebar():
 def main():
     load_css()
     init_session_state()
-
+    
+    # Header
     st.markdown("""
     <div class="lincoln-header">
-        <h1>🏛️ Abraham Lincoln AI Assistant</h1>
-        <p>Two Approaches: Fine-tuned Conversation & Document-Based Research</p>
-        <p><small>Streamlit Cloud Compatible Version</small></p>
+        <h1>  Abraham Lincoln AI Assistant</h1>
+        <p>Fine-tuned Conversation & Document Research System</p>
+        <p><small>Streamlit Cloud • Memory Optimized</small></p>
     </div>
     """, unsafe_allow_html=True)
-
-    tab1, tab2 = st.tabs(["🎩 **Fine-tuned Lincoln**", "📚 **RAG Document Assistant**"])
-
-    render_sidebar()
-
+    
+    # System info
+    st.markdown("""
+    <div class="info-box">
+    🔍 **System Features**
+    -   **Fine-tuned Lincoln**: Conversational AI trained on Lincoln's writings
+    -   **RAG Document Assistant**: Search through historical documents
+    -   **Enhanced Mode**: Token-based chunking & cross-encoder re-ranking
+    </div>
+    """, unsafe_allow_html=True)
+    
+    # Create tabs
+    tab1, tab2 = st.tabs([
+        "  **Fine-tuned Lincoln**", 
+        "  **RAG Document Assistant**"
+    ])
+    
     with tab1:
         st.session_state.current_tab = "Fine-tuned Lincoln"
         render_finetuned_chat()
-
+    
     with tab2:
         st.session_state.current_tab = "RAG Document Assistant"
         render_rag_chat()
-
+    
+    # Sidebar
+    render_sidebar()
+    
+    # Footer
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #666; font-size: 0.9rem; padding: 2rem 0;">
         <p><strong>Abraham Lincoln AI Assistant</strong> • Historical AI Research Project</p>
-        <p><small>Deployed on Streamlit Cloud • Models load on-demand</small></p>
+        <p><small>Fine-tuned Qwen 1.5 + Enhanced RAG System • Built with Streamlit</small></p>
     </div>
     """, unsafe_allow_html=True)
 

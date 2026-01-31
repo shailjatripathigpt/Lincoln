@@ -1,0 +1,834 @@
+{
+  "timestamp": "2026-01-31 12:06:36",
+  "system_info": {
+    "index_type": "FlatL2",
+    "total_chunks": 2030,
+    "embedding_dimension": 384,
+    "chunker": "gpt-3.5-turbo",
+    "reranker": "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  },
+  "summary_metrics": {
+    "query_count": 3,
+    "average_precision_at_1": 0.0,
+    "average_precision_at_3": 0.0,
+    "average_precision_at_5": 0.0,
+    "mean_average_precision": 0.0,
+    "mean_reciprocal_rank": 0.0,
+    "hit_rate_at_5": 0.0,
+    "average_similarity": 0.5615249276161194,
+    "average_response_time": 0.28817129135131836,
+    "retrieval_effectiveness": 0.0
+  },
+  "detailed_results": [
+    {
+      "query": "What was Lincoln's view on slavery?",
+      "response": {
+        "query": "What was Lincoln's view on slavery?",
+        "answer": "Based on documents from Abraham Lincoln's collection (Debate (1858-10-15), Speech (1858-09-13), Debate (1858-10-15)), the historical record indicates: Did not disunion raise its monster head during thelast war with Great Britain The peace of this country has been disturbed three times, once during the war withGreat Britain, once on the tariff question, and once on the slavery question (\"Three cheers for Douglas\") His argument, therefore, that slavery is the only question that has ever created dissension in the Union falls to the ground. This information is drawn directly from primary sources dating from 1858-10-15 to provide accurate historical context. [Sources: Debate (1858-10-15), Speech (1858-09-13)]",
+        "retrieved_documents": [
+          {
+            "id": "D201122c_chunk_8",
+            "document": "Lincoln? Did not disunion raise its monster head during thelast war with Great Britain? Was that the slavery question, Mr. Lincoln? The peace of this country has been\n\ndisturbed three times, once during the war withGreat Britain, once on the tariff question, and once on the slavery question. (\"Three cheers for\n\nDouglas\") His argument, therefore, that slavery is the only question that has ever\n\ncreated dissension in the Union falls to the ground. It is true that agitators are\n\nenabled now to use this slavery question for the purpose of sectional strife. (“That’s\n\nso.”) He admits that in regard to all things else, the principle that I advocate,\n\nmaking each State and territory free to decide for itself ought to prevail. He instances\n\ncranberry laws, and the oyster laws, and he might have gone though the whole list with the same effect. I say that all these laws are local and domestic,\n\nand that local and domestic concerns should be left to each State and each territory\n\nto manage for itself. If agitators would acquiesce in that principle, there never\n\nwould be any danger to the peace and harmony of this Union. (“That’s so,” and cheers.) Mr. Lincoln tries to avoid the main issues by attacking the truth of my proposition,\n\nthat our fathers made this government divided into free and slave States, recognizing\n\nthat the right of each to decide all its local questions for itself. Did they not\n\nthus make it? It is true that they did not establish slavery in any of the States,\n\nor abolish it in any of them; but finding thirteen States twelve of which were slave\n\nand one free, they agreed to form a government uniting them together, as they stoo divided into free and slave States, and to guarantee forever to each State the right\n\nto do as it pleased on the slavery question. (Cheers.) Having thus made the government,\n\nand conferred this right upon each State forever, I assert that this government can\n\nexist as they made it, divided into free and slave States, if any one State chooses\n\nto retain slavery. (Cheers.) He says that he looks forward to a time when slavery\n\nshall be abolished everywhere. I look forward to a time when each State shall be\n\nallowed to do as it pleases. If it chooses to keep slavery forever, it is not my\n\nbusiness, but its own; if it chooses to abolish slavery, it is its own business—not\n\nmine. I care more for the great principle of self-government, the right of the people\n\nto rule, that I do for all the negroes in Christendom. (Cheers.) I would not endanger\n\nthe perpetuity of this Union. I would not blot out the great inalienable rights of\n\nthe white men for all the negroes that ever existed. (Renewed applause.) Hence, I\n\nsay, let us maintain this government on the principles that our fathers made it, recognizing\n\nthe right of each State to keep slavery as long as it people determine, or to abolish\n\nit when they please. (Cheers.) But Mr. Lincoln says that when our fathers made this\n\ngovernment they did not look forward to the state of things now existing; and therefore\n\nhe thinks the doctrine was wrong; and he quotes Brooks, of South Carolina, to prove\n\nthat our fathers then thought that probably slavery would be abolished, by each State\n\nacting for itself before this time. Suppose they did; suppose they did not foresee\n\nwhat has occurred,—does that change the principles of our government? They did not\n\nprobably foresee the telegraph that transmits intelligence by lightning, nor did they\n\nforesee the railroads that now form the bonds of union between the different States,\n\nor the thousand mechanical inventions that have elevated mankind. But do these things\n\nchange the principles of the government? Our fathers, I say, made this government\n\non the principle of the right of each State to do as it pleases in its own domestic\n\naffairs, subject to the constitution, and allowed the people of each to apply to every\n\nnew change of circumstance such remedy as they may see fit to improve their condition.\n\nThis right they have for all time to come. (Cheers.) Mr. Lincoln went on to tell you that he does not at all de ire to interfere with slavery in the States where it exists, nor does his party. I expected\n\nhim to say that down here. (Laughter.) Let me ask him then how he is going to put\n\nslavery in the course of ultimate extinction everywhere, if he does not intend to\n\ninterfere with it in the States where it exists? (Renewed laughter.) He says that\n\nhe will prohibit it in all territories, and the inference is then that unless they\n\nmake free States out of them he will keep them out of the Union; for, mark you, he\n\ndid not say whether or not he would vote to admit Kansas with slavery or not, as her\n\npeople might apply; (he forgot that as usual, &c;) he did not say whether or not he was in favor of bringing the territories now in\n\nexistence into the Union on the principle of Clay’s compromise measures on the slavery\n\nquestion. I told you that he would not. (Give it to him, he deserves it, &c.) His idea is that he will prohibit slavery in all the territories, and thus force\n\nthem all to become free States, surrounding the slave States with a cordon of free\n\nStates, and hemming them in, keeping the slaves confined to their present limits whilst\n\nthey go on multiplying until the soil on which they live will no longer feed them,\n\nand he will thus be able to put slavery in the course of ultimate extinction by starvation.\n\n(Cheers.) He will extinguish slavery in the Southern States as the French general\n\nexterminated the Algerines when he smoked them out. He is going to extinguish slavery\n\nby surrounding the slave States, hemming in the slaves, and starving them out of existence\n\nas you smoke a fix out of his hole. And he intends to do that in the name of humanity\n\nand Christianity, in order that we may get rid of the terrible crime and sin entailed\n\nupon our fathers of holding slaves. (Laughter and cheers). Mr. Lincoln makes out\n\nthat line of policy, and appeals to the moral sense of justice, and to the Christian\n\nfeeling of the community to sustain him. He says that any man who holds to the contrary\n\ndoctrine is in the position of the king who claimed to govern by divine right. Let\n\nus examine for a moment and see what principle it was that overthrew the divine right\n\nofGeorge the Thirdto govern us. Did not these colonies rebel because theBritish parliamenthad no right to pass laws concerning our property and domestic and private institutions\n\nwithout our consent? We demanded that the British government should not pass such\n\nlaws unless they gave us representation in the body passing them,—and this the British\n\ngovernment insisting on doing,—we went towar, on the principle that the home government should not control and govern distant\n\ncolonies without giving them a representation. Now, Mr. Lincoln proposes to govern\n\nthe territories without giving the people a representation, and calls on Congress\n\nto pass laws controlling their property and domestic concerns without their consent\n\nand against their will. Thus, he asserts for his party the identical principle asserted\n\nby George III and the tories of theRevolution. (Cheers.) I ask you to look into these things, and then to tell me whether the democracy or\n\nthe abolitionists are right. I hold that the people of a territory, like those of\n\na States, (I use the language of Mr. Buchanan in his letter of acceptance,) have the\n\nright to decide for themselves whether slavery shall or shall not exist within their\n\nlimits. (“That’s the idea,” “Hurrah for Douglas.”) They point upon which Chief Justice\n\nTaney expresses his opinion is simply this, that slaves being property, stand on an\n\nequal footing with other property, and consequently that the owner has the same right\n\nto carry that property into a territory that he has any other, subject to the same\n\nconditions. Suppose that one of your merchants was to take fifty or one hundred thousand\n\ndollars worth of liquors to Kansas. He has a right to go there under that decision,\n\nbut when he gets there he finds the Maine liquor law in force, and what can he do\n\nwith his property after he gets it there? He cannot sell it, he cannot use it, it\n\nis subject to the local law, and that law is against him, and the best thing he can\n\ndo with it is to bring it back into Missouri or Illinois and sell it. If you take\n\nnegroes to Kansas, as Col. Jeff. Davis said in his Bangor speech, from which I have quoted to-day, you must take them\n\nthere subject to local law. If the people want the institution of slavery they will\n\nprotect and encourage it; but if they do not want it they will withhold that protection,\n\nand the absence of local legislation protecting slavery excludes it as completely\n\nas a positive prohibition. (“That’s so, and cheers.) You slaveholders of Missouri\n\nmight as well understand what you know practically, that you cannot carry slavery\n\nwhere the people do not want it. (“That’s so.”) All you have a right to ask is that\n\nthe people shall do as they please; if they want slavery let them have it; if they\n\ndo not want it, allow them to refuse to encourage it. My friends, if, as I have said before, we will only live up to this great fundamental\n\nprinciple there will be peace between the North and the South. Mr. Lincoln admits t at under the constitution on all domestic questions, except slavery, we ought not to\n\ninterfere with the people of each State. What right have we to interfere with slavery\n\nany more than we have to interfere with any other question. He says that this slavery\n\nquestion is now the bone of contention. Why? Simply because agitators have combined\n\nin all the free States to make war upon it. Suppose the agitators in the States should\n\ncombine in one-half of the Union to make war upon the railroad system of the other\n\nhalf? They would thus be driven to the same sectional strife. Suppose one section\n\nmakes war upon any other peculiar institution of the opposite section, and the same\n\nstrife is produced. They only remedy and safety is that we shall stand by the constitution\n\nas our fathers made it, obey the laws, as they are passed, while they stand the proper\n\ntest and sustain the decisions of the Supreme Court and the constituted authorities. Senator Douglas’ half hour here expired. For some minutes after he concluded, the\n\napplause was perfectly deafening and overwhelming. He seemed to have carried his\n\nvast auditory entirely with him, in sympathy and feeling, for their enthusiasm was\n\nboundless.",
+            "text": "Lincoln? Did not disunion raise its monster head during thelast war with Great Britain? Was that the slavery question, Mr. Lincoln? The peace of this country has been\n\ndisturbed three times, once during the war withGreat Britain, once on the tariff question, and once on the slavery question. (\"Three cheers for\n\nDouglas\") His argument, therefore, that slavery is the only question that has ever\n\ncreated dissension in the Union falls to the ground. It is true that agitators are\n\nenabled now to use this slavery question for the purpose of sectional strife. (“That’s\n\nso.”) He admits that in regard to all things else, the principle that I advocate,\n\nmaking each State and territory free to decide for itself ought to prevail. He instances\n\ncranberry laws, and the oyster laws, and he might have gone though the whole list with the same effect. I say that all these laws are local and domestic,\n\nand that local and domestic concerns should be left to each State and each territory\n\nto manage for itself. If agitators would acquiesce in that principle, there never\n\nwould be any danger to the peace and harmony of this Union. (“That’s so,” and cheers.) Mr. Lincoln tries to avoid the main issues by attacking the truth of my proposition,\n\nthat our fathers made this government divided into free and slave States, recognizing\n\nthat the right of each to decide all its local questions for itself. Did they not\n\nthus make it? It is true that they did not establish slavery in any of the States,\n\nor abolish it in any of them; but finding thirteen States twelve of which were slave\n\nand one free, they agreed to form a government uniting them together, as they stoo divided into free and slave States, and to guarantee forever to each State the right\n\nto do as it pleased on the slavery question. (Cheers.) Having thus made the government,\n\nand conferred this right upon each State forever, I assert that this government can\n\nexist as they made it, divided into free and slave States, if any one State chooses\n\nto retain slavery. (Cheers.) He says that he looks forward to a time when slavery\n\nshall be abolished everywhere. I look forward to a time when each State shall be\n\nallowed to do as it pleases. If it chooses to keep slavery forever, it is not my\n\nbusiness, but its own; if it chooses to abolish slavery, it is its own business—not\n\nmine. I care more for the great principle of self-government, the right of the people\n\nto rule, that I do for all the negroes in Christendom. (Cheers.) I would not endanger\n\nthe perpetuity of this Union. I would not blot out the great inalienable rights of\n\nthe white men for all the negroes that ever existed. (Renewed applause.) Hence, I\n\nsay, let us maintain this government on the principles that our fathers made it, recognizing\n\nthe right of each State to keep slavery as long as it people determine, or to abolish\n\nit when they please. (Cheers.) But Mr. Lincoln says that when our fathers made this\n\ngovernment they did not look forward to the state of things now existing; and therefore\n\nhe thinks the doctrine was wrong; and he quotes Brooks, of South Carolina, to prove\n\nthat our fathers then thought that probably slavery would be abolished, by each State\n\nacting for itself before this time. Suppose they did; suppose they did not foresee\n\nwhat has occurred,—does that change the principles of our government? They did not\n\nprobably foresee the telegraph that transmits intelligence by lightning, nor did they\n\nforesee the railroads that now form the bonds of union between the different States,\n\nor the thousand mechanical inventions that have elevated mankind. But do these things\n\nchange the principles of the government? Our fathers, I say, made this government\n\non the principle of the right of each State to do as it pleases in its own domestic\n\naffairs, subject to the constitution, and allowed the people of each to apply to every\n\nnew change of circumstance such remedy as they may see fit to improve their condition.\n\nThis right they have for all time to come. (Cheers.) Mr. Lincoln went on to tell you that he does not at all de ire to interfere with slavery in the States where it exists, nor does his party. I expected\n\nhim to say that down here. (Laughter.) Let me ask him then how he is going to put\n\nslavery in the course of ultimate extinction everywhere, if he does not intend to\n\ninterfere with it in the States where it exists? (Renewed laughter.) He says that\n\nhe will prohibit it in all territories, and the inference is then that unless they\n\nmake free States out of them he will keep them out of the Union; for, mark you, he\n\ndid not say whether or not he would vote to admit Kansas with slavery or not, as her\n\npeople might apply; (he forgot that as usual, &c;) he did not say whether or not he was in favor of bringing the territories now in\n\nexistence into the Union on the principle of Clay’s compromise measures on the slavery\n\nquestion. I told you that he would not. (Give it to him, he deserves it, &c.) His idea is that he will prohibit slavery in all the territories, and thus force\n\nthem all to become free States, surrounding the slave States with a cordon of free\n\nStates, and hemming them in, keeping the slaves confined to their present limits whilst\n\nthey go on multiplying until the soil on which they live will no longer feed them,\n\nand he will thus be able to put slavery in the course of ultimate extinction by starvation.\n\n(Cheers.) He will extinguish slavery in the Southern States as the French general\n\nexterminated the Algerines when he smoked them out. He is going to extinguish slavery\n\nby surrounding the slave States, hemming in the slaves, and starving them out of existence\n\nas you smoke a fix out of his hole. And he intends to do that in the name of humanity\n\nand Christianity, in order that we may get rid of the terrible crime and sin entailed\n\nupon our fathers of holding slaves. (Laughter and cheers). Mr. Lincoln makes out\n\nthat line of policy, and appeals to the moral sense of justice, and to the Christian\n\nfeeling of the community to sustain him. He says that any man who holds to the contrary\n\ndoctrine is in the position of the king who claimed to govern by divine right. Let\n\nus examine for a moment and see what principle it was that overthrew the divine right\n\nofGeorge the Thirdto govern us. Did not these colonies rebel because theBritish parliamenthad no right to pass laws concerning our property and domestic and private institutions\n\nwithout our consent? We demanded that the British government should not pass such\n\nlaws unless they gave us representation in the body passing them,—and this the British\n\ngovernment insisting on doing,—we went towar, on the principle that the home government should not control and govern distant\n\ncolonies without giving them a representation. Now, Mr. Lincoln proposes to govern\n\nthe territories without giving the people a representation, and calls on Congress\n\nto pass laws controlling their property and domestic concerns without their consent\n\nand against their will. Thus, he asserts for his party the identical principle asserted\n\nby George III and the tories of theRevolution. (Cheers.) I ask you to look into these things, and then to tell me whether the democracy or\n\nthe abolitionists are right. I hold that the people of a territory, like those of\n\na States, (I use the language of Mr. Buchanan in his letter of acceptance,) have the\n\nright to decide for themselves whether slavery shall or shall not exist within their\n\nlimits. (“That’s the idea,” “Hurrah for Douglas.”) They point upon which Chief Justice\n\nTaney expresses his opinion is simply this, that slaves being property, stand on an\n\nequal footing with other property, and consequently that the owner has the same right\n\nto carry that property into a territory that he has any other, subject to the same\n\nconditions. Suppose that one of your merchants was to take fifty or one hundred thousand\n\ndollars worth of liquors to Kansas. He has a right to go there under that decision,\n\nbut when he gets there he finds the Maine liquor law in force, and what can he do\n\nwith his property after he gets it there? He cannot sell it, he cannot use it, it\n\nis subject to the local law, and that law is against him, and the best thing he can\n\ndo with it is to bring it back into Missouri or Illinois and sell it. If you take\n\nnegroes to Kansas, as Col. Jeff. Davis said in his Bangor speech, from which I have quoted to-day, you must take them\n\nthere subject to local law. If the people want the institution of slavery they will\n\nprotect and encourage it; but if they do not want it they will withhold that protection,\n\nand the absence of local legislation protecting slavery excludes it as completely\n\nas a positive prohibition. (“That’s so, and cheers.) You slaveholders of Missouri\n\nmight as well understand what you know practically, that you cannot carry slavery\n\nwhere the people do not want it. (“That’s so.”) All you have a right to ask is that\n\nthe people shall do as they please; if they want slavery let them have it; if they\n\ndo not want it, allow them to refuse to encourage it. My friends, if, as I have said before, we will only live up to this great fundamental\n\nprinciple there will be peace between the North and the South. Mr. Lincoln admits t at under the constitution on all domestic questions, except slavery, we ought not to\n\ninterfere with the people of each State. What right have we to interfere with slavery\n\nany more than we have to interfere with any other question. He says that this slavery\n\nquestion is now the bone of contention. Why? Simply because agitators have combined\n\nin all the free States to make war upon it. Suppose the agitators in the States should\n\ncombine in one-half of the Union to make war upon the railroad system of the other\n\nhalf? They would thus be driven to the same sectional strife. Suppose one section\n\nmakes war upon any other peculiar institution of the opposite section, and the same\n\nstrife is produced. They only remedy and safety is that we shall stand by the constitution\n\nas our fathers made it, obey the laws, as they are passed, while they stand the proper\n\ntest and sustain the decisions of the Supreme Court and the constituted authorities. Senator Douglas’ half hour here expired. For some minutes after he concluded, the\n\napplause was perfectly deafening and overwhelming. He seemed to have carried his\n\nvast auditory entirely with him, in sympathy and feeling, for their enthusiasm was\n\nboundless.",
+            "metadata": {
+              "date": "1858-10-15",
+              "authors": [
+                "Lincoln, Abraham (President)"
+              ],
+              "keywords": [],
+              "type": "Debate",
+              "extracted_date": "1850",
+              "extracted_type": "legal",
+              "extracted_keywords": [
+                "general",
+                "freedom",
+                "union",
+                "slavery",
+                "nation",
+                "government",
+                "war",
+                "duty",
+                "country",
+                "president",
+                "army",
+                "people",
+                "law",
+                "american",
+                "rights",
+                "public",
+                "states",
+                "congress",
+                "truth",
+                "power",
+                "enemy",
+                "emancipation",
+                "rebel",
+                "soldiers",
+                "principle",
+                "honor",
+                "constitution",
+                "liberty",
+                "authority",
+                "peace",
+                "united",
+                "justice",
+                "not"
+              ],
+              "length_category": "long",
+              "document_id": "D201122c",
+              "filename": "D201122c.json"
+            },
+            "similarity_score": 0.5950016975402832,
+            "distance": 0.680667519569397,
+            "chunk_index": 8,
+            "document_id": "D201122c",
+            "cross_encoder_score": 1.9758177995681763
+          },
+          {
+            "id": "D201103_chunk_0",
+            "document": "Summary of Speech at Greenville, Illinois, 13 September 18581 According to his appointment, Hon.A.Lincolndelivered a speech inGreenvilleon Monday the 13th inst.—2The most of our readers were present and heard it, and we have reason to believe,\n\nwere highly pleased with it. It was clear, logical, argumentative, eloquent, powerful\n\nand convincing. In a most able manner did Mr. Lincoln clear up and refute the charges\n\nthat he was anAbolitionistand an Amalgamationist, and in favor of placing negroes upon a social and political\n\nquality with the whites.3He asserted positively, and proved conclusively by his former acts and speeches\n\nthat he was not in favor of interfering with slavery in the States where it exists,\n\nnor ever had been. That he was not even in favor of abolishing slavery in theDistrict of Columbia, unless a majority of the people of the District should be in favor of it, and remuneration\n\nshould be made to masters who might be unwilling to give up their slaves without compensation;\n\nand even then he would want it done gradually.4He also showed clearly, what nobody but theDemocratsdeny, that slavery is a great moral, social, and political evil, and was so looked\n\nupon by all the fathers of the Government—that the institution was considered a foul\n\nblot on the Nation, which would at some future day be removed. Mr. Lincoln said he\n\nhad always believed as the fathers did, that it would in the course of time be entirely\n\nremoved from our country, until the new policy of nationalizing it had been set on\n\nfoot.—5Since that time he had believed it would either become alike lawful in all the States,\n\nor that eventually, in God’s own good time and way, it would finally disappear. But\n\nwhether it should ever become extinct or not, he was in favor of living up to all\n\nthe guarantees of the Constitution. Whatever constitutional rights the slaveholders\n\nmight have, he was in favor of protecting them. On the other hand, he was opposed to the new doctrine that the Constitution carried\n\nslavery into all the Territories, and protects it there against the wishes of the\n\npeople. It had always, until lately, been held that slavery was a creature of positive\n\nlocal legislation, and did not legally exist anywhere, in the absence of such legislation.\n\nYet he admitted that practically it would exist where there was no legislation in\n\nregard to it; that it had been so planted where ever it has existed. That it would be taken into new Territories, and there permitted\n\nto remain, until legislation would become necessary to protect it, when such legislation\n\nwould be enacted, and it would thereby become legalized.6",
+            "text": "Summary of Speech at Greenville, Illinois, 13 September 18581 According to his appointment, Hon.A.Lincolndelivered a speech inGreenvilleon Monday the 13th inst.—2The most of our readers were present and heard it, and we have reason to believe,\n\nwere highly pleased with it. It was clear, logical, argumentative, eloquent, powerful\n\nand convincing. In a most able manner did Mr. Lincoln clear up and refute the charges\n\nthat he was anAbolitionistand an Amalgamationist, and in favor of placing negroes upon a social and political\n\nquality with the whites.3He asserted positively, and proved conclusively by his former acts and speeches\n\nthat he was not in favor of interfering with slavery in the States where it exists,\n\nnor ever had been. That he was not even in favor of abolishing slavery in theDistrict of Columbia, unless a majority of the people of the District should be in favor of it, and remuneration\n\nshould be made to masters who might be unwilling to give up their slaves without compensation;\n\nand even then he would want it done gradually.4He also showed clearly, what nobody but theDemocratsdeny, that slavery is a great moral, social, and political evil, and was so looked\n\nupon by all the fathers of the Government—that the institution was considered a foul\n\nblot on the Nation, which would at some future day be removed. Mr. Lincoln said he\n\nhad always believed as the fathers did, that it would in the course of time be entirely\n\nremoved from our country, until the new policy of nationalizing it had been set on\n\nfoot.—5Since that time he had believed it would either become alike lawful in all the States,\n\nor that eventually, in God’s own good time and way, it would finally disappear. But\n\nwhether it should ever become extinct or not, he was in favor of living up to all\n\nthe guarantees of the Constitution. Whatever constitutional rights the slaveholders\n\nmight have, he was in favor of protecting them. On the other hand, he was opposed to the new doctrine that the Constitution carried\n\nslavery into all the Territories, and protects it there against the wishes of the\n\npeople. It had always, until lately, been held that slavery was a creature of positive\n\nlocal legislation, and did not legally exist anywhere, in the absence of such legislation.\n\nYet he admitted that practically it would exist where there was no legislation in\n\nregard to it; that it had been so planted where ever it has existed. That it would be taken into new Territories, and there permitted\n\nto remain, until legislation would become necessary to protect it, when such legislation\n\nwould be enacted, and it would thereby become legalized.6",
+            "metadata": {
+              "date": "1858-09-13",
+              "authors": [],
+              "keywords": [
+                "Campaign speeches",
+                "African Americans--Civil rights",
+                "Antislavery movements",
+                "Elections",
+                "Founding Fathers of the United States",
+                "Political campaigns",
+                "Political oratory",
+                "Slavery--Extension to the territories",
+                "United States. Congress. Senate"
+              ],
+              "type": "Speech",
+              "extracted_date": "1858-09-13",
+              "extracted_type": "legal",
+              "extracted_keywords": [
+                "slavery",
+                "nation",
+                "government",
+                "country",
+                "people",
+                "rights",
+                "states",
+                "constitution",
+                "favor",
+                "legislation",
+                "not",
+                "all",
+                "become",
+                "did",
+                "where"
+              ],
+              "length_category": "medium",
+              "document_id": "D201103",
+              "filename": "D201103.json"
+            },
+            "similarity_score": 0.6364864706993103,
+            "distance": 0.5711252689361572,
+            "chunk_index": 0,
+            "document_id": "D201103",
+            "cross_encoder_score": 1.574255108833313
+          },
+          {
+            "id": "D201122b_chunk_8",
+            "document": "They made the Government on the principle I state—the right of the people to do as\n\nthey pleased, and then let the people of each State apply it to each change of condition,\n\nto each improvement, as they may arise in all time to come. (Applause.) Mr. Lincoln\n\ngoes on to tell you that he don’t want to interfere with slavery in the States at\n\nall, nor does his party, I expected that he would say that down here. Let me ask him,\n\nthen, how is he going to put slavery in the condition of ultimate extinction everywhere\n\nin the States, if he is not going to interfere with it in the States. (Applause.)\n\nHe says he will prohibit it in all the Territories, aud the inference is, then, that unless they make it a free State, he will keep them\n\nout. For mark you, he didn’t say whether he would bring Kansas in with slavery or\n\nwithout it as they want. He didn’t say whether he would bring in any new Territory\n\nnow in existence on the principle of Clay’s Compromise of 1850, with or without slavery\n\nas the people want, but I tell you he won’t. (Applause.) His idea is to prohibit slavery\n\nin all the Territories and force them to become free States, and thus surround the\n\nslave States with a cordon of free States, and hem them in, and then let them increase\n\nand multiply until they got so numerous that the soil on which they live wouldn’t\n\nfeed them, thus putting slavery in the process of ultimate extinction by starvation.\n\n(Applause.) He will extinguish slavery in the Southern States as the French General\n\nexterminated the Algerines—by smking them out; and he is going to extinguish slavery by smothering, as you would smoke\n\na fox out of his hole, and do it in the name of humanity and Christianity and in order\n\nto get rid of the terrible crime and sin entailed by our fathers of holding slaves.\n\nThis is the line of policy that he marks out, and appeals to the moral sense and the\n\njustice and the Christian feeling of the North to sustain him. Then he says that those\n\nwho hold the contrary doctrine to him are on the basis of kings who claim a government\n\nby divine right. Let us look for a moment and see on what principle they threw over\n\nthe divine right ofGeorge III. who governed us. Didn’t these colonies rebel on the principle that that theBritish Parliamenthad no right to pass laws concerning our property, and private and domestic institutions,\n\nwithout our consent? They demanded that the British Government should not pass such\n\nlaws unless it gave us a full representation. The British said they would, and we\n\nwent to war on that principle, that the home government should not control or govern\n\nthese territories without representation. (Applause.) Now what is the principle on\n\nwhich he proposes to govern the Territories? Give them no representation, and then\n\ncall upon Congress to pass laws controlling their property and domestic concerns,\n\nwithout their consent, against their will. Thus he asserts for his party the identical\n\nprinciple of the party of George III., and the Tories of the Revolution. (Applause.)\n\nI hold that the people of a Territory like those of a State (I use the language of\n\nMr. Buchanan in his letter of acceptance) have the right to decide for themselves\n\nwhether slavery shall exist within their limits. The point upon which Chief Justice\n\nTaney expressed his opinion was, that slaves being property, stand on an equal footing\n\nwith other property, and consequently the owner has the same right to carry that property\n\ninto a Territory that he has any other, and of course suject to the same conditions. Suppose one of your merchants should take $100,000 worth\n\nof groceries to Kansas. You have a right to go there under the decision, but when\n\nyou get there, you find the Maine Liquor Law in force. You cannot use it—cannot sell\n\nit. It is subject to the local laws, and that law is against you. What can you do\n\nwith it? A Voice.—You would drink it. Judge Douglas.—The best you can do is to bring it back to Illinois and sell it. If you take your\n\nnegroes there, and as Col.Jefferson Davissays in his Bangor speech, you must take them there subject to the local law.3If they want it they will protect and encourage it; if they don’t want it, they will\n\nwithhold that protection. The absence of local legislation excludes it as completely\n\nas postive prohibition. You slaveholders of Missouri understand practically that you cannot\n\ncarry slavery where the people don’t want it, and all that you have a right to ask\n\nis that the people shall do as they please. If they want it, let them have it, and\n\nif they don’t want it, let them refuse to encourage it. No, my friends, if we will only live up to these great fundamental principles, there\n\nwill be peace between the North and the South. Lincoln admits that all the domestic\n\nquestions are left to each State under the Constitution in regard to all other questions\n\nexcept slavery, without the right to interfere with them. What right have we with\n\nslavery any more than with any other? But he says this slavery question is now the\n\nbone of contention. Why? Because agitators are banded together in the free States\n\nto make war on it. Suppose the agitators in all the States in one half of the Union\n\nshould combine to make war upon the railroad system in the other half, you would have\n\nthe same sectional strife. Suppose you should make war upon any other domestic institution,\n\nit would produce the same strife. The only remedy or safety is that we shall stand\n\nby the Constitution as our fathers made it; obey the laws as they are passed, while\n\nthey strnd on the statute book, and sustain the decision of the Supreme Court and the constituted\n\nauthorities as they perform their duties under the Constitution. I am told my time\n\nis up. (Applause.).",
+            "text": "They made the Government on the principle I state—the right of the people to do as\n\nthey pleased, and then let the people of each State apply it to each change of condition,\n\nto each improvement, as they may arise in all time to come. (Applause.) Mr. Lincoln\n\ngoes on to tell you that he don’t want to interfere with slavery in the States at\n\nall, nor does his party, I expected that he would say that down here. Let me ask him,\n\nthen, how is he going to put slavery in the condition of ultimate extinction everywhere\n\nin the States, if he is not going to interfere with it in the States. (Applause.)\n\nHe says he will prohibit it in all the Territories, aud the inference is, then, that unless they make it a free State, he will keep them\n\nout. For mark you, he didn’t say whether he would bring Kansas in with slavery or\n\nwithout it as they want. He didn’t say whether he would bring in any new Territory\n\nnow in existence on the principle of Clay’s Compromise of 1850, with or without slavery\n\nas the people want, but I tell you he won’t. (Applause.) His idea is to prohibit slavery\n\nin all the Territories and force them to become free States, and thus surround the\n\nslave States with a cordon of free States, and hem them in, and then let them increase\n\nand multiply until they got so numerous that the soil on which they live wouldn’t\n\nfeed them, thus putting slavery in the process of ultimate extinction by starvation.\n\n(Applause.) He will extinguish slavery in the Southern States as the French General\n\nexterminated the Algerines—by smking them out; and he is going to extinguish slavery by smothering, as you would smoke\n\na fox out of his hole, and do it in the name of humanity and Christianity and in order\n\nto get rid of the terrible crime and sin entailed by our fathers of holding slaves.\n\nThis is the line of policy that he marks out, and appeals to the moral sense and the\n\njustice and the Christian feeling of the North to sustain him. Then he says that those\n\nwho hold the contrary doctrine to him are on the basis of kings who claim a government\n\nby divine right. Let us look for a moment and see on what principle they threw over\n\nthe divine right ofGeorge III. who governed us. Didn’t these colonies rebel on the principle that that theBritish Parliamenthad no right to pass laws concerning our property, and private and domestic institutions,\n\nwithout our consent? They demanded that the British Government should not pass such\n\nlaws unless it gave us a full representation. The British said they would, and we\n\nwent to war on that principle, that the home government should not control or govern\n\nthese territories without representation. (Applause.) Now what is the principle on\n\nwhich he proposes to govern the Territories? Give them no representation, and then\n\ncall upon Congress to pass laws controlling their property and domestic concerns,\n\nwithout their consent, against their will. Thus he asserts for his party the identical\n\nprinciple of the party of George III., and the Tories of the Revolution. (Applause.)\n\nI hold that the people of a Territory like those of a State (I use the language of\n\nMr. Buchanan in his letter of acceptance) have the right to decide for themselves\n\nwhether slavery shall exist within their limits. The point upon which Chief Justice\n\nTaney expressed his opinion was, that slaves being property, stand on an equal footing\n\nwith other property, and consequently the owner has the same right to carry that property\n\ninto a Territory that he has any other, and of course suject to the same conditions. Suppose one of your merchants should take $100,000 worth\n\nof groceries to Kansas. You have a right to go there under the decision, but when\n\nyou get there, you find the Maine Liquor Law in force. You cannot use it—cannot sell\n\nit. It is subject to the local laws, and that law is against you. What can you do\n\nwith it? A Voice.—You would drink it. Judge Douglas.—The best you can do is to bring it back to Illinois and sell it. If you take your\n\nnegroes there, and as Col.Jefferson Davissays in his Bangor speech, you must take them there subject to the local law.3If they want it they will protect and encourage it; if they don’t want it, they will\n\nwithhold that protection. The absence of local legislation excludes it as completely\n\nas postive prohibition. You slaveholders of Missouri understand practically that you cannot\n\ncarry slavery where the people don’t want it, and all that you have a right to ask\n\nis that the people shall do as they please. If they want it, let them have it, and\n\nif they don’t want it, let them refuse to encourage it. No, my friends, if we will only live up to these great fundamental principles, there\n\nwill be peace between the North and the South. Lincoln admits that all the domestic\n\nquestions are left to each State under the Constitution in regard to all other questions\n\nexcept slavery, without the right to interfere with them. What right have we with\n\nslavery any more than with any other? But he says this slavery question is now the\n\nbone of contention. Why? Because agitators are banded together in the free States\n\nto make war on it. Suppose the agitators in all the States in one half of the Union\n\nshould combine to make war upon the railroad system in the other half, you would have\n\nthe same sectional strife. Suppose you should make war upon any other domestic institution,\n\nit would produce the same strife. The only remedy or safety is that we shall stand\n\nby the Constitution as our fathers made it; obey the laws as they are passed, while\n\nthey strnd on the statute book, and sustain the decision of the Supreme Court and the constituted\n\nauthorities as they perform their duties under the Constitution. I am told my time\n\nis up. (Applause.).",
+            "metadata": {
+              "date": "1858-10-15",
+              "authors": [],
+              "keywords": [],
+              "type": "Debate",
+              "extracted_date": "1850",
+              "extracted_type": "legal",
+              "extracted_keywords": [
+                "general",
+                "freedom",
+                "union",
+                "slavery",
+                "nation",
+                "government",
+                "war",
+                "duty",
+                "country",
+                "president",
+                "army",
+                "people",
+                "law",
+                "american",
+                "rights",
+                "public",
+                "states",
+                "congress",
+                "truth",
+                "power",
+                "enemy",
+                "emancipation",
+                "rebel",
+                "soldiers",
+                "principle",
+                "constitution",
+                "liberty",
+                "authority",
+                "peace",
+                "united",
+                "justice",
+                "not"
+              ],
+              "length_category": "long",
+              "document_id": "D201122b",
+              "filename": "D201122b.json"
+            },
+            "similarity_score": 0.5498578548431396,
+            "distance": 0.8186517953872681,
+            "chunk_index": 8,
+            "document_id": "D201122b",
+            "cross_encoder_score": 0.865739643573761
+          },
+          {
+            "id": "D200917_chunk_0",
+            "document": "Summary of Speech at Bloomington, Illinois, 12 September 18561 Friday night, a largeRepublicanmeeting was held inMajor’s Hall— a considerable number of ladies present among the rest. Hon.A.Lincolnaddressed the audience in a speech of great eloquence and power. He showed up the\n\nposition of theFillmore partyin fine style, both as to its prospects of success, and as to the propriety of supporting\n\na candidate whose greatest recommendation, as urged by his supporters themselves,\n\nis that he isneutralupon the one only great political question of the times.2He pointed out in regular succession, the several steps taken by theAdministrationin regard to slavery in the Territories, from therepeal of the Missouri Compromisedown to the latestBorder Ruffian invasionofKansas, and the inevitable tendency of each and all of them to effect the spread of slavery\n\nover that country; showed the official endorsement of the Administration by theDemocratic partyin theCincinnati Convention, and the openly avowed position of the Southern wing of thepartyon the subject of slavery-extension; contrasting all this with the assertion of our\n\nNorthern Democratic speakers, that they are not in favor of the extension of slavery,\n\nwith a clearness and force we have never heard excelled, and which must have made\n\nthehonestDemocrats, if any such there were present, feel as if they had received an eye-opener.3",
+            "text": "Summary of Speech at Bloomington, Illinois, 12 September 18561 Friday night, a largeRepublicanmeeting was held inMajor’s Hall— a considerable number of ladies present among the rest. Hon.A.Lincolnaddressed the audience in a speech of great eloquence and power. He showed up the\n\nposition of theFillmore partyin fine style, both as to its prospects of success, and as to the propriety of supporting\n\na candidate whose greatest recommendation, as urged by his supporters themselves,\n\nis that he isneutralupon the one only great political question of the times.2He pointed out in regular succession, the several steps taken by theAdministrationin regard to slavery in the Territories, from therepeal of the Missouri Compromisedown to the latestBorder Ruffian invasionofKansas, and the inevitable tendency of each and all of them to effect the spread of slavery\n\nover that country; showed the official endorsement of the Administration by theDemocratic partyin theCincinnati Convention, and the openly avowed position of the Southern wing of thepartyon the subject of slavery-extension; contrasting all this with the assertion of our\n\nNorthern Democratic speakers, that they are not in favor of the extension of slavery,\n\nwith a clearness and force we have never heard excelled, and which must have made\n\nthehonestDemocrats, if any such there were present, feel as if they had received an eye-opener.3",
+            "metadata": {
+              "date": "1856-09-12",
+              "authors": [],
+              "keywords": [
+                "Presidents--Election",
+                "Political campaigns",
+                "Speeches",
+                "Slavery--Extension to the territories"
+              ],
+              "type": "Speech",
+              "extracted_date": "1856-09-12",
+              "extracted_type": "speech",
+              "extracted_keywords": [
+                "slavery",
+                "country",
+                "power",
+                "speech",
+                "present",
+                "great",
+                "showed",
+                "position",
+                "partyin",
+                "all",
+                "extension",
+                "they",
+                "summary",
+                "bloomington",
+                "illinois"
+              ],
+              "length_category": "medium",
+              "document_id": "D200917",
+              "filename": "D200917.json"
+            },
+            "similarity_score": 0.5609602332115173,
+            "distance": 0.7826575040817261,
+            "chunk_index": 0,
+            "document_id": "D200917",
+            "cross_encoder_score": 0.4559146761894226
+          },
+          {
+            "id": "D200886_chunk_0",
+            "document": "Summary of Speech at Bloomington, Illinois, 29 May 18561 Abraham Lincoln, ofSangamon, came upon the platform amid deafening applause.He enumerated the pressing reasons of the present movement. He was here ready to\n\nfuse with any one who would unite with him to oppose slave power; spoke of the bugbear disunion which\n\nwas so vaguely threatened. It was to be remembered that theUnion must be preserved in the purity of its principles as well as in the integrity\n\nof its territorial parts. It must be “Liberty and Union, now and forever, one and inseparable.”2The sentiment in favor of white slavery now prevailed in all the slave state papers,\n\nexcept those ofKentucky,TennesseeandMissouriandMaryland.3Such was the progress of theNational Democracy.Douglasonce claimed against him thatDemocracyfavored more than his principles, the individual rights of man. Was it not strange\n\nthat he must stand there now to defend those rights against their former eulogist?4The Black Democracy were endeavoring to citeHenry Clayto reconcile oldWhigsto their doctrine, and repaid them with the very cheap compliment of National Whigs.5",
+            "text": "Summary of Speech at Bloomington, Illinois, 29 May 18561 Abraham Lincoln, ofSangamon, came upon the platform amid deafening applause.He enumerated the pressing reasons of the present movement. He was here ready to\n\nfuse with any one who would unite with him to oppose slave power; spoke of the bugbear disunion which\n\nwas so vaguely threatened. It was to be remembered that theUnion must be preserved in the purity of its principles as well as in the integrity\n\nof its territorial parts. It must be “Liberty and Union, now and forever, one and inseparable.”2The sentiment in favor of white slavery now prevailed in all the slave state papers,\n\nexcept those ofKentucky,TennesseeandMissouriandMaryland.3Such was the progress of theNational Democracy.Douglasonce claimed against him thatDemocracyfavored more than his principles, the individual rights of man. Was it not strange\n\nthat he must stand there now to defend those rights against their former eulogist?4The Black Democracy were endeavoring to citeHenry Clayto reconcile oldWhigsto their doctrine, and repaid them with the very cheap compliment of National Whigs.5",
+            "metadata": {
+              "date": "1856-05-29",
+              "authors": [
+                "Lincoln, Abraham (President)"
+              ],
+              "keywords": [
+                "Campaign speeches",
+                "Elections",
+                "Political campaigns",
+                "Political conventions",
+                "Political oratory"
+              ],
+              "type": "Speech",
+              "extracted_date": "1856-05-29",
+              "extracted_type": "letter",
+              "extracted_keywords": [
+                "union",
+                "slavery",
+                "rights",
+                "power",
+                "liberty",
+                "now",
+                "one",
+                "him",
+                "slave",
+                "principles",
+                "those",
+                "democracy",
+                "against",
+                "their",
+                "summary"
+              ],
+              "length_category": "medium",
+              "document_id": "D200886",
+              "filename": "D200886.json"
+            },
+            "similarity_score": 0.5892512202262878,
+            "distance": 0.6970690488815308,
+            "chunk_index": 0,
+            "document_id": "D200886",
+            "cross_encoder_score": 0.12468678504228592
+          }
+        ],
+        "total_retrieved": 5,
+        "top_similarity": 0.5950016975402832,
+        "response_time": 0.2902960777282715,
+        "query_method": "enhanced_with_reranking"
+      },
+      "metrics": {
+        "query": "What was Lincoln's view on slavery?",
+        "retrieved_count": 5,
+        "relevant_count": 0,
+        "response_time": 0.2903139591217041,
+        "precision_at_1": 0.0,
+        "precision_at_3": 0.0,
+        "precision_at_5": 0.0,
+        "recall_at_5": 0.0,
+        "average_similarity": 0.5863114953041076,
+        "hit_at_5": 0.0
+      },
+      "relevant_documents": [],
+      "retrieved_documents_count": 5
+    },
+    {
+      "query": "How did Lincoln describe the Union?",
+      "response": {
+        "query": "How did Lincoln describe the Union?",
+        "answer": "Based on documents from Abraham Lincoln's collection (Speech (1856-07-23), Speech (1856-05-29), Speech (1856-07-23)), the historical record indicates: Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact statement of the present standing position of parties in relation to dissolving the Union of these States Lincoln was addressing himself to the opponents ofFremontand theRepublican party,2and had referred to the charge of “sectionalism,” and then spo. This information is drawn directly from primary sources dating from 1856-07-23 to provide accurate historical context. [Sources: Speech (1856-07-23), Speech (1856-05-29)]",
+        "retrieved_documents": [
+          {
+            "id": "D200899b_chunk_0",
+            "document": "Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion. The following, published from the speech of Hon.Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact statement of the present standing position of parties in relation\n\nto dissolving the Union of these States. Let every voter read it, and think and act\n\nfor himself: Mr. Lincoln was addressing himself to the opponents ofFremontand theRepublican party,2and had referred to the charge of “sectionalism,” and then spoke something as follows\n\nin relation to another charge, and said— “You further charge us with being Disunionists. If you mean that it is our aim to\n\ndissolve the Union, for myself I answer, that is untrue; for those who act with me\n\nI answer, that is untrue. Have you heard us assert that as our aim? Do you really\n\nbelieve that such is our aim? Do you find it in our platform, our speeches, our conversation,\n\nor anywhere? If not withdraw the chaege. “But, you may say, that though it is not your aim, it will be the result, if we succeed,\n\nand that we are therefore Disunionists in fact. This is a grave charge you make against\n\nus, and we certainly have a right to demand that you specify in what way we are to\n\ndissolve the Union. How are we to effect this? “The only specification offered, is volunteered by Mr.Fillmore, in hisAlbanyspeech. His charge is, that if we elect a President and Vice President both from\n\nthe free States, it will dissolve the Union.3This is open folly. The Constitution provides, that the President and Vice President\n\nof the United States shall be of different States; but says nothing as to the latitude\n\nand longitude of those States.4In1828,Andrew JacksonofTennessee, andJohn C. CalhounofSouth Carolina, were elected President and Vice President, both from slave States; but no one thought\n\nof dissolving the Union then, on that account. In1840,HarrisonofOhio, andTylerofVirginiawere elected. In 1841, Harrison died, and John Tyler succeeded to the Presidency,\n\nandWilliam R. KingofAlabama, was elected acting Vice President by theSenate;5but no one supposed that the Union was in danger. In fact, at the very time Mr.\n\nFillmore uttered this idle charge, the state of things in the United States disproved\n\nit. Mr.PierceofNew Hampshire, and Mr.BrightfromIndiana,— both from free States— are President and Vice President; and the Union stands,\n\nandwillstand.6You do not contend that itoughtto dissolve the Union, and the facts show that itwon’t; therefore, the charge may be dismissed without further consideration. “No other specification is made, and the only one that could be made, is, that the\n\nrestoration of the restriction of ’87, making the United States territory free territory, would dissolve the Union. Gentlemen,\n\nit will require a decided majority to pass such an act. We, the majority, being\n\nable constitutionally to do all that we purpose, would have no desire to dissolve\n\nthe Union. Do you say that such restriction of slavery would be unconstitutional\n\nand that some of the States would not submit to its inforcement? I grant you that an unconstitutional act is not a law; but I do not ask and will\n\nnot take your construction of the Constitution. TheSupreme Court of the United Statesis the tribunal to decide such a question, and we will submit to its decisions; and\n\nif you do also, there will be an end of the matter. Will you? If not, who are the\n\ndisunionists, you or we? We, the majority, would not strive to dissolve the Union;\n\nand if any attempt is made it must be by you, who so loudly stigmatize us as disunionists.\n\nBut the Union, in any event, won’t be dissolved. We don’t want to dissolve it, and\n\nif you attempt it,we won’t let you. With the purse and sword, the army and navy and treasury in our hands and at our\n\ncommand, you couldn’t do it. This Government would be very weak, indeed, if a majority,\n\nwith a disciplined army and navy, and a well filled treasury, could not preserve itself,\n\nwhen attacked by an unarmed, undisciplined, unorganized manority. “All this talk about the dissolution of the Union is humbug—nothing but folly. We\n\ndo not want to dissolve the Union—you shall not.7",
+            "text": "Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion. The following, published from the speech of Hon.Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact statement of the present standing position of parties in relation\n\nto dissolving the Union of these States. Let every voter read it, and think and act\n\nfor himself: Mr. Lincoln was addressing himself to the opponents ofFremontand theRepublican party,2and had referred to the charge of “sectionalism,” and then spoke something as follows\n\nin relation to another charge, and said— “You further charge us with being Disunionists. If you mean that it is our aim to\n\ndissolve the Union, for myself I answer, that is untrue; for those who act with me\n\nI answer, that is untrue. Have you heard us assert that as our aim? Do you really\n\nbelieve that such is our aim? Do you find it in our platform, our speeches, our conversation,\n\nor anywhere? If not withdraw the chaege. “But, you may say, that though it is not your aim, it will be the result, if we succeed,\n\nand that we are therefore Disunionists in fact. This is a grave charge you make against\n\nus, and we certainly have a right to demand that you specify in what way we are to\n\ndissolve the Union. How are we to effect this? “The only specification offered, is volunteered by Mr.Fillmore, in hisAlbanyspeech. His charge is, that if we elect a President and Vice President both from\n\nthe free States, it will dissolve the Union.3This is open folly. The Constitution provides, that the President and Vice President\n\nof the United States shall be of different States; but says nothing as to the latitude\n\nand longitude of those States.4In1828,Andrew JacksonofTennessee, andJohn C. CalhounofSouth Carolina, were elected President and Vice President, both from slave States; but no one thought\n\nof dissolving the Union then, on that account. In1840,HarrisonofOhio, andTylerofVirginiawere elected. In 1841, Harrison died, and John Tyler succeeded to the Presidency,\n\nandWilliam R. KingofAlabama, was elected acting Vice President by theSenate;5but no one supposed that the Union was in danger. In fact, at the very time Mr.\n\nFillmore uttered this idle charge, the state of things in the United States disproved\n\nit. Mr.PierceofNew Hampshire, and Mr.BrightfromIndiana,— both from free States— are President and Vice President; and the Union stands,\n\nandwillstand.6You do not contend that itoughtto dissolve the Union, and the facts show that itwon’t; therefore, the charge may be dismissed without further consideration. “No other specification is made, and the only one that could be made, is, that the\n\nrestoration of the restriction of ’87, making the United States territory free territory, would dissolve the Union. Gentlemen,\n\nit will require a decided majority to pass such an act. We, the majority, being\n\nable constitutionally to do all that we purpose, would have no desire to dissolve\n\nthe Union. Do you say that such restriction of slavery would be unconstitutional\n\nand that some of the States would not submit to its inforcement? I grant you that an unconstitutional act is not a law; but I do not ask and will\n\nnot take your construction of the Constitution. TheSupreme Court of the United Statesis the tribunal to decide such a question, and we will submit to its decisions; and\n\nif you do also, there will be an end of the matter. Will you? If not, who are the\n\ndisunionists, you or we? We, the majority, would not strive to dissolve the Union;\n\nand if any attempt is made it must be by you, who so loudly stigmatize us as disunionists.\n\nBut the Union, in any event, won’t be dissolved. We don’t want to dissolve it, and\n\nif you attempt it,we won’t let you. With the purse and sword, the army and navy and treasury in our hands and at our\n\ncommand, you couldn’t do it. This Government would be very weak, indeed, if a majority,\n\nwith a disciplined army and navy, and a well filled treasury, could not preserve itself,\n\nwhen attacked by an unarmed, undisciplined, unorganized manority. “All this talk about the dissolution of the Union is humbug—nothing but folly. We\n\ndo not want to dissolve the Union—you shall not.7",
+            "metadata": {
+              "date": "1856-07-23",
+              "authors": [
+                "Lincoln, Abraham (President)"
+              ],
+              "keywords": [
+                "Political oratory",
+                "Campaign speeches",
+                "Slavery--Extension to the territories"
+              ],
+              "type": "Speech",
+              "extracted_date": "1841",
+              "extracted_type": "speech",
+              "extracted_keywords": [
+                "union",
+                "slavery",
+                "government",
+                "president",
+                "army",
+                "law",
+                "states",
+                "constitution",
+                "united",
+                "you",
+                "not",
+                "dissolve",
+                "our",
+                "charge",
+                "vice"
+              ],
+              "length_category": "medium",
+              "document_id": "D200899b",
+              "filename": "D200899b.json"
+            },
+            "similarity_score": 0.5325258374214172,
+            "distance": 0.8778431415557861,
+            "chunk_index": 0,
+            "document_id": "D200899b",
+            "cross_encoder_score": 0.05794321000576019
+          },
+          {
+            "id": "D200886_chunk_0",
+            "document": "Summary of Speech at Bloomington, Illinois, 29 May 18561 Abraham Lincoln, ofSangamon, came upon the platform amid deafening applause.He enumerated the pressing reasons of the present movement. He was here ready to\n\nfuse with any one who would unite with him to oppose slave power; spoke of the bugbear disunion which\n\nwas so vaguely threatened. It was to be remembered that theUnion must be preserved in the purity of its principles as well as in the integrity\n\nof its territorial parts. It must be “Liberty and Union, now and forever, one and inseparable.”2The sentiment in favor of white slavery now prevailed in all the slave state papers,\n\nexcept those ofKentucky,TennesseeandMissouriandMaryland.3Such was the progress of theNational Democracy.Douglasonce claimed against him thatDemocracyfavored more than his principles, the individual rights of man. Was it not strange\n\nthat he must stand there now to defend those rights against their former eulogist?4The Black Democracy were endeavoring to citeHenry Clayto reconcile oldWhigsto their doctrine, and repaid them with the very cheap compliment of National Whigs.5",
+            "text": "Summary of Speech at Bloomington, Illinois, 29 May 18561 Abraham Lincoln, ofSangamon, came upon the platform amid deafening applause.He enumerated the pressing reasons of the present movement. He was here ready to\n\nfuse with any one who would unite with him to oppose slave power; spoke of the bugbear disunion which\n\nwas so vaguely threatened. It was to be remembered that theUnion must be preserved in the purity of its principles as well as in the integrity\n\nof its territorial parts. It must be “Liberty and Union, now and forever, one and inseparable.”2The sentiment in favor of white slavery now prevailed in all the slave state papers,\n\nexcept those ofKentucky,TennesseeandMissouriandMaryland.3Such was the progress of theNational Democracy.Douglasonce claimed against him thatDemocracyfavored more than his principles, the individual rights of man. Was it not strange\n\nthat he must stand there now to defend those rights against their former eulogist?4The Black Democracy were endeavoring to citeHenry Clayto reconcile oldWhigsto their doctrine, and repaid them with the very cheap compliment of National Whigs.5",
+            "metadata": {
+              "date": "1856-05-29",
+              "authors": [
+                "Lincoln, Abraham (President)"
+              ],
+              "keywords": [
+                "Campaign speeches",
+                "Elections",
+                "Political campaigns",
+                "Political conventions",
+                "Political oratory"
+              ],
+              "type": "Speech",
+              "extracted_date": "1856-05-29",
+              "extracted_type": "letter",
+              "extracted_keywords": [
+                "union",
+                "slavery",
+                "rights",
+                "power",
+                "liberty",
+                "now",
+                "one",
+                "him",
+                "slave",
+                "principles",
+                "those",
+                "democracy",
+                "against",
+                "their",
+                "summary"
+              ],
+              "length_category": "medium",
+              "document_id": "D200886",
+              "filename": "D200886.json"
+            },
+            "similarity_score": 0.522302508354187,
+            "distance": 0.9145992994308472,
+            "chunk_index": 0,
+            "document_id": "D200886",
+            "cross_encoder_score": 0.020505167543888092
+          },
+          {
+            "id": "D200899_chunk_0",
+            "document": "Report of Speech at Galena, Illinois, 23 July 18561 Lincolnon Disunion. Hon.Abraham Lincolnhits the nail on the head every time, and in this instance it will be seen, he has\n\ndriven it entirely out of sight,— if we succeed as well as we anticipate in re-producing\n\nfrom memory his argument in relation to “Disunion.” Mr.Lincolnwas addressing himself to the opponents ofFremontand theRepublican party,2and had referred to the charge of “sectionalism,” and then spoke something as follows\n\nin relation to another charge, and said: “You further charge us with being Disunionists. If you mean that it is ouraimto dissolve the Union, for myself I answer, that is untrue; for those who act with\n\nme I answer, that it is untrue. Have you heard us assert that as our aim? Do you\n\nreally believe that such is our aim? Do you find it in our platform, our speeches,\n\nour conversation, or anywhere? If not, withdraw the charge. But, you may say, that though it is not youraim, it will be the result, if we succeed, and that we are therefore Disunionists in\n\nfact. This is a grave charge you make against us, and we certainly have a right to\n\ndemand that you specify in what way we are to dissolve the Union. How are we to effect\n\nthis? The only specification offered is volunteered by Mr.Fillmore, in hisAlbanyspeech. His charge is, that if we elect a President and Vice President both from\n\nthe Free States, it will dissolve the Union.3This is open folly. The Constitution provides, that the President and Vice President\n\nof the United States shall be of different States; but says nothing as to the latitude\n\nand longitude of those States4In1828,Andrew JacksonofTennesse, andJohn C. CalhounofSouth Carolina, were elected President and Vice President, both from slave States; but no one thought\n\nof dissolving the Union then, on that account. In1840,HarrisonofOhio, andTylerofVirginia, were elected. In 1849, Harrison died,5and John Tyler succeeded to the Presidency, andW. P. Mangum, ofN. Carolina, was elected Acting Vice President by theSenate;6but no one supposed that the Union was in danger. In fact, at the very time Mr.\n\nFillmore uttered this idle charge, the state of things in the United States disproved\n\nit. MrPierceofNew Hampshire, and MrBrightofIndiana,— both from free States,— are President and Vice President; and the Union stands,\n\nandwillstand.7You do not contend that itoughtto dissolve the Union, and the facts show that itwon’t; therefore, the charge may be dismissed without further consideration. No other specification is made, and the only one that could be made is, that the restoration\n\nof the restriction of ‘87, making the United States territory free territory, would dissolve the Union. Gentlemen,\n\nit will require a decided majority to pass such an act. We the majority, being able\n\nconstitutionally to do all that we purpose, would have no desire to dissolve the UnionDo you say that such restriction of slavery would be unconstitutional and that some\n\nof the States would not submit to its enforcement? I grant you that an unconstitutional\n\nact is not a law; but I do not ask, and will not take your construction of the Constitution.\n\nTheSupreme Court of the United Statesis the tribunal to decide such questions, and we will submit to its decisions; and\n\nif you do also, there will be an end of the matter. Will you? If not, who are the\n\ndisunionists, you or we? We, the majority, would not strive to dissolve the Union;\n\nand if any attempt is made it must be byyou, who so loudly stigmatize us as disunionists. But the Union, in any event, won’t\n\nbe dissolvedWe don’t want to dissolve it, and if you attempt it,we won’t let you. With the purse and sword, the army and navy and treasury in our hands and at our\n\ncommand, you couldn’t do it. This Government would be very weak, indeed, if a majority,\n\nwith a disciplined army and navy, and a well-filled treasury, could not preserve itself,\n\nwhen attacked by an unarmed, undisciplined, unorganized minority All this talk about the dissolution of the Union is humbug— nothing but folly.Wewon’tdissolve the Union, andyoushan’t.”8",
+            "text": "Report of Speech at Galena, Illinois, 23 July 18561 Lincolnon Disunion. Hon.Abraham Lincolnhits the nail on the head every time, and in this instance it will be seen, he has\n\ndriven it entirely out of sight,— if we succeed as well as we anticipate in re-producing\n\nfrom memory his argument in relation to “Disunion.” Mr.Lincolnwas addressing himself to the opponents ofFremontand theRepublican party,2and had referred to the charge of “sectionalism,” and then spoke something as follows\n\nin relation to another charge, and said: “You further charge us with being Disunionists. If you mean that it is ouraimto dissolve the Union, for myself I answer, that is untrue; for those who act with\n\nme I answer, that it is untrue. Have you heard us assert that as our aim? Do you\n\nreally believe that such is our aim? Do you find it in our platform, our speeches,\n\nour conversation, or anywhere? If not, withdraw the charge. But, you may say, that though it is not youraim, it will be the result, if we succeed, and that we are therefore Disunionists in\n\nfact. This is a grave charge you make against us, and we certainly have a right to\n\ndemand that you specify in what way we are to dissolve the Union. How are we to effect\n\nthis? The only specification offered is volunteered by Mr.Fillmore, in hisAlbanyspeech. His charge is, that if we elect a President and Vice President both from\n\nthe Free States, it will dissolve the Union.3This is open folly. The Constitution provides, that the President and Vice President\n\nof the United States shall be of different States; but says nothing as to the latitude\n\nand longitude of those States4In1828,Andrew JacksonofTennesse, andJohn C. CalhounofSouth Carolina, were elected President and Vice President, both from slave States; but no one thought\n\nof dissolving the Union then, on that account. In1840,HarrisonofOhio, andTylerofVirginia, were elected. In 1849, Harrison died,5and John Tyler succeeded to the Presidency, andW. P. Mangum, ofN. Carolina, was elected Acting Vice President by theSenate;6but no one supposed that the Union was in danger. In fact, at the very time Mr.\n\nFillmore uttered this idle charge, the state of things in the United States disproved\n\nit. MrPierceofNew Hampshire, and MrBrightofIndiana,— both from free States,— are President and Vice President; and the Union stands,\n\nandwillstand.7You do not contend that itoughtto dissolve the Union, and the facts show that itwon’t; therefore, the charge may be dismissed without further consideration. No other specification is made, and the only one that could be made is, that the restoration\n\nof the restriction of ‘87, making the United States territory free territory, would dissolve the Union. Gentlemen,\n\nit will require a decided majority to pass such an act. We the majority, being able\n\nconstitutionally to do all that we purpose, would have no desire to dissolve the UnionDo you say that such restriction of slavery would be unconstitutional and that some\n\nof the States would not submit to its enforcement? I grant you that an unconstitutional\n\nact is not a law; but I do not ask, and will not take your construction of the Constitution.\n\nTheSupreme Court of the United Statesis the tribunal to decide such questions, and we will submit to its decisions; and\n\nif you do also, there will be an end of the matter. Will you? If not, who are the\n\ndisunionists, you or we? We, the majority, would not strive to dissolve the Union;\n\nand if any attempt is made it must be byyou, who so loudly stigmatize us as disunionists. But the Union, in any event, won’t\n\nbe dissolvedWe don’t want to dissolve it, and if you attempt it,we won’t let you. With the purse and sword, the army and navy and treasury in our hands and at our\n\ncommand, you couldn’t do it. This Government would be very weak, indeed, if a majority,\n\nwith a disciplined army and navy, and a well-filled treasury, could not preserve itself,\n\nwhen attacked by an unarmed, undisciplined, unorganized minority All this talk about the dissolution of the Union is humbug— nothing but folly.Wewon’tdissolve the Union, andyoushan’t.”8",
+            "metadata": {
+              "date": "1856-07-23",
+              "authors": [
+                "Lincoln, Abraham (President)"
+              ],
+              "keywords": [
+                "Political oratory",
+                "Campaign speeches",
+                "Slavery--Extension to the territories"
+              ],
+              "type": "Speech",
+              "extracted_date": "1849",
+              "extracted_type": "speech",
+              "extracted_keywords": [
+                "union",
+                "slavery",
+                "government",
+                "president",
+                "army",
+                "law",
+                "states",
+                "constitution",
+                "united",
+                "you",
+                "not",
+                "charge",
+                "dissolve",
+                "our",
+                "vice"
+              ],
+              "length_category": "medium",
+              "document_id": "D200899",
+              "filename": "D200899.json"
+            },
+            "similarity_score": 0.5236292481422424,
+            "distance": 0.9097481966018677,
+            "chunk_index": 0,
+            "document_id": "D200899",
+            "cross_encoder_score": -0.000783190131187439
+          },
+          {
+            "id": "D200799_chunk_0",
+            "document": "Report of Speech at Bloomington, Illinois, 12 September 18541 Lincoln’s Speech. We had the satisfaction last evening of listening to an address by Hon. A.Lincoln, on the subject that is engaging the attention of the free men of the Union more\n\nthan any political question that has been agitated for some time, viz: TheNebraska Bill.2The speech was clear and unanswerable, for it was a plain statement of facts, and\n\nof sound, strong argument; it was eloquent, for he spoke the deep convictions of truth\n\nfrom a heart warmed with the love of his country, and the love of freedom. The address\n\nwas not only instsuctive, and his argument against theNebraskaoutrage unanswerable, but it was spiced with remarks that were diverting, and at\n\nthe same time gave a deeper felt conviction of the weight of sober argument, for the\n\nspeaker was Hon. A.Lincoln. The speech was judiciously timed and admirably calculated to do good, by portraying\n\nthe nature, and developing the design of the Nebraska Bill, without arousing any ill\n\nfeellng in the breasts of the Northern men against the Southern brethren. Should we attempt\n\nto give a compendium of the speech, we should able to do that, the cause or the speaker, justice. We have notce to give the Speaker’s lucid arguments against the bill. They were irresistible.\n\nIf “Little Giant” had been there, he would have felt all truthof that first half of the appellation, and reallthat he was the contof the latter half.",
+            "text": "Report of Speech at Bloomington, Illinois, 12 September 18541 Lincoln’s Speech. We had the satisfaction last evening of listening to an address by Hon. A.Lincoln, on the subject that is engaging the attention of the free men of the Union more\n\nthan any political question that has been agitated for some time, viz: TheNebraska Bill.2The speech was clear and unanswerable, for it was a plain statement of facts, and\n\nof sound, strong argument; it was eloquent, for he spoke the deep convictions of truth\n\nfrom a heart warmed with the love of his country, and the love of freedom. The address\n\nwas not only instsuctive, and his argument against theNebraskaoutrage unanswerable, but it was spiced with remarks that were diverting, and at\n\nthe same time gave a deeper felt conviction of the weight of sober argument, for the\n\nspeaker was Hon. A.Lincoln. The speech was judiciously timed and admirably calculated to do good, by portraying\n\nthe nature, and developing the design of the Nebraska Bill, without arousing any ill\n\nfeellng in the breasts of the Northern men against the Southern brethren. Should we attempt\n\nto give a compendium of the speech, we should able to do that, the cause or the speaker, justice. We have notce to give the Speaker’s lucid arguments against the bill. They were irresistible.\n\nIf “Little Giant” had been there, he would have felt all truthof that first half of the appellation, and reallthat he was the contof the latter half.",
+            "metadata": {
+              "date": "1854-09-12",
+              "authors": [],
+              "keywords": [
+                "Slavery--Extension to the territories",
+                "Political parties",
+                "Antislavery movements",
+                "Campaign speeches"
+              ],
+              "type": "Speech",
+              "extracted_date": "1854-09-12",
+              "extracted_type": "speech",
+              "extracted_keywords": [
+                "freedom",
+                "union",
+                "country",
+                "truth",
+                "justice",
+                "speech",
+                "lincoln",
+                "bill",
+                "argument",
+                "against",
+                "speaker",
+                "address",
+                "hon",
+                "men",
+                "any"
+              ],
+              "length_category": "medium",
+              "document_id": "D200799",
+              "filename": "D200799.json"
+            },
+            "similarity_score": 0.5405110120773315,
+            "distance": 0.850101113319397,
+            "chunk_index": 0,
+            "document_id": "D200799",
+            "cross_encoder_score": -0.23573844134807587
+          },
+          {
+            "id": "D201122c_chunk_8",
+            "document": "Lincoln? Did not disunion raise its monster head during thelast war with Great Britain? Was that the slavery question, Mr. Lincoln? The peace of this country has been\n\ndisturbed three times, once during the war withGreat Britain, once on the tariff question, and once on the slavery question. (\"Three cheers for\n\nDouglas\") His argument, therefore, that slavery is the only question that has ever\n\ncreated dissension in the Union falls to the ground. It is true that agitators are\n\nenabled now to use this slavery question for the purpose of sectional strife. (“That’s\n\nso.”) He admits that in regard to all things else, the principle that I advocate,\n\nmaking each State and territory free to decide for itself ought to prevail. He instances\n\ncranberry laws, and the oyster laws, and he might have gone though the whole list with the same effect. I say that all these laws are local and domestic,\n\nand that local and domestic concerns should be left to each State and each territory\n\nto manage for itself. If agitators would acquiesce in that principle, there never\n\nwould be any danger to the peace and harmony of this Union. (“That’s so,” and cheers.) Mr. Lincoln tries to avoid the main issues by attacking the truth of my proposition,\n\nthat our fathers made this government divided into free and slave States, recognizing\n\nthat the right of each to decide all its local questions for itself. Did they not\n\nthus make it? It is true that they did not establish slavery in any of the States,\n\nor abolish it in any of them; but finding thirteen States twelve of which were slave\n\nand one free, they agreed to form a government uniting them together, as they stoo divided into free and slave States, and to guarantee forever to each State the right\n\nto do as it pleased on the slavery question. (Cheers.) Having thus made the government,\n\nand conferred this right upon each State forever, I assert that this government can\n\nexist as they made it, divided into free and slave States, if any one State chooses\n\nto retain slavery. (Cheers.) He says that he looks forward to a time when slavery\n\nshall be abolished everywhere. I look forward to a time when each State shall be\n\nallowed to do as it pleases. If it chooses to keep slavery forever, it is not my\n\nbusiness, but its own; if it chooses to abolish slavery, it is its own business—not\n\nmine. I care more for the great principle of self-government, the right of the people\n\nto rule, that I do for all the negroes in Christendom. (Cheers.) I would not endanger\n\nthe perpetuity of this Union. I would not blot out the great inalienable rights of\n\nthe white men for all the negroes that ever existed. (Renewed applause.) Hence, I\n\nsay, let us maintain this government on the principles that our fathers made it, recognizing\n\nthe right of each State to keep slavery as long as it people determine, or to abolish\n\nit when they please. (Cheers.) But Mr. Lincoln says that when our fathers made this\n\ngovernment they did not look forward to the state of things now existing; and therefore\n\nhe thinks the doctrine was wrong; and he quotes Brooks, of South Carolina, to prove\n\nthat our fathers then thought that probably slavery would be abolished, by each State\n\nacting for itself before this time. Suppose they did; suppose they did not foresee\n\nwhat has occurred,—does that change the principles of our government? They did not\n\nprobably foresee the telegraph that transmits intelligence by lightning, nor did they\n\nforesee the railroads that now form the bonds of union between the different States,\n\nor the thousand mechanical inventions that have elevated mankind. But do these things\n\nchange the principles of the government? Our fathers, I say, made this government\n\non the principle of the right of each State to do as it pleases in its own domestic\n\naffairs, subject to the constitution, and allowed the people of each to apply to every\n\nnew change of circumstance such remedy as they may see fit to improve their condition.\n\nThis right they have for all time to come. (Cheers.) Mr. Lincoln went on to tell you that he does not at all de ire to interfere with slavery in the States where it exists, nor does his party. I expected\n\nhim to say that down here. (Laughter.) Let me ask him then how he is going to put\n\nslavery in the course of ultimate extinction everywhere, if he does not intend to\n\ninterfere with it in the States where it exists? (Renewed laughter.) He says that\n\nhe will prohibit it in all territories, and the inference is then that unless they\n\nmake free States out of them he will keep them out of the Union; for, mark you, he\n\ndid not say whether or not he would vote to admit Kansas with slavery or not, as her\n\npeople might apply; (he forgot that as usual, &c;) he did not say whether or not he was in favor of bringing the territories now in\n\nexistence into the Union on the principle of Clay’s compromise measures on the slavery\n\nquestion. I told you that he would not. (Give it to him, he deserves it, &c.) His idea is that he will prohibit slavery in all the territories, and thus force\n\nthem all to become free States, surrounding the slave States with a cordon of free\n\nStates, and hemming them in, keeping the slaves confined to their present limits whilst\n\nthey go on multiplying until the soil on which they live will no longer feed them,\n\nand he will thus be able to put slavery in the course of ultimate extinction by starvation.\n\n(Cheers.) He will extinguish slavery in the Southern States as the French general\n\nexterminated the Algerines when he smoked them out. He is going to extinguish slavery\n\nby surrounding the slave States, hemming in the slaves, and starving them out of existence\n\nas you smoke a fix out of his hole. And he intends to do that in the name of humanity\n\nand Christianity, in order that we may get rid of the terrible crime and sin entailed\n\nupon our fathers of holding slaves. (Laughter and cheers). Mr. Lincoln makes out\n\nthat line of policy, and appeals to the moral sense of justice, and to the Christian\n\nfeeling of the community to sustain him. He says that any man who holds to the contrary\n\ndoctrine is in the position of the king who claimed to govern by divine right. Let\n\nus examine for a moment and see what principle it was that overthrew the divine right\n\nofGeorge the Thirdto govern us. Did not these colonies rebel because theBritish parliamenthad no right to pass laws concerning our property and domestic and private institutions\n\nwithout our consent? We demanded that the British government should not pass such\n\nlaws unless they gave us representation in the body passing them,—and this the British\n\ngovernment insisting on doing,—we went towar, on the principle that the home government should not control and govern distant\n\ncolonies without giving them a representation. Now, Mr. Lincoln proposes to govern\n\nthe territories without giving the people a representation, and calls on Congress\n\nto pass laws controlling their property and domestic concerns without their consent\n\nand against their will. Thus, he asserts for his party the identical principle asserted\n\nby George III and the tories of theRevolution. (Cheers.) I ask you to look into these things, and then to tell me whether the democracy or\n\nthe abolitionists are right. I hold that the people of a territory, like those of\n\na States, (I use the language of Mr. Buchanan in his letter of acceptance,) have the\n\nright to decide for themselves whether slavery shall or shall not exist within their\n\nlimits. (“That’s the idea,” “Hurrah for Douglas.”) They point upon which Chief Justice\n\nTaney expresses his opinion is simply this, that slaves being property, stand on an\n\nequal footing with other property, and consequently that the owner has the same right\n\nto carry that property into a territory that he has any other, subject to the same\n\nconditions. Suppose that one of your merchants was to take fifty or one hundred thousand\n\ndollars worth of liquors to Kansas. He has a right to go there under that decision,\n\nbut when he gets there he finds the Maine liquor law in force, and what can he do\n\nwith his property after he gets it there? He cannot sell it, he cannot use it, it\n\nis subject to the local law, and that law is against him, and the best thing he can\n\ndo with it is to bring it back into Missouri or Illinois and sell it. If you take\n\nnegroes to Kansas, as Col. Jeff. Davis said in his Bangor speech, from which I have quoted to-day, you must take them\n\nthere subject to local law. If the people want the institution of slavery they will\n\nprotect and encourage it; but if they do not want it they will withhold that protection,\n\nand the absence of local legislation protecting slavery excludes it as completely\n\nas a positive prohibition. (“That’s so, and cheers.) You slaveholders of Missouri\n\nmight as well understand what you know practically, that you cannot carry slavery\n\nwhere the people do not want it. (“That’s so.”) All you have a right to ask is that\n\nthe people shall do as they please; if they want slavery let them have it; if they\n\ndo not want it, allow them to refuse to encourage it. My friends, if, as I have said before, we will only live up to this great fundamental\n\nprinciple there will be peace between the North and the South. Mr. Lincoln admits t at under the constitution on all domestic questions, except slavery, we ought not to\n\ninterfere with the people of each State. What right have we to interfere with slavery\n\nany more than we have to interfere with any other question. He says that this slavery\n\nquestion is now the bone of contention. Why? Simply because agitators have combined\n\nin all the free States to make war upon it. Suppose the agitators in the States should\n\ncombine in one-half of the Union to make war upon the railroad system of the other\n\nhalf? They would thus be driven to the same sectional strife. Suppose one section\n\nmakes war upon any other peculiar institution of the opposite section, and the same\n\nstrife is produced. They only remedy and safety is that we shall stand by the constitution\n\nas our fathers made it, obey the laws, as they are passed, while they stand the proper\n\ntest and sustain the decisions of the Supreme Court and the constituted authorities. Senator Douglas’ half hour here expired. For some minutes after he concluded, the\n\napplause was perfectly deafening and overwhelming. He seemed to have carried his\n\nvast auditory entirely with him, in sympathy and feeling, for their enthusiasm was\n\nboundless.",
+            "text": "Lincoln? Did not disunion raise its monster head during thelast war with Great Britain? Was that the slavery question, Mr. Lincoln? The peace of this country has been\n\ndisturbed three times, once during the war withGreat Britain, once on the tariff question, and once on the slavery question. (\"Three cheers for\n\nDouglas\") His argument, therefore, that slavery is the only question that has ever\n\ncreated dissension in the Union falls to the ground. It is true that agitators are\n\nenabled now to use this slavery question for the purpose of sectional strife. (“That’s\n\nso.”) He admits that in regard to all things else, the principle that I advocate,\n\nmaking each State and territory free to decide for itself ought to prevail. He instances\n\ncranberry laws, and the oyster laws, and he might have gone though the whole list with the same effect. I say that all these laws are local and domestic,\n\nand that local and domestic concerns should be left to each State and each territory\n\nto manage for itself. If agitators would acquiesce in that principle, there never\n\nwould be any danger to the peace and harmony of this Union. (“That’s so,” and cheers.) Mr. Lincoln tries to avoid the main issues by attacking the truth of my proposition,\n\nthat our fathers made this government divided into free and slave States, recognizing\n\nthat the right of each to decide all its local questions for itself. Did they not\n\nthus make it? It is true that they did not establish slavery in any of the States,\n\nor abolish it in any of them; but finding thirteen States twelve of which were slave\n\nand one free, they agreed to form a government uniting them together, as they stoo divided into free and slave States, and to guarantee forever to each State the right\n\nto do as it pleased on the slavery question. (Cheers.) Having thus made the government,\n\nand conferred this right upon each State forever, I assert that this government can\n\nexist as they made it, divided into free and slave States, if any one State chooses\n\nto retain slavery. (Cheers.) He says that he looks forward to a time when slavery\n\nshall be abolished everywhere. I look forward to a time when each State shall be\n\nallowed to do as it pleases. If it chooses to keep slavery forever, it is not my\n\nbusiness, but its own; if it chooses to abolish slavery, it is its own business—not\n\nmine. I care more for the great principle of self-government, the right of the people\n\nto rule, that I do for all the negroes in Christendom. (Cheers.) I would not endanger\n\nthe perpetuity of this Union. I would not blot out the great inalienable rights of\n\nthe white men for all the negroes that ever existed. (Renewed applause.) Hence, I\n\nsay, let us maintain this government on the principles that our fathers made it, recognizing\n\nthe right of each State to keep slavery as long as it people determine, or to abolish\n\nit when they please. (Cheers.) But Mr. Lincoln says that when our fathers made this\n\ngovernment they did not look forward to the state of things now existing; and therefore\n\nhe thinks the doctrine was wrong; and he quotes Brooks, of South Carolina, to prove\n\nthat our fathers then thought that probably slavery would be abolished, by each State\n\nacting for itself before this time. Suppose they did; suppose they did not foresee\n\nwhat has occurred,—does that change the principles of our government? They did not\n\nprobably foresee the telegraph that transmits intelligence by lightning, nor did they\n\nforesee the railroads that now form the bonds of union between the different States,\n\nor the thousand mechanical inventions that have elevated mankind. But do these things\n\nchange the principles of the government? Our fathers, I say, made this government\n\non the principle of the right of each State to do as it pleases in its own domestic\n\naffairs, subject to the constitution, and allowed the people of each to apply to every\n\nnew change of circumstance such remedy as they may see fit to improve their condition.\n\nThis right they have for all time to come. (Cheers.) Mr. Lincoln went on to tell you that he does not at all de ire to interfere with slavery in the States where it exists, nor does his party. I expected\n\nhim to say that down here. (Laughter.) Let me ask him then how he is going to put\n\nslavery in the course of ultimate extinction everywhere, if he does not intend to\n\ninterfere with it in the States where it exists? (Renewed laughter.) He says that\n\nhe will prohibit it in all territories, and the inference is then that unless they\n\nmake free States out of them he will keep them out of the Union; for, mark you, he\n\ndid not say whether or not he would vote to admit Kansas with slavery or not, as her\n\npeople might apply; (he forgot that as usual, &c;) he did not say whether or not he was in favor of bringing the territories now in\n\nexistence into the Union on the principle of Clay’s compromise measures on the slavery\n\nquestion. I told you that he would not. (Give it to him, he deserves it, &c.) His idea is that he will prohibit slavery in all the territories, and thus force\n\nthem all to become free States, surrounding the slave States with a cordon of free\n\nStates, and hemming them in, keeping the slaves confined to their present limits whilst\n\nthey go on multiplying until the soil on which they live will no longer feed them,\n\nand he will thus be able to put slavery in the course of ultimate extinction by starvation.\n\n(Cheers.) He will extinguish slavery in the Southern States as the French general\n\nexterminated the Algerines when he smoked them out. He is going to extinguish slavery\n\nby surrounding the slave States, hemming in the slaves, and starving them out of existence\n\nas you smoke a fix out of his hole. And he intends to do that in the name of humanity\n\nand Christianity, in order that we may get rid of the terrible crime and sin entailed\n\nupon our fathers of holding slaves. (Laughter and cheers). Mr. Lincoln makes out\n\nthat line of policy, and appeals to the moral sense of justice, and to the Christian\n\nfeeling of the community to sustain him. He says that any man who holds to the contrary\n\ndoctrine is in the position of the king who claimed to govern by divine right. Let\n\nus examine for a moment and see what principle it was that overthrew the divine right\n\nofGeorge the Thirdto govern us. Did not these colonies rebel because theBritish parliamenthad no right to pass laws concerning our property and domestic and private institutions\n\nwithout our consent? We demanded that the British government should not pass such\n\nlaws unless they gave us representation in the body passing them,—and this the British\n\ngovernment insisting on doing,—we went towar, on the principle that the home government should not control and govern distant\n\ncolonies without giving them a representation. Now, Mr. Lincoln proposes to govern\n\nthe territories without giving the people a representation, and calls on Congress\n\nto pass laws controlling their property and domestic concerns without their consent\n\nand against their will. Thus, he asserts for his party the identical principle asserted\n\nby George III and the tories of theRevolution. (Cheers.) I ask you to look into these things, and then to tell me whether the democracy or\n\nthe abolitionists are right. I hold that the people of a territory, like those of\n\na States, (I use the language of Mr. Buchanan in his letter of acceptance,) have the\n\nright to decide for themselves whether slavery shall or shall not exist within their\n\nlimits. (“That’s the idea,” “Hurrah for Douglas.”) They point upon which Chief Justice\n\nTaney expresses his opinion is simply this, that slaves being property, stand on an\n\nequal footing with other property, and consequently that the owner has the same right\n\nto carry that property into a territory that he has any other, subject to the same\n\nconditions. Suppose that one of your merchants was to take fifty or one hundred thousand\n\ndollars worth of liquors to Kansas. He has a right to go there under that decision,\n\nbut when he gets there he finds the Maine liquor law in force, and what can he do\n\nwith his property after he gets it there? He cannot sell it, he cannot use it, it\n\nis subject to the local law, and that law is against him, and the best thing he can\n\ndo with it is to bring it back into Missouri or Illinois and sell it. If you take\n\nnegroes to Kansas, as Col. Jeff. Davis said in his Bangor speech, from which I have quoted to-day, you must take them\n\nthere subject to local law. If the people want the institution of slavery they will\n\nprotect and encourage it; but if they do not want it they will withhold that protection,\n\nand the absence of local legislation protecting slavery excludes it as completely\n\nas a positive prohibition. (“That’s so, and cheers.) You slaveholders of Missouri\n\nmight as well understand what you know practically, that you cannot carry slavery\n\nwhere the people do not want it. (“That’s so.”) All you have a right to ask is that\n\nthe people shall do as they please; if they want slavery let them have it; if they\n\ndo not want it, allow them to refuse to encourage it. My friends, if, as I have said before, we will only live up to this great fundamental\n\nprinciple there will be peace between the North and the South. Mr. Lincoln admits t at under the constitution on all domestic questions, except slavery, we ought not to\n\ninterfere with the people of each State. What right have we to interfere with slavery\n\nany more than we have to interfere with any other question. He says that this slavery\n\nquestion is now the bone of contention. Why? Simply because agitators have combined\n\nin all the free States to make war upon it. Suppose the agitators in the States should\n\ncombine in one-half of the Union to make war upon the railroad system of the other\n\nhalf? They would thus be driven to the same sectional strife. Suppose one section\n\nmakes war upon any other peculiar institution of the opposite section, and the same\n\nstrife is produced. They only remedy and safety is that we shall stand by the constitution\n\nas our fathers made it, obey the laws, as they are passed, while they stand the proper\n\ntest and sustain the decisions of the Supreme Court and the constituted authorities. Senator Douglas’ half hour here expired. For some minutes after he concluded, the\n\napplause was perfectly deafening and overwhelming. He seemed to have carried his\n\nvast auditory entirely with him, in sympathy and feeling, for their enthusiasm was\n\nboundless.",
+            "metadata": {
+              "date": "1858-10-15",
+              "authors": [
+                "Lincoln, Abraham (President)"
+              ],
+              "keywords": [],
+              "type": "Debate",
+              "extracted_date": "1850",
+              "extracted_type": "legal",
+              "extracted_keywords": [
+                "general",
+                "freedom",
+                "union",
+                "slavery",
+                "nation",
+                "government",
+                "war",
+                "duty",
+                "country",
+                "president",
+                "army",
+                "people",
+                "law",
+                "american",
+                "rights",
+                "public",
+                "states",
+                "congress",
+                "truth",
+                "power",
+                "enemy",
+                "emancipation",
+                "rebel",
+                "soldiers",
+                "principle",
+                "honor",
+                "constitution",
+                "liberty",
+                "authority",
+                "peace",
+                "united",
+                "justice",
+                "not"
+              ],
+              "length_category": "long",
+              "document_id": "D201122c",
+              "filename": "D201122c.json"
+            },
+            "similarity_score": 0.5676448345184326,
+            "distance": 0.7616649866104126,
+            "chunk_index": 8,
+            "document_id": "D201122c",
+            "cross_encoder_score": -0.4510614275932312
+          }
+        ],
+        "total_retrieved": 5,
+        "top_similarity": 0.5325258374214172,
+        "response_time": 0.2898740768432617,
+        "query_method": "enhanced_with_reranking"
+      },
+      "metrics": {
+        "query": "How did Lincoln describe the Union?",
+        "retrieved_count": 5,
+        "relevant_count": 0,
+        "response_time": 0.2898900508880615,
+        "precision_at_1": 0.0,
+        "precision_at_3": 0.0,
+        "precision_at_5": 0.0,
+        "recall_at_5": 0.0,
+        "average_similarity": 0.5373226881027222,
+        "hit_at_5": 0.0
+      },
+      "relevant_documents": [],
+      "retrieved_documents_count": 5
+    },
+    {
+      "query": "What were Lincoln's thoughts on democracy?",
+      "response": {
+        "query": "What were Lincoln's thoughts on democracy?",
+        "answer": "Based on documents from Abraham Lincoln's collection (Speech (1856-05-29), Letter (1858-06-04), Speech (1840-05-02)), the historical record indicates: He was here ready to fuse with any one who would unite with him to oppose slave power; spoke of the bugbear disunion which was so vaguely threatened It was to be remembered that theUnion must be preserved in the purity of its principles as well as in the integrity of its territorial parts It must be “Liberty and Union, now and forever, one and inseparable. This information is drawn directly from primary sources dating from 1856-05-29 to provide accurate historical context. [Sources: Speech (1856-05-29), Letter (1858-06-04)]",
+        "retrieved_documents": [
+          {
+            "id": "D200886_chunk_0",
+            "document": "Summary of Speech at Bloomington, Illinois, 29 May 18561 Abraham Lincoln, ofSangamon, came upon the platform amid deafening applause.He enumerated the pressing reasons of the present movement. He was here ready to\n\nfuse with any one who would unite with him to oppose slave power; spoke of the bugbear disunion which\n\nwas so vaguely threatened. It was to be remembered that theUnion must be preserved in the purity of its principles as well as in the integrity\n\nof its territorial parts. It must be “Liberty and Union, now and forever, one and inseparable.”2The sentiment in favor of white slavery now prevailed in all the slave state papers,\n\nexcept those ofKentucky,TennesseeandMissouriandMaryland.3Such was the progress of theNational Democracy.Douglasonce claimed against him thatDemocracyfavored more than his principles, the individual rights of man. Was it not strange\n\nthat he must stand there now to defend those rights against their former eulogist?4The Black Democracy were endeavoring to citeHenry Clayto reconcile oldWhigsto their doctrine, and repaid them with the very cheap compliment of National Whigs.5",
+            "text": "Summary of Speech at Bloomington, Illinois, 29 May 18561 Abraham Lincoln, ofSangamon, came upon the platform amid deafening applause.He enumerated the pressing reasons of the present movement. He was here ready to\n\nfuse with any one who would unite with him to oppose slave power; spoke of the bugbear disunion which\n\nwas so vaguely threatened. It was to be remembered that theUnion must be preserved in the purity of its principles as well as in the integrity\n\nof its territorial parts. It must be “Liberty and Union, now and forever, one and inseparable.”2The sentiment in favor of white slavery now prevailed in all the slave state papers,\n\nexcept those ofKentucky,TennesseeandMissouriandMaryland.3Such was the progress of theNational Democracy.Douglasonce claimed against him thatDemocracyfavored more than his principles, the individual rights of man. Was it not strange\n\nthat he must stand there now to defend those rights against their former eulogist?4The Black Democracy were endeavoring to citeHenry Clayto reconcile oldWhigsto their doctrine, and repaid them with the very cheap compliment of National Whigs.5",
+            "metadata": {
+              "date": "1856-05-29",
+              "authors": [
+                "Lincoln, Abraham (President)"
+              ],
+              "keywords": [
+                "Campaign speeches",
+                "Elections",
+                "Political campaigns",
+                "Political conventions",
+                "Political oratory"
+              ],
+              "type": "Speech",
+              "extracted_date": "1856-05-29",
+              "extracted_type": "letter",
+              "extracted_keywords": [
+                "union",
+                "slavery",
+                "rights",
+                "power",
+                "liberty",
+                "now",
+                "one",
+                "him",
+                "slave",
+                "principles",
+                "those",
+                "democracy",
+                "against",
+                "their",
+                "summary"
+              ],
+              "length_category": "medium",
+              "document_id": "D200886",
+              "filename": "D200886.json"
+            },
+            "similarity_score": 0.59120112657547,
+            "distance": 0.6914716958999634,
+            "chunk_index": 0,
+            "document_id": "D200886",
+            "cross_encoder_score": -1.203136682510376
+          },
+          {
+            "id": "D210717_chunk_0",
+            "document": "Abraham Smith to Abraham Lincoln, 4 June 18581 Ridge Farm IllsJune 5th/587 Thy favor of 4thinst was receivd this morning.2In relation to the two gentlemen spoken of for senator and representative I have\n\nheard them spoken of and know of no objections3Our folks ofVermilionwould perhaps name the senator from thiscounty— butbutI and some others think it would be policy to wa^i^ve our preferences for one of^our^own men and run one from the south end of the district— and think thatthesenator & representative should be from theWhigK. N. wing of ourparty4 I know of no necessity for jealousy amongrepublicans— while the honors of office are divided– We have none of us any sacrifice of principle\n\nto make to cordialy oppose—democracy— the only difference between us I think is in the degree of our hatred to democracy–You\n\nofofthe whig party are opposed to democracy be cause you deem it unprofitable— bad policy— and dangerous temporaly; while we theabolitionistsare opposed to itonfor^all^your reasons and in addition we deemdemocratdoctrines & practices sin and blasphemy against GodAnd where policy & right run to gether as they do in the issue now betweenrepublicanism& democracy and no probability of a different issue overshadowing soon, I— I can see no cause of jealousy I had not suffered myself to become jealous— of thee in theLovejoymatter tho it is comonly represented that all the Lawyers of the circuit withJudged^D^avisand of all parties are in a conspiracy to defeat Lovejoy–5 I suppose that every thing that passd between you has since been handed rount^d^to the abolitionists of this district— and an effort was making to implicate Lincoln—\n\nand as I said inmy lastI am anxious that Lincoln should be elected to thesenate— simply because I deem thee able and trust worthy— dont know of any better timber— nor of any one more likely to betrudeemed trust worth by all sections of our party— but by all classes of republicans in thiscountrypart of thestateit appeart^d^that Lincl^o^ln was understood to be our ol^n^ly candidate for the senate till this Lovejoy affair began to cause a little jealousy—\n\na little flutter about court time and a little more lately— till I thought it would\n\nbe best for thee to know how the the thing was working—tho I profess no personal partiality",
+            "text": "Abraham Smith to Abraham Lincoln, 4 June 18581 Ridge Farm IllsJune 5th/587 Thy favor of 4thinst was receivd this morning.2In relation to the two gentlemen spoken of for senator and representative I have\n\nheard them spoken of and know of no objections3Our folks ofVermilionwould perhaps name the senator from thiscounty— butbutI and some others think it would be policy to wa^i^ve our preferences for one of^our^own men and run one from the south end of the district— and think thatthesenator & representative should be from theWhigK. N. wing of ourparty4 I know of no necessity for jealousy amongrepublicans— while the honors of office are divided– We have none of us any sacrifice of principle\n\nto make to cordialy oppose—democracy— the only difference between us I think is in the degree of our hatred to democracy–You\n\nofofthe whig party are opposed to democracy be cause you deem it unprofitable— bad policy— and dangerous temporaly; while we theabolitionistsare opposed to itonfor^all^your reasons and in addition we deemdemocratdoctrines & practices sin and blasphemy against GodAnd where policy & right run to gether as they do in the issue now betweenrepublicanism& democracy and no probability of a different issue overshadowing soon, I— I can see no cause of jealousy I had not suffered myself to become jealous— of thee in theLovejoymatter tho it is comonly represented that all the Lawyers of the circuit withJudged^D^avisand of all parties are in a conspiracy to defeat Lovejoy–5 I suppose that every thing that passd between you has since been handed rount^d^to the abolitionists of this district— and an effort was making to implicate Lincoln—\n\nand as I said inmy lastI am anxious that Lincoln should be elected to thesenate— simply because I deem thee able and trust worthy— dont know of any better timber— nor of any one more likely to betrudeemed trust worth by all sections of our party— but by all classes of republicans in thiscountrypart of thestateit appeart^d^that Lincl^o^ln was understood to be our ol^n^ly candidate for the senate till this Lovejoy affair began to cause a little jealousy—\n\na little flutter about court time and a little more lately— till I thought it would\n\nbe best for thee to know how the the thing was working—tho I profess no personal partiality",
+            "metadata": {
+              "date": "1858-06-04",
+              "authors": [
+                "Smith, Abraham (of Vermilion County)"
+              ],
+              "keywords": [
+                "Election districts",
+                "Elections",
+                "Local elections",
+                "Political candidates",
+                "Political parties",
+                "United States. Congress. Senate"
+              ],
+              "type": "Letter",
+              "extracted_date": "1858-06-04",
+              "extracted_type": "legal",
+              "extracted_keywords": [
+                "defeat",
+                "principle",
+                "our",
+                "all",
+                "know",
+                "democracy",
+                "lincoln",
+                "think",
+                "policy",
+                "one",
+                "jealousy",
+                "any",
+                "you",
+                "cause",
+                "thee"
+              ],
+              "length_category": "medium",
+              "document_id": "D210717",
+              "filename": "D210717.json"
+            },
+            "similarity_score": 0.571003258228302,
+            "distance": 0.7513034343719482,
+            "chunk_index": 0,
+            "document_id": "D210717",
+            "cross_encoder_score": -1.8137099742889404
+          },
+          {
+            "id": "D200222_chunk_0",
+            "document": "Summary of Speech at Tremont, Illinois, 2 May 18401 Immediately after dinner, the large Court House was filled to overflowing, and the\n\ndebate was opened by Mr.Lincoln, who after some general and appropriate remarks concerning the design and object\n\nof all Governments, drew a vivid picture of our prosperous and happy condition previous\n\nto the time of the war which was waged against theU.S. Bank, the constitutionality, as well as the great utility of which he vindicated in a\n\nmost triumphant manner.2He next turned his attention to theSub-Treasury, the hideous deformity and injurious effects of which were exposed in a masterly\n\nstyle. He then reviewed the political course of Mr.Van Buren, and especially his votes in the NeYork Convention in allowing Free Neoes the right of suffrage, and his Jan-faced policy in relation to thewar.3Inis part of his speech Mr. Lincoln wasrticularly felicitous, and the frequentnd spontaneous bursts of applause frothe People, gave evidence that their hes were with him. He related manyghly amusing anecdotes which convd the house with laughter; and conced his eloquent address with a succeul vindication of the civil and militaryeputation of theHero of Tippecanoe.",
+            "text": "Summary of Speech at Tremont, Illinois, 2 May 18401 Immediately after dinner, the large Court House was filled to overflowing, and the\n\ndebate was opened by Mr.Lincoln, who after some general and appropriate remarks concerning the design and object\n\nof all Governments, drew a vivid picture of our prosperous and happy condition previous\n\nto the time of the war which was waged against theU.S. Bank, the constitutionality, as well as the great utility of which he vindicated in a\n\nmost triumphant manner.2He next turned his attention to theSub-Treasury, the hideous deformity and injurious effects of which were exposed in a masterly\n\nstyle. He then reviewed the political course of Mr.Van Buren, and especially his votes in the NeYork Convention in allowing Free Neoes the right of suffrage, and his Jan-faced policy in relation to thewar.3Inis part of his speech Mr. Lincoln wasrticularly felicitous, and the frequentnd spontaneous bursts of applause frothe People, gave evidence that their hes were with him. He related manyghly amusing anecdotes which convd the house with laughter; and conced his eloquent address with a succeul vindication of the civil and militaryeputation of theHero of Tippecanoe.",
+            "metadata": {
+              "date": "1840-05-02",
+              "authors": [],
+              "keywords": [
+                "Political oratory",
+                "Presidents--Election",
+                "Presidential candidates"
+              ],
+              "type": "Speech",
+              "extracted_date": "1840-05-02",
+              "extracted_type": "speech",
+              "extracted_keywords": [
+                "general",
+                "war",
+                "people",
+                "his",
+                "speech",
+                "after",
+                "house",
+                "lincoln",
+                "summary",
+                "tremont",
+                "illinois",
+                "immediately",
+                "dinner",
+                "large",
+                "court"
+              ],
+              "length_category": "medium",
+              "document_id": "D200222",
+              "filename": "D200222.json"
+            },
+            "similarity_score": 0.5485531687736511,
+            "distance": 0.8229773044586182,
+            "chunk_index": 0,
+            "document_id": "D200222",
+            "cross_encoder_score": -2.3137576580047607
+          },
+          {
+            "id": "D210864_chunk_0",
+            "document": "Hugh G. Seymour to Abraham Lincoln, 11 August 18581 Having had the pleasure of reading portions of your reply toJudge Douglasdelivered atChicagoallow me to express my admiration of the handsome manner in which you handled him\n\nand his arguments and my gratification that the standard ofIllinoisRepublicanismhas fallen in such able hands.2Allow me Sir to express the ardent hope that you may be successful in the greatcampaignnot only for your individual good but<Page 2>for the advancement of the great Republican principles. Your reference to the course\n\nof the idol ofDemocracy,—Gen Jackson— in opposition to the opinion of theSupreme courtmust stagger the \"unterrified Democracy\"3Allow me to mention in thepossibilityof your not having the fact now in your mind of a case fit to place beside it. \"Theexpulsionof the Indian Tribes from the Southern States, in violation of the faith of Treaties\n\nandin open disregard of the opinion of the Supreme Court of the United States as to their\n\nobligation\" which took place I think in the^last^term of Gen Jackson or in that of MrVan Buren.4 Pennsylvania<Page 3>will try and redeem her character this fall and with good hope of success. The Democracy\n\nexpect a defeat I believe.5",
+            "text": "Hugh G. Seymour to Abraham Lincoln, 11 August 18581 Having had the pleasure of reading portions of your reply toJudge Douglasdelivered atChicagoallow me to express my admiration of the handsome manner in which you handled him\n\nand his arguments and my gratification that the standard ofIllinoisRepublicanismhas fallen in such able hands.2Allow me Sir to express the ardent hope that you may be successful in the greatcampaignnot only for your individual good but<Page 2>for the advancement of the great Republican principles. Your reference to the course\n\nof the idol ofDemocracy,—Gen Jackson— in opposition to the opinion of theSupreme courtmust stagger the \"unterrified Democracy\"3Allow me to mention in thepossibilityof your not having the fact now in your mind of a case fit to place beside it. \"Theexpulsionof the Indian Tribes from the Southern States, in violation of the faith of Treaties\n\nandin open disregard of the opinion of the Supreme Court of the United States as to their\n\nobligation\" which took place I think in the^last^term of Gen Jackson or in that of MrVan Buren.4 Pennsylvania<Page 3>will try and redeem her character this fall and with good hope of success. The Democracy\n\nexpect a defeat I believe.5",
+            "metadata": {
+              "date": "1858-08-11",
+              "authors": [
+                "Seymour, Hugh G."
+              ],
+              "keywords": [
+                "Constitutional law",
+                "Elections",
+                "Indian Removal (United States : 1813-1903)",
+                "National banks (United States)",
+                "Political campaigns",
+                "Political oratory",
+                "United States. Congress. Senate",
+                "United States. Supreme Court"
+              ],
+              "type": "Letter",
+              "extracted_date": "1858-08-11",
+              "extracted_type": "legal",
+              "extracted_keywords": [
+                "defeat",
+                "states",
+                "united",
+                "your",
+                "having",
+                "express",
+                "you",
+                "hope",
+                "good",
+                "page",
+                "gen",
+                "jackson",
+                "opinion",
+                "democracy",
+                "place"
+              ],
+              "length_category": "medium",
+              "document_id": "D210864",
+              "filename": "D210864.json"
+            },
+            "similarity_score": 0.5404379367828369,
+            "distance": 0.8503512144088745,
+            "chunk_index": 0,
+            "document_id": "D210864",
+            "cross_encoder_score": -2.8543701171875
+          },
+          {
+            "id": "D201103_chunk_0",
+            "document": "Summary of Speech at Greenville, Illinois, 13 September 18581 According to his appointment, Hon.A.Lincolndelivered a speech inGreenvilleon Monday the 13th inst.—2The most of our readers were present and heard it, and we have reason to believe,\n\nwere highly pleased with it. It was clear, logical, argumentative, eloquent, powerful\n\nand convincing. In a most able manner did Mr. Lincoln clear up and refute the charges\n\nthat he was anAbolitionistand an Amalgamationist, and in favor of placing negroes upon a social and political\n\nquality with the whites.3He asserted positively, and proved conclusively by his former acts and speeches\n\nthat he was not in favor of interfering with slavery in the States where it exists,\n\nnor ever had been. That he was not even in favor of abolishing slavery in theDistrict of Columbia, unless a majority of the people of the District should be in favor of it, and remuneration\n\nshould be made to masters who might be unwilling to give up their slaves without compensation;\n\nand even then he would want it done gradually.4He also showed clearly, what nobody but theDemocratsdeny, that slavery is a great moral, social, and political evil, and was so looked\n\nupon by all the fathers of the Government—that the institution was considered a foul\n\nblot on the Nation, which would at some future day be removed. Mr. Lincoln said he\n\nhad always believed as the fathers did, that it would in the course of time be entirely\n\nremoved from our country, until the new policy of nationalizing it had been set on\n\nfoot.—5Since that time he had believed it would either become alike lawful in all the States,\n\nor that eventually, in God’s own good time and way, it would finally disappear. But\n\nwhether it should ever become extinct or not, he was in favor of living up to all\n\nthe guarantees of the Constitution. Whatever constitutional rights the slaveholders\n\nmight have, he was in favor of protecting them. On the other hand, he was opposed to the new doctrine that the Constitution carried\n\nslavery into all the Territories, and protects it there against the wishes of the\n\npeople. It had always, until lately, been held that slavery was a creature of positive\n\nlocal legislation, and did not legally exist anywhere, in the absence of such legislation.\n\nYet he admitted that practically it would exist where there was no legislation in\n\nregard to it; that it had been so planted where ever it has existed. That it would be taken into new Territories, and there permitted\n\nto remain, until legislation would become necessary to protect it, when such legislation\n\nwould be enacted, and it would thereby become legalized.6",
+            "text": "Summary of Speech at Greenville, Illinois, 13 September 18581 According to his appointment, Hon.A.Lincolndelivered a speech inGreenvilleon Monday the 13th inst.—2The most of our readers were present and heard it, and we have reason to believe,\n\nwere highly pleased with it. It was clear, logical, argumentative, eloquent, powerful\n\nand convincing. In a most able manner did Mr. Lincoln clear up and refute the charges\n\nthat he was anAbolitionistand an Amalgamationist, and in favor of placing negroes upon a social and political\n\nquality with the whites.3He asserted positively, and proved conclusively by his former acts and speeches\n\nthat he was not in favor of interfering with slavery in the States where it exists,\n\nnor ever had been. That he was not even in favor of abolishing slavery in theDistrict of Columbia, unless a majority of the people of the District should be in favor of it, and remuneration\n\nshould be made to masters who might be unwilling to give up their slaves without compensation;\n\nand even then he would want it done gradually.4He also showed clearly, what nobody but theDemocratsdeny, that slavery is a great moral, social, and political evil, and was so looked\n\nupon by all the fathers of the Government—that the institution was considered a foul\n\nblot on the Nation, which would at some future day be removed. Mr. Lincoln said he\n\nhad always believed as the fathers did, that it would in the course of time be entirely\n\nremoved from our country, until the new policy of nationalizing it had been set on\n\nfoot.—5Since that time he had believed it would either become alike lawful in all the States,\n\nor that eventually, in God’s own good time and way, it would finally disappear. But\n\nwhether it should ever become extinct or not, he was in favor of living up to all\n\nthe guarantees of the Constitution. Whatever constitutional rights the slaveholders\n\nmight have, he was in favor of protecting them. On the other hand, he was opposed to the new doctrine that the Constitution carried\n\nslavery into all the Territories, and protects it there against the wishes of the\n\npeople. It had always, until lately, been held that slavery was a creature of positive\n\nlocal legislation, and did not legally exist anywhere, in the absence of such legislation.\n\nYet he admitted that practically it would exist where there was no legislation in\n\nregard to it; that it had been so planted where ever it has existed. That it would be taken into new Territories, and there permitted\n\nto remain, until legislation would become necessary to protect it, when such legislation\n\nwould be enacted, and it would thereby become legalized.6",
+            "metadata": {
+              "date": "1858-09-13",
+              "authors": [],
+              "keywords": [
+                "Campaign speeches",
+                "African Americans--Civil rights",
+                "Antislavery movements",
+                "Elections",
+                "Founding Fathers of the United States",
+                "Political campaigns",
+                "Political oratory",
+                "Slavery--Extension to the territories",
+                "United States. Congress. Senate"
+              ],
+              "type": "Speech",
+              "extracted_date": "1858-09-13",
+              "extracted_type": "legal",
+              "extracted_keywords": [
+                "slavery",
+                "nation",
+                "government",
+                "country",
+                "people",
+                "rights",
+                "states",
+                "constitution",
+                "favor",
+                "legislation",
+                "not",
+                "all",
+                "become",
+                "did",
+                "where"
+              ],
+              "length_category": "medium",
+              "document_id": "D201103",
+              "filename": "D201103.json"
+            },
+            "similarity_score": 0.5535075068473816,
+            "distance": 0.8066601753234863,
+            "chunk_index": 0,
+            "document_id": "D201103",
+            "cross_encoder_score": -3.1655564308166504
+          }
+        ],
+        "total_retrieved": 5,
+        "top_similarity": 0.59120112657547,
+        "response_time": 0.28429603576660156,
+        "query_method": "enhanced_with_reranking"
+      },
+      "metrics": {
+        "query": "What were Lincoln's thoughts on democracy?",
+        "retrieved_count": 5,
+        "relevant_count": 0,
+        "response_time": 0.28430986404418945,
+        "precision_at_1": 0.0,
+        "precision_at_3": 0.0,
+        "precision_at_5": 0.0,
+        "recall_at_5": 0.0,
+        "average_similarity": 0.5609405994415283,
+        "hit_at_5": 0.0
+      },
+      "relevant_documents": [],
+      "retrieved_documents_count": 5
+    }
+  ],
+  "recommendations": [
+    "Low Precision@1: Consider improving first-stage retrieval or using a better embedding model",
+    "Moderate Precision@5: Implement query expansion or add more training data",
+    "Implement hybrid search (keyword + vector) for better recall",
+    "Add diversity scoring to avoid duplicate content in results",
+    "Implement query understanding module for better query reformulation",
+    "Add temporal filtering for time-sensitive queries",
+    "Implement confidence scoring for generated answers",
+    "Add user feedback loop to improve retrieval over time",
+    "Consider using larger embedding models for complex queries",
+    "Implement caching for frequent queries"
+  ]
+}

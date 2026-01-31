@@ -3636,5 +3636,635 @@
         "preview": "Stephen T. Logan to Abraham Lincoln, 30 January 18491 Our old friendJ. H Morrisoninforms me he is about visitingWashington Cityas an applicant for the office of Surveyor General inCalifornia. You know"
       }
     ]
+  },
+  {
+    "session_id": "session_20260131_120633",
+    "timestamp": "2026-01-31 12:06:33",
+    "query": "What was Lincoln's view on slavery?",
+    "answer": "Based on documents from Abraham Lincoln's collection (Debate (1858-10-15), Speech (1858-09-13), Debate (1858-10-15)), the historical record indicates: Did not disunion raise its monster head during thelast war with Great Britain The peace of this country has been disturbed three times, once during the war withGreat Britain, once on the tariff question, and once on the slavery question (\"Three cheers for Douglas\") His argument, therefore, that slavery is the only question that has ever created dissension in the Union falls to the ground. This information is drawn directly from primary sources dating from 1858-10-15 to provide accurate historical context. [Sources: Debate (1858-10-15), Speech (1858-09-13)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.5950016975402832,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D201122c_chunk_8",
+        "similarity": 0.5950016975402832,
+        "source_type": "Debate",
+        "date": "1858-10-15",
+        "preview": "Lincoln? Did not disunion raise its monster head during thelast war with Great Britain? Was that the slavery question, Mr. Lincoln? The peace of this country has been\n\ndisturbed three times, once duri"
+      },
+      {
+        "id": "D201103_chunk_0",
+        "similarity": 0.6364864706993103,
+        "source_type": "Speech",
+        "date": "1858-09-13",
+        "preview": "Summary of Speech at Greenville, Illinois, 13 September 18581 According to his appointment, Hon.A.Lincolndelivered a speech inGreenvilleon Monday the 13th inst.—2The most of our readers were present a"
+      },
+      {
+        "id": "D201122b_chunk_8",
+        "similarity": 0.5498578548431396,
+        "source_type": "Debate",
+        "date": "1858-10-15",
+        "preview": "They made the Government on the principle I state—the right of the people to do as\n\nthey pleased, and then let the people of each State apply it to each change of condition,\n\nto each improvement, as t"
+      }
+    ],
+    "evaluation": {
+      "query": "What was Lincoln's view on slavery?",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.7833330631256104,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.5863114953041076,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_120634",
+    "timestamp": "2026-01-31 12:06:34",
+    "query": "How did Lincoln describe the Union?",
+    "answer": "Based on documents from Abraham Lincoln's collection (Speech (1856-07-23), Speech (1856-05-29), Speech (1856-07-23)), the historical record indicates: Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact statement of the present standing position of parties in relation to dissolving the Union of these States Lincoln was addressing himself to the opponents ofFremontand theRepublican party,2and had referred to the charge of “sectionalism,” and then spo. This information is drawn directly from primary sources dating from 1856-07-23 to provide accurate historical context. [Sources: Speech (1856-07-23), Speech (1856-05-29)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.5325258374214172,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200899b_chunk_0",
+        "similarity": 0.5325258374214172,
+        "source_type": "Speech",
+        "date": "1856-07-23",
+        "preview": "Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion. The following, published from the speech of Hon.Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact s"
+      },
+      {
+        "id": "D200886_chunk_0",
+        "similarity": 0.522302508354187,
+        "source_type": "Speech",
+        "date": "1856-05-29",
+        "preview": "Summary of Speech at Bloomington, Illinois, 29 May 18561 Abraham Lincoln, ofSangamon, came upon the platform amid deafening applause.He enumerated the pressing reasons of the present movement. He was "
+      },
+      {
+        "id": "D200899_chunk_0",
+        "similarity": 0.5236292481422424,
+        "source_type": "Speech",
+        "date": "1856-07-23",
+        "preview": "Report of Speech at Galena, Illinois, 23 July 18561 Lincolnon Disunion. Hon.Abraham Lincolnhits the nail on the head every time, and in this instance it will be seen, he has\n\ndriven it entirely out of"
+      }
+    ],
+    "evaluation": {
+      "query": "How did Lincoln describe the Union?",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.3148462772369385,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.5373226881027222,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_120634",
+    "timestamp": "2026-01-31 12:06:34",
+    "query": "Write in the tone of an 1860s presidential proclamation",
+    "answer": "Now therefore, I, Abraham Lincoln, President of the United States, do hereby declare and make known that 2He said it was fit that thefriends of freedomshould meet and congratulate each other The flag of Freedom floats on the State Capitol, and every man e. in accordance with the principles upon which our government is founded, and in view of the principles articulated in documents such as Speech (1856-12-10), Speech (1856-07-19), lected to the State Department THE UNION— The North will maintain it— the South will not depart therefrom. Done at the City of Washington, this day in the year of our Lord. [Sources: Speech (1856-12-10), Speech (1856-07-19)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.5308871269226074,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200934_chunk_0",
+        "similarity": 0.5308871269226074,
+        "source_type": "Speech",
+        "date": "1856-12-10",
+        "preview": "Report of Speech at a Republican Banquet, Chicago, Illinois, 10 December 18561 REGULAR TOASTS, SPEECHES, &C. The cloth being removed, the President, Hon.J. Y.Scammon, proceeded to open the Banquet.2He"
+      },
+      {
+        "id": "D200897_chunk_0",
+        "similarity": 0.5311640501022339,
+        "source_type": "Speech",
+        "date": "1856-07-19",
+        "preview": "Summary of Speech at Chicago, Illinois, 19 July 18561 Meeting Saturday Night.— A large meeting was held in Dearborn Park on Saturday evening, to hear the speech\n\nof Mr.Lincoln, and we have never seen "
+      },
+      {
+        "id": "D200886_chunk_0",
+        "similarity": 0.5150838494300842,
+        "source_type": "Speech",
+        "date": "1856-05-29",
+        "preview": "Summary of Speech at Bloomington, Illinois, 29 May 18561 Abraham Lincoln, ofSangamon, came upon the platform amid deafening applause.He enumerated the pressing reasons of the present movement. He was "
+      }
+    ],
+    "evaluation": {
+      "query": "Write in the tone of an 1860s presidential proclamation",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.28595781326293945,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.5250659465789795,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_120634",
+    "timestamp": "2026-01-31 12:06:34",
+    "query": "Compose a speech about preserving the Union",
+    "answer": "Fellow citizens, I stand before you today to address matters of grave importance. Drawing from historical documents including Speech (1856-07-23), Speech (1856-12-10), Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact statement of the present standing position of part. as we contemplate the future of our great nation, ies in relation to dissolving the Union of these States Lincoln was addressing himself to the opponents ofFremontand theRepublican party,2and had referred to the charge of “sectionalism,” and then spo. let us move forward with courage and conviction. [Sources: Speech (1856-07-23), Speech (1856-12-10)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.4698982238769531,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200899b_chunk_0",
+        "similarity": 0.4698982238769531,
+        "source_type": "Speech",
+        "date": "1856-07-23",
+        "preview": "Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion. The following, published from the speech of Hon.Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact s"
+      },
+      {
+        "id": "D200934_chunk_0",
+        "similarity": 0.43819719552993774,
+        "source_type": "Speech",
+        "date": "1856-12-10",
+        "preview": "Report of Speech at a Republican Banquet, Chicago, Illinois, 10 December 18561 REGULAR TOASTS, SPEECHES, &C. The cloth being removed, the President, Hon.J. Y.Scammon, proceeded to open the Banquet.2He"
+      },
+      {
+        "id": "D200799_chunk_0",
+        "similarity": 0.4552348852157593,
+        "source_type": "Speech",
+        "date": "1854-09-12",
+        "preview": "Report of Speech at Bloomington, Illinois, 12 September 18541 Lincoln’s Speech. We had the satisfaction last evening of listening to an address by Hon. A.Lincoln, on the subject that is engaging the a"
+      }
+    ],
+    "evaluation": {
+      "query": "Compose a speech about preserving the Union",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.29279494285583496,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.4568372189998627,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_120635",
+    "timestamp": "2026-01-31 12:06:35",
+    "query": "What were the key principles in Lincoln's Gettysburg Address?",
+    "answer": "Based on documents from Abraham Lincoln's collection (Speech (1854-09-12), Letter (1858-07-20), Letter (1858-07-22)), the historical record indicates: Lincoln, on the subject that is engaging the attention of the free men of the Union more than any political question that has been agitated for some time, viz: TheNebraska Bill 2The speech was clear and unanswerable, for it was a plain statement of facts, and of sound, strong argument; it was eloquent, for he spoke the deep convictions of truth from a heart warmed with the love of his country, and. This information is drawn directly from primary sources dating from 1854-09-12 to provide accurate historical context. [Sources: Speech (1854-09-12), Letter (1858-07-20)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.5245135426521301,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200799_chunk_0",
+        "similarity": 0.5245135426521301,
+        "source_type": "Speech",
+        "date": "1854-09-12",
+        "preview": "Report of Speech at Bloomington, Illinois, 12 September 18541 Lincoln’s Speech. We had the satisfaction last evening of listening to an address by Hon. A.Lincoln, on the subject that is engaging the a"
+      },
+      {
+        "id": "D210777_chunk_0",
+        "similarity": 0.5220196843147278,
+        "source_type": "Letter",
+        "date": "1858-07-20",
+        "preview": "John Trible to Abraham Lincoln, 20 July 18581 I have read MrDouglasspeech atChicagoand Springfield. From these two speeches I think his future course in theensuing campaignis sufficiently developed to"
+      },
+      {
+        "id": "D210780_chunk_0",
+        "similarity": 0.5170249342918396,
+        "source_type": "Letter",
+        "date": "1858-07-22",
+        "preview": "Thomas A. Marshall to Abraham Lincoln, 22 July 18581 Your favor of 19 came to hand in due time2I thank you for giving me an idea ofLawrence.3I had heard something of the same sort from Dr Balch4My pro"
+      }
+    ],
+    "evaluation": {
+      "query": "What were the key principles in Lincoln's Gettysburg Address?",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.3089306354522705,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.5246336936950684,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_120656",
+    "timestamp": "2026-01-31 12:06:56",
+    "query": "hello",
+    "answer": "In response to your query about Lincoln, the relevant documents (Letter (1854-11-27), Letter (1858-07-20)) contain the following information: Our hand bills are struck, and measures taken to secure an outpouring of the people. This synthesis incorporates actual phrases and concepts from Lincoln's writings to ensure authenticity while providing meaningful historical insight. [Sources: Letter (1854-11-27), Letter (1858-07-20)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.3791990876197815,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D210589_chunk_0",
+        "similarity": 0.3791990876197815,
+        "source_type": "Letter",
+        "date": "1854-11-27",
+        "preview": "Elihu B. Washburne to Abraham Lincoln, 27 November 18541 I beg leave to introduce you toDr. Little, the member from thiscountyandCarroll. TheDoctoris a friend of mine, and a friend of yours, and feels"
+      },
+      {
+        "id": "D210775_chunk_0",
+        "similarity": 0.3792724311351776,
+        "source_type": "Letter",
+        "date": "1858-07-20",
+        "preview": "Benjamin C. Lundy to Abraham Lincoln, 20 July 18581 The mass meeting of theRepublicansofPutnam,Marshall, andLa SalleCounties to which weinvitedyou some days ago, and which you signified your intention"
+      },
+      {
+        "id": "D210571_chunk_0",
+        "similarity": 0.3807142674922943,
+        "source_type": "Letter",
+        "date": "1854-10-20",
+        "preview": "Richard L. Wilson to Abraham Lincoln, 20 October 18541 Our folks up this way would be pleased if you could make it convenient to address\n\nthem at\n\nsome time you may name prior to theElection, It would"
+      }
+    ],
+    "evaluation": {
+      "query": "hello",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.7514848709106445,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.38260926604270934,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_120716",
+    "timestamp": "2026-01-31 12:07:16",
+    "query": "exit",
+    "answer": "In response to your query about Lincoln, the relevant documents (Speech (1842-02-22), Letter (1849-06-10)) contain the following information: Theyhave passed that prison wall, which others have long declared impassable; and who that has not, shall dare to weigh opinions withthem, as to the mode of passing Then it is the influence offashion; and what is the influence of fashion, but the influence thatotherpeople’s ,9the strong inclination each of us feels to do as we see all our neighbors. This synthesis incorporates actual phrases and concepts from Lincoln's writings to ensure authenticity while providing meaningful historical insight. [Sources: Speech (1842-02-22), Letter (1849-06-10)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.39621055126190186,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200294_chunk_1",
+        "similarity": 0.39621055126190186,
+        "source_type": "Speech",
+        "date": "1842-02-22",
+        "preview": "On every hand we behold those, who but yesterday, were the chief of\n\nsinners, now the chief apostles of the cause. Drunken devils are cast out by ones,\n\nby sevens, and by legions; and their unfortunat"
+      },
+      {
+        "id": "D210509_chunk_0",
+        "similarity": 0.3843352198600769,
+        "source_type": "Letter",
+        "date": "1849-06-10",
+        "preview": "James M. Davis to Abraham Lincoln, 10 June 18491 I desire that before you leaveWashingtonyou will see what disposition thedepartmentintends making with my application for the Register office–2McLaugli"
+      },
+      {
+        "id": "D206891_chunk_0",
+        "similarity": 0.3849017024040222,
+        "source_type": "Public notice",
+        "date": "1856-02-11",
+        "preview": "Public Notice regarding the Establishment of a Public Road between Springfield and\n\nBeardstown, 1 Notice Public notice is hereby given that at the March term of theCounty CourtofSangamon County, a pet"
+      }
+    ],
+    "evaluation": {
+      "query": "exit",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.35108113288879395,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.3873057246208191,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_120720",
+    "timestamp": "2026-01-31 12:07:20",
+    "query": "exit()",
+    "answer": "In response to your query about Lincoln, the relevant documents (Speech (1842-02-22), Memorandum (1842-09-19)) contain the following information: Theyhave passed that prison wall, which others have long declared impassable; and who that has not, shall dare to weigh opinions withthem, as to the mode of passing Then it is the influence offashion; and what is the influence of fashion, but the influence thatotherpeople’s ,9the strong inclination each of us feels to do as we see all our neighbors. This synthesis incorporates actual phrases and concepts from Lincoln's writings to ensure authenticity while providing meaningful historical insight. [Sources: Speech (1842-02-22), Memorandum (1842-09-19)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.37820297479629517,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200294_chunk_1",
+        "similarity": 0.37820297479629517,
+        "source_type": "Speech",
+        "date": "1842-02-22",
+        "preview": "On every hand we behold those, who but yesterday, were the chief of\n\nsinners, now the chief apostles of the cause. Drunken devils are cast out by ones,\n\nby sevens, and by legions; and their unfortunat"
+      },
+      {
+        "id": "D200314_chunk_0",
+        "similarity": 0.3635198175907135,
+        "source_type": "Memorandum",
+        "date": "1842-09-19",
+        "preview": "Memorandum of Duel Instructions to Elias H. Merryman, 1 In caseWhitesidesshall signify a wish to adjust this affair without further difficulty, let him know\n\nthat if the present papers be withdrawn,^&"
+      },
+      {
+        "id": "D200480_chunk_0",
+        "similarity": 0.3638608455657959,
+        "source_type": "Letter",
+        "date": "1848-04-16",
+        "preview": "Abraham Lincoln to Mary Lincoln, 16 April 18481 In this troublesome world, we are never quite satisfied– When you were here, I thought\n\nyou hindered me some in attending to business; but now, having n"
+      }
+    ]
+  },
+  {
+    "session_id": "session_20260131_122030",
+    "timestamp": "2026-01-31 12:20:30",
+    "query": "Search for letters about military strategy",
+    "answer": "Dear Sir, I write to you regarding matters that weigh heavily upon my mind. In reviewing documents from that era, particularly Letter (1850-02-20), Hardin, 7 February 18461 Your second letter was duly received and, so far as it goes, it is entirely satisfactory–2I had set apart the leisure this day affords, to write you the lo. in consideration of our shared responsibilities, ng letter alluded to by me in my last;3but on going to thePost-office, and seeing the communication in theMorgan Journal, I am almost discouraged of the hope of doing any. I remain, with great respect, your obedient servant, A. Lincoln. [Sources: Letter (1850-02-20), Letter (1846-02-07)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.424798846244812,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200644_chunk_0",
+        "similarity": 0.424798846244812,
+        "source_type": "Letter",
+        "date": "1850-02-20",
+        "preview": "Abraham Lincoln to George W. Crawford, 20 February 18501 CaptKoscialowski, who will present you this letter, is an applicant for an appointment of Major in\n\nthe new Regiments proposed to be raised byc"
+      },
+      {
+        "id": "D200391_chunk_0",
+        "similarity": 0.4189000725746155,
+        "source_type": "Letter",
+        "date": "1846-02-07",
+        "preview": "Abraham Lincoln to John J. Hardin, 7 February 18461 Your second letter was duly received and, so far as it goes, it is entirely satisfactory–2I had set apart the leisure this day affords, to write you"
+      },
+      {
+        "id": "D200490_chunk_0",
+        "similarity": 0.43347615003585815,
+        "source_type": "Letter",
+        "date": "1848-05-25",
+        "preview": "Abraham Lincoln to Silas Noble, 25 May 1848 Your letter of the 16th is just received.1I will place your name on my book, and send you such documents as you desire, when\n\nI can get them. The entire war"
+      }
+    ]
+  },
+  {
+    "session_id": "session_20260131_123115",
+    "timestamp": "2026-01-31 12:31:15",
+    "query": "What challenges did Lincoln face during the Civil War?",
+    "answer": "Based on documents from Abraham Lincoln's collection (Debate (1858-10-15), Speech (1840-05-02), Letter (1858-11-19)), the historical record indicates: Did not disunion raise its monster head during thelast war with Great Britain The peace of this country has been disturbed three times, once during the war withGreat Britain, once on the tariff question, and once on the slavery question (\"Three cheers for Douglas\") His argument, therefore, that slavery is the only question that has ever created dissension in the Union falls to the ground. This information is drawn directly from primary sources dating from 1858-10-15 to provide accurate historical context. [Sources: Debate (1858-10-15), Speech (1840-05-02)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.5410764813423157,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D201122c_chunk_8",
+        "similarity": 0.5410764813423157,
+        "source_type": "Debate",
+        "date": "1858-10-15",
+        "preview": "Lincoln? Did not disunion raise its monster head during thelast war with Great Britain? Was that the slavery question, Mr. Lincoln? The peace of this country has been\n\ndisturbed three times, once duri"
+      },
+      {
+        "id": "D200222_chunk_0",
+        "similarity": 0.525370717048645,
+        "source_type": "Speech",
+        "date": "1840-05-02",
+        "preview": "Summary of Speech at Tremont, Illinois, 2 May 18401 Immediately after dinner, the large Court House was filled to overflowing, and the\n\ndebate was opened by Mr.Lincoln, who after some general and appr"
+      },
+      {
+        "id": "D201144_chunk_0",
+        "similarity": 0.5303781628608704,
+        "source_type": "Letter",
+        "date": "1858-11-19",
+        "preview": "Abraham Lincoln to Henry Asbury, 19 November 18581 Yours of the 13thwas received some days ago– The fight must go on– The cause of civil liberty must\n\nnot be surrendered at the end ofone, or even oneh"
+      }
+    ]
+  },
+  {
+    "session_id": "session_20260131_124339",
+    "timestamp": "2026-01-31 12:43:39",
+    "query": "What did Lincoln say about the Union in 1862?",
+    "answer": "Based on documents from Abraham Lincoln's collection (Speech (1854-09-12), Speech (1856-07-23), Debate (1858-10-15)), the historical record indicates: Lincoln, on the subject that is engaging the attention of the free men of the Union more than any political question that has been agitated for some time, viz: TheNebraska Bill 2The speech was clear and unanswerable, for it was a plain statement of facts, and of sound, strong argument; it was eloquent, for he spoke the deep convictions of truth from a heart warmed with the love of his country, and. This information is drawn directly from primary sources dating from 1854-09-12 to provide accurate historical context. [Sources: Speech (1854-09-12), Speech (1856-07-23)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.5872464776039124,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200799_chunk_0",
+        "similarity": 0.5872464776039124,
+        "source_type": "Speech",
+        "date": "1854-09-12",
+        "preview": "Report of Speech at Bloomington, Illinois, 12 September 18541 Lincoln’s Speech. We had the satisfaction last evening of listening to an address by Hon. A.Lincoln, on the subject that is engaging the a"
+      },
+      {
+        "id": "D200899b_chunk_0",
+        "similarity": 0.5641613602638245,
+        "source_type": "Speech",
+        "date": "1856-07-23",
+        "preview": "Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion. The following, published from the speech of Hon.Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact s"
+      },
+      {
+        "id": "D201122c_chunk_8",
+        "similarity": 0.5740135908126831,
+        "source_type": "Debate",
+        "date": "1858-10-15",
+        "preview": "Lincoln? Did not disunion raise its monster head during thelast war with Great Britain? Was that the slavery question, Mr. Lincoln? The peace of this country has been\n\ndisturbed three times, once duri"
+      }
+    ],
+    "evaluation": {
+      "query": "What did Lincoln say about the Union in 1862?",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.6274888515472412,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.5745057821273803,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_124623",
+    "timestamp": "2026-01-31 12:46:23",
+    "query": "What did Lincoln say about the Union in 1862?",
+    "answer": "Based on documents from Abraham Lincoln's collection (Speech (1854-09-12), Speech (1856-07-23), Debate (1858-10-15)), the historical record indicates: Lincoln, on the subject that is engaging the attention of the free men of the Union more than any political question that has been agitated for some time, viz: TheNebraska Bill 2The speech was clear and unanswerable, for it was a plain statement of facts, and of sound, strong argument; it was eloquent, for he spoke the deep convictions of truth from a heart warmed with the love of his country, and. This information is drawn directly from primary sources dating from 1854-09-12 to provide accurate historical context. [Sources: Speech (1854-09-12), Speech (1856-07-23)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.5872464776039124,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200799_chunk_0",
+        "similarity": 0.5872464776039124,
+        "source_type": "Speech",
+        "date": "1854-09-12",
+        "preview": "Report of Speech at Bloomington, Illinois, 12 September 18541 Lincoln’s Speech. We had the satisfaction last evening of listening to an address by Hon. A.Lincoln, on the subject that is engaging the a"
+      },
+      {
+        "id": "D200899b_chunk_0",
+        "similarity": 0.5641613602638245,
+        "source_type": "Speech",
+        "date": "1856-07-23",
+        "preview": "Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion. The following, published from the speech of Hon.Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact s"
+      },
+      {
+        "id": "D201122c_chunk_8",
+        "similarity": 0.5740135908126831,
+        "source_type": "Debate",
+        "date": "1858-10-15",
+        "preview": "Lincoln? Did not disunion raise its monster head during thelast war with Great Britain? Was that the slavery question, Mr. Lincoln? The peace of this country has been\n\ndisturbed three times, once duri"
+      }
+    ]
+  },
+  {
+    "session_id": "session_20260131_125128",
+    "timestamp": "2026-01-31 12:51:28",
+    "query": "What did Lincoln say about the Union in 1862?",
+    "answer": "Based on documents from Abraham Lincoln's collection (Speech (1854-09-12), Speech (1856-07-23), Debate (1858-10-15)), the historical record indicates: Lincoln, on the subject that is engaging the attention of the free men of the Union more than any political question that has been agitated for some time, viz: TheNebraska Bill 2The speech was clear and unanswerable, for it was a plain statement of facts, and of sound, strong argument; it was eloquent, for he spoke the deep convictions of truth from a heart warmed with the love of his country, and. This information is drawn directly from primary sources dating from 1854-09-12 to provide accurate historical context. [Sources: Speech (1854-09-12), Speech (1856-07-23)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.5872464776039124,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200799_chunk_0",
+        "similarity": 0.5872464776039124,
+        "source_type": "Speech",
+        "date": "1854-09-12",
+        "preview": "Report of Speech at Bloomington, Illinois, 12 September 18541 Lincoln’s Speech. We had the satisfaction last evening of listening to an address by Hon. A.Lincoln, on the subject that is engaging the a"
+      },
+      {
+        "id": "D200899b_chunk_0",
+        "similarity": 0.5641613602638245,
+        "source_type": "Speech",
+        "date": "1856-07-23",
+        "preview": "Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion. The following, published from the speech of Hon.Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact s"
+      },
+      {
+        "id": "D201122c_chunk_8",
+        "similarity": 0.5740135908126831,
+        "source_type": "Debate",
+        "date": "1858-10-15",
+        "preview": "Lincoln? Did not disunion raise its monster head during thelast war with Great Britain? Was that the slavery question, Mr. Lincoln? The peace of this country has been\n\ndisturbed three times, once duri"
+      }
+    ],
+    "evaluation": {
+      "query": "What did Lincoln say about the Union in 1862?",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.4286539554595947,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.5745057821273803,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_125311",
+    "timestamp": "2026-01-31 12:53:11",
+    "query": "What did Lincoln say about the Union",
+    "answer": "Based on documents from Abraham Lincoln's collection (Speech (1854-09-12), Speech (1856-07-23), Speech (1856-07-23)), the historical record indicates: Lincoln, on the subject that is engaging the attention of the free men of the Union more than any political question that has been agitated for some time, viz: TheNebraska Bill 2The speech was clear and unanswerable, for it was a plain statement of facts, and of sound, strong argument; it was eloquent, for he spoke the deep convictions of truth from a heart warmed with the love of his country, and. This information is drawn directly from primary sources dating from 1854-09-12 to provide accurate historical context. [Sources: Speech (1854-09-12), Speech (1856-07-23)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.580146312713623,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200799_chunk_0",
+        "similarity": 0.580146312713623,
+        "source_type": "Speech",
+        "date": "1854-09-12",
+        "preview": "Report of Speech at Bloomington, Illinois, 12 September 18541 Lincoln’s Speech. We had the satisfaction last evening of listening to an address by Hon. A.Lincoln, on the subject that is engaging the a"
+      },
+      {
+        "id": "D200899_chunk_0",
+        "similarity": 0.5523453950881958,
+        "source_type": "Speech",
+        "date": "1856-07-23",
+        "preview": "Report of Speech at Galena, Illinois, 23 July 18561 Lincolnon Disunion. Hon.Abraham Lincolnhits the nail on the head every time, and in this instance it will be seen, he has\n\ndriven it entirely out of"
+      },
+      {
+        "id": "D200899b_chunk_0",
+        "similarity": 0.552031934261322,
+        "source_type": "Speech",
+        "date": "1856-07-23",
+        "preview": "Report of Speech at Galena, Illinois, 23 July 18561 The Cry of Disunion. The following, published from the speech of Hon.Abram LincolnatGalena, and given by theGalena Advertiser, is a true and exact s"
+      }
+    ],
+    "evaluation": {
+      "query": "What did Lincoln say about the Union",
+      "retrieved_count": 5,
+      "relevant_count": 0,
+      "response_time": 0.8221209049224854,
+      "precision_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "average_similarity": 0.566183602809906,
+      "hit_at_5": 0.0
+    }
+  },
+  {
+    "session_id": "session_20260131_125659",
+    "timestamp": "2026-01-31 12:56:59",
+    "query": "“What was Abraham Lincoln’s position on slavery?”",
+    "answer": "Based on documents from Abraham Lincoln's collection (Speech (1856-09-12), Speech (1856-05-29), Speech (1858-09-13)), the historical record indicates: 2He pointed out in regular succession, the several steps taken by theAdministrationin regard to slavery in the Territories, from therepeal of the Missouri Compromisedown to the latestBorder Ruffian invasionofKansas, and the inevitable tendency of each and all of them to effect the spread of slavery over that country; showed the official endorsement of the Administration by theDemocratic partyin th. This information is drawn directly from primary sources dating from 1856-09-12 to provide accurate historical context. [Sources: Speech (1856-09-12), Speech (1856-05-29)]",
+    "query_metadata": {
+      "total_retrieved": 5,
+      "top_similarity": 0.5626717209815979,
+      "retrieved_count": 5
+    },
+    "retrieved_documents_summary": [
+      {
+        "id": "D200917_chunk_0",
+        "similarity": 0.5626717209815979,
+        "source_type": "Speech",
+        "date": "1856-09-12",
+        "preview": "Summary of Speech at Bloomington, Illinois, 12 September 18561 Friday night, a largeRepublicanmeeting was held inMajor’s Hall— a considerable number of ladies present among the rest. Hon.A.Lincolnaddr"
+      },
+      {
+        "id": "D200886_chunk_0",
+        "similarity": 0.5839187502861023,
+        "source_type": "Speech",
+        "date": "1856-05-29",
+        "preview": "Summary of Speech at Bloomington, Illinois, 29 May 18561 Abraham Lincoln, ofSangamon, came upon the platform amid deafening applause.He enumerated the pressing reasons of the present movement. He was "
+      },
+      {
+        "id": "D201103_chunk_0",
+        "similarity": 0.6205152273178101,
+        "source_type": "Speech",
+        "date": "1858-09-13",
+        "preview": "Summary of Speech at Greenville, Illinois, 13 September 18581 According to his appointment, Hon.A.Lincolndelivered a speech inGreenvilleon Monday the 13th inst.—2The most of our readers were present a"
+      }
+    ]
   }
 ]
